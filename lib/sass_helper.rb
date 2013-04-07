@@ -2,6 +2,7 @@ require 'sass'
 
 module Sass::Script::Functions
   FONTS = ["Lobster", "Raleway","Lato","Oleo_Script","Special_Elite","Fredoka_One"]
+  PATTERNS = ["img/bg_stripe.png"]
 
   def getRandomColor(as_str = true)
     if as_str
@@ -19,5 +20,10 @@ module Sass::Script::Functions
   def getRandomPixels
     rpx = rand(40..60)
     Sass::Script::String.new(rpx.to_s + "px")
+  end
+
+  def getRandomPattern
+    pattern = PATTERNS.sample()
+    Sass::Script::String.new(pattern)
   end
 end

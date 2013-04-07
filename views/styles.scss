@@ -59,6 +59,9 @@ h1 {
 
 footer, header {
   background: $btncolor3;
+  background-image: url(getRandomPattern());
   padding: $largespace;
   color: white;
 }
+
+#map { height: 180px; }
