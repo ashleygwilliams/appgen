@@ -1,0 +1,124 @@
+$grey: #363333;
+$darkteal: #007C7C;
+$teal: #00C8C8;
+$yellow: #FFD300;
+$large_space: 20px;
+$small_space: 10px;
+$tiny_space: 5px;
+
+@font-face{
+  font-family: 'Ostrich Light';
+  src: url(/fonts/OstrichLight.ttf);
+}
+
+@font-face{
+  font-family: 'Ostrich Title';
+  src: url(/fonts/OstrichBlack.ttf);
+}
+
+.container-fluid {
+  padding: 40px;
+}
+
+div.kudos {
+  padding: $large_space;
+  margin: $large_space 0px;
+  h1 {
+    color: white;
+    font-family: 'Playfair Display';
+  }
+}
+
+footer {
+  background-color: black; 
+  border-top-style: dotted;
+  color: white;
+  span {
+    font-family: 'Ostrich Light', sans-serif;
+    font-size: 150%;
+    font-style: none;
+    &.date {
+      font-style: italic;
+      color: $yellow;
+    }
+  }
+}
+
+header {
+  border-bottom: dotted white;
+  h3 {
+    font-family: 'Ostrich Title', sans-serif;
+    font-size: 400%;
+    color: $yellow;
+    line-height: 1em;
+  }
+  img {
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: $large_space+$tiny_space;
+  }
+  z-index: -2;
+}
+
+div.pic {
+  position: fixed;
+  bottom: 55px;
+  z-index: -1;
+}
+
+header, footer {
+  left: 0;
+  right: 0;
+  padding: $large_space;
+}
+      /* Sticky footer styles
+      -------------------------------------------------- */
+
+  html,
+  body {
+    height: 100%;
+    /* The html and body elements cannot have any padding or margin. */
+  }
+
+  /* Wrapper for page content to push down footer */
+  #wrap {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    /* Negative indent footer by it's height */
+    margin: 0 auto -60px;
+  }
+
+  /* Set the fixed height of the footer here */
+  #push {
+    height: 60px;
+  }
+
+  /* Lastly, apply responsive CSS fixes as necessary */
+  @media (max-width: 767px) {
+    div.kudos {
+      padding: $small_space;
+      margin: $small_space 0px;
+      h1 {
+        font-size: 30px;
+      }
+    }
+    header {
+      h3 {
+        font-size: 30px;
+      }
+    }
+    footer {
+      font-family: 'Ostrich Title', sans-serif;
+    }
+    footer, header {
+      margin-left: -$large_space;
+      margin-right: -$large_space;
+      padding-left: $large_space;
+      padding-right: $large_space;
+    }
+    div.pic {
+      bottom: -$tiny_space;
+    }
+  }

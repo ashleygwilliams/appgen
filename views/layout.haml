@@ -1,0 +1,28 @@
+!!! 5
+%html
+  %head
+    %title Yer a Good Man, MH
+    %meta{:name => "viewport", :content => "width=device-width, initial-scale=1.0"}
+    %link{ :rel => 'stylesheet', :type => 'text/css', :href => '/css/bootstrap.css' }
+    %link{ :rel => 'stylesheet', :type => 'text/css', :href => '/css/bootstrap-responsive.css' }
+    %link{ :rel => 'stylesheet', :type => 'text/css', :href => '/stylesheet.css' }
+    %link{ :href=>'http://fonts.googleapis.com/css?family=Playfair+Display:900', :rel=>'stylesheet', :type=>'text/css'}
+  - color = Kudos::COLORS.sample
+  %body{:style=>"background-color: #{color}"}
+    #wrap
+      %header
+        %h3.brnd YER A GOOD MAN, MICHAEL HANSEN
+        %a{:href=>""}
+          %img{:src=>'/img/refresh.png'}
+      .container-fluid
+        =yield
+        #push
+      .row-fluid.pic
+        %img.span6.offset6{:src=>"#{Kudos::PICTURES.sample}"}
+    %footer{:style=>"border-color: #{color}"}
+      %span.info a project by michael hansen's girlfriend on the occasion of their first valentine's day
+      %span.date february2013
+    %script{:src => "http://code.jquery.com/jquery-1.9.1.min.js"}
+    %script{:type => "text/javascript", :src  => "/js/bootstrap.js"}
+
+      
