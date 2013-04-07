@@ -49,5 +49,16 @@ body {
 .logo {
   text-align: center;
   font-family: getRandomFont();
+}
+
+h1 {
+  padding: $largespace;
   color: $btncolor1;
+  font-size: getRandomPixels();
+}
+
+footer, header {
+  background: $btncolor3;
+  padding: $largespace;
+  color: white;
 }

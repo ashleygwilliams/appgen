@@ -15,4 +15,9 @@ module Sass::Script::Functions
     font = FONTS.sample()
     Sass::Script::String.new(font)
   end
+
+  def getRandomPixels
+    rpx = rand(40..60)
+    Sass::Script::String.new(rpx.to_s + "px")
+  end
 end
