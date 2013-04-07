@@ -7,7 +7,7 @@ Dir.glob('./lib/*.rb') do |model|
   require model
 end
 
-class YerAGoodManApp < Sinatra::Application
+class BigApp < Sinatra::Application
 
   configure do
     set :root, File.dirname(__FILE__)
@@ -35,4 +35,3 @@ class YerAGoodManApp < Sinatra::Application
     haml haml_file, :layout => false
   end
 end
-
