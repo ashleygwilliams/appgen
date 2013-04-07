@@ -46,6 +46,19 @@ body {
   }
 }
 
+.bttn-back {
+  display: inline;
+  color: $btncolor1;
+  background: white;
+  &:hover{
+    background: $btncolor2;
+    text-decoration: none;
+  }
+  &:visited {
+    color: $btncolor3;
+  }
+}
+
 .logo {
   text-align: center;
   font-family: getRandomFont();

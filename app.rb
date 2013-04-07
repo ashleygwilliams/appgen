@@ -31,6 +31,10 @@ class BigApp < Sinatra::Application
     haml :map
   end
 
+  get '/info' do
+    haml :info
+  end
+
 
   get "/stylesheet.css" do
     scss :styles
