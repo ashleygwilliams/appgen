@@ -1,8 +1,8 @@
-class FakeApp
-
+class FakeApp 
+  include Sass::Script::Functions
   @@current_app = nil
 
-  attr_accessor :name, :dataset
+  attr_accessor :name, :dataset, :font
 
   PREFIXES = ["responsive", "game", "beta", "tech", "digital", "social", "my", "our", "the", "all", "in", "on"]
   SUFFIXES = ["box", "grid", "share", "wise", "hop", "works", "bit", "book", "list", "square", "rock", ".ly", "sy", "er", ".it", "ie", ".io", ".am", "ia", "ora", "ero", "ist", "ism", "ium", "ble", "ify", "ous", "ing"]
@@ -18,6 +18,7 @@ class FakeApp
     @name = self.getRandomName
     @tile_set = FakeApp.getRandomTiles
     @@current_app = self
+    @font = getRandomFont.to_s.split(' ').join('+')
   end
 
   def self.current_app
