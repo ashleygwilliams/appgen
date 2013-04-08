@@ -1,8 +1,6 @@
 class Dataset
   attr_accessor :json_obj, :map_obj
 
-  BASE_URL = "http://localhost:9393/api/base/"
-  MAP_URL = "http://localhost:9393/api/map/"
   DATASET_IDS = ["66zw-pb7t"]
 
   def self.load_random
@@ -12,10 +10,10 @@ class Dataset
   def initialize(id)
     @id = id
 
-    json_txt = Dataset.load_url(base_url)
+    json_txt = Dataset.load_file('base', @id)
     @json_obj = MultiJson.decode(json_txt)
 
-    json_txt = Dataset.load_url(map_url)
+    json_txt = Dataset.load_file('map', @id)
     @map_obj = MultiJson.decode(json_txt)
   end
 
@@ -35,11 +33,9 @@ class Dataset
 
   private
 
-  def self.load_url(url)
-    puts url
-    res = Typhoeus.get(url)
-    puts res.body
-    res.body
+  def self.load_file(type, id)
+    filename = File.join('data', type, "#{id}.json")
+    File.open(filename, 'r').read
   end
 
 end
