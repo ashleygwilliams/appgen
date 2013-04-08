@@ -1,7 +1,5 @@
 = partial(:_nav)
 %h1 about us
-%h2 overview
-%p= @app.dataset.overview(@app.name)
-%h2 how it works
-%p= @app.dataset.how_it_works
+- @app.dataset.overview(@app.name).each do |text|
+	%p #{text}	
 
