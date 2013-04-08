@@ -4,7 +4,6 @@ class FakeApp
 
   attr_accessor :name, :dataset
 
-  SUBJECTS = ["bike", "healthy", "learning", "NYC", "green", "democracy"]
   PREFIXES = ["responsive", "game", "beta", "tech", "digital", "social", "my", "our", "the", "all", "in", "on"]
   SUFFIXES = ["box", "grid", "share", "wise", "hop", "works", "bit", "book", "list", "square", "rock", ".ly", "sy", "er", ".it", "ie", ".io", ".am", "ia", "ora", "ero", "ist", "ism", "ium", "ble", "ify", "ous", "ing"]
   TILE_LAYERS = ["'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {attribution: 'OpenStreetMap'}",
@@ -14,8 +13,9 @@ class FakeApp
   ]
 
   def initialize
-    @name = FakeApp.getRandomName
     @dataset = Dataset.load_random
+    @subjects = self.dataset.json_obj["tags"]
+    @name = self.getRandomName
     @tile_set = FakeApp.getRandomTiles
     @@current_app = self
   end
@@ -24,11 +24,11 @@ class FakeApp
     @@current_app
   end
 
-  def self.getRandomName
+  def getRandomName
     if rand > 0.7
-      PREFIXES.sample + SUBJECTS.sample
+      PREFIXES.sample + @subjects.sample
     else
-      SUBJECTS.sample + SUFFIXES.sample
+      @subjects.sample + SUFFIXES.sample
     end
   end
 
