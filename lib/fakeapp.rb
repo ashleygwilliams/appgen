@@ -18,7 +18,7 @@ class FakeApp
     @name = self.getRandomName
     @tile_set = FakeApp.getRandomTiles
     @@current_app = self
-    @font = getRandomFont.to_s.split(' ').join('+')
+    @font = getRandomFont.to_s.gsub(/ /, "+")
   end
 
   def self.current_app
