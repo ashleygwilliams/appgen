@@ -11,11 +11,11 @@ class Dataset
     @id = id
 
     json_txt = Dataset.load_file('base', @id)
-    /@json_obj = MultiJson.decode(json_txt)/
+    @json_robj = MultiJson.decode(json_txt)
     @json_obj = json_txt;
 
     json_txt = Dataset.load_file('map', @id)
-    /@map_obj = MultiJson.decode(json_txt)/
+    @map_robj = MultiJson.decode(json_txt)
     @map_obj = json_txt;
   end
 
@@ -28,8 +28,8 @@ class Dataset
   end
 
   def overview(app_name)
-    ["#{app_name} is a way to visualize data related to #{@json_obj["category"].downcase}.",
-    "Using the #{@json_obj["description"].downcase}, we overlayed #{@json_obj["name"]} onto a map.",
+    ["#{app_name} is a way to visualize data related to #{@json_robj["category"].downcase}.",
+    "Using the #{@json_robj["description"].downcase}, we overlayed #{@json_robj["name"]} onto a map.",
     "Submitted to NYC BigApps 3.0 2013"]
   end
 
