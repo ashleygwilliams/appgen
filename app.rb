@@ -24,14 +24,17 @@ class BigApp < Sinatra::Application
   end
 
   get '/' do
+    @app = FakeApp.new
     haml :index
   end
 
   get '/map' do
+    @app = FakeApp.new
     haml :map
   end
 
   get '/info' do
+    @app = FakeApp.new
     haml :info
   end
 

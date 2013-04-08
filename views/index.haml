@@ -1,5 +1,5 @@
 .logo
-  %h1 #{FakeApp.getRandomName}
+  %h1 #{@app.name}
 .navi
   %a{:class=>"bttn bttn-primary", :href=>"/map"} #{Thesaurus::VIEW.sample.capitalize} Map
   %a{:class=>"bttn bttn-primary", :href=>"#"} #{Thesaurus::CONTACT.sample.capitalize}
