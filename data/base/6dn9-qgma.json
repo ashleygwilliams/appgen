@@ -1,0 +1,182 @@
+{
+  "id" : "6dn9-qgma",
+  "name" : "Active Uniform Staff By Rank And Gender",
+  "attribution" : "Department of Correction (DOC)",
+  "attributionLink" : "http://www.nyc.gov/html/doc/html/about/032812DOC_at_a_Glance_single_page.pdf",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1362581275,
+  "description" : "This table represents the percentage of active Uniform Staff by Rank and Gender.",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "numberOfComments" : 0,
+  "oid" : 2730427,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362581415,
+  "publicationGroup" : 717610,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1362581277,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 717610,
+  "totalTimesRated" : 0,
+  "viewCount" : 6,
+  "viewLastModified" : 1362582656,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 48786872,
+    "name" : "Rank",
+    "dataTypeName" : "text",
+    "fieldName" : "rank",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8400139,
+    "width" : 158,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "Assistant Deputy Warden",
+      "null" : 0,
+      "largest" : "Warden",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Correction Officer"
+      }, {
+        "count" : 19,
+        "item" : "Captain"
+      }, {
+        "count" : 18,
+        "item" : "Assistant Deputy Warden"
+      }, {
+        "count" : 17,
+        "item" : "Deputy Warden"
+      }, {
+        "count" : 16,
+        "item" : "Deputy Warden in Command"
+      }, {
+        "count" : 15,
+        "item" : "Warden"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48786873,
+    "name" : "Male",
+    "dataTypeName" : "percent",
+    "fieldName" : "male",
+    "position" : 2,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 8400140,
+    "width" : 68,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "24",
+      "sum" : "220",
+      "null" : 0,
+      "average" : "36.66666666666667",
+      "largest" : "51",
+      "top" : [ {
+        "count" : 20,
+        "item" : "45"
+      }, {
+        "count" : 19,
+        "item" : "51"
+      }, {
+        "count" : 18,
+        "item" : "38"
+      }, {
+        "count" : 17,
+        "item" : "24"
+      }, {
+        "count" : 16,
+        "item" : "33"
+      }, {
+        "count" : 15,
+        "item" : "29"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48786874,
+    "name" : "Female",
+    "dataTypeName" : "percent",
+    "fieldName" : "female",
+    "position" : 3,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 8400141,
+    "width" : 110,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "49",
+      "sum" : "381",
+      "null" : 0,
+      "average" : "63.5",
+      "largest" : "76",
+      "top" : [ {
+        "count" : 20,
+        "item" : "55"
+      }, {
+        "count" : 19,
+        "item" : "49"
+      }, {
+        "count" : 18,
+        "item" : "63"
+      }, {
+        "count" : 17,
+        "item" : "76"
+      }, {
+        "count" : 16,
+        "item" : "67"
+      }, {
+        "count" : 15,
+        "item" : "71"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "department of correction", "doc", "rank", "warden", "deputy", "male", "female" ],
+  "flags" : [ "default" ]
+}

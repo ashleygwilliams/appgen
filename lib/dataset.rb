@@ -1,7 +1,7 @@
 class Dataset
   attr_accessor :json_obj, :map_obj
 
-  DATASET_IDS = ["66zw-pb7t"]
+  DATASET_IDS = ["66zw-pb7t","44yz-sz5t","66zw-pb7t","66w5-fdhb","6bzx-emuu"]
 
   def self.load_random
     Dataset.new(DATASET_IDS.sample)

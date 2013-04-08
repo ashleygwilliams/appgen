@@ -1,0 +1,1301 @@
+{
+  "id" : "m3fi-rt3k",
+  "name" : "New York City Council Discretionary Funding (2009-2013)",
+  "attribution" : "City Council (NYCC)",
+  "averageRating" : 0,
+  "category" : "Finances",
+  "createdAt" : 1344022559,
+  "description" : "This dataset reflects applications for discretionary funding to be allocated by the New York City Council between the years 2009 and 2013.",
+  "displayType" : "table",
+  "downloadCount" : 108,
+  "numberOfComments" : 0,
+  "oid" : 940364,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1344029045,
+  "publicationGroup" : 395445,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1344023633,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 395445,
+  "totalTimesRated" : 0,
+  "viewCount" : 574,
+  "viewLastModified" : 1360951485,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 14863982,
+    "name" : "Fiscal Year",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 3689263,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 17496,
+      "smallest" : "2009",
+      "sum" : "35198596",
+      "null" : 0,
+      "average" : "2011.808184727938",
+      "largest" : "2013",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2009"
+      }, {
+        "count" : 19,
+        "item" : "2010"
+      }, {
+        "count" : 18,
+        "item" : "2011"
+      }, {
+        "count" : 17,
+        "item" : "2012"
+      }, {
+        "count" : 16,
+        "item" : "2013"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 14863983,
+    "name" : "Source",
+    "dataTypeName" : "text",
+    "fieldName" : "source",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3689264,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 17496,
+      "smallest" : "Additional Child Care Classroom Restoration",
+      "null" : 0,
+      "largest" : "Youth Violence Initiative",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Local"
+      }, {
+        "count" : 19,
+        "item" : "Aging"
+      }, {
+        "count" : 18,
+        "item" : "Youth"
+      }, {
+        "count" : 17,
+        "item" : "Elected Officials"
+      }, {
+        "count" : 16,
+        "item" : "IOI"
+      }, {
+        "count" : 15,
+        "item" : "Autism Awareness"
+      }, {
+        "count" : 14,
+        "item" : "CASA"
+      }, {
+        "count" : 13,
+        "item" : "Transportation - Operating Costs"
+      }, {
+        "count" : 12,
+        "item" : "Food Pantries"
+      }, {
+        "count" : 11,
+        "item" : "Boro"
+      }, {
+        "count" : 10,
+        "item" : "Adult Literacy"
+      }, {
+        "count" : 9,
+        "item" : "Community Consultants"
+      }, {
+        "count" : 8,
+        "item" : "Infant Mortality Reduction"
+      }, {
+        "count" : 7,
+        "item" : "HIV/AIDS Faith Based Initiative"
+      }, {
+        "count" : 6,
+        "item" : "Cultural After-School Adventure (CASA) "
+      }, {
+        "count" : 5,
+        "item" : "Immigrant Opportunities Initiative"
+      }, {
+        "count" : 4,
+        "item" : "Infant Mortality Reduction Initiative"
+      }, {
+        "count" : 3,
+        "item" : "Food Pantries-DYCD"
+      }, {
+        "count" : 2,
+        "item" : "Domestic Violence and Empowerment (DoVE) Initiative"
+      }, {
+        "count" : 1,
+        "item" : "Adult Literacy Services Initiative"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 14863984,
+    "name" : "Council Member",
+    "dataTypeName" : "text",
+    "fieldName" : "council_member",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3689265,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 14881,
+      "smallest" : "Addabbo, Jr",
+      "null" : 2615,
+      "largest" : "Yassky",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Oddo"
+      }, {
+        "count" : 19,
+        "item" : "Recchia"
+      }, {
+        "count" : 18,
+        "item" : "Dickens"
+      }, {
+        "count" : 17,
+        "item" : "CC"
+      }, {
+        "count" : 16,
+        "item" : "Gentile"
+      }, {
+        "count" : 15,
+        "item" : "Comrie"
+      }, {
+        "count" : 14,
+        "item" : "Jackson"
+      }, {
+        "count" : 13,
+        "item" : "Quinn"
+      }, {
+        "count" : 12,
+        "item" : "Rose"
+      }, {
+        "count" : 11,
+        "item" : "Levin"
+      }, {
+        "count" : 10,
+        "item" : "Brewer"
+      }, {
+        "count" : 9,
+        "item" : "Palma"
+      }, {
+        "count" : 8,
+        "item" : "Chin"
+      }, {
+        "count" : 7,
+        "item" : "Eugene"
+      }, {
+        "count" : 6,
+        "item" : "Fidler"
+      }, {
+        "count" : 5,
+        "item" : "Williams"
+      }, {
+        "count" : 4,
+        "item" : "Rodriguez"
+      }, {
+        "count" : 3,
+        "item" : "Mendez"
+      }, {
+        "count" : 2,
+        "item" : "James"
+      }, {
+        "count" : 1,
+        "item" : "Lander"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 14863985,
+    "name" : "Legal Name",
+    "dataTypeName" : "text",
+    "fieldName" : "legal_name",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3689266,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 17496,
+      "smallest" : "100th Precinct Community Council, Inc.",
+      "null" : 0,
+      "largest" : "Zimmer Club Youth Conservation Program of Staten Island, Inc.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New York Junior Tennis League, Inc."
+      }, {
+        "count" : 19,
+        "item" : "Young Mens Christian Association of Greater New York"
+      }, {
+        "count" : 18,
+        "item" : "New York State Tenants and Neighbors Information Service, Inc."
+      }, {
+        "count" : 17,
+        "item" : "New York City Housing Authority"
+      }, {
+        "count" : 16,
+        "item" : "Trinity Healing Center, Inc."
+      }, {
+        "count" : 15,
+        "item" : "Violence Intervention Program "
+      }, {
+        "count" : 14,
+        "item" : "Legal Information for Families Today (LIFT)"
+      }, {
+        "count" : 13,
+        "item" : "Sanctuary for Families"
+      }, {
+        "count" : 12,
+        "item" : "HOPE Program, Inc., The"
+      }, {
+        "count" : 11,
+        "item" : "Neighborhood Defender Service, Inc."
+      }, {
+        "count" : 10,
+        "item" : "Queensboro Council for Social Welfare, Inc."
+      }, {
+        "count" : 9,
+        "item" : "Public Administrator (Bk)"
+      }, {
+        "count" : 8,
+        "item" : "Public Administrator (Qu)"
+      }, {
+        "count" : 7,
+        "item" : "Public Administrator (SI)"
+      }, {
+        "count" : 6,
+        "item" : "Public Administrator - Richmond County"
+      }, {
+        "count" : 5,
+        "item" : "Queens Borough Public Library"
+      }, {
+        "count" : 4,
+        "item" : "Queens Community Board #6"
+      }, {
+        "count" : 3,
+        "item" : "Borough President-Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 14863986,
+    "name" : "EIN",
+    "dataTypeName" : "text",
+    "fieldName" : "ein",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3689267,
+    "width" : 136,
+    "cachedContents" : {
+      "non_null" : 17455,
+      "smallest" : "010137770",
+      "null" : 41,
+      "largest" : "NA",
+      "top" : [ {
+        "count" : 20,
+        "item" : "13-6400434"
+      }, {
+        "count" : 19,
+        "item" : "136400434-"
+      }, {
+        "count" : 18,
+        "item" : "136400434"
+      }, {
+        "count" : 17,
+        "item" : "237442256"
+      }, {
+        "count" : 16,
+        "item" : "113112635"
+      }, {
+        "count" : 15,
+        "item" : "131624228"
+      }, {
+        "count" : 14,
+        "item" : "141761209"
+      }, {
+        "count" : 13,
+        "item" : "135562265-"
+      }, {
+        "count" : 12,
+        "item" : "135675643"
+      }, {
+        "count" : 11,
+        "item" : "133268539"
+      }, {
+        "count" : 10,
+        "item" : "133910567"
+      }, {
+        "count" : 9,
+        "item" : "161759590"
+      }, {
+        "count" : 8,
+        "item" : "132600199"
+      }, {
+        "count" : 7,
+        "item" : "061296692"
+      }, {
+        "count" : 6,
+        "item" : "311702032"
+      }, {
+        "count" : 5,
+        "item" : "112245967"
+      }, {
+        "count" : 4,
+        "item" : "111817497"
+      }, {
+        "count" : 3,
+        "item" : "132997301"
+      }, {
+        "count" : 2,
+        "item" : "203235905"
+      }, {
+        "count" : 1,
+        "item" : "133540337"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 14863987,
+    "name" : "Status",
+    "dataTypeName" : "text",
+    "fieldName" : "status",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3689268,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 17496,
+      "smallest" : "CBO Defunded",
+      "null" : 0,
+      "largest" : "Pending FC Clearance",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Cleared"
+      }, {
+        "count" : 19,
+        "item" : "Pending"
+      }, {
+        "count" : 18,
+        "item" : "Government"
+      }, {
+        "count" : 17,
+        "item" : "Pending FC Clearance"
+      }, {
+        "count" : 16,
+        "item" : "CBO Defunded"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 14863988,
+    "name" : "Amount",
+    "dataTypeName" : "money",
+    "fieldName" : "amount",
+    "position" : 8,
+    "renderTypeName" : "money",
+    "tableColumnId" : 3689269,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 17496,
+      "smallest" : "0",
+      "sum" : "1292471856.81",
+      "null" : 0,
+      "average" : "73872.41979938272",
+      "largest" : "50650100",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3500.00"
+      }, {
+        "count" : 19,
+        "item" : "5000.00"
+      }, {
+        "count" : 18,
+        "item" : "10000.00"
+      }, {
+        "count" : 17,
+        "item" : "20000.00"
+      }, {
+        "count" : 16,
+        "item" : "6100.48"
+      }, {
+        "count" : 15,
+        "item" : "3500"
+      }, {
+        "count" : 14,
+        "item" : "5000"
+      }, {
+        "count" : 13,
+        "item" : "10000"
+      }, {
+        "count" : 12,
+        "item" : "20000"
+      }, {
+        "count" : 11,
+        "item" : "3000"
+      }, {
+        "count" : 10,
+        "item" : "15000"
+      }, {
+        "count" : 9,
+        "item" : "4000"
+      }, {
+        "count" : 8,
+        "item" : "6000"
+      }, {
+        "count" : 7,
+        "item" : "7500"
+      }, {
+        "count" : 6,
+        "item" : "25000"
+      }, {
+        "count" : 5,
+        "item" : "8000"
+      }, {
+        "count" : 4,
+        "item" : "7000"
+      }, {
+        "count" : 3,
+        "item" : "50000"
+      }, {
+        "count" : 2,
+        "item" : "1000"
+      }, {
+        "count" : 1,
+        "item" : "2000"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 14863989,
+    "name" : "Agency",
+    "dataTypeName" : "text",
+    "fieldName" : "agency",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3689270,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 17496,
+      "smallest" : "ACS",
+      "null" : 0,
+      "largest" : "SICB",
+      "top" : [ {
+        "count" : 20,
+        "item" : "DOE"
+      }, {
+        "count" : 19,
+        "item" : "DFTA"
+      }, {
+        "count" : 18,
+        "item" : "CUNY"
+      }, {
+        "count" : 17,
+        "item" : "DYCD"
+      }, {
+        "count" : 16,
+        "item" : "MISC"
+      }, {
+        "count" : 15,
+        "item" : "BXCB"
+      }, {
+        "count" : 14,
+        "item" : "BKCB"
+      }, {
+        "count" : 13,
+        "item" : "DSBS"
+      }, {
+        "count" : 12,
+        "item" : "DPR"
+      }, {
+        "count" : 11,
+        "item" : "DCA"
+      }, {
+        "count" : 10,
+        "item" : "DOHMH"
+      }, {
+        "count" : 9,
+        "item" : "DSNY"
+      }, {
+        "count" : 8,
+        "item" : "HHC"
+      }, {
+        "count" : 7,
+        "item" : "MNCB"
+      }, {
+        "count" : 6,
+        "item" : "QNCB"
+      }, {
+        "count" : 5,
+        "item" : "DSS"
+      }, {
+        "count" : 4,
+        "item" : "DOITT"
+      }, {
+        "count" : 3,
+        "item" : "ACS"
+      }, {
+        "count" : 2,
+        "item" : "HPD"
+      }, {
+        "count" : 1,
+        "item" : "FDNY"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 14863990,
+    "name" : "Program Name",
+    "dataTypeName" : "text",
+    "fieldName" : "program_name",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3689271,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 2703,
+      "smallest" : " ",
+      "null" : 14793,
+      "largest" : "Youth Volunteer Internship Program",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Home Delivered Meals"
+      }, {
+        "count" : 19,
+        "item" : "Penny Harvest"
+      }, {
+        "count" : 18,
+        "item" : "Safe Schools Program"
+      }, {
+        "count" : 17,
+        "item" : "Fresh Start Program"
+      }, {
+        "count" : 16,
+        "item" : "STARS Series Program"
+      }, {
+        "count" : 15,
+        "item" : "Troop 20 Boy Scouts of America"
+      }, {
+        "count" : 14,
+        "item" : "Sacred Heart Youth Program"
+      }, {
+        "count" : 13,
+        "item" : "Youth Tennis Academy"
+      }, {
+        "count" : 12,
+        "item" : "Sports Program"
+      }, {
+        "count" : 11,
+        "item" : "Sports Program CYO"
+      }, {
+        "count" : 10,
+        "item" : "Sports and Recreation Youth Program"
+      }, {
+        "count" : 9,
+        "item" : "Tanima Youth Program"
+      }, {
+        "count" : 8,
+        "item" : "Group Mentoring Program"
+      }, {
+        "count" : 7,
+        "item" : "Y After School program"
+      }, {
+        "count" : 6,
+        "item" : "Fire Company Restoration"
+      }, {
+        "count" : 5,
+        "item" : "Lower Manhattan Justice Project"
+      }, {
+        "count" : 4,
+        "item" : "Vladeck Houses"
+      }, {
+        "count" : 3,
+        "item" : "Astoria Senior Center"
+      }, {
+        "count" : 2,
+        "item" : "Meltzer Houses"
+      }, {
+        "count" : 1,
+        "item" : "Bland House Resident Association"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 14863991,
+    "name" : "Street Address 1",
+    "dataTypeName" : "text",
+    "fieldName" : "street_address_1",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3689272,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 16426,
+      "smallest" : "100-00 Beach Channel Drive",
+      "null" : 1070,
+      "largest" : "West Side Community Garden",
+      "top" : [ {
+        "count" : 20,
+        "item" : "58-12 Queens Blvd Suite 1"
+      }, {
+        "count" : 19,
+        "item" : "58-12 Queens Blvd"
+      }, {
+        "count" : 18,
+        "item" : "5 West 63rd Street 6th Floor"
+      }, {
+        "count" : 17,
+        "item" : "236 West 27th Street"
+      }, {
+        "count" : 16,
+        "item" : "P.O. Box 1406, Wall Street Station"
+      }, {
+        "count" : 15,
+        "item" : "One Smith Street"
+      }, {
+        "count" : 14,
+        "item" : "350 Broadway Suite 501"
+      }, {
+        "count" : 13,
+        "item" : "40 Worth Street"
+      }, {
+        "count" : 12,
+        "item" : "317 Lenox Avenue"
+      }, {
+        "count" : 11,
+        "item" : "27-40 Hoyt Avenue South"
+      }, {
+        "count" : 10,
+        "item" : "130 Stuyvesant Place, Suite 402"
+      }, {
+        "count" : 9,
+        "item" : "104-01 Metropolitan Avenue"
+      }, {
+        "count" : 8,
+        "item" : "10 Richmond Terrace"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 14863992,
+    "name" : "Street Address 2",
+    "dataTypeName" : "text",
+    "fieldName" : "street_address_2",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3689273,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 2693,
+      "smallest" : " ",
+      "null" : 14803,
+      "largest" : "Woodside",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3rd Floor"
+      }, {
+        "count" : 19,
+        "item" : "6th Floor"
+      }, {
+        "count" : 18,
+        "item" : "2nd Floor"
+      }, {
+        "count" : 17,
+        "item" : "5th Floor"
+      }, {
+        "count" : 16,
+        "item" : "21st Floor"
+      }, {
+        "count" : 15,
+        "item" : "4th Floor"
+      }, {
+        "count" : 14,
+        "item" : "520 Eighth Avenue 2nd Floor"
+      }, {
+        "count" : 13,
+        "item" : "Suite 902"
+      }, {
+        "count" : 12,
+        "item" : "Suite 301"
+      }, {
+        "count" : 11,
+        "item" : "Suite 1102"
+      }, {
+        "count" : 10,
+        "item" : "Suite 702"
+      }, {
+        "count" : 9,
+        "item" : "Apt 4C"
+      }, {
+        "count" : 8,
+        "item" : "Suite 2027"
+      }, {
+        "count" : 7,
+        "item" : "Suite 1"
+      }, {
+        "count" : 6,
+        "item" : "Snug Harbor Cultural Center"
+      }, {
+        "count" : 5,
+        "item" : "Suite 305"
+      }, {
+        "count" : 4,
+        "item" : "PO Box 640181"
+      }, {
+        "count" : 3,
+        "item" : "4th floor"
+      }, {
+        "count" : 2,
+        "item" : "suite 11A"
+      }, {
+        "count" : 1,
+        "item" : "New York"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 14863993,
+    "name" : "Zip Code",
+    "dataTypeName" : "number",
+    "fieldName" : "zip_code",
+    "position" : 13,
+    "renderTypeName" : "number",
+    "tableColumnId" : 3689274,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 14368,
+      "smallest" : "1001",
+      "sum" : "153226654.00",
+      "null" : 3128,
+      "average" : "10664.43861358575",
+      "largest" : "113359",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10001"
+      }, {
+        "count" : 19,
+        "item" : "11201"
+      }, {
+        "count" : 18,
+        "item" : "10018"
+      }, {
+        "count" : 17,
+        "item" : "10010"
+      }, {
+        "count" : 16,
+        "item" : "10038"
+      }, {
+        "count" : 15,
+        "item" : "11377"
+      }, {
+        "count" : 14,
+        "item" : "10023"
+      }, {
+        "count" : 13,
+        "item" : "10024"
+      }, {
+        "count" : 12,
+        "item" : "11221"
+      }, {
+        "count" : 11,
+        "item" : "11206"
+      }, {
+        "count" : 10,
+        "item" : "10007"
+      }, {
+        "count" : 9,
+        "item" : "10013"
+      }, {
+        "count" : 8,
+        "item" : "10026"
+      }, {
+        "count" : 7,
+        "item" : "11207"
+      }, {
+        "count" : 6,
+        "item" : "10027"
+      }, {
+        "count" : 5,
+        "item" : "11226"
+      }, {
+        "count" : 4,
+        "item" : "10301"
+      }, {
+        "count" : 3,
+        "item" : "11433"
+      }, {
+        "count" : 2,
+        "item" : "11432"
+      }, {
+        "count" : 1,
+        "item" : "11428"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 14863994,
+    "name" : "Purpose of Funds",
+    "dataTypeName" : "text",
+    "fieldName" : "purpose_of_funds",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3689275,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 14818,
+      "smallest" : "_x000D_\nMASK (Mothers and Fathers Aligned Saving Kids) Inc. will provide the following services to the parents of youth who are deemed to be “At-Risk” and to the youth themselves._x000D_\n_x000D_\n1. Community Outreach – MASK will facilitate a series of seminars and community meetings on subjects related to the recognition of youth who are engaging in self destructive behavior and what can be done to mitigate the effect of this behavior on the structure of the family._x000D_\n_x000D_\n2. Parenting Skills Workshops / Support Groups – MASK will facilitate a series of workshops / parent support groups designed to enhance the parenting skills of guardians / caregivers of “At-Risk” youth. These workshops will deliver to the guardians / caregivers the tools to engage their youth in a positive manner. These seminars / group sessions will be around three basic issues; Eating Disorders, Molestation and “At-Risk” behavior._x000D_\n_x000D_\n3. GED Classes – Pre GED and GED classes for youth who are no longer attending school._x000D_\n_x000D_\nThese services are targeted to the neighborhoods known as Boro Park, Flatbush, Midwood, Sheepshead Bay and Brighton Beach, and are also known as Community Boards 12, 13, 14 and 15.\nThis funding will be utilized to pay for the staff necessary to provide the services. The staff will consist of a group of trained facilitators who will deliver the program as well as program supervision and advertisement / outreach to the community and printed materials for the program participants. Additionally GED classes will be funded through this contract; these classes will allow the youth participants to prepare for the GED examination._x000D_\n_x000D_\nMASK (Mothers and Fathers Aligned Saving Kids) is a 501 ( c ) 3 non profit organization dedicated to providing services to the families of “At-Risk” youth who reside in NY State in a holistic as well as culturally sensitive manner. These services are provided in a manner that allows the client to maintain their self-respect and standing in the community.  All interactions betw",
+      "null" : 2678,
+      "largest" : "•\tPublic Awareness/Patient Services  Education:\r\nSupport Services:\r\nThe S.L.E. Lupus Foundation provides one-on-one counseling and crisis intervention to assist those coping with the affects of this debilitating disease.  Both clinical and peer-led support groups are available to allow safe venues for information and sharing.  These services will be made available to a minimum of 800 lupus patients and their family members.  Referrals are made to local hospitals, physicians, clinics and much needed social services, benefits and entitlements (public health insurance, social security disability, etc.)\r\n\r\nPatient Education\r\nThe Foundation utilizes multilingual, culturally appropriate educational seminars and materials-from Spanish and Creole physician led seminars to informational newsletters, web-based materials, public education and other services to provide the latest on lupus, its management and new treatments.  \r\n\r\nEmergency Grants:\r\nThe S.L.E. Lupus Foundation offers grants for health related expenses, enrichment activities, and daily living necessities through the Lupus Emergency Grant Program (LEG) and its Let Kids be Kids Program (LKBK).  For those living with lupus most in need, grants cover the purchase of lupus-related medications, medical equipment and clothing needed to accommodate the significant weight fluctuations associated with corticosteroid use.  Children suffering from lupus face a difficult life; the LKBK program was established to address the social, psychological and physical needs of these children.  Grant requests have increased over the past year by 25 while grant distribution has been reduced by 80 due to loss of funding.\r\n\r\n•\tMulticultural Outreach and Assistance\r\nBlack, Hispanic and Asian women tend to develop lupus at a younger age, experience more serious complications, and have higher mortality rates—up to three times the incidence and mortality of Caucasians.  Lack of education, diagnosis, and safe treatment of lupus is a growing health prob",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Senior Center transportation costs"
+      }, {
+        "count" : 19,
+        "item" : "Funds will provide the enrichment and expansion of the free NY City Council Sports and Arts Summer Camp Program and After-School Sports Leagues to NYC youth."
+      }, {
+        "count" : 18,
+        "item" : "The Community Consultant program allows neighborhood-based groups to provide the following services: tenant organization; code enforcement advocacy; housing court assistance; apartment repossession; and other housing-related public education.    "
+      }, {
+        "count" : 17,
+        "item" : "This initiative allows neighborhood-based groups to design and implement a grassroots-based approach to the most critical threat to affordable housing in their individual community. "
+      }, {
+        "count" : 16,
+        "item" : "Legal services and advocacy "
+      }, {
+        "count" : 15,
+        "item" : "To Support Family Day Activities"
+      }, {
+        "count" : 14,
+        "item" : "Funding would provide support for tenant activities."
+      }, {
+        "count" : 13,
+        "item" : "Funding would provide support for family day programming."
+      }, {
+        "count" : 12,
+        "item" : "Funds will be used for back to schools supplies, food, health care information, activities for the children."
+      }, {
+        "count" : 11,
+        "item" : "The provision of alternative-to-incarceration services for defendants facing incarceration, including youth, women, and individuals with mental illness and/or substance abuse issues. "
+      }, {
+        "count" : 10,
+        "item" : "To provide Brooklyn residents with work readiness training and job placement and serve hundreds of additional men and women, helping them to retain and advance in their positions.\rTo address students basic needs, HOPE provides on-site breakfast and lunch, Metrocards, as well as professional attire during the training and job search phases of programming."
+      }, {
+        "count" : 9,
+        "item" : "Funds will be used to provide events and trainings regarding Domestic Violence for professional social service providers and educators."
+      }, {
+        "count" : 8,
+        "item" : "The provision of legal services for indigent persons"
+      }, {
+        "count" : 7,
+        "item" : "The provision of community based services for victims of domestic violence"
+      }, {
+        "count" : 6,
+        "item" : "Assigned Domestic Violence Counsel (ADVC Program"
+      }, {
+        "count" : 5,
+        "item" : "To support our Family Legal Center (FLC. The center provides individualized legal information and support to low income parents and grandparents with child support, custody and visitation cases."
+      }, {
+        "count" : 4,
+        "item" : "NDS represents hundreds of clients with psychiatric disabilities each year. NDS seeks funding for a staff lawyer who will represent mentally ill clients in jail to combat civil legal consequences of contact with the criminal justice system. Funding will be used for compensation, fringe benefits and OTPS costs."
+      }, {
+        "count" : 3,
+        "item" : "The provision of community based services for victims of sexual assault "
+      }, {
+        "count" : 2,
+        "item" : "The provision of legal assistance to persons eligible for unemployment insurance/supplemental security income benefits "
+      }, {
+        "count" : 1,
+        "item" : "Funding for Burial services for Indigent Staten Island residents."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 14863995,
+    "name" : "Fiscal Conduit Name",
+    "dataTypeName" : "text",
+    "fieldName" : "fiscal_conduit_name",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3689276,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 229,
+      "smallest" : "Addie Mae Collins Community Service",
+      "null" : 17267,
+      "largest" : "Wayside Out-Reach Development, Inc.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Community District 22/Region 6"
+      }, {
+        "count" : 19,
+        "item" : "Bedford Stuyvesant Restoration Corporation"
+      }, {
+        "count" : 18,
+        "item" : "Safe Horizon, Inc."
+      }, {
+        "count" : 17,
+        "item" : "St. Rosalia-Regina Pacis Neighborhood Improvement Association, Inc."
+      }, {
+        "count" : 16,
+        "item" : "Research Foundation of the City University of New York"
+      }, {
+        "count" : 15,
+        "item" : "City Univeristy of New York School of Law Foundation, Inc., The"
+      }, {
+        "count" : 14,
+        "item" : "United Activities Unlimited, Inc. "
+      }, {
+        "count" : 13,
+        "item" : "Fort Greene Senior Citizens Council, Inc."
+      }, {
+        "count" : 12,
+        "item" : "Maspeth Town Hall, Inc."
+      }, {
+        "count" : 11,
+        "item" : "East New York Kidspower, Inc."
+      }, {
+        "count" : 10,
+        "item" : "Neighborhood Initiatives Development Corporation (NIDC)"
+      }, {
+        "count" : 9,
+        "item" : "Jewish Community Council of Greater Coney Island, Inc."
+      }, {
+        "count" : 8,
+        "item" : "Bay Ridge Bensonhurst Beautification and Preservation Alliance, Inc."
+      }, {
+        "count" : 7,
+        "item" : "United Activities Unlimited, Inc."
+      }, {
+        "count" : 6,
+        "item" : "Jewish Community Center of Staten Island, Inc."
+      }, {
+        "count" : 5,
+        "item" : "Bergen Basin Community Development Corporation d/b/a Millennium Development"
+      }, {
+        "count" : 4,
+        "item" : "Queens Jewish Community Council, Inc."
+      }, {
+        "count" : 3,
+        "item" : "Greater Ridgewood Youth Council, Inc."
+      }, {
+        "count" : 2,
+        "item" : "GALAXY"
+      }, {
+        "count" : 1,
+        "item" : "Greater Woodhaven Development Corporation"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 14863996,
+    "name" : "FC EIN",
+    "dataTypeName" : "text",
+    "fieldName" : "fc_ein",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3689277,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 299,
+      "smallest" : "11-1733454",
+      "null" : 17197,
+      "largest" : "51-0192170",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11-2697931"
+      }, {
+        "count" : 19,
+        "item" : "13-1988190"
+      }, {
+        "count" : 18,
+        "item" : "11-3235349"
+      }, {
+        "count" : 17,
+        "item" : "11-3233233"
+      }, {
+        "count" : 16,
+        "item" : "13-2921483"
+      }, {
+        "count" : 15,
+        "item" : "23-7259702"
+      }, {
+        "count" : 14,
+        "item" : "11-3308030"
+      }, {
+        "count" : 13,
+        "item" : "13-3110811"
+      }, {
+        "count" : 12,
+        "item" : "11-2665181"
+      }, {
+        "count" : 11,
+        "item" : "13-5562256"
+      }, {
+        "count" : 10,
+        "item" : "11-3199040"
+      }, {
+        "count" : 9,
+        "item" : "23-7172152"
+      }, {
+        "count" : 8,
+        "item" : "11-2518141"
+      }, {
+        "count" : 7,
+        "item" : "11-2508190"
+      }, {
+        "count" : 6,
+        "item" : "11-2047151"
+      }, {
+        "count" : 5,
+        "item" : "11-3019763"
+      }, {
+        "count" : 4,
+        "item" : "13-2989768"
+      }, {
+        "count" : 3,
+        "item" : "132989768"
+      }, {
+        "count" : 2,
+        "item" : "112697931-"
+      }, {
+        "count" : 1,
+        "item" : "113233233-"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 14863997,
+    "name" : "Location 1",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 17,
+    "renderTypeName" : "location",
+    "tableColumnId" : 3689278,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 17496,
+      "smallest" : {
+        "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.98420000022969",
+        "latitude" : "40.76489999963542",
+        "human_address" : "{\"address\":\"the Joan Weill Center For Dance\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10019-4402\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.96641950093391",
+          "latitude" : "40.631164970746624",
+          "human_address" : "{\"address\":\"1081 Coney Island ave\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11230\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.9862277219461",
+          "latitude" : "40.69181575722072",
+          "human_address" : "{\"address\":\"151 Lawrence Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.98728005387045",
+          "latitude" : "40.691385925823994",
+          "human_address" : "{\"address\":\"One Smith Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.98728005387045",
+          "latitude" : "40.691385925823994",
+          "human_address" : "{\"address\":\"One Smith Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-74.00386727023397",
+          "latitude" : "40.717005258443294",
+          "human_address" : "{\"address\":\"350 Broadway Suite 501\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10013-3911\"}"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-74.00386727023397",
+          "latitude" : "40.717005258443294",
+          "human_address" : "{\"address\":\"350 Broadway Suite 501\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10013-3911\"}"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-74.00386727023397",
+          "latitude" : "40.717005258443294",
+          "human_address" : "{\"address\":\"350 Broadway Suite 501\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10013-3911\"}"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-74.00386727023397",
+          "latitude" : "40.717005258443294",
+          "human_address" : "{\"address\":\"350 Broadway Suite 501\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10013-3911\"}"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.91921408761596",
+          "latitude" : "40.81736060369292",
+          "human_address" : "{\"address\":\"579 Courtlandt Ave\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10451-5013\"}"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-74.00691597191326",
+          "latitude" : "40.71734700081447",
+          "human_address" : "{\"address\":\"40 Worth Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10013\"}"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-74.00691597191326",
+          "latitude" : "40.71734700081447",
+          "human_address" : "{\"address\":\"40 Worth Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10013\"}"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.94519163507472",
+          "latitude" : "40.80839168632681",
+          "human_address" : "{\"address\":\"317 Lenox Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10027\"}"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.94519163507472",
+          "latitude" : "40.80839168632681",
+          "human_address" : "{\"address\":\"317 Lenox Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10027\"}"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-74.01311230069518",
+          "latitude" : "40.70598856358441",
+          "human_address" : "{\"address\":\"32 Broadway Suite 1101\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10004\"}"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.94561818239617",
+          "latitude" : "40.686743072157356",
+          "human_address" : "{\"address\":\"510 Gates Avenue 1St Floor\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11216\"}"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.91989460411992",
+          "latitude" : "40.77183825625357",
+          "human_address" : "{\"address\":\"27-40 Hoyt Avenue South\",\"city\":\"Astoria\",\"state\":\"NY\",\"zip\":\"11102-2035\"}"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.91989460411992",
+          "latitude" : "40.77183825625357",
+          "human_address" : "{\"address\":\"27-40 Hoyt Avenue South\",\"city\":\"Astoria\",\"state\":\"NY\",\"zip\":\"11102-2035\"}"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.91989460411992",
+          "latitude" : "40.77183825625357",
+          "human_address" : "{\"address\":\"27-40 Hoyt Avenue South\",\"city\":\"Astoria\",\"state\":\"NY\",\"zip\":\"11102-2035\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-73.96729000013323",
+          "latitude" : "40.798120000038125",
+          "human_address" : "{\"address\":\"411 W114 Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10025\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Biannually "
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "new york city council discretionary funding (2009-2013)", "finance", "data", "contribution", "council" ],
+  "flags" : [ "default" ]
+}

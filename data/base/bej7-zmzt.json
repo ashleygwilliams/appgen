@@ -1,0 +1,1291 @@
+{
+  "id" : "bej7-zmzt",
+  "name" : "NYC Capital City Funds",
+  "attribution" : "Office of Management and Budget (OMB)",
+  "averageRating" : 0,
+  "createdAt" : 1311792035,
+  "description" : "Data set contains capital commitments for actual fiscal years and five financial plan fiscal years in City funds.",
+  "displayType" : "table",
+  "downloadCount" : 17,
+  "numberOfComments" : 0,
+  "oid" : 342346,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318118726,
+  "publicationGroup" : 238878,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318118723,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 244200,
+  "totalTimesRated" : 0,
+  "viewCount" : 57,
+  "viewLastModified" : 1361280673,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2989960,
+    "name" : "AGENCY",
+    "dataTypeName" : "text",
+    "fieldName" : "agency",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502408,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 40,
+      "smallest" : "Aging",
+      "null" : 0,
+      "largest" : "WNYC",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Aging"
+      }, {
+        "count" : 19,
+        "item" : "Waterway Bridges"
+      }, {
+        "count" : 18,
+        "item" : "Correction"
+      }, {
+        "count" : 17,
+        "item" : "Children's Services"
+      }, {
+        "count" : 16,
+        "item" : "Courts"
+      }, {
+        "count" : 15,
+        "item" : "DoITT"
+      }, {
+        "count" : 14,
+        "item" : "Education"
+      }, {
+        "count" : 13,
+        "item" : "Economic Development"
+      }, {
+        "count" : 12,
+        "item" : "Fire"
+      }, {
+        "count" : 11,
+        "item" : "Ferries and Aviation"
+      }, {
+        "count" : 10,
+        "item" : "Franchise Transportation"
+      }, {
+        "count" : 9,
+        "item" : "Electrical Control"
+      }, {
+        "count" : 8,
+        "item" : "Housing Authority"
+      }, {
+        "count" : 7,
+        "item" : "Highway Bridges"
+      }, {
+        "count" : 6,
+        "item" : "Housing"
+      }, {
+        "count" : 5,
+        "item" : "Homeless Services"
+      }, {
+        "count" : 4,
+        "item" : "Health"
+      }, {
+        "count" : 3,
+        "item" : "Higher Education"
+      }, {
+        "count" : 2,
+        "item" : "Hospitals"
+      }, {
+        "count" : 1,
+        "item" : "Human Resources"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989961,
+    "name" : " FY 2002 Actual ",
+    "dataTypeName" : "number",
+    "fieldName" : "_fy_2002_actual_",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502409,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 40,
+      "smallest" : "0",
+      "sum" : "11664",
+      "null" : 0,
+      "average" : "291.6",
+      "largest" : "5832",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8"
+      }, {
+        "count" : 19,
+        "item" : "46"
+      }, {
+        "count" : 18,
+        "item" : "31"
+      }, {
+        "count" : 17,
+        "item" : "25"
+      }, {
+        "count" : 16,
+        "item" : "191"
+      }, {
+        "count" : 15,
+        "item" : "34"
+      }, {
+        "count" : 14,
+        "item" : "1337"
+      }, {
+        "count" : 13,
+        "item" : "190"
+      }, {
+        "count" : 12,
+        "item" : "149"
+      }, {
+        "count" : 11,
+        "item" : "117"
+      }, {
+        "count" : 10,
+        "item" : "2"
+      }, {
+        "count" : 9,
+        "item" : "0"
+      }, {
+        "count" : 8,
+        "item" : "9"
+      }, {
+        "count" : 7,
+        "item" : "63"
+      }, {
+        "count" : 6,
+        "item" : "321"
+      }, {
+        "count" : 5,
+        "item" : "22"
+      }, {
+        "count" : 4,
+        "item" : "44"
+      }, {
+        "count" : 3,
+        "item" : "77"
+      }, {
+        "count" : 2,
+        "item" : "26"
+      }, {
+        "count" : 1,
+        "item" : "211"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989962,
+    "name" : " FY 2003 Actual ",
+    "dataTypeName" : "number",
+    "fieldName" : "_fy_2003_actual_",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502410,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 40,
+      "smallest" : "-1",
+      "sum" : "10778",
+      "null" : 0,
+      "average" : "269.45",
+      "largest" : "5389",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5"
+      }, {
+        "count" : 19,
+        "item" : "181"
+      }, {
+        "count" : 18,
+        "item" : "110"
+      }, {
+        "count" : 17,
+        "item" : "13"
+      }, {
+        "count" : 16,
+        "item" : "86"
+      }, {
+        "count" : 15,
+        "item" : "63"
+      }, {
+        "count" : 14,
+        "item" : "890"
+      }, {
+        "count" : 13,
+        "item" : "237"
+      }, {
+        "count" : 12,
+        "item" : "81"
+      }, {
+        "count" : 11,
+        "item" : "46"
+      }, {
+        "count" : 10,
+        "item" : "0"
+      }, {
+        "count" : 9,
+        "item" : "191"
+      }, {
+        "count" : 8,
+        "item" : "203"
+      }, {
+        "count" : 7,
+        "item" : "14"
+      }, {
+        "count" : 6,
+        "item" : "52"
+      }, {
+        "count" : 5,
+        "item" : "17"
+      }, {
+        "count" : 4,
+        "item" : "50"
+      }, {
+        "count" : 3,
+        "item" : "43"
+      }, {
+        "count" : 2,
+        "item" : "171"
+      }, {
+        "count" : 1,
+        "item" : "-1"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989963,
+    "name" : " FY 2004 Actual ",
+    "dataTypeName" : "number",
+    "fieldName" : "_fy_2004_actual_",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502411,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 40,
+      "smallest" : "0",
+      "sum" : "9078",
+      "null" : 0,
+      "average" : "226.95",
+      "largest" : "4539",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2"
+      }, {
+        "count" : 19,
+        "item" : "215"
+      }, {
+        "count" : 18,
+        "item" : "30"
+      }, {
+        "count" : 17,
+        "item" : "10"
+      }, {
+        "count" : 16,
+        "item" : "103"
+      }, {
+        "count" : 15,
+        "item" : "40"
+      }, {
+        "count" : 14,
+        "item" : "571"
+      }, {
+        "count" : 13,
+        "item" : "206"
+      }, {
+        "count" : 12,
+        "item" : "66"
+      }, {
+        "count" : 11,
+        "item" : "19"
+      }, {
+        "count" : 10,
+        "item" : "0"
+      }, {
+        "count" : 9,
+        "item" : "3"
+      }, {
+        "count" : 8,
+        "item" : "149"
+      }, {
+        "count" : 7,
+        "item" : "216"
+      }, {
+        "count" : 6,
+        "item" : "32"
+      }, {
+        "count" : 5,
+        "item" : "18"
+      }, {
+        "count" : 4,
+        "item" : "58"
+      }, {
+        "count" : 3,
+        "item" : "11"
+      }, {
+        "count" : 2,
+        "item" : "202"
+      }, {
+        "count" : 1,
+        "item" : "1"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989964,
+    "name" : " FY 2005 Actual ",
+    "dataTypeName" : "number",
+    "fieldName" : "_fy_2005_actual_",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502412,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 40,
+      "smallest" : "-8",
+      "sum" : "14576",
+      "null" : 0,
+      "average" : "364.4",
+      "largest" : "7288",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5"
+      }, {
+        "count" : 19,
+        "item" : "3"
+      }, {
+        "count" : 18,
+        "item" : "50"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "129"
+      }, {
+        "count" : 15,
+        "item" : "110"
+      }, {
+        "count" : 14,
+        "item" : "2188"
+      }, {
+        "count" : 13,
+        "item" : "207"
+      }, {
+        "count" : 12,
+        "item" : "93"
+      }, {
+        "count" : 11,
+        "item" : "-8"
+      }, {
+        "count" : 10,
+        "item" : "0"
+      }, {
+        "count" : 9,
+        "item" : "91"
+      }, {
+        "count" : 8,
+        "item" : "275"
+      }, {
+        "count" : 7,
+        "item" : "29"
+      }, {
+        "count" : 6,
+        "item" : "51"
+      }, {
+        "count" : 5,
+        "item" : "20"
+      }, {
+        "count" : 4,
+        "item" : "399"
+      }, {
+        "count" : 3,
+        "item" : "7"
+      }, {
+        "count" : 2,
+        "item" : "224"
+      }, {
+        "count" : 1,
+        "item" : "41"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989965,
+    "name" : " FY 2006 Actual ",
+    "dataTypeName" : "number",
+    "fieldName" : "_fy_2006_actual_",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502413,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 40,
+      "smallest" : "0",
+      "sum" : "11822",
+      "null" : 0,
+      "average" : "295.55",
+      "largest" : "5911",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3"
+      }, {
+        "count" : 19,
+        "item" : "14"
+      }, {
+        "count" : 18,
+        "item" : "92"
+      }, {
+        "count" : 17,
+        "item" : "1"
+      }, {
+        "count" : 16,
+        "item" : "142"
+      }, {
+        "count" : 15,
+        "item" : "85"
+      }, {
+        "count" : 14,
+        "item" : "1411"
+      }, {
+        "count" : 13,
+        "item" : "154"
+      }, {
+        "count" : 12,
+        "item" : "108"
+      }, {
+        "count" : 11,
+        "item" : "15"
+      }, {
+        "count" : 10,
+        "item" : "0"
+      }, {
+        "count" : 9,
+        "item" : "21"
+      }, {
+        "count" : 8,
+        "item" : "244"
+      }, {
+        "count" : 7,
+        "item" : "238"
+      }, {
+        "count" : 6,
+        "item" : "64"
+      }, {
+        "count" : 5,
+        "item" : "39"
+      }, {
+        "count" : 4,
+        "item" : "243"
+      }, {
+        "count" : 3,
+        "item" : "200"
+      }, {
+        "count" : 2,
+        "item" : "31"
+      }, {
+        "count" : 1,
+        "item" : "262"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989966,
+    "name" : " FY 2007 Actual ",
+    "dataTypeName" : "number",
+    "fieldName" : "_fy_2007_actual_",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502414,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 40,
+      "smallest" : "-1",
+      "sum" : "16342",
+      "null" : 0,
+      "average" : "408.55",
+      "largest" : "8171",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5"
+      }, {
+        "count" : 19,
+        "item" : "108"
+      }, {
+        "count" : 18,
+        "item" : "44"
+      }, {
+        "count" : 17,
+        "item" : "23"
+      }, {
+        "count" : 16,
+        "item" : "159"
+      }, {
+        "count" : 15,
+        "item" : "228"
+      }, {
+        "count" : 14,
+        "item" : "1143"
+      }, {
+        "count" : 13,
+        "item" : "134"
+      }, {
+        "count" : 12,
+        "item" : "116"
+      }, {
+        "count" : 11,
+        "item" : "24"
+      }, {
+        "count" : 10,
+        "item" : "0"
+      }, {
+        "count" : 9,
+        "item" : "20"
+      }, {
+        "count" : 8,
+        "item" : "146"
+      }, {
+        "count" : 7,
+        "item" : "218"
+      }, {
+        "count" : 6,
+        "item" : "22"
+      }, {
+        "count" : 5,
+        "item" : "62"
+      }, {
+        "count" : 4,
+        "item" : "167"
+      }, {
+        "count" : 3,
+        "item" : "21"
+      }, {
+        "count" : 2,
+        "item" : "319"
+      }, {
+        "count" : 1,
+        "item" : "2"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989967,
+    "name" : " FY 2008 Actual ",
+    "dataTypeName" : "number",
+    "fieldName" : "_fy_2008_actual_",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502415,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 40,
+      "smallest" : "-2",
+      "sum" : "18016",
+      "null" : 0,
+      "average" : "450.4",
+      "largest" : "9008",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4"
+      }, {
+        "count" : 19,
+        "item" : "352"
+      }, {
+        "count" : 18,
+        "item" : "6"
+      }, {
+        "count" : 17,
+        "item" : "540"
+      }, {
+        "count" : 16,
+        "item" : "224"
+      }, {
+        "count" : 15,
+        "item" : "1127"
+      }, {
+        "count" : 14,
+        "item" : "380"
+      }, {
+        "count" : 13,
+        "item" : "121"
+      }, {
+        "count" : 12,
+        "item" : "13"
+      }, {
+        "count" : 11,
+        "item" : "0"
+      }, {
+        "count" : 10,
+        "item" : "37"
+      }, {
+        "count" : 9,
+        "item" : "91"
+      }, {
+        "count" : 8,
+        "item" : "351"
+      }, {
+        "count" : 7,
+        "item" : "69"
+      }, {
+        "count" : 6,
+        "item" : "53"
+      }, {
+        "count" : 5,
+        "item" : "129"
+      }, {
+        "count" : 4,
+        "item" : "179"
+      }, {
+        "count" : 3,
+        "item" : "12"
+      }, {
+        "count" : 2,
+        "item" : "325"
+      }, {
+        "count" : 1,
+        "item" : "52"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989968,
+    "name" : "FY 2009 Actual",
+    "dataTypeName" : "number",
+    "fieldName" : "fy_2009_actual",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502416,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 40,
+      "smallest" : "-1",
+      "sum" : "14528",
+      "null" : 0,
+      "average" : "363.2",
+      "largest" : "7264",
+      "top" : [ {
+        "count" : 20,
+        "item" : "-1"
+      }, {
+        "count" : 19,
+        "item" : "103"
+      }, {
+        "count" : 18,
+        "item" : "40"
+      }, {
+        "count" : 17,
+        "item" : "8"
+      }, {
+        "count" : 16,
+        "item" : "11"
+      }, {
+        "count" : 15,
+        "item" : "231"
+      }, {
+        "count" : 14,
+        "item" : "991"
+      }, {
+        "count" : 13,
+        "item" : "300"
+      }, {
+        "count" : 12,
+        "item" : "71"
+      }, {
+        "count" : 11,
+        "item" : "0"
+      }, {
+        "count" : 10,
+        "item" : "37"
+      }, {
+        "count" : 9,
+        "item" : "235"
+      }, {
+        "count" : 8,
+        "item" : "243"
+      }, {
+        "count" : 7,
+        "item" : "26"
+      }, {
+        "count" : 6,
+        "item" : "51"
+      }, {
+        "count" : 5,
+        "item" : "205"
+      }, {
+        "count" : 4,
+        "item" : "229"
+      }, {
+        "count" : 3,
+        "item" : "226"
+      }, {
+        "count" : 2,
+        "item" : "1"
+      }, {
+        "count" : 1,
+        "item" : "504"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989969,
+    "name" : "FY 2010 Actual",
+    "dataTypeName" : "number",
+    "fieldName" : "fy_2010_actual",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502417,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 40,
+      "smallest" : "-7",
+      "sum" : "18028",
+      "null" : 0,
+      "average" : "450.7",
+      "largest" : "9014",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4"
+      }, {
+        "count" : 19,
+        "item" : "339"
+      }, {
+        "count" : 18,
+        "item" : "68"
+      }, {
+        "count" : 17,
+        "item" : "5"
+      }, {
+        "count" : 16,
+        "item" : "77"
+      }, {
+        "count" : 15,
+        "item" : "745"
+      }, {
+        "count" : 14,
+        "item" : "1122"
+      }, {
+        "count" : 13,
+        "item" : "399"
+      }, {
+        "count" : 12,
+        "item" : "120"
+      }, {
+        "count" : 11,
+        "item" : "16"
+      }, {
+        "count" : 10,
+        "item" : "0"
+      }, {
+        "count" : 9,
+        "item" : "49"
+      }, {
+        "count" : 8,
+        "item" : "195"
+      }, {
+        "count" : 7,
+        "item" : "192"
+      }, {
+        "count" : 6,
+        "item" : "34"
+      }, {
+        "count" : 5,
+        "item" : "51"
+      }, {
+        "count" : 4,
+        "item" : "29"
+      }, {
+        "count" : 3,
+        "item" : "124"
+      }, {
+        "count" : 2,
+        "item" : "7"
+      }, {
+        "count" : 1,
+        "item" : "375"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989970,
+    "name" : "FY 2011 Plan",
+    "dataTypeName" : "number",
+    "fieldName" : "fy_2011_plan",
+    "position" : 12,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502418,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 40,
+      "smallest" : "-3251",
+      "sum" : "16554",
+      "null" : 0,
+      "average" : "413.85",
+      "largest" : "8277",
+      "top" : [ {
+        "count" : 20,
+        "item" : "31"
+      }, {
+        "count" : 19,
+        "item" : "13"
+      }, {
+        "count" : 18,
+        "item" : "256"
+      }, {
+        "count" : 17,
+        "item" : "73"
+      }, {
+        "count" : 16,
+        "item" : "139"
+      }, {
+        "count" : 15,
+        "item" : "641"
+      }, {
+        "count" : 14,
+        "item" : "1128"
+      }, {
+        "count" : 13,
+        "item" : "776"
+      }, {
+        "count" : 12,
+        "item" : "185"
+      }, {
+        "count" : 11,
+        "item" : "19"
+      }, {
+        "count" : 10,
+        "item" : "0"
+      }, {
+        "count" : 9,
+        "item" : "93"
+      }, {
+        "count" : 8,
+        "item" : "204"
+      }, {
+        "count" : 7,
+        "item" : "544"
+      }, {
+        "count" : 6,
+        "item" : "56"
+      }, {
+        "count" : 5,
+        "item" : "352"
+      }, {
+        "count" : 4,
+        "item" : "251"
+      }, {
+        "count" : 3,
+        "item" : "292"
+      }, {
+        "count" : 2,
+        "item" : "57"
+      }, {
+        "count" : 1,
+        "item" : "518"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989971,
+    "name" : "FY 2012 Plan",
+    "dataTypeName" : "number",
+    "fieldName" : "fy_2012_plan",
+    "position" : 13,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502419,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 40,
+      "smallest" : "0",
+      "sum" : "13040",
+      "null" : 0,
+      "average" : "326",
+      "largest" : "6520",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "59"
+      }, {
+        "count" : 18,
+        "item" : "132"
+      }, {
+        "count" : 17,
+        "item" : "12"
+      }, {
+        "count" : 16,
+        "item" : "23"
+      }, {
+        "count" : 15,
+        "item" : "235"
+      }, {
+        "count" : 14,
+        "item" : "1358"
+      }, {
+        "count" : 13,
+        "item" : "261"
+      }, {
+        "count" : 12,
+        "item" : "89"
+      }, {
+        "count" : 11,
+        "item" : "31"
+      }, {
+        "count" : 10,
+        "item" : "0"
+      }, {
+        "count" : 9,
+        "item" : "6"
+      }, {
+        "count" : 8,
+        "item" : "269"
+      }, {
+        "count" : 7,
+        "item" : "188"
+      }, {
+        "count" : 6,
+        "item" : "19"
+      }, {
+        "count" : 5,
+        "item" : "57"
+      }, {
+        "count" : 4,
+        "item" : "218"
+      }, {
+        "count" : 3,
+        "item" : "335"
+      }, {
+        "count" : 2,
+        "item" : "3"
+      }, {
+        "count" : 1,
+        "item" : "17"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989972,
+    "name" : "FY 2013 Plan",
+    "dataTypeName" : "number",
+    "fieldName" : "fy_2013_plan",
+    "position" : 14,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502420,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 40,
+      "smallest" : "-223",
+      "sum" : "10720",
+      "null" : 0,
+      "average" : "268",
+      "largest" : "5360",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "70"
+      }, {
+        "count" : 17,
+        "item" : "27"
+      }, {
+        "count" : 16,
+        "item" : "58"
+      }, {
+        "count" : 15,
+        "item" : "230"
+      }, {
+        "count" : 14,
+        "item" : "886"
+      }, {
+        "count" : 13,
+        "item" : "261"
+      }, {
+        "count" : 12,
+        "item" : "87"
+      }, {
+        "count" : 11,
+        "item" : "35"
+      }, {
+        "count" : 10,
+        "item" : "0"
+      }, {
+        "count" : 9,
+        "item" : "24"
+      }, {
+        "count" : 8,
+        "item" : "178"
+      }, {
+        "count" : 7,
+        "item" : "282"
+      }, {
+        "count" : 6,
+        "item" : "15"
+      }, {
+        "count" : 5,
+        "item" : "125"
+      }, {
+        "count" : 4,
+        "item" : "44"
+      }, {
+        "count" : 3,
+        "item" : "186"
+      }, {
+        "count" : 2,
+        "item" : "10"
+      }, {
+        "count" : 1,
+        "item" : "238"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989973,
+    "name" : "FY 2014 Plan",
+    "dataTypeName" : "number",
+    "fieldName" : "fy_2014_plan",
+    "position" : 15,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502421,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 40,
+      "smallest" : "0",
+      "sum" : "9722",
+      "null" : 0,
+      "average" : "243.05",
+      "largest" : "4861",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2"
+      }, {
+        "count" : 19,
+        "item" : "7"
+      }, {
+        "count" : 18,
+        "item" : "553"
+      }, {
+        "count" : 17,
+        "item" : "6"
+      }, {
+        "count" : 16,
+        "item" : "27"
+      }, {
+        "count" : 15,
+        "item" : "3"
+      }, {
+        "count" : 14,
+        "item" : "1169"
+      }, {
+        "count" : 13,
+        "item" : "24"
+      }, {
+        "count" : 12,
+        "item" : "35"
+      }, {
+        "count" : 11,
+        "item" : "9"
+      }, {
+        "count" : 10,
+        "item" : "0"
+      }, {
+        "count" : 9,
+        "item" : "179"
+      }, {
+        "count" : 8,
+        "item" : "253"
+      }, {
+        "count" : 7,
+        "item" : "11"
+      }, {
+        "count" : 6,
+        "item" : "5"
+      }, {
+        "count" : 5,
+        "item" : "53"
+      }, {
+        "count" : 4,
+        "item" : "183"
+      }, {
+        "count" : 3,
+        "item" : "1"
+      }, {
+        "count" : 2,
+        "item" : "4"
+      }, {
+        "count" : 1,
+        "item" : "71"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989974,
+    "name" : "FY 2015 Plan",
+    "dataTypeName" : "number",
+    "fieldName" : "fy_2015_plan",
+    "position" : 16,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502422,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 40,
+      "smallest" : "0",
+      "sum" : "7812",
+      "null" : 0,
+      "average" : "195.3",
+      "largest" : "3906",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2"
+      }, {
+        "count" : 19,
+        "item" : "8"
+      }, {
+        "count" : 18,
+        "item" : "33"
+      }, {
+        "count" : 17,
+        "item" : "5"
+      }, {
+        "count" : 16,
+        "item" : "39"
+      }, {
+        "count" : 15,
+        "item" : "0"
+      }, {
+        "count" : 14,
+        "item" : "886"
+      }, {
+        "count" : 13,
+        "item" : "24"
+      }, {
+        "count" : 12,
+        "item" : "48"
+      }, {
+        "count" : 11,
+        "item" : "4"
+      }, {
+        "count" : 10,
+        "item" : "7"
+      }, {
+        "count" : 9,
+        "item" : "115"
+      }, {
+        "count" : 8,
+        "item" : "187"
+      }, {
+        "count" : 7,
+        "item" : "15"
+      }, {
+        "count" : 6,
+        "item" : "3"
+      }, {
+        "count" : 5,
+        "item" : "18"
+      }, {
+        "count" : 4,
+        "item" : "6"
+      }, {
+        "count" : 3,
+        "item" : "147"
+      }, {
+        "count" : 2,
+        "item" : "1"
+      }, {
+        "count" : 1,
+        "item" : "117"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989975,
+    "name" : "CAPITAL COMMITMENTS ($ IN MILLIONS) - CITY FUNDS",
+    "dataTypeName" : "text",
+    "fieldName" : "capital_commitments_in_millions_city_funds",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502423,
+    "width" : 676,
+    "cachedContents" : {
+      "non_null" : 1,
+      "smallest" : "Plan data as of February 2011 Financial Plan",
+      "null" : 39,
+      "largest" : "Plan data as of February 2011 Financial Plan",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Plan data as of February 2011 Financial Plan"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "omb", "capital", "commitment", "actual", "fiscal", "finance", "plan", "year", "fund" ],
+  "flags" : [ "default" ]
+}
