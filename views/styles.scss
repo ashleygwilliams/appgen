@@ -77,4 +77,9 @@ footer, header {
   color: white;
 }
 
+header {
+  margin-left: -$largespace;
+  margin-right: -$largespace;
+}
+
 #map { height: 300px; }
