@@ -24,7 +24,6 @@ class BigApp < Sinatra::Application
   end
 
   before do
-    pass if %w[api].include? request.path_info.split('/')[1]
     @seed = if params[:seed]
       params[:seed].to_i
     else
@@ -48,14 +47,6 @@ class BigApp < Sinatra::Application
 
   get "/stylesheet.css" do
     scss :styles
-  end
-
-  get '/api/map/:id' do
-    send_file(File.join('data', 'map', "#{params[:id]}.json"))
-  end
-
-  get '/api/base/:id' do
-    send_file(File.join('data', 'base', "#{params[:id]}.json"))
   end
 
   def partial(haml_file)

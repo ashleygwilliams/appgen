@@ -4,7 +4,6 @@ gem 'unicorn'
 gem 'sinatra'
 gem 'sinatra-contrib'
 gem 'rake'
-gem 'typhoeus'
 gem 'multi_json'
 
 gem 'redis'
