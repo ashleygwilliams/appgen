@@ -18,7 +18,8 @@ module Sass::Script::Functions
   end
 
   def getRandomPixels
-    rpx = rand(40..60)
+    r = Random.new
+    rpx = r.rand(40..60)
     Sass::Script::String.new(rpx.to_s + "px")
   end
 
