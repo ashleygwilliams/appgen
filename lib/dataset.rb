@@ -1,16 +1,30 @@
 class Dataset
+  attr_accessor :json_obj, :map_obj
+
   BASE_URL = "https://raw.github.com/tlevine/nyc-data-downloads/master/views/"
-  DATASET_IDS = ["2bh6-qmgg", "2iia-33q9", "2j99-6h29", "2und-rhm4"]
+  MAP_URL = "http://192.168.0.15:1418/"
+  DATASET_IDS = ["66zw-pb7t"]
 
   def self.load_random
-    url = BASE_URL + DATASET_IDS.sample + ".json"
-    json_txt = load_url(url)
-
-    Dataset.new(json_txt)
+    Dataset.new(DATASET_IDS.sample)
   end
 
-  def initialize(json_txt)
+  def initialize(id)
+    @id = id
+
+    json_txt = load_url(base_url)
     @json_obj = MultiJson.decode(json_txt)
+
+    json_txt = load_url(map_url)
+    @map_obj = MultiJson.decode(json_txt)
+  end
+
+  def base_url
+    BASE_URL + @id + ".json"
+  end
+
+  def map_url
+    MAP_URL + @id + ".json"
   end
 
   def overview(app_name)
