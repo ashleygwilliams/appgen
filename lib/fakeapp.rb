@@ -1,4 +1,7 @@
 class FakeApp
+
+  @@current_app = nil
+
   attr_accessor :name, :description
 
   SUBJECTS = ["bike", "healthy", "learning", "NYC", "green", "democracy"]
@@ -13,6 +16,11 @@ class FakeApp
     @name = FakeApp.getRandomName
     @description = FakeApp.getRandomText(@name)
     @tile_set = FakeApp.getRandomTiles
+    @@current_app = self
+  end
+
+  def self.current_app
+    @@current_app
   end
 
   def self.getRandomName

@@ -1,7 +1,7 @@
 require 'sass'
 
 module Sass::Script::Functions
-  FONTS = ["Lobster", "Raleway","Lato","Oleo Script","Special Elite","Fredoka One"]
+  FONTS = ["Lobster", "Raleway","Lato","Oleo_Script","Special_Elite","Fredoka_One"]
   PATTERNS = ["img/bg_stripe.png"]
   APP = FakeApp.current_app
 

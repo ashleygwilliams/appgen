@@ -23,21 +23,27 @@ class BigApp < Sinatra::Application
     set :public_folder, 'public'
   end
 
-  get '/' do
+  before do
+    @seed = if params[:seed]
+      params[:seed].to_i
+    else
+      rand(10000)
+    end
+    srand(@seed)
     @app = FakeApp.new
+  end
+
+  get '/' do
     haml :index
   end
 
   get '/map' do
-    @app = FakeApp.new
     haml :map
   end
 
   get '/info' do
-    @app = FakeApp.new
     haml :info
   end
-
 
   get "/stylesheet.css" do
     scss :styles
