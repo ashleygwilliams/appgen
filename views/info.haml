@@ -1,5 +1,5 @@
+- @about_page = AboutPresenter.new(@app.dataset)
 = partial(:_nav)
 %h1 about us
-- @app.dataset.overview(@app.name).each do |text|
-	%p #{text}	
+%p #{@about_page.getDataDescription}
 
