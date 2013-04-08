@@ -13,12 +13,12 @@ class Dataset
     @json_obj = MultiJson.decode(json_txt)
   end
 
+  def overview(app_name)
+    "#{app_name} is a way to visualize data related to #{@json_obj["category"].downcase}."
+  end
 
-  def spew_bullshit(app_name)
-    <<-BS
-      <p>#{app_name} is a way to visualize data related to #{@json_obj["category"].downcase}.</p>
-      <p>Using data from the #{@json_obj["attribution"]}, we overlayed #{@json_obj["name"]} onto a map.</p>
-    BS
+  def how_it_works
+    "Using data from the #{@json_obj["attribution"]}, we overlayed #{@json_obj["name"]} onto a map."
   end
 
   private

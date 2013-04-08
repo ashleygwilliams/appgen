@@ -1,3 +1,7 @@
 = partial(:_nav)
 %h1 about us
-%div= @app.description
+%h2 overview
+%p= @app.dataset.overview(@app.name)
+%h2 how it works
+%p= @app.dataset.how_it_works
+

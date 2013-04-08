@@ -2,7 +2,7 @@ class FakeApp
 
   @@current_app = nil
 
-  attr_accessor :name, :description
+  attr_accessor :name, :dataset
 
   SUBJECTS = ["bike", "healthy", "learning", "NYC", "green", "democracy"]
   JARGON = ["responsive", "game", "beta", "tech", "digital", "social"]
@@ -14,7 +14,7 @@ class FakeApp
 
   def initialize
     @name = FakeApp.getRandomName
-    @description = FakeApp.getRandomText(@name)
+    @dataset = Dataset.load_random
     @tile_set = FakeApp.getRandomTiles
     @@current_app = self
   end
@@ -25,10 +25,6 @@ class FakeApp
 
   def self.getRandomName
     SUBJECTS.sample + " " + JARGON.sample
-  end
-
-  def self.getRandomText(app_name)
-    Dataset.load_random.spew_bullshit(app_name)
   end
 
   def self.getRandomTiles
