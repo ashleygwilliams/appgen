@@ -12,6 +12,7 @@ class FakeApp
   def initialize
     @name = FakeApp.getRandomName
     @description = FakeApp.getRandomText(@name)
+    @tile_set = FakeApp.getRandomTiles
   end
 
   def self.getRandomName
@@ -22,7 +23,4 @@ class FakeApp
     Dataset.load_random.spew_bullshit(app_name)
   end
 
-  def self.getRandomTiles
-    TILE_LAYERS.sample
-  end
 end

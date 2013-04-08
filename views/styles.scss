@@ -10,6 +10,12 @@ $mediumspace: 10px;
 $largespace: 20px;
 $hugespace: 40px;
 
+@mixin grey_box_shadow {
+    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 2px 3px rgba(0, 0, 0, 0.05);
+     -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 2px 3px rgba(0, 0, 0, 0.05);
+          box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 2px 3px rgba(0, 0, 0, 0.05);
+}
+
 body {
   background: getRandomColor();
 }
@@ -71,6 +77,7 @@ h1 {
 }
 
 footer, header {
+  @include grey_box_shadow;
   background: $btncolor3;
   background-image: url(getRandomPattern());
   padding: $largespace;

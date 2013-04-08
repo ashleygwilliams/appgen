@@ -3,6 +3,7 @@ require 'sass'
 module Sass::Script::Functions
   FONTS = ["Lobster", "Raleway","Lato","Oleo Script","Special Elite","Fredoka One"]
   PATTERNS = ["img/bg_stripe.png"]
+  APP = FakeApp.current_app
 
   def getRandomColor(as_str = true)
     if as_str
@@ -17,9 +18,9 @@ module Sass::Script::Functions
     Sass::Script::String.new(font)
   end
 
-  def getRandomPixels
+  def getRandomPixels()
     r = Random.new
-    rpx = r.rand(40..60)
+    rpx = r.rand(40...60)
     Sass::Script::String.new(rpx.to_s + "px")
   end
 
