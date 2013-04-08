@@ -5,7 +5,8 @@ class FakeApp
   attr_accessor :name, :dataset
 
   SUBJECTS = ["bike", "healthy", "learning", "NYC", "green", "democracy"]
-  JARGON = ["responsive", "game", "beta", "tech", "digital", "social"]
+  PREFIXES = ["responsive", "game", "beta", "tech", "digital", "social", "my", "our", "the", "all", "in", "on"]
+  SUFFIXES = ["box", "grid", "share", "wise", "hop", "works", "bit", "book", "list", "square", "rock", ".ly", "sy", "er", ".it", "ie", ".io", ".am", "ia", "ora", "ero", "ist", "ism", "ium", "ble", "ify", "ous", "ing"]
   TILE_LAYERS = ["'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {attribution: 'OpenStreetMap'}",
                   "'http://otile{s}.mqcdn.com/tiles/1.0.0/{type}/{z}/{x}/{y}.png', {subdomains: '1234', type: 'osm', attribution: 'MapQuestOpen'}",
                   "'http://otile{s}.mqcdn.com/tiles/1.0.0/{type}/{z}/{x}/{y}.png', {subdomains: '1234', type: 'sat', attribution: 'MapQuestOpen'}",
@@ -24,7 +25,11 @@ class FakeApp
   end
 
   def self.getRandomName
-    SUBJECTS.sample + " " + JARGON.sample
+    if rand > 0.7
+      PREFIXES.sample + SUBJECTS.sample
+    else
+      SUBJECTS.sample + SUFFIXES.sample
+    end
   end
 
   def self.getRandomTiles
