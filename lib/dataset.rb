@@ -1,8 +1,8 @@
 class Dataset
   attr_accessor :json_obj, :map_obj
 
-  BASE_URL = "https://raw.github.com/tlevine/nyc-data-downloads/master/views/"
-  MAP_URL = "http://192.168.0.15:1418/"
+  BASE_URL = "http://localhost:9393/api/base/"
+  MAP_URL = "http://localhost:9393/api/map/"
   DATASET_IDS = ["66zw-pb7t"]
 
   def self.load_random
@@ -12,19 +12,19 @@ class Dataset
   def initialize(id)
     @id = id
 
-    json_txt = load_url(base_url)
+    json_txt = Dataset.load_url(base_url)
     @json_obj = MultiJson.decode(json_txt)
 
-    json_txt = load_url(map_url)
+    json_txt = Dataset.load_url(map_url)
     @map_obj = MultiJson.decode(json_txt)
   end
 
   def base_url
-    BASE_URL + @id + ".json"
+    BASE_URL + @id
   end
 
   def map_url
-    MAP_URL + @id + ".json"
+    MAP_URL + @id
   end
 
   def overview(app_name)
@@ -36,7 +36,9 @@ class Dataset
   private
 
   def self.load_url(url)
+    puts url
     res = Typhoeus.get(url)
+    puts res.body
     res.body
   end
 
