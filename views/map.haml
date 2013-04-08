@@ -1,5 +1,28 @@
 = partial(:_nav)
 #map
   :javascript
-    var map = L.map('map').setView([40.7142, -74.0064], 13);
+    var map = L.map('map');
+    map.locate({setView: true, maxZoom: 16});
+    var data = #{@app.dataset.map_obj}
+
+    function onLocationFound(e) {
+      var radius = e.accuracy / 2;
+      L.marker(e.latlng).addTo(map)
+        .bindPopup("You are here").openPopup();
+      L.circle(e.latlng, radius).addTo(map);
+    }
+
+    map.on('locationfound', onLocationFound);
+
+    function onEachFeature(feature, layer) {
+      // does this feature have a property named popupContent?
+      if (feature.properties && feature.properties.popupContent) {
+        layer.bindPopup(feature.properties.popupContent);
+      }
+    }
+
     L.tileLayer(#{FakeApp.getRandomTiles}).addTo(map);
+
+    L.geoJson(data,
+             {onEachFeature: onEachFeature}
+    ).addTo(map);

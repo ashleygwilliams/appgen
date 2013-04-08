@@ -11,10 +11,12 @@ class Dataset
     @id = id
 
     json_txt = Dataset.load_file('base', @id)
-    @json_obj = MultiJson.decode(json_txt)
+    /@json_obj = MultiJson.decode(json_txt)/
+    @json_obj = json_txt;
 
     json_txt = Dataset.load_file('map', @id)
-    @map_obj = MultiJson.decode(json_txt)
+    /@map_obj = MultiJson.decode(json_txt)/
+    @map_obj = json_txt;
   end
 
   def base_url
