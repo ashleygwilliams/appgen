@@ -46,7 +46,7 @@ class BigApp < Sinatra::Application
   end
 
   get "/stylesheet.css" do
-    scss :styles
+    scss :styles, :options=> {}, :locals => {:font => @app.font}
   end
 
   def partial(haml_file)

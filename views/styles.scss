@@ -67,7 +67,7 @@ body {
 
 .logo {
   text-align: center;
-  font-family: getRandomFont();
+  font-family: #{font};
 }
 
 h1 {

@@ -13,12 +13,12 @@ class FakeApp
   ]
 
   def initialize
+    @font = getRandomFont
     @dataset = Dataset.load_random
     @subjects = self.dataset.json_obj["tags"]
     @name = self.getRandomName
     @tile_set = FakeApp.getRandomTiles
     @@current_app = self
-    @font = getRandomFont.to_s.gsub(/ /, "+")
   end
 
   def self.current_app

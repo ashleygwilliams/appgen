@@ -3,7 +3,7 @@ require 'sass'
 module Sass::Script::Functions
   FONTS = ["Lobster", "Raleway","Lato","Oleo Script","Special Elite","Fredoka One"]
   PATTERNS = ["img/bg_stripe.png", "img/bg_square.png"]
-  APP = FakeApp.current_app
+  font = nil
 
   def getRandomColor(as_str = true)
     if as_str
@@ -14,7 +14,7 @@ module Sass::Script::Functions
   end
 
   def getRandomFont
-    font ||= '"' + FONTS.sample() + '"'
+    font ||= FONTS.sample()
     Sass::Script::String.new(font)
   end
 
