@@ -1,0 +1,209 @@
+{
+  "id" : "22b5-sytd",
+  "name" : "Directory of Hospitals with Domestic Violence Coordinators",
+  "attribution" : "Mayor's Office to Combat Domestic Violence (OCDV)",
+  "attributionLink" : "http://www.nyc.gov/html/ocdv/html/statistics_resources/providers.shtml",
+  "averageRating" : 0,
+  "category" : "Social Services",
+  "createdAt" : 1363718230,
+  "description" : "List of hospitals that have Domestic Violence Coordinators",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2882334,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363725791,
+  "publicationGroup" : 743125,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1363725732,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 743475,
+  "totalTimesRated" : 0,
+  "viewCount" : 9,
+  "viewLastModified" : 1363788237,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 51690431,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "borough",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757853,
+    "width" : 107,
+    "cachedContents" : {
+      "non_null" : 11,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Queens",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Manhattan"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51690432,
+    "name" : "Hospital",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "hospital",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757854,
+    "width" : 264,
+    "cachedContents" : {
+      "non_null" : 11,
+      "smallest" : "Bellevue Hospital Center",
+      "null" : 0,
+      "largest" : "Woodhull Medical and Mental Health Center",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Jacobi Medical Center"
+      }, {
+        "count" : 19,
+        "item" : "Lincoln Hospital & Mental Health Center"
+      }, {
+        "count" : 18,
+        "item" : "North Central Bronx Hospital"
+      }, {
+        "count" : 17,
+        "item" : "Coney Island Hospital"
+      }, {
+        "count" : 16,
+        "item" : "Kings County Hospital Center"
+      }, {
+        "count" : 15,
+        "item" : "Woodhull Medical and Mental Health Center"
+      }, {
+        "count" : 14,
+        "item" : "Bellevue Hospital Center"
+      }, {
+        "count" : 13,
+        "item" : "Harlem Hospital"
+      }, {
+        "count" : 12,
+        "item" : "Metropolitan Hospital"
+      }, {
+        "count" : 11,
+        "item" : "Elmhurst Hospital Center"
+      }, {
+        "count" : 10,
+        "item" : "Queens Hospital Center"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51690433,
+    "name" : "Phone Number",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "phone_number",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757855,
+    "width" : 165,
+    "cachedContents" : {
+      "non_null" : 11,
+      "smallest" : "212-423-6262",
+      "null" : 0,
+      "largest" : "718-963-8000",
+      "top" : [ {
+        "count" : 20,
+        "item" : "718-918-5000"
+      }, {
+        "count" : 19,
+        "item" : "718-579-5000"
+      }, {
+        "count" : 18,
+        "item" : "718-519-5000"
+      }, {
+        "count" : 17,
+        "item" : "718-616-3000"
+      }, {
+        "count" : 16,
+        "item" : "718-245-3131"
+      }, {
+        "count" : 15,
+        "item" : "718-963-8000"
+      }, {
+        "count" : 14,
+        "item" : "212-562-4141"
+      }, {
+        "count" : 13,
+        "item" : "212-939-1000"
+      }, {
+        "count" : 12,
+        "item" : "212-423-6262"
+      }, {
+        "count" : 11,
+        "item" : "718-334-4000"
+      }, {
+        "count" : 10,
+        "item" : "718-883-3000"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "ocdv", "combat", "domestic violence", "jobs", "economic mobility", "hospital", "jobs and economic mobility" ],
+  "flags" : [ "default" ]
+}

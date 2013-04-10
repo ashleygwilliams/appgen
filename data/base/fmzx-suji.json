@@ -1,0 +1,406 @@
+{
+  "id" : "fmzx-suji",
+  "name" : "Total Occupied Housing Units By Household Size By Borough",
+  "attribution" : "Department of City Planning (DCP)",
+  "attributionLink" : "http://www.nyc.gov/html/dcp/pdf/census/census_brief2_051012.pdf",
+  "averageRating" : 0,
+  "category" : "Construction and Housing",
+  "createdAt" : 1361458662,
+  "description" : "Details of Occupied Housing Unit numbers by Household size by Borough",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2587102,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361458817,
+  "publicationGroup" : 691306,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1361458666,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 691306,
+  "totalTimesRated" : 0,
+  "viewCount" : 40,
+  "viewLastModified" : 1361983928,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 46100283,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8047205,
+    "width" : 81,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Manhattan"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46100284,
+    "name" : "Year",
+    "dataTypeName" : "text",
+    "fieldName" : "year",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8047206,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "2010",
+      "null" : 0,
+      "largest" : "2010",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2010"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46100285,
+    "name" : "1 Person Households",
+    "dataTypeName" : "number",
+    "fieldName" : "_1_person_households",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8047207,
+    "width" : 119,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "40007",
+      "sum" : "995755",
+      "null" : 0,
+      "average" : "199151",
+      "largest" : "353569",
+      "top" : [ {
+        "count" : 20,
+        "item" : "136482"
+      }, {
+        "count" : 19,
+        "item" : "266236"
+      }, {
+        "count" : 18,
+        "item" : "353569"
+      }, {
+        "count" : 17,
+        "item" : "199461"
+      }, {
+        "count" : 16,
+        "item" : "40007"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46100286,
+    "name" : "2 Person Households",
+    "dataTypeName" : "number",
+    "fieldName" : "_2_person_households",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8047208,
+    "width" : 125,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "45286",
+      "sum" : "858781",
+      "null" : 0,
+      "average" : "171756.2",
+      "largest" : "255615",
+      "top" : [ {
+        "count" : 20,
+        "item" : "118775"
+      }, {
+        "count" : 19,
+        "item" : "255615"
+      }, {
+        "count" : 18,
+        "item" : "229856"
+      }, {
+        "count" : 17,
+        "item" : "209249"
+      }, {
+        "count" : 16,
+        "item" : "45286"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46100287,
+    "name" : "3 Person Households",
+    "dataTypeName" : "number",
+    "fieldName" : "_3_person_households",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8047209,
+    "width" : 133,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "29678",
+      "sum" : "496643",
+      "null" : 0,
+      "average" : "99328.6",
+      "largest" : "154530",
+      "top" : [ {
+        "count" : 20,
+        "item" : "87693"
+      }, {
+        "count" : 19,
+        "item" : "154530"
+      }, {
+        "count" : 18,
+        "item" : "87262"
+      }, {
+        "count" : 17,
+        "item" : "137480"
+      }, {
+        "count" : 16,
+        "item" : "29678"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46100288,
+    "name" : "4 Person Households",
+    "dataTypeName" : "number",
+    "fieldName" : "_4_person_households",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8047210,
+    "width" : 123,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "27832",
+      "sum" : "377689",
+      "null" : 0,
+      "average" : "75537.8",
+      "largest" : "114363",
+      "top" : [ {
+        "count" : 20,
+        "item" : "67596"
+      }, {
+        "count" : 19,
+        "item" : "113355"
+      }, {
+        "count" : 18,
+        "item" : "54543"
+      }, {
+        "count" : 17,
+        "item" : "114363"
+      }, {
+        "count" : 16,
+        "item" : "27832"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46100289,
+    "name" : "5 Person Households",
+    "dataTypeName" : "number",
+    "fieldName" : "_5_person_households",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8047211,
+    "width" : 121,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "13706",
+      "sum" : "198515",
+      "null" : 0,
+      "average" : "39703",
+      "largest" : "62100",
+      "top" : [ {
+        "count" : 20,
+        "item" : "38827"
+      }, {
+        "count" : 19,
+        "item" : "62100"
+      }, {
+        "count" : 18,
+        "item" : "22006"
+      }, {
+        "count" : 17,
+        "item" : "61876"
+      }, {
+        "count" : 16,
+        "item" : "13706"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46100290,
+    "name" : "6 Person Households",
+    "dataTypeName" : "number",
+    "fieldName" : "_6_person_households",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8047212,
+    "width" : 123,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "5257",
+      "sum" : "92634",
+      "null" : 0,
+      "average" : "18526.8",
+      "largest" : "31172",
+      "top" : [ {
+        "count" : 20,
+        "item" : "17917"
+      }, {
+        "count" : 19,
+        "item" : "31172"
+      }, {
+        "count" : 18,
+        "item" : "8873"
+      }, {
+        "count" : 17,
+        "item" : "29415"
+      }, {
+        "count" : 16,
+        "item" : "5257"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46100291,
+    "name" : "7 or more Person Households",
+    "dataTypeName" : "number",
+    "fieldName" : "_7_or_more_person_households",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8047213,
+    "width" : 173,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "3750",
+      "sum" : "89767",
+      "null" : 0,
+      "average" : "17953.4",
+      "largest" : "33848",
+      "top" : [ {
+        "count" : 20,
+        "item" : "16159"
+      }, {
+        "count" : 19,
+        "item" : "33848"
+      }, {
+        "count" : 18,
+        "item" : "7737"
+      }, {
+        "count" : 17,
+        "item" : "28273"
+      }, {
+        "count" : 16,
+        "item" : "3750"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46100292,
+    "name" : "Average Household Size",
+    "dataTypeName" : "text",
+    "fieldName" : "average_household_size",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8047214,
+    "width" : 186,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "1.99",
+      "null" : 0,
+      "largest" : "2.82",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2.77"
+      }, {
+        "count" : 19,
+        "item" : "2.69"
+      }, {
+        "count" : 18,
+        "item" : "1.99"
+      }, {
+        "count" : 17,
+        "item" : "2.82"
+      }, {
+        "count" : 16,
+        "item" : "2.78"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dcp", "city", "planning", "population", "growth", "household" ],
+  "flags" : [ "default" ]
+}

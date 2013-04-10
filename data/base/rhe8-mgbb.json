@@ -1,0 +1,753 @@
+{
+  "id" : "rhe8-mgbb",
+  "name" : "Medallion  Vehicles - Authorized",
+  "attribution" : "Taxi and Limousine Commission (TLC)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1362166028,
+  "description" : "This list contains information on the status of current medallion vehicles authorized to operate in New York City.",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "numberOfComments" : 0,
+  "oid" : 3096264,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1365278527,
+  "publicationGroup" : 707789,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1365278518,
+  "rowsUpdatedBy" : "5fuc-pqz2",
+  "signed" : false,
+  "tableId" : 779306,
+  "totalTimesRated" : 0,
+  "viewCount" : 57,
+  "viewLastModified" : 1365278528,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 55959849,
+    "name" : "License Number",
+    "dataTypeName" : "text",
+    "description" : "TLC license number",
+    "fieldName" : "license_number",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8271806,
+    "width" : 140,
+    "cachedContents" : {
+      "non_null" : 316465,
+      "smallest" : "1A10",
+      "null" : 0,
+      "largest" : "IT01",
+      "top" : [ {
+        "count" : 20,
+        "item" : "6P24"
+      }, {
+        "count" : 19,
+        "item" : "4K81"
+      }, {
+        "count" : 18,
+        "item" : "4K82"
+      }, {
+        "count" : 17,
+        "item" : "4K55"
+      }, {
+        "count" : 16,
+        "item" : "4K56"
+      }, {
+        "count" : 15,
+        "item" : "3N21"
+      }, {
+        "count" : 14,
+        "item" : "3N22"
+      }, {
+        "count" : 13,
+        "item" : "9K17"
+      }, {
+        "count" : 12,
+        "item" : "9K18"
+      }, {
+        "count" : 11,
+        "item" : "9B90"
+      }, {
+        "count" : 10,
+        "item" : "5F16"
+      }, {
+        "count" : 9,
+        "item" : "9D48"
+      }, {
+        "count" : 8,
+        "item" : "4A54"
+      }, {
+        "count" : 7,
+        "item" : "2E80"
+      }, {
+        "count" : 6,
+        "item" : "6E78"
+      }, {
+        "count" : 5,
+        "item" : "5D45"
+      }, {
+        "count" : 4,
+        "item" : "3E77"
+      }, {
+        "count" : 3,
+        "item" : "7D20"
+      }, {
+        "count" : 2,
+        "item" : "8B30"
+      }, {
+        "count" : 1,
+        "item" : "8Y43"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 55959853,
+    "name" : "Name",
+    "dataTypeName" : "text",
+    "description" : "Driver's full name",
+    "fieldName" : "name",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8271816,
+    "width" : 204,
+    "cachedContents" : {
+      "non_null" : 316465,
+      "smallest" : "1212 TAXI LLC",
+      "null" : 0,
+      "largest" : "ZYCH, MARIUSZ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "LEROY CAB CORP"
+      }, {
+        "count" : 19,
+        "item" : "NORTH MOORE TAXI INC"
+      }, {
+        "count" : 18,
+        "item" : "JOE-DAN HACKING CORP"
+      }, {
+        "count" : 17,
+        "item" : "PALERMO TAXI INC"
+      }, {
+        "count" : 16,
+        "item" : "MADRID TAXI INC"
+      }, {
+        "count" : 15,
+        "item" : "SARDINIA TAXI INC"
+      }, {
+        "count" : 14,
+        "item" : "MEDITERRANEAN TAXI INC"
+      }, {
+        "count" : 13,
+        "item" : "PORTOFINO TAXI INC"
+      }, {
+        "count" : 12,
+        "item" : "ANTIBES TAXI INC"
+      }, {
+        "count" : 11,
+        "item" : "ACURIO,MARIANO"
+      }, {
+        "count" : 10,
+        "item" : "GREFFIN,ROLAND"
+      }, {
+        "count" : 9,
+        "item" : "KAUSHAL,RAKESH"
+      }, {
+        "count" : 8,
+        "item" : "GARBOWSKI,JACEK"
+      }, {
+        "count" : 7,
+        "item" : "RAHAMAN,MDATAUR"
+      }, {
+        "count" : 6,
+        "item" : "MADU,CYPRIAN,C"
+      }, {
+        "count" : 5,
+        "item" : "SINGH,NACHHATTAR & SANDHU,SHINGARA,S"
+      }, {
+        "count" : 4,
+        "item" : "ISLAM,MOHAMMAD,S"
+      }, {
+        "count" : 3,
+        "item" : "PETIT-HOMME,FRITZ"
+      }, {
+        "count" : 2,
+        "item" : "CHANNELS CAB CORP"
+      }, {
+        "count" : 1,
+        "item" : "CHAN,KIN"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 55959855,
+    "name" : "Type",
+    "dataTypeName" : "text",
+    "description" : "The category of TLC license the driver belongs to",
+    "fieldName" : "type",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8271831,
+    "width" : 117,
+    "cachedContents" : {
+      "non_null" : 316465,
+      "smallest" : "MEDALLION",
+      "null" : 0,
+      "largest" : "MEDALLION",
+      "top" : [ {
+        "count" : 20,
+        "item" : "MEDALLION"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 55959858,
+    "name" : "Current Status",
+    "dataTypeName" : "text",
+    "description" : "Whether it the driver is current or not",
+    "fieldName" : "current_status",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8271842,
+    "width" : 130,
+    "cachedContents" : {
+      "non_null" : 316465,
+      "smallest" : "CUR",
+      "null" : 0,
+      "largest" : "CUR",
+      "top" : [ {
+        "count" : 20,
+        "item" : "CUR"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 55959862,
+    "name" : "DMV License Plate Number",
+    "dataTypeName" : "text",
+    "description" : "DMV registered vehicle plate number",
+    "fieldName" : "dmv_license_plate_number",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8271843,
+    "width" : 218,
+    "cachedContents" : {
+      "non_null" : 316465,
+      "smallest" : "1A10A",
+      "null" : 0,
+      "largest" : "T900053T",
+      "top" : [ {
+        "count" : 20,
+        "item" : "6P24C"
+      }, {
+        "count" : 19,
+        "item" : "4K81B"
+      }, {
+        "count" : 18,
+        "item" : "4K82C"
+      }, {
+        "count" : 17,
+        "item" : "4K55B"
+      }, {
+        "count" : 16,
+        "item" : "4K56H"
+      }, {
+        "count" : 15,
+        "item" : "3N21B"
+      }, {
+        "count" : 14,
+        "item" : "3N22B"
+      }, {
+        "count" : 13,
+        "item" : "9K17B"
+      }, {
+        "count" : 12,
+        "item" : "9K18C"
+      }, {
+        "count" : 11,
+        "item" : "9B90B"
+      }, {
+        "count" : 10,
+        "item" : "5F16D"
+      }, {
+        "count" : 9,
+        "item" : "9D48B"
+      }, {
+        "count" : 8,
+        "item" : "4A54B"
+      }, {
+        "count" : 7,
+        "item" : "2E80"
+      }, {
+        "count" : 6,
+        "item" : "6E78C"
+      }, {
+        "count" : 5,
+        "item" : "5D45D"
+      }, {
+        "count" : 4,
+        "item" : "3E77C"
+      }, {
+        "count" : 3,
+        "item" : "7D20B"
+      }, {
+        "count" : 2,
+        "item" : "8B30B"
+      }, {
+        "count" : 1,
+        "item" : "8Y43H"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 55959865,
+    "name" : "Vehicle VIN Number",
+    "dataTypeName" : "text",
+    "description" : "DMV registered vehicle VIN number",
+    "fieldName" : "vehicle_vin_number",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8271859,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 316465,
+      "smallest" : "1D4GP24R27B227772",
+      "null" : 0,
+      "largest" : "WDDHF2EB6CA551626",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1FMCU4K38BKB00270"
+      }, {
+        "count" : 19,
+        "item" : "4T1BD1FK5CU007532"
+      }, {
+        "count" : 18,
+        "item" : "1FMCU49H88KB58373"
+      }, {
+        "count" : 17,
+        "item" : "1FMCU4K30CKB21664"
+      }, {
+        "count" : 16,
+        "item" : "5TDZA23CX6S536269"
+      }, {
+        "count" : 15,
+        "item" : "2FAFP70V08X155127"
+      }, {
+        "count" : 14,
+        "item" : "1N4CL2APXAC154829"
+      }, {
+        "count" : 13,
+        "item" : "1N4CL21E49C141018"
+      }, {
+        "count" : 12,
+        "item" : "1N4CL2AP9AC142736"
+      }, {
+        "count" : 11,
+        "item" : "2FAHP70V89X134021"
+      }, {
+        "count" : 10,
+        "item" : "2FAHP70V29X131034"
+      }, {
+        "count" : 9,
+        "item" : "JTEEW41A092030678"
+      }, {
+        "count" : 8,
+        "item" : "1FMCU49389KB31468"
+      }, {
+        "count" : 7,
+        "item" : "4T1BD1FK4CU038013"
+      }, {
+        "count" : 6,
+        "item" : "1FMCU4K39CKA51985"
+      }, {
+        "count" : 5,
+        "item" : "4T1BD1FK4CU022166"
+      }, {
+        "count" : 4,
+        "item" : "1FMCU49399KB31527"
+      }, {
+        "count" : 3,
+        "item" : "1FMCU4K33BKB80206"
+      }, {
+        "count" : 2,
+        "item" : "2FAHP70V49X131438"
+      }, {
+        "count" : 1,
+        "item" : "NM0KS9CN1CT083842"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 55959867,
+    "name" : "Vehicle Type",
+    "dataTypeName" : "text",
+    "description" : "Type of vehicle - Hybrid of Stretch limousine",
+    "fieldName" : "vehicle_type",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8271876,
+    "width" : 120,
+    "cachedContents" : {
+      "non_null" : 174283,
+      "smallest" : "CNG",
+      "null" : 142182,
+      "largest" : "WAV",
+      "top" : [ {
+        "count" : 20,
+        "item" : "HYB"
+      }, {
+        "count" : 19,
+        "item" : "LV1"
+      }, {
+        "count" : 18,
+        "item" : "DSE"
+      }, {
+        "count" : 17,
+        "item" : "WAV"
+      }, {
+        "count" : 16,
+        "item" : "CNG"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 55959868,
+    "name" : "Model Year",
+    "dataTypeName" : "text",
+    "description" : "Model year of the taxicab",
+    "fieldName" : "model_year",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8271877,
+    "width" : 106,
+    "cachedContents" : {
+      "non_null" : 316465,
+      "smallest" : "1997",
+      "null" : 0,
+      "largest" : "2013",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2012"
+      }, {
+        "count" : 19,
+        "item" : "2009"
+      }, {
+        "count" : 18,
+        "item" : "2011"
+      }, {
+        "count" : 17,
+        "item" : "2010"
+      }, {
+        "count" : 16,
+        "item" : "2008"
+      }, {
+        "count" : 15,
+        "item" : "2013"
+      }, {
+        "count" : 14,
+        "item" : "2006"
+      }, {
+        "count" : 13,
+        "item" : "2005"
+      }, {
+        "count" : 12,
+        "item" : "2004"
+      }, {
+        "count" : 11,
+        "item" : "2007"
+      }, {
+        "count" : 10,
+        "item" : "1999"
+      }, {
+        "count" : 9,
+        "item" : "2003"
+      }, {
+        "count" : 8,
+        "item" : "2002"
+      }, {
+        "count" : 7,
+        "item" : "2000"
+      }, {
+        "count" : 6,
+        "item" : "1998"
+      }, {
+        "count" : 5,
+        "item" : "1997"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 55959869,
+    "name" : "Medallion Type",
+    "dataTypeName" : "text",
+    "description" : "Type of medallion whether single (independent) or multiple (fleet)",
+    "fieldName" : "medallion_type",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8271878,
+    "width" : 175,
+    "cachedContents" : {
+      "non_null" : 316465,
+      "smallest" : "NAMED DRIVER",
+      "null" : 0,
+      "largest" : "OWNER MUST DRIVE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NAMED DRIVER"
+      }, {
+        "count" : 19,
+        "item" : "OWNER MUST DRIVE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 55959870,
+    "name" : "Agent Number",
+    "dataTypeName" : "text",
+    "description" : "TLC designated agent number",
+    "fieldName" : "agent_number",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8271879,
+    "width" : 128,
+    "cachedContents" : {
+      "non_null" : 316164,
+      "smallest" : "000",
+      "null" : 301,
+      "largest" : "999",
+      "top" : [ {
+        "count" : 20,
+        "item" : "202"
+      }, {
+        "count" : 19,
+        "item" : "000"
+      }, {
+        "count" : 18,
+        "item" : "327"
+      }, {
+        "count" : 17,
+        "item" : "282"
+      }, {
+        "count" : 16,
+        "item" : "234"
+      }, {
+        "count" : 15,
+        "item" : "307"
+      }, {
+        "count" : 14,
+        "item" : "290"
+      }, {
+        "count" : 13,
+        "item" : "213"
+      }, {
+        "count" : 12,
+        "item" : "102"
+      }, {
+        "count" : 11,
+        "item" : "259"
+      }, {
+        "count" : 10,
+        "item" : "275"
+      }, {
+        "count" : 9,
+        "item" : "013"
+      }, {
+        "count" : 8,
+        "item" : "224"
+      }, {
+        "count" : 7,
+        "item" : "201"
+      }, {
+        "count" : 6,
+        "item" : "253"
+      }, {
+        "count" : 5,
+        "item" : "325"
+      }, {
+        "count" : 4,
+        "item" : "113"
+      }, {
+        "count" : 3,
+        "item" : "246"
+      }, {
+        "count" : 2,
+        "item" : "225"
+      }, {
+        "count" : 1,
+        "item" : "206"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 55959871,
+    "name" : "Last Updated Date",
+    "dataTypeName" : "text",
+    "description" : "Data set creation date and time",
+    "fieldName" : "last_updated_date",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8271892,
+    "width" : 156,
+    "cachedContents" : {
+      "non_null" : 316465,
+      "smallest" : "03/07/2013",
+      "null" : 0,
+      "largest" : "04/06/2013",
+      "top" : [ {
+        "count" : 20,
+        "item" : "03/07/2013"
+      }, {
+        "count" : 19,
+        "item" : "03/08/2013"
+      }, {
+        "count" : 18,
+        "item" : "03/11/2013"
+      }, {
+        "count" : 17,
+        "item" : "03/12/2013"
+      }, {
+        "count" : 16,
+        "item" : "03/13/2013"
+      }, {
+        "count" : 15,
+        "item" : "03/14/2013"
+      }, {
+        "count" : 14,
+        "item" : "03/15/2013"
+      }, {
+        "count" : 13,
+        "item" : "03/18/2013"
+      }, {
+        "count" : 12,
+        "item" : "03/19/2013"
+      }, {
+        "count" : 11,
+        "item" : "03/20/2013"
+      }, {
+        "count" : 10,
+        "item" : "03/21/2013"
+      }, {
+        "count" : 9,
+        "item" : "03/22/2013"
+      }, {
+        "count" : 8,
+        "item" : "03/25/2013"
+      }, {
+        "count" : 7,
+        "item" : "03/26/2013"
+      }, {
+        "count" : 6,
+        "item" : "03/27/2013"
+      }, {
+        "count" : 5,
+        "item" : "03/28/2013"
+      }, {
+        "count" : 4,
+        "item" : "03/29/2013"
+      }, {
+        "count" : 3,
+        "item" : "03/30/2013"
+      }, {
+        "count" : 2,
+        "item" : "04/01/2013"
+      }, {
+        "count" : 1,
+        "item" : "04/02/2013"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 55959872,
+    "name" : "Last Updated Time",
+    "dataTypeName" : "text",
+    "description" : "Data set creation time in 24 hour format.",
+    "fieldName" : "last_updated_time",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8271893,
+    "width" : 156,
+    "cachedContents" : {
+      "non_null" : 316465,
+      "smallest" : "13:20",
+      "null" : 0,
+      "largest" : "13:36",
+      "top" : [ {
+        "count" : 20,
+        "item" : "13:36"
+      }, {
+        "count" : 19,
+        "item" : "13:30"
+      }, {
+        "count" : 18,
+        "item" : "13:20"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Daily"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+    "orderBys" : [ {
+      "ascending" : false,
+      "expression" : {
+        "columnId" : 55959871,
+        "type" : "column"
+      }
+    } ]
+  },
+  "rights" : [ "read" ],
+  "sortBys" : [ {
+    "id" : 0,
+    "viewColumnId" : 55959871
+  } ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "taxi", "taxicab", "tlc", "limousine", "taxi driver", "medallion", "taxi license", "driver" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,378 @@
+{
+  "id" : "j34j-vqvt",
+  "name" : "FDNY Monthly Response Times",
+  "attribution" : "Fire Department of New York City (FDNY)",
+  "averageRating" : 0,
+  "createdAt" : 1314643724,
+  "description" : "Average response times to incidents by Year, Month, Incident classification and borough.",
+  "displayType" : "table",
+  "downloadCount" : 81,
+  "numberOfComments" : 0,
+  "oid" : 332174,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1314643724,
+  "publicationGroup" : 239891,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1314643725,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 239891,
+  "totalTimesRated" : 0,
+  "viewCount" : 244,
+  "viewLastModified" : 1318346061,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2825852,
+    "name" : "YEARMONTH",
+    "dataTypeName" : "number",
+    "fieldName" : "yearmonth",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1513318,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 504,
+      "smallest" : "200907",
+      "sum" : "101282076",
+      "null" : 43,
+      "average" : "200956.5",
+      "largest" : "201006",
+      "top" : [ {
+        "count" : 42,
+        "item" : "201005"
+      }, {
+        "count" : 42,
+        "item" : "200909"
+      }, {
+        "count" : 42,
+        "item" : "201003"
+      }, {
+        "count" : 42,
+        "item" : "201006"
+      }, {
+        "count" : 42,
+        "item" : "200911"
+      }, {
+        "count" : 42,
+        "item" : "200910"
+      }, {
+        "count" : 42,
+        "item" : "200907"
+      }, {
+        "count" : 42,
+        "item" : "201002"
+      }, {
+        "count" : 42,
+        "item" : "201001"
+      }, {
+        "count" : 42,
+        "item" : "200912"
+      }, {
+        "count" : 42,
+        "item" : "200908"
+      }, {
+        "count" : 42,
+        "item" : "201004"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "true",
+      "mask" : "####/##"
+    }
+  }, {
+    "id" : 2825853,
+    "name" : "INCIDENTCLASSIFICATION",
+    "dataTypeName" : "text",
+    "fieldName" : "incidentclassification",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513319,
+    "width" : 364,
+    "cachedContents" : {
+      "non_null" : 547,
+      "smallest" : "All Fire/Emergency Incidents",
+      "null" : 0,
+      "largest" : "Structural Fires",
+      "top" : [ {
+        "count" : 78,
+        "item" : "Structural Fires"
+      }, {
+        "count" : 78,
+        "item" : "False Alarm"
+      }, {
+        "count" : 78,
+        "item" : "Non Medical Emergencies"
+      }, {
+        "count" : 78,
+        "item" : "All Fire/Emergency Incidents"
+      }, {
+        "count" : 78,
+        "item" : "Non Structural Fires"
+      }, {
+        "count" : 78,
+        "item" : "Medical False Alarm"
+      }, {
+        "count" : 78,
+        "item" : "Medical Emergencies"
+      }, {
+        "count" : 1,
+        "item" : "INCIDENTCLASSIFICATION"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2825854,
+    "name" : "INCIDENTBOROUGH",
+    "dataTypeName" : "text",
+    "fieldName" : "incidentborough",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513320,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 547,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 91,
+        "item" : "Staten Island"
+      }, {
+        "count" : 91,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 91,
+        "item" : "Queens"
+      }, {
+        "count" : 91,
+        "item" : "Manhattan"
+      }, {
+        "count" : 91,
+        "item" : "Bronx"
+      }, {
+        "count" : 91,
+        "item" : "Citywide"
+      }, {
+        "count" : 1,
+        "item" : "INCIDENTBOROUGH"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2825855,
+    "name" : "INCIDENTCOUNT",
+    "dataTypeName" : "number",
+    "fieldName" : "incidentcount",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1513321,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 546,
+      "smallest" : "7",
+      "sum" : "3914832",
+      "null" : 1,
+      "average" : "7170.021978021978",
+      "largest" : "489354",
+      "top" : [ {
+        "count" : 4,
+        "item" : "92"
+      }, {
+        "count" : 3,
+        "item" : "76"
+      }, {
+        "count" : 3,
+        "item" : "402"
+      }, {
+        "count" : 3,
+        "item" : "90"
+      }, {
+        "count" : 3,
+        "item" : "75"
+      }, {
+        "count" : 3,
+        "item" : "80"
+      }, {
+        "count" : 3,
+        "item" : "100"
+      }, {
+        "count" : 3,
+        "item" : "432"
+      }, {
+        "count" : 3,
+        "item" : "425"
+      }, {
+        "count" : 3,
+        "item" : "366"
+      }, {
+        "count" : 3,
+        "item" : "103"
+      }, {
+        "count" : 3,
+        "item" : "94"
+      }, {
+        "count" : 2,
+        "item" : "510"
+      }, {
+        "count" : 2,
+        "item" : "102"
+      }, {
+        "count" : 2,
+        "item" : "373"
+      }, {
+        "count" : 2,
+        "item" : "378"
+      }, {
+        "count" : 2,
+        "item" : "91"
+      }, {
+        "count" : 2,
+        "item" : "14"
+      }, {
+        "count" : 2,
+        "item" : "110"
+      }, {
+        "count" : 2,
+        "item" : "3298"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2825856,
+    "name" : "AVERAGERESPONSETIME",
+    "dataTypeName" : "text",
+    "fieldName" : "averageresponsetime",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513322,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 547,
+      "smallest" : "3:23",
+      "null" : 0,
+      "largest" : "AVERAGERESPONSETIME",
+      "top" : [ {
+        "count" : 17,
+        "item" : "4:20"
+      }, {
+        "count" : 16,
+        "item" : "4:30"
+      }, {
+        "count" : 15,
+        "item" : "4:17"
+      }, {
+        "count" : 14,
+        "item" : "4:16"
+      }, {
+        "count" : 13,
+        "item" : "4:19"
+      }, {
+        "count" : 12,
+        "item" : "4:21"
+      }, {
+        "count" : 11,
+        "item" : "4:32"
+      }, {
+        "count" : 11,
+        "item" : "4:37"
+      }, {
+        "count" : 11,
+        "item" : "4:34"
+      }, {
+        "count" : 10,
+        "item" : "4:26"
+      }, {
+        "count" : 10,
+        "item" : "4:13"
+      }, {
+        "count" : 10,
+        "item" : "4:33"
+      }, {
+        "count" : 10,
+        "item" : "4:14"
+      }, {
+        "count" : 10,
+        "item" : "4:38"
+      }, {
+        "count" : 9,
+        "item" : "4:40"
+      }, {
+        "count" : 9,
+        "item" : "4:49"
+      }, {
+        "count" : 9,
+        "item" : "4:11"
+      }, {
+        "count" : 9,
+        "item" : "4:27"
+      }, {
+        "count" : 8,
+        "item" : "4:22"
+      }, {
+        "count" : 8,
+        "item" : "4:24"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+    "orderBys" : [ {
+      "ascending" : true,
+      "expression" : {
+        "columnId" : 2825852,
+        "type" : "column"
+      }
+    } ]
+  },
+  "rights" : [ "read" ],
+  "sortBys" : [ {
+    "id" : 0,
+    "viewColumnId" : 2825852,
+    "flags" : [ "asc" ]
+  } ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "safety", "fire", "health", "medical", "response", "emergency", "emergencies", "time" ],
+  "flags" : [ "default" ]
+}

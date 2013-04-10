@@ -1,0 +1,412 @@
+{
+  "id" : "6u6h-px7z",
+  "name" : "Population Change For 20 Largest Cities In the United States",
+  "attribution" : "Department of City Planning (DCP)",
+  "attributionLink" : "http://www.nyc.gov/html/dcp/pdf/census/census2010/pgrhc.pdf",
+  "averageRating" : 0,
+  "category" : "Statistics",
+  "createdAt" : 1361383980,
+  "description" : "Population Change For 20 Largest Cities In the United States",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2575916,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361384141,
+  "publicationGroup" : 689193,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1361383983,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 689193,
+  "totalTimesRated" : 0,
+  "viewCount" : 17,
+  "viewLastModified" : 1361384251,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 45884227,
+    "name" : "Rank",
+    "dataTypeName" : "number",
+    "fieldName" : "rank",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8017854,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : "1",
+      "sum" : "210",
+      "null" : 0,
+      "average" : "10.5",
+      "largest" : "20",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "11"
+      }, {
+        "count" : 9,
+        "item" : "12"
+      }, {
+        "count" : 8,
+        "item" : "13"
+      }, {
+        "count" : 7,
+        "item" : "14"
+      }, {
+        "count" : 6,
+        "item" : "15"
+      }, {
+        "count" : 5,
+        "item" : "16"
+      }, {
+        "count" : 4,
+        "item" : "17"
+      }, {
+        "count" : 3,
+        "item" : "18"
+      }, {
+        "count" : 2,
+        "item" : "19"
+      }, {
+        "count" : 1,
+        "item" : "20"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45884228,
+    "name" : "City",
+    "dataTypeName" : "text",
+    "fieldName" : "city",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8017855,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : "Austin, TX",
+      "null" : 0,
+      "largest" : "San Jose, CA",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New York, NY"
+      }, {
+        "count" : 19,
+        "item" : "Los Angeles, CA"
+      }, {
+        "count" : 18,
+        "item" : "Chicago, IL"
+      }, {
+        "count" : 17,
+        "item" : "Houston, TX"
+      }, {
+        "count" : 16,
+        "item" : "Philadelphia, PA"
+      }, {
+        "count" : 15,
+        "item" : "Phoenix, AZ"
+      }, {
+        "count" : 14,
+        "item" : "San Antonio, TX"
+      }, {
+        "count" : 13,
+        "item" : "San Diego, CA"
+      }, {
+        "count" : 12,
+        "item" : "Dallas, TX"
+      }, {
+        "count" : 11,
+        "item" : "San Jose, CA"
+      }, {
+        "count" : 10,
+        "item" : "Louisville, KY"
+      }, {
+        "count" : 9,
+        "item" : "Jacksonville, FL"
+      }, {
+        "count" : 8,
+        "item" : "Indianapolis, IN"
+      }, {
+        "count" : 7,
+        "item" : "San Francisco, CA"
+      }, {
+        "count" : 6,
+        "item" : "Austin, TX"
+      }, {
+        "count" : 5,
+        "item" : "Columbus, OH"
+      }, {
+        "count" : 4,
+        "item" : "Fort Worth, TX"
+      }, {
+        "count" : 3,
+        "item" : "Charlotte, NC"
+      }, {
+        "count" : 2,
+        "item" : "Detroit, MI"
+      }, {
+        "count" : 1,
+        "item" : "El Paso, TX"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45884229,
+    "name" : "2000 Population",
+    "dataTypeName" : "text",
+    "fieldName" : "_2000_population",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8017856,
+    "width" : 130,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : "-",
+      "null" : 0,
+      "largest" : "951,270",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8,008,278"
+      }, {
+        "count" : 19,
+        "item" : "3,694,820"
+      }, {
+        "count" : 18,
+        "item" : "2,896,016"
+      }, {
+        "count" : 17,
+        "item" : "1,953,631"
+      }, {
+        "count" : 16,
+        "item" : "1,517,550"
+      }, {
+        "count" : 15,
+        "item" : "1,321,045"
+      }, {
+        "count" : 14,
+        "item" : "1,144,646"
+      }, {
+        "count" : 13,
+        "item" : "1,223,400"
+      }, {
+        "count" : 12,
+        "item" : "1,188,580"
+      }, {
+        "count" : 11,
+        "item" : "894,943"
+      }, {
+        "count" : 10,
+        "item" : "-"
+      }, {
+        "count" : 9,
+        "item" : "735,617"
+      }, {
+        "count" : 8,
+        "item" : "781,870"
+      }, {
+        "count" : 7,
+        "item" : "776,733"
+      }, {
+        "count" : 6,
+        "item" : "656,562"
+      }, {
+        "count" : 5,
+        "item" : "711,470"
+      }, {
+        "count" : 4,
+        "item" : "534,694"
+      }, {
+        "count" : 3,
+        "item" : "540,828"
+      }, {
+        "count" : 2,
+        "item" : "951,270"
+      }, {
+        "count" : 1,
+        "item" : "563,662"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45884230,
+    "name" : "2010 Population",
+    "dataTypeName" : "text",
+    "fieldName" : "_2010_population",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8017857,
+    "width" : 134,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : "1,197,816",
+      "null" : 0,
+      "largest" : "945,942",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8,175,133"
+      }, {
+        "count" : 19,
+        "item" : "3,792,621"
+      }, {
+        "count" : 18,
+        "item" : "2,695,598"
+      }, {
+        "count" : 17,
+        "item" : "2,099,451"
+      }, {
+        "count" : 16,
+        "item" : "1,526,006"
+      }, {
+        "count" : 15,
+        "item" : "1,445,632"
+      }, {
+        "count" : 14,
+        "item" : "1,327,407"
+      }, {
+        "count" : 13,
+        "item" : "1,307,402"
+      }, {
+        "count" : 12,
+        "item" : "1,197,816"
+      }, {
+        "count" : 11,
+        "item" : "945,942"
+      }, {
+        "count" : 10,
+        "item" : "741,096"
+      }, {
+        "count" : 9,
+        "item" : "821,784"
+      }, {
+        "count" : 8,
+        "item" : "820,445"
+      }, {
+        "count" : 7,
+        "item" : "805,235"
+      }, {
+        "count" : 6,
+        "item" : "790,390"
+      }, {
+        "count" : 5,
+        "item" : "787,033"
+      }, {
+        "count" : 4,
+        "item" : "741,206"
+      }, {
+        "count" : 3,
+        "item" : "731,424"
+      }, {
+        "count" : 2,
+        "item" : "713,777"
+      }, {
+        "count" : 1,
+        "item" : "649,121"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45884231,
+    "name" : "Comments",
+    "dataTypeName" : "text",
+    "fieldName" : "comments",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8017858,
+    "width" : 658,
+    "cachedContents" : {
+      "non_null" : 17,
+      "smallest" : "Achieved population peak in 2010",
+      "null" : 3,
+      "largest" : "Achieved population peak in 2010. In 2003, Louisville city and Jefferson County combined to form a consolidated government. 2000 population and population change are not available for this geography.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Achieved population peak in 2010"
+      }, {
+        "count" : 19,
+        "item" : "Achieved population peak in 2010. In 2003, Louisville city and Jefferson County combined to form a consolidated government. 2000 population and population change are not available for this geography."
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dcp", "city", "planning", "population", "growth", "us" ],
+  "flags" : [ "default" ]
+}

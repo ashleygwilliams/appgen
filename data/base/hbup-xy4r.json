@@ -1,0 +1,925 @@
+{
+  "id" : "hbup-xy4r",
+  "name" : "Enrollment Capacity and Utilization Reports District 75 Special Ed.",
+  "attribution" : "School Construction Authority (SCA)",
+  "averageRating" : 0,
+  "category" : "Construction and Housing",
+  "createdAt" : 1362583230,
+  "description" : "The SCA’s comprehensive capital planning process includes developing and analyzing quality data, creating and updating the Department of Education’s Five-Year Capital Plans, and monitoring projects through completion. The SCA prioritizes capital projects to best meet the capacity and building improvements needs throughout the City.  Additionally, the SCA assures that the Capital Plan aligns with New York State and City Department of Education mandates, academic initiatives, and budgetary resources.  This is one of the most current published reports.",
+  "downloadCount" : 5,
+  "numberOfComments" : 0,
+  "oid" : 2730612,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362583241,
+  "publicationGroup" : 717690,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1362583240,
+  "rowsUpdatedBy" : "ci6y-i73t",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 717691,
+  "totalTimesRated" : 0,
+  "viewCount" : 12,
+  "viewLastModified" : 1363704245,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 48789457,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401127,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 74,
+      "smallest" : "BRONX",
+      "null" : 0,
+      "largest" : "STATEN ISLAND",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BRONX"
+      }, {
+        "count" : 19,
+        "item" : "BROOKLYN"
+      }, {
+        "count" : 18,
+        "item" : "MANHATTAN"
+      }, {
+        "count" : 17,
+        "item" : "QUEENS"
+      }, {
+        "count" : 16,
+        "item" : "STATEN ISLAND"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789458,
+    "name" : "District",
+    "dataTypeName" : "text",
+    "fieldName" : "district",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401128,
+    "width" : 320,
+    "cachedContents" : {
+      "non_null" : 74,
+      "smallest" : "75",
+      "null" : 0,
+      "largest" : "75",
+      "top" : [ {
+        "count" : 20,
+        "item" : "75"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789459,
+    "name" : "Bldg I.D.",
+    "dataTypeName" : "text",
+    "fieldName" : "bldg_i_d",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401129,
+    "width" : 360,
+    "cachedContents" : {
+      "non_null" : 74,
+      "smallest" : "K085",
+      "null" : 0,
+      "largest" : "X817",
+      "top" : [ {
+        "count" : 20,
+        "item" : "X084"
+      }, {
+        "count" : 19,
+        "item" : "X155"
+      }, {
+        "count" : 18,
+        "item" : "K148"
+      }, {
+        "count" : 17,
+        "item" : "K396"
+      }, {
+        "count" : 16,
+        "item" : "K834"
+      }, {
+        "count" : 15,
+        "item" : "K902"
+      }, {
+        "count" : 14,
+        "item" : "M058"
+      }, {
+        "count" : 13,
+        "item" : "M169"
+      }, {
+        "count" : 12,
+        "item" : "M751"
+      }, {
+        "count" : 11,
+        "item" : "Q142"
+      }, {
+        "count" : 10,
+        "item" : "Q835"
+      }, {
+        "count" : 9,
+        "item" : "Q875"
+      }, {
+        "count" : 8,
+        "item" : "Q979"
+      }, {
+        "count" : 7,
+        "item" : "R025"
+      }, {
+        "count" : 6,
+        "item" : "R040"
+      }, {
+        "count" : 5,
+        "item" : "R722"
+      }, {
+        "count" : 4,
+        "item" : "R818"
+      }, {
+        "count" : 3,
+        "item" : "R819"
+      }, {
+        "count" : 2,
+        "item" : "R825"
+      }, {
+        "count" : 1,
+        "item" : "R840"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789460,
+    "name" : "Building Name",
+    "dataTypeName" : "text",
+    "fieldName" : "building_name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401130,
+    "width" : 260,
+    "cachedContents" : {
+      "non_null" : 74,
+      "smallest" : "P.S. 10 - BRONX",
+      "null" : 0,
+      "largest" : "SKILLMAN HIGH SCHOOL - QUEENS",
+      "top" : [ {
+        "count" : 20,
+        "item" : "P.S. 811 (OLD I84) - BRONX"
+      }, {
+        "count" : 19,
+        "item" : "P.S. 754 (OLD IS155) - BRONX"
+      }, {
+        "count" : 18,
+        "item" : "P.S. 373 (OLD P148) - BROOKLYN"
+      }, {
+        "count" : 17,
+        "item" : "P.S. 396 (TANDEM K327-D23) - K"
+      }, {
+        "count" : 16,
+        "item" : "P.S. 372 (OUR LADY OF PEACE)-K"
+      }, {
+        "count" : 15,
+        "item" : "P.S. 77 ANNEX - BROOKLYN"
+      }, {
+        "count" : 14,
+        "item" : "P.S. 35 (OLD 58/MNHT HS) - M"
+      }, {
+        "count" : 13,
+        "item" : "P.S. 169 (ECF) - MANHATTAN"
+      }, {
+        "count" : 12,
+        "item" : "P.S. 751 (CAR.DEV/OLD 25) - M"
+      }, {
+        "count" : 11,
+        "item" : "P.S. 752 (OLD J142) - QUEENS"
+      }, {
+        "count" : 10,
+        "item" : "P.S. 233 MINISCHOOL1 (OLD P134)-Q"
+      }, {
+        "count" : 9,
+        "item" : "P.S. 233 MINISCHOOL2 (OLD P752)-Q"
+      }, {
+        "count" : 8,
+        "item" : "P.S. 177 TEMP. C.R. BLDG. - Q"
+      }, {
+        "count" : 7,
+        "item" : "P.S. 25 ANNEX (OLD 4) - S. I."
+      }, {
+        "count" : 6,
+        "item" : "P.S. 373 (OLD P40) - STATEN ISLAND"
+      }, {
+        "count" : 5,
+        "item" : "P.S. 722 (OTC) - STATEN ISLAND"
+      }, {
+        "count" : 4,
+        "item" : "P.S 37 TRANSPORTABLE - S.I."
+      }, {
+        "count" : 3,
+        "item" : "P.S. 37 TRANSPORTABLE - S.I."
+      }, {
+        "count" : 2,
+        "item" : "P.S. 25 (MOUNT LORETTO) - S.I."
+      }, {
+        "count" : 1,
+        "item" : "P.S. 37 ( OLD I24X)-STATEN ISLAND"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789461,
+    "name" : "Bldg Enroll",
+    "dataTypeName" : "text",
+    "fieldName" : "bldg_enroll",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401131,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 74,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "96",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "40"
+      }, {
+        "count" : 18,
+        "item" : "77"
+      }, {
+        "count" : 17,
+        "item" : "47"
+      }, {
+        "count" : 16,
+        "item" : "234"
+      }, {
+        "count" : 15,
+        "item" : "190"
+      }, {
+        "count" : 14,
+        "item" : "180"
+      }, {
+        "count" : 13,
+        "item" : "307"
+      }, {
+        "count" : 12,
+        "item" : "59"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789462,
+    "name" : "Bldg Capacity",
+    "dataTypeName" : "text",
+    "fieldName" : "bldg_capacity",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401132,
+    "width" : 260,
+    "cachedContents" : {
+      "non_null" : 74,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "96",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "44"
+      }, {
+        "count" : 18,
+        "item" : "493"
+      }, {
+        "count" : 17,
+        "item" : "279"
+      }, {
+        "count" : 16,
+        "item" : "40"
+      }, {
+        "count" : 15,
+        "item" : "254"
+      }, {
+        "count" : 14,
+        "item" : "228"
+      }, {
+        "count" : 13,
+        "item" : "155"
+      }, {
+        "count" : 12,
+        "item" : "338"
+      }, {
+        "count" : 11,
+        "item" : "52"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789463,
+    "name" : "Bldg Over/Under",
+    "dataTypeName" : "text",
+    "fieldName" : "bldg_over_under",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401133,
+    "width" : 300,
+    "cachedContents" : {
+      "non_null" : 74,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "-96",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "-20"
+      }, {
+        "count" : 18,
+        "item" : "-4"
+      }, {
+        "count" : 17,
+        "item" : "-27"
+      }, {
+        "count" : 16,
+        "item" : "-38"
+      }, {
+        "count" : 15,
+        "item" : "25"
+      }, {
+        "count" : 14,
+        "item" : "-31"
+      }, {
+        "count" : 13,
+        "item" : "7"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789464,
+    "name" : "Bldg Utilization",
+    "dataTypeName" : "text",
+    "fieldName" : "bldg_utilization",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401134,
+    "width" : 320,
+    "cachedContents" : {
+      "non_null" : 74,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "99",
+      "top" : [ {
+        "count" : 20,
+        "item" : "70"
+      }, {
+        "count" : 19,
+        "item" : "86"
+      }, {
+        "count" : 18,
+        "item" : "0"
+      }, {
+        "count" : 17,
+        "item" : "71"
+      }, {
+        "count" : 16,
+        "item" : "91"
+      }, {
+        "count" : 15,
+        "item" : "88"
+      }, {
+        "count" : 14,
+        "item" : "77"
+      }, {
+        "count" : 13,
+        "item" : "116"
+      }, {
+        "count" : 12,
+        "item" : "113"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789465,
+    "name" : "Org ID",
+    "dataTypeName" : "text",
+    "fieldName" : "org_id",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401135,
+    "width" : 240,
+    "cachedContents" : {
+      "non_null" : 74,
+      "smallest" : "K004",
+      "null" : 0,
+      "largest" : "XG15",
+      "top" : [ {
+        "count" : 20,
+        "item" : "K004"
+      }, {
+        "count" : 19,
+        "item" : "K036"
+      }, {
+        "count" : 18,
+        "item" : "MG15"
+      }, {
+        "count" : 17,
+        "item" : "M226"
+      }, {
+        "count" : 16,
+        "item" : "Q009"
+      }, {
+        "count" : 15,
+        "item" : "Q075"
+      }, {
+        "count" : 14,
+        "item" : "Q540"
+      }, {
+        "count" : 13,
+        "item" : "Q752"
+      }, {
+        "count" : 12,
+        "item" : "QG06"
+      }, {
+        "count" : 11,
+        "item" : "Q177"
+      }, {
+        "count" : 10,
+        "item" : "Q004"
+      }, {
+        "count" : 9,
+        "item" : "Q721"
+      }, {
+        "count" : 8,
+        "item" : "Q224"
+      }, {
+        "count" : 7,
+        "item" : "Q811"
+      }, {
+        "count" : 6,
+        "item" : "Q256"
+      }, {
+        "count" : 5,
+        "item" : "Q233"
+      }, {
+        "count" : 4,
+        "item" : "R025"
+      }, {
+        "count" : 3,
+        "item" : "R373"
+      }, {
+        "count" : 2,
+        "item" : "R721"
+      }, {
+        "count" : 1,
+        "item" : "RG15"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789466,
+    "name" : "Organization Name",
+    "dataTypeName" : "text",
+    "fieldName" : "organization_name",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401136,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 74,
+      "smallest" : "BEGINNING WITH CHLDREN CHARTER-K",
+      "null" : 0,
+      "largest" : "X811 SPED - BRONX                 ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "K004 SPED - BROOKLYN              "
+      }, {
+        "count" : 19,
+        "item" : "K036 SPED - BROOKLYN              "
+      }, {
+        "count" : 18,
+        "item" : "M721 SPED - MANHATTAN             "
+      }, {
+        "count" : 17,
+        "item" : "M226 SPED - MANHATTAN             "
+      }, {
+        "count" : 16,
+        "item" : "Q009 SPED - QUEENS                "
+      }, {
+        "count" : 15,
+        "item" : "Q075 SPED - QUEENS"
+      }, {
+        "count" : 14,
+        "item" : "QUEENS ACADEMY HIGH SCHOOL - Q"
+      }, {
+        "count" : 13,
+        "item" : "Q752 SPED - QUEENS                "
+      }, {
+        "count" : 12,
+        "item" : "FOOD SERVICES - QUEENS"
+      }, {
+        "count" : 11,
+        "item" : "Q177 SPED - QUEENS"
+      }, {
+        "count" : 10,
+        "item" : "Q004 SPED - QUEENS"
+      }, {
+        "count" : 9,
+        "item" : "Q721 SPED - QUEENS                "
+      }, {
+        "count" : 8,
+        "item" : "Q224 SPED - QUEENS"
+      }, {
+        "count" : 7,
+        "item" : "Q811 SPED - QUEENS"
+      }, {
+        "count" : 6,
+        "item" : "Q256 SPED - QUEENS"
+      }, {
+        "count" : 5,
+        "item" : "Q811 SPED - QUEENS                "
+      }, {
+        "count" : 4,
+        "item" : "Q233 SPED - QUEENS                "
+      }, {
+        "count" : 3,
+        "item" : "Q177 SPED - QUEENS                "
+      }, {
+        "count" : 2,
+        "item" : "R025 SPED - STATEN ISLAND"
+      }, {
+        "count" : 1,
+        "item" : "R373 SPED - STATEN ISLAND"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789467,
+    "name" : "Org Enroll",
+    "dataTypeName" : "text",
+    "fieldName" : "org_enroll",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401137,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 74,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "96",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "20"
+      }, {
+        "count" : 18,
+        "item" : "153"
+      }, {
+        "count" : 17,
+        "item" : "96"
+      }, {
+        "count" : 16,
+        "item" : "337"
+      }, {
+        "count" : 15,
+        "item" : "64"
+      }, {
+        "count" : 14,
+        "item" : "165"
+      }, {
+        "count" : 13,
+        "item" : "76"
+      }, {
+        "count" : 12,
+        "item" : "40"
+      }, {
+        "count" : 11,
+        "item" : "77"
+      }, {
+        "count" : 10,
+        "item" : "47"
+      }, {
+        "count" : 9,
+        "item" : "234"
+      }, {
+        "count" : 8,
+        "item" : "190"
+      }, {
+        "count" : 7,
+        "item" : "180"
+      }, {
+        "count" : 6,
+        "item" : "307"
+      }, {
+        "count" : 5,
+        "item" : "59"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789468,
+    "name" : "Org Capacity",
+    "dataTypeName" : "text",
+    "fieldName" : "org_capacity",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401138,
+    "width" : 240,
+    "cachedContents" : {
+      "non_null" : 74,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "96",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "223"
+      }, {
+        "count" : 18,
+        "item" : "40"
+      }, {
+        "count" : 17,
+        "item" : "143"
+      }, {
+        "count" : 16,
+        "item" : "390"
+      }, {
+        "count" : 15,
+        "item" : "42"
+      }, {
+        "count" : 14,
+        "item" : "215"
+      }, {
+        "count" : 13,
+        "item" : "96"
+      }, {
+        "count" : 12,
+        "item" : "44"
+      }, {
+        "count" : 11,
+        "item" : "67"
+      }, {
+        "count" : 10,
+        "item" : "117"
+      }, {
+        "count" : 9,
+        "item" : "104"
+      }, {
+        "count" : 8,
+        "item" : "254"
+      }, {
+        "count" : 7,
+        "item" : "228"
+      }, {
+        "count" : 6,
+        "item" : "155"
+      }, {
+        "count" : 5,
+        "item" : "338"
+      }, {
+        "count" : 4,
+        "item" : "52"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789469,
+    "name" : "Org Over/Under",
+    "dataTypeName" : "text",
+    "fieldName" : "org_over_under",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401139,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 74,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "-96",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "-20"
+      }, {
+        "count" : 18,
+        "item" : "1"
+      }, {
+        "count" : 17,
+        "item" : "14"
+      }, {
+        "count" : 16,
+        "item" : "-36"
+      }, {
+        "count" : 15,
+        "item" : "22"
+      }, {
+        "count" : 14,
+        "item" : "-50"
+      }, {
+        "count" : 13,
+        "item" : "-4"
+      }, {
+        "count" : 12,
+        "item" : "-27"
+      }, {
+        "count" : 11,
+        "item" : "-40"
+      }, {
+        "count" : 10,
+        "item" : "-57"
+      }, {
+        "count" : 9,
+        "item" : "-38"
+      }, {
+        "count" : 8,
+        "item" : "25"
+      }, {
+        "count" : 7,
+        "item" : "-31"
+      }, {
+        "count" : 6,
+        "item" : "7"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789470,
+    "name" : "Org Utilization",
+    "dataTypeName" : "text",
+    "fieldName" : "org_utilization",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401140,
+    "width" : 300,
+    "cachedContents" : {
+      "non_null" : 74,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "99",
+      "top" : [ {
+        "count" : 20,
+        "item" : "70"
+      }, {
+        "count" : 19,
+        "item" : "86"
+      }, {
+        "count" : 18,
+        "item" : "0"
+      }, {
+        "count" : 17,
+        "item" : "50"
+      }, {
+        "count" : 16,
+        "item" : "71"
+      }, {
+        "count" : 15,
+        "item" : "100"
+      }, {
+        "count" : 14,
+        "item" : "88"
+      }, {
+        "count" : 13,
+        "item" : "87"
+      }, {
+        "count" : 12,
+        "item" : "91"
+      }, {
+        "count" : 11,
+        "item" : "60"
+      }, {
+        "count" : 10,
+        "item" : "66"
+      }, {
+        "count" : 9,
+        "item" : "45"
+      }, {
+        "count" : 8,
+        "item" : "92"
+      }, {
+        "count" : 7,
+        "item" : "83"
+      }, {
+        "count" : 6,
+        "item" : "116"
+      }, {
+        "count" : 5,
+        "item" : "113"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789471,
+    "name" : "No. of Spec rooms used",
+    "dataTypeName" : "text",
+    "fieldName" : "no_of_spec_rooms_used",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401141,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 74,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "4",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      }, {
+        "count" : 18,
+        "item" : "4"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789472,
+    "name" : "Inclusionary",
+    "dataTypeName" : "text",
+    "fieldName" : "inclusionary",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401142,
+    "width" : 240,
+    "cachedContents" : {
+      "non_null" : 1,
+      "smallest" : "Some",
+      "null" : 73,
+      "largest" : "Some",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Some"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ci6y-i73t",
+    "displayName" : "Harish Pathria",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358262517,
+    "roleName" : "publisher",
+    "screenName" : "Harish Pathria",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ci6y-i73t",
+    "displayName" : "Harish Pathria",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358262517,
+    "roleName" : "publisher",
+    "screenName" : "Harish Pathria",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "school", "construction", "authority", "sca", "capacity", "utilization", "lifelong learning" ],
+  "flags" : [ "default" ]
+}

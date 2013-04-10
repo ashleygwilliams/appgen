@@ -1,0 +1,746 @@
+{
+  "id" : "z4hj-p6bi",
+  "name" : "Projected Population 2000-2030 - Males By Age Groups",
+  "attribution" : "Department of City Planning (DCP)",
+  "averageRating" : 0,
+  "category" : "Statistics",
+  "createdAt" : 1319565791,
+  "description" : "Projected male New York City population for five intervals from 2000 through 2030 by borough, broken down by 18 age cohorts. (Age groups may not add up to the total due to rounding.)",
+  "displayType" : "table",
+  "downloadCount" : 19,
+  "numberOfComments" : 0,
+  "oid" : 353625,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1319565866,
+  "publicationGroup" : 248176,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1319565793,
+  "rowsUpdatedBy" : "rnig-m3uj",
+  "signed" : false,
+  "tableId" : 248176,
+  "totalTimesRated" : 0,
+  "viewCount" : 42,
+  "viewLastModified" : 1340900124,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3248106,
+    "name" : "Boro",
+    "dataTypeName" : "text",
+    "fieldName" : "boro",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1625346,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 114,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NYC Total"
+      }, {
+        "count" : 19,
+        "item" : "Bronx"
+      }, {
+        "count" : 18,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 17,
+        "item" : "Manhattan"
+      }, {
+        "count" : 16,
+        "item" : "Queens"
+      }, {
+        "count" : 15,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248107,
+    "name" : "Age",
+    "dataTypeName" : "text",
+    "fieldName" : "age",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1625347,
+    "width" : 136,
+    "cachedContents" : {
+      "non_null" : 114,
+      "smallest" : "0-4",
+      "null" : 0,
+      "largest" : "Total",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0-4"
+      }, {
+        "count" : 19,
+        "item" : "5-9"
+      }, {
+        "count" : 18,
+        "item" : "10-14"
+      }, {
+        "count" : 17,
+        "item" : "15-19"
+      }, {
+        "count" : 16,
+        "item" : "20-24"
+      }, {
+        "count" : 15,
+        "item" : "25-29"
+      }, {
+        "count" : 14,
+        "item" : "30-34"
+      }, {
+        "count" : 13,
+        "item" : "35-39"
+      }, {
+        "count" : 12,
+        "item" : "40-44"
+      }, {
+        "count" : 11,
+        "item" : "45-49"
+      }, {
+        "count" : 10,
+        "item" : "50-54"
+      }, {
+        "count" : 9,
+        "item" : "55-59"
+      }, {
+        "count" : 8,
+        "item" : "60-64"
+      }, {
+        "count" : 7,
+        "item" : "65-69"
+      }, {
+        "count" : 6,
+        "item" : "70-74"
+      }, {
+        "count" : 5,
+        "item" : "75-79"
+      }, {
+        "count" : 4,
+        "item" : "80-84"
+      }, {
+        "count" : 3,
+        "item" : "85+"
+      }, {
+        "count" : 2,
+        "item" : "Total"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248108,
+    "name" : "2000",
+    "dataTypeName" : "number",
+    "fieldName" : "_1",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625348,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 114,
+      "smallest" : "1667",
+      "sum" : "15176816",
+      "null" : 0,
+      "average" : "133129.9649122807",
+      "largest" : "3794204",
+      "top" : [ {
+        "count" : 20,
+        "item" : "95355"
+      }, {
+        "count" : 19,
+        "item" : "94666"
+      }, {
+        "count" : 18,
+        "item" : "86157"
+      }, {
+        "count" : 17,
+        "item" : "72918"
+      }, {
+        "count" : 16,
+        "item" : "63371"
+      }, {
+        "count" : 15,
+        "item" : "48102"
+      }, {
+        "count" : 14,
+        "item" : "41129"
+      }, {
+        "count" : 13,
+        "item" : "33231"
+      }, {
+        "count" : 12,
+        "item" : "28964"
+      }, {
+        "count" : 11,
+        "item" : "23031"
+      }, {
+        "count" : 10,
+        "item" : "14283"
+      }, {
+        "count" : 9,
+        "item" : "10629"
+      }, {
+        "count" : 8,
+        "item" : "1073568"
+      }, {
+        "count" : 7,
+        "item" : "15329"
+      }, {
+        "count" : 6,
+        "item" : "16923"
+      }, {
+        "count" : 5,
+        "item" : "16474"
+      }, {
+        "count" : 4,
+        "item" : "15192"
+      }, {
+        "count" : 3,
+        "item" : "13621"
+      }, {
+        "count" : 2,
+        "item" : "14544"
+      }, {
+        "count" : 1,
+        "item" : "16680"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248109,
+    "name" : "2005",
+    "dataTypeName" : "number",
+    "fieldName" : "_2",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625349,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 114,
+      "smallest" : "1960",
+      "sum" : "15623578",
+      "null" : 0,
+      "average" : "137048.9298245614",
+      "largest" : "3905894",
+      "top" : [ {
+        "count" : 20,
+        "item" : "92195"
+      }, {
+        "count" : 19,
+        "item" : "89482"
+      }, {
+        "count" : 18,
+        "item" : "92761"
+      }, {
+        "count" : 17,
+        "item" : "80415"
+      }, {
+        "count" : 16,
+        "item" : "71309"
+      }, {
+        "count" : 15,
+        "item" : "55121"
+      }, {
+        "count" : 14,
+        "item" : "41921"
+      }, {
+        "count" : 13,
+        "item" : "33174"
+      }, {
+        "count" : 12,
+        "item" : "24727"
+      }, {
+        "count" : 11,
+        "item" : "21325"
+      }, {
+        "count" : 10,
+        "item" : "14042"
+      }, {
+        "count" : 9,
+        "item" : "10310"
+      }, {
+        "count" : 8,
+        "item" : "1093933"
+      }, {
+        "count" : 7,
+        "item" : "14922"
+      }, {
+        "count" : 6,
+        "item" : "16292"
+      }, {
+        "count" : 5,
+        "item" : "17917"
+      }, {
+        "count" : 4,
+        "item" : "16650"
+      }, {
+        "count" : 3,
+        "item" : "15047"
+      }, {
+        "count" : 2,
+        "item" : "14710"
+      }, {
+        "count" : 1,
+        "item" : "16066"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248110,
+    "name" : "2010",
+    "dataTypeName" : "number",
+    "fieldName" : "_3",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625350,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 114,
+      "smallest" : "2288",
+      "sum" : "16057742",
+      "null" : 0,
+      "average" : "140857.3859649123",
+      "largest" : "4014435",
+      "top" : [ {
+        "count" : 20,
+        "item" : "94393"
+      }, {
+        "count" : 19,
+        "item" : "86475"
+      }, {
+        "count" : 18,
+        "item" : "87634"
+      }, {
+        "count" : 17,
+        "item" : "86536"
+      }, {
+        "count" : 16,
+        "item" : "78611"
+      }, {
+        "count" : 15,
+        "item" : "61992"
+      }, {
+        "count" : 14,
+        "item" : "48003"
+      }, {
+        "count" : 13,
+        "item" : "33787"
+      }, {
+        "count" : 12,
+        "item" : "24668"
+      }, {
+        "count" : 11,
+        "item" : "18228"
+      }, {
+        "count" : 10,
+        "item" : "13008"
+      }, {
+        "count" : 9,
+        "item" : "10086"
+      }, {
+        "count" : 8,
+        "item" : "1113430"
+      }, {
+        "count" : 7,
+        "item" : "15030"
+      }, {
+        "count" : 6,
+        "item" : "15890"
+      }, {
+        "count" : 5,
+        "item" : "17283"
+      }, {
+        "count" : 4,
+        "item" : "18118"
+      }, {
+        "count" : 3,
+        "item" : "16518"
+      }, {
+        "count" : 2,
+        "item" : "16303"
+      }, {
+        "count" : 1,
+        "item" : "16278"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248111,
+    "name" : "2015",
+    "dataTypeName" : "number",
+    "fieldName" : "_4",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625351,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 114,
+      "smallest" : "2495",
+      "sum" : "16375848",
+      "null" : 0,
+      "average" : "143647.7894736842",
+      "largest" : "4093962",
+      "top" : [ {
+        "count" : 20,
+        "item" : "96549"
+      }, {
+        "count" : 19,
+        "item" : "89693"
+      }, {
+        "count" : 18,
+        "item" : "85751"
+      }, {
+        "count" : 17,
+        "item" : "82824"
+      }, {
+        "count" : 16,
+        "item" : "85668"
+      }, {
+        "count" : 15,
+        "item" : "69310"
+      }, {
+        "count" : 14,
+        "item" : "54745"
+      }, {
+        "count" : 13,
+        "item" : "39254"
+      }, {
+        "count" : 12,
+        "item" : "25531"
+      }, {
+        "count" : 11,
+        "item" : "18482"
+      }, {
+        "count" : 10,
+        "item" : "11370"
+      }, {
+        "count" : 9,
+        "item" : "9801"
+      }, {
+        "count" : 8,
+        "item" : "1147780"
+      }, {
+        "count" : 7,
+        "item" : "15640"
+      }, {
+        "count" : 6,
+        "item" : "15725"
+      }, {
+        "count" : 5,
+        "item" : "16561"
+      }, {
+        "count" : 4,
+        "item" : "17166"
+      }, {
+        "count" : 3,
+        "item" : "17637"
+      }, {
+        "count" : 2,
+        "item" : "17617"
+      }, {
+        "count" : 1,
+        "item" : "17731"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248112,
+    "name" : "2020",
+    "dataTypeName" : "number",
+    "fieldName" : "_5",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625352,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 114,
+      "smallest" : "2495",
+      "sum" : "16688308",
+      "null" : 0,
+      "average" : "146388.6666666667",
+      "largest" : "4172077",
+      "top" : [ {
+        "count" : 20,
+        "item" : "101578"
+      }, {
+        "count" : 19,
+        "item" : "91858"
+      }, {
+        "count" : 18,
+        "item" : "89055"
+      }, {
+        "count" : 17,
+        "item" : "81150"
+      }, {
+        "count" : 16,
+        "item" : "82092"
+      }, {
+        "count" : 15,
+        "item" : "75644"
+      }, {
+        "count" : 14,
+        "item" : "61292"
+      }, {
+        "count" : 13,
+        "item" : "44813"
+      }, {
+        "count" : 12,
+        "item" : "29666"
+      }, {
+        "count" : 11,
+        "item" : "19152"
+      }, {
+        "count" : 10,
+        "item" : "11547"
+      }, {
+        "count" : 9,
+        "item" : "8950"
+      }, {
+        "count" : 8,
+        "item" : "1183281"
+      }, {
+        "count" : 7,
+        "item" : "16358"
+      }, {
+        "count" : 6,
+        "item" : "16368"
+      }, {
+        "count" : 5,
+        "item" : "16395"
+      }, {
+        "count" : 4,
+        "item" : "16468"
+      }, {
+        "count" : 3,
+        "item" : "16720"
+      }, {
+        "count" : 2,
+        "item" : "18830"
+      }, {
+        "count" : 1,
+        "item" : "19160"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248113,
+    "name" : "2025",
+    "dataTypeName" : "number",
+    "fieldName" : "_6",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625353,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 114,
+      "smallest" : "3067",
+      "sum" : "17159380",
+      "null" : 0,
+      "average" : "150520.8771929825",
+      "largest" : "4289845",
+      "top" : [ {
+        "count" : 20,
+        "item" : "112045"
+      }, {
+        "count" : 19,
+        "item" : "97161"
+      }, {
+        "count" : 18,
+        "item" : "91775"
+      }, {
+        "count" : 17,
+        "item" : "84999"
+      }, {
+        "count" : 16,
+        "item" : "81295"
+      }, {
+        "count" : 15,
+        "item" : "73663"
+      }, {
+        "count" : 14,
+        "item" : "68456"
+      }, {
+        "count" : 13,
+        "item" : "51890"
+      }, {
+        "count" : 12,
+        "item" : "35558"
+      }, {
+        "count" : 11,
+        "item" : "23883"
+      }, {
+        "count" : 10,
+        "item" : "13459"
+      }, {
+        "count" : 9,
+        "item" : "10679"
+      }, {
+        "count" : 8,
+        "item" : "1231581"
+      }, {
+        "count" : 7,
+        "item" : "16857"
+      }, {
+        "count" : 6,
+        "item" : "17140"
+      }, {
+        "count" : 5,
+        "item" : "17083"
+      }, {
+        "count" : 4,
+        "item" : "16331"
+      }, {
+        "count" : 3,
+        "item" : "16082"
+      }, {
+        "count" : 2,
+        "item" : "17877"
+      }, {
+        "count" : 1,
+        "item" : "20511"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248114,
+    "name" : "2030",
+    "dataTypeName" : "number",
+    "fieldName" : "_7",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625354,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 114,
+      "smallest" : "3967",
+      "sum" : "17563184",
+      "null" : 0,
+      "average" : "154063.0175438596",
+      "largest" : "4390796",
+      "top" : [ {
+        "count" : 20,
+        "item" : "108773"
+      }, {
+        "count" : 19,
+        "item" : "107473"
+      }, {
+        "count" : 18,
+        "item" : "97353"
+      }, {
+        "count" : 17,
+        "item" : "87861"
+      }, {
+        "count" : 16,
+        "item" : "85400"
+      }, {
+        "count" : 15,
+        "item" : "73180"
+      }, {
+        "count" : 14,
+        "item" : "66876"
+      }, {
+        "count" : 13,
+        "item" : "58134"
+      }, {
+        "count" : 12,
+        "item" : "41282"
+      }, {
+        "count" : 11,
+        "item" : "28689"
+      }, {
+        "count" : 10,
+        "item" : "16811"
+      }, {
+        "count" : 9,
+        "item" : "12592"
+      }, {
+        "count" : 8,
+        "item" : "1276392"
+      }, {
+        "count" : 7,
+        "item" : "16796"
+      }, {
+        "count" : 6,
+        "item" : "17684"
+      }, {
+        "count" : 5,
+        "item" : "17909"
+      }, {
+        "count" : 4,
+        "item" : "17025"
+      }, {
+        "count" : 3,
+        "item" : "15969"
+      }, {
+        "count" : 2,
+        "item" : "17207"
+      }, {
+        "count" : 1,
+        "item" : "19500"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Historical Data"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "rnig-m3uj",
+    "displayName" : "Jorge J.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/5083/4460/large-profile_large.png",
+    "profileImageUrlMedium" : "/images/profile/5083/4460/large-profile_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/5083/4460/large-profile_tiny.png",
+    "profileLastModified" : 1322859437,
+    "screenName" : "Jorge J."
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rnig-m3uj",
+    "displayName" : "Jorge J.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/5083/4460/large-profile_large.png",
+    "profileImageUrlMedium" : "/images/profile/5083/4460/large-profile_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/5083/4460/large-profile_tiny.png",
+    "profileLastModified" : 1322859437,
+    "screenName" : "Jorge J."
+  },
+  "tags" : [ "projected population 2000-2030 - males by age groups", "dcp", "2000", "2030" ],
+  "flags" : [ "default" ]
+}

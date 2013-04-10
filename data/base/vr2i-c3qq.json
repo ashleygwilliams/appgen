@@ -1,0 +1,169 @@
+{
+  "id" : "vr2i-c3qq",
+  "name" : "Citiwide Service Desk Statistics",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "attributionLink" : "http://www.nyc.gov/html/doitt/downloads/pdf/doitt_2010_annual_report.pdf",
+  "averageRating" : 0,
+  "category" : "Statistics",
+  "createdAt" : 1360334701,
+  "description" : "NYC Service Desk Statistics",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "numberOfComments" : 0,
+  "oid" : 2469142,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1360334951,
+  "publicationGroup" : 665531,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1360334704,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 665531,
+  "totalTimesRated" : 0,
+  "viewCount" : 25,
+  "viewLastModified" : 1360615136,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 43705704,
+    "name" : "Year",
+    "dataTypeName" : "text",
+    "fieldName" : "year",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7686974,
+    "width" : 82,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "2007",
+      "null" : 0,
+      "largest" : "2010",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2010"
+      }, {
+        "count" : 19,
+        "item" : "2007"
+      }, {
+        "count" : 18,
+        "item" : "2008"
+      }, {
+        "count" : 17,
+        "item" : "2009"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 43705705,
+    "name" : "Citiwide Service Desk Tasks",
+    "dataTypeName" : "text",
+    "fieldName" : "citiwide_service_desk_tasks",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7686975,
+    "width" : 293,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "Agencies, offices and organizations served",
+      "null" : 0,
+      "largest" : "Total incidents created in 2010",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Agencies, offices and organizations served"
+      }, {
+        "count" : 19,
+        "item" : "Total incidents created in 2010"
+      }, {
+        "count" : 18,
+        "item" : "Average time to resolve (days) incidents"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 43705706,
+    "name" : "Number",
+    "dataTypeName" : "number",
+    "fieldName" : "number",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7686976,
+    "width" : 125,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "1.71",
+      "sum" : "139093.50",
+      "null" : 0,
+      "average" : "23182.25",
+      "largest" : "138898",
+      "top" : [ {
+        "count" : 20,
+        "item" : "185"
+      }, {
+        "count" : 19,
+        "item" : "138898"
+      }, {
+        "count" : 18,
+        "item" : "4.07"
+      }, {
+        "count" : 17,
+        "item" : "2.16"
+      }, {
+        "count" : 16,
+        "item" : "2.56"
+      }, {
+        "count" : 15,
+        "item" : "1.71"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "doitt", "service", "desk", "statistics", "citiwide" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,423 @@
+{
+  "id" : "ewtv-wftx",
+  "name" : "DSNY: Collection Tonnages",
+  "attribution" : "Department of Sanitation (DSNY)",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1319037587,
+  "description" : "For each Community District, the tons of Refuse, Paper Recycling and Metal, Glass & Plastic Recycling that were collected by the Department of Sanitation (DSNY) during the calendar month.",
+  "displayType" : "table",
+  "downloadCount" : 156,
+  "numberOfComments" : 2,
+  "oid" : 348990,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1319037880,
+  "publicationGroup" : 246876,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1319037612,
+  "rowsUpdatedBy" : "k2fz-tf56",
+  "signed" : false,
+  "tableId" : 246876,
+  "totalTimesRated" : 0,
+  "viewCount" : 1960,
+  "viewLastModified" : 1363704628,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3145084,
+    "name" : "Month",
+    "dataTypeName" : "text",
+    "fieldName" : "month",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1605835,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 59,
+      "smallest" : "2011 / 09",
+      "null" : 0,
+      "largest" : "2011 / 09",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2011 / 09"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3145085,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1605836,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 59,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Manhattan"
+      }, {
+        "count" : 19,
+        "item" : "Bronx"
+      }, {
+        "count" : 18,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3145086,
+    "name" : "CommunityDistrict",
+    "dataTypeName" : "number",
+    "fieldName" : "communitydistrict",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1605837,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 59,
+      "smallest" : "1",
+      "sum" : "438",
+      "null" : 0,
+      "average" : "7.423728813559322",
+      "largest" : "18",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "11"
+      }, {
+        "count" : 9,
+        "item" : "12"
+      }, {
+        "count" : 8,
+        "item" : "13"
+      }, {
+        "count" : 7,
+        "item" : "14"
+      }, {
+        "count" : 6,
+        "item" : "15"
+      }, {
+        "count" : 5,
+        "item" : "16"
+      }, {
+        "count" : 4,
+        "item" : "17"
+      }, {
+        "count" : 3,
+        "item" : "18"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3145087,
+    "name" : "RefuseTonsCollected",
+    "dataTypeName" : "number",
+    "fieldName" : "refusetonscollected",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1605838,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 59,
+      "smallest" : "1241.24",
+      "sum" : "229114.25",
+      "null" : 0,
+      "average" : "3883.292372881356",
+      "largest" : "7201.87",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5975.13"
+      }, {
+        "count" : 19,
+        "item" : "4303.89"
+      }, {
+        "count" : 18,
+        "item" : "2813.21"
+      }, {
+        "count" : 17,
+        "item" : "5020.36"
+      }, {
+        "count" : 16,
+        "item" : "4496.98"
+      }, {
+        "count" : 15,
+        "item" : "5172"
+      }, {
+        "count" : 14,
+        "item" : "2991.34"
+      }, {
+        "count" : 13,
+        "item" : "6868.46"
+      }, {
+        "count" : 12,
+        "item" : "3930.76"
+      }, {
+        "count" : 11,
+        "item" : "4304.94"
+      }, {
+        "count" : 10,
+        "item" : "4251.46"
+      }, {
+        "count" : 9,
+        "item" : "3369.39"
+      }, {
+        "count" : 8,
+        "item" : "7201.87"
+      }, {
+        "count" : 7,
+        "item" : "5881.85"
+      }, {
+        "count" : 6,
+        "item" : "3758.73"
+      }, {
+        "count" : 5,
+        "item" : "6305.43"
+      }, {
+        "count" : 4,
+        "item" : "5155.77"
+      }, {
+        "count" : 3,
+        "item" : "6424.57"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3145088,
+    "name" : "PaperTonsCollected",
+    "dataTypeName" : "number",
+    "fieldName" : "papertonscollected",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1605839,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 59,
+      "smallest" : "80.88",
+      "sum" : "26230.97",
+      "null" : 0,
+      "average" : "444.5927118644068",
+      "largest" : "1232.56",
+      "top" : [ {
+        "count" : 20,
+        "item" : "653.01"
+      }, {
+        "count" : 19,
+        "item" : "584.42"
+      }, {
+        "count" : 18,
+        "item" : "376.24"
+      }, {
+        "count" : 17,
+        "item" : "414.94"
+      }, {
+        "count" : 16,
+        "item" : "375.58"
+      }, {
+        "count" : 15,
+        "item" : "724.31"
+      }, {
+        "count" : 14,
+        "item" : "463.59"
+      }, {
+        "count" : 13,
+        "item" : "929.72"
+      }, {
+        "count" : 12,
+        "item" : "546.35"
+      }, {
+        "count" : 11,
+        "item" : "448.43"
+      }, {
+        "count" : 10,
+        "item" : "448.11"
+      }, {
+        "count" : 9,
+        "item" : "566.36"
+      }, {
+        "count" : 8,
+        "item" : "505.05"
+      }, {
+        "count" : 7,
+        "item" : "593.86"
+      }, {
+        "count" : 6,
+        "item" : "272.92"
+      }, {
+        "count" : 5,
+        "item" : "723.06"
+      }, {
+        "count" : 4,
+        "item" : "678.55"
+      }, {
+        "count" : 3,
+        "item" : "933.83"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3145089,
+    "name" : "MGPTonsCollected",
+    "dataTypeName" : "number",
+    "fieldName" : "mgptonscollected",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1605840,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 59,
+      "smallest" : "76.03",
+      "sum" : "18412.23",
+      "null" : 0,
+      "average" : "312.0716949152542",
+      "largest" : "643.79",
+      "top" : [ {
+        "count" : 20,
+        "item" : "480.11"
+      }, {
+        "count" : 19,
+        "item" : "439.02"
+      }, {
+        "count" : 18,
+        "item" : "268.12"
+      }, {
+        "count" : 17,
+        "item" : "377.62"
+      }, {
+        "count" : 16,
+        "item" : "287.04"
+      }, {
+        "count" : 15,
+        "item" : "537.01"
+      }, {
+        "count" : 14,
+        "item" : "276.91"
+      }, {
+        "count" : 13,
+        "item" : "542.06"
+      }, {
+        "count" : 12,
+        "item" : "333.45"
+      }, {
+        "count" : 11,
+        "item" : "367.94"
+      }, {
+        "count" : 10,
+        "item" : "373.9"
+      }, {
+        "count" : 9,
+        "item" : "325.09"
+      }, {
+        "count" : 8,
+        "item" : "583.34"
+      }, {
+        "count" : 7,
+        "item" : "566.46"
+      }, {
+        "count" : 6,
+        "item" : "205.08"
+      }, {
+        "count" : 5,
+        "item" : "530.55"
+      }, {
+        "count" : 4,
+        "item" : "455.27"
+      }, {
+        "count" : 3,
+        "item" : "604.76"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "sanitation", "dsny", "refuse", "recycle", "recycling", "plastic", "metal", "paper", "community", "community district", "tonnage", "clean web" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,354 @@
+{
+  "id" : "vpb3-uf7s",
+  "name" : "Child health plus income levels",
+  "attribution" : "Human Resources Administration (HRA)",
+  "attributionLink" : "http://www.nyc.gov/html/hia/html/public_insurance/children.shtml",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1363717239,
+  "description" : "This table represents details of CHP (Child Health Plus) insurance. Child Health Plus provides free or low-cost health insurance for children under the age of 19 who are not eligible for Medicaid, coverage for children. All children receive their health care through a managed care plan. There are no immigration requirements for Child Health Plus.",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "numberOfComments" : 0,
+  "oid" : 2881001,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363726791,
+  "publicationGroup" : 743091,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1363717367,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 743095,
+  "totalTimesRated" : 0,
+  "viewCount" : 12,
+  "viewLastModified" : 1363726851,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 51666075,
+    "name" : "Premium Categories",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "premium_categories",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757481,
+    "width" : 294,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "$15 Per Child Per MonthMaximum of $45 per family)",
+      "null" : 0,
+      "largest" : "Full Premium Per Child Per Month",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Free Insurance"
+      }, {
+        "count" : 19,
+        "item" : "$9 Per Child Per Month\n(Maximum of $27 per family)"
+      }, {
+        "count" : 18,
+        "item" : "$15 Per Child Per MonthMaximum of $45 per family)"
+      }, {
+        "count" : 17,
+        "item" : "$30 Per Child Per Month (Maximum of $90 per family)"
+      }, {
+        "count" : 16,
+        "item" : "$45 Per Child Per Month (Maximum of $135 per family)"
+      }, {
+        "count" : 15,
+        "item" : "$60 Per Child Per Month (Maximum of $1820 per family)"
+      }, {
+        "count" : 14,
+        "item" : "Full Premium Per Child Per Month"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51666076,
+    "name" : "Family Size (1 ind.)\nMonthly Income",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "family_size__1_ind___monthly_income",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757482,
+    "width" : 199,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "1489",
+      "null" : 0,
+      "largest" : "Over $ 3724.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1489"
+      }, {
+        "count" : 19,
+        "item" : "2067"
+      }, {
+        "count" : 18,
+        "item" : "2328"
+      }, {
+        "count" : 17,
+        "item" : "2793"
+      }, {
+        "count" : 16,
+        "item" : "3258"
+      }, {
+        "count" : 15,
+        "item" : "3724"
+      }, {
+        "count" : 14,
+        "item" : "Over $ 3724.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51666077,
+    "name" : "Family Size (2 nos.)\nMonthly Income",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "family_size__2_nos___monthly_income",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757483,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "2017",
+      "null" : 0,
+      "largest" : "Over $ 5044.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2017"
+      }, {
+        "count" : 19,
+        "item" : "2800"
+      }, {
+        "count" : 18,
+        "item" : "3153"
+      }, {
+        "count" : 17,
+        "item" : "3783"
+      }, {
+        "count" : 16,
+        "item" : "4413"
+      }, {
+        "count" : 15,
+        "item" : "5044"
+      }, {
+        "count" : 14,
+        "item" : "Over $ 5044.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51666078,
+    "name" : "Family Size (3 nos.)\nMonthly Income",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "family_size__3_nos___monthly_income",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757484,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "2545",
+      "null" : 0,
+      "largest" : "Over $ 6364.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2545"
+      }, {
+        "count" : 19,
+        "item" : "3532"
+      }, {
+        "count" : 18,
+        "item" : "3978"
+      }, {
+        "count" : 17,
+        "item" : "4773"
+      }, {
+        "count" : 16,
+        "item" : "5568"
+      }, {
+        "count" : 15,
+        "item" : "6364"
+      }, {
+        "count" : 14,
+        "item" : "Over $ 6364.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51666079,
+    "name" : "Family Size (4 nos.)\nMonthly Income",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "family_size__4_nos___monthly_income",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757485,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "3073",
+      "null" : 0,
+      "largest" : "Over $ 7684.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3073"
+      }, {
+        "count" : 19,
+        "item" : "4265"
+      }, {
+        "count" : 18,
+        "item" : "4803"
+      }, {
+        "count" : 17,
+        "item" : "5763"
+      }, {
+        "count" : 16,
+        "item" : "6723"
+      }, {
+        "count" : 15,
+        "item" : "7684"
+      }, {
+        "count" : 14,
+        "item" : "Over $ 7684.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51666080,
+    "name" : "Family Size (5 nos.)\nMonthly Income",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "family_size__5_nos___monthly_income",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757486,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "3601",
+      "null" : 0,
+      "largest" : "Over $ 9004.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3601"
+      }, {
+        "count" : 19,
+        "item" : "4997"
+      }, {
+        "count" : 18,
+        "item" : "5628"
+      }, {
+        "count" : 17,
+        "item" : "6753"
+      }, {
+        "count" : 16,
+        "item" : "7878"
+      }, {
+        "count" : 15,
+        "item" : "9004"
+      }, {
+        "count" : 14,
+        "item" : "Over $ 9004.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51666081,
+    "name" : "Each Additional Person Add",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "each_additional_person_add",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757487,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "1155",
+      "null" : 0,
+      "largest" : "990",
+      "top" : [ {
+        "count" : 20,
+        "item" : "528"
+      }, {
+        "count" : 19,
+        "item" : "733"
+      }, {
+        "count" : 18,
+        "item" : "825"
+      }, {
+        "count" : 17,
+        "item" : "990"
+      }, {
+        "count" : 16,
+        "item" : "1155"
+      }, {
+        "count" : 15,
+        "item" : "1320"
+      }, {
+        "count" : 14,
+        "item" : "1247"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "jobs and economic mobility", "human resources administration", "hra", "children", "health", "plus" ],
+  "flags" : [ "default" ]
+}

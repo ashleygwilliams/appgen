@@ -1,0 +1,227 @@
+{
+  "id" : "8tc2-u7gc",
+  "name" : "Directory of Wind Types",
+  "attribution" : "Office of Emergency Management (OEM)",
+  "attributionLink" : "http://www.nyc.gov/html/oem/html/hazards/weather_wind.shtml",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1361908056,
+  "description" : "Details of Different wind types and their effects according to Beaufort Wind Scale",
+  "displayType" : "table",
+  "downloadCount" : 10,
+  "numberOfComments" : 0,
+  "oid" : 2645619,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361918443,
+  "publicationGroup" : 701465,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1361918406,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 701786,
+  "totalTimesRated" : 0,
+  "viewCount" : 12,
+  "viewLastModified" : 1361918476,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 47178374,
+    "name" : "Wind Type",
+    "dataTypeName" : "text",
+    "fieldName" : "wind_type",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8185795,
+    "width" : 111,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "Gale",
+      "null" : 0,
+      "largest" : "Violent Storm",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Strong Breeze"
+      }, {
+        "count" : 19,
+        "item" : "Near Gale"
+      }, {
+        "count" : 18,
+        "item" : "Gale"
+      }, {
+        "count" : 17,
+        "item" : "Strong Gale"
+      }, {
+        "count" : 16,
+        "item" : "Storm"
+      }, {
+        "count" : 15,
+        "item" : "Violent Storm"
+      }, {
+        "count" : 14,
+        "item" : "Hurricane"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47178375,
+    "name" : "Wind Speed Low",
+    "dataTypeName" : "text",
+    "fieldName" : "wind_speed_low",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8185796,
+    "width" : 146,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "25",
+      "null" : 0,
+      "largest" : "73",
+      "top" : [ {
+        "count" : 20,
+        "item" : "25"
+      }, {
+        "count" : 19,
+        "item" : "32"
+      }, {
+        "count" : 18,
+        "item" : "39"
+      }, {
+        "count" : 17,
+        "item" : "47"
+      }, {
+        "count" : 16,
+        "item" : "55"
+      }, {
+        "count" : 15,
+        "item" : "64"
+      }, {
+        "count" : 14,
+        "item" : "73"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47178376,
+    "name" : "Wind Speed High",
+    "dataTypeName" : "text",
+    "fieldName" : "wind_speed_high",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8185797,
+    "width" : 138,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "> 73",
+      "null" : 0,
+      "largest" : "72",
+      "top" : [ {
+        "count" : 20,
+        "item" : "31"
+      }, {
+        "count" : 19,
+        "item" : "38"
+      }, {
+        "count" : 18,
+        "item" : "46"
+      }, {
+        "count" : 17,
+        "item" : "54"
+      }, {
+        "count" : 16,
+        "item" : "63"
+      }, {
+        "count" : 15,
+        "item" : "72"
+      }, {
+        "count" : 14,
+        "item" : "> 73"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47178377,
+    "name" : "Type of Damage",
+    "dataTypeName" : "text",
+    "fieldName" : "type_of_damage",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8185798,
+    "width" : 703,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "Large branches in motion; whistling in telephone wires; umbrellas used with difficulty",
+      "null" : 0,
+      "largest" : "Widespread structural damage; roofs torn off homes; weak buildings and mobile homes destroyed; large trees uprooted",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Large branches in motion; whistling in telephone wires; umbrellas used with difficulty"
+      }, {
+        "count" : 19,
+        "item" : "Whole trees in motion; resistance felt while walking against the wind"
+      }, {
+        "count" : 18,
+        "item" : "Twigs break off of trees; wind impedes walking"
+      }, {
+        "count" : 17,
+        "item" : "Slight structural damage to chimneys and slate roofs"
+      }, {
+        "count" : 16,
+        "item" : "Seldom felt inland; trees uprooted; considerable structural damage"
+      }, {
+        "count" : 15,
+        "item" : "Very rarely experienced; widespread structural damage; roofing peels off buildings; windows broken; mobile homes overturned"
+      }, {
+        "count" : 14,
+        "item" : "Widespread structural damage; roofs torn off homes; weak buildings and mobile homes destroyed; large trees uprooted"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "oem", "emergency", "management", "services", "wind scale", "beaufort" ],
+  "flags" : [ "default" ]
+}

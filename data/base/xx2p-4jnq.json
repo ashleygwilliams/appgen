@@ -1,0 +1,564 @@
+{
+  "id" : "xx2p-4jnq",
+  "name" : "DCAS Managed Public Buildings",
+  "attribution" : "Department of Citywide Administrative Services (DCAS)",
+  "attributionLink" : "http://www.nyc.gov/html/dcas/downloads/pdf/misc/building_contact_list.pdf",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1362591824,
+  "description" : "This is the list (directory) of Department of Citywide Administrative Services (DCAS) managed public buildings along with the information that the building is DCAS secured or not.",
+  "displayType" : "table",
+  "downloadCount" : 1,
+  "numberOfComments" : 0,
+  "oid" : 2732565,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362598170,
+  "publicationGroup" : 717956,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1362598090,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 718103,
+  "totalTimesRated" : 0,
+  "viewCount" : 43,
+  "viewLastModified" : 1362598170,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 48819561,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8404938,
+    "width" : 82,
+    "cachedContents" : {
+      "non_null" : 55,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Manhattan"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48819577,
+    "name" : "Address",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 8404946,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 55,
+      "smallest" : {
+        "human_address" : "{\"address\":\"1 Centre St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+      },
+      "null" : 0,
+      "largest" : {
+        "human_address" : "{\"address\":\"Navy and Sand\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "human_address" : "{\"address\":\"125-01 Queens Blvd.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "human_address" : "{\"address\":\"25-10 Court House Square\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "human_address" : "{\"address\":\"88-11 Sutphin Blvd.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "human_address" : "{\"address\":\"152-02 Jamaica Ave.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "human_address" : "{\"address\":\"89-17 Sutphin Blvd.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "human_address" : "{\"address\":\"66-26 Metropolitan Ave.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "human_address" : "{\"address\":\"126-02 82nd Avenue\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "human_address" : "{\"address\":\"10 Richmond Terrace\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "human_address" : "{\"address\":\"18 Richmond Terrace\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "human_address" : "{\"address\":\"130 Stuyvesant Pl.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "human_address" : "{\"address\":\"927 Castleton Ave.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "human_address" : "{\"address\":\"67 Targee St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "human_address" : "{\"address\":\"111 Canal St.\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "human_address" : "{\"address\":\"100 Richmond Terrace\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      } ]
+    },
+    "format" : {
+      "align" : "left",
+      "view" : "address_coords"
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 48819563,
+    "name" : "Building ",
+    "dataTypeName" : "text",
+    "fieldName" : "building",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8404939,
+    "width" : 166,
+    "cachedContents" : {
+      "non_null" : 55,
+      "smallest" : "100 Gold St.",
+      "null" : 0,
+      "largest" : "Tweed Courthouse",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Queens Criminal Court"
+      }, {
+        "count" : 19,
+        "item" : "Long Island City Courthouse"
+      }, {
+        "count" : 18,
+        "item" : "Queens Supreme Court"
+      }, {
+        "count" : 17,
+        "item" : "Queens Family Court"
+      }, {
+        "count" : 16,
+        "item" : "Queens Civil Court"
+      }, {
+        "count" : 15,
+        "item" : "Central Storehouse"
+      }, {
+        "count" : 14,
+        "item" : "Queens Family Justice Center"
+      }, {
+        "count" : 13,
+        "item" : "Staten Island Borough Hall"
+      }, {
+        "count" : 12,
+        "item" : "Staten Island Supreme Court"
+      }, {
+        "count" : 11,
+        "item" : "130 Stuyvesant Pl."
+      }, {
+        "count" : 10,
+        "item" : "Staten Island Civil Court"
+      }, {
+        "count" : 9,
+        "item" : "Staten Island Criminal Court"
+      }, {
+        "count" : 8,
+        "item" : "Staten Island Village Hall"
+      }, {
+        "count" : 7,
+        "item" : "Staten Island Family Court"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48819565,
+    "name" : "Custodial Borough Supervisor Name",
+    "dataTypeName" : "text",
+    "fieldName" : "custodial_borough_supervisor_name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8404940,
+    "width" : 206,
+    "cachedContents" : {
+      "non_null" : 55,
+      "smallest" : "Ann Wilson",
+      "null" : 0,
+      "largest" : "Tammy Newkirk, Richard McCarthy",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Ann Wilson"
+      }, {
+        "count" : 19,
+        "item" : "Robert Pittman"
+      }, {
+        "count" : 18,
+        "item" : "Tammy Newkirk, Richard McCarthy"
+      }, {
+        "count" : 17,
+        "item" : "Derrick Barksdale"
+      }, {
+        "count" : 16,
+        "item" : "Bernice Blackman"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48819566,
+    "name" : "Custodial Borough Supervisor Phone ",
+    "dataTypeName" : "text",
+    "fieldName" : "custodial_borough_supervisor_phone",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8404941,
+    "width" : 209,
+    "cachedContents" : {
+      "non_null" : 55,
+      "smallest" : "347-386-2979",
+      "null" : 0,
+      "largest" : "917-681-2188",
+      "top" : [ {
+        "count" : 20,
+        "item" : "917-681-2182"
+      }, {
+        "count" : 19,
+        "item" : "917-681-2183"
+      }, {
+        "count" : 18,
+        "item" : "917-681-2184"
+      }, {
+        "count" : 17,
+        "item" : "917-681-2185"
+      }, {
+        "count" : 16,
+        "item" : "917-681-2186"
+      }, {
+        "count" : 15,
+        "item" : "917-681-2187"
+      }, {
+        "count" : 14,
+        "item" : "917-681-2188"
+      }, {
+        "count" : 13,
+        "item" : " 917-337-6289"
+      }, {
+        "count" : 12,
+        "item" : " 917-337-6290"
+      }, {
+        "count" : 11,
+        "item" : " 917-337-6291"
+      }, {
+        "count" : 10,
+        "item" : " 917-337-6292"
+      }, {
+        "count" : 9,
+        "item" : " 917-337-6293"
+      }, {
+        "count" : 8,
+        "item" : " 917-337-6294"
+      }, {
+        "count" : 7,
+        "item" : " 917-337-6295"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 48819568,
+    "name" : "Custodial ",
+    "dataTypeName" : "text",
+    "fieldName" : "custodial",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8404942,
+    "width" : 129,
+    "cachedContents" : {
+      "non_null" : 55,
+      "smallest" : "212-219-5096",
+      "null" : 0,
+      "largest" : "N/A",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N/A"
+      }, {
+        "count" : 19,
+        "item" : "718-520-3107"
+      }, {
+        "count" : 18,
+        "item" : "718-262-8357/8382"
+      }, {
+        "count" : 17,
+        "item" : "718-206-3213"
+      }, {
+        "count" : 16,
+        "item" : "718-520-3546"
+      }, {
+        "count" : 15,
+        "item" : "718-816-2381"
+      }, {
+        "count" : 14,
+        "item" : "718-390-5121"
+      }, {
+        "count" : 13,
+        "item" : "718-556-7354"
+      }, {
+        "count" : 12,
+        "item" : "718-556-5323"
+      }, {
+        "count" : 11,
+        "item" : "718-390-5199"
+      }, {
+        "count" : 10,
+        "item" : "718-390-8515"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 48819570,
+    "name" : "Engineering",
+    "dataTypeName" : "text",
+    "fieldName" : "engineering",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8404943,
+    "width" : 90,
+    "cachedContents" : {
+      "non_null" : 55,
+      "smallest" : "212-227-3602",
+      "null" : 0,
+      "largest" : "N/A",
+      "top" : [ {
+        "count" : 20,
+        "item" : "718-590-1061"
+      }, {
+        "count" : 19,
+        "item" : "718-590-3234"
+      }, {
+        "count" : 18,
+        "item" : "718-590-1814"
+      }, {
+        "count" : 17,
+        "item" : "718-590-3835"
+      }, {
+        "count" : 16,
+        "item" : "718-537-5870"
+      }, {
+        "count" : 15,
+        "item" : "718-643-2008"
+      }, {
+        "count" : 14,
+        "item" : "N/A"
+      }, {
+        "count" : 13,
+        "item" : "718-643-7856"
+      }, {
+        "count" : 12,
+        "item" : "718-403-4197"
+      }, {
+        "count" : 11,
+        "item" : "718-643-5224"
+      }, {
+        "count" : 10,
+        "item" : "718-875-1300, x26210"
+      }, {
+        "count" : 9,
+        "item" : "718-802-2515"
+      }, {
+        "count" : 8,
+        "item" : "718-422-8590"
+      }, {
+        "count" : 7,
+        "item" : "718-802-2815"
+      }, {
+        "count" : 6,
+        "item" : "212-669-2062"
+      }, {
+        "count" : 5,
+        "item" : "212-442-8527"
+      }, {
+        "count" : 4,
+        "item" : "212-442-8533"
+      }, {
+        "count" : 3,
+        "item" : "212-374-8533"
+      }, {
+        "count" : 2,
+        "item" : "212-442-0213"
+      }, {
+        "count" : 1,
+        "item" : "212-566-1973"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 48819572,
+    "name" : "DCAS Security ? ",
+    "dataTypeName" : "text",
+    "fieldName" : "dcas_security",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8404944,
+    "width" : 94,
+    "cachedContents" : {
+      "non_null" : 55,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48819574,
+    "name" : "Security",
+    "dataTypeName" : "text",
+    "fieldName" : "security",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8404945,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 54,
+      "smallest" : "212-334-7603",
+      "null" : 1,
+      "largest" : "Upper Level: 212-374-6766 1st Floor Entrance: 212-374-5913 1st Floor Camera:212-374-2831",
+      "top" : [ {
+        "count" : 20,
+        "item" : "718-298-1614"
+      }, {
+        "count" : 19,
+        "item" : "718-298-1071"
+      }, {
+        "count" : 18,
+        "item" : "718-298-1020"
+      }, {
+        "count" : 17,
+        "item" : "718-262-7111"
+      }, {
+        "count" : 16,
+        "item" : "Liaison 718-417-2020\nGuard 718-417-2000"
+      }, {
+        "count" : 15,
+        "item" : "East 718-298-0724\nWest 718-298-0725"
+      }, {
+        "count" : 14,
+        "item" : "718-816-2043"
+      }, {
+        "count" : 13,
+        "item" : "718-675-8708"
+      }, {
+        "count" : 12,
+        "item" : "Lobby: 718-556-2498\nGarage Guard: 718-448-5104"
+      }, {
+        "count" : 11,
+        "item" : "718-675-8450"
+      }, {
+        "count" : 10,
+        "item" : "718-675-8544"
+      }, {
+        "count" : 9,
+        "item" : "No Security Desk"
+      }, {
+        "count" : 8,
+        "item" : "718-675-8850"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "building", "buildings", "permit", "permits", "building permits", "department of citywide administrative services (dcas)" ],
+  "flags" : [ "default" ]
+}

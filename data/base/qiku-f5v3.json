@@ -1,0 +1,343 @@
+{
+  "id" : "qiku-f5v3",
+  "name" : "DEP -  Bureau of Wastewater Treatment (BWT) – 2011 Nuisance Complaints",
+  "attribution" : "Department of Environmental Protection (DEP)",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1315592518,
+  "description" : "A database of Department of Environmental Protection (DEP) nuisance complaints, by wastewater treatment plants and by monthly totals in the year 2011, assembled by the Bureau of Wastewater Treatment (BWT)",
+  "displayType" : "table",
+  "downloadCount" : 33,
+  "numberOfComments" : 0,
+  "oid" : 332730,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1315592518,
+  "publicationGroup" : 240228,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1315592520,
+  "rowsUpdatedBy" : "k2fz-tf56",
+  "signed" : false,
+  "tableId" : 240228,
+  "totalTimesRated" : 0,
+  "viewCount" : 180,
+  "viewLastModified" : 1363712573,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2833054,
+    "name" : "MONTH",
+    "dataTypeName" : "text",
+    "fieldName" : "month",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1517108,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 87,
+      "smallest" : "APRIL",
+      "null" : 0,
+      "largest" : "TOTAL",
+      "top" : [ {
+        "count" : 20,
+        "item" : "JANUARY"
+      }, {
+        "count" : 19,
+        "item" : "TOTAL"
+      }, {
+        "count" : 18,
+        "item" : "FEBRUARY"
+      }, {
+        "count" : 17,
+        "item" : "MARCH"
+      }, {
+        "count" : 16,
+        "item" : "APRIL"
+      }, {
+        "count" : 15,
+        "item" : "MAY"
+      }, {
+        "count" : 14,
+        "item" : "JUNE"
+      }, {
+        "count" : 13,
+        "item" : "JULY"
+      }, {
+        "count" : 12,
+        "item" : "AUGUST"
+      }, {
+        "count" : 11,
+        "item" : "SEPTEMBER"
+      }, {
+        "count" : 10,
+        "item" : "OCTOBER"
+      }, {
+        "count" : 9,
+        "item" : "NOVEMBER"
+      }, {
+        "count" : 8,
+        "item" : "DECEMBER"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2833055,
+    "name" : "PLANT",
+    "dataTypeName" : "text",
+    "fieldName" : "plant",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1517109,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 38,
+      "smallest" : "26th Ward",
+      "null" : 49,
+      "largest" : "WI",
+      "top" : [ {
+        "count" : 20,
+        "item" : "OH"
+      }, {
+        "count" : 19,
+        "item" : "RK"
+      }, {
+        "count" : 18,
+        "item" : "NR"
+      }, {
+        "count" : 17,
+        "item" : "26th Ward"
+      }, {
+        "count" : 16,
+        "item" : "CFN"
+      }, {
+        "count" : 15,
+        "item" : "OB"
+      }, {
+        "count" : 14,
+        "item" : "Rockaway"
+      }, {
+        "count" : 13,
+        "item" : "WI"
+      }, {
+        "count" : 12,
+        "item" : "CI"
+      }, {
+        "count" : 11,
+        "item" : "Jam"
+      }, {
+        "count" : 10,
+        "item" : "CFS"
+      }, {
+        "count" : 9,
+        "item" : "HP"
+      }, {
+        "count" : 8,
+        "item" : "BB"
+      }, {
+        "count" : 7,
+        "item" : "ROCK"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2833056,
+    "name" : "# COMPLAINT RESPONDED",
+    "dataTypeName" : "number",
+    "fieldName" : "complaint_responded",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1517110,
+    "width" : 352,
+    "cachedContents" : {
+      "non_null" : 45,
+      "smallest" : "0",
+      "sum" : "89",
+      "null" : 42,
+      "average" : "1.977777777777778",
+      "largest" : "8",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      }, {
+        "count" : 18,
+        "item" : "0"
+      }, {
+        "count" : 17,
+        "item" : "5"
+      }, {
+        "count" : 16,
+        "item" : "7"
+      }, {
+        "count" : 15,
+        "item" : "8"
+      }, {
+        "count" : 14,
+        "item" : "4"
+      }, {
+        "count" : 13,
+        "item" : "2"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2833057,
+    "name" : "# COMPLAINT REC'D",
+    "dataTypeName" : "number",
+    "fieldName" : "complaint_rec_d",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1517111,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 45,
+      "smallest" : "1",
+      "sum" : "192",
+      "null" : 42,
+      "average" : "4.266666666666667",
+      "largest" : "30",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      }, {
+        "count" : 18,
+        "item" : "6"
+      }, {
+        "count" : 17,
+        "item" : "9"
+      }, {
+        "count" : 16,
+        "item" : "11"
+      }, {
+        "count" : 15,
+        "item" : "10"
+      }, {
+        "count" : 14,
+        "item" : "2"
+      }, {
+        "count" : 13,
+        "item" : "13"
+      }, {
+        "count" : 12,
+        "item" : "4"
+      }, {
+        "count" : 11,
+        "item" : "15"
+      }, {
+        "count" : 10,
+        "item" : "12"
+      }, {
+        "count" : 9,
+        "item" : "8"
+      }, {
+        "count" : 8,
+        "item" : "30"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2833058,
+    "name" : "# COMPLAINT NOT RESPONDED W/IN 24",
+    "dataTypeName" : "number",
+    "fieldName" : "complaint_not_responded_w_in_24",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1517112,
+    "width" : 496,
+    "cachedContents" : {
+      "non_null" : 45,
+      "smallest" : "0",
+      "sum" : "102",
+      "null" : 42,
+      "average" : "2.266666666666667",
+      "largest" : "23",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      }, {
+        "count" : 18,
+        "item" : "2"
+      }, {
+        "count" : 17,
+        "item" : "3"
+      }, {
+        "count" : 16,
+        "item" : "6"
+      }, {
+        "count" : 15,
+        "item" : "4"
+      }, {
+        "count" : 14,
+        "item" : "9"
+      }, {
+        "count" : 13,
+        "item" : "7"
+      }, {
+        "count" : 12,
+        "item" : "8"
+      }, {
+        "count" : 11,
+        "item" : "23"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "dep", "environment", "environmental protection", "department of environmental protection", "nuisance complaints", "2011", "bureau of wastewater treatment", "wastewater", "nuisance", "complaints", "healthy living" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,260 @@
+{
+  "id" : "r69u-62nw",
+  "name" : "Adult Medicaid income levels",
+  "attribution" : "Human Resources Administration (HRA)",
+  "attributionLink" : "http://www.nyc.gov/html/hia/html/public_insurance/adults.shtml",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1363716207,
+  "description" : "This table represents details of Medicaid (coverage for Adults). Medicaid provides free health insurance for low-income adults. Eligible adults receive their medical care through a managed care plan or fee-for-service. While your application is being processed, Medicaid may provide up to 90 days of retroactive coverage for unpaid medical bills, if you are eligible during those 90 days.",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2882499,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363727051,
+  "publicationGroup" : 743044,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1363727015,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 743520,
+  "totalTimesRated" : 0,
+  "viewCount" : 7,
+  "viewLastModified" : 1363727062,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 51693454,
+    "name" : "Family Size (no.)",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "family_size",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8756662,
+    "width" : 167,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "1",
+      "null" : 0,
+      "largest" : "For each additional\nperson add:",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "For each additional\nperson add:"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 51693455,
+    "name" : "Yearly Income ($)",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "yearly_income",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8756663,
+    "width" : 96,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "14100",
+      "null" : 0,
+      "largest" : "9600",
+      "top" : [ {
+        "count" : 20,
+        "item" : "9600"
+      }, {
+        "count" : 19,
+        "item" : "14100"
+      }, {
+        "count" : 18,
+        "item" : "16224"
+      }, {
+        "count" : 17,
+        "item" : "18336"
+      }, {
+        "count" : 16,
+        "item" : "20448"
+      }, {
+        "count" : 15,
+        "item" : "2124"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 51693456,
+    "name" : "Monthly Income ($)",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "monthly_income",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8756664,
+    "width" : 104,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "1175",
+      "null" : 0,
+      "largest" : "800",
+      "top" : [ {
+        "count" : 20,
+        "item" : "800"
+      }, {
+        "count" : 19,
+        "item" : "1175"
+      }, {
+        "count" : 18,
+        "item" : "1352"
+      }, {
+        "count" : 17,
+        "item" : "1528"
+      }, {
+        "count" : 16,
+        "item" : "1704"
+      }, {
+        "count" : 15,
+        "item" : "177"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 51693457,
+    "name" : "Weekly Income ($)",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "weekly_income",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8756665,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "185",
+      "null" : 0,
+      "largest" : "41",
+      "top" : [ {
+        "count" : 20,
+        "item" : "185"
+      }, {
+        "count" : 19,
+        "item" : "271"
+      }, {
+        "count" : 18,
+        "item" : "312"
+      }, {
+        "count" : 17,
+        "item" : "353"
+      }, {
+        "count" : 16,
+        "item" : "393"
+      }, {
+        "count" : 15,
+        "item" : "41"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 51693458,
+    "name" : "Resource Level ($)",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "resource_level",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8756666,
+    "width" : 107,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "14400",
+      "null" : 0,
+      "largest" : "3173",
+      "top" : [ {
+        "count" : 20,
+        "item" : "14400"
+      }, {
+        "count" : 19,
+        "item" : "21150"
+      }, {
+        "count" : 18,
+        "item" : "24323"
+      }, {
+        "count" : 17,
+        "item" : "27495"
+      }, {
+        "count" : 16,
+        "item" : "30668"
+      }, {
+        "count" : 15,
+        "item" : "3173"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "jobs and economic mobility", "human resources administration", "hra", "adult", "medicaid" ],
+  "flags" : [ "default" ]
+}

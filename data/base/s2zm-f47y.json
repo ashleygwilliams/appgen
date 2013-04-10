@@ -1,0 +1,213 @@
+{
+  "id" : "s2zm-f47y",
+  "name" : "Prenatal care services (monthly income levels)",
+  "attribution" : "Human Resources Administration (HRA)",
+  "attributionLink" : "http://www.nyc.gov/html/hia/html/public_insurance/pregnant.shtml",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1363716216,
+  "description" : "This table represents details of Prenatal Care Services program. Prenatal Care Services through Medicaid is a comprehensive prenatal care program that offers complete pregnancy care and other health services to women and teens who live in New York State and meet income guidelines. Health insurance is available for pregnant women regardless of their immigration status. Under Prenatal Care Services, pregnant women receive prenatal health services, such as lab tests, HIV tests, nutrition screenings, and other services related to their pregnancy and for at least two months after delivery.  Babies receive health care services for at least one year after birth.",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2882378,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363727259,
+  "publicationGroup" : 743046,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1363726232,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 743496,
+  "totalTimesRated" : 0,
+  "viewCount" : 9,
+  "viewLastModified" : 1363727297,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 51690975,
+    "name" : "Household Size",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "household_size",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8756672,
+    "width" : 171,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "2",
+      "null" : 0,
+      "largest" : "For each additional \nperson add:",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2"
+      }, {
+        "count" : 19,
+        "item" : "3"
+      }, {
+        "count" : 18,
+        "item" : "4"
+      }, {
+        "count" : 17,
+        "item" : "5"
+      }, {
+        "count" : 16,
+        "item" : "For each additional \nperson add:"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51690992,
+    "name" : "Yearly Income ($)",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "yearly_income",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8756673,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "30264",
+      "null" : 0,
+      "largest" : "7920",
+      "top" : [ {
+        "count" : 20,
+        "item" : "30264"
+      }, {
+        "count" : 19,
+        "item" : "38164"
+      }, {
+        "count" : 18,
+        "item" : "46104"
+      }, {
+        "count" : 17,
+        "item" : "54024"
+      }, {
+        "count" : 16,
+        "item" : "7920"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 51690993,
+    "name" : "Monthly Income ($)",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "monthly_income",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8756674,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "2522",
+      "null" : 0,
+      "largest" : "660",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2522"
+      }, {
+        "count" : 19,
+        "item" : "3182"
+      }, {
+        "count" : 18,
+        "item" : "3842"
+      }, {
+        "count" : 17,
+        "item" : "4502"
+      }, {
+        "count" : 16,
+        "item" : "660"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 51690999,
+    "name" : "Weekly Income ($)",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "weekly_income",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8756675,
+    "width" : 107,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "1039",
+      "null" : 0,
+      "largest" : "887",
+      "top" : [ {
+        "count" : 20,
+        "item" : "582"
+      }, {
+        "count" : 19,
+        "item" : "734"
+      }, {
+        "count" : 18,
+        "item" : "887"
+      }, {
+        "count" : 17,
+        "item" : "1039"
+      }, {
+        "count" : 16,
+        "item" : "152"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "jobs and economic mobility", "human resources administration", "hra", "prenatal" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,841 @@
+{
+  "id" : "5m6a-enkt",
+  "name" : "Building Complaints",
+  "attribution" : "Department of Buildings (DOB)",
+  "averageRating" : 0,
+  "category" : "Property",
+  "createdAt" : 1332596263,
+  "description" : "Daily updates of building complaint records. This data is replaced daily; historical data is not yet available.",
+  "displayType" : "table",
+  "downloadCount" : 291,
+  "numberOfComments" : 4,
+  "oid" : 3103600,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1365339623,
+  "publicationGroup" : 303727,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1365339622,
+  "rowsUpdatedBy" : "x539-akqs",
+  "signed" : false,
+  "tableId" : 780608,
+  "totalTimesRated" : 0,
+  "viewCount" : 873,
+  "viewLastModified" : 1365339623,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 56102054,
+    "name" : "Complaint Number",
+    "dataTypeName" : "text",
+    "fieldName" : "complaint_number",
+    "position" : 1,
+    "rdfProperties" : "",
+    "renderTypeName" : "text",
+    "tableColumnId" : 2355766,
+    "width" : 130,
+    "cachedContents" : {
+      "non_null" : 679,
+      "smallest" : "1307727",
+      "null" : 0,
+      "largest" : "5103371",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5103347"
+      }, {
+        "count" : 19,
+        "item" : "4539805"
+      }, {
+        "count" : 18,
+        "item" : "4544861"
+      }, {
+        "count" : 17,
+        "item" : "4544862"
+      }, {
+        "count" : 16,
+        "item" : "3440492"
+      }, {
+        "count" : 15,
+        "item" : "4544863"
+      }, {
+        "count" : 14,
+        "item" : "4544864"
+      }, {
+        "count" : 13,
+        "item" : "4544865"
+      }, {
+        "count" : 12,
+        "item" : "4544866"
+      }, {
+        "count" : 11,
+        "item" : "2183441"
+      }, {
+        "count" : 10,
+        "item" : "1346261"
+      }, {
+        "count" : 9,
+        "item" : "2183544"
+      }, {
+        "count" : 8,
+        "item" : "3436477"
+      }, {
+        "count" : 7,
+        "item" : "4544867"
+      }, {
+        "count" : 6,
+        "item" : "4544868"
+      }, {
+        "count" : 5,
+        "item" : "3440596"
+      }, {
+        "count" : 4,
+        "item" : "2183751"
+      }, {
+        "count" : 3,
+        "item" : "1346263"
+      }, {
+        "count" : 2,
+        "item" : "5103348"
+      }, {
+        "count" : 1,
+        "item" : "3440597"
+      } ]
+    },
+    "format" : {
+      "aggregate" : "count",
+      "align" : "left",
+      "rdf" : ""
+    }
+  }, {
+    "id" : 56102057,
+    "name" : "Status",
+    "dataTypeName" : "text",
+    "fieldName" : "status",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2355767,
+    "width" : 72,
+    "cachedContents" : {
+      "non_null" : 679,
+      "smallest" : "ACTIVE",
+      "null" : 0,
+      "largest" : "CLOSED",
+      "top" : [ {
+        "count" : 20,
+        "item" : "ACTIVE"
+      }, {
+        "count" : 19,
+        "item" : "CLOSED"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102058,
+    "name" : "Date Entered",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "date_entered",
+    "position" : 3,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 2355768,
+    "width" : 152,
+    "cachedContents" : {
+      "non_null" : 679,
+      "smallest" : "2007-10-17T00:00:00",
+      "null" : 0,
+      "largest" : "2013-04-05T00:00:00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2013-04-05T00:00:00"
+      }, {
+        "count" : 19,
+        "item" : "2013-03-01T00:00:00"
+      }, {
+        "count" : 18,
+        "item" : "2013-03-26T00:00:00"
+      }, {
+        "count" : 17,
+        "item" : "2013-04-04T00:00:00"
+      }, {
+        "count" : 16,
+        "item" : "2013-04-02T00:00:00"
+      }, {
+        "count" : 15,
+        "item" : "2013-03-27T00:00:00"
+      }, {
+        "count" : 14,
+        "item" : "2013-04-03T00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2013-03-12T00:00:00"
+      }, {
+        "count" : 12,
+        "item" : "2013-03-29T00:00:00"
+      }, {
+        "count" : 11,
+        "item" : "2012-12-31T00:00:00"
+      }, {
+        "count" : 10,
+        "item" : "2013-04-01T00:00:00"
+      }, {
+        "count" : 9,
+        "item" : "2013-03-22T00:00:00"
+      }, {
+        "count" : 8,
+        "item" : "2013-03-23T00:00:00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102059,
+    "name" : "Address",
+    "dataTypeName" : "text",
+    "fieldName" : "address",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2355769,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 679,
+      "smallest" : "1000 FULTON STREET",
+      "null" : 0,
+      "largest" : "9 CHEROKEE STREET",
+      "top" : [ {
+        "count" : 20,
+        "item" : "72 SUTTON STREET"
+      }, {
+        "count" : 19,
+        "item" : "121 BEACH 129 STREET"
+      }, {
+        "count" : 18,
+        "item" : "43-19 VAN DAM STREET"
+      }, {
+        "count" : 17,
+        "item" : "4240 149 PLACE"
+      }, {
+        "count" : 16,
+        "item" : "9102 3 AVENUE"
+      }, {
+        "count" : 15,
+        "item" : "42-40 149 PLACE"
+      }, {
+        "count" : 14,
+        "item" : "24 BEACH 221 STREET"
+      }, {
+        "count" : 13,
+        "item" : "107-27 105 STREET"
+      }, {
+        "count" : 12,
+        "item" : "700 BROOK AVENUE"
+      }, {
+        "count" : 11,
+        "item" : "77 WEST 55 STREET"
+      }, {
+        "count" : 10,
+        "item" : "1801 MCGRAW AVENUE"
+      }, {
+        "count" : 9,
+        "item" : "230 BROADWAY"
+      }, {
+        "count" : 8,
+        "item" : "26 BEACH 220 STREET"
+      }, {
+        "count" : 7,
+        "item" : "22-67 46 STREET"
+      }, {
+        "count" : 6,
+        "item" : "1963 63 STREET"
+      }, {
+        "count" : 5,
+        "item" : "1137 THERIOT AVENUE"
+      }, {
+        "count" : 4,
+        "item" : "8 WEST 43 STREET"
+      }, {
+        "count" : 3,
+        "item" : "485 MIDLAND AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "136 KINGSLAND AVENUE"
+      }, {
+        "count" : 1,
+        "item" : "500 EAST 171 STREET"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102060,
+    "name" : "BIN",
+    "dataTypeName" : "text",
+    "fieldName" : "bin",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2355770,
+    "width" : 65,
+    "cachedContents" : {
+      "non_null" : 679,
+      "smallest" : "1000796",
+      "null" : 0,
+      "largest" : "5161453",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3828797"
+      }, {
+        "count" : 19,
+        "item" : "4305251"
+      }, {
+        "count" : 18,
+        "item" : "4461881"
+      }, {
+        "count" : 17,
+        "item" : "4121410"
+      }, {
+        "count" : 16,
+        "item" : "3154696"
+      }, {
+        "count" : 15,
+        "item" : "4467185"
+      }, {
+        "count" : 14,
+        "item" : "4202969"
+      }, {
+        "count" : 13,
+        "item" : "2117344"
+      }, {
+        "count" : 12,
+        "item" : "1034856"
+      }, {
+        "count" : 11,
+        "item" : "2028006"
+      }, {
+        "count" : 10,
+        "item" : "3059645"
+      }, {
+        "count" : 9,
+        "item" : "4465889"
+      }, {
+        "count" : 8,
+        "item" : "4014514"
+      }, {
+        "count" : 7,
+        "item" : "3132878"
+      }, {
+        "count" : 6,
+        "item" : "2024353"
+      }, {
+        "count" : 5,
+        "item" : "1034201"
+      }, {
+        "count" : 4,
+        "item" : "5134909"
+      }, {
+        "count" : 3,
+        "item" : "3069851"
+      }, {
+        "count" : 2,
+        "item" : "2092113"
+      }, {
+        "count" : 1,
+        "item" : "3018391"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 56102062,
+    "name" : "Community Board",
+    "dataTypeName" : "number",
+    "fieldName" : "community_board",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 2355771,
+    "width" : 133,
+    "cachedContents" : {
+      "non_null" : 679,
+      "smallest" : "101",
+      "sum" : "210715",
+      "null" : 0,
+      "average" : "310.3313696612666",
+      "largest" : "503",
+      "top" : [ {
+        "count" : 20,
+        "item" : "105"
+      }, {
+        "count" : 19,
+        "item" : "301"
+      }, {
+        "count" : 18,
+        "item" : "409"
+      }, {
+        "count" : 17,
+        "item" : "303"
+      }, {
+        "count" : 16,
+        "item" : "315"
+      }, {
+        "count" : 15,
+        "item" : "318"
+      }, {
+        "count" : 14,
+        "item" : "107"
+      }, {
+        "count" : 13,
+        "item" : "502"
+      }, {
+        "count" : 12,
+        "item" : "414"
+      }, {
+        "count" : 11,
+        "item" : "306"
+      }, {
+        "count" : 10,
+        "item" : "501"
+      }, {
+        "count" : 9,
+        "item" : "201"
+      }, {
+        "count" : 8,
+        "item" : "108"
+      }, {
+        "count" : 7,
+        "item" : "401"
+      }, {
+        "count" : 6,
+        "item" : "302"
+      }, {
+        "count" : 5,
+        "item" : "407"
+      }, {
+        "count" : 4,
+        "item" : "410"
+      }, {
+        "count" : 3,
+        "item" : "112"
+      }, {
+        "count" : 2,
+        "item" : "304"
+      }, {
+        "count" : 1,
+        "item" : "313"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102064,
+    "name" : "Special District",
+    "dataTypeName" : "text",
+    "fieldName" : "special_district",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2355772,
+    "width" : 118,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "IBZ",
+      "null" : 674,
+      "largest" : "IBZ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "IBZ"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102067,
+    "name" : "Complaint Category",
+    "dataTypeName" : "text",
+    "fieldName" : "complaint_category",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2355773,
+    "width" : 143,
+    "cachedContents" : {
+      "non_null" : 679,
+      "smallest" : "01",
+      "null" : 0,
+      "largest" : "92",
+      "top" : [ {
+        "count" : 20,
+        "item" : "35"
+      }, {
+        "count" : 19,
+        "item" : "03"
+      }, {
+        "count" : 18,
+        "item" : "37"
+      }, {
+        "count" : 17,
+        "item" : "4B"
+      }, {
+        "count" : 16,
+        "item" : "05"
+      }, {
+        "count" : 15,
+        "item" : "59"
+      }, {
+        "count" : 14,
+        "item" : "29"
+      }, {
+        "count" : 13,
+        "item" : "74"
+      }, {
+        "count" : 12,
+        "item" : "30"
+      }, {
+        "count" : 11,
+        "item" : "91"
+      }, {
+        "count" : 10,
+        "item" : "1Z"
+      }, {
+        "count" : 9,
+        "item" : "63"
+      }, {
+        "count" : 8,
+        "item" : "23"
+      }, {
+        "count" : 7,
+        "item" : "45"
+      }, {
+        "count" : 6,
+        "item" : "86"
+      }, {
+        "count" : 5,
+        "item" : "83"
+      }, {
+        "count" : 4,
+        "item" : "71"
+      }, {
+        "count" : 3,
+        "item" : "2E"
+      }, {
+        "count" : 2,
+        "item" : "73"
+      }, {
+        "count" : 1,
+        "item" : "15"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102068,
+    "name" : "Unit",
+    "dataTypeName" : "text",
+    "fieldName" : "unit",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2355774,
+    "width" : 73,
+    "cachedContents" : {
+      "non_null" : 679,
+      "smallest" : "BEST",
+      "null" : 0,
+      "largest" : "STALL",
+      "top" : [ {
+        "count" : 20,
+        "item" : "QNS."
+      }, {
+        "count" : 19,
+        "item" : "ERT"
+      }, {
+        "count" : 18,
+        "item" : "SPOPS"
+      }, {
+        "count" : 17,
+        "item" : "FEU"
+      }, {
+        "count" : 16,
+        "item" : "SEP"
+      }, {
+        "count" : 15,
+        "item" : "ELCTR"
+      }, {
+        "count" : 14,
+        "item" : "BKLYN"
+      }, {
+        "count" : 13,
+        "item" : "MAN."
+      }, {
+        "count" : 12,
+        "item" : "ST.IS"
+      }, {
+        "count" : 11,
+        "item" : "BEST"
+      }, {
+        "count" : 10,
+        "item" : "ELEVR"
+      }, {
+        "count" : 9,
+        "item" : "SCFLD"
+      }, {
+        "count" : 8,
+        "item" : "CITY"
+      }, {
+        "count" : 7,
+        "item" : "C & D"
+      }, {
+        "count" : 6,
+        "item" : "EXCAV"
+      }, {
+        "count" : 5,
+        "item" : "BRONX"
+      }, {
+        "count" : 4,
+        "item" : "BOILR"
+      }, {
+        "count" : 3,
+        "item" : "PLUMB"
+      }, {
+        "count" : 2,
+        "item" : "STALL"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102069,
+    "name" : "Disposition Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "disposition_date",
+    "position" : 10,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 2355776,
+    "width" : 162,
+    "cachedContents" : {
+      "non_null" : 430,
+      "smallest" : "2013-04-05T00:00:00",
+      "null" : 249,
+      "largest" : "2013-04-05T00:00:00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2013-04-05T00:00:00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102070,
+    "name" : "Disposition Code",
+    "dataTypeName" : "text",
+    "fieldName" : "disposition_code",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2355777,
+    "width" : 134,
+    "cachedContents" : {
+      "non_null" : 430,
+      "smallest" : "A1",
+      "null" : 249,
+      "largest" : "Y3",
+      "top" : [ {
+        "count" : 20,
+        "item" : "RU"
+      }, {
+        "count" : 19,
+        "item" : "I2"
+      }, {
+        "count" : 18,
+        "item" : "A3"
+      }, {
+        "count" : 17,
+        "item" : "C1"
+      }, {
+        "count" : 16,
+        "item" : "A6"
+      }, {
+        "count" : 15,
+        "item" : "A9"
+      }, {
+        "count" : 14,
+        "item" : "A7"
+      }, {
+        "count" : 13,
+        "item" : "ND"
+      }, {
+        "count" : 12,
+        "item" : "WH"
+      }, {
+        "count" : 11,
+        "item" : "I1"
+      }, {
+        "count" : 10,
+        "item" : "C2"
+      }, {
+        "count" : 9,
+        "item" : "A1"
+      }, {
+        "count" : 8,
+        "item" : "L2"
+      }, {
+        "count" : 7,
+        "item" : "H1"
+      }, {
+        "count" : 6,
+        "item" : "A8"
+      }, {
+        "count" : 5,
+        "item" : "P6"
+      }, {
+        "count" : 4,
+        "item" : "WD"
+      }, {
+        "count" : 3,
+        "item" : "Y2"
+      }, {
+        "count" : 2,
+        "item" : "L1"
+      }, {
+        "count" : 1,
+        "item" : "C4"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102071,
+    "name" : "Inspection Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "inspection_date",
+    "position" : 12,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 2355775,
+    "width" : 149,
+    "cachedContents" : {
+      "non_null" : 430,
+      "smallest" : "2012-11-12T00:00:00",
+      "null" : 249,
+      "largest" : "2013-04-05T00:00:00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2013-03-19T00:00:00"
+      }, {
+        "count" : 19,
+        "item" : "2013-03-27T00:00:00"
+      }, {
+        "count" : 18,
+        "item" : "2013-04-05T00:00:00"
+      }, {
+        "count" : 17,
+        "item" : "2013-04-02T00:00:00"
+      }, {
+        "count" : 16,
+        "item" : "2013-03-26T00:00:00"
+      }, {
+        "count" : 15,
+        "item" : "2013-03-16T00:00:00"
+      }, {
+        "count" : 14,
+        "item" : "2013-03-30T00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2013-04-03T00:00:00"
+      }, {
+        "count" : 12,
+        "item" : "2013-03-28T00:00:00"
+      }, {
+        "count" : 11,
+        "item" : "2013-04-01T00:00:00"
+      }, {
+        "count" : 10,
+        "item" : "2013-04-04T00:00:00"
+      }, {
+        "count" : 9,
+        "item" : "2013-03-29T00:00:00"
+      }, {
+        "count" : 8,
+        "item" : "2013-03-22T00:00:00"
+      }, {
+        "count" : 7,
+        "item" : "2013-02-16T00:00:00"
+      }, {
+        "count" : 6,
+        "item" : "2013-03-18T00:00:00"
+      }, {
+        "count" : 5,
+        "item" : "2013-03-24T00:00:00"
+      }, {
+        "count" : 4,
+        "item" : "2013-03-23T00:00:00"
+      }, {
+        "count" : 3,
+        "item" : "2013-03-17T00:00:00"
+      }, {
+        "count" : 2,
+        "item" : "2013-03-09T00:00:00"
+      }, {
+        "count" : 1,
+        "item" : "2013-03-10T00:00:00"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Daily"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "x539-akqs",
+    "displayName" : "Andrew Nicklin",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/4798/2643/My_Photo_3_large.png",
+    "profileImageUrlMedium" : "/images/profile/4798/2643/My_Photo_3_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/4798/2643/My_Photo_3_tiny.png",
+    "profileLastModified" : 1336858132,
+    "roleName" : "administrator",
+    "screenName" : "Andrew Nicklin",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+    "orderBys" : [ {
+      "ascending" : true,
+      "expression" : {
+        "columnId" : 56102054,
+        "type" : "column"
+      }
+    } ]
+  },
+  "rights" : [ "read" ],
+  "sortBys" : [ {
+    "id" : 0,
+    "viewColumnId" : 56102054,
+    "flags" : [ "asc" ]
+  } ],
+  "tableAuthor" : {
+    "id" : "x539-akqs",
+    "displayName" : "Andrew Nicklin",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/4798/2643/My_Photo_3_large.png",
+    "profileImageUrlMedium" : "/images/profile/4798/2643/My_Photo_3_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/4798/2643/My_Photo_3_tiny.png",
+    "profileLastModified" : 1336858132,
+    "roleName" : "administrator",
+    "screenName" : "Andrew Nicklin",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "building", "buildings", "complaints", "clean web" ],
+  "flags" : [ "default" ]
+}

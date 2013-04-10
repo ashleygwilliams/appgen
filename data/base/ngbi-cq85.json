@@ -1,0 +1,956 @@
+{
+  "id" : "ngbi-cq85",
+  "name" : "Math Test Results 2006-2012 - Citywide - ELL",
+  "attribution" : "Department of Education (DOE)",
+  "attributionLink" : "http://schools.nyc.gov/NR/rdonlyres/7C17840D-BB62-41C9-919D-AACABAA92E04/0/CitywideMathResults20062012Public.xlsx",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1361414650,
+  "description" : "Latest available data and trends in the state assessment results of math for grades 3 through 8. Data are disaggregated by ELL status",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2580602,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361414660,
+  "publicationGroup" : 690163,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1361414659,
+  "rowsUpdatedBy" : "ya7g-926w",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 690164,
+  "totalTimesRated" : 0,
+  "viewCount" : 12,
+  "viewLastModified" : 1363701481,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 45970996,
+    "name" : "Grade",
+    "dataTypeName" : "text",
+    "fieldName" : "grade",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8029135,
+    "cachedContents" : {
+      "non_null" : 98,
+      "smallest" : "3",
+      "null" : 0,
+      "largest" : "All Grades",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3"
+      }, {
+        "count" : 19,
+        "item" : "4"
+      }, {
+        "count" : 18,
+        "item" : "5"
+      }, {
+        "count" : 17,
+        "item" : "6"
+      }, {
+        "count" : 16,
+        "item" : "7"
+      }, {
+        "count" : 15,
+        "item" : "8"
+      }, {
+        "count" : 14,
+        "item" : "All Grades"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45970997,
+    "name" : "Year",
+    "dataTypeName" : "text",
+    "fieldName" : "year",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8029136,
+    "cachedContents" : {
+      "non_null" : 98,
+      "smallest" : "2006",
+      "null" : 0,
+      "largest" : "2012",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2006"
+      }, {
+        "count" : 19,
+        "item" : "2007"
+      }, {
+        "count" : 18,
+        "item" : "2008"
+      }, {
+        "count" : 17,
+        "item" : "2009"
+      }, {
+        "count" : 16,
+        "item" : "2010"
+      }, {
+        "count" : 15,
+        "item" : "2011"
+      }, {
+        "count" : 14,
+        "item" : "2012"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45970998,
+    "name" : "Demographic",
+    "dataTypeName" : "text",
+    "fieldName" : "demographic",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8029137,
+    "cachedContents" : {
+      "non_null" : 98,
+      "smallest" : "ELL",
+      "null" : 0,
+      "largest" : "EP",
+      "top" : [ {
+        "count" : 20,
+        "item" : "ELL"
+      }, {
+        "count" : 19,
+        "item" : "EP"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45970999,
+    "name" : "Number Tested",
+    "dataTypeName" : "text",
+    "fieldName" : "number_tested",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8029138,
+    "cachedContents" : {
+      "non_null" : 98,
+      "smallest" : "10257",
+      "null" : 0,
+      "largest" : "9955",
+      "top" : [ {
+        "count" : 20,
+        "item" : "61147"
+      }, {
+        "count" : 19,
+        "item" : "60339"
+      }, {
+        "count" : 18,
+        "item" : "66341"
+      }, {
+        "count" : 17,
+        "item" : "65285"
+      }, {
+        "count" : 16,
+        "item" : "64587"
+      }, {
+        "count" : 15,
+        "item" : "64034"
+      }, {
+        "count" : 14,
+        "item" : "63607"
+      }, {
+        "count" : 13,
+        "item" : "62036"
+      }, {
+        "count" : 12,
+        "item" : "61465"
+      }, {
+        "count" : 11,
+        "item" : "383789"
+      }, {
+        "count" : 10,
+        "item" : "373166"
+      }, {
+        "count" : 9,
+        "item" : "366959"
+      }, {
+        "count" : 8,
+        "item" : "363504"
+      }, {
+        "count" : 7,
+        "item" : "361840"
+      }, {
+        "count" : 6,
+        "item" : "362041"
+      }, {
+        "count" : 5,
+        "item" : "363727"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45971000,
+    "name" : "Mean Scale Score",
+    "dataTypeName" : "text",
+    "fieldName" : "mean_scale_score",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8029139,
+    "cachedContents" : {
+      "non_null" : 98,
+      "smallest" : "616",
+      "null" : 0,
+      "largest" : "693",
+      "top" : [ {
+        "count" : 20,
+        "item" : "653"
+      }, {
+        "count" : 19,
+        "item" : "676"
+      }, {
+        "count" : 18,
+        "item" : "651"
+      }, {
+        "count" : 17,
+        "item" : "644"
+      }, {
+        "count" : 16,
+        "item" : "654"
+      }, {
+        "count" : 15,
+        "item" : "664"
+      }, {
+        "count" : 14,
+        "item" : "665"
+      }, {
+        "count" : 13,
+        "item" : "633"
+      }, {
+        "count" : 12,
+        "item" : "657"
+      }, {
+        "count" : 11,
+        "item" : "642"
+      }, {
+        "count" : 10,
+        "item" : "679"
+      }, {
+        "count" : 9,
+        "item" : "687"
+      }, {
+        "count" : 8,
+        "item" : "688"
+      }, {
+        "count" : 7,
+        "item" : "692"
+      }, {
+        "count" : 6,
+        "item" : "689"
+      }, {
+        "count" : 5,
+        "item" : "674"
+      }, {
+        "count" : 4,
+        "item" : "686"
+      }, {
+        "count" : 3,
+        "item" : "691"
+      }, {
+        "count" : 2,
+        "item" : "666"
+      }, {
+        "count" : 1,
+        "item" : "672"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45971001,
+    "name" : "Num Level 1",
+    "dataTypeName" : "text",
+    "fieldName" : "num_level_1",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8029140,
+    "cachedContents" : {
+      "non_null" : 98,
+      "smallest" : "10399",
+      "null" : 0,
+      "largest" : "994",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5237"
+      }, {
+        "count" : 19,
+        "item" : "5416"
+      }, {
+        "count" : 18,
+        "item" : "14286"
+      }, {
+        "count" : 17,
+        "item" : "10698"
+      }, {
+        "count" : 16,
+        "item" : "5913"
+      }, {
+        "count" : 15,
+        "item" : "2392"
+      }, {
+        "count" : 14,
+        "item" : "7343"
+      }, {
+        "count" : 13,
+        "item" : "5955"
+      }, {
+        "count" : 12,
+        "item" : "4443"
+      }, {
+        "count" : 11,
+        "item" : "50554"
+      }, {
+        "count" : 10,
+        "item" : "32008"
+      }, {
+        "count" : 9,
+        "item" : "19480"
+      }, {
+        "count" : 8,
+        "item" : "9795"
+      }, {
+        "count" : 7,
+        "item" : "31306"
+      }, {
+        "count" : 6,
+        "item" : "27713"
+      }, {
+        "count" : 5,
+        "item" : "26465"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45971002,
+    "name" : "Pct Level 1",
+    "dataTypeName" : "text",
+    "fieldName" : "pct_level_1",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8029141,
+    "cachedContents" : {
+      "non_null" : 98,
+      "smallest" : "1",
+      "null" : 0,
+      "largest" : "9.9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "21.5"
+      }, {
+        "count" : 19,
+        "item" : "9.1"
+      }, {
+        "count" : 18,
+        "item" : "8.8"
+      }, {
+        "count" : 17,
+        "item" : "6.1"
+      }, {
+        "count" : 16,
+        "item" : "3.8"
+      }, {
+        "count" : 15,
+        "item" : "3.7"
+      }, {
+        "count" : 14,
+        "item" : "11.5"
+      }, {
+        "count" : 13,
+        "item" : "9.6"
+      }, {
+        "count" : 12,
+        "item" : "7.2"
+      }, {
+        "count" : 11,
+        "item" : "13.2"
+      }, {
+        "count" : 10,
+        "item" : "8.6"
+      }, {
+        "count" : 9,
+        "item" : "5.3"
+      }, {
+        "count" : 8,
+        "item" : "2.7"
+      }, {
+        "count" : 7,
+        "item" : "8.7"
+      }, {
+        "count" : 6,
+        "item" : "7.7"
+      }, {
+        "count" : 5,
+        "item" : "7.3"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45971003,
+    "name" : "Num Level 2",
+    "dataTypeName" : "text",
+    "fieldName" : "num_level_2",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8029142,
+    "cachedContents" : {
+      "non_null" : 98,
+      "smallest" : "101586",
+      "null" : 0,
+      "largest" : "9595",
+      "top" : [ {
+        "count" : 20,
+        "item" : "19464"
+      }, {
+        "count" : 19,
+        "item" : "17839"
+      }, {
+        "count" : 18,
+        "item" : "24470"
+      }, {
+        "count" : 17,
+        "item" : "22870"
+      }, {
+        "count" : 16,
+        "item" : "18829"
+      }, {
+        "count" : 15,
+        "item" : "14468"
+      }, {
+        "count" : 14,
+        "item" : "25005"
+      }, {
+        "count" : 13,
+        "item" : "21678"
+      }, {
+        "count" : 12,
+        "item" : "21366"
+      }, {
+        "count" : 11,
+        "item" : "101586"
+      }, {
+        "count" : 10,
+        "item" : "85609"
+      }, {
+        "count" : 9,
+        "item" : "65781"
+      }, {
+        "count" : 8,
+        "item" : "48122"
+      }, {
+        "count" : 7,
+        "item" : "121243"
+      }, {
+        "count" : 6,
+        "item" : "112109"
+      }, {
+        "count" : 5,
+        "item" : "105191"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45971004,
+    "name" : "Pct Level 2",
+    "dataTypeName" : "text",
+    "fieldName" : "pct_level_2",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8029143,
+    "cachedContents" : {
+      "non_null" : 98,
+      "smallest" : "10",
+      "null" : 0,
+      "largest" : "9.1",
+      "top" : [ {
+        "count" : 20,
+        "item" : "28.5"
+      }, {
+        "count" : 19,
+        "item" : "31.9"
+      }, {
+        "count" : 18,
+        "item" : "35"
+      }, {
+        "count" : 17,
+        "item" : "29.2"
+      }, {
+        "count" : 16,
+        "item" : "22.6"
+      }, {
+        "count" : 15,
+        "item" : "39.3"
+      }, {
+        "count" : 14,
+        "item" : "34.9"
+      }, {
+        "count" : 13,
+        "item" : "34.8"
+      }, {
+        "count" : 12,
+        "item" : "26.5"
+      }, {
+        "count" : 11,
+        "item" : "22.9"
+      }, {
+        "count" : 10,
+        "item" : "17.9"
+      }, {
+        "count" : 9,
+        "item" : "13.2"
+      }, {
+        "count" : 8,
+        "item" : "33.5"
+      }, {
+        "count" : 7,
+        "item" : "31"
+      }, {
+        "count" : 6,
+        "item" : "28.9"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45971005,
+    "name" : "Num Level 3",
+    "dataTypeName" : "text",
+    "fieldName" : "num_level_3",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8029144,
+    "cachedContents" : {
+      "non_null" : 98,
+      "smallest" : "120120",
+      "null" : 0,
+      "largest" : "9508",
+      "top" : [ {
+        "count" : 20,
+        "item" : "19479"
+      }, {
+        "count" : 19,
+        "item" : "19185"
+      }, {
+        "count" : 18,
+        "item" : "22177"
+      }, {
+        "count" : 17,
+        "item" : "25241"
+      }, {
+        "count" : 16,
+        "item" : "30555"
+      }, {
+        "count" : 15,
+        "item" : "36505"
+      }, {
+        "count" : 14,
+        "item" : "19383"
+      }, {
+        "count" : 13,
+        "item" : "22985"
+      }, {
+        "count" : 12,
+        "item" : "23656"
+      }, {
+        "count" : 11,
+        "item" : "168148"
+      }, {
+        "count" : 10,
+        "item" : "176870"
+      }, {
+        "count" : 9,
+        "item" : "194675"
+      }, {
+        "count" : 8,
+        "item" : "202239"
+      }, {
+        "count" : 7,
+        "item" : "120120"
+      }, {
+        "count" : 6,
+        "item" : "137317"
+      }, {
+        "count" : 5,
+        "item" : "136202"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45971006,
+    "name" : "Pct Level 3",
+    "dataTypeName" : "text",
+    "fieldName" : "pct_level_3",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8029145,
+    "cachedContents" : {
+      "non_null" : 98,
+      "smallest" : "18",
+      "null" : 0,
+      "largest" : "72.5",
+      "top" : [ {
+        "count" : 20,
+        "item" : "50.6"
+      }, {
+        "count" : 19,
+        "item" : "31.8"
+      }, {
+        "count" : 18,
+        "item" : "33.4"
+      }, {
+        "count" : 17,
+        "item" : "38.7"
+      }, {
+        "count" : 16,
+        "item" : "47.3"
+      }, {
+        "count" : 15,
+        "item" : "57"
+      }, {
+        "count" : 14,
+        "item" : "30.5"
+      }, {
+        "count" : 13,
+        "item" : "37.1"
+      }, {
+        "count" : 12,
+        "item" : "38.5"
+      }, {
+        "count" : 11,
+        "item" : "43.8"
+      }, {
+        "count" : 10,
+        "item" : "47.4"
+      }, {
+        "count" : 9,
+        "item" : "53.1"
+      }, {
+        "count" : 8,
+        "item" : "55.6"
+      }, {
+        "count" : 7,
+        "item" : "33.2"
+      }, {
+        "count" : 6,
+        "item" : "37.9"
+      }, {
+        "count" : 5,
+        "item" : "37.4"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45971007,
+    "name" : "Num Level 4",
+    "dataTypeName" : "text",
+    "fieldName" : "num_level_4",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8029147,
+    "cachedContents" : {
+      "non_null" : 98,
+      "smallest" : "1002",
+      "null" : 0,
+      "largest" : "95869",
+      "top" : [ {
+        "count" : 20,
+        "item" : "16967"
+      }, {
+        "count" : 19,
+        "item" : "17899"
+      }, {
+        "count" : 18,
+        "item" : "5408"
+      }, {
+        "count" : 17,
+        "item" : "6476"
+      }, {
+        "count" : 16,
+        "item" : "9290"
+      }, {
+        "count" : 15,
+        "item" : "10669"
+      }, {
+        "count" : 14,
+        "item" : "11876"
+      }, {
+        "count" : 13,
+        "item" : "11418"
+      }, {
+        "count" : 12,
+        "item" : "12000"
+      }, {
+        "count" : 11,
+        "item" : "63501"
+      }, {
+        "count" : 10,
+        "item" : "78679"
+      }, {
+        "count" : 9,
+        "item" : "87023"
+      }, {
+        "count" : 8,
+        "item" : "103348"
+      }, {
+        "count" : 7,
+        "item" : "89171"
+      }, {
+        "count" : 6,
+        "item" : "84902"
+      }, {
+        "count" : 5,
+        "item" : "95869"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45971008,
+    "name" : "Pct Level 4",
+    "dataTypeName" : "text",
+    "fieldName" : "pct_level_4",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8029149,
+    "cachedContents" : {
+      "non_null" : 98,
+      "smallest" : "1.8",
+      "null" : 0,
+      "largest" : "9.9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "27.8"
+      }, {
+        "count" : 19,
+        "item" : "25.8"
+      }, {
+        "count" : 18,
+        "item" : "8.2"
+      }, {
+        "count" : 17,
+        "item" : "9.9"
+      }, {
+        "count" : 16,
+        "item" : "14.4"
+      }, {
+        "count" : 15,
+        "item" : "16.7"
+      }, {
+        "count" : 14,
+        "item" : "18.7"
+      }, {
+        "count" : 13,
+        "item" : "18.4"
+      }, {
+        "count" : 12,
+        "item" : "19.5"
+      }, {
+        "count" : 11,
+        "item" : "16.5"
+      }, {
+        "count" : 10,
+        "item" : "21.1"
+      }, {
+        "count" : 9,
+        "item" : "23.7"
+      }, {
+        "count" : 8,
+        "item" : "28.4"
+      }, {
+        "count" : 7,
+        "item" : "24.6"
+      }, {
+        "count" : 6,
+        "item" : "23.5"
+      }, {
+        "count" : 5,
+        "item" : "26.4"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45971009,
+    "name" : "Num Level 3 and 4",
+    "dataTypeName" : "text",
+    "fieldName" : "num_level_3_and_4",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8029150,
+    "cachedContents" : {
+      "non_null" : 98,
+      "smallest" : "10052",
+      "null" : 0,
+      "largest" : "9523",
+      "top" : [ {
+        "count" : 20,
+        "item" : "36446"
+      }, {
+        "count" : 19,
+        "item" : "37084"
+      }, {
+        "count" : 18,
+        "item" : "27585"
+      }, {
+        "count" : 17,
+        "item" : "31717"
+      }, {
+        "count" : 16,
+        "item" : "39845"
+      }, {
+        "count" : 15,
+        "item" : "47174"
+      }, {
+        "count" : 14,
+        "item" : "31259"
+      }, {
+        "count" : 13,
+        "item" : "34403"
+      }, {
+        "count" : 12,
+        "item" : "35656"
+      }, {
+        "count" : 11,
+        "item" : "231649"
+      }, {
+        "count" : 10,
+        "item" : "255549"
+      }, {
+        "count" : 9,
+        "item" : "281698"
+      }, {
+        "count" : 8,
+        "item" : "305587"
+      }, {
+        "count" : 7,
+        "item" : "209291"
+      }, {
+        "count" : 6,
+        "item" : "222219"
+      }, {
+        "count" : 5,
+        "item" : "232071"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45971010,
+    "name" : "Pct Level 3 and 4",
+    "dataTypeName" : "text",
+    "fieldName" : "pct_level_3_and_4",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8029152,
+    "cachedContents" : {
+      "non_null" : 98,
+      "smallest" : "20",
+      "null" : 0,
+      "largest" : "92.9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "59.3"
+      }, {
+        "count" : 19,
+        "item" : "61.5"
+      }, {
+        "count" : 18,
+        "item" : "41.6"
+      }, {
+        "count" : 17,
+        "item" : "48.6"
+      }, {
+        "count" : 16,
+        "item" : "61.7"
+      }, {
+        "count" : 15,
+        "item" : "73.7"
+      }, {
+        "count" : 14,
+        "item" : "49.1"
+      }, {
+        "count" : 13,
+        "item" : "55.5"
+      }, {
+        "count" : 12,
+        "item" : "58"
+      }, {
+        "count" : 11,
+        "item" : "60.4"
+      }, {
+        "count" : 10,
+        "item" : "68.5"
+      }, {
+        "count" : 9,
+        "item" : "76.8"
+      }, {
+        "count" : 8,
+        "item" : "84.1"
+      }, {
+        "count" : 7,
+        "item" : "57.8"
+      }, {
+        "count" : 6,
+        "item" : "61.4"
+      }, {
+        "count" : 5,
+        "item" : "63.8"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ya7g-926w",
+    "displayName" : "Aakash Dalwani",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1363663581,
+    "roleName" : "publisher",
+    "screenName" : "Aakash Dalwani",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ya7g-926w",
+    "displayName" : "Aakash Dalwani",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1363663581,
+    "roleName" : "publisher",
+    "screenName" : "Aakash Dalwani",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "math test result", "grade", "citywide", "ell", "lifelong learning" ],
+  "flags" : [ "default" ]
+}

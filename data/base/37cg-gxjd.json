@@ -1,0 +1,351 @@
+{
+  "id" : "37cg-gxjd",
+  "name" : "New York City Population By Census Tracts",
+  "attribution" : "Department of City Planning (DCP)",
+  "attributionLink" : "http://www.nyc.gov/html/dcp/html/census/demo_tables_2010.shtml",
+  "averageRating" : 0,
+  "category" : "Statistics",
+  "createdAt" : 1362328563,
+  "description" : "Population Numbers in New York City by Census Tracts",
+  "displayType" : "table",
+  "downloadCount" : 4,
+  "numberOfComments" : 0,
+  "oid" : 2697486,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362329083,
+  "publicationGroup" : 711130,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1362328569,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 711130,
+  "totalTimesRated" : 0,
+  "viewCount" : 45,
+  "viewLastModified" : 1362404059,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 48169263,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8318785,
+    "width" : 88,
+    "cachedContents" : {
+      "non_null" : 4336,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Manhattan"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48169264,
+    "name" : "Year",
+    "dataTypeName" : "text",
+    "fieldName" : "year",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8318786,
+    "width" : 66,
+    "cachedContents" : {
+      "non_null" : 4336,
+      "smallest" : "2000",
+      "null" : 0,
+      "largest" : "2010",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2000"
+      }, {
+        "count" : 19,
+        "item" : "2010"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48169265,
+    "name" : "FIPS County Code",
+    "dataTypeName" : "text",
+    "fieldName" : "fips_county_code",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8318787,
+    "width" : 155,
+    "cachedContents" : {
+      "non_null" : 4336,
+      "smallest" : "005",
+      "null" : 0,
+      "largest" : "085",
+      "top" : [ {
+        "count" : 20,
+        "item" : "005"
+      }, {
+        "count" : 19,
+        "item" : "047"
+      }, {
+        "count" : 18,
+        "item" : "061"
+      }, {
+        "count" : 17,
+        "item" : "081"
+      }, {
+        "count" : 16,
+        "item" : "085"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48169266,
+    "name" : "DCP Borough Code",
+    "dataTypeName" : "text",
+    "fieldName" : "dcp_borough_code",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8318788,
+    "width" : 134,
+    "cachedContents" : {
+      "non_null" : 4336,
+      "smallest" : "1",
+      "null" : 0,
+      "largest" : "5",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2"
+      }, {
+        "count" : 19,
+        "item" : "3"
+      }, {
+        "count" : 18,
+        "item" : "1"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48169267,
+    "name" : "Census Tract",
+    "dataTypeName" : "text",
+    "fieldName" : "census_tract",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8318789,
+    "width" : 137,
+    "cachedContents" : {
+      "non_null" : 4336,
+      "smallest" : "000100",
+      "null" : 0,
+      "largest" : "990100",
+      "top" : [ {
+        "count" : 20,
+        "item" : "020700"
+      }, {
+        "count" : 19,
+        "item" : "020801"
+      }, {
+        "count" : 18,
+        "item" : "020803"
+      }, {
+        "count" : 17,
+        "item" : "020804"
+      }, {
+        "count" : 16,
+        "item" : "021300"
+      }, {
+        "count" : 15,
+        "item" : "022300"
+      }, {
+        "count" : 14,
+        "item" : "022600"
+      }, {
+        "count" : 13,
+        "item" : "022800"
+      }, {
+        "count" : 12,
+        "item" : "023100"
+      }, {
+        "count" : 11,
+        "item" : "023900"
+      }, {
+        "count" : 10,
+        "item" : "024401"
+      }, {
+        "count" : 9,
+        "item" : "024402"
+      }, {
+        "count" : 8,
+        "item" : "024700"
+      }, {
+        "count" : 7,
+        "item" : "024800"
+      }, {
+        "count" : 6,
+        "item" : "025100"
+      }, {
+        "count" : 5,
+        "item" : "027301"
+      }, {
+        "count" : 4,
+        "item" : "027302"
+      }, {
+        "count" : 3,
+        "item" : "027702"
+      }, {
+        "count" : 2,
+        "item" : "027704"
+      }, {
+        "count" : 1,
+        "item" : "027705"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48169268,
+    "name" : "Population",
+    "dataTypeName" : "number",
+    "fieldName" : "population",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8318790,
+    "width" : 126,
+    "cachedContents" : {
+      "non_null" : 4336,
+      "smallest" : "0",
+      "sum" : "16183411",
+      "null" : 0,
+      "average" : "3732.336485239852",
+      "largest" : "26588",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "8977"
+      }, {
+        "count" : 18,
+        "item" : "6463"
+      }, {
+        "count" : 17,
+        "item" : "5323"
+      }, {
+        "count" : 16,
+        "item" : "5376"
+      }, {
+        "count" : 15,
+        "item" : "2880"
+      }, {
+        "count" : 14,
+        "item" : "8490"
+      }, {
+        "count" : 13,
+        "item" : "105"
+      }, {
+        "count" : 12,
+        "item" : "4683"
+      }, {
+        "count" : 11,
+        "item" : "3250"
+      }, {
+        "count" : 10,
+        "item" : "5823"
+      }, {
+        "count" : 9,
+        "item" : "4259"
+      }, {
+        "count" : 8,
+        "item" : "2702"
+      }, {
+        "count" : 7,
+        "item" : "4741"
+      }, {
+        "count" : 6,
+        "item" : "5714"
+      }, {
+        "count" : 5,
+        "item" : "3820"
+      }, {
+        "count" : 4,
+        "item" : "3667"
+      }, {
+        "count" : 3,
+        "item" : "6193"
+      }, {
+        "count" : 2,
+        "item" : "4108"
+      }, {
+        "count" : 1,
+        "item" : "5351"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dcp", "city", "planning", "population", "growth", "census", "tract" ],
+  "flags" : [ "default" ]
+}

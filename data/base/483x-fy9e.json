@@ -1,0 +1,264 @@
+{
+  "id" : "483x-fy9e",
+  "name" : "Directory Of Unsheltered Street Homeless To General Population Ratio 2012",
+  "attribution" : "Department of Homeless Services (DHS)",
+  "attributionLink" : "http://www.nyc.gov/html/dhs/downloads/pdf/hope_2012_presentation_web.pdf",
+  "averageRating" : 0,
+  "category" : "Social Services",
+  "createdAt" : 1359589313,
+  "description" : "\"Ratio of Homeless Population to General Population in major US Cities in 2012. \n*This represents a list of large U.S. cities for which DHS was able to confirm a recent estimate of the unsheltered population.   Unsheltered estimates are from 2011 except for Seattle  and New York City (2012) and Chicago (2009).  All General Population figures are from the 2010 U.S. Census enumeration.\"",
+  "displayType" : "table",
+  "downloadCount" : 6,
+  "numberOfComments" : 0,
+  "oid" : 2387573,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359590787,
+  "publicationGroup" : 646957,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1359590736,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 646991,
+  "totalTimesRated" : 0,
+  "viewCount" : 50,
+  "viewLastModified" : 1359590787,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 42127795,
+    "name" : "City",
+    "dataTypeName" : "location",
+    "fieldName" : "city",
+    "position" : 1,
+    "renderTypeName" : "location",
+    "tableColumnId" : 7412362,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : {
+        "human_address" : "{\"address\":\"\",\"city\":\"Boston, MA\",\"state\":\"\",\"zip\":\"\"}"
+      },
+      "null" : 0,
+      "largest" : {
+        "human_address" : "{\"address\":\"\",\"city\":\"Washington, DC\",\"state\":\"\",\"zip\":\"\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"New York City\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"San Francisco, CA\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"Los Angeles, CA\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"Seattle, WA\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"Miami, FL\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"Washington, DC\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"Chicago, IL\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"Boston, MA\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 42127796,
+    "name" : "Street Homeless Estimate",
+    "dataTypeName" : "number",
+    "fieldName" : "street_homeless_estimate",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7412359,
+    "width" : 195,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "182",
+      "sum" : "23939",
+      "null" : 0,
+      "average" : "2992.375",
+      "largest" : "12977",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3262"
+      }, {
+        "count" : 19,
+        "item" : "3106"
+      }, {
+        "count" : 18,
+        "item" : "12977"
+      }, {
+        "count" : 17,
+        "item" : "1898"
+      }, {
+        "count" : 16,
+        "item" : "487"
+      }, {
+        "count" : 15,
+        "item" : "305"
+      }, {
+        "count" : 14,
+        "item" : "1722"
+      }, {
+        "count" : 13,
+        "item" : "182"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42127797,
+    "name" : "General Population",
+    "dataTypeName" : "number",
+    "fieldName" : "general_population",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7412360,
+    "width" : 177,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "399457",
+      "sum" : "17696021",
+      "null" : 0,
+      "average" : "2212002.625",
+      "largest" : "8175133",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8175133"
+      }, {
+        "count" : 19,
+        "item" : "805235"
+      }, {
+        "count" : 18,
+        "item" : "3792621"
+      }, {
+        "count" : 17,
+        "item" : "608660"
+      }, {
+        "count" : 16,
+        "item" : "399457"
+      }, {
+        "count" : 15,
+        "item" : "601723"
+      }, {
+        "count" : 14,
+        "item" : "2695598"
+      }, {
+        "count" : 13,
+        "item" : "617594"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42127798,
+    "name" : "Ratio",
+    "dataTypeName" : "text",
+    "fieldName" : "ratio",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7412361,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "1 in 1,565 ",
+      "null" : 0,
+      "largest" : "1 in 820 ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1 in 2,506 "
+      }, {
+        "count" : 19,
+        "item" : "1 in 259 "
+      }, {
+        "count" : 18,
+        "item" : "1 in 292 "
+      }, {
+        "count" : 17,
+        "item" : "1 in 320 "
+      }, {
+        "count" : 16,
+        "item" : "1 in 820 "
+      }, {
+        "count" : 15,
+        "item" : "1 in 1,973 "
+      }, {
+        "count" : 14,
+        "item" : "1 in 1,565 "
+      }, {
+        "count" : 13,
+        "item" : "1 in 3,393 "
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dhs", "homeless", "ratio", "population" ],
+  "flags" : [ "default" ]
+}

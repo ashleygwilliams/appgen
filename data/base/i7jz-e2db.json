@@ -1,0 +1,354 @@
+{
+  "id" : "i7jz-e2db",
+  "name" : "Summary Table Of Funding Sources",
+  "attribution" : "Department of City Planning (DCP)",
+  "attributionLink" : "http://www.nyc.gov/html/dcp/pdf/pub/conplan12_amended_vol1.pdf",
+  "averageRating" : 0,
+  "category" : "Construction and Housing",
+  "createdAt" : 1361371774,
+  "description" : "Details of Funding Sources for Housing Projects",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2574567,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361372050,
+  "publicationGroup" : 688830,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1361371999,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 688835,
+  "totalTimesRated" : 0,
+  "viewCount" : 26,
+  "viewLastModified" : 1361372064,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 45864503,
+    "name" : "Year",
+    "dataTypeName" : "text",
+    "fieldName" : "year",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8013349,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 123,
+      "smallest" : "2012",
+      "null" : 0,
+      "largest" : "2012",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2012"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45864504,
+    "name" : "Project Code",
+    "dataTypeName" : "text",
+    "fieldName" : "project_code",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8013350,
+    "width" : 122,
+    "cachedContents" : {
+      "non_null" : 83,
+      "smallest" : "C-ACS-0042",
+      "null" : 40,
+      "largest" : "P-HRA-0204",
+      "top" : [ {
+        "count" : 20,
+        "item" : "P-DOHMH-0301"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45864505,
+    "name" : "Program Type",
+    "dataTypeName" : "text",
+    "fieldName" : "program_type",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8013351,
+    "width" : 215,
+    "cachedContents" : {
+      "non_null" : 121,
+      "smallest" : "City Funds",
+      "null" : 2,
+      "largest" : "Total Funding Sources",
+      "top" : [ {
+        "count" : 20,
+        "item" : "HUD Formula/Entitlement Program"
+      }, {
+        "count" : 19,
+        "item" : "New York City Housing Authority Funds"
+      }, {
+        "count" : 18,
+        "item" : "HUD Competitive Funds"
+      }, {
+        "count" : 17,
+        "item" : "State Funds"
+      }, {
+        "count" : 16,
+        "item" : "City Funds"
+      }, {
+        "count" : 15,
+        "item" : "Private Funds"
+      }, {
+        "count" : 14,
+        "item" : "Total Funding Sources"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45864506,
+    "name" : "Program Name",
+    "dataTypeName" : "text",
+    "fieldName" : "program_name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8013352,
+    "width" : 283,
+    "cachedContents" : {
+      "non_null" : 123,
+      "smallest" : "7A Program",
+      "null" : 0,
+      "largest" : "viii. TOTAL ALL SOURCES"
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45864507,
+    "name" : "Amount",
+    "dataTypeName" : "money",
+    "fieldName" : "amount",
+    "position" : 5,
+    "renderTypeName" : "money",
+    "tableColumnId" : 8013353,
+    "width" : 109,
+    "cachedContents" : {
+      "non_null" : 80,
+      "smallest" : "114635",
+      "sum" : "718045135",
+      "null" : 43,
+      "average" : "8975564.1875",
+      "largest" : "360216205",
+      "top" : [ {
+        "count" : 20,
+        "item" : "803000"
+      }, {
+        "count" : 19,
+        "item" : "19678000"
+      }, {
+        "count" : 18,
+        "item" : "232000"
+      }, {
+        "count" : 17,
+        "item" : "17590000"
+      }, {
+        "count" : 16,
+        "item" : "510000"
+      }, {
+        "count" : 15,
+        "item" : "735000"
+      }, {
+        "count" : 14,
+        "item" : "505000"
+      }, {
+        "count" : 13,
+        "item" : "3430000"
+      }, {
+        "count" : 12,
+        "item" : "415000"
+      }, {
+        "count" : 11,
+        "item" : "450000"
+      }, {
+        "count" : 10,
+        "item" : "34321000"
+      }, {
+        "count" : 9,
+        "item" : "462000"
+      }, {
+        "count" : 8,
+        "item" : "375000"
+      }, {
+        "count" : 7,
+        "item" : "6033844"
+      }, {
+        "count" : 6,
+        "item" : "210321"
+      }, {
+        "count" : 5,
+        "item" : "1772573"
+      }, {
+        "count" : 4,
+        "item" : "2771284"
+      }, {
+        "count" : 3,
+        "item" : "22020741"
+      }, {
+        "count" : 2,
+        "item" : "3760521"
+      }, {
+        "count" : 1,
+        "item" : "114635"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45864508,
+    "name" : "Amount City Expects to Receive",
+    "dataTypeName" : "money",
+    "fieldName" : "amount_city_expects_to_receive",
+    "position" : 6,
+    "renderTypeName" : "money",
+    "tableColumnId" : 8013354,
+    "width" : 185,
+    "cachedContents" : {
+      "non_null" : 26,
+      "smallest" : "0",
+      "sum" : "6189215466",
+      "null" : 97,
+      "average" : "238046748.6923077",
+      "largest" : "1316703890",
+      "top" : [ {
+        "count" : 20,
+        "item" : "231486000"
+      }, {
+        "count" : 19,
+        "item" : "60338441"
+      }, {
+        "count" : 18,
+        "item" : "14146420"
+      }, {
+        "count" : 17,
+        "item" : "54245344"
+      }, {
+        "count" : 16,
+        "item" : "273059437"
+      }, {
+        "count" : 15,
+        "item" : "0"
+      }, {
+        "count" : 14,
+        "item" : "14500000"
+      }, {
+        "count" : 13,
+        "item" : "19777000"
+      }, {
+        "count" : 12,
+        "item" : "278938061"
+      }, {
+        "count" : 11,
+        "item" : "14245344"
+      }, {
+        "count" : 10,
+        "item" : "186136000"
+      }, {
+        "count" : 9,
+        "item" : "264212000"
+      }, {
+        "count" : 8,
+        "item" : "35201062"
+      }, {
+        "count" : 7,
+        "item" : "40278218"
+      }, {
+        "count" : 6,
+        "item" : "941987685"
+      }, {
+        "count" : 5,
+        "item" : "890842461"
+      }, {
+        "count" : 4,
+        "item" : "360216205"
+      }, {
+        "count" : 3,
+        "item" : "1316703890"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45864509,
+    "name" : "Amount City Expects to be Received by Other Entities",
+    "dataTypeName" : "money",
+    "fieldName" : "amount_city_expects_to_be_received_by_other_entities",
+    "position" : 7,
+    "renderTypeName" : "money",
+    "tableColumnId" : 8013355,
+    "width" : 176,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "0",
+      "sum" : "727447394",
+      "null" : 118,
+      "average" : "145489478.8",
+      "largest" : "333502277",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "60442840"
+      }, {
+        "count" : 18,
+        "item" : "273059437"
+      }, {
+        "count" : 17,
+        "item" : "333502277"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dcp", "city", "planning", "funding", "source", "housing" ],
+  "flags" : [ "default" ]
+}

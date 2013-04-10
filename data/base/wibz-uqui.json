@@ -1,0 +1,1313 @@
+{
+  "id" : "wibz-uqui",
+  "name" : "NYPL Branch Services - Staten Island",
+  "attribution" : "New York Public Library (NYPL)",
+  "averageRating" : 0,
+  "category" : "Library",
+  "createdAt" : 1320078349,
+  "description" : "New York Public Library (NYPL) branch services from July 2010 to June 2011 (Staten Island)",
+  "displayType" : "table",
+  "downloadCount" : 11,
+  "numberOfComments" : 0,
+  "oid" : 357699,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1320078792,
+  "publicationGroup" : 249432,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1320078363,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 249432,
+  "totalTimesRated" : 0,
+  "viewCount" : 54,
+  "viewLastModified" : 1320078792,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3346690,
+    "name" : "Boro/Central Library",
+    "dataTypeName" : "text",
+    "fieldName" : "boro_central_library",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1642989,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "Staten Island",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3346691,
+    "name" : "Network",
+    "dataTypeName" : "text",
+    "fieldName" : "network",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1642990,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 15,
+      "smallest" : "Special Units",
+      "null" : 1,
+      "largest" : "Staten Island Network",
+      "top" : [ {
+        "count" : 13,
+        "item" : "Staten Island Network"
+      }, {
+        "count" : 2,
+        "item" : "Special Units"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3346692,
+    "name" : "Branch",
+    "dataTypeName" : "text",
+    "fieldName" : "branch",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1642991,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "Dongan Hills",
+      "null" : 0,
+      "largest" : "West New Brighton",
+      "top" : [ {
+        "count" : 2,
+        "item" : "Subtotal:"
+      }, {
+        "count" : 1,
+        "item" : "West New Brighton"
+      }, {
+        "count" : 1,
+        "item" : "Huguenot Park"
+      }, {
+        "count" : 1,
+        "item" : "Port Richmond"
+      }, {
+        "count" : 1,
+        "item" : "South Beach"
+      }, {
+        "count" : 1,
+        "item" : "Todt-Hill Westerleigh"
+      }, {
+        "count" : 1,
+        "item" : "New Dorp"
+      }, {
+        "count" : 1,
+        "item" : "STATEN ISLAND TOTAL:"
+      }, {
+        "count" : 1,
+        "item" : "Dongan Hills"
+      }, {
+        "count" : 1,
+        "item" : "Stapleton*  * Closed for major renovation - effective 4/15/10"
+      }, {
+        "count" : 1,
+        "item" : "St. George Library Center"
+      }, {
+        "count" : 1,
+        "item" : "Great Kills "
+      }, {
+        "count" : 1,
+        "item" : "Tottenville"
+      }, {
+        "count" : 1,
+        "item" : "Staten Island Borough Office"
+      }, {
+        "count" : 1,
+        "item" : "Richmondtown"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3346693,
+    "name" : "ADULT Program",
+    "dataTypeName" : "number",
+    "fieldName" : "adult_program",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1642992,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "0",
+      "sum" : "2406",
+      "null" : 0,
+      "average" : "150.375",
+      "largest" : "802",
+      "top" : [ {
+        "count" : 3,
+        "item" : "0"
+      }, {
+        "count" : 2,
+        "item" : "802"
+      }, {
+        "count" : 1,
+        "item" : "59"
+      }, {
+        "count" : 1,
+        "item" : "50"
+      }, {
+        "count" : 1,
+        "item" : "35"
+      }, {
+        "count" : 1,
+        "item" : "58"
+      }, {
+        "count" : 1,
+        "item" : "94"
+      }, {
+        "count" : 1,
+        "item" : "83"
+      }, {
+        "count" : 1,
+        "item" : "112"
+      }, {
+        "count" : 1,
+        "item" : "47"
+      }, {
+        "count" : 1,
+        "item" : "66"
+      }, {
+        "count" : 1,
+        "item" : "141"
+      }, {
+        "count" : 1,
+        "item" : "57"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3346694,
+    "name" : "ADULT Attendance",
+    "dataTypeName" : "number",
+    "fieldName" : "adult_attendance",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1642993,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "0",
+      "sum" : "35643",
+      "null" : 0,
+      "average" : "2227.6875",
+      "largest" : "11881",
+      "top" : [ {
+        "count" : 3,
+        "item" : "0"
+      }, {
+        "count" : 2,
+        "item" : "11881"
+      }, {
+        "count" : 1,
+        "item" : "1323"
+      }, {
+        "count" : 1,
+        "item" : "1170"
+      }, {
+        "count" : 1,
+        "item" : "458"
+      }, {
+        "count" : 1,
+        "item" : "543"
+      }, {
+        "count" : 1,
+        "item" : "1299"
+      }, {
+        "count" : 1,
+        "item" : "1007"
+      }, {
+        "count" : 1,
+        "item" : "929"
+      }, {
+        "count" : 1,
+        "item" : "1655"
+      }, {
+        "count" : 1,
+        "item" : "1173"
+      }, {
+        "count" : 1,
+        "item" : "1570"
+      }, {
+        "count" : 1,
+        "item" : "754"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3346695,
+    "name" : "YOUNG ADULT Program",
+    "dataTypeName" : "number",
+    "fieldName" : "young_adult_program",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1642994,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "0",
+      "sum" : "2955",
+      "null" : 0,
+      "average" : "184.6875",
+      "largest" : "985",
+      "top" : [ {
+        "count" : 3,
+        "item" : "0"
+      }, {
+        "count" : 2,
+        "item" : "985"
+      }, {
+        "count" : 2,
+        "item" : "44"
+      }, {
+        "count" : 1,
+        "item" : "365"
+      }, {
+        "count" : 1,
+        "item" : "61"
+      }, {
+        "count" : 1,
+        "item" : "109"
+      }, {
+        "count" : 1,
+        "item" : "99"
+      }, {
+        "count" : 1,
+        "item" : "72"
+      }, {
+        "count" : 1,
+        "item" : "35"
+      }, {
+        "count" : 1,
+        "item" : "60"
+      }, {
+        "count" : 1,
+        "item" : "82"
+      }, {
+        "count" : 1,
+        "item" : "14"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3346696,
+    "name" : "YOUNG ADULT Attendance",
+    "dataTypeName" : "number",
+    "fieldName" : "young_adult_attendance",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1642995,
+    "width" : 364,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "0",
+      "sum" : "32238",
+      "null" : 0,
+      "average" : "2014.875",
+      "largest" : "10746",
+      "top" : [ {
+        "count" : 3,
+        "item" : "0"
+      }, {
+        "count" : 2,
+        "item" : "10746"
+      }, {
+        "count" : 1,
+        "item" : "1005"
+      }, {
+        "count" : 1,
+        "item" : "287"
+      }, {
+        "count" : 1,
+        "item" : "507"
+      }, {
+        "count" : 1,
+        "item" : "117"
+      }, {
+        "count" : 1,
+        "item" : "1412"
+      }, {
+        "count" : 1,
+        "item" : "400"
+      }, {
+        "count" : 1,
+        "item" : "2862"
+      }, {
+        "count" : 1,
+        "item" : "1590"
+      }, {
+        "count" : 1,
+        "item" : "1130"
+      }, {
+        "count" : 1,
+        "item" : "873"
+      }, {
+        "count" : 1,
+        "item" : "563"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3346697,
+    "name" : "JUVENILE Program",
+    "dataTypeName" : "number",
+    "fieldName" : "juvenile_program",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1642996,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "0",
+      "sum" : "5823",
+      "null" : 0,
+      "average" : "363.9375",
+      "largest" : "1941",
+      "top" : [ {
+        "count" : 3,
+        "item" : "0"
+      }, {
+        "count" : 2,
+        "item" : "207"
+      }, {
+        "count" : 2,
+        "item" : "1941"
+      }, {
+        "count" : 1,
+        "item" : "140"
+      }, {
+        "count" : 1,
+        "item" : "182"
+      }, {
+        "count" : 1,
+        "item" : "181"
+      }, {
+        "count" : 1,
+        "item" : "165"
+      }, {
+        "count" : 1,
+        "item" : "147"
+      }, {
+        "count" : 1,
+        "item" : "177"
+      }, {
+        "count" : 1,
+        "item" : "108"
+      }, {
+        "count" : 1,
+        "item" : "212"
+      }, {
+        "count" : 1,
+        "item" : "215"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3346698,
+    "name" : "JUVENILE Attendance",
+    "dataTypeName" : "number",
+    "fieldName" : "juvenile_attendance",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1642997,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "0",
+      "sum" : "133089",
+      "null" : 0,
+      "average" : "8318.0625",
+      "largest" : "44363",
+      "top" : [ {
+        "count" : 3,
+        "item" : "0"
+      }, {
+        "count" : 2,
+        "item" : "44363"
+      }, {
+        "count" : 1,
+        "item" : "4580"
+      }, {
+        "count" : 1,
+        "item" : "5003"
+      }, {
+        "count" : 1,
+        "item" : "3809"
+      }, {
+        "count" : 1,
+        "item" : "4701"
+      }, {
+        "count" : 1,
+        "item" : "5298"
+      }, {
+        "count" : 1,
+        "item" : "3604"
+      }, {
+        "count" : 1,
+        "item" : "4312"
+      }, {
+        "count" : 1,
+        "item" : "3257"
+      }, {
+        "count" : 1,
+        "item" : "3389"
+      }, {
+        "count" : 1,
+        "item" : "4105"
+      }, {
+        "count" : 1,
+        "item" : "2305"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3346699,
+    "name" : "OUTREACH SERVICES Program",
+    "dataTypeName" : "number",
+    "fieldName" : "outreach_services_program",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1642998,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "0",
+      "sum" : "3618",
+      "null" : 0,
+      "average" : "226.125",
+      "largest" : "1206",
+      "top" : [ {
+        "count" : 2,
+        "item" : "2"
+      }, {
+        "count" : 1,
+        "item" : "20"
+      }, {
+        "count" : 1,
+        "item" : "74"
+      }, {
+        "count" : 1,
+        "item" : "138"
+      }, {
+        "count" : 1,
+        "item" : "10"
+      }, {
+        "count" : 1,
+        "item" : "28"
+      }, {
+        "count" : 1,
+        "item" : "1204"
+      }, {
+        "count" : 1,
+        "item" : "1206"
+      }, {
+        "count" : 1,
+        "item" : "52"
+      }, {
+        "count" : 1,
+        "item" : "167"
+      }, {
+        "count" : 1,
+        "item" : "368"
+      }, {
+        "count" : 1,
+        "item" : "217"
+      }, {
+        "count" : 1,
+        "item" : "57"
+      }, {
+        "count" : 1,
+        "item" : "0"
+      }, {
+        "count" : 1,
+        "item" : "73"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3346700,
+    "name" : "OUTREACH SERVICES Attendance",
+    "dataTypeName" : "number",
+    "fieldName" : "outreach_services_attendance",
+    "position" : 12,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1642999,
+    "width" : 436,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "0",
+      "sum" : "94836",
+      "null" : 0,
+      "average" : "5927.25",
+      "largest" : "31612",
+      "top" : [ {
+        "count" : 2,
+        "item" : "89"
+      }, {
+        "count" : 1,
+        "item" : "3392"
+      }, {
+        "count" : 1,
+        "item" : "303"
+      }, {
+        "count" : 1,
+        "item" : "5319"
+      }, {
+        "count" : 1,
+        "item" : "31612"
+      }, {
+        "count" : 1,
+        "item" : "3801"
+      }, {
+        "count" : 1,
+        "item" : "1957"
+      }, {
+        "count" : 1,
+        "item" : "618"
+      }, {
+        "count" : 1,
+        "item" : "1664"
+      }, {
+        "count" : 1,
+        "item" : "8935"
+      }, {
+        "count" : 1,
+        "item" : "31523"
+      }, {
+        "count" : 1,
+        "item" : "2226"
+      }, {
+        "count" : 1,
+        "item" : "3030"
+      }, {
+        "count" : 1,
+        "item" : "278"
+      }, {
+        "count" : 1,
+        "item" : "0"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3346701,
+    "name" : " TOTAL Program",
+    "dataTypeName" : "number",
+    "fieldName" : "_total_program",
+    "position" : 13,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1643000,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "0",
+      "sum" : "14802",
+      "null" : 0,
+      "average" : "925.125",
+      "largest" : "4934",
+      "top" : [ {
+        "count" : 2,
+        "item" : "2"
+      }, {
+        "count" : 1,
+        "item" : "459"
+      }, {
+        "count" : 1,
+        "item" : "429"
+      }, {
+        "count" : 1,
+        "item" : "4934"
+      }, {
+        "count" : 1,
+        "item" : "1052"
+      }, {
+        "count" : 1,
+        "item" : "310"
+      }, {
+        "count" : 1,
+        "item" : "291"
+      }, {
+        "count" : 1,
+        "item" : "372"
+      }, {
+        "count" : 1,
+        "item" : "4932"
+      }, {
+        "count" : 1,
+        "item" : "611"
+      }, {
+        "count" : 1,
+        "item" : "432"
+      }, {
+        "count" : 1,
+        "item" : "480"
+      }, {
+        "count" : 1,
+        "item" : "288"
+      }, {
+        "count" : 1,
+        "item" : "0"
+      }, {
+        "count" : 1,
+        "item" : "208"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3346702,
+    "name" : " TOTAL Attendance",
+    "dataTypeName" : "number",
+    "fieldName" : "_total_attendance",
+    "position" : 14,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1643001,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "0",
+      "sum" : "295806",
+      "null" : 0,
+      "average" : "18487.875",
+      "largest" : "98602",
+      "top" : [ {
+        "count" : 2,
+        "item" : "89"
+      }, {
+        "count" : 1,
+        "item" : "8928"
+      }, {
+        "count" : 1,
+        "item" : "9906"
+      }, {
+        "count" : 1,
+        "item" : "5886"
+      }, {
+        "count" : 1,
+        "item" : "12074"
+      }, {
+        "count" : 1,
+        "item" : "9611"
+      }, {
+        "count" : 1,
+        "item" : "98513"
+      }, {
+        "count" : 1,
+        "item" : "5240"
+      }, {
+        "count" : 1,
+        "item" : "15368"
+      }, {
+        "count" : 1,
+        "item" : "7052"
+      }, {
+        "count" : 1,
+        "item" : "9150"
+      }, {
+        "count" : 1,
+        "item" : "98602"
+      }, {
+        "count" : 1,
+        "item" : "11566"
+      }, {
+        "count" : 1,
+        "item" : "3732"
+      }, {
+        "count" : 1,
+        "item" : "0"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3346703,
+    "name" : " REFERENCE TRANSACTIONS Adult",
+    "dataTypeName" : "number",
+    "fieldName" : "_reference_transactions_adult",
+    "position" : 15,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1643002,
+    "width" : 448,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "0",
+      "sum" : "2028039",
+      "null" : 0,
+      "average" : "126752.4375",
+      "largest" : "676013",
+      "top" : [ {
+        "count" : 3,
+        "item" : "0"
+      }, {
+        "count" : 2,
+        "item" : "676013"
+      }, {
+        "count" : 1,
+        "item" : "19396"
+      }, {
+        "count" : 1,
+        "item" : "63089"
+      }, {
+        "count" : 1,
+        "item" : "35477"
+      }, {
+        "count" : 1,
+        "item" : "36699"
+      }, {
+        "count" : 1,
+        "item" : "18798"
+      }, {
+        "count" : 1,
+        "item" : "179179"
+      }, {
+        "count" : 1,
+        "item" : "152763"
+      }, {
+        "count" : 1,
+        "item" : "82589"
+      }, {
+        "count" : 1,
+        "item" : "39403"
+      }, {
+        "count" : 1,
+        "item" : "18811"
+      }, {
+        "count" : 1,
+        "item" : "29809"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3346704,
+    "name" : " REFERENCE TRANSACTIONS Young Adult",
+    "dataTypeName" : "number",
+    "fieldName" : "_reference_transactions_young_adult",
+    "position" : 16,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1643003,
+    "width" : 520,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "0",
+      "sum" : "654888",
+      "null" : 0,
+      "average" : "40930.5",
+      "largest" : "218296",
+      "top" : [ {
+        "count" : 3,
+        "item" : "0"
+      }, {
+        "count" : 2,
+        "item" : "218296"
+      }, {
+        "count" : 1,
+        "item" : "8684"
+      }, {
+        "count" : 1,
+        "item" : "6422"
+      }, {
+        "count" : 1,
+        "item" : "26910"
+      }, {
+        "count" : 1,
+        "item" : "17732"
+      }, {
+        "count" : 1,
+        "item" : "9074"
+      }, {
+        "count" : 1,
+        "item" : "18005"
+      }, {
+        "count" : 1,
+        "item" : "23517"
+      }, {
+        "count" : 1,
+        "item" : "8138"
+      }, {
+        "count" : 1,
+        "item" : "6318"
+      }, {
+        "count" : 1,
+        "item" : "77844"
+      }, {
+        "count" : 1,
+        "item" : "15652"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3346705,
+    "name" : " REFERENCE TRANSACTIONS Juvenile",
+    "dataTypeName" : "number",
+    "fieldName" : "_reference_transactions_juvenile",
+    "position" : 17,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1643004,
+    "width" : 484,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "0",
+      "sum" : "857259",
+      "null" : 0,
+      "average" : "53578.6875",
+      "largest" : "285753",
+      "top" : [ {
+        "count" : 3,
+        "item" : "0"
+      }, {
+        "count" : 2,
+        "item" : "285753"
+      }, {
+        "count" : 1,
+        "item" : "10205"
+      }, {
+        "count" : 1,
+        "item" : "27339"
+      }, {
+        "count" : 1,
+        "item" : "22516"
+      }, {
+        "count" : 1,
+        "item" : "9126"
+      }, {
+        "count" : 1,
+        "item" : "20982"
+      }, {
+        "count" : 1,
+        "item" : "18941"
+      }, {
+        "count" : 1,
+        "item" : "38844"
+      }, {
+        "count" : 1,
+        "item" : "10764"
+      }, {
+        "count" : 1,
+        "item" : "98735"
+      }, {
+        "count" : 1,
+        "item" : "8840"
+      }, {
+        "count" : 1,
+        "item" : "19461"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3346706,
+    "name" : " REFERENCE TRANSACTIONS",
+    "dataTypeName" : "number",
+    "fieldName" : "_reference_transactions",
+    "position" : 18,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1643005,
+    "width" : 376,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "0",
+      "sum" : "3540186",
+      "null" : 0,
+      "average" : "221261.625",
+      "largest" : "1180062",
+      "top" : [ {
+        "count" : 3,
+        "item" : "0"
+      }, {
+        "count" : 2,
+        "item" : "1180062"
+      }, {
+        "count" : 1,
+        "item" : "100555"
+      }, {
+        "count" : 1,
+        "item" : "57603"
+      }, {
+        "count" : 1,
+        "item" : "329342"
+      }, {
+        "count" : 1,
+        "item" : "128622"
+      }, {
+        "count" : 1,
+        "item" : "71292"
+      }, {
+        "count" : 1,
+        "item" : "34073"
+      }, {
+        "count" : 1,
+        "item" : "59475"
+      }, {
+        "count" : 1,
+        "item" : "89726"
+      }, {
+        "count" : 1,
+        "item" : "36478"
+      }, {
+        "count" : 1,
+        "item" : "235755"
+      }, {
+        "count" : 1,
+        "item" : "37141"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3346707,
+    "name" : "CIRCULATION Adult",
+    "dataTypeName" : "number",
+    "fieldName" : "circulation_adult",
+    "position" : 19,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1643006,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "0",
+      "sum" : "3384135",
+      "null" : 0,
+      "average" : "211508.4375",
+      "largest" : "1128045",
+      "top" : [ {
+        "count" : 2,
+        "item" : "1128045"
+      }, {
+        "count" : 2,
+        "item" : "0"
+      }, {
+        "count" : 1,
+        "item" : "60629"
+      }, {
+        "count" : 1,
+        "item" : "167522"
+      }, {
+        "count" : 1,
+        "item" : "68168"
+      }, {
+        "count" : 1,
+        "item" : "43650"
+      }, {
+        "count" : 1,
+        "item" : "78945"
+      }, {
+        "count" : 1,
+        "item" : "170"
+      }, {
+        "count" : 1,
+        "item" : "42777"
+      }, {
+        "count" : 1,
+        "item" : "125685"
+      }, {
+        "count" : 1,
+        "item" : "258937"
+      }, {
+        "count" : 1,
+        "item" : "123762"
+      }, {
+        "count" : 1,
+        "item" : "98731"
+      }, {
+        "count" : 1,
+        "item" : "59069"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3346708,
+    "name" : "CIRCULATION Young Adult",
+    "dataTypeName" : "number",
+    "fieldName" : "circulation_young_adult",
+    "position" : 20,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1643007,
+    "width" : 376,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "0",
+      "sum" : "670626",
+      "null" : 0,
+      "average" : "41914.125",
+      "largest" : "223542",
+      "top" : [ {
+        "count" : 2,
+        "item" : "223542"
+      }, {
+        "count" : 2,
+        "item" : "0"
+      }, {
+        "count" : 1,
+        "item" : "25978"
+      }, {
+        "count" : 1,
+        "item" : "32"
+      }, {
+        "count" : 1,
+        "item" : "17206"
+      }, {
+        "count" : 1,
+        "item" : "13544"
+      }, {
+        "count" : 1,
+        "item" : "13752"
+      }, {
+        "count" : 1,
+        "item" : "11198"
+      }, {
+        "count" : 1,
+        "item" : "17813"
+      }, {
+        "count" : 1,
+        "item" : "11163"
+      }, {
+        "count" : 1,
+        "item" : "22124"
+      }, {
+        "count" : 1,
+        "item" : "14004"
+      }, {
+        "count" : 1,
+        "item" : "23400"
+      }, {
+        "count" : 1,
+        "item" : "53328"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3346709,
+    "name" : "CIRCULATION Juvenile",
+    "dataTypeName" : "number",
+    "fieldName" : "circulation_juvenile",
+    "position" : 21,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1643008,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "0",
+      "sum" : "3280878",
+      "null" : 0,
+      "average" : "205054.875",
+      "largest" : "1093626",
+      "top" : [ {
+        "count" : 2,
+        "item" : "1093626"
+      }, {
+        "count" : 2,
+        "item" : "0"
+      }, {
+        "count" : 1,
+        "item" : "295016"
+      }, {
+        "count" : 1,
+        "item" : "62037"
+      }, {
+        "count" : 1,
+        "item" : "70811"
+      }, {
+        "count" : 1,
+        "item" : "35952"
+      }, {
+        "count" : 1,
+        "item" : "85539"
+      }, {
+        "count" : 1,
+        "item" : "75200"
+      }, {
+        "count" : 1,
+        "item" : "108050"
+      }, {
+        "count" : 1,
+        "item" : "66888"
+      }, {
+        "count" : 1,
+        "item" : "69211"
+      }, {
+        "count" : 1,
+        "item" : "100290"
+      }, {
+        "count" : 1,
+        "item" : "141"
+      }, {
+        "count" : 1,
+        "item" : "124491"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3346710,
+    "name" : "CIRCULATION",
+    "dataTypeName" : "number",
+    "fieldName" : "circulation",
+    "position" : 22,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1643009,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "0",
+      "sum" : "7335639",
+      "null" : 0,
+      "average" : "458477.4375",
+      "largest" : "2445213",
+      "top" : [ {
+        "count" : 2,
+        "item" : "2445213"
+      }, {
+        "count" : 2,
+        "item" : "0"
+      }, {
+        "count" : 1,
+        "item" : "123151"
+      }, {
+        "count" : 1,
+        "item" : "257135"
+      }, {
+        "count" : 1,
+        "item" : "241865"
+      }, {
+        "count" : 1,
+        "item" : "268700"
+      }, {
+        "count" : 1,
+        "item" : "90800"
+      }, {
+        "count" : 1,
+        "item" : "152523"
+      }, {
+        "count" : 1,
+        "item" : "245346"
+      }, {
+        "count" : 1,
+        "item" : "607281"
+      }, {
+        "count" : 1,
+        "item" : "158188"
+      }, {
+        "count" : 1,
+        "item" : "139709"
+      }, {
+        "count" : 1,
+        "item" : "343"
+      }, {
+        "count" : 1,
+        "item" : "160172"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3346711,
+    "name" : "Weekly Hours of Public Service",
+    "dataTypeName" : "number",
+    "fieldName" : "weekly_hours_of_public_service",
+    "position" : 23,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1643010,
+    "width" : 460,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "0",
+      "sum" : "1518",
+      "null" : 0,
+      "average" : "94.875",
+      "largest" : "506",
+      "top" : [ {
+        "count" : 3,
+        "item" : "42"
+      }, {
+        "count" : 3,
+        "item" : "46"
+      }, {
+        "count" : 3,
+        "item" : "0"
+      }, {
+        "count" : 2,
+        "item" : "43"
+      }, {
+        "count" : 2,
+        "item" : "506"
+      }, {
+        "count" : 1,
+        "item" : "50"
+      }, {
+        "count" : 1,
+        "item" : "62"
+      }, {
+        "count" : 1,
+        "item" : "44"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Historical Data"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "libraries", "culture", "community", "recreation", "education" ],
+  "flags" : [ "default" ]
+}

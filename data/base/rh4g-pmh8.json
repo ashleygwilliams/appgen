@@ -1,0 +1,461 @@
+{
+  "id" : "rh4g-pmh8",
+  "name" : "Watershed statistics",
+  "attribution" : "Department of Environmental Protection (DEP)",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1315604429,
+  "description" : "NYC West-of-Hudson Watershed Impervious Surface Percentages by Basin",
+  "displayType" : "table",
+  "downloadCount" : 20,
+  "numberOfComments" : 0,
+  "oid" : 332738,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1315604429,
+  "publicationGroup" : 240236,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1315604430,
+  "rowsUpdatedBy" : "k2fz-tf56",
+  "signed" : false,
+  "tableId" : 240236,
+  "totalTimesRated" : 0,
+  "viewCount" : 168,
+  "viewLastModified" : 1363712622,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2833346,
+    "name" : "WOH Basin",
+    "dataTypeName" : "text",
+    "fieldName" : "woh_basin",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1517400,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "Ashokan",
+      "null" : 4,
+      "largest" : "Schoharie",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Ashokan"
+      }, {
+        "count" : 19,
+        "item" : "Cannonsville"
+      }, {
+        "count" : 18,
+        "item" : "Neversink"
+      }, {
+        "count" : 17,
+        "item" : "Pepacton"
+      }, {
+        "count" : 16,
+        "item" : "Rondout"
+      }, {
+        "count" : 15,
+        "item" : "Schoharie"
+      }, {
+        "count" : 14,
+        "item" : "Grand Total"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2833347,
+    "name" : "Total Basin Area (acres)",
+    "dataTypeName" : "number",
+    "fieldName" : "total_basin_area_acres",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1517401,
+    "width" : 388,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "58902",
+      "sum" : "2027871",
+      "null" : 4,
+      "average" : "289695.8571428571",
+      "largest" : "1013936",
+      "top" : [ {
+        "count" : 20,
+        "item" : "163405"
+      }, {
+        "count" : 19,
+        "item" : "291077"
+      }, {
+        "count" : 18,
+        "item" : "58902"
+      }, {
+        "count" : 17,
+        "item" : "237472"
+      }, {
+        "count" : 16,
+        "item" : "61039"
+      }, {
+        "count" : 15,
+        "item" : "202040"
+      }, {
+        "count" : 14,
+        "item" : "1013936"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2833348,
+    "name" : "Total Reservoir Area (acres)",
+    "dataTypeName" : "number",
+    "fieldName" : "total_reservoir_area_acres",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1517402,
+    "width" : 436,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "1145",
+      "sum" : "45377",
+      "null" : 4,
+      "average" : "6482.428571428571",
+      "largest" : "22688",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8106"
+      }, {
+        "count" : 19,
+        "item" : "4713"
+      }, {
+        "count" : 18,
+        "item" : "1493"
+      }, {
+        "count" : 17,
+        "item" : "5194"
+      }, {
+        "count" : 16,
+        "item" : "2038"
+      }, {
+        "count" : 15,
+        "item" : "1145"
+      }, {
+        "count" : 14,
+        "item" : "22688"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2833349,
+    "name" : "Total Water Bodies** incl. Reservoirs (acres)",
+    "dataTypeName" : "number",
+    "fieldName" : "total_water_bodies_incl_reservoirs_acres",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1517403,
+    "width" : 640,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "1873",
+      "sum" : "53153",
+      "null" : 4,
+      "average" : "7593.285714285714",
+      "largest" : "26576",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8557"
+      }, {
+        "count" : 19,
+        "item" : "6144"
+      }, {
+        "count" : 18,
+        "item" : "1873"
+      }, {
+        "count" : 17,
+        "item" : "5822"
+      }, {
+        "count" : 16,
+        "item" : "2160"
+      }, {
+        "count" : 15,
+        "item" : "2021"
+      }, {
+        "count" : 14,
+        "item" : "26576"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2833350,
+    "name" : "Basin Area minus Water Bodies (acres)",
+    "dataTypeName" : "number",
+    "fieldName" : "basin_area_minus_water_bodies_acres",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1517404,
+    "width" : 544,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "57029",
+      "sum" : "1974719",
+      "null" : 4,
+      "average" : "282102.7142857143",
+      "largest" : "987360",
+      "top" : [ {
+        "count" : 20,
+        "item" : "154849"
+      }, {
+        "count" : 19,
+        "item" : "284933"
+      }, {
+        "count" : 18,
+        "item" : "57029"
+      }, {
+        "count" : 17,
+        "item" : "231650"
+      }, {
+        "count" : 16,
+        "item" : "58879"
+      }, {
+        "count" : 15,
+        "item" : "200019"
+      }, {
+        "count" : 14,
+        "item" : "987360"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2833351,
+    "name" : "Total Impervious Surface (acres)",
+    "dataTypeName" : "number",
+    "fieldName" : "total_impervious_surface_acres",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1517405,
+    "width" : 484,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "350",
+      "sum" : "23949",
+      "null" : 4,
+      "average" : "3421.285714285714",
+      "largest" : "11975",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1549"
+      }, {
+        "count" : 19,
+        "item" : "4608"
+      }, {
+        "count" : 18,
+        "item" : "350"
+      }, {
+        "count" : 17,
+        "item" : "2517"
+      }, {
+        "count" : 16,
+        "item" : "605"
+      }, {
+        "count" : 15,
+        "item" : "2345"
+      }, {
+        "count" : 14,
+        "item" : "11975"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2833352,
+    "name" : "Impervious as % of Total Basin Area",
+    "dataTypeName" : "percent",
+    "fieldName" : "impervious_as_of_total_basin_area",
+    "position" : 8,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1517406,
+    "width" : 520,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "0.60",
+      "sum" : "7.60",
+      "null" : 4,
+      "average" : "1.085714285714286",
+      "largest" : "1.60",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.90"
+      }, {
+        "count" : 19,
+        "item" : "1.60"
+      }, {
+        "count" : 18,
+        "item" : "0.60"
+      }, {
+        "count" : 17,
+        "item" : "1.10"
+      }, {
+        "count" : 16,
+        "item" : "1.00"
+      }, {
+        "count" : 15,
+        "item" : "1.20"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2833353,
+    "name" : "Impervious as % of Basin Excluding Water Body Areas***",
+    "dataTypeName" : "percent",
+    "fieldName" : "impervious_as_of_basin_excluding_water_body_areas",
+    "position" : 9,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1517407,
+    "width" : 700,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "0.60",
+      "sum" : "7.70",
+      "null" : 4,
+      "average" : "1.10",
+      "largest" : "1.60",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1.00"
+      }, {
+        "count" : 19,
+        "item" : "1.60"
+      }, {
+        "count" : 18,
+        "item" : "0.60"
+      }, {
+        "count" : 17,
+        "item" : "1.10"
+      }, {
+        "count" : 16,
+        "item" : "1.20"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2833354,
+    "name" : "Population Density**** (persons/ sq. mi)",
+    "dataTypeName" : "number",
+    "fieldName" : "population_density_persons_sq_mi",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1517408,
+    "width" : 580,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "13",
+      "sum" : "194",
+      "null" : 4,
+      "average" : "27.71428571428571",
+      "largest" : "39",
+      "top" : [ {
+        "count" : 20,
+        "item" : "33"
+      }, {
+        "count" : 19,
+        "item" : "39"
+      }, {
+        "count" : 18,
+        "item" : "13"
+      }, {
+        "count" : 17,
+        "item" : "21"
+      }, {
+        "count" : 16,
+        "item" : "32"
+      }, {
+        "count" : 15,
+        "item" : "27"
+      }, {
+        "count" : 14,
+        "item" : "29"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2833355,
+    "name" : "References ****",
+    "dataTypeName" : "text",
+    "fieldName" : "references",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1517409,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "**** Population density (column I) based on 2000 Census Data. See graph below for correllation between pop. density and % impervious over total  basin area (column I vs. column G). Column G is used in order to be consistent with pop. density, which is over total basin area - not land only.",
+      "null" : 7,
+      "largest" : "* Impervious surface acreages are calculated from NYCDEP GIS data derived from Spring 2001 high resolution (0.3 m) NYS Ortho Imagery using pattern recognition software.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "* Impervious surface acreages are calculated from NYCDEP GIS data derived from Spring 2001 high resolution (0.3 m) NYS Ortho Imagery using pattern recognition software."
+      }, {
+        "count" : 19,
+        "item" : "** Water Bodies (column D) include reservoirs, lakes, ponds, and rivers/major streams but exclude minor streams and wetlands."
+      }, {
+        "count" : 18,
+        "item" : " *** To analyze the portion of potentially developable land area that is already impervious, percentages in column H represent the total  impervious acreage for each basin divided by the difference between the total basin area and the total water body area (i.e. F/E)."
+      }, {
+        "count" : 17,
+        "item" : "**** Population density (column I) based on 2000 Census Data. See graph below for correllation between pop. density and % impervious over total  basin area (column I vs. column G). Column G is used in order to be consistent with pop. density, which is over total basin area - not land only."
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "department of environmental protection", "dep", "environment", "water", "reservoir", "health", "ecosystem", "eco-system", "agua", "water system", "water supply", "nyc", "tap", "tap water", "conservation", "watershrd", "healthy living" ],
+  "flags" : [ "default" ]
+}

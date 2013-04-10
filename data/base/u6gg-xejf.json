@@ -1,0 +1,597 @@
+{
+  "id" : "u6gg-xejf",
+  "name" : "Vacant Lots Cleaned",
+  "attribution" : "Department of Sanitation (DSNY)",
+  "averageRating" : 0,
+  "category" : "Social Services",
+  "createdAt" : 1327682790,
+  "description" : "Gives address, Borough-Block-Lot of each vacant lot cleaned by DSNY forces during the report month.  Also gives the date cleaned.",
+  "displayType" : "table",
+  "downloadCount" : 47,
+  "numberOfComments" : 1,
+  "oid" : 483304,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1329414446,
+  "publicationGroup" : 279041,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1329414325,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 286495,
+  "totalTimesRated" : 0,
+  "viewCount" : 200,
+  "viewLastModified" : 1365272442,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 5611088,
+    "name" : "Boro",
+    "dataTypeName" : "text",
+    "fieldName" : "boro",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2029693,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 299,
+      "smallest" : "BRONX",
+      "null" : 0,
+      "largest" : "STATEN ISLAND",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BRONX"
+      }, {
+        "count" : 19,
+        "item" : "BROOKLYN"
+      }, {
+        "count" : 18,
+        "item" : "MANHATTAN"
+      }, {
+        "count" : 17,
+        "item" : "QUEENS"
+      }, {
+        "count" : 16,
+        "item" : "STATEN ISLAND"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 5611089,
+    "name" : "District",
+    "dataTypeName" : "number",
+    "fieldName" : "district",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 2029694,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 299,
+      "smallest" : "1",
+      "sum" : "2293",
+      "null" : 0,
+      "average" : "7.668896321070234",
+      "largest" : "18",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "3"
+      }, {
+        "count" : 18,
+        "item" : "4"
+      }, {
+        "count" : 17,
+        "item" : "5"
+      }, {
+        "count" : 16,
+        "item" : "6"
+      }, {
+        "count" : 15,
+        "item" : "7"
+      }, {
+        "count" : 14,
+        "item" : "8"
+      }, {
+        "count" : 13,
+        "item" : "9"
+      }, {
+        "count" : 12,
+        "item" : "11"
+      }, {
+        "count" : 11,
+        "item" : "12"
+      }, {
+        "count" : 10,
+        "item" : "2"
+      }, {
+        "count" : 9,
+        "item" : "16"
+      }, {
+        "count" : 8,
+        "item" : "17"
+      }, {
+        "count" : 7,
+        "item" : "18"
+      }, {
+        "count" : 6,
+        "item" : "10"
+      }, {
+        "count" : 5,
+        "item" : "13"
+      }, {
+        "count" : 4,
+        "item" : "14"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 5611090,
+    "name" : "CCU",
+    "dataTypeName" : "text",
+    "fieldName" : "ccu",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2029695,
+    "width" : 136,
+    "cachedContents" : {
+      "non_null" : 299,
+      "smallest" : "11-10318",
+      "null" : 0,
+      "largest" : "12-05431",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11-11894"
+      }, {
+        "count" : 19,
+        "item" : "11-11844"
+      }, {
+        "count" : 18,
+        "item" : "12-05204"
+      }, {
+        "count" : 17,
+        "item" : "11-11778"
+      }, {
+        "count" : 16,
+        "item" : "12-05205"
+      }, {
+        "count" : 15,
+        "item" : "11-11071"
+      }, {
+        "count" : 14,
+        "item" : "11-11682"
+      }, {
+        "count" : 13,
+        "item" : "11-11881"
+      }, {
+        "count" : 12,
+        "item" : "11-11904"
+      }, {
+        "count" : 11,
+        "item" : "11-11905"
+      }, {
+        "count" : 10,
+        "item" : "11-11906"
+      }, {
+        "count" : 9,
+        "item" : "11-11896"
+      }, {
+        "count" : 8,
+        "item" : "11-11900"
+      }, {
+        "count" : 7,
+        "item" : "11-11902"
+      }, {
+        "count" : 6,
+        "item" : "12-05113"
+      }, {
+        "count" : 5,
+        "item" : "11-11657"
+      }, {
+        "count" : 4,
+        "item" : "11-11736"
+      }, {
+        "count" : 3,
+        "item" : "11-11816"
+      }, {
+        "count" : 2,
+        "item" : "11-11817"
+      }, {
+        "count" : 1,
+        "item" : "11-11715"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 5611091,
+    "name" : "Block",
+    "dataTypeName" : "number",
+    "fieldName" : "block",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 2029696,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 299,
+      "smallest" : "6",
+      "sum" : "1402730",
+      "null" : 0,
+      "average" : "4691.404682274247",
+      "largest" : "16106",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2384"
+      }, {
+        "count" : 19,
+        "item" : "1754"
+      }, {
+        "count" : 18,
+        "item" : "6253"
+      }, {
+        "count" : 17,
+        "item" : "1475"
+      }, {
+        "count" : 16,
+        "item" : "3677"
+      }, {
+        "count" : 15,
+        "item" : "2007"
+      }, {
+        "count" : 14,
+        "item" : "1778"
+      }, {
+        "count" : 13,
+        "item" : "15605"
+      }, {
+        "count" : 12,
+        "item" : "15825"
+      }, {
+        "count" : 11,
+        "item" : "15837"
+      }, {
+        "count" : 10,
+        "item" : "15848"
+      }, {
+        "count" : 9,
+        "item" : "15849"
+      }, {
+        "count" : 8,
+        "item" : "15851"
+      }, {
+        "count" : 7,
+        "item" : "16100"
+      }, {
+        "count" : 6,
+        "item" : "6"
+      }, {
+        "count" : 5,
+        "item" : "527"
+      }, {
+        "count" : 4,
+        "item" : "2822"
+      }, {
+        "count" : 3,
+        "item" : "2922"
+      }, {
+        "count" : 2,
+        "item" : "2218"
+      }, {
+        "count" : 1,
+        "item" : "2359"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 5611092,
+    "name" : "Lot",
+    "dataTypeName" : "number",
+    "fieldName" : "lot",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 2029697,
+    "width" : 136,
+    "cachedContents" : {
+      "non_null" : 299,
+      "smallest" : "1",
+      "sum" : "25009",
+      "null" : 0,
+      "average" : "83.64214046822742",
+      "largest" : "8900",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "42"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "6"
+      }, {
+        "count" : 16,
+        "item" : "48"
+      }, {
+        "count" : 15,
+        "item" : "9"
+      }, {
+        "count" : 14,
+        "item" : "16"
+      }, {
+        "count" : 13,
+        "item" : "17"
+      }, {
+        "count" : 12,
+        "item" : "18"
+      }, {
+        "count" : 11,
+        "item" : "31"
+      }, {
+        "count" : 10,
+        "item" : "50"
+      }, {
+        "count" : 9,
+        "item" : "60"
+      }, {
+        "count" : 8,
+        "item" : "138"
+      }, {
+        "count" : 7,
+        "item" : "110"
+      }, {
+        "count" : 6,
+        "item" : "57"
+      }, {
+        "count" : 5,
+        "item" : "49"
+      }, {
+        "count" : 4,
+        "item" : "52"
+      }, {
+        "count" : 3,
+        "item" : "100"
+      }, {
+        "count" : 2,
+        "item" : "26"
+      }, {
+        "count" : 1,
+        "item" : "13"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 5611093,
+    "name" : "OwnerType",
+    "dataTypeName" : "text",
+    "fieldName" : "ownertype",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2029698,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 299,
+      "smallest" : "City",
+      "null" : 0,
+      "largest" : "Private",
+      "top" : [ {
+        "count" : 20,
+        "item" : "City"
+      }, {
+        "count" : 19,
+        "item" : "Private"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 5611094,
+    "name" : "Status_Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "status_date",
+    "position" : 7,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 2029699,
+    "width" : 165,
+    "cachedContents" : {
+      "non_null" : 299,
+      "smallest" : "2012-01-03T00:00:00",
+      "null" : 0,
+      "largest" : "2012-01-31T00:00:00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2012-01-30T00:00:00"
+      }, {
+        "count" : 19,
+        "item" : "2012-01-19T00:00:00"
+      }, {
+        "count" : 18,
+        "item" : "2012-01-31T00:00:00"
+      }, {
+        "count" : 17,
+        "item" : "2012-01-26T00:00:00"
+      }, {
+        "count" : 16,
+        "item" : "2012-01-27T00:00:00"
+      }, {
+        "count" : 15,
+        "item" : "2012-01-06T00:00:00"
+      }, {
+        "count" : 14,
+        "item" : "2012-01-18T00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2012-01-12T00:00:00"
+      }, {
+        "count" : 12,
+        "item" : "2012-01-24T00:00:00"
+      }, {
+        "count" : 11,
+        "item" : "2012-01-20T00:00:00"
+      }, {
+        "count" : 10,
+        "item" : "2012-01-10T00:00:00"
+      }, {
+        "count" : 9,
+        "item" : "2012-01-09T00:00:00"
+      }, {
+        "count" : 8,
+        "item" : "2012-01-03T00:00:00"
+      }, {
+        "count" : 7,
+        "item" : "2012-01-05T00:00:00"
+      }, {
+        "count" : 6,
+        "item" : "2012-01-25T00:00:00"
+      }, {
+        "count" : 5,
+        "item" : "2012-01-11T00:00:00"
+      }, {
+        "count" : 4,
+        "item" : "2012-01-17T00:00:00"
+      }, {
+        "count" : 3,
+        "item" : "2012-01-13T00:00:00"
+      }, {
+        "count" : 2,
+        "item" : "2012-01-04T00:00:00"
+      } ]
+    },
+    "format" : {
+      "align" : "left",
+      "view" : "date"
+    }
+  }, {
+    "id" : 5611705,
+    "name" : "Address",
+    "dataTypeName" : "text",
+    "fieldName" : "address",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2120629,
+    "width" : 550,
+    "cachedContents" : {
+      "non_null" : 299,
+      "smallest" : "85 UTICA AVENUE betw PACIFIC STREET & DEAN STREET",
+      "null" : 0,
+      "largest" : "SOUTH SIDE OF ARVERNE BLVD betw BEACH 54 STREET & BEACH 56 STREET",
+      "top" : [ {
+        "count" : 20,
+        "item" : "ADJ. 782 MYRTLE AVENUE betw MARCY AVENUE & NOSTRAND AVENUE"
+      }, {
+        "count" : 19,
+        "item" : "NEAR 96 KINGS HIGHWAY betw STILLWELL AVENUE & 78 STREET"
+      }, {
+        "count" : 18,
+        "item" : "ADJ. 2402 DEAN STREET betw SACKMAN STREET & MOTHER GASTON BOULEVARD"
+      }, {
+        "count" : 17,
+        "item" : "ADJ. 1430 EASTERN PARKWAY betw LINCOLN PLACE & PITKIN AVENUE"
+      }, {
+        "count" : 16,
+        "item" : "OPPOSITE OF 194 SACKMAN STREET betw LIBERTY AVENUE & EAST NEW YORK AVENUE"
+      }, {
+        "count" : 15,
+        "item" : "BETWEEN 108-52 & 108-42 37 DRIVE"
+      }, {
+        "count" : 14,
+        "item" : "CORNER BEACH    9 STREET & SEAGIRT AVENUE"
+      }, {
+        "count" : 13,
+        "item" : "OPPOSITE OF 323 BEACH 36 STREET betw BEACH CHANNEL DRIVE & ROCKAWAY BEACH BOULEVARD"
+      }, {
+        "count" : 12,
+        "item" : "OPPOSITE OF 352 BEACH 45 STREET betw BEACH CHANNEL DRIVE & REINHART ROAD"
+      }, {
+        "count" : 11,
+        "item" : "ADJ. 335 BEACH 45 STREET betw BEACH CHANNEL DRIVE & REINHART ROAD"
+      }, {
+        "count" : 10,
+        "item" : "REAR OF 218 BEACH 40 STREET betw ROCKAWAY BEACH BOULEVARD & DEAD END"
+      }, {
+        "count" : 9,
+        "item" : "ADJ. 216 BEACH 40 STREET betw ROCKAWAY BEACH BOULEVARD & DEAD END"
+      }, {
+        "count" : 8,
+        "item" : "ADJ. 40-03 ROCKAWAY BEACH BOULEVARD betw BEACH 41 STREET & BEACH 40 STREET"
+      }, {
+        "count" : 7,
+        "item" : "OPPOSITE OF 42-16 ROCKAWAY BEACH BOULEVARD betw BEACH 43 STREET & BEACH 42 STREET"
+      }, {
+        "count" : 6,
+        "item" : "ADJ. 100 CENTRAL AVENUE betw VICTORY BOULEVARD & SLOSSON TERRACE"
+      }, {
+        "count" : 5,
+        "item" : "ADJ. 38 PINE STREET betw CORSON AVENUE & BRIGHTON AVENUE"
+      }, {
+        "count" : 4,
+        "item" : "OPPOSITE OF 166 CANAL STREET betw TOMPKINS AVENUE & BEND"
+      }, {
+        "count" : 3,
+        "item" : "ADJ. 205 CANAL STREET betw BROAD STREET & BEND"
+      }, {
+        "count" : 2,
+        "item" : "ADJ. 40 HILL STREET betw CHERYL WHITE PLACE & TOMPKINS AVENUE"
+      }, {
+        "count" : 1,
+        "item" : "ADJ. 527 VANDERBILT AVENUE betw ELLINGTON STREET & CLIFFSIDE AVENUE"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "vacant lots cleaned", "lot", "clean", "dsny", "sanitation", "garbage", "lots", "clean web" ],
+  "flags" : [ "default" ]
+}

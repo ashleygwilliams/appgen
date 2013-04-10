@@ -1,0 +1,860 @@
+{
+  "id" : "rafb-6xry",
+  "name" : "Directory of Programs List - Mayor's Office",
+  "attribution" : "Office of the Mayor (OTM)",
+  "averageRating" : 0,
+  "category" : "Social Services",
+  "createdAt" : 1364313324,
+  "description" : "Directory of programs for the Young Men's Initiative and the Center for Economic Opportunity.",
+  "displayType" : "table",
+  "downloadCount" : 3,
+  "numberOfComments" : 0,
+  "oid" : 2961959,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1364314217,
+  "publicationGroup" : 757186,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1364313331,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 757186,
+  "totalTimesRated" : 0,
+  "viewCount" : 12,
+  "viewLastModified" : 1364314217,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 53251729,
+    "name" : "PROGRAM",
+    "dataTypeName" : "text",
+    "fieldName" : "program",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8953934,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 170,
+      "smallest" : "Education",
+      "null" : 0,
+      "largest" : "Justice",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Justice"
+      }, {
+        "count" : 19,
+        "item" : "Health"
+      }, {
+        "count" : 18,
+        "item" : "Education"
+      }, {
+        "count" : 17,
+        "item" : "Education, Health"
+      }, {
+        "count" : 16,
+        "item" : "Employment"
+      }, {
+        "count" : 15,
+        "item" : "Education, Employment"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53251730,
+    "name" : "PROGRAM NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "program_name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8953935,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 170,
+      "smallest" : "ARCHES",
+      "null" : 0,
+      "largest" : "Young Adult Literacy Program",
+      "top" : [ {
+        "count" : 20,
+        "item" : "ARCHES"
+      }, {
+        "count" : 19,
+        "item" : "Cure Violence"
+      }, {
+        "count" : 18,
+        "item" : "Community Education Pathways to Success"
+      }, {
+        "count" : 17,
+        "item" : "Cornerstone Mentoring"
+      }, {
+        "count" : 16,
+        "item" : "CUNY ASAP"
+      }, {
+        "count" : 15,
+        "item" : "CUNY Fatherhood Academy"
+      }, {
+        "count" : 14,
+        "item" : "CUNY Preparatory School"
+      }, {
+        "count" : 13,
+        "item" : "Employment Works"
+      }, {
+        "count" : 12,
+        "item" : "IMPACT: Peer Mentoring in Young Adult Literacy"
+      }, {
+        "count" : 11,
+        "item" : "Jobs-Plus"
+      }, {
+        "count" : 10,
+        "item" : "Justice Community"
+      }, {
+        "count" : 9,
+        "item" : "Justice Scholars"
+      }, {
+        "count" : 8,
+        "item" : "Nurse-Family Partnership"
+      }, {
+        "count" : 7,
+        "item" : "Nursing Career Ladders"
+      }, {
+        "count" : 6,
+        "item" : "NYC Justice Corps"
+      }, {
+        "count" : 5,
+        "item" : "Project Rise"
+      }, {
+        "count" : 4,
+        "item" : "SaveUSA"
+      }, {
+        "count" : 3,
+        "item" : "School-Based Health Centers"
+      }, {
+        "count" : 2,
+        "item" : "Sector-Focused Career Centers"
+      }, {
+        "count" : 1,
+        "item" : "Teen ACTION "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53251731,
+    "name" : "Provider",
+    "dataTypeName" : "text",
+    "fieldName" : "provider",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8953936,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 170,
+      "smallest" : "Action Center for Education & Community Development",
+      "null" : 0,
+      "largest" : "YMCA of Greater New York - Chinatown",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NYC Department of Health and Mental Hygiene"
+      }, {
+        "count" : 19,
+        "item" : "City University of New York"
+      }, {
+        "count" : 18,
+        "item" : "DB Grant Associates"
+      }, {
+        "count" : 17,
+        "item" : "BronxWorks"
+      }, {
+        "count" : 16,
+        "item" : "Department of Probation"
+      }, {
+        "count" : 15,
+        "item" : "SCO Family of Services"
+      }, {
+        "count" : 14,
+        "item" : "Food Bank for New York City"
+      }, {
+        "count" : 13,
+        "item" : "Montefiore Medical Center"
+      }, {
+        "count" : 12,
+        "item" : "Global Kids, Inc."
+      }, {
+        "count" : 11,
+        "item" : "Sports and Arts in Schools Foundation"
+      }, {
+        "count" : 10,
+        "item" : "The Children's Aid Society"
+      }, {
+        "count" : 9,
+        "item" : "Chinese American Planning Council"
+      }, {
+        "count" : 8,
+        "item" : "Northern Manhattan Improvement Corporation - NMIC"
+      }, {
+        "count" : 7,
+        "item" : "SCAN"
+      }, {
+        "count" : 6,
+        "item" : "Brooklyn Public Library"
+      }, {
+        "count" : 5,
+        "item" : "CAMBA"
+      }, {
+        "count" : 4,
+        "item" : "Highbridge Community Life Center"
+      }, {
+        "count" : 3,
+        "item" : "Lutheran Medical Center"
+      }, {
+        "count" : 2,
+        "item" : "New York Center for Interpersonal Development"
+      }, {
+        "count" : 1,
+        "item" : "New York Public Library"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53251732,
+    "name" : "SITE Name",
+    "dataTypeName" : "text",
+    "fieldName" : "site_name",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8953937,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 170,
+      "smallest" : "Acorn High School for Social Justice",
+      "null" : 0,
+      "largest" : "YMCA of Greater New York - Chinatown",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Chinese American Planning Council"
+      }, {
+        "count" : 19,
+        "item" : "Northern Manhattan Improvement Corporation - NMIC"
+      }, {
+        "count" : 18,
+        "item" : "Long Island City Branch"
+      }, {
+        "count" : 17,
+        "item" : "South Jamaica Queens Library"
+      }, {
+        "count" : 16,
+        "item" : "The Fortune Society"
+      }, {
+        "count" : 15,
+        "item" : "Union Settlement Association"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53251733,
+    "name" : "Site Address",
+    "dataTypeName" : "text",
+    "fieldName" : "site_address",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8953938,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 169,
+      "smallest" : "100 Pennsylvania Avenue",
+      "null" : 1,
+      "largest" : "9 Bond Street",
+      "top" : [ {
+        "count" : 20,
+        "item" : "76 Wadsworth Ave."
+      }, {
+        "count" : 19,
+        "item" : "37-44 21 Street"
+      }, {
+        "count" : 18,
+        "item" : "108-41 Guy R. Brewer Blvd"
+      }, {
+        "count" : 17,
+        "item" : "29-76 Northern Boulevard"
+      }, {
+        "count" : 16,
+        "item" : "1775 Third Avenue"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53251734,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8953939,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 170,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 19,
+        "item" : "Bronx "
+      }, {
+        "count" : 18,
+        "item" : "Bronx"
+      }, {
+        "count" : 17,
+        "item" : "Staten Island"
+      }, {
+        "count" : 16,
+        "item" : "Manhattan"
+      }, {
+        "count" : 15,
+        "item" : "Queens"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53251735,
+    "name" : "ZIP",
+    "dataTypeName" : "number",
+    "fieldName" : "zip",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8953940,
+    "width" : 136,
+    "cachedContents" : {
+      "non_null" : 169,
+      "smallest" : "10002",
+      "sum" : "1817157",
+      "null" : 1,
+      "average" : "10752.40828402367",
+      "largest" : "11692",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10456"
+      }, {
+        "count" : 19,
+        "item" : "11208"
+      }, {
+        "count" : 18,
+        "item" : "11206"
+      }, {
+        "count" : 17,
+        "item" : "10455"
+      }, {
+        "count" : 16,
+        "item" : "10037"
+      }, {
+        "count" : 15,
+        "item" : "11207"
+      }, {
+        "count" : 14,
+        "item" : "11233"
+      }, {
+        "count" : 13,
+        "item" : "10029"
+      }, {
+        "count" : 12,
+        "item" : "11201"
+      }, {
+        "count" : 11,
+        "item" : "10451"
+      }, {
+        "count" : 10,
+        "item" : "11101"
+      }, {
+        "count" : 9,
+        "item" : "11432"
+      }, {
+        "count" : 8,
+        "item" : "11216"
+      }, {
+        "count" : 7,
+        "item" : "10027"
+      }, {
+        "count" : 6,
+        "item" : "10301"
+      }, {
+        "count" : 5,
+        "item" : "11232"
+      }, {
+        "count" : 4,
+        "item" : "10459"
+      }, {
+        "count" : 3,
+        "item" : "10452"
+      }, {
+        "count" : 2,
+        "item" : "10454"
+      }, {
+        "count" : 1,
+        "item" : "10033"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53251736,
+    "name" : "Contact Number",
+    "dataTypeName" : "text",
+    "fieldName" : "contact_number",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8953941,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 166,
+      "smallest" : "(212) 226-0130 ",
+      "null" : 4,
+      "largest" : "917 - 492 - 0274",
+      "top" : [ {
+        "count" : 20,
+        "item" : "718.5 23.6868"
+      }, {
+        "count" : 19,
+        "item" : "(718) 455-1166"
+      }, {
+        "count" : 18,
+        "item" : "212.566.7855"
+      }, {
+        "count" : 17,
+        "item" : "718-696-4070."
+      }, {
+        "count" : 16,
+        "item" : "(718) 483-1270 ext. 2170"
+      }, {
+        "count" : 15,
+        "item" : "(212) 226-0130 "
+      }, {
+        "count" : 14,
+        "item" : "718-726-9790"
+      }, {
+        "count" : 13,
+        "item" : "212-941-1920"
+      }, {
+        "count" : 12,
+        "item" : "(718) 609-2131"
+      }, {
+        "count" : 11,
+        "item" : "(718) 647-2800"
+      }, {
+        "count" : 10,
+        "item" : "212.366.8400"
+      }, {
+        "count" : 9,
+        "item" : "(718) 456-5437"
+      }, {
+        "count" : 8,
+        "item" : "212.254.3100 x274"
+      }, {
+        "count" : 7,
+        "item" : "1-718-482-7200"
+      }, {
+        "count" : 6,
+        "item" : "(718) 652-0282"
+      }, {
+        "count" : 5,
+        "item" : "(718) 815-4557"
+      }, {
+        "count" : 4,
+        "item" : "(718) 387-1600 X12"
+      }, {
+        "count" : 3,
+        "item" : "212-941-9090"
+      }, {
+        "count" : 2,
+        "item" : "(718) 735-4466"
+      }, {
+        "count" : 1,
+        "item" : "718-289-5387 "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53251737,
+    "name" : "Website",
+    "dataTypeName" : "text",
+    "fieldName" : "website",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8953942,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 166,
+      "smallest" : "http://camba.org/",
+      "null" : 4,
+      "largest" : "www.ecdo.org",
+      "top" : [ {
+        "count" : 20,
+        "item" : "http://www.nycmissionsociety.org/"
+      }, {
+        "count" : 19,
+        "item" : "http://mediatenyc.org/"
+      }, {
+        "count" : 18,
+        "item" : "http://www.grantassociatesinc.com/"
+      }, {
+        "count" : 17,
+        "item" : "http://www.nyc.gov/html/doh/html/ms/ms-nfp.shtml"
+      }, {
+        "count" : 16,
+        "item" : "http://www.sco.org/"
+      }, {
+        "count" : 15,
+        "item" : "http://nycjusticecorps.org/who-we-are/project-partners/"
+      }, {
+        "count" : 14,
+        "item" : "http://www.fegs.org/"
+      }, {
+        "count" : 13,
+        "item" : "http://www.foodbanknyc.org/"
+      }, {
+        "count" : 12,
+        "item" : "http://www.montekids.org/programs/school/"
+      }, {
+        "count" : 11,
+        "item" : "http://www.lagcc.cuny.edu/ace/"
+      }, {
+        "count" : 10,
+        "item" : "http://globalkids.org/#/our-programs"
+      }, {
+        "count" : 9,
+        "item" : "http://www.sasfny.org/"
+      }, {
+        "count" : 8,
+        "item" : "http://www.childrensaidsociety.org/"
+      }, {
+        "count" : 7,
+        "item" : "www.cpc-nyc.org"
+      }, {
+        "count" : 6,
+        "item" : "http://www.obtjobs.org/"
+      }, {
+        "count" : 5,
+        "item" : "http://www.door.org/"
+      }, {
+        "count" : 4,
+        "item" : "http://vannguardurban.org/"
+      }, {
+        "count" : 3,
+        "item" : "http://www.henkels.com/Pages/default.aspx"
+      }, {
+        "count" : 2,
+        "item" : "http://www.nmic.org/"
+      }, {
+        "count" : 1,
+        "item" : "http://scanny.org/index.asp"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53251738,
+    "name" : "Community Board",
+    "dataTypeName" : "text",
+    "fieldName" : "community_board",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8953943,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 170
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53251739,
+    "name" : "For in -school youth only",
+    "dataTypeName" : "text",
+    "fieldName" : "for_in_school_youth_only",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8953944,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 170,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "y"
+      }, {
+        "count" : 18,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53251740,
+    "name" : "For court-involved only",
+    "dataTypeName" : "text",
+    "fieldName" : "for_court_involved_only",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8953945,
+    "width" : 376,
+    "cachedContents" : {
+      "non_null" : 170,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Y"
+      }, {
+        "count" : 19,
+        "item" : "N"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53251741,
+    "name" : "min age",
+    "dataTypeName" : "text",
+    "fieldName" : "min_age",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8953946,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 170,
+      "smallest" : "10",
+      "null" : 0,
+      "largest" : "N/A",
+      "top" : [ {
+        "count" : 20,
+        "item" : "16"
+      }, {
+        "count" : 19,
+        "item" : "N/A"
+      }, {
+        "count" : 18,
+        "item" : "17"
+      }, {
+        "count" : 17,
+        "item" : "10"
+      }, {
+        "count" : 16,
+        "item" : "18"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53251742,
+    "name" : "max age",
+    "dataTypeName" : "text",
+    "fieldName" : "max_age",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8953947,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 170,
+      "smallest" : "15",
+      "null" : 0,
+      "largest" : "N/A",
+      "top" : [ {
+        "count" : 20,
+        "item" : "24"
+      }, {
+        "count" : 19,
+        "item" : "N/A"
+      }, {
+        "count" : 18,
+        "item" : "15"
+      }, {
+        "count" : 17,
+        "item" : "18"
+      }, {
+        "count" : 16,
+        "item" : "25"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53251743,
+    "name" : "GED Help (Yes or No)",
+    "dataTypeName" : "text",
+    "fieldName" : "ged_help_yes_or_no",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8953948,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 170,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      }, {
+        "count" : 18,
+        "item" : "y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53251744,
+    "name" : "Job Readiness Help (yes or no)",
+    "dataTypeName" : "text",
+    "fieldName" : "job_readiness_help_yes_or_no",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8953949,
+    "width" : 460,
+    "cachedContents" : {
+      "non_null" : 170,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53251745,
+    "name" : "College Readiness Help (yes or no)",
+    "dataTypeName" : "text",
+    "fieldName" : "college_readiness_help_yes_or_no",
+    "position" : 18,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8953950,
+    "width" : 508,
+    "cachedContents" : {
+      "non_null" : 170,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53251746,
+    "name" : "For Dads Only (yes or no) ",
+    "dataTypeName" : "text",
+    "fieldName" : "for_dads_only_yes_or_no",
+    "position" : 19,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8953951,
+    "width" : 412,
+    "cachedContents" : {
+      "non_null" : 170,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53251747,
+    "name" : "Catchment area requirment (yes or no) ",
+    "dataTypeName" : "text",
+    "fieldName" : "catchment_area_requirment_yes_or_no",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8953952,
+    "width" : 556,
+    "cachedContents" : {
+      "non_null" : 80,
+      "smallest" : "N",
+      "null" : 90,
+      "largest" : "Y ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Y"
+      }, {
+        "count" : 19,
+        "item" : "N"
+      }, {
+        "count" : 18,
+        "item" : "Y "
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "directory of programs list - mayor's office", "jobs and economic mobility", "economic opportunity", "young mens initiative" ],
+  "flags" : [ "default" ]
+}

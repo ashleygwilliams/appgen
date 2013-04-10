@@ -1,0 +1,574 @@
+{
+  "id" : "9gmp-f9x2",
+  "name" : "Demographic Projection Report - Enrollment Projections - New York City Public Schools prepared by the Grier Partnership Part C",
+  "attribution" : "School Construction Authority (SCA)",
+  "averageRating" : 0,
+  "category" : "Construction and Housing",
+  "createdAt" : 1362583179,
+  "description" : "The SCA’s comprehensive capital planning process includes developing and analyzing quality data, creating and updating the Department of Education’s Five-Year Capital Plans, and monitoring projects through completion. The SCA prioritizes capital projects to best meet the capacity and building improvements needs throughout the City.  Additionally, the SCA assures that the Capital Plan aligns with New York State and City Department of Education mandates, academic initiatives, and budgetary resources.  This is one of the most current published reports.",
+  "downloadCount" : 10,
+  "numberOfComments" : 0,
+  "oid" : 2730597,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362583188,
+  "publicationGroup" : 717681,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1362583187,
+  "rowsUpdatedBy" : "ci6y-i73t",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 717682,
+  "totalTimesRated" : 0,
+  "viewCount" : 10,
+  "viewLastModified" : 1363704320,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 48789202,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8400967,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 48,
+      "smallest" : "BRONX",
+      "null" : 0,
+      "largest" : "RICHMOND",
+      "top" : [ {
+        "count" : 20,
+        "item" : "MANHATTAN"
+      }, {
+        "count" : 19,
+        "item" : "BRONX"
+      }, {
+        "count" : 18,
+        "item" : "BROOKLYN"
+      }, {
+        "count" : 17,
+        "item" : "QUEENS"
+      }, {
+        "count" : 16,
+        "item" : "RICHMOND"
+      }, {
+        "count" : 15,
+        "item" : "NEW YORK CITY"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789203,
+    "name" : "Grade",
+    "dataTypeName" : "text",
+    "fieldName" : "grade",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8400968,
+    "width" : 250,
+    "cachedContents" : {
+      "non_null" : 48,
+      "smallest" : "10",
+      "null" : 0,
+      "largest" : "TOTAL",
+      "top" : [ {
+        "count" : 20,
+        "item" : "9"
+      }, {
+        "count" : 19,
+        "item" : "10"
+      }, {
+        "count" : 18,
+        "item" : "11"
+      }, {
+        "count" : 17,
+        "item" : "12"
+      }, {
+        "count" : 16,
+        "item" : "Spec Ed"
+      }, {
+        "count" : 15,
+        "item" : "GED (16-20)"
+      }, {
+        "count" : 14,
+        "item" : "GED (21+)"
+      }, {
+        "count" : 13,
+        "item" : "TOTAL"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789204,
+    "name" : "2008",
+    "dataTypeName" : "text",
+    "fieldName" : "_2008",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8400969,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 48,
+      "smallest" : "10932",
+      "null" : 0,
+      "largest" : "9566",
+      "top" : [ {
+        "count" : 20,
+        "item" : "81939"
+      }, {
+        "count" : 19,
+        "item" : "59645"
+      }, {
+        "count" : 18,
+        "item" : "53678"
+      }, {
+        "count" : 17,
+        "item" : "21665"
+      }, {
+        "count" : 16,
+        "item" : "8335"
+      }, {
+        "count" : 15,
+        "item" : "131"
+      }, {
+        "count" : 14,
+        "item" : "312799"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789205,
+    "name" : "2009",
+    "dataTypeName" : "text",
+    "fieldName" : "_2009",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8400970,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 48,
+      "smallest" : "10884",
+      "null" : 0,
+      "largest" : "9609",
+      "top" : [ {
+        "count" : 20,
+        "item" : "77049"
+      }, {
+        "count" : 19,
+        "item" : "56570"
+      }, {
+        "count" : 18,
+        "item" : "55121"
+      }, {
+        "count" : 17,
+        "item" : "21645"
+      }, {
+        "count" : 16,
+        "item" : "8335"
+      }, {
+        "count" : 15,
+        "item" : "131"
+      }, {
+        "count" : 14,
+        "item" : "305442"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789206,
+    "name" : "2010",
+    "dataTypeName" : "text",
+    "fieldName" : "_2010",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8400971,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 48,
+      "smallest" : "11",
+      "null" : 0,
+      "largest" : "9834",
+      "top" : [ {
+        "count" : 20,
+        "item" : "76408"
+      }, {
+        "count" : 19,
+        "item" : "53421"
+      }, {
+        "count" : 18,
+        "item" : "52256"
+      }, {
+        "count" : 17,
+        "item" : "21251"
+      }, {
+        "count" : 16,
+        "item" : "8335"
+      }, {
+        "count" : 15,
+        "item" : "131"
+      }, {
+        "count" : 14,
+        "item" : "293966"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789207,
+    "name" : "2011",
+    "dataTypeName" : "text",
+    "fieldName" : "_2011",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8400972,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 48,
+      "smallest" : "10869",
+      "null" : 0,
+      "largest" : "9858",
+      "top" : [ {
+        "count" : 20,
+        "item" : "72688"
+      }, {
+        "count" : 19,
+        "item" : "52988"
+      }, {
+        "count" : 18,
+        "item" : "49341"
+      }, {
+        "count" : 17,
+        "item" : "21049"
+      }, {
+        "count" : 16,
+        "item" : "8335"
+      }, {
+        "count" : 15,
+        "item" : "131"
+      }, {
+        "count" : 14,
+        "item" : "285452"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789208,
+    "name" : "2012",
+    "dataTypeName" : "text",
+    "fieldName" : "_2012",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8400973,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 48,
+      "smallest" : "10251",
+      "null" : 0,
+      "largest" : "9280",
+      "top" : [ {
+        "count" : 20,
+        "item" : "71588"
+      }, {
+        "count" : 19,
+        "item" : "50595"
+      }, {
+        "count" : 18,
+        "item" : "48951"
+      }, {
+        "count" : 17,
+        "item" : "21054"
+      }, {
+        "count" : 16,
+        "item" : "8335"
+      }, {
+        "count" : 15,
+        "item" : "131"
+      }, {
+        "count" : 14,
+        "item" : "279394"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789209,
+    "name" : "2013",
+    "dataTypeName" : "text",
+    "fieldName" : "_2013",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8400974,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 48,
+      "smallest" : "10330",
+      "null" : 0,
+      "largest" : "9730",
+      "top" : [ {
+        "count" : 20,
+        "item" : "69710"
+      }, {
+        "count" : 19,
+        "item" : "49849"
+      }, {
+        "count" : 18,
+        "item" : "46725"
+      }, {
+        "count" : 17,
+        "item" : "20985"
+      }, {
+        "count" : 16,
+        "item" : "8335"
+      }, {
+        "count" : 15,
+        "item" : "131"
+      }, {
+        "count" : 14,
+        "item" : "273055"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789210,
+    "name" : "2014",
+    "dataTypeName" : "text",
+    "fieldName" : "_2014",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8400975,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 48,
+      "smallest" : "11",
+      "null" : 0,
+      "largest" : "9990",
+      "top" : [ {
+        "count" : 20,
+        "item" : "68594"
+      }, {
+        "count" : 19,
+        "item" : "48627"
+      }, {
+        "count" : 18,
+        "item" : "46030"
+      }, {
+        "count" : 17,
+        "item" : "21121"
+      }, {
+        "count" : 16,
+        "item" : "8335"
+      }, {
+        "count" : 15,
+        "item" : "131"
+      }, {
+        "count" : 14,
+        "item" : "270139"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789211,
+    "name" : "2015",
+    "dataTypeName" : "text",
+    "fieldName" : "_2015",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8400976,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 48,
+      "smallest" : "11",
+      "null" : 0,
+      "largest" : "9755",
+      "top" : [ {
+        "count" : 20,
+        "item" : "68785"
+      }, {
+        "count" : 19,
+        "item" : "47989"
+      }, {
+        "count" : 18,
+        "item" : "44883"
+      }, {
+        "count" : 17,
+        "item" : "21352"
+      }, {
+        "count" : 16,
+        "item" : "8335"
+      }, {
+        "count" : 15,
+        "item" : "131"
+      }, {
+        "count" : 14,
+        "item" : "267743"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789212,
+    "name" : "2016",
+    "dataTypeName" : "text",
+    "fieldName" : "_2016",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8400977,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 48,
+      "smallest" : "11",
+      "null" : 0,
+      "largest" : "9876",
+      "top" : [ {
+        "count" : 20,
+        "item" : "67759"
+      }, {
+        "count" : 19,
+        "item" : "48432"
+      }, {
+        "count" : 18,
+        "item" : "44290"
+      }, {
+        "count" : 17,
+        "item" : "21602"
+      }, {
+        "count" : 16,
+        "item" : "8335"
+      }, {
+        "count" : 15,
+        "item" : "131"
+      }, {
+        "count" : 14,
+        "item" : "266070"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789213,
+    "name" : "2017",
+    "dataTypeName" : "text",
+    "fieldName" : "_2017",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8400978,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 48,
+      "smallest" : "11",
+      "null" : 0,
+      "largest" : "9555",
+      "top" : [ {
+        "count" : 20,
+        "item" : "67237"
+      }, {
+        "count" : 19,
+        "item" : "47602"
+      }, {
+        "count" : 18,
+        "item" : "44698"
+      }, {
+        "count" : 17,
+        "item" : "21938"
+      }, {
+        "count" : 16,
+        "item" : "8335"
+      }, {
+        "count" : 15,
+        "item" : "131"
+      }, {
+        "count" : 14,
+        "item" : "265964"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789214,
+    "name" : "2018",
+    "dataTypeName" : "text",
+    "fieldName" : "_2018",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8400979,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 48,
+      "smallest" : "11",
+      "null" : 0,
+      "largest" : "9255",
+      "top" : [ {
+        "count" : 20,
+        "item" : "67860"
+      }, {
+        "count" : 19,
+        "item" : "47370"
+      }, {
+        "count" : 18,
+        "item" : "43902"
+      }, {
+        "count" : 17,
+        "item" : "22174"
+      }, {
+        "count" : 16,
+        "item" : "8335"
+      }, {
+        "count" : 15,
+        "item" : "131"
+      }, {
+        "count" : 14,
+        "item" : "263708"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ci6y-i73t",
+    "displayName" : "Harish Pathria",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358262517,
+    "roleName" : "publisher",
+    "screenName" : "Harish Pathria",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ci6y-i73t",
+    "displayName" : "Harish Pathria",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358262517,
+    "roleName" : "publisher",
+    "screenName" : "Harish Pathria",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "school", "construction", "authority", "sca", "demographic projection", "part c", "lifelong learning" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,211 @@
+{
+  "id" : "a9es-3fcm",
+  "name" : "Family planning benefit program income levels",
+  "attribution" : "Human Resources Administration (HRA)",
+  "attributionLink" : "http://www.nyc.gov/html/hia/html/public_insurance/family.shtml",
+  "averageRating" : 0,
+  "category" : "Health",
+  "createdAt" : 1363712556,
+  "description" : "The Family Planning Benefit Program (FPBP) is a free and completely confidential New York State program that provides family planning services to teens, women and men who meet certain income and residency requirements, and who are not enrolled in Medicaid or Family Health Plus. You may obtain coverage through FPBP if you meet certain Eligibility Criteria and your income is equal to or less than the income levels listed here. This chart is only a guide. Individuals should see an enrollment counselor for eligibility screening.    \n* Pregnant Women count as two individuals.\nNOTE: Chart effective January 1, 2012; subject to annual income updates.",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2880470,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363712564,
+  "publicationGroup" : 742948,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1363712563,
+  "rowsUpdatedBy" : "ya7g-926w",
+  "signed" : false,
+  "tableId" : 742949,
+  "totalTimesRated" : 0,
+  "viewCount" : 8,
+  "viewLastModified" : 1363713747,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 51657958,
+    "name" : "Family Size",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "family_size",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8755541,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "1",
+      "null" : 0,
+      "largest" : "For each additional person add:",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "For each additional person add:"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51657959,
+    "name" : "Yearly Income",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "yearly_income",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8755542,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "$22,344",
+      "null" : 0,
+      "largest" : "$7,920",
+      "top" : [ {
+        "count" : 20,
+        "item" : "$22,344"
+      }, {
+        "count" : 19,
+        "item" : "$30,264 "
+      }, {
+        "count" : 18,
+        "item" : "$38,184"
+      }, {
+        "count" : 17,
+        "item" : "$46,104"
+      }, {
+        "count" : 16,
+        "item" : "$54,024"
+      }, {
+        "count" : 15,
+        "item" : "$7,920"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51657960,
+    "name" : "Monthly Income",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "monthly_income",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8755543,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "$1,862",
+      "null" : 0,
+      "largest" : "$660",
+      "top" : [ {
+        "count" : 20,
+        "item" : "$1,862"
+      }, {
+        "count" : 19,
+        "item" : "$2,522"
+      }, {
+        "count" : 18,
+        "item" : "$3,182"
+      }, {
+        "count" : 17,
+        "item" : "$3,842"
+      }, {
+        "count" : 16,
+        "item" : "$4,502"
+      }, {
+        "count" : 15,
+        "item" : "$660"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51657961,
+    "name" : "Weekly Income",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "weekly_income",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8755544,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "$1,039",
+      "null" : 0,
+      "largest" : "$887",
+      "top" : [ {
+        "count" : 20,
+        "item" : "$430"
+      }, {
+        "count" : 19,
+        "item" : "$582"
+      }, {
+        "count" : 18,
+        "item" : "$734"
+      }, {
+        "count" : 17,
+        "item" : "$887"
+      }, {
+        "count" : 16,
+        "item" : "$1,039"
+      }, {
+        "count" : 15,
+        "item" : "$152"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    }
+  },
+  "owner" : {
+    "id" : "ya7g-926w",
+    "displayName" : "Aakash Dalwani",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1363663581,
+    "roleName" : "publisher",
+    "screenName" : "Aakash Dalwani",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ya7g-926w",
+    "displayName" : "Aakash Dalwani",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1363663581,
+    "roleName" : "publisher",
+    "screenName" : "Aakash Dalwani",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "hra", "human resources administration", "jobs and economic mobility", "family planning benefit program income levels" ],
+  "flags" : [ "default" ]
+}

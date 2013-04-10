@@ -1,0 +1,741 @@
+{
+  "id" : "jdb4-d3j9",
+  "name" : "Luxury Limousine Vehicles",
+  "attribution" : "Taxi and Limousine Commission (TLC)",
+  "averageRating" : 0,
+  "createdAt" : 1314640306,
+  "description" : "All TLC luxury limousine vehicles",
+  "displayType" : "table",
+  "downloadCount" : 412,
+  "numberOfComments" : 0,
+  "oid" : 343379,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318348407,
+  "publicationGroup" : 239881,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318348314,
+  "rowsUpdatedBy" : "rnig-m3uj",
+  "signed" : false,
+  "tableId" : 244736,
+  "totalTimesRated" : 0,
+  "viewCount" : 107,
+  "viewLastModified" : 1318348425,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3007486,
+    "name" : "Affiliated Base License Number",
+    "dataTypeName" : "text",
+    "fieldName" : "affiliated_base_license_number",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513027,
+    "width" : 460,
+    "cachedContents" : {
+      "non_null" : 5758,
+      "smallest" : "B00001",
+      "null" : 0,
+      "largest" : "B02493",
+      "top" : [ {
+        "count" : 322,
+        "item" : "B01800"
+      }, {
+        "count" : 266,
+        "item" : "B00227"
+      }, {
+        "count" : 216,
+        "item" : "B00837"
+      }, {
+        "count" : 173,
+        "item" : "B02468"
+      }, {
+        "count" : 136,
+        "item" : "B02095"
+      }, {
+        "count" : 133,
+        "item" : "B02285"
+      }, {
+        "count" : 116,
+        "item" : "B01644"
+      }, {
+        "count" : 115,
+        "item" : "B02140"
+      }, {
+        "count" : 113,
+        "item" : "B02355"
+      }, {
+        "count" : 108,
+        "item" : "B02099"
+      }, {
+        "count" : 100,
+        "item" : "B02157"
+      }, {
+        "count" : 97,
+        "item" : "B01969"
+      }, {
+        "count" : 95,
+        "item" : "B01907"
+      }, {
+        "count" : 79,
+        "item" : "B00472"
+      }, {
+        "count" : 74,
+        "item" : "B02120"
+      }, {
+        "count" : 73,
+        "item" : "B02016"
+      }, {
+        "count" : 69,
+        "item" : "B02354"
+      }, {
+        "count" : 68,
+        "item" : "B00370"
+      }, {
+        "count" : 67,
+        "item" : "B00078"
+      }, {
+        "count" : 66,
+        "item" : "B01976"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3007487,
+    "name" : "Affiliated Base Name",
+    "dataTypeName" : "text",
+    "fieldName" : "affiliated_base_name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513028,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 5758,
+      "smallest" : "12TH STREET LUXURY CARS, INC.",
+      "null" : 0,
+      "largest" : "ZIPGREEN TRANSPORTATION CORP.",
+      "top" : [ {
+        "count" : 322,
+        "item" : "EXEC-U-CAR LIMOUSINE INC."
+      }, {
+        "count" : 266,
+        "item" : "PARK WEST EXEC. SERVICES, INC."
+      }, {
+        "count" : 216,
+        "item" : "CAREY LIMO N Y INC"
+      }, {
+        "count" : 173,
+        "item" : "GROUNDLINK HOLDINGS LLC"
+      }, {
+        "count" : 136,
+        "item" : "COMMONWEALTH WORLDWIDE CHAUFFEURED TRANSP. OF NY,"
+      }, {
+        "count" : 133,
+        "item" : "VALERA GLOBAL, INC."
+      }, {
+        "count" : 116,
+        "item" : "MUSIC EXPRESS/N.Y. INC"
+      }, {
+        "count" : 115,
+        "item" : "FAR BETTER SERVICES INC"
+      }, {
+        "count" : 113,
+        "item" : "BWJ GROUP INC"
+      }, {
+        "count" : 108,
+        "item" : "SUNNY'S LIMOUSINE SERVICE INC"
+      }, {
+        "count" : 100,
+        "item" : "REAGAN CONVEYANCE  CORP."
+      }, {
+        "count" : 97,
+        "item" : "A-PLUS WORLDWIDE LIMOS INC."
+      }, {
+        "count" : 95,
+        "item" : "BEN'S LUXURY CAR & LIMOUSINE SERVICE INC"
+      }, {
+        "count" : 79,
+        "item" : "FARRELL'S LEASING CO."
+      }, {
+        "count" : 74,
+        "item" : "BOSTON COACH-NEW JERSEY CORP"
+      }, {
+        "count" : 73,
+        "item" : "PLANET LIMOUSINE LLC"
+      }, {
+        "count" : 69,
+        "item" : "WJBW GROUP INC"
+      }, {
+        "count" : 68,
+        "item" : "DAV-EL SERVICES INC"
+      }, {
+        "count" : 67,
+        "item" : "R & R ROAD LIMO SVCE INC"
+      }, {
+        "count" : 66,
+        "item" : "PARTNERS DYNAMIC SECURITY TRANSPORTATION INC"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3007496,
+    "name" : "License Number",
+    "dataTypeName" : "text",
+    "fieldName" : "license_number",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513029,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 5108,
+      "smallest" : "5000527",
+      "null" : 650,
+      "largest" : "5409773",
+      "top" : [ {
+        "count" : 1,
+        "item" : "5020461"
+      }, {
+        "count" : 1,
+        "item" : "5382722"
+      }, {
+        "count" : 1,
+        "item" : "5389572"
+      }, {
+        "count" : 1,
+        "item" : "5278720"
+      }, {
+        "count" : 1,
+        "item" : "5327050"
+      }, {
+        "count" : 1,
+        "item" : "5216855"
+      }, {
+        "count" : 1,
+        "item" : "5404551"
+      }, {
+        "count" : 1,
+        "item" : "5284656"
+      }, {
+        "count" : 1,
+        "item" : "5257722"
+      }, {
+        "count" : 1,
+        "item" : "5375992"
+      }, {
+        "count" : 1,
+        "item" : "5403859"
+      }, {
+        "count" : 1,
+        "item" : "5281006"
+      }, {
+        "count" : 1,
+        "item" : "5113724"
+      }, {
+        "count" : 1,
+        "item" : "5256487"
+      }, {
+        "count" : 1,
+        "item" : "5344737"
+      }, {
+        "count" : 1,
+        "item" : "5387754"
+      }, {
+        "count" : 1,
+        "item" : "5330582"
+      }, {
+        "count" : 1,
+        "item" : "5382491"
+      }, {
+        "count" : 1,
+        "item" : "5339635"
+      }, {
+        "count" : 1,
+        "item" : "5293244"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 3007489,
+    "name" : "Name of Licensee",
+    "dataTypeName" : "text",
+    "fieldName" : "name_of_licensee",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513030,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 5758,
+      "smallest" : "123 LIMOUSINE INC",
+      "null" : 0,
+      "largest" : "ZUMBA,CARLOS,F",
+      "top" : [ {
+        "count" : 262,
+        "item" : "EMPIRE INTERNATIONAL LTD"
+      }, {
+        "count" : 107,
+        "item" : "SUNNY'S LIMOUSINE SERVICE INC"
+      }, {
+        "count" : 74,
+        "item" : "BOSTON COACH"
+      }, {
+        "count" : 71,
+        "item" : "COMMONWEALTH WORLDWIDE CHAUFF TRANS OF NY LLC"
+      }, {
+        "count" : 66,
+        "item" : "R & R ROAD LIMO SERVICE INC"
+      }, {
+        "count" : 63,
+        "item" : "ALLSTA INC"
+      }, {
+        "count" : 61,
+        "item" : "D & S AUTO LEASING LLC"
+      }, {
+        "count" : 57,
+        "item" : "LONDON TOWNCARS INC"
+      }, {
+        "count" : 54,
+        "item" : "BLS LIMO SERVICE OF NY INC"
+      }, {
+        "count" : 53,
+        "item" : "MUSIC EXPRESS NY INC"
+      }, {
+        "count" : 50,
+        "item" : "DAV-EL SERVICES INC"
+      }, {
+        "count" : 49,
+        "item" : "ALL STAR LIMOUSINE SERVICE LTD"
+      }, {
+        "count" : 48,
+        "item" : "PARIS LIMOUSINE SERVICE CORP"
+      }, {
+        "count" : 48,
+        "item" : "EXEC U CAR LIMOUSINE INC"
+      }, {
+        "count" : 47,
+        "item" : "MARENA ASSOCIATES,INC"
+      }, {
+        "count" : 46,
+        "item" : "AVALON TRANSP LLC"
+      }, {
+        "count" : 44,
+        "item" : "ALPINE LIMOUSINE SERVICE INC"
+      }, {
+        "count" : 42,
+        "item" : "DIVA EXECUTIVE LIMOUSINE INC"
+      }, {
+        "count" : 33,
+        "item" : "SURREY CADILLAC LIMO SERVICE INC"
+      }, {
+        "count" : 32,
+        "item" : "FARRELLS LEASING CO"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3007490,
+    "name" : "License Type",
+    "dataTypeName" : "text",
+    "fieldName" : "license_type",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513031,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 5758,
+      "smallest" : "For-Hire-Vehicle",
+      "null" : 0,
+      "largest" : "For-Hire-Vehicle",
+      "top" : [ {
+        "count" : 5758,
+        "item" : "For-Hire-Vehicle"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3007491,
+    "name" : "DMV License Plate",
+    "dataTypeName" : "text",
+    "fieldName" : "dmv_license_plate",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513032,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 5758,
+      "smallest" : "00000000",
+      "null" : 0,
+      "largest" : "ZAKJR",
+      "top" : [ {
+        "count" : 7,
+        "item" : "00000000"
+      }, {
+        "count" : 2,
+        "item" : "Z9262Z"
+      }, {
+        "count" : 1,
+        "item" : "T605237C"
+      }, {
+        "count" : 1,
+        "item" : "T614672C"
+      }, {
+        "count" : 1,
+        "item" : "OLDIVA9"
+      }, {
+        "count" : 1,
+        "item" : "ALLSTR15"
+      }, {
+        "count" : 1,
+        "item" : "COMM272"
+      }, {
+        "count" : 1,
+        "item" : "T528188C"
+      }, {
+        "count" : 1,
+        "item" : "VG376"
+      }, {
+        "count" : 1,
+        "item" : "T524675C"
+      }, {
+        "count" : 1,
+        "item" : "FORTUNE3"
+      }, {
+        "count" : 1,
+        "item" : "T511264C"
+      }, {
+        "count" : 1,
+        "item" : "T417312C"
+      }, {
+        "count" : 1,
+        "item" : "OL6208F"
+      }, {
+        "count" : 1,
+        "item" : "T456936C"
+      }, {
+        "count" : 1,
+        "item" : "MEA050"
+      }, {
+        "count" : 1,
+        "item" : "T529137C"
+      }, {
+        "count" : 1,
+        "item" : "OL6298F"
+      }, {
+        "count" : 1,
+        "item" : "T449380C"
+      }, {
+        "count" : 1,
+        "item" : "T455182C"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3007492,
+    "name" : "VIN",
+    "dataTypeName" : "text",
+    "fieldName" : "vin",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513033,
+    "width" : 136,
+    "cachedContents" : {
+      "non_null" : 5758,
+      "smallest" : "19UUA86219A003388",
+      "null" : 0,
+      "largest" : "WME8",
+      "top" : [ {
+        "count" : 2,
+        "item" : "2FAHP71W74X141901"
+      }, {
+        "count" : 2,
+        "item" : "1LNHM84WX5Y665982"
+      }, {
+        "count" : 2,
+        "item" : "1LNHM82W93Y644640"
+      }, {
+        "count" : 2,
+        "item" : "2LNHM84W38X655640"
+      }, {
+        "count" : 2,
+        "item" : "1LNHM84W97Y638971"
+      }, {
+        "count" : 2,
+        "item" : "2LNHM84V99X607536"
+      }, {
+        "count" : 1,
+        "item" : "1LNHM84W37Y628016"
+      }, {
+        "count" : 1,
+        "item" : "2LNHM82W78X651173"
+      }, {
+        "count" : 1,
+        "item" : "1LNHM81W93Y671676"
+      }, {
+        "count" : 1,
+        "item" : "1LNHM81W26Y603210"
+      }, {
+        "count" : 1,
+        "item" : "1LNHM84W96Y640265"
+      }, {
+        "count" : 1,
+        "item" : "2FAFP71WX3X212319"
+      }, {
+        "count" : 1,
+        "item" : "1J4GR48K05C554818"
+      }, {
+        "count" : 1,
+        "item" : "1GNSKJE36BR289435"
+      }, {
+        "count" : 1,
+        "item" : "3GYFK66N64G166075"
+      }, {
+        "count" : 1,
+        "item" : "2LNBL8EV0BX755393"
+      }, {
+        "count" : 1,
+        "item" : "1G6KD57Y98U174744"
+      }, {
+        "count" : 1,
+        "item" : "1LNHM81W16Y650955"
+      }, {
+        "count" : 1,
+        "item" : "2LNBL8EV6BX757679"
+      }, {
+        "count" : 1,
+        "item" : "2LNBL8EV0BX751201"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3007493,
+    "name" : "Model Year",
+    "dataTypeName" : "number",
+    "fieldName" : "model_year",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1513034,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 5758,
+      "smallest" : "1949",
+      "sum" : "11559229",
+      "null" : 0,
+      "average" : "2007.507641542202",
+      "largest" : "2012",
+      "top" : [ {
+        "count" : 1187,
+        "item" : "2007"
+      }, {
+        "count" : 957,
+        "item" : "2011"
+      }, {
+        "count" : 776,
+        "item" : "2010"
+      }, {
+        "count" : 765,
+        "item" : "2008"
+      }, {
+        "count" : 524,
+        "item" : "2006"
+      }, {
+        "count" : 438,
+        "item" : "2005"
+      }, {
+        "count" : 350,
+        "item" : "2009"
+      }, {
+        "count" : 347,
+        "item" : "2004"
+      }, {
+        "count" : 269,
+        "item" : "2003"
+      }, {
+        "count" : 58,
+        "item" : "2002"
+      }, {
+        "count" : 39,
+        "item" : "2001"
+      }, {
+        "count" : 27,
+        "item" : "2000"
+      }, {
+        "count" : 10,
+        "item" : "1999"
+      }, {
+        "count" : 3,
+        "item" : "1998"
+      }, {
+        "count" : 2,
+        "item" : "1959"
+      }, {
+        "count" : 2,
+        "item" : "1949"
+      }, {
+        "count" : 1,
+        "item" : "1955"
+      }, {
+        "count" : 1,
+        "item" : "2012"
+      }, {
+        "count" : 1,
+        "item" : "1961"
+      }, {
+        "count" : 1,
+        "item" : "1951"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 3007494,
+    "name" : "Hybrid_Accessible_CNG_OR_Stretch_Limousine_Vehicle",
+    "dataTypeName" : "text",
+    "fieldName" : "hybrid_accessible_cng_or_stretch_limousine_vehicle",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513035,
+    "width" : 700,
+    "cachedContents" : {
+      "non_null" : 55,
+      "smallest" : "STR",
+      "null" : 5703,
+      "largest" : "STR",
+      "top" : [ {
+        "count" : 55,
+        "item" : "STR"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3007523,
+    "name" : "License Expiration Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "license_expiration_date",
+    "position" : 11,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 1513036,
+    "width" : 376,
+    "cachedContents" : {
+      "non_null" : 5758,
+      "smallest" : "2011-08-26T00:00:00",
+      "null" : 0,
+      "largest" : "2013-10-30T00:00:00",
+      "top" : [ {
+        "count" : 106,
+        "item" : "2012-06-30T00:00:00"
+      }, {
+        "count" : 97,
+        "item" : "2013-06-30T00:00:00"
+      }, {
+        "count" : 35,
+        "item" : "2013-01-28T00:00:00"
+      }, {
+        "count" : 35,
+        "item" : "2012-11-12T00:00:00"
+      }, {
+        "count" : 35,
+        "item" : "2013-06-17T00:00:00"
+      }, {
+        "count" : 30,
+        "item" : "2011-11-15T00:00:00"
+      }, {
+        "count" : 25,
+        "item" : "2012-11-08T00:00:00"
+      }, {
+        "count" : 25,
+        "item" : "2012-11-22T00:00:00"
+      }, {
+        "count" : 24,
+        "item" : "2013-04-30T00:00:00"
+      }, {
+        "count" : 23,
+        "item" : "2012-10-26T00:00:00"
+      }, {
+        "count" : 23,
+        "item" : "2013-04-19T00:00:00"
+      }, {
+        "count" : 22,
+        "item" : "2012-04-28T00:00:00"
+      }, {
+        "count" : 21,
+        "item" : "2013-05-21T00:00:00"
+      }, {
+        "count" : 21,
+        "item" : "2013-08-01T00:00:00"
+      }, {
+        "count" : 21,
+        "item" : "2013-06-10T00:00:00"
+      }, {
+        "count" : 21,
+        "item" : "2012-03-19T00:00:00"
+      }, {
+        "count" : 21,
+        "item" : "2012-12-10T00:00:00"
+      }, {
+        "count" : 21,
+        "item" : "2012-09-30T00:00:00"
+      }, {
+        "count" : 20,
+        "item" : "2013-03-23T00:00:00"
+      }, {
+        "count" : 20,
+        "item" : "2013-05-07T00:00:00"
+      } ]
+    },
+    "format" : {
+      "align" : "left",
+      "view" : "date_monthdy"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "transportation", "taxi", "limousine", "luxury" ],
+  "flags" : [ "default" ]
+}

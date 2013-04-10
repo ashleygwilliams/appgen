@@ -1,0 +1,176 @@
+{
+  "id" : "6v9u-ndjg",
+  "name" : "Building Complaint Disposition Codes",
+  "attribution" : "Department of Buildings (DOB)",
+  "attributionLink" : "http://www.nyc.gov/html/dob/html/bis/faq.shtml#complaints",
+  "averageRating" : 0,
+  "category" : "Property",
+  "createdAt" : 1332597169,
+  "description" : "A reference table of disposition codes for building complaints",
+  "displayType" : "table",
+  "downloadCount" : 52,
+  "numberOfComments" : 0,
+  "oid" : 551713,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1332597286,
+  "publicationGroup" : 303731,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1332597170,
+  "rowsUpdatedBy" : "x539-akqs",
+  "signed" : false,
+  "tableId" : 303731,
+  "totalTimesRated" : 0,
+  "viewCount" : 145,
+  "viewLastModified" : 1363705027,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 6926451,
+    "name" : "Code",
+    "dataTypeName" : "text",
+    "fieldName" : "code",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2355817,
+    "width" : 73,
+    "cachedContents" : {
+      "non_null" : 92,
+      "smallest" : "A1",
+      "null" : 0,
+      "largest" : "Y4",
+      "top" : [ {
+        "count" : 20,
+        "item" : "S7"
+      }, {
+        "count" : 19,
+        "item" : "S8"
+      }, {
+        "count" : 18,
+        "item" : "S9"
+      }, {
+        "count" : 17,
+        "item" : "V3"
+      }, {
+        "count" : 16,
+        "item" : "W1"
+      }, {
+        "count" : 15,
+        "item" : "XX"
+      }, {
+        "count" : 14,
+        "item" : "Y1"
+      }, {
+        "count" : 13,
+        "item" : "Y2"
+      }, {
+        "count" : 12,
+        "item" : "Y3"
+      }, {
+        "count" : 11,
+        "item" : "Y4"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 6926452,
+    "name" : "Disposition",
+    "dataTypeName" : "text",
+    "fieldName" : "disposition",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2355818,
+    "width" : 468,
+    "cachedContents" : {
+      "non_null" : 92,
+      "smallest" : "ACCESS DENIED - ATTEMPT MADE",
+      "null" : 0,
+      "largest" : "VIOLATION SERVED FOR DISOBEYING VACATE ORDER",
+      "top" : [ {
+        "count" : 20,
+        "item" : "STALLED: NO CONSTRUCTION BEGUN / VACANT SITE"
+      }, {
+        "count" : 19,
+        "item" : "STALLED: CONSTRUCTION IN PROGRESS"
+      }, {
+        "count" : 18,
+        "item" : "STALLED: EMERGENCY DECLARATION FILED"
+      }, {
+        "count" : 17,
+        "item" : "STOP WORK ORDER VIOLATION SERVED (NON-COMPLIANT AFTER-HOURS WORK)"
+      }, {
+        "count" : 16,
+        "item" : "VIOLATION SERVED FOR DISOBEYING VACATE ORDER"
+      }, {
+        "count" : 15,
+        "item" : "ADMINISTRATIVE CLOSURE"
+      }, {
+        "count" : 14,
+        "item" : "FULL VACATE ORDER SERVED"
+      }, {
+        "count" : 13,
+        "item" : "VACATE ORDER FULLY RESCINDED"
+      }, {
+        "count" : 12,
+        "item" : "PARTIAL VACATE ORDER SERVED"
+      }, {
+        "count" : 11,
+        "item" : "VACATE ORDER PARTIALLY RESCINDED"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "x539-akqs",
+    "displayName" : "Andrew Nicklin",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/4798/2643/My_Photo_3_large.png",
+    "profileImageUrlMedium" : "/images/profile/4798/2643/My_Photo_3_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/4798/2643/My_Photo_3_tiny.png",
+    "profileLastModified" : 1336858132,
+    "roleName" : "administrator",
+    "screenName" : "Andrew Nicklin",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "x539-akqs",
+    "displayName" : "Andrew Nicklin",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/4798/2643/My_Photo_3_large.png",
+    "profileImageUrlMedium" : "/images/profile/4798/2643/My_Photo_3_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/4798/2643/My_Photo_3_tiny.png",
+    "profileLastModified" : 1336858132,
+    "roleName" : "administrator",
+    "screenName" : "Andrew Nicklin",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "building", "buildings", "complaint", "complaints", "disposition", "lookup", "reference", "clean web" ],
+  "flags" : [ "default" ]
+}

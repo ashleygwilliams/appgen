@@ -1,0 +1,330 @@
+{
+  "id" : "iux8-53rc",
+  "name" : "Medallion Drivers",
+  "attribution" : "Taxi and Limousine Commission (TLC)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1314642430,
+  "description" : "List of all TLC medallion drivers",
+  "displayType" : "table",
+  "downloadCount" : 411,
+  "numberOfComments" : 0,
+  "oid" : 343371,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318346686,
+  "publicationGroup" : 239887,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318346378,
+  "rowsUpdatedBy" : "rnig-m3uj",
+  "signed" : false,
+  "tableId" : 244728,
+  "totalTimesRated" : 0,
+  "viewCount" : 491,
+  "viewLastModified" : 1330529771,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3007428,
+    "name" : "License Number",
+    "dataTypeName" : "number",
+    "fieldName" : "license_number",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1513069,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 48081,
+      "smallest" : "4511",
+      "sum" : "165092323830",
+      "null" : 0,
+      "average" : "3433629.163910900",
+      "largest" : "5408957",
+      "top" : [ {
+        "count" : 1,
+        "item" : "4511"
+      }, {
+        "count" : 1,
+        "item" : "4832"
+      }, {
+        "count" : 1,
+        "item" : "7022"
+      }, {
+        "count" : 1,
+        "item" : "9193"
+      }, {
+        "count" : 1,
+        "item" : "9909"
+      }, {
+        "count" : 1,
+        "item" : "11327"
+      }, {
+        "count" : 1,
+        "item" : "11979"
+      }, {
+        "count" : 1,
+        "item" : "13662"
+      }, {
+        "count" : 1,
+        "item" : "13684"
+      }, {
+        "count" : 1,
+        "item" : "15795"
+      }, {
+        "count" : 1,
+        "item" : "16337"
+      }, {
+        "count" : 1,
+        "item" : "20459"
+      }, {
+        "count" : 1,
+        "item" : "22411"
+      }, {
+        "count" : 1,
+        "item" : "24913"
+      }, {
+        "count" : 1,
+        "item" : "26234"
+      }, {
+        "count" : 1,
+        "item" : "34375"
+      }, {
+        "count" : 1,
+        "item" : "35774"
+      }, {
+        "count" : 1,
+        "item" : "37913"
+      }, {
+        "count" : 1,
+        "item" : "38406"
+      }, {
+        "count" : 1,
+        "item" : "41688"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3007429,
+    "name" : "Name of Licensee",
+    "dataTypeName" : "text",
+    "fieldName" : "name_of_licensee",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513070,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 48081,
+      "smallest" : "AABIZZA,NOURDDINE",
+      "null" : 0,
+      "largest" : "ZZAMAN,MOLLA,MONIRU",
+      "top" : [ {
+        "count" : 61,
+        "item" : "SINGH,BALWINDER"
+      }, {
+        "count" : 49,
+        "item" : "SINGH,JASWINDER"
+      }, {
+        "count" : 46,
+        "item" : "RAHMAN,MOHAMMED,M"
+      }, {
+        "count" : 44,
+        "item" : "SINGH,SUKHWINDER"
+      }, {
+        "count" : 43,
+        "item" : "SINGH,MANJIT"
+      }, {
+        "count" : 37,
+        "item" : "RAHMAN,MD,M"
+      }, {
+        "count" : 36,
+        "item" : "SINGH,GURPREET"
+      }, {
+        "count" : 34,
+        "item" : "ISLAM,MOHAMMAD,S"
+      }, {
+        "count" : 34,
+        "item" : "SINGH,RAJINDER"
+      }, {
+        "count" : 33,
+        "item" : "SINGH,RANJIT"
+      }, {
+        "count" : 33,
+        "item" : "SINGH,SUKHDEV"
+      }, {
+        "count" : 31,
+        "item" : "RAHMAN,MOHAMMAD,M"
+      }, {
+        "count" : 31,
+        "item" : "SINGH,PARAMJIT"
+      }, {
+        "count" : 30,
+        "item" : "ISLAM,MOHAMMED,S"
+      }, {
+        "count" : 29,
+        "item" : "SINGH,HARJINDER"
+      }, {
+        "count" : 29,
+        "item" : "SINGH,LAKHWINDER"
+      }, {
+        "count" : 28,
+        "item" : "SINGH,AVTAR"
+      }, {
+        "count" : 28,
+        "item" : "SINGH,DALJIT"
+      }, {
+        "count" : 27,
+        "item" : "ISLAM,MD,S"
+      }, {
+        "count" : 27,
+        "item" : "SINGH,KULDIP"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3007430,
+    "name" : "License Type",
+    "dataTypeName" : "text",
+    "fieldName" : "license_type",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513071,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 48081,
+      "smallest" : "Medallion Taxi Driver",
+      "null" : 0,
+      "largest" : "Medallion Taxi Driver",
+      "top" : [ {
+        "count" : 48081,
+        "item" : "Medallion Taxi Driver"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3007431,
+    "name" : "License Expiration Date",
+    "dataTypeName" : "date",
+    "fieldName" : "license_expiration_date",
+    "position" : 5,
+    "renderTypeName" : "date",
+    "tableColumnId" : 1513072,
+    "width" : 376,
+    "cachedContents" : {
+      "non_null" : 48081,
+      "smallest" : 1314342000,
+      "null" : 0,
+      "largest" : 1379660400,
+      "top" : [ {
+        "count" : 189,
+        "item" : 1319180400
+      }, {
+        "count" : 188,
+        "item" : 1350975600
+      }, {
+        "count" : 187,
+        "item" : 1339830000
+      }, {
+        "count" : 183,
+        "item" : 1333177200
+      }, {
+        "count" : 182,
+        "item" : 1330416000
+      }, {
+        "count" : 180,
+        "item" : 1317366000
+      }, {
+        "count" : 177,
+        "item" : 1316761200
+      }, {
+        "count" : 174,
+        "item" : 1348988400
+      }, {
+        "count" : 163,
+        "item" : 1331366400
+      }, {
+        "count" : 158,
+        "item" : 1335769200
+      }, {
+        "count" : 155,
+        "item" : 1341039600
+      }, {
+        "count" : 154,
+        "item" : 1372575600
+      }, {
+        "count" : 154,
+        "item" : 1374735600
+      }, {
+        "count" : 148,
+        "item" : 1343631600
+      }, {
+        "count" : 146,
+        "item" : 1357113600
+      }, {
+        "count" : 145,
+        "item" : 1331881200
+      }, {
+        "count" : 145,
+        "item" : 1347001200
+      }, {
+        "count" : 143,
+        "item" : 1341990000
+      }, {
+        "count" : 142,
+        "item" : 1331967600
+      }, {
+        "count" : 142,
+        "item" : 1347951600
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "transportation", "taxi", "limousine", "medallion", "drive", "driver" ],
+  "flags" : [ "default" ]
+}

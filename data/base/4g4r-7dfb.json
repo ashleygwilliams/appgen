@@ -1,0 +1,355 @@
+{
+  "id" : "4g4r-7dfb",
+  "name" : "2006-07 Class Size - By Borough",
+  "attribution" : "Department of Education (DOE)",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1318527934,
+  "description" : "Citywide Class Size Report, Borough, Program, and Grade or Service Category \r\n\r\nSOURCES: 10/31/06 Official Register (K-9) and 12/15/06 Register/Schedule (9-12)\r\n#Grade 9 not in high schools\r\n##Indicates how special class is delivered\r\n\r\nFor schools with students in any grades between Kindergarten and 9th grade (where 9th grade is the termination grade for the school), class size is reported by four program areas: general education, special education self-contained class, collaborative team teaching and gifted and talented self-contained class. Within each program area class size is reported by grade or service category, which indicates how a special education self-contained class is delivered. Class size is calculated by dividing the number of students in a program and grade by the number of official classes in that program and grade. \r\n\r\nThe following data is excluded from all the reports: District 75 schools, bridge classes which span more than one grade, classes with fewer than five students (for other than special education self-contained classes) and classes with one student (for special education self-contained classes). On the summary reports programs and grades with three or fewer classes are excluded from the citywide, borough and region reports and programs and grades with one class are excluded from the district report. For schools with students in any grades between 9th and 12th grade (where 9th grade is not the termination grade for the school), class size is reported by two program areas: general education and special education. For general education students class size is reported by grade for each core subject area: English, Math, Science and Social Studies. For special education students with a self-contained program recommendation, class size is reported by service category (self-contained or mainstream) for each core subject area. Since high school classes may contain students in multiple grades and programs, class size is calculated by taking a weighted average of all the classes in a core subject area with students in a particular grade or program. For example, there are 75 ninth graders enrolled at a high school. 25 ninth graders attend a Math class with 28 students, a second group of 25 ninth graders attend a Math class with 25 students, and a third group of 25 ninth graders attend a Math class with 30 students. Average class size for ninth grade Math equals: (25x28 + 25x25 + 25x30)/75 = 27.7. \r\n\r\nThe Pupil Teacher Ratio is also provided on the school level report. Pupil Teacher Ratio is another means to evaluate the instructional resources provided at a school. Pupil Teacher Ratio for All Students is calculated by dividing the number of students at a school by the number of full-time equivalent teachers, including both teachers in classes taught by two teachers, “cluster” teachers providing instruction in specialized topics like art or science, and teachers providing special education instruction. Pupil Teacher Ratio Excluding Special Education is calculated by dividing the number of non-special education students at a school by the number of full-time equivalent non-special education teachers.",
+  "displayType" : "table",
+  "downloadCount" : 18,
+  "numberOfComments" : 0,
+  "oid" : 344924,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318528003,
+  "publicationGroup" : 245514,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318527940,
+  "rowsUpdatedBy" : "rnig-m3uj",
+  "signed" : false,
+  "tableId" : 245514,
+  "totalTimesRated" : 0,
+  "viewCount" : 61,
+  "viewLastModified" : 1363699309,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3040899,
+    "name" : "BOROUGH",
+    "dataTypeName" : "location",
+    "fieldName" : "borough",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1582477,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 251,
+      "smallest" : {
+        "longitude" : "-73.91844899972153",
+        "latitude" : "40.82557699997852",
+        "human_address" : "{\"address\":\"\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"\"}"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-74.16240100000613",
+        "latitude" : "40.60667400010499",
+        "human_address" : "{\"address\":\"\",\"city\":\"STATEN ISLAND\",\"state\":\"NY\",\"zip\":\"\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-74.16240100000613",
+          "latitude" : "40.60667400010499",
+          "human_address" : "{\"address\":\"\",\"city\":\"STATEN ISLAND\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-74.16240100000613",
+          "latitude" : "40.60667400010499",
+          "human_address" : "{\"address\":\"\",\"city\":\"STATEN ISLAND\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-74.16240100000613",
+          "latitude" : "40.60667400010499",
+          "human_address" : "{\"address\":\"\",\"city\":\"STATEN ISLAND\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-74.16240100000613",
+          "latitude" : "40.60667400010499",
+          "human_address" : "{\"address\":\"\",\"city\":\"STATEN ISLAND\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-74.16240100000613",
+          "latitude" : "40.60667400010499",
+          "human_address" : "{\"address\":\"\",\"city\":\"STATEN ISLAND\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 3040900,
+    "name" : "PROGRAM",
+    "dataTypeName" : "text",
+    "fieldName" : "program",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1582478,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 251,
+      "smallest" : "COLLABORATIVE TEAM TEACHING    ",
+      "null" : 0,
+      "largest" : "SPECIAL CLASS - High School",
+      "top" : [ {
+        "count" : 20,
+        "item" : "GENERAL EDUCATION "
+      }, {
+        "count" : 19,
+        "item" : "GENERAL EDUCATION"
+      }, {
+        "count" : 18,
+        "item" : "SPECIAL CLASS - Grades K-9#"
+      }, {
+        "count" : 17,
+        "item" : "SPECIAL CLASS - High School"
+      }, {
+        "count" : 16,
+        "item" : "COLLABORATIVE TEAM TEACHING    "
+      }, {
+        "count" : 15,
+        "item" : "GIFTED & TALENTED    "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3040901,
+    "name" : "GRADE OR SERVICE CATEGORY##",
+    "dataTypeName" : "text",
+    "fieldName" : "grade_or_service_category_",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1582479,
+    "width" : 424,
+    "cachedContents" : {
+      "non_null" : 251,
+      "smallest" : "09#           ",
+      "null" : 0,
+      "largest" : "Self-Contained",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Kindergarten             "
+      }, {
+        "count" : 19,
+        "item" : "1"
+      }, {
+        "count" : 18,
+        "item" : "2"
+      }, {
+        "count" : 17,
+        "item" : "3"
+      }, {
+        "count" : 16,
+        "item" : "4"
+      }, {
+        "count" : 15,
+        "item" : "5"
+      }, {
+        "count" : 14,
+        "item" : "6"
+      }, {
+        "count" : 13,
+        "item" : "7"
+      }, {
+        "count" : 12,
+        "item" : "8"
+      }, {
+        "count" : 11,
+        "item" : "9"
+      }, {
+        "count" : 10,
+        "item" : "10"
+      }, {
+        "count" : 9,
+        "item" : "11"
+      }, {
+        "count" : 8,
+        "item" : "12"
+      }, {
+        "count" : 7,
+        "item" : "12:1           "
+      }, {
+        "count" : 6,
+        "item" : "12:1:1         "
+      }, {
+        "count" : 5,
+        "item" : "Mainstream"
+      }, {
+        "count" : 4,
+        "item" : "Self-Contained"
+      }, {
+        "count" : 3,
+        "item" : "09#           "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3040902,
+    "name" : "CORE COURSE(High Schools only)",
+    "dataTypeName" : "text",
+    "fieldName" : "core_course_high_schools_only_",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1582480,
+    "width" : 460,
+    "cachedContents" : {
+      "non_null" : 120,
+      "smallest" : "ENGLISH",
+      "null" : 131,
+      "largest" : "SOCIAL STUDIES",
+      "top" : [ {
+        "count" : 20,
+        "item" : "ENGLISH"
+      }, {
+        "count" : 19,
+        "item" : "MATH   "
+      }, {
+        "count" : 18,
+        "item" : "SOCIAL STUDIES"
+      }, {
+        "count" : 17,
+        "item" : "SCIENCE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3040903,
+    "name" : "AVERAGE CLASS SIZE",
+    "dataTypeName" : "number",
+    "fieldName" : "average_class_size",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1582481,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 251,
+      "smallest" : "9.5",
+      "sum" : "6035.9",
+      "null" : 0,
+      "average" : "24.04741035856574",
+      "largest" : "30.9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "25.2"
+      }, {
+        "count" : 19,
+        "item" : "21.6"
+      }, {
+        "count" : 18,
+        "item" : "29.9"
+      }, {
+        "count" : 17,
+        "item" : "30.1"
+      }, {
+        "count" : 16,
+        "item" : "29.8"
+      }, {
+        "count" : 15,
+        "item" : "29.4"
+      }, {
+        "count" : 14,
+        "item" : "25.7"
+      }, {
+        "count" : 13,
+        "item" : "27.2"
+      }, {
+        "count" : 12,
+        "item" : "30.4"
+      }, {
+        "count" : 11,
+        "item" : "30.3"
+      }, {
+        "count" : 10,
+        "item" : "30.9"
+      }, {
+        "count" : 9,
+        "item" : "28.2"
+      }, {
+        "count" : 8,
+        "item" : "27.7"
+      }, {
+        "count" : 7,
+        "item" : "29.7"
+      }, {
+        "count" : 6,
+        "item" : "28.9"
+      }, {
+        "count" : 5,
+        "item" : "28.4"
+      }, {
+        "count" : 4,
+        "item" : "29.5"
+      }, {
+        "count" : 3,
+        "item" : "29.3"
+      }, {
+        "count" : 2,
+        "item" : "29.0"
+      }, {
+        "count" : 1,
+        "item" : "28.0"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Historical Data"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "rnig-m3uj",
+    "displayName" : "Jorge J.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/5083/4460/large-profile_large.png",
+    "profileImageUrlMedium" : "/images/profile/5083/4460/large-profile_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/5083/4460/large-profile_tiny.png",
+    "profileLastModified" : 1322859437,
+    "screenName" : "Jorge J."
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rnig-m3uj",
+    "displayName" : "Jorge J.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/5083/4460/large-profile_large.png",
+    "profileImageUrlMedium" : "/images/profile/5083/4460/large-profile_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/5083/4460/large-profile_tiny.png",
+    "profileLastModified" : 1322859437,
+    "screenName" : "Jorge J."
+  },
+  "tags" : [ "lifelong learning" ],
+  "flags" : [ "default" ]
+}

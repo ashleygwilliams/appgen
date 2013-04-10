@@ -1,0 +1,143 @@
+{
+  "id" : "4jsk-k6nt",
+  "name" : "Directory of Earthquake Magnitude in Richter Scale and Modified Mercalli Intensity (MMI)",
+  "attribution" : "Office of Emergency Management (OEM)",
+  "attributionLink" : "http://www.nyc.gov/html/oem/downloads/pdf/hazard_mitigation/section_3h_earthquake_hazard_analysis.pdf",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1361907917,
+  "description" : "Comparison of Earthquake magnitudes in Richter Scale and Modified Mercalli Intensity (MMI)",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "numberOfComments" : 0,
+  "oid" : 2644924,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361914257,
+  "publicationGroup" : 701440,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1361914244,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 701648,
+  "totalTimesRated" : 0,
+  "viewCount" : 11,
+  "viewLastModified" : 1361914286,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 47167198,
+    "name" : "Richter Magnitude Scale",
+    "dataTypeName" : "text",
+    "fieldName" : "richter_magnitude_scale",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8185697,
+    "width" : 206,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "1.0 to 3.0",
+      "null" : 0,
+      "largest" : "7.0 and Higher",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1.0 to 3.0"
+      }, {
+        "count" : 19,
+        "item" : "3.0 to 3.9"
+      }, {
+        "count" : 18,
+        "item" : "4.0 to 4.9"
+      }, {
+        "count" : 17,
+        "item" : "5.0 to 5.9"
+      }, {
+        "count" : 16,
+        "item" : "6.0 to 6.9"
+      }, {
+        "count" : 15,
+        "item" : "7.0 and Higher"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47167199,
+    "name" : "Typical Maximum MMI",
+    "dataTypeName" : "text",
+    "fieldName" : "typical_maximum_mmi",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8185698,
+    "width" : 195,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "I",
+      "null" : 0,
+      "largest" : "VI to VII",
+      "top" : [ {
+        "count" : 20,
+        "item" : "I"
+      }, {
+        "count" : 19,
+        "item" : "II to III"
+      }, {
+        "count" : 18,
+        "item" : "IV to V"
+      }, {
+        "count" : 17,
+        "item" : "VI to VII"
+      }, {
+        "count" : 16,
+        "item" : "VII to IX"
+      }, {
+        "count" : 15,
+        "item" : "VIII or Higher"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "oem", "emergency", "management", "services", "earthquake", "damage", "richter scale", "mmi" ],
+  "flags" : [ "default" ]
+}

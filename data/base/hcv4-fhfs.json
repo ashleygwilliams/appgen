@@ -1,0 +1,578 @@
+{
+  "id" : "hcv4-fhfs",
+  "name" : "DOF: Summary of Neighborhood Sales in Queens for Class 1-, 2- and 3-Family homes - 2007",
+  "attribution" : "Department of Finance (DOF)",
+  "averageRating" : 0,
+  "category" : "Property",
+  "createdAt" : 1317847818,
+  "description" : "The Department of Finance (DOF) maintains records for all property sales in New York City, including sales of family homes in each borough. This list is a summary of neighborhood sales for Class 1-, 2- and 3-Family homes in Queens in 2007.\r\n\r\nThis list includes all sales of 1-, 2-, and 3-Family Homes' from January 1st, 2007 to December 31, 2007, whose sale price is equal to or more than $150,000.  The Building Class Category for Sales is based on the Building Class at the time of the sale.\r\n\r\nUpdate Schedule: Annually",
+  "displayType" : "table",
+  "downloadCount" : 12,
+  "numberOfComments" : 0,
+  "oid" : 340531,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318010741,
+  "publicationGroup" : 243287,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1317847820,
+  "rowsUpdatedBy" : "k2fz-tf56",
+  "signed" : false,
+  "tableId" : 243287,
+  "totalTimesRated" : 0,
+  "viewCount" : 27,
+  "viewLastModified" : 1319730987,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2959524,
+    "name" : "NEIGHBORHOOD",
+    "dataTypeName" : "text",
+    "fieldName" : "neighborhood",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1554025,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 162,
+      "smallest" : "AIRPORT LA GUARDIA       ",
+      "null" : 0,
+      "largest" : "WOODSIDE                 ",
+      "top" : [ {
+        "count" : 3,
+        "item" : "BEECHHURST               "
+      }, {
+        "count" : 3,
+        "item" : "CORONA                   "
+      }, {
+        "count" : 3,
+        "item" : "HOLLIS                   "
+      }, {
+        "count" : 3,
+        "item" : "RICHMOND HILL            "
+      }, {
+        "count" : 3,
+        "item" : "SPRINGFIELD GARDENS      "
+      }, {
+        "count" : 3,
+        "item" : "SUNNYSIDE                "
+      }, {
+        "count" : 3,
+        "item" : "FOREST HILLS             "
+      }, {
+        "count" : 3,
+        "item" : "BAYSIDE                  "
+      }, {
+        "count" : 3,
+        "item" : "ST. ALBANS               "
+      }, {
+        "count" : 3,
+        "item" : "SOUTH JAMAICA            "
+      }, {
+        "count" : 3,
+        "item" : "SO. JAMAICA-BAISLEY PARK "
+      }, {
+        "count" : 3,
+        "item" : "OAKLAND GARDENS          "
+      }, {
+        "count" : 3,
+        "item" : "ROSEDALE                 "
+      }, {
+        "count" : 3,
+        "item" : "GLENDALE                 "
+      }, {
+        "count" : 3,
+        "item" : "ARVERNE                  "
+      }, {
+        "count" : 3,
+        "item" : "JAMAICA                  "
+      }, {
+        "count" : 3,
+        "item" : "ASTORIA                  "
+      }, {
+        "count" : 3,
+        "item" : "MIDDLE VILLAGE           "
+      }, {
+        "count" : 3,
+        "item" : "LAURELTON                "
+      }, {
+        "count" : 3,
+        "item" : "FLUSHING-SOUTH           "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2959525,
+    "name" : "TYPE OF HOME",
+    "dataTypeName" : "text",
+    "fieldName" : "type_of_home",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1554026,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 162,
+      "smallest" : "01 ONE FAMILY HOMES                        ",
+      "null" : 0,
+      "largest" : "03 THREE FAMILY HOMES                      ",
+      "top" : [ {
+        "count" : 58,
+        "item" : "01 ONE FAMILY HOMES                        "
+      }, {
+        "count" : 56,
+        "item" : "02 TWO FAMILY HOMES                        "
+      }, {
+        "count" : 48,
+        "item" : "03 THREE FAMILY HOMES                      "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2959526,
+    "name" : "NUMBER OF SALES",
+    "dataTypeName" : "number",
+    "fieldName" : "number_of_sales",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1554027,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 162,
+      "smallest" : "1",
+      "sum" : "12180",
+      "null" : 0,
+      "average" : "75.18518518518519",
+      "largest" : "592",
+      "top" : [ {
+        "count" : 8,
+        "item" : "1"
+      }, {
+        "count" : 8,
+        "item" : "6"
+      }, {
+        "count" : 6,
+        "item" : "10"
+      }, {
+        "count" : 5,
+        "item" : "3"
+      }, {
+        "count" : 5,
+        "item" : "27"
+      }, {
+        "count" : 4,
+        "item" : "4"
+      }, {
+        "count" : 4,
+        "item" : "7"
+      }, {
+        "count" : 3,
+        "item" : "35"
+      }, {
+        "count" : 3,
+        "item" : "22"
+      }, {
+        "count" : 3,
+        "item" : "15"
+      }, {
+        "count" : 3,
+        "item" : "9"
+      }, {
+        "count" : 3,
+        "item" : "8"
+      }, {
+        "count" : 3,
+        "item" : "26"
+      }, {
+        "count" : 3,
+        "item" : "30"
+      }, {
+        "count" : 3,
+        "item" : "18"
+      }, {
+        "count" : 2,
+        "item" : "11"
+      }, {
+        "count" : 2,
+        "item" : "97"
+      }, {
+        "count" : 2,
+        "item" : "116"
+      }, {
+        "count" : 2,
+        "item" : "122"
+      }, {
+        "count" : 2,
+        "item" : "113"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2959527,
+    "name" : "LOWEST SALE PRICE",
+    "dataTypeName" : "money",
+    "fieldName" : "lowest_sale_price",
+    "position" : 5,
+    "renderTypeName" : "money",
+    "tableColumnId" : 1554028,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 162,
+      "smallest" : "150000",
+      "sum" : "51844839",
+      "null" : 0,
+      "average" : "320029.8703703704",
+      "largest" : "990000",
+      "top" : [ {
+        "count" : 13,
+        "item" : "150000"
+      }, {
+        "count" : 8,
+        "item" : "200000"
+      }, {
+        "count" : 6,
+        "item" : "250000"
+      }, {
+        "count" : 4,
+        "item" : "175000"
+      }, {
+        "count" : 4,
+        "item" : "165000"
+      }, {
+        "count" : 3,
+        "item" : "170000"
+      }, {
+        "count" : 3,
+        "item" : "180000"
+      }, {
+        "count" : 3,
+        "item" : "210000"
+      }, {
+        "count" : 3,
+        "item" : "171616"
+      }, {
+        "count" : 3,
+        "item" : "155000"
+      }, {
+        "count" : 3,
+        "item" : "400000"
+      }, {
+        "count" : 3,
+        "item" : "300000"
+      }, {
+        "count" : 2,
+        "item" : "225000"
+      }, {
+        "count" : 2,
+        "item" : "350000"
+      }, {
+        "count" : 2,
+        "item" : "580000"
+      }, {
+        "count" : 2,
+        "item" : "530000"
+      }, {
+        "count" : 2,
+        "item" : "215000"
+      }, {
+        "count" : 2,
+        "item" : "325000"
+      }, {
+        "count" : 2,
+        "item" : "375000"
+      }, {
+        "count" : 2,
+        "item" : "185000"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2959528,
+    "name" : "AVERAGE SALE PRICE",
+    "dataTypeName" : "money",
+    "fieldName" : "average_sale_price",
+    "position" : 6,
+    "renderTypeName" : "money",
+    "tableColumnId" : 1554029,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 162,
+      "smallest" : "195000",
+      "sum" : "106672626",
+      "null" : 0,
+      "average" : "658473",
+      "largest" : "1361556",
+      "top" : [ {
+        "count" : 1,
+        "item" : "757946"
+      }, {
+        "count" : 1,
+        "item" : "914532"
+      }, {
+        "count" : 1,
+        "item" : "571886"
+      }, {
+        "count" : 1,
+        "item" : "584485"
+      }, {
+        "count" : 1,
+        "item" : "1132833"
+      }, {
+        "count" : 1,
+        "item" : "853000"
+      }, {
+        "count" : 1,
+        "item" : "900000"
+      }, {
+        "count" : 1,
+        "item" : "793100"
+      }, {
+        "count" : 1,
+        "item" : "451839"
+      }, {
+        "count" : 1,
+        "item" : "917500"
+      }, {
+        "count" : 1,
+        "item" : "824348"
+      }, {
+        "count" : 1,
+        "item" : "532171"
+      }, {
+        "count" : 1,
+        "item" : "924422"
+      }, {
+        "count" : 1,
+        "item" : "607703"
+      }, {
+        "count" : 1,
+        "item" : "692948"
+      }, {
+        "count" : 1,
+        "item" : "540555"
+      }, {
+        "count" : 1,
+        "item" : "350000"
+      }, {
+        "count" : 1,
+        "item" : "555553"
+      }, {
+        "count" : 1,
+        "item" : "342737"
+      }, {
+        "count" : 1,
+        "item" : "466629"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2959529,
+    "name" : "MEDIAN SALE PRICE",
+    "dataTypeName" : "money",
+    "fieldName" : "median_sale_price",
+    "position" : 7,
+    "renderTypeName" : "money",
+    "tableColumnId" : 1554030,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 162,
+      "smallest" : "195000",
+      "sum" : "105555999",
+      "null" : 0,
+      "average" : "651580.2407407407",
+      "largest" : "1185000",
+      "top" : [ {
+        "count" : 4,
+        "item" : "750000"
+      }, {
+        "count" : 4,
+        "item" : "600000"
+      }, {
+        "count" : 3,
+        "item" : "850000"
+      }, {
+        "count" : 3,
+        "item" : "820000"
+      }, {
+        "count" : 3,
+        "item" : "610000"
+      }, {
+        "count" : 2,
+        "item" : "900000"
+      }, {
+        "count" : 2,
+        "item" : "460000"
+      }, {
+        "count" : 2,
+        "item" : "605000"
+      }, {
+        "count" : 2,
+        "item" : "550000"
+      }, {
+        "count" : 2,
+        "item" : "710000"
+      }, {
+        "count" : 2,
+        "item" : "765000"
+      }, {
+        "count" : 2,
+        "item" : "690000"
+      }, {
+        "count" : 2,
+        "item" : "645000"
+      }, {
+        "count" : 2,
+        "item" : "535000"
+      }, {
+        "count" : 2,
+        "item" : "440000"
+      }, {
+        "count" : 1,
+        "item" : "702000"
+      }, {
+        "count" : 1,
+        "item" : "670000"
+      }, {
+        "count" : 1,
+        "item" : "299457"
+      }, {
+        "count" : 1,
+        "item" : "551200"
+      }, {
+        "count" : 1,
+        "item" : "830000"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2959530,
+    "name" : "HIGHEST SALE PRICE",
+    "dataTypeName" : "money",
+    "fieldName" : "highest_sale_price",
+    "position" : 8,
+    "renderTypeName" : "money",
+    "tableColumnId" : 1554031,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 162,
+      "smallest" : "195000",
+      "sum" : "196399738",
+      "null" : 0,
+      "average" : "1212344.061728395",
+      "largest" : "5300000",
+      "top" : [ {
+        "count" : 4,
+        "item" : "875000"
+      }, {
+        "count" : 4,
+        "item" : "750000"
+      }, {
+        "count" : 3,
+        "item" : "900000"
+      }, {
+        "count" : 3,
+        "item" : "730000"
+      }, {
+        "count" : 3,
+        "item" : "1100000"
+      }, {
+        "count" : 3,
+        "item" : "700000"
+      }, {
+        "count" : 3,
+        "item" : "995000"
+      }, {
+        "count" : 3,
+        "item" : "1350000"
+      }, {
+        "count" : 3,
+        "item" : "1400000"
+      }, {
+        "count" : 3,
+        "item" : "999000"
+      }, {
+        "count" : 3,
+        "item" : "1250000"
+      }, {
+        "count" : 2,
+        "item" : "997885"
+      }, {
+        "count" : 2,
+        "item" : "580000"
+      }, {
+        "count" : 2,
+        "item" : "1300000"
+      }, {
+        "count" : 2,
+        "item" : "820000"
+      }, {
+        "count" : 2,
+        "item" : "980000"
+      }, {
+        "count" : 2,
+        "item" : "950000"
+      }, {
+        "count" : 2,
+        "item" : "2000000"
+      }, {
+        "count" : 2,
+        "item" : "930000"
+      }, {
+        "count" : 2,
+        "item" : "970000"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Historical Data"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "department of finance", "finance", "dof", "property", "properties", "neighborhoods", "sales", "neighborhood sales", "homes", "family homes", "class-1", "class-2", "class-3", "borough", "queens" ],
+  "flags" : [ "default" ]
+}

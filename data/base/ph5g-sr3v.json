@@ -1,0 +1,1274 @@
+{
+  "id" : "ph5g-sr3v",
+  "name" : "Projected Population 2000-2030 - Summary",
+  "attribution" : "Department of City Planning (DCP)",
+  "averageRating" : 0,
+  "category" : "Statistics",
+  "createdAt" : 1319565951,
+  "description" : "Projected New York City population numbers and percentage changes from 2000 through 2030 by Borough, including school-age, elderly, and total population.",
+  "displayType" : "table",
+  "downloadCount" : 46,
+  "numberOfComments" : 0,
+  "oid" : 353626,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1319566131,
+  "publicationGroup" : 248177,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1319565961,
+  "rowsUpdatedBy" : "rnig-m3uj",
+  "signed" : false,
+  "tableId" : 248177,
+  "totalTimesRated" : 0,
+  "viewCount" : 264,
+  "viewLastModified" : 1340900001,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3248115,
+    "name" : "Age Group",
+    "dataTypeName" : "text",
+    "fieldName" : "age_group",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1625355,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "Elderly (65+)",
+      "null" : 0,
+      "largest" : "Total",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Total"
+      }, {
+        "count" : 19,
+        "item" : "School-Age (5 to17) "
+      }, {
+        "count" : 18,
+        "item" : "Elderly (65+)"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248116,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1625356,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "   Bronx",
+      "null" : 0,
+      "largest" : "   Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New York City"
+      }, {
+        "count" : 19,
+        "item" : "   Bronx"
+      }, {
+        "count" : 18,
+        "item" : "   Brooklyn"
+      }, {
+        "count" : 17,
+        "item" : "   Manhattan"
+      }, {
+        "count" : 16,
+        "item" : "   Queens"
+      }, {
+        "count" : 15,
+        "item" : "   Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248117,
+    "name" : "2000",
+    "dataTypeName" : "number",
+    "fieldName" : "_1",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625357,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "51433",
+      "sum" : "20700902",
+      "null" : 0,
+      "average" : "1150050.111111111",
+      "largest" : "8008278",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8008278"
+      }, {
+        "count" : 19,
+        "item" : "1332650"
+      }, {
+        "count" : 18,
+        "item" : "2465326"
+      }, {
+        "count" : 17,
+        "item" : "1537195"
+      }, {
+        "count" : 16,
+        "item" : "2229379"
+      }, {
+        "count" : 15,
+        "item" : "443728"
+      }, {
+        "count" : 14,
+        "item" : "1404316"
+      }, {
+        "count" : 13,
+        "item" : "288308"
+      }, {
+        "count" : 12,
+        "item" : "478912"
+      }, {
+        "count" : 11,
+        "item" : "187758"
+      }, {
+        "count" : 10,
+        "item" : "366604"
+      }, {
+        "count" : 9,
+        "item" : "82734"
+      }, {
+        "count" : 8,
+        "item" : "937857"
+      }, {
+        "count" : 7,
+        "item" : "133948"
+      }, {
+        "count" : 6,
+        "item" : "282658"
+      }, {
+        "count" : 5,
+        "item" : "186776"
+      }, {
+        "count" : 4,
+        "item" : "283042"
+      }, {
+        "count" : 3,
+        "item" : "51433"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248118,
+    "name" : "% of Total Borough Population - 2000",
+    "dataTypeName" : "percent",
+    "fieldName" : "_of_total_borough_population_2000",
+    "position" : 5,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1625358,
+    "width" : 532,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "10.0512512663",
+      "sum" : "775.5649308901",
+      "null" : 0,
+      "average" : "43.08694060500556",
+      "largest" : "100",
+      "top" : [ {
+        "count" : 20,
+        "item" : "100"
+      }, {
+        "count" : 19,
+        "item" : "17.5357998311"
+      }, {
+        "count" : 18,
+        "item" : "21.6341725134"
+      }, {
+        "count" : 17,
+        "item" : "19.4258933707"
+      }, {
+        "count" : 16,
+        "item" : "12.214299422"
+      }, {
+        "count" : 15,
+        "item" : "16.4442295366"
+      }, {
+        "count" : 14,
+        "item" : "18.6452962175"
+      }, {
+        "count" : 13,
+        "item" : "11.711094445"
+      }, {
+        "count" : 12,
+        "item" : "10.0512512663"
+      }, {
+        "count" : 11,
+        "item" : "11.4653396752"
+      }, {
+        "count" : 10,
+        "item" : "12.1504428521"
+      }, {
+        "count" : 9,
+        "item" : "12.6960018911"
+      }, {
+        "count" : 8,
+        "item" : "11.5911098691"
+      } ]
+    },
+    "format" : {
+      "precision" : "1",
+      "noCommas" : "false",
+      "align" : "right",
+      "view" : "percent_bar_and_text"
+    }
+  }, {
+    "id" : 3248119,
+    "name" : "2010",
+    "dataTypeName" : "number",
+    "fieldName" : "_2",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625359,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "60794",
+      "sum" : "21480060",
+      "null" : 0,
+      "average" : "1193336.666666667",
+      "largest" : "8402213",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8402213"
+      }, {
+        "count" : 19,
+        "item" : "1401194"
+      }, {
+        "count" : 18,
+        "item" : "2566836"
+      }, {
+        "count" : 17,
+        "item" : "1662701"
+      }, {
+        "count" : 16,
+        "item" : "2279674"
+      }, {
+        "count" : 15,
+        "item" : "491808"
+      }, {
+        "count" : 14,
+        "item" : "1406167"
+      }, {
+        "count" : 13,
+        "item" : "289564"
+      }, {
+        "count" : 12,
+        "item" : "465729"
+      }, {
+        "count" : 11,
+        "item" : "196127"
+      }, {
+        "count" : 10,
+        "item" : "368789"
+      }, {
+        "count" : 9,
+        "item" : "85958"
+      }, {
+        "count" : 8,
+        "item" : "931650"
+      }, {
+        "count" : 7,
+        "item" : "132716"
+      }, {
+        "count" : 6,
+        "item" : "281517"
+      }, {
+        "count" : 5,
+        "item" : "203101"
+      }, {
+        "count" : 4,
+        "item" : "253522"
+      }, {
+        "count" : 3,
+        "item" : "60794"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248120,
+    "name" : "% of Total Borough Population - 2010",
+    "dataTypeName" : "percent",
+    "fieldName" : "_of_total_borough_population_2010",
+    "position" : 7,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1625360,
+    "width" : 532,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "9.471636333",
+      "sum" : "768.2209314485",
+      "null" : 0,
+      "average" : "42.67894063602778",
+      "largest" : "100",
+      "top" : [ {
+        "count" : 20,
+        "item" : "100"
+      }, {
+        "count" : 19,
+        "item" : "16.7356718998"
+      }, {
+        "count" : 18,
+        "item" : "20.6655038489"
+      }, {
+        "count" : 17,
+        "item" : "18.1440730923"
+      }, {
+        "count" : 16,
+        "item" : "11.7956866568"
+      }, {
+        "count" : 15,
+        "item" : "16.177269206"
+      }, {
+        "count" : 14,
+        "item" : "17.4780402108"
+      }, {
+        "count" : 13,
+        "item" : "11.088150229"
+      }, {
+        "count" : 12,
+        "item" : "9.471636333"
+      }, {
+        "count" : 11,
+        "item" : "10.967471237"
+      }, {
+        "count" : 10,
+        "item" : "12.2151246676"
+      }, {
+        "count" : 9,
+        "item" : "11.1209760694"
+      }, {
+        "count" : 8,
+        "item" : "12.3613279979"
+      } ]
+    },
+    "format" : {
+      "precision" : "1",
+      "noCommas" : "false",
+      "align" : "right",
+      "view" : "percent_bar_and_text"
+    }
+  }, {
+    "id" : 3248121,
+    "name" : "2020",
+    "dataTypeName" : "number",
+    "fieldName" : "_3",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625361,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "77155",
+      "sum" : "22210995",
+      "null" : 0,
+      "average" : "1233944.166666667",
+      "largest" : "8692564",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8692564"
+      }, {
+        "count" : 19,
+        "item" : "1420277"
+      }, {
+        "count" : 18,
+        "item" : "2628211"
+      }, {
+        "count" : 17,
+        "item" : "1729530"
+      }, {
+        "count" : 16,
+        "item" : "2396949"
+      }, {
+        "count" : 15,
+        "item" : "517597"
+      }, {
+        "count" : 14,
+        "item" : "1356983"
+      }, {
+        "count" : 13,
+        "item" : "274658"
+      }, {
+        "count" : 12,
+        "item" : "444430"
+      }, {
+        "count" : 11,
+        "item" : "194940"
+      }, {
+        "count" : 10,
+        "item" : "360202"
+      }, {
+        "count" : 9,
+        "item" : "82754"
+      }, {
+        "count" : 8,
+        "item" : "1055950"
+      }, {
+        "count" : 7,
+        "item" : "139589"
+      }, {
+        "count" : 6,
+        "item" : "323192"
+      }, {
+        "count" : 5,
+        "item" : "234478"
+      }, {
+        "count" : 4,
+        "item" : "281536"
+      }, {
+        "count" : 3,
+        "item" : "77155"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248122,
+    "name" : "% of Total Borough Population - 2020",
+    "dataTypeName" : "percent",
+    "fieldName" : "_of_total_borough_population_2020",
+    "position" : 9,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1625362,
+    "width" : 532,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "9.8282940581",
+      "sum" : "768.6283948369",
+      "null" : 0,
+      "average" : "42.70157749093889",
+      "largest" : "100",
+      "top" : [ {
+        "count" : 20,
+        "item" : "100"
+      }, {
+        "count" : 19,
+        "item" : "15.6108485367"
+      }, {
+        "count" : 18,
+        "item" : "19.3383121743"
+      }, {
+        "count" : 17,
+        "item" : "16.9099741231"
+      }, {
+        "count" : 16,
+        "item" : "11.2712586656"
+      }, {
+        "count" : 15,
+        "item" : "15.027512058"
+      }, {
+        "count" : 14,
+        "item" : "15.9881143051"
+      }, {
+        "count" : 13,
+        "item" : "12.1477391481"
+      }, {
+        "count" : 12,
+        "item" : "9.8282940581"
+      }, {
+        "count" : 11,
+        "item" : "12.29703399"
+      }, {
+        "count" : 10,
+        "item" : "13.5573248224"
+      }, {
+        "count" : 9,
+        "item" : "11.7455982585"
+      }, {
+        "count" : 8,
+        "item" : "14.906384697"
+      } ]
+    },
+    "format" : {
+      "precision" : "1",
+      "noCommas" : "false",
+      "align" : "right",
+      "view" : "percent_bar_and_text"
+    }
+  }, {
+    "id" : 3248123,
+    "name" : "2030",
+    "dataTypeName" : "number",
+    "fieldName" : "_4",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625363,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "88874",
+      "sum" : "23747778",
+      "null" : 0,
+      "average" : "1319321",
+      "largest" : "9119811",
+      "top" : [ {
+        "count" : 20,
+        "item" : "9119811"
+      }, {
+        "count" : 19,
+        "item" : "1457039"
+      }, {
+        "count" : 18,
+        "item" : "2718967"
+      }, {
+        "count" : 17,
+        "item" : "1826547"
+      }, {
+        "count" : 16,
+        "item" : "2565352"
+      }, {
+        "count" : 15,
+        "item" : "551906"
+      }, {
+        "count" : 14,
+        "item" : "1401703"
+      }, {
+        "count" : 13,
+        "item" : "286019"
+      }, {
+        "count" : 12,
+        "item" : "451286"
+      }, {
+        "count" : 11,
+        "item" : "196068"
+      }, {
+        "count" : 10,
+        "item" : "379456"
+      }, {
+        "count" : 9,
+        "item" : "88874"
+      }, {
+        "count" : 8,
+        "item" : "1352375"
+      }, {
+        "count" : 7,
+        "item" : "172653"
+      }, {
+        "count" : 6,
+        "item" : "409769"
+      }, {
+        "count" : 5,
+        "item" : "294919"
+      }, {
+        "count" : 4,
+        "item" : "372068"
+      }, {
+        "count" : 3,
+        "item" : "102966"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248124,
+    "name" : "% of Total Borough Population - 2030",
+    "dataTypeName" : "percent",
+    "fieldName" : "_of_total_borough_population_2030",
+    "position" : 11,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1625364,
+    "width" : 532,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "10.7343638023",
+      "sum" : "784.2823855923",
+      "null" : 0,
+      "average" : "43.57124364401667",
+      "largest" : "100",
+      "top" : [ {
+        "count" : 20,
+        "item" : "100"
+      }, {
+        "count" : 19,
+        "item" : "15.3698689589"
+      }, {
+        "count" : 18,
+        "item" : "19.6301403051"
+      }, {
+        "count" : 17,
+        "item" : "16.5976858123"
+      }, {
+        "count" : 16,
+        "item" : "10.7343638023"
+      }, {
+        "count" : 15,
+        "item" : "14.7915841569"
+      }, {
+        "count" : 14,
+        "item" : "16.1031407522"
+      }, {
+        "count" : 13,
+        "item" : "14.8289805567"
+      }, {
+        "count" : 12,
+        "item" : "11.8495798671"
+      }, {
+        "count" : 11,
+        "item" : "15.0707603292"
+      }, {
+        "count" : 10,
+        "item" : "16.1462584866"
+      }, {
+        "count" : 9,
+        "item" : "14.5035846933"
+      }, {
+        "count" : 8,
+        "item" : "18.6564378717"
+      } ]
+    },
+    "format" : {
+      "precision" : "1",
+      "noCommas" : "false",
+      "align" : "right",
+      "view" : "percent_bar_and_text"
+    }
+  }, {
+    "id" : 3248125,
+    "name" : "Change in Number - 2000-2010",
+    "dataTypeName" : "number",
+    "fieldName" : "change_in_number_2000_2010",
+    "position" : 12,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625365,
+    "width" : 436,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "-29520",
+      "sum" : "779158",
+      "null" : 0,
+      "average" : "43286.55555555556",
+      "largest" : "393935",
+      "top" : [ {
+        "count" : 20,
+        "item" : "393935"
+      }, {
+        "count" : 19,
+        "item" : "68544"
+      }, {
+        "count" : 18,
+        "item" : "101510"
+      }, {
+        "count" : 17,
+        "item" : "125506"
+      }, {
+        "count" : 16,
+        "item" : "50295"
+      }, {
+        "count" : 15,
+        "item" : "48080"
+      }, {
+        "count" : 14,
+        "item" : "1851"
+      }, {
+        "count" : 13,
+        "item" : "1256"
+      }, {
+        "count" : 12,
+        "item" : "-13183"
+      }, {
+        "count" : 11,
+        "item" : "8369"
+      }, {
+        "count" : 10,
+        "item" : "2185"
+      }, {
+        "count" : 9,
+        "item" : "3224"
+      }, {
+        "count" : 8,
+        "item" : "-6207"
+      }, {
+        "count" : 7,
+        "item" : "-1232"
+      }, {
+        "count" : 6,
+        "item" : "-1141"
+      }, {
+        "count" : 5,
+        "item" : "16325"
+      }, {
+        "count" : 4,
+        "item" : "-29520"
+      }, {
+        "count" : 3,
+        "item" : "9361"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248126,
+    "name" : "Change in Percent - 2000-2010",
+    "dataTypeName" : "percent",
+    "fieldName" : "change_in_percent_2000_2010",
+    "position" : 13,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1625366,
+    "width" : 448,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "-10.4",
+      "sum" : "56.6",
+      "null" : 0,
+      "average" : "3.144444444444444",
+      "largest" : "18.2",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4.9"
+      }, {
+        "count" : 19,
+        "item" : "5.1"
+      }, {
+        "count" : 18,
+        "item" : "4.1"
+      }, {
+        "count" : 17,
+        "item" : "8.2"
+      }, {
+        "count" : 16,
+        "item" : "2.3"
+      }, {
+        "count" : 15,
+        "item" : "10.8"
+      }, {
+        "count" : 14,
+        "item" : "0.1"
+      }, {
+        "count" : 13,
+        "item" : "0.4"
+      }, {
+        "count" : 12,
+        "item" : "-2.8"
+      }, {
+        "count" : 11,
+        "item" : "4.5"
+      }, {
+        "count" : 10,
+        "item" : "0.6"
+      }, {
+        "count" : 9,
+        "item" : "3.9"
+      }, {
+        "count" : 8,
+        "item" : "-0.7"
+      }, {
+        "count" : 7,
+        "item" : "-0.9"
+      }, {
+        "count" : 6,
+        "item" : "-0.4"
+      }, {
+        "count" : 5,
+        "item" : "8.7"
+      }, {
+        "count" : 4,
+        "item" : "-10.4"
+      }, {
+        "count" : 3,
+        "item" : "18.2"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248127,
+    "name" : "Change in Number - 2010-2020 ",
+    "dataTypeName" : "number",
+    "fieldName" : "change_in_number_2010_2020_",
+    "position" : 14,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625367,
+    "width" : 448,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "-49184",
+      "sum" : "730935",
+      "null" : 0,
+      "average" : "40607.5",
+      "largest" : "290351",
+      "top" : [ {
+        "count" : 20,
+        "item" : "290351"
+      }, {
+        "count" : 19,
+        "item" : "19083"
+      }, {
+        "count" : 18,
+        "item" : "61375"
+      }, {
+        "count" : 17,
+        "item" : "66829"
+      }, {
+        "count" : 16,
+        "item" : "117275"
+      }, {
+        "count" : 15,
+        "item" : "25789"
+      }, {
+        "count" : 14,
+        "item" : "-49184"
+      }, {
+        "count" : 13,
+        "item" : "-14906"
+      }, {
+        "count" : 12,
+        "item" : "-21299"
+      }, {
+        "count" : 11,
+        "item" : "-1187"
+      }, {
+        "count" : 10,
+        "item" : "-8587"
+      }, {
+        "count" : 9,
+        "item" : "-3204"
+      }, {
+        "count" : 8,
+        "item" : "124300"
+      }, {
+        "count" : 7,
+        "item" : "6873"
+      }, {
+        "count" : 6,
+        "item" : "41675"
+      }, {
+        "count" : 5,
+        "item" : "31377"
+      }, {
+        "count" : 4,
+        "item" : "28014"
+      }, {
+        "count" : 3,
+        "item" : "16361"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248128,
+    "name" : "Change in Percent - 2010-2020",
+    "dataTypeName" : "percent",
+    "fieldName" : "change_in_percent_2010_2020",
+    "position" : 15,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1625368,
+    "width" : 448,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "-5.1",
+      "sum" : "88.4",
+      "null" : 0,
+      "average" : "4.911111111111111",
+      "largest" : "26.9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3.5"
+      }, {
+        "count" : 19,
+        "item" : "1.4"
+      }, {
+        "count" : 18,
+        "item" : "2.4"
+      }, {
+        "count" : 17,
+        "item" : "4.0"
+      }, {
+        "count" : 16,
+        "item" : "5.1"
+      }, {
+        "count" : 15,
+        "item" : "5.2"
+      }, {
+        "count" : 14,
+        "item" : "-3.5"
+      }, {
+        "count" : 13,
+        "item" : "-5.1"
+      }, {
+        "count" : 12,
+        "item" : "-4.6"
+      }, {
+        "count" : 11,
+        "item" : "-0.6"
+      }, {
+        "count" : 10,
+        "item" : "-2.3"
+      }, {
+        "count" : 9,
+        "item" : "-3.7"
+      }, {
+        "count" : 8,
+        "item" : "13.3"
+      }, {
+        "count" : 7,
+        "item" : "14.8"
+      }, {
+        "count" : 6,
+        "item" : "15.4"
+      }, {
+        "count" : 5,
+        "item" : "11.0"
+      }, {
+        "count" : 4,
+        "item" : "26.9"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248129,
+    "name" : "Change in Number - 2020-2030 ",
+    "dataTypeName" : "number",
+    "fieldName" : "change_in_number_2020_2030_",
+    "position" : 16,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625369,
+    "width" : 448,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "1128",
+      "sum" : "1536783",
+      "null" : 0,
+      "average" : "85376.83333333333",
+      "largest" : "427247",
+      "top" : [ {
+        "count" : 20,
+        "item" : "427247"
+      }, {
+        "count" : 19,
+        "item" : "36762"
+      }, {
+        "count" : 18,
+        "item" : "90756"
+      }, {
+        "count" : 17,
+        "item" : "97017"
+      }, {
+        "count" : 16,
+        "item" : "168403"
+      }, {
+        "count" : 15,
+        "item" : "34309"
+      }, {
+        "count" : 14,
+        "item" : "44720"
+      }, {
+        "count" : 13,
+        "item" : "11361"
+      }, {
+        "count" : 12,
+        "item" : "6856"
+      }, {
+        "count" : 11,
+        "item" : "1128"
+      }, {
+        "count" : 10,
+        "item" : "19254"
+      }, {
+        "count" : 9,
+        "item" : "6120"
+      }, {
+        "count" : 8,
+        "item" : "296425"
+      }, {
+        "count" : 7,
+        "item" : "33064"
+      }, {
+        "count" : 6,
+        "item" : "86577"
+      }, {
+        "count" : 5,
+        "item" : "60441"
+      }, {
+        "count" : 4,
+        "item" : "90532"
+      }, {
+        "count" : 3,
+        "item" : "25811"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248130,
+    "name" : "Change in Percent - 2020-2030",
+    "dataTypeName" : "percent",
+    "fieldName" : "change_in_percent_2020_2030",
+    "position" : 17,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1625370,
+    "width" : 448,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "0.6",
+      "sum" : "222.5",
+      "null" : 0,
+      "average" : "12.36111111111111",
+      "largest" : "33.5",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4.9"
+      }, {
+        "count" : 19,
+        "item" : "2.6"
+      }, {
+        "count" : 18,
+        "item" : "3.5"
+      }, {
+        "count" : 17,
+        "item" : "5.6"
+      }, {
+        "count" : 16,
+        "item" : "7.0"
+      }, {
+        "count" : 15,
+        "item" : "6.6"
+      }, {
+        "count" : 14,
+        "item" : "3.3"
+      }, {
+        "count" : 13,
+        "item" : "4.1"
+      }, {
+        "count" : 12,
+        "item" : "1.5"
+      }, {
+        "count" : 11,
+        "item" : "0.6"
+      }, {
+        "count" : 10,
+        "item" : "5.3"
+      }, {
+        "count" : 9,
+        "item" : "7.4"
+      }, {
+        "count" : 8,
+        "item" : "28.1"
+      }, {
+        "count" : 7,
+        "item" : "23.7"
+      }, {
+        "count" : 6,
+        "item" : "26.8"
+      }, {
+        "count" : 5,
+        "item" : "25.8"
+      }, {
+        "count" : 4,
+        "item" : "32.2"
+      }, {
+        "count" : 3,
+        "item" : "33.5"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248131,
+    "name" : "Change in Number - 2000-2030 ",
+    "dataTypeName" : "number",
+    "fieldName" : "change_in_number_2000_2030_",
+    "position" : 18,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625371,
+    "width" : 448,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "-27626",
+      "sum" : "3046877",
+      "null" : 0,
+      "average" : "169270.9444444444",
+      "largest" : "1111533",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1111533"
+      }, {
+        "count" : 19,
+        "item" : "124389"
+      }, {
+        "count" : 18,
+        "item" : "253641"
+      }, {
+        "count" : 17,
+        "item" : "289352"
+      }, {
+        "count" : 16,
+        "item" : "335973"
+      }, {
+        "count" : 15,
+        "item" : "108178"
+      }, {
+        "count" : 14,
+        "item" : "-2613"
+      }, {
+        "count" : 13,
+        "item" : "-2289"
+      }, {
+        "count" : 12,
+        "item" : "-27626"
+      }, {
+        "count" : 11,
+        "item" : "8311"
+      }, {
+        "count" : 10,
+        "item" : "12852"
+      }, {
+        "count" : 9,
+        "item" : "6140"
+      }, {
+        "count" : 8,
+        "item" : "414518"
+      }, {
+        "count" : 7,
+        "item" : "38705"
+      }, {
+        "count" : 6,
+        "item" : "127111"
+      }, {
+        "count" : 5,
+        "item" : "108143"
+      }, {
+        "count" : 4,
+        "item" : "89026"
+      }, {
+        "count" : 3,
+        "item" : "51533"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248132,
+    "name" : "Change in Percent - 2000-2030",
+    "dataTypeName" : "percent",
+    "fieldName" : "change_in_percent_2000_2030",
+    "position" : 19,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1625372,
+    "width" : 448,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "-5.8",
+      "sum" : "408.0",
+      "null" : 0,
+      "average" : "22.66666666666667",
+      "largest" : "100.2",
+      "top" : [ {
+        "count" : 20,
+        "item" : "13.9"
+      }, {
+        "count" : 19,
+        "item" : "9.3"
+      }, {
+        "count" : 18,
+        "item" : "10.3"
+      }, {
+        "count" : 17,
+        "item" : "18.8"
+      }, {
+        "count" : 16,
+        "item" : "15.1"
+      }, {
+        "count" : 15,
+        "item" : "24.4"
+      }, {
+        "count" : 14,
+        "item" : "-0.2"
+      }, {
+        "count" : 13,
+        "item" : "-0.8"
+      }, {
+        "count" : 12,
+        "item" : "-5.8"
+      }, {
+        "count" : 11,
+        "item" : "4.4"
+      }, {
+        "count" : 10,
+        "item" : "3.5"
+      }, {
+        "count" : 9,
+        "item" : "7.4"
+      }, {
+        "count" : 8,
+        "item" : "44.2"
+      }, {
+        "count" : 7,
+        "item" : "28.9"
+      }, {
+        "count" : 6,
+        "item" : "45.0"
+      }, {
+        "count" : 5,
+        "item" : "57.9"
+      }, {
+        "count" : 4,
+        "item" : "31.5"
+      }, {
+        "count" : 3,
+        "item" : "100.2"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Historical Data"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rnig-m3uj",
+    "displayName" : "Jorge J.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/5083/4460/large-profile_large.png",
+    "profileImageUrlMedium" : "/images/profile/5083/4460/large-profile_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/5083/4460/large-profile_tiny.png",
+    "profileLastModified" : 1322859437,
+    "screenName" : "Jorge J."
+  },
+  "tags" : [ "projected population 2000-2030 - summary", "dcp", "population", "2000", "2030" ],
+  "flags" : [ "default" ]
+}

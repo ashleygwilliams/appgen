@@ -1,0 +1,947 @@
+{
+  "id" : "iwka-w6a8",
+  "name" : "Reservoir and Dam statistics",
+  "attribution" : "Department of Environmental Protection (DEP)",
+  "averageRating" : 0,
+  "createdAt" : 1315855450,
+  "description" : "Statistics pertaining to local reservoir's and dam's",
+  "displayType" : "table",
+  "downloadCount" : 14,
+  "numberOfComments" : 0,
+  "oid" : 332835,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1315855450,
+  "publicationGroup" : 240293,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1315855452,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 240293,
+  "totalTimesRated" : 0,
+  "viewCount" : 50,
+  "viewLastModified" : 1363712841,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2834779,
+    "name" : "Reservior #",
+    "dataTypeName" : "text",
+    "fieldName" : "reservior",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1518244,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 31,
+      "smallest" : "1",
+      "null" : 5,
+      "largest" : "x = Controlled Lakes",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Reservior #"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      }, {
+        "count" : 18,
+        "item" : "2x"
+      }, {
+        "count" : 17,
+        "item" : "3x"
+      }, {
+        "count" : 16,
+        "item" : "4"
+      }, {
+        "count" : 15,
+        "item" : "5"
+      }, {
+        "count" : 14,
+        "item" : "6"
+      }, {
+        "count" : 13,
+        "item" : "7"
+      }, {
+        "count" : 12,
+        "item" : "8"
+      }, {
+        "count" : 11,
+        "item" : "9"
+      }, {
+        "count" : 10,
+        "item" : "10x"
+      }, {
+        "count" : 9,
+        "item" : "11"
+      }, {
+        "count" : 8,
+        "item" : "12x"
+      }, {
+        "count" : 7,
+        "item" : "13"
+      }, {
+        "count" : 6,
+        "item" : "14"
+      }, {
+        "count" : 5,
+        "item" : "15"
+      }, {
+        "count" : 4,
+        "item" : "16"
+      }, {
+        "count" : 3,
+        "item" : "17"
+      }, {
+        "count" : 2,
+        "item" : "x = Controlled Lakes"
+      }, {
+        "count" : 1,
+        "item" : "Catskill System"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834780,
+    "name" : "Name of Reservior",
+    "dataTypeName" : "text",
+    "fieldName" : "name_of_reservior",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1518245,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 26,
+      "smallest" : "Amawalk & Aux.",
+      "null" : 10,
+      "largest" : "West Branch Aux",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Name of Reservior"
+      }, {
+        "count" : 19,
+        "item" : "Boyds Corner"
+      }, {
+        "count" : 18,
+        "item" : "Barretts Pond"
+      }, {
+        "count" : 17,
+        "item" : "Lake Glenieda"
+      }, {
+        "count" : 16,
+        "item" : "West Branch (Main)"
+      }, {
+        "count" : 15,
+        "item" : "West Branch Aux"
+      }, {
+        "count" : 14,
+        "item" : "Middle Branch"
+      }, {
+        "count" : 13,
+        "item" : "Bog Brook -1"
+      }, {
+        "count" : 12,
+        "item" : "Bog Brook -2"
+      }, {
+        "count" : 11,
+        "item" : "East Branch (Sodom)"
+      }, {
+        "count" : 10,
+        "item" : "Croton Falls (Diverting)"
+      }, {
+        "count" : 9,
+        "item" : "Lake Gilead"
+      }, {
+        "count" : 8,
+        "item" : "Croton Falls  "
+      }, {
+        "count" : 7,
+        "item" : "Kirk Lake"
+      }, {
+        "count" : 6,
+        "item" : "Amawalk & Aux."
+      }, {
+        "count" : 5,
+        "item" : "Titicus"
+      }, {
+        "count" : 4,
+        "item" : "Cross River"
+      }, {
+        "count" : 3,
+        "item" : "Muscoot"
+      }, {
+        "count" : 2,
+        "item" : "New Croton"
+      }, {
+        "count" : 1,
+        "item" : "Ashokan"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834781,
+    "name" : "Town",
+    "dataTypeName" : "text",
+    "fieldName" : "town",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1518246,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 26,
+      "smallest" : "Bedford",
+      "null" : 10,
+      "largest" : "Warwarsing, Neersink",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Town"
+      }, {
+        "count" : 19,
+        "item" : "Kent"
+      }, {
+        "count" : 18,
+        "item" : "Carmel"
+      }, {
+        "count" : 17,
+        "item" : "Southeast"
+      }, {
+        "count" : 16,
+        "item" : "Somers"
+      }, {
+        "count" : 15,
+        "item" : "North Salem"
+      }, {
+        "count" : 14,
+        "item" : "Bedford"
+      }, {
+        "count" : 13,
+        "item" : "Somers/Bedford"
+      }, {
+        "count" : 12,
+        "item" : "Cortlandt"
+      }, {
+        "count" : 11,
+        "item" : "Olive Bridge"
+      }, {
+        "count" : 10,
+        "item" : "Gilboa"
+      }, {
+        "count" : 9,
+        "item" : "Neversink"
+      }, {
+        "count" : 8,
+        "item" : "Colchester, Andes & Middletown"
+      }, {
+        "count" : 7,
+        "item" : "Deposit, Tompkins & Walton"
+      }, {
+        "count" : 6,
+        "item" : "Warwarsing, Neersink"
+      }, {
+        "count" : 5,
+        "item" : "Mt. Pleasant, No. Castle"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834782,
+    "name" : "County",
+    "dataTypeName" : "text",
+    "fieldName" : "county",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1518247,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 26,
+      "smallest" : "County",
+      "null" : 10,
+      "largest" : "Westchester",
+      "top" : [ {
+        "count" : 20,
+        "item" : "County"
+      }, {
+        "count" : 19,
+        "item" : "Putnam"
+      }, {
+        "count" : 18,
+        "item" : "Westchester"
+      }, {
+        "count" : 17,
+        "item" : "Ulster"
+      }, {
+        "count" : 16,
+        "item" : "Greene"
+      }, {
+        "count" : 15,
+        "item" : "Sullivan"
+      }, {
+        "count" : 14,
+        "item" : "Delaware"
+      }, {
+        "count" : 13,
+        "item" : "Ulster & Sullivan"
+      }, {
+        "count" : 12,
+        "item" : "Weschester"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834783,
+    "name" : "Drainage Area (sq. miles)",
+    "dataTypeName" : "number",
+    "fieldName" : "drainage_area_sq_miles",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518248,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 23,
+      "smallest" : "0.57",
+      "sum" : "2737.63",
+      "null" : 13,
+      "average" : "119.0273913043478",
+      "largest" : "450",
+      "top" : [ {
+        "count" : 20,
+        "item" : "23.46"
+      }, {
+        "count" : 19,
+        "item" : "0.57"
+      }, {
+        "count" : 18,
+        "item" : "0.68"
+      }, {
+        "count" : 17,
+        "item" : "42.82"
+      }, {
+        "count" : 16,
+        "item" : "21.31"
+      }, {
+        "count" : 15,
+        "item" : "3.67"
+      }, {
+        "count" : 14,
+        "item" : "80.28"
+      }, {
+        "count" : 13,
+        "item" : "87.58"
+      }, {
+        "count" : 12,
+        "item" : "0.62"
+      }, {
+        "count" : 11,
+        "item" : "168.64"
+      }, {
+        "count" : 10,
+        "item" : "2.84"
+      }, {
+        "count" : 9,
+        "item" : "19.13"
+      }, {
+        "count" : 8,
+        "item" : "23.35"
+      }, {
+        "count" : 7,
+        "item" : "29.8"
+      }, {
+        "count" : 6,
+        "item" : "315.73"
+      }, {
+        "count" : 5,
+        "item" : "375"
+      }, {
+        "count" : 4,
+        "item" : "257"
+      }, {
+        "count" : 3,
+        "item" : "314"
+      }, {
+        "count" : 2,
+        "item" : "93"
+      }, {
+        "count" : 1,
+        "item" : "372"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834784,
+    "name" : "Date Put in Service",
+    "dataTypeName" : "number",
+    "fieldName" : "date_put_in_service",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518249,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 24,
+      "smallest" : "1870",
+      "sum" : "45815",
+      "null" : 12,
+      "average" : "1908.958333333333",
+      "largest" : "1985",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1873"
+      }, {
+        "count" : 19,
+        "item" : "1870"
+      }, {
+        "count" : 18,
+        "item" : "1895"
+      }, {
+        "count" : 17,
+        "item" : "1985"
+      }, {
+        "count" : 16,
+        "item" : "1878"
+      }, {
+        "count" : 15,
+        "item" : "1892"
+      }, {
+        "count" : 14,
+        "item" : "1891"
+      }, {
+        "count" : 13,
+        "item" : "1911"
+      }, {
+        "count" : 12,
+        "item" : "1897"
+      }, {
+        "count" : 11,
+        "item" : "1893"
+      }, {
+        "count" : 10,
+        "item" : "1908"
+      }, {
+        "count" : 9,
+        "item" : "1905"
+      }, {
+        "count" : 8,
+        "item" : "1915"
+      }, {
+        "count" : 7,
+        "item" : "1926"
+      }, {
+        "count" : 6,
+        "item" : "1953"
+      }, {
+        "count" : 5,
+        "item" : "1954"
+      }, {
+        "count" : 4,
+        "item" : "1967"
+      }, {
+        "count" : 3,
+        "item" : "1951"
+      }, {
+        "count" : 2,
+        "item" : "1925"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834785,
+    "name" : "Kind of Dam",
+    "dataTypeName" : "text",
+    "fieldName" : "kind_of_dam",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1518250,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 26,
+      "smallest" : "Cyclopean Masonry",
+      "null" : 10,
+      "largest" : "Masonry, Earth Wings w/Masonry Core",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Kind of Dam"
+      }, {
+        "count" : 19,
+        "item" : "Masonry, Earth Wings"
+      }, {
+        "count" : 18,
+        "item" : "Earth"
+      }, {
+        "count" : 17,
+        "item" : "Earth, Masonry Core & Spilway"
+      }, {
+        "count" : 16,
+        "item" : "Earth, Masonry Core & (Auxillary Dam)"
+      }, {
+        "count" : 15,
+        "item" : "Earth, Masonry Core"
+      }, {
+        "count" : 14,
+        "item" : "Earth, Concrete Core & Spillway"
+      }, {
+        "count" : 13,
+        "item" : "Earth "
+      }, {
+        "count" : 12,
+        "item" : "Cyclopean Masonry"
+      }, {
+        "count" : 11,
+        "item" : "Earth  "
+      }, {
+        "count" : 10,
+        "item" : "Masonry, Earth Wings w/Masonry Core"
+      }, {
+        "count" : 9,
+        "item" : "Cyclopean Masonry, Concrete Faces"
+      }, {
+        "count" : 8,
+        "item" : "Masonry"
+      }, {
+        "count" : 7,
+        "item" : "Earth, Concrete Core"
+      }, {
+        "count" : 6,
+        "item" : "Earth, Rolled Fill"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834786,
+    "name" : "Sq. MI. (Area of Water Surface at Spilway Elevation)  ",
+    "dataTypeName" : "number",
+    "fieldName" : "sq_mi_area_of_water_surface_at_spilway_elevation",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518251,
+    "width" : 700,
+    "cachedContents" : {
+      "non_null" : 28,
+      "smallest" : "0.108",
+      "sum" : "109.612",
+      "null" : 8,
+      "average" : "3.914714285714286",
+      "largest" : "21.95",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.464"
+      }, {
+        "count" : 19,
+        "item" : "0.108"
+      }, {
+        "count" : 18,
+        "item" : "0.264"
+      }, {
+        "count" : 17,
+        "item" : "1.692"
+      }, {
+        "count" : 16,
+        "item" : "0.17"
+      }, {
+        "count" : 15,
+        "item" : "0.669"
+      }, {
+        "count" : 14,
+        "item" : "0.64"
+      }, {
+        "count" : 13,
+        "item" : "0.898"
+      }, {
+        "count" : 12,
+        "item" : "0.24"
+      }, {
+        "count" : 11,
+        "item" : "0.191"
+      }, {
+        "count" : 10,
+        "item" : "1.66"
+      }, {
+        "count" : 9,
+        "item" : "0.158"
+      }, {
+        "count" : 8,
+        "item" : "0.947"
+      }, {
+        "count" : 7,
+        "item" : "1.046"
+      }, {
+        "count" : 6,
+        "item" : "1.202"
+      }, {
+        "count" : 5,
+        "item" : "1.822"
+      }, {
+        "count" : 4,
+        "item" : "3.53"
+      }, {
+        "count" : 3,
+        "item" : "16.341"
+      }, {
+        "count" : 2,
+        "item" : "12.99"
+      }, {
+        "count" : 1,
+        "item" : "1.79"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834787,
+    "name" : "Acres (Area of Water Surface at Spilway Elevation) ",
+    "dataTypeName" : "number",
+    "fieldName" : "acres_area_of_water_surface_at_spilway_elevation",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518252,
+    "width" : 700,
+    "cachedContents" : {
+      "non_null" : 28,
+      "smallest" : "69.1",
+      "sum" : "70075.3",
+      "null" : 8,
+      "average" : "2502.689285714286",
+      "largest" : "14050",
+      "top" : [ {
+        "count" : 20,
+        "item" : "296.9"
+      }, {
+        "count" : 19,
+        "item" : "69.1"
+      }, {
+        "count" : 18,
+        "item" : "168.9"
+      }, {
+        "count" : 17,
+        "item" : "1082.8"
+      }, {
+        "count" : 16,
+        "item" : "108.3"
+      }, {
+        "count" : 15,
+        "item" : "428.2"
+      }, {
+        "count" : 14,
+        "item" : "399"
+      }, {
+        "count" : 13,
+        "item" : "556.8"
+      }, {
+        "count" : 12,
+        "item" : "153.6"
+      }, {
+        "count" : 11,
+        "item" : "122.2"
+      }, {
+        "count" : 10,
+        "item" : "1062.4"
+      }, {
+        "count" : 9,
+        "item" : "101.1"
+      }, {
+        "count" : 8,
+        "item" : "606.1"
+      }, {
+        "count" : 7,
+        "item" : "669.4"
+      }, {
+        "count" : 6,
+        "item" : "769.2"
+      }, {
+        "count" : 5,
+        "item" : "1166.1"
+      }, {
+        "count" : 4,
+        "item" : "2259.2"
+      }, {
+        "count" : 3,
+        "item" : "10418.3"
+      }, {
+        "count" : 2,
+        "item" : "8315.2"
+      }, {
+        "count" : 1,
+        "item" : "1145"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834788,
+    "name" : "Length of Shoreline (Miles)",
+    "dataTypeName" : "number",
+    "fieldName" : "length_of_shoreline_miles",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518253,
+    "width" : 424,
+    "cachedContents" : {
+      "non_null" : 28,
+      "smallest" : "1.4",
+      "sum" : "811.64",
+      "null" : 8,
+      "average" : "28.98714285714286",
+      "largest" : "193.62",
+      "top" : [ {
+        "count" : 20,
+        "item" : "6.2"
+      }, {
+        "count" : 19,
+        "item" : "1.4"
+      }, {
+        "count" : 18,
+        "item" : "2.2"
+      }, {
+        "count" : 17,
+        "item" : "15.6"
+      }, {
+        "count" : 16,
+        "item" : "11.2"
+      }, {
+        "count" : 15,
+        "item" : "6.82"
+      }, {
+        "count" : 14,
+        "item" : "4.9"
+      }, {
+        "count" : 13,
+        "item" : "10.5"
+      }, {
+        "count" : 12,
+        "item" : "4.2"
+      }, {
+        "count" : 11,
+        "item" : "2.1"
+      }, {
+        "count" : 10,
+        "item" : "18"
+      }, {
+        "count" : 9,
+        "item" : "3.1"
+      }, {
+        "count" : 8,
+        "item" : "8.5"
+      }, {
+        "count" : 7,
+        "item" : "8.1"
+      }, {
+        "count" : 6,
+        "item" : "12.9"
+      }, {
+        "count" : 5,
+        "item" : "35"
+      }, {
+        "count" : 4,
+        "item" : "38"
+      }, {
+        "count" : 3,
+        "item" : "193.62"
+      }, {
+        "count" : 2,
+        "item" : "40.2"
+      }, {
+        "count" : 1,
+        "item" : "16.5"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834789,
+    "name" : "Elevation of Spillway M.S.L. Sandy Hook (Feet)",
+    "dataTypeName" : "number",
+    "fieldName" : "elevation_of_spillway_m_s_l_sandy_hook_feet",
+    "position" : 12,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518254,
+    "width" : 652,
+    "cachedContents" : {
+      "non_null" : 24,
+      "smallest" : "196",
+      "sum" : "14407.75",
+      "null" : 12,
+      "average" : "600.3229166666667",
+      "largest" : "1440",
+      "top" : [ {
+        "count" : 20,
+        "item" : "580.05"
+      }, {
+        "count" : 19,
+        "item" : "776.55"
+      }, {
+        "count" : 18,
+        "item" : "504.55"
+      }, {
+        "count" : 17,
+        "item" : "503.2"
+      }, {
+        "count" : 16,
+        "item" : "371.55"
+      }, {
+        "count" : 15,
+        "item" : "416.55"
+      }, {
+        "count" : 14,
+        "item" : "309.55"
+      }, {
+        "count" : 13,
+        "item" : "496.55"
+      }, {
+        "count" : 12,
+        "item" : "309.4"
+      }, {
+        "count" : 11,
+        "item" : "502.55"
+      }, {
+        "count" : 10,
+        "item" : "399.55"
+      }, {
+        "count" : 9,
+        "item" : "324.5"
+      }, {
+        "count" : 8,
+        "item" : "329.55"
+      }, {
+        "count" : 7,
+        "item" : "199.55"
+      }, {
+        "count" : 6,
+        "item" : "196"
+      }, {
+        "count" : 5,
+        "item" : "1130"
+      }, {
+        "count" : 4,
+        "item" : "1440"
+      }, {
+        "count" : 3,
+        "item" : "1280"
+      }, {
+        "count" : 2,
+        "item" : "1150"
+      }, {
+        "count" : 1,
+        "item" : "1158"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834790,
+    "name" : "Normal Pool Elevation (ft)",
+    "dataTypeName" : "number",
+    "fieldName" : "normal_pool_elevation_ft",
+    "position" : 13,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518255,
+    "width" : 412,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "195.6",
+      "sum" : "7214.6",
+      "null" : 18,
+      "average" : "400.8111111111111",
+      "largest" : "586.4",
+      "top" : [ {
+        "count" : 20,
+        "item" : "580"
+      }, {
+        "count" : 19,
+        "item" : "504.6"
+      }, {
+        "count" : 18,
+        "item" : "502.6"
+      }, {
+        "count" : 17,
+        "item" : "370"
+      }, {
+        "count" : 16,
+        "item" : "416.1"
+      }, {
+        "count" : 15,
+        "item" : "416.5"
+      }, {
+        "count" : 14,
+        "item" : "308.9"
+      }, {
+        "count" : 13,
+        "item" : "496.6"
+      }, {
+        "count" : 12,
+        "item" : "309.6"
+      }, {
+        "count" : 11,
+        "item" : "586.4"
+      }, {
+        "count" : 10,
+        "item" : "399.5"
+      }, {
+        "count" : 9,
+        "item" : "324.1"
+      }, {
+        "count" : 8,
+        "item" : "329.1"
+      }, {
+        "count" : 7,
+        "item" : "199.3"
+      }, {
+        "count" : 6,
+        "item" : "195.6"
+      }, {
+        "count" : 5,
+        "item" : "357"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "department of environmental protection", "dep", "environment", "water", "reservoir", "health", "ecosystem", "eco-system", "agua", "water system", "water supply", "nyc", "tap", "tap water", "conservation", "watershed", "dam", "coverage", "healthy living" ],
+  "flags" : [ "default" ]
+}

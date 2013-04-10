@@ -1,0 +1,214 @@
+{
+  "id" : "mgjt-zuui",
+  "name" : "Damage By Sandy By Age Of Building",
+  "attribution" : "Department of City Planning (DCP)",
+  "attributionLink" : "http://www.nyc.gov/html/dcp/pdf/climate_resilience/presentation_sandy.pdf",
+  "averageRating" : 0,
+  "category" : "Construction and Housing",
+  "createdAt" : 1360784263,
+  "description" : "Details about how the age and code of the building correlates to destruction due to Storm Sandy",
+  "displayType" : "table",
+  "downloadCount" : 3,
+  "numberOfComments" : 0,
+  "oid" : 2514591,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1360784496,
+  "publicationGroup" : 675532,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1360784470,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 675538,
+  "totalTimesRated" : 0,
+  "viewCount" : 70,
+  "viewLastModified" : 1360784505,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 44610146,
+    "name" : "Year Built",
+    "dataTypeName" : "text",
+    "fieldName" : "year_built",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7826073,
+    "width" : 103,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "1983-2001",
+      "null" : 0,
+      "largest" : "No Data",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Before 1983"
+      }, {
+        "count" : 19,
+        "item" : "1983-2001"
+      }, {
+        "count" : 18,
+        "item" : "2002 or later"
+      }, {
+        "count" : 17,
+        "item" : "No Data"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44610147,
+    "name" : "Inundation area",
+    "dataTypeName" : "text",
+    "fieldName" : "inundation_area",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7826074,
+    "width" : 139,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "2%",
+      "null" : 0,
+      "largest" : "9%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "84%"
+      }, {
+        "count" : 19,
+        "item" : "9%"
+      }, {
+        "count" : 18,
+        "item" : "5%"
+      }, {
+        "count" : 17,
+        "item" : "2%"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44610148,
+    "name" : "Destroyed by Storm",
+    "dataTypeName" : "text",
+    "fieldName" : "destroyed_by_storm",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7826075,
+    "width" : 165,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "< 1%",
+      "null" : 0,
+      "largest" : "98%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "98%"
+      }, {
+        "count" : 19,
+        "item" : "< 1%"
+      }, {
+        "count" : 18,
+        "item" : "2%"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44610149,
+    "name" : "Red tags",
+    "dataTypeName" : "text",
+    "fieldName" : "red_tags",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7826076,
+    "width" : 115,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "1%",
+      "null" : 0,
+      "largest" : "94%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "94%"
+      }, {
+        "count" : 19,
+        "item" : "4%"
+      }, {
+        "count" : 18,
+        "item" : "1%"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44610150,
+    "name" : "Yellow Tags",
+    "dataTypeName" : "text",
+    "fieldName" : "yellow_tags",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7826077,
+    "width" : 118,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "1%",
+      "null" : 0,
+      "largest" : "9%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "67%"
+      }, {
+        "count" : 19,
+        "item" : "23%"
+      }, {
+        "count" : 18,
+        "item" : "9%"
+      }, {
+        "count" : 17,
+        "item" : "1%"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Historical Data"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dcp", "city", "planning", "hurricane", "sandy", "damage" ],
+  "flags" : [ "default" ]
+}

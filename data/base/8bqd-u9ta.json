@@ -1,0 +1,327 @@
+{
+  "id" : "8bqd-u9ta",
+  "name" : "Paratransit Drivers",
+  "attribution" : "Taxi and Limousine Commission (TLC)",
+  "averageRating" : 0,
+  "createdAt" : 1314641973,
+  "description" : "Lists all TLC paratransit drivers",
+  "displayType" : "table",
+  "downloadCount" : 156,
+  "numberOfComments" : 0,
+  "oid" : 343374,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318347046,
+  "publicationGroup" : 239885,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1318347003,
+  "rowsUpdatedBy" : "rnig-m3uj",
+  "signed" : false,
+  "tableId" : 244731,
+  "totalTimesRated" : 0,
+  "viewCount" : 52,
+  "viewLastModified" : 1318347047,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3007444,
+    "name" : "License Number",
+    "dataTypeName" : "number",
+    "fieldName" : "license_number",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1513057,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 3370,
+      "smallest" : "902032",
+      "sum" : "17056930229",
+      "null" : 0,
+      "average" : "5061403.628783383",
+      "largest" : "5408987",
+      "top" : [ {
+        "count" : 1,
+        "item" : "5370074"
+      }, {
+        "count" : 1,
+        "item" : "5078022"
+      }, {
+        "count" : 1,
+        "item" : "5392608"
+      }, {
+        "count" : 1,
+        "item" : "5373868"
+      }, {
+        "count" : 1,
+        "item" : "5312772"
+      }, {
+        "count" : 1,
+        "item" : "5326383"
+      }, {
+        "count" : 1,
+        "item" : "5344369"
+      }, {
+        "count" : 1,
+        "item" : "5314045"
+      }, {
+        "count" : 1,
+        "item" : "5350394"
+      }, {
+        "count" : 1,
+        "item" : "5311028"
+      }, {
+        "count" : 1,
+        "item" : "5397734"
+      }, {
+        "count" : 1,
+        "item" : "5348341"
+      }, {
+        "count" : 1,
+        "item" : "5302243"
+      }, {
+        "count" : 1,
+        "item" : "5401204"
+      }, {
+        "count" : 1,
+        "item" : "5395010"
+      }, {
+        "count" : 1,
+        "item" : "5386888"
+      }, {
+        "count" : 1,
+        "item" : "5407161"
+      }, {
+        "count" : 1,
+        "item" : "5228227"
+      }, {
+        "count" : 1,
+        "item" : "5258906"
+      }, {
+        "count" : 1,
+        "item" : "5163335"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "precision" : "0",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 3007445,
+    "name" : "Name of Licensee",
+    "dataTypeName" : "text",
+    "fieldName" : "name_of_licensee",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513058,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 3370,
+      "smallest" : "AARON,LEONARDO",
+      "null" : 0,
+      "largest" : "ZYSKIN,LEONID",
+      "top" : [ {
+        "count" : 2,
+        "item" : "DAVYDOV,YURIY,S"
+      }, {
+        "count" : 2,
+        "item" : "MORALES,EDWIN"
+      }, {
+        "count" : 2,
+        "item" : "DAVIDOV,YURIY"
+      }, {
+        "count" : 2,
+        "item" : "SANTANA,DOMINGO"
+      }, {
+        "count" : 2,
+        "item" : "POLISHCHUK,ARKADIY"
+      }, {
+        "count" : 2,
+        "item" : "YUSUPOV,DAVID"
+      }, {
+        "count" : 2,
+        "item" : "ABDURAKHMANOV,ROMAN"
+      }, {
+        "count" : 2,
+        "item" : "VORONIN,ALEKSANDR,V"
+      }, {
+        "count" : 1,
+        "item" : "BURD,ROMAN"
+      }, {
+        "count" : 1,
+        "item" : "TSITSIASHVILI,RAFAEL"
+      }, {
+        "count" : 1,
+        "item" : "BENTON,BRANDON,A"
+      }, {
+        "count" : 1,
+        "item" : "SANTIAGO,RALPH,J,JR"
+      }, {
+        "count" : 1,
+        "item" : "GONZALEZ,RAYMOND,L"
+      }, {
+        "count" : 1,
+        "item" : "KHOLBOEV,DILMUROD"
+      }, {
+        "count" : 1,
+        "item" : "YITZHAKOV,AVRAHAM"
+      }, {
+        "count" : 1,
+        "item" : "GOLDINSTYN,MICHAEL"
+      }, {
+        "count" : 1,
+        "item" : "EYBATOV,ELKHAN"
+      }, {
+        "count" : 1,
+        "item" : "PARKER,GERALDINE"
+      }, {
+        "count" : 1,
+        "item" : "MCCRAY,KEITH,T"
+      }, {
+        "count" : 1,
+        "item" : "ORTIZ,RAMON"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3007446,
+    "name" : "License Type",
+    "dataTypeName" : "text",
+    "fieldName" : "license_type",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513059,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 3370,
+      "smallest" : "Paratransit Driver",
+      "null" : 0,
+      "largest" : "Paratransit Driver",
+      "top" : [ {
+        "count" : 3370,
+        "item" : "Paratransit Driver"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3007448,
+    "name" : "License Expiration Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "license_expiration_date",
+    "position" : 5,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 1513060,
+    "width" : 376,
+    "cachedContents" : {
+      "non_null" : 3370,
+      "smallest" : "2011-08-27T00:00:00",
+      "null" : 0,
+      "largest" : "2013-11-25T00:00:00",
+      "top" : [ {
+        "count" : 26,
+        "item" : "2012-09-29T00:00:00"
+      }, {
+        "count" : 21,
+        "item" : "2011-11-13T00:00:00"
+      }, {
+        "count" : 20,
+        "item" : "2012-07-28T00:00:00"
+      }, {
+        "count" : 19,
+        "item" : "2013-08-12T00:00:00"
+      }, {
+        "count" : 19,
+        "item" : "2012-12-03T00:00:00"
+      }, {
+        "count" : 19,
+        "item" : "2013-08-17T00:00:00"
+      }, {
+        "count" : 17,
+        "item" : "2013-02-20T00:00:00"
+      }, {
+        "count" : 16,
+        "item" : "2013-02-28T00:00:00"
+      }, {
+        "count" : 16,
+        "item" : "2012-12-08T00:00:00"
+      }, {
+        "count" : 15,
+        "item" : "2012-03-24T00:00:00"
+      }, {
+        "count" : 15,
+        "item" : "2013-03-02T00:00:00"
+      }, {
+        "count" : 14,
+        "item" : "2013-08-29T00:00:00"
+      }, {
+        "count" : 14,
+        "item" : "2012-08-06T00:00:00"
+      }, {
+        "count" : 14,
+        "item" : "2013-08-02T00:00:00"
+      }, {
+        "count" : 14,
+        "item" : "2012-02-12T00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2012-09-27T00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2013-08-01T00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2011-11-06T00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2013-03-24T00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2012-12-09T00:00:00"
+      } ]
+    },
+    "format" : {
+      "align" : "left",
+      "view" : "date_monthdy"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "transportation", "taxi", "limousine", "vehicle", "paratransit", "transit", "van", "travel", "drive", "driver" ],
+  "flags" : [ "default" ]
+}

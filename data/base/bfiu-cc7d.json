@@ -1,0 +1,264 @@
+{
+  "id" : "bfiu-cc7d",
+  "name" : "Distribution of Abuse of Authority Allegations",
+  "attribution" : "Civilian Complaint Review Board (CCRB)",
+  "attributionLink" : "http://www.nyc.gov/html/ccrb/pdf/ccrbappendices2011.pdf",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1361914941,
+  "description" : "This table represents the distribution of abuse of authority allegations",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2645095,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361915176,
+  "publicationGroup" : 701669,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1361914944,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 701669,
+  "totalTimesRated" : 0,
+  "viewCount" : 13,
+  "viewLastModified" : 1361915253,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 47169540,
+    "name" : "Year",
+    "dataTypeName" : "number",
+    "fieldName" : "year",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8188114,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 75,
+      "smallest" : "2009",
+      "sum" : "150750",
+      "null" : 0,
+      "average" : "2010",
+      "largest" : "2011",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2009"
+      }, {
+        "count" : 19,
+        "item" : "2010"
+      }, {
+        "count" : 18,
+        "item" : "2011"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "center",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 47169541,
+    "name" : "Abuse Type",
+    "dataTypeName" : "text",
+    "fieldName" : "abuse_type",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8188115,
+    "width" : 222,
+    "cachedContents" : {
+      "non_null" : 75,
+      "smallest" : "Failure to show search warrant",
+      "null" : 0,
+      "largest" : "Vehicle stop",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Failure to show search warrant"
+      }, {
+        "count" : 19,
+        "item" : "Frisk"
+      }, {
+        "count" : 18,
+        "item" : "Gun drawn"
+      }, {
+        "count" : 17,
+        "item" : "Improper dissemination of medical info"
+      }, {
+        "count" : 16,
+        "item" : "Premises entered and/or searched"
+      }, {
+        "count" : 15,
+        "item" : "Property damaged"
+      }, {
+        "count" : 14,
+        "item" : "Question"
+      }, {
+        "count" : 13,
+        "item" : "Refusal to obtain medical treatment"
+      }, {
+        "count" : 12,
+        "item" : "Refusal to process civilian complaint"
+      }, {
+        "count" : 11,
+        "item" : "Refusal to provide name/shield number"
+      }, {
+        "count" : 10,
+        "item" : "Retaliatory arrest"
+      }, {
+        "count" : 9,
+        "item" : "Retaliatory summons"
+      }, {
+        "count" : 8,
+        "item" : "Search"
+      }, {
+        "count" : 7,
+        "item" : "Seizure of property"
+      }, {
+        "count" : 6,
+        "item" : "Stop"
+      }, {
+        "count" : 5,
+        "item" : "Strip-search"
+      }, {
+        "count" : 4,
+        "item" : "Threat of arrest"
+      }, {
+        "count" : 3,
+        "item" : "Threat of force"
+      }, {
+        "count" : 2,
+        "item" : "Threat of summons"
+      }, {
+        "count" : 1,
+        "item" : "Threat to damage/seize property"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47169542,
+    "name" : "Abuse Count",
+    "dataTypeName" : "number",
+    "fieldName" : "abuse_count",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8188116,
+    "width" : 70,
+    "cachedContents" : {
+      "non_null" : 75,
+      "smallest" : "0",
+      "sum" : "27959",
+      "null" : 0,
+      "average" : "372.7866666666667",
+      "largest" : "1857",
+      "top" : [ {
+        "count" : 20,
+        "item" : "155"
+      }, {
+        "count" : 19,
+        "item" : "49"
+      }, {
+        "count" : 18,
+        "item" : "0"
+      }, {
+        "count" : 17,
+        "item" : "61"
+      }, {
+        "count" : 16,
+        "item" : "55"
+      }, {
+        "count" : 15,
+        "item" : "480"
+      }, {
+        "count" : 14,
+        "item" : "342"
+      }, {
+        "count" : 13,
+        "item" : "41"
+      }, {
+        "count" : 12,
+        "item" : "68"
+      }, {
+        "count" : 11,
+        "item" : "763"
+      }, {
+        "count" : 10,
+        "item" : "140"
+      }, {
+        "count" : 9,
+        "item" : "1"
+      }, {
+        "count" : 8,
+        "item" : "823"
+      }, {
+        "count" : 7,
+        "item" : "172"
+      }, {
+        "count" : 6,
+        "item" : "185"
+      }, {
+        "count" : 5,
+        "item" : "169"
+      }, {
+        "count" : 4,
+        "item" : "105"
+      }, {
+        "count" : 3,
+        "item" : "810"
+      }, {
+        "count" : 2,
+        "item" : "15"
+      }, {
+        "count" : 1,
+        "item" : "37"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "ccrb", "assignment", "abuse", "substantiated", "allegations" ],
+  "flags" : [ "default" ]
+}

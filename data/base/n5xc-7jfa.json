@@ -1,0 +1,469 @@
+{
+  "id" : "n5xc-7jfa",
+  "name" : "NYC Fire Department Building Vacate List",
+  "attribution" : "Fire Department of New York City (FDNY)",
+  "attributionLink" : "http://www.nyc.gov/html/fdny/pdf/fire_prevention/vacate_status_list.pdf",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1359664299,
+  "description" : "List of Buildings declared unsafe and off-limits",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2430340,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1360005731,
+  "publicationGroup" : 648904,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1360005561,
+  "rowsUpdatedBy" : "syvn-4vgv",
+  "signed" : false,
+  "tableId" : 656971,
+  "totalTimesRated" : 0,
+  "viewCount" : 51,
+  "viewLastModified" : 1360620362,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 42942084,
+    "name" : "vac_date",
+    "dataTypeName" : "text",
+    "fieldName" : "vac_date",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7441266,
+    "width" : 74,
+    "cachedContents" : {
+      "non_null" : 93,
+      "smallest" : "01/04/2011",
+      "null" : 0,
+      "largest" : "12/19/2011",
+      "top" : [ {
+        "count" : 20,
+        "item" : "05/17/2011"
+      }, {
+        "count" : 19,
+        "item" : "12/15/2011"
+      }, {
+        "count" : 18,
+        "item" : "01/04/2012"
+      }, {
+        "count" : 17,
+        "item" : "03/30/2012"
+      }, {
+        "count" : 16,
+        "item" : "04/13/2012"
+      }, {
+        "count" : 15,
+        "item" : "06/06/2012"
+      }, {
+        "count" : 14,
+        "item" : "07/02/2012"
+      }, {
+        "count" : 13,
+        "item" : "10/04/2012"
+      }, {
+        "count" : 12,
+        "item" : "10/17/2012"
+      }, {
+        "count" : 11,
+        "item" : "10/31/2012"
+      }, {
+        "count" : 10,
+        "item" : "11/07/2012"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42942085,
+    "name" : "num",
+    "dataTypeName" : "text",
+    "fieldName" : "num",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7441267,
+    "width" : 52,
+    "cachedContents" : {
+      "non_null" : 93,
+      "smallest" : "1039",
+      "null" : 0,
+      "largest" : "993",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1233"
+      }, {
+        "count" : 19,
+        "item" : "309"
+      }, {
+        "count" : 18,
+        "item" : "1655"
+      }, {
+        "count" : 17,
+        "item" : "64"
+      }, {
+        "count" : 16,
+        "item" : "930"
+      }, {
+        "count" : 15,
+        "item" : "921"
+      }, {
+        "count" : 14,
+        "item" : "899"
+      }, {
+        "count" : 13,
+        "item" : "20"
+      }, {
+        "count" : 12,
+        "item" : "346"
+      }, {
+        "count" : 11,
+        "item" : "1102"
+      }, {
+        "count" : 10,
+        "item" : "61-11"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42942086,
+    "name" : "pf",
+    "dataTypeName" : "text",
+    "fieldName" : "pf",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7441268,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "A",
+      "null" : 80,
+      "largest" : "W",
+      "top" : [ {
+        "count" : 20,
+        "item" : "E"
+      }, {
+        "count" : 19,
+        "item" : "W"
+      }, {
+        "count" : 18,
+        "item" : "A"
+      }, {
+        "count" : 17,
+        "item" : "N"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42942093,
+    "name" : "street",
+    "dataTypeName" : "text",
+    "fieldName" : "location_1",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7441275,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 93,
+      "smallest" : "105",
+      "null" : 0,
+      "largest" : "WILLOUGHBY",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BOYNTON"
+      }, {
+        "count" : 19,
+        "item" : "FOREST"
+      }, {
+        "count" : 18,
+        "item" : "MORRIS"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "FLUSHING"
+      }, {
+        "count" : 15,
+        "item" : "MONTGOMERY"
+      }, {
+        "count" : 14,
+        "item" : "173"
+      }, {
+        "count" : 13,
+        "item" : "STRATFORD"
+      }, {
+        "count" : 12,
+        "item" : "159"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42942087,
+    "name" : "typ",
+    "dataTypeName" : "text",
+    "fieldName" : "typ",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7441269,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 91,
+      "smallest" : "AVE",
+      "null" : 2,
+      "largest" : "STR",
+      "top" : [ {
+        "count" : 20,
+        "item" : "AVE"
+      }, {
+        "count" : 19,
+        "item" : "ST"
+      }, {
+        "count" : 18,
+        "item" : "STR"
+      }, {
+        "count" : 17,
+        "item" : "PLA"
+      }, {
+        "count" : 16,
+        "item" : "RD"
+      }, {
+        "count" : 15,
+        "item" : "PL"
+      }, {
+        "count" : 14,
+        "item" : "BLV"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42942088,
+    "name" : "sf",
+    "dataTypeName" : "text",
+    "fieldName" : "sf",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7441270,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 93
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42942089,
+    "name" : "bor",
+    "dataTypeName" : "text",
+    "fieldName" : "bor",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7441271,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 93,
+      "smallest" : "BR",
+      "null" : 0,
+      "largest" : "QU",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BX"
+      }, {
+        "count" : 19,
+        "item" : "BR"
+      }, {
+        "count" : 18,
+        "item" : "QU"
+      }, {
+        "count" : 17,
+        "item" : "MA"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42942090,
+    "name" : "date_of_lif",
+    "dataTypeName" : "text",
+    "fieldName" : "date_of_lif",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7441272,
+    "width" : 81,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 93
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42942091,
+    "name" : "area_vac",
+    "dataTypeName" : "text",
+    "fieldName" : "area_vac",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7441273,
+    "width" : 202,
+    "cachedContents" : {
+      "non_null" : 93,
+      "smallest" : "1A, 1B, 2A, 2B, 2D (1=BSMT)",
+      "null" : 0,
+      "largest" : "TOP FLOOR FRONT",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BASEMENT"
+      }, {
+        "count" : 19,
+        "item" : "ENTIRE BUILDING"
+      }, {
+        "count" : 18,
+        "item" : "CELLAR"
+      }, {
+        "count" : 17,
+        "item" : "BASEMENT & 2ND FLOOR"
+      }, {
+        "count" : 16,
+        "item" : "ALL FLOORS"
+      }, {
+        "count" : 15,
+        "item" : "1ST FLOOR AND CELLAR"
+      }, {
+        "count" : 14,
+        "item" : "2ND FLOOR"
+      }, {
+        "count" : 13,
+        "item" : "3RD FLOOR 4 ROOMS"
+      }, {
+        "count" : 12,
+        "item" : "3RD FLOOR FRONT AND REAR"
+      }, {
+        "count" : 11,
+        "item" : "BASEMENT (RIGHT REAR APT)"
+      }, {
+        "count" : 10,
+        "item" : "2ND FLOOR MIDDLE ROOM"
+      }, {
+        "count" : 9,
+        "item" : "2ND FLOOR 2 ROOMS"
+      }, {
+        "count" : 8,
+        "item" : "2ND & 3RD FLOOR FRONT AND"
+      }, {
+        "count" : 7,
+        "item" : "1ST 2ND 3RD FLOOR REAR"
+      }, {
+        "count" : 6,
+        "item" : "2ND FLOOR (REST. SUPPLY"
+      }, {
+        "count" : 5,
+        "item" : "BASEMENT - 5 ROOMS"
+      }, {
+        "count" : 4,
+        "item" : "3RD FLOOR & 4TH FLOOR"
+      }, {
+        "count" : 3,
+        "item" : "BASEMENT 3 ROOMS"
+      }, {
+        "count" : 2,
+        "item" : "2ND FLOOR - 8 ROOMS"
+      }, {
+        "count" : 1,
+        "item" : "BASEMENT, 2ND AND 3RD"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42942092,
+    "name" : "div",
+    "dataTypeName" : "text",
+    "fieldName" : "div",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7441274,
+    "width" : 54,
+    "cachedContents" : {
+      "non_null" : 93,
+      "smallest" : "1",
+      "null" : 0,
+      "largest" : "8",
+      "top" : [ {
+        "count" : 20,
+        "item" : "6"
+      }, {
+        "count" : 19,
+        "item" : "7"
+      }, {
+        "count" : 18,
+        "item" : "15"
+      }, {
+        "count" : 17,
+        "item" : "11"
+      }, {
+        "count" : 16,
+        "item" : "13"
+      }, {
+        "count" : 15,
+        "item" : "8"
+      }, {
+        "count" : 14,
+        "item" : "1"
+      }, {
+        "count" : 13,
+        "item" : "3"
+      }, {
+        "count" : 12,
+        "item" : "14"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Weekly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "syvn-4vgv",
+    "displayName" : "Sudhir Vasudeva",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360686446,
+    "screenName" : "Sudhir Vasudeva"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "syvn-4vgv",
+    "displayName" : "Sudhir Vasudeva",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360686446,
+    "screenName" : "Sudhir Vasudeva"
+  },
+  "tags" : [ "fdny", "fire department", "safety", "fire safety", "unsafe", "vacate" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,770 @@
+{
+  "id" : "5e24-x4wa",
+  "name" : "Montague Street Business Improvement District. (BID)",
+  "attribution" : "Montague Street Business Improvement District (BID)",
+  "averageRating" : 0,
+  "category" : "Business and Economic",
+  "createdAt" : 1317403040,
+  "description" : "A list of business on Montague Street in Brooklyn.\r\nUpdate Frequency: As needed",
+  "displayType" : "table",
+  "downloadCount" : 57,
+  "numberOfComments" : 0,
+  "oid" : 337463,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318362521,
+  "publicationGroup" : 242139,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1317403048,
+  "rowsUpdatedBy" : "k2fz-tf56",
+  "signed" : false,
+  "tableId" : 242139,
+  "totalTimesRated" : 0,
+  "viewCount" : 77,
+  "viewLastModified" : 1360948341,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2909200,
+    "name" : "BID Business Name",
+    "dataTypeName" : "text",
+    "fieldName" : "bid_business_name",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1539435,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 114,
+      "smallest" : "78 Laundromat",
+      "null" : 0,
+      "largest" : "Yoga People ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Montague Laundry"
+      }, {
+        "count" : 19,
+        "item" : "Oh, My Pasta!"
+      }, {
+        "count" : 18,
+        "item" : "Aerosoles "
+      }, {
+        "count" : 17,
+        "item" : "Spring Thyme "
+      }, {
+        "count" : 16,
+        "item" : "Bentley's Shoes "
+      }, {
+        "count" : 15,
+        "item" : "Universal Mortgage"
+      }, {
+        "count" : 14,
+        "item" : "Verizon Wireless "
+      }, {
+        "count" : 13,
+        "item" : "Happy Days Diner "
+      }, {
+        "count" : 12,
+        "item" : "M&E Candy & Grocery "
+      }, {
+        "count" : 11,
+        "item" : "St. Marks Comics "
+      }, {
+        "count" : 10,
+        "item" : "Advanced Cosmetic Dental Arts "
+      }, {
+        "count" : 9,
+        "item" : "Halstead Brooklyn "
+      }, {
+        "count" : 8,
+        "item" : "M·A·C "
+      }, {
+        "count" : 7,
+        "item" : "Area Kids "
+      }, {
+        "count" : 6,
+        "item" : "Daphne Art "
+      }, {
+        "count" : 5,
+        "item" : "Pearle Vision "
+      }, {
+        "count" : 4,
+        "item" : "Prudential Douglas Elliman "
+      }, {
+        "count" : 3,
+        "item" : "Monty Q's Pizzeria "
+      }, {
+        "count" : 2,
+        "item" : "Brooklyn Heights Real Estate "
+      }, {
+        "count" : 1,
+        "item" : "Yoga People "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2909201,
+    "name" : "BID Street Num.",
+    "dataTypeName" : "number",
+    "fieldName" : "bid_street_num_",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1539436,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 114,
+      "smallest" : "76",
+      "sum" : "16111",
+      "null" : 0,
+      "average" : "141.3245614035088",
+      "largest" : "218",
+      "top" : [ {
+        "count" : 20,
+        "item" : "205"
+      }, {
+        "count" : 19,
+        "item" : "141"
+      }, {
+        "count" : 18,
+        "item" : "151"
+      }, {
+        "count" : 17,
+        "item" : "106"
+      }, {
+        "count" : 16,
+        "item" : "110"
+      }, {
+        "count" : 15,
+        "item" : "112"
+      }, {
+        "count" : 14,
+        "item" : "120"
+      }, {
+        "count" : 13,
+        "item" : "128"
+      }, {
+        "count" : 12,
+        "item" : "130"
+      }, {
+        "count" : 11,
+        "item" : "132"
+      }, {
+        "count" : 10,
+        "item" : "136"
+      }, {
+        "count" : 9,
+        "item" : "138"
+      }, {
+        "count" : 8,
+        "item" : "140"
+      }, {
+        "count" : 7,
+        "item" : "142"
+      }, {
+        "count" : 6,
+        "item" : "144"
+      }, {
+        "count" : 5,
+        "item" : "146"
+      }, {
+        "count" : 4,
+        "item" : "148"
+      }, {
+        "count" : 3,
+        "item" : "150"
+      }, {
+        "count" : 2,
+        "item" : "154"
+      }, {
+        "count" : 1,
+        "item" : "158"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2909202,
+    "name" : "BID Street Name",
+    "dataTypeName" : "text",
+    "fieldName" : "bid_street_name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1539437,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 114,
+      "smallest" : "Henry Street ",
+      "null" : 0,
+      "largest" : "Montague Street",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Montague Street"
+      }, {
+        "count" : 19,
+        "item" : "Henry Street "
+      }, {
+        "count" : 18,
+        "item" : "Hicks Street "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2909203,
+    "name" : "BID Block",
+    "dataTypeName" : "number",
+    "fieldName" : "bid_block",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1539438,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 114,
+      "smallest" : "242",
+      "sum" : "28077",
+      "null" : 0,
+      "average" : "246.2894736842105",
+      "largest" : "250",
+      "top" : [ {
+        "count" : 20,
+        "item" : "244"
+      }, {
+        "count" : 19,
+        "item" : "243"
+      }, {
+        "count" : 18,
+        "item" : "242"
+      }, {
+        "count" : 17,
+        "item" : "247"
+      }, {
+        "count" : 16,
+        "item" : "248"
+      }, {
+        "count" : 15,
+        "item" : "249"
+      }, {
+        "count" : 14,
+        "item" : "250"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2909204,
+    "name" : "BID Lot",
+    "dataTypeName" : "number",
+    "fieldName" : "bid_lot",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1539439,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 114,
+      "smallest" : "1",
+      "sum" : "6730",
+      "null" : 0,
+      "average" : "59.03508771929825",
+      "largest" : "1003",
+      "top" : [ {
+        "count" : 20,
+        "item" : "17"
+      }, {
+        "count" : 19,
+        "item" : "15"
+      }, {
+        "count" : 18,
+        "item" : "13"
+      }, {
+        "count" : 17,
+        "item" : "11"
+      }, {
+        "count" : 16,
+        "item" : "1002"
+      }, {
+        "count" : 15,
+        "item" : "1"
+      }, {
+        "count" : 14,
+        "item" : "22"
+      }, {
+        "count" : 13,
+        "item" : "19"
+      }, {
+        "count" : 12,
+        "item" : "16"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "8"
+      }, {
+        "count" : 9,
+        "item" : "6"
+      }, {
+        "count" : 8,
+        "item" : "32"
+      }, {
+        "count" : 7,
+        "item" : "33"
+      }, {
+        "count" : 6,
+        "item" : "34"
+      }, {
+        "count" : 5,
+        "item" : "35"
+      }, {
+        "count" : 4,
+        "item" : "27"
+      }, {
+        "count" : 3,
+        "item" : "28"
+      }, {
+        "count" : 2,
+        "item" : "29"
+      }, {
+        "count" : 1,
+        "item" : "30"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2909205,
+    "name" : "BID Floor",
+    "dataTypeName" : "text",
+    "fieldName" : "bid_floor",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1539440,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 114,
+      "smallest" : "1st",
+      "null" : 0,
+      "largest" : "2nd",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1st"
+      }, {
+        "count" : 19,
+        "item" : "2nd"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2909206,
+    "name" : "BID City",
+    "dataTypeName" : "text",
+    "fieldName" : "bid_city",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1539441,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 114,
+      "smallest" : "Brooklyn",
+      "null" : 0,
+      "largest" : "Brooklyn",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Brooklyn"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2909207,
+    "name" : "BID Zip",
+    "dataTypeName" : "number",
+    "fieldName" : "bid_zip",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1539442,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 114,
+      "smallest" : "11201",
+      "sum" : "1276914",
+      "null" : 0,
+      "average" : "11201",
+      "largest" : "11201",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11201"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2909209,
+    "name" : "BID Business Tel",
+    "dataTypeName" : "text",
+    "fieldName" : "bid_business_tel",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1539443,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 105,
+      "smallest" : "212-400-9500 / 718-228-0800",
+      "null" : 9,
+      "largest" : "n/a",
+      "top" : [ {
+        "count" : 20,
+        "item" : "718-935-0911 "
+      }, {
+        "count" : 19,
+        "item" : "718-522-4445"
+      }, {
+        "count" : 18,
+        "item" : "718-613-2000 "
+      }, {
+        "count" : 17,
+        "item" : "718-596-1994 "
+      }, {
+        "count" : 16,
+        "item" : "718-243-0148 "
+      }, {
+        "count" : 15,
+        "item" : "718-643-0229"
+      }, {
+        "count" : 14,
+        "item" : "718-246-5795 "
+      }, {
+        "count" : 13,
+        "item" : "718-780-8100 "
+      }, {
+        "count" : 12,
+        "item" : "718-246-2000"
+      }, {
+        "count" : 11,
+        "item" : "718-237-2176 "
+      }, {
+        "count" : 10,
+        "item" : "718-522-9642 "
+      }, {
+        "count" : 9,
+        "item" : "718-875-7940"
+      }, {
+        "count" : 8,
+        "item" : "718-522-5565"
+      }, {
+        "count" : 7,
+        "item" : "718-522-5555"
+      }, {
+        "count" : 6,
+        "item" : "718-522-2991 "
+      }, {
+        "count" : 5,
+        "item" : "718-625-7000"
+      }, {
+        "count" : 4,
+        "item" : "718-596-4969 "
+      }, {
+        "count" : 3,
+        "item" : "718-222-1515 "
+      }, {
+        "count" : 2,
+        "item" : "718-855-3555 "
+      }, {
+        "count" : 1,
+        "item" : "718.855.1942"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2909210,
+    "name" : "BID Business Website",
+    "dataTypeName" : "text",
+    "fieldName" : "bid_business_website",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1539444,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 64,
+      "smallest" : " ",
+      "null" : 50,
+      "largest" : "www.yoga-people.com",
+      "top" : [ {
+        "count" : 20,
+        "item" : "www.dashingdiva.com"
+      }, {
+        "count" : 19,
+        "item" : "www.doctorstuartfriedman.com/"
+      }, {
+        "count" : 18,
+        "item" : "www.fiveguys.com"
+      }, {
+        "count" : 17,
+        "item" : "www.onehourframing.com"
+      }, {
+        "count" : 16,
+        "item" : "www.aerosoles.com"
+      }, {
+        "count" : 15,
+        "item" : "www.springthymeny.com"
+      }, {
+        "count" : 14,
+        "item" : "www.verizonwireless.com"
+      }, {
+        "count" : 13,
+        "item" : "www.stmarkscomics.com"
+      }, {
+        "count" : 12,
+        "item" : "www.halstead.com"
+      }, {
+        "count" : 11,
+        "item" : "www.maccosmetics.com"
+      }, {
+        "count" : 10,
+        "item" : "www.areakids.com"
+      }, {
+        "count" : 9,
+        "item" : "www.pearlevision.com"
+      }, {
+        "count" : 8,
+        "item" : "www.prudentialelliman.com"
+      }, {
+        "count" : 7,
+        "item" : "www.montyqs.com"
+      }, {
+        "count" : 6,
+        "item" : "www.brooklynheightsrealestate.com"
+      }, {
+        "count" : 5,
+        "item" : "www.yoga-people.com"
+      }, {
+        "count" : 4,
+        "item" : "www.att.com"
+      }, {
+        "count" : 3,
+        "item" : "www.riteaid.com"
+      }, {
+        "count" : 2,
+        "item" : "www.eamonns.net"
+      }, {
+        "count" : 1,
+        "item" : "www.edengourmet.com"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2909211,
+    "name" : "Location 1",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 12,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1539445,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 114,
+      "smallest" : {
+        "longitude" : "-73.98992086835335",
+        "latitude" : "40.69467825879468",
+        "human_address" : "{\"address\":\"100 Brooklyn\",\"city\":\"NY\",\"state\":\"\",\"zip\":\"11201\"}"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.98992086835335",
+        "latitude" : "40.69467825879468",
+        "human_address" : "{\"address\":\"93 Brooklyn\",\"city\":\"NY\",\"state\":\"\",\"zip\":\"11201\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.98992086835335",
+          "latitude" : "40.69467825879468",
+          "human_address" : "{\"address\":\"140 Brooklyn\",\"city\":\"NY\",\"state\":\"\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.98992086835335",
+          "latitude" : "40.69467825879468",
+          "human_address" : "{\"address\":\"142 Brooklyn\",\"city\":\"NY\",\"state\":\"\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.98992086835335",
+          "latitude" : "40.69467825879468",
+          "human_address" : "{\"address\":\"142 Brooklyn\",\"city\":\"NY\",\"state\":\"\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.98992086835335",
+          "latitude" : "40.69467825879468",
+          "human_address" : "{\"address\":\"144 Brooklyn\",\"city\":\"NY\",\"state\":\"\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.98992086835335",
+          "latitude" : "40.69467825879468",
+          "human_address" : "{\"address\":\"144 Brooklyn\",\"city\":\"NY\",\"state\":\"\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.98992086835335",
+          "latitude" : "40.69467825879468",
+          "human_address" : "{\"address\":\"146 Brooklyn\",\"city\":\"NY\",\"state\":\"\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.98992086835335",
+          "latitude" : "40.69467825879468",
+          "human_address" : "{\"address\":\"146 Brooklyn\",\"city\":\"NY\",\"state\":\"\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.98992086835335",
+          "latitude" : "40.69467825879468",
+          "human_address" : "{\"address\":\"148 Brooklyn\",\"city\":\"NY\",\"state\":\"\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.98992086835335",
+          "latitude" : "40.69467825879468",
+          "human_address" : "{\"address\":\"148 Brooklyn\",\"city\":\"NY\",\"state\":\"\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.98992086835335",
+          "latitude" : "40.69467825879468",
+          "human_address" : "{\"address\":\"148 Brooklyn\",\"city\":\"NY\",\"state\":\"\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.98992086835335",
+          "latitude" : "40.69467825879468",
+          "human_address" : "{\"address\":\"150 Brooklyn\",\"city\":\"NY\",\"state\":\"\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.98992086835335",
+          "latitude" : "40.69467825879468",
+          "human_address" : "{\"address\":\"150 Brooklyn\",\"city\":\"NY\",\"state\":\"\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.98992086835335",
+          "latitude" : "40.69467825879468",
+          "human_address" : "{\"address\":\"152 Brooklyn\",\"city\":\"NY\",\"state\":\"\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.98992086835335",
+          "latitude" : "40.69467825879468",
+          "human_address" : "{\"address\":\"154 Brooklyn\",\"city\":\"NY\",\"state\":\"\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.98992086835335",
+          "latitude" : "40.69467825879468",
+          "human_address" : "{\"address\":\"154 Brooklyn\",\"city\":\"NY\",\"state\":\"\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.98992086835335",
+          "latitude" : "40.69467825879468",
+          "human_address" : "{\"address\":\"154 Brooklyn\",\"city\":\"NY\",\"state\":\"\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.98992086835335",
+          "latitude" : "40.69467825879468",
+          "human_address" : "{\"address\":\"156 Brooklyn\",\"city\":\"NY\",\"state\":\"\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.98992086835335",
+          "latitude" : "40.69467825879468",
+          "human_address" : "{\"address\":\"158 Brooklyn\",\"city\":\"NY\",\"state\":\"\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.98992086835335",
+          "latitude" : "40.69467825879468",
+          "human_address" : "{\"address\":\"158 Brooklyn\",\"city\":\"NY\",\"state\":\"\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-73.98992086835335",
+          "latitude" : "40.69467825879468",
+          "human_address" : "{\"address\":\"160 Brooklyn\",\"city\":\"NY\",\"state\":\"\",\"zip\":\"11201\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "business improvement district", "bid", "block", "lotbusiness" ],
+  "flags" : [ "default" ]
+}

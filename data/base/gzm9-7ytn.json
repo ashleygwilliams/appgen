@@ -1,0 +1,286 @@
+{
+  "id" : "gzm9-7ytn",
+  "name" : "Birth Rate by Mother’s Age, 2007",
+  "attribution" : "Department of Health and Mental Hygiene (DOHMH)",
+  "averageRating" : 0,
+  "category" : "Health",
+  "createdAt" : 1318342610,
+  "description" : "Rate of birth sorted by the age range of the mother.\r\n\r\nUpdate Schedule: As required",
+  "displayType" : "table",
+  "downloadCount" : 21,
+  "numberOfComments" : 0,
+  "oid" : 343628,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318378465,
+  "publicationGroup" : 244719,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318378462,
+  "rowsUpdatedBy" : "r5m2-5pds",
+  "signed" : false,
+  "tableId" : 244884,
+  "totalTimesRated" : 0,
+  "viewCount" : 307,
+  "viewLastModified" : 1363712163,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3014242,
+    "name" : "Mother's age (yr) ",
+    "dataTypeName" : "text",
+    "fieldName" : "mother_s_age_yr_",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1571655,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "# Rates cannot be calculated due to missing demographic data. ",
+      "null" : 1,
+      "largest" : "† Denominator does not include those in Not stated/Unknown category. For variables with large numbers of Not Stated/Unknowns, interpret percents with caution.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Mother's age (yr) "
+      }, {
+        "count" : 19,
+        "item" : "10-14"
+      }, {
+        "count" : 18,
+        "item" : "15-17 "
+      }, {
+        "count" : 17,
+        "item" : "18-19 "
+      }, {
+        "count" : 16,
+        "item" : "20-24 "
+      }, {
+        "count" : 15,
+        "item" : "25-29 "
+      }, {
+        "count" : 14,
+        "item" : "30-34 "
+      }, {
+        "count" : 13,
+        "item" : "35-39 "
+      }, {
+        "count" : 12,
+        "item" : "40-44 "
+      }, {
+        "count" : 11,
+        "item" : "45-49 "
+      }, {
+        "count" : 10,
+        "item" : "Not stated/unknown "
+      }, {
+        "count" : 9,
+        "item" : "Notes:"
+      }, {
+        "count" : 8,
+        "item" : "Percent not calculated for Not Stated/Unknown category."
+      }, {
+        "count" : 7,
+        "item" : "Mother's Age: Births to women aged 50 years and over have been included in the numerator of the birth rate for women aged 45-49. The denominator for this birth rate is NYC women residents aged 45-49."
+      }, {
+        "count" : 6,
+        "item" : "† Denominator does not include those in Not stated/Unknown category. For variables with large numbers of Not Stated/Unknowns, interpret percents with caution."
+      }, {
+        "count" : 5,
+        "item" : "# Rates cannot be calculated due to missing demographic data. "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3014243,
+    "name" : "Total Reported ",
+    "dataTypeName" : "number",
+    "fieldName" : "total_reported_",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1571656,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 10,
+      "smallest" : "1",
+      "sum" : "128961",
+      "null" : 7,
+      "average" : "12896.1",
+      "largest" : "33885",
+      "top" : [ {
+        "count" : 20,
+        "item" : "89"
+      }, {
+        "count" : 19,
+        "item" : "2689"
+      }, {
+        "count" : 18,
+        "item" : "5791"
+      }, {
+        "count" : 17,
+        "item" : "26192"
+      }, {
+        "count" : 16,
+        "item" : "33885"
+      }, {
+        "count" : 15,
+        "item" : "33718"
+      }, {
+        "count" : 14,
+        "item" : "20593"
+      }, {
+        "count" : 13,
+        "item" : "5463"
+      }, {
+        "count" : 12,
+        "item" : "540"
+      }, {
+        "count" : 11,
+        "item" : "1"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3014244,
+    "name" : "Percent of Live Births",
+    "dataTypeName" : "percent",
+    "fieldName" : "percent_of_live_births_",
+    "position" : 3,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1571657,
+    "width" : 412,
+    "cachedContents" : {
+      "non_null" : 9,
+      "smallest" : "0.10",
+      "sum" : "100.00",
+      "null" : 8,
+      "average" : "11.11111111111111",
+      "largest" : "26.30",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.10"
+      }, {
+        "count" : 19,
+        "item" : "2.10"
+      }, {
+        "count" : 18,
+        "item" : "4.50"
+      }, {
+        "count" : 17,
+        "item" : "20.30"
+      }, {
+        "count" : 16,
+        "item" : "26.30"
+      }, {
+        "count" : 15,
+        "item" : "26.10"
+      }, {
+        "count" : 14,
+        "item" : "16.00"
+      }, {
+        "count" : 13,
+        "item" : "4.20"
+      }, {
+        "count" : 12,
+        "item" : "0.40"
+      } ]
+    },
+    "format" : {
+      "noCommas" : "false",
+      "align" : "right",
+      "view" : "percent_bar_and_text"
+    }
+  }, {
+    "id" : 3014245,
+    "name" : "Birth Rate per 1,000 women",
+    "dataTypeName" : "number",
+    "fieldName" : "birth_rate_per_1_000_women",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1571658,
+    "width" : 412,
+    "cachedContents" : {
+      "non_null" : 9,
+      "smallest" : "0.4",
+      "sum" : "446.6",
+      "null" : 8,
+      "average" : "49.62222222222222",
+      "largest" : "110.9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.4"
+      }, {
+        "count" : 19,
+        "item" : "16.9"
+      }, {
+        "count" : 18,
+        "item" : "51.7"
+      }, {
+        "count" : 17,
+        "item" : "88.5"
+      }, {
+        "count" : 16,
+        "item" : "110.9"
+      }, {
+        "count" : 15,
+        "item" : "100.3"
+      }, {
+        "count" : 14,
+        "item" : "59.5"
+      }, {
+        "count" : 13,
+        "item" : "16.7"
+      }, {
+        "count" : 12,
+        "item" : "1.7"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "birth rate", "mother age", "labor", "baby", "data", "health", "healthy living" ],
+  "flags" : [ "default" ]
+}

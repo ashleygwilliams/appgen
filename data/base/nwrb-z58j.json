@@ -1,0 +1,373 @@
+{
+  "id" : "nwrb-z58j",
+  "name" : "2006-07 Class Size - By District",
+  "attribution" : "Department of Education (DOE)",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1318527579,
+  "description" : "Citywide Class Size Report, including District, Program, Grade or Service Category.\r\n\r\nSOURCES: 10/31/06 Official Register (K-9) and 12/15/06 Register/Schedule (9-12)\r\n#Grade 9 not in high schools\r\n##Indicates how special class is delivered\r\n\r\nFor schools with students in any grades between Kindergarten and 9th grade (where 9th grade is the termination grade for the school), class size is reported by four program areas: general education, special education self-contained class, collaborative team teaching and gifted and talented self-contained class. Within each program area class size is reported by grade or service category, which indicates how a special education self-contained class is delivered. Class size is calculated by dividing the number of students in a program and grade by the number of official classes in that program and grade. \r\n\r\nThe following data is excluded from all the reports: District 75 schools, bridge classes which span more than one grade, classes with fewer than five students (for other than special education self-contained classes) and classes with one student (for special education self-contained classes). On the summary reports programs and grades with three or fewer classes are excluded from the citywide, borough and region reports and programs and grades with one class are excluded from the district report. For schools with students in any grades between 9th and 12th grade (where 9th grade is not the termination grade for the school), class size is reported by two program areas: general education and special education. For general education students class size is reported by grade for each core subject area: English, Math, Science and Social Studies. For special education students with a self-contained program recommendation, class size is reported by service category (self-contained or mainstream) for each core subject area. Since high school classes may contain students in multiple grades and programs, class size is calculated by taking a weighted average of all the classes in a core subject area with students in a particular grade or program. For example, there are 75 ninth graders enrolled at a high school. 25 ninth graders attend a Math class with 28 students, a second group of 25 ninth graders attend a Math class with 25 students, and a third group of 25 ninth graders attend a Math class with 30 students. Average class size for ninth grade Math equals: (25x28 + 25x25 + 25x30)/75 = 27.7. \r\n\r\nThe Pupil Teacher Ratio is also provided on the school level report. Pupil Teacher Ratio is another means to evaluate the instructional resources provided at a school. Pupil Teacher Ratio for All Students is calculated by dividing the number of students at a school by the number of full-time equivalent teachers, including both teachers in classes taught by two teachers, “cluster” teachers providing instruction in specialized topics like art or science, and teachers providing special education instruction. Pupil Teacher Ratio Excluding Special Education is calculated by dividing the number of non-special education students at a school by the number of full-time equivalent non-special education teachers.",
+  "displayType" : "table",
+  "downloadCount" : 12,
+  "numberOfComments" : 0,
+  "oid" : 344914,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318527680,
+  "publicationGroup" : 245508,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318527582,
+  "rowsUpdatedBy" : "rnig-m3uj",
+  "signed" : false,
+  "tableId" : 245508,
+  "totalTimesRated" : 0,
+  "viewCount" : 78,
+  "viewLastModified" : 1363699035,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3040801,
+    "name" : "DISTRICT###",
+    "dataTypeName" : "number",
+    "fieldName" : "district_",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1582423,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 1559,
+      "smallest" : "1",
+      "sum" : "25759",
+      "null" : 0,
+      "average" : "16.52277100705581",
+      "largest" : "32",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "11"
+      }, {
+        "count" : 9,
+        "item" : "12"
+      }, {
+        "count" : 8,
+        "item" : "13"
+      }, {
+        "count" : 7,
+        "item" : "14"
+      }, {
+        "count" : 6,
+        "item" : "15"
+      }, {
+        "count" : 5,
+        "item" : "16"
+      }, {
+        "count" : 4,
+        "item" : "17"
+      }, {
+        "count" : 3,
+        "item" : "18"
+      }, {
+        "count" : 2,
+        "item" : "19"
+      }, {
+        "count" : 1,
+        "item" : "20"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3040802,
+    "name" : "PROGRAM",
+    "dataTypeName" : "text",
+    "fieldName" : "program",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1582424,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 1559,
+      "smallest" : "COLLABORATIVE TEAM TEACHING    ",
+      "null" : 0,
+      "largest" : "SPECIAL CLASS - High School",
+      "top" : [ {
+        "count" : 20,
+        "item" : "GENERAL EDUCATION "
+      }, {
+        "count" : 19,
+        "item" : "GENERAL EDUCATION"
+      }, {
+        "count" : 18,
+        "item" : "SPECIAL CLASS - Grades K-9#"
+      }, {
+        "count" : 17,
+        "item" : "SPECIAL CLASS - High School"
+      }, {
+        "count" : 16,
+        "item" : "COLLABORATIVE TEAM TEACHING    "
+      }, {
+        "count" : 15,
+        "item" : "GIFTED & TALENTED    "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3040803,
+    "name" : "GRADE OR SERVICE CATEGORY##",
+    "dataTypeName" : "text",
+    "fieldName" : "grade_or_service_category_",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1582425,
+    "width" : 424,
+    "cachedContents" : {
+      "non_null" : 1559,
+      "smallest" : "09#           ",
+      "null" : 0,
+      "largest" : "Self-Contained",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Kindergarten             "
+      }, {
+        "count" : 19,
+        "item" : "1"
+      }, {
+        "count" : 18,
+        "item" : "2"
+      }, {
+        "count" : 17,
+        "item" : "3"
+      }, {
+        "count" : 16,
+        "item" : "4"
+      }, {
+        "count" : 15,
+        "item" : "5"
+      }, {
+        "count" : 14,
+        "item" : "6"
+      }, {
+        "count" : 13,
+        "item" : "7"
+      }, {
+        "count" : 12,
+        "item" : "8"
+      }, {
+        "count" : 11,
+        "item" : "9"
+      }, {
+        "count" : 10,
+        "item" : "10"
+      }, {
+        "count" : 9,
+        "item" : "11"
+      }, {
+        "count" : 8,
+        "item" : "12"
+      }, {
+        "count" : 7,
+        "item" : "12:1           "
+      }, {
+        "count" : 6,
+        "item" : "12:1:1         "
+      }, {
+        "count" : 5,
+        "item" : "Mainstream"
+      }, {
+        "count" : 4,
+        "item" : "Self-Contained"
+      }, {
+        "count" : 3,
+        "item" : "09#           "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3040804,
+    "name" : "CORE COURSE(High Schools only)",
+    "dataTypeName" : "text",
+    "fieldName" : "core_course_high_schools_only_",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1582426,
+    "width" : 460,
+    "cachedContents" : {
+      "non_null" : 763,
+      "smallest" : "ENGLISH",
+      "null" : 796,
+      "largest" : "SOCIAL STUDIES",
+      "top" : [ {
+        "count" : 20,
+        "item" : "ENGLISH"
+      }, {
+        "count" : 19,
+        "item" : "MATH   "
+      }, {
+        "count" : 18,
+        "item" : "SOCIAL STUDIES"
+      }, {
+        "count" : 17,
+        "item" : "SCIENCE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3040805,
+    "name" : "AVERAGE CLASS SIZE",
+    "dataTypeName" : "number",
+    "fieldName" : "average_class_size",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1582427,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 1559,
+      "smallest" : "7.0",
+      "sum" : "36583.5",
+      "null" : 0,
+      "average" : "23.46600384862091",
+      "largest" : "34.2",
+      "top" : [ {
+        "count" : 20,
+        "item" : "29.8"
+      }, {
+        "count" : 19,
+        "item" : "24.0"
+      }, {
+        "count" : 18,
+        "item" : "30.0"
+      }, {
+        "count" : 17,
+        "item" : "28.1"
+      }, {
+        "count" : 16,
+        "item" : "21.9"
+      }, {
+        "count" : 15,
+        "item" : "20.2"
+      }, {
+        "count" : 14,
+        "item" : "25.7"
+      }, {
+        "count" : 13,
+        "item" : "27.1"
+      }, {
+        "count" : 12,
+        "item" : "26.6"
+      }, {
+        "count" : 11,
+        "item" : "24.6"
+      }, {
+        "count" : 10,
+        "item" : "23.4"
+      }, {
+        "count" : 9,
+        "item" : "25.2"
+      }, {
+        "count" : 8,
+        "item" : "24.7"
+      }, {
+        "count" : 7,
+        "item" : "23.6"
+      }, {
+        "count" : 6,
+        "item" : "23.7"
+      }, {
+        "count" : 5,
+        "item" : "10.4"
+      }, {
+        "count" : 4,
+        "item" : "26.4"
+      }, {
+        "count" : 3,
+        "item" : "23.8"
+      }, {
+        "count" : 2,
+        "item" : "26.2"
+      }, {
+        "count" : 1,
+        "item" : "10.8"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Historical Data"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "rnig-m3uj",
+    "displayName" : "Jorge J.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/5083/4460/large-profile_large.png",
+    "profileImageUrlMedium" : "/images/profile/5083/4460/large-profile_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/5083/4460/large-profile_tiny.png",
+    "profileLastModified" : 1322859437,
+    "screenName" : "Jorge J."
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rnig-m3uj",
+    "displayName" : "Jorge J.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/5083/4460/large-profile_large.png",
+    "profileImageUrlMedium" : "/images/profile/5083/4460/large-profile_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/5083/4460/large-profile_tiny.png",
+    "profileLastModified" : 1322859437,
+    "screenName" : "Jorge J."
+  },
+  "tags" : [ "lifelong learning" ],
+  "flags" : [ "default" ]
+}

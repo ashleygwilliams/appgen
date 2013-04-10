@@ -1,0 +1,393 @@
+{
+  "id" : "tngj-drbu",
+  "name" : "Target Community District",
+  "attribution" : "Department of Probation (DOP)",
+  "attributionLink" : "http://www.nyc.gov/html/prob/downloads/pdf/yajp_rfp_addendum_1.pdf",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1360690976,
+  "description" : "The Table representing \"Target Community District Probation Demographic Data\" as of 08/05/2011",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2505288,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1360691282,
+  "publicationGroup" : 673239,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1360690979,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 673239,
+  "totalTimesRated" : 0,
+  "viewCount" : 16,
+  "viewLastModified" : 1360944056,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 44390875,
+    "name" : "Borough Name",
+    "dataTypeName" : "text",
+    "fieldName" : "borough_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7793705,
+    "width" : 92,
+    "cachedContents" : {
+      "non_null" : 19,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Queens",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 19,
+        "item" : "Bronx"
+      }, {
+        "count" : 18,
+        "item" : "Manhattan"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44390876,
+    "name" : "Community District",
+    "dataTypeName" : "text",
+    "fieldName" : "community_district",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7793706,
+    "width" : 107,
+    "cachedContents" : {
+      "non_null" : 19,
+      "smallest" : "CD 1",
+      "null" : 0,
+      "largest" : "CD 9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "CD 3 "
+      }, {
+        "count" : 19,
+        "item" : "CD 4 "
+      }, {
+        "count" : 18,
+        "item" : "CD 5 "
+      }, {
+        "count" : 17,
+        "item" : "CD 8"
+      }, {
+        "count" : 16,
+        "item" : "CD 13 "
+      }, {
+        "count" : 15,
+        "item" : "CD 16"
+      }, {
+        "count" : 14,
+        "item" : "CD 1"
+      }, {
+        "count" : 13,
+        "item" : "CD 2"
+      }, {
+        "count" : 12,
+        "item" : "CD 6"
+      }, {
+        "count" : 11,
+        "item" : "CD 9"
+      }, {
+        "count" : 10,
+        "item" : "CD 10"
+      }, {
+        "count" : 9,
+        "item" : "CD 11"
+      }, {
+        "count" : 8,
+        "item" : "CD 12"
+      }, {
+        "count" : 7,
+        "item" : "CD 14"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 44390877,
+    "name" : "Total Probationers Ages 16 - 24 ",
+    "dataTypeName" : "number",
+    "fieldName" : "total_probationers_ages_16_24",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7793707,
+    "width" : 183,
+    "cachedContents" : {
+      "non_null" : 19,
+      "smallest" : "42",
+      "sum" : "3387",
+      "null" : 0,
+      "average" : "178.2631578947368",
+      "largest" : "289",
+      "top" : [ {
+        "count" : 20,
+        "item" : "289"
+      }, {
+        "count" : 19,
+        "item" : "143"
+      }, {
+        "count" : 18,
+        "item" : "263"
+      }, {
+        "count" : 17,
+        "item" : "131"
+      }, {
+        "count" : 16,
+        "item" : "87"
+      }, {
+        "count" : 15,
+        "item" : "198"
+      }, {
+        "count" : 14,
+        "item" : "193"
+      }, {
+        "count" : 13,
+        "item" : "113"
+      }, {
+        "count" : 12,
+        "item" : "183"
+      }, {
+        "count" : 11,
+        "item" : "236"
+      }, {
+        "count" : 10,
+        "item" : "235"
+      }, {
+        "count" : 9,
+        "item" : "160"
+      }, {
+        "count" : 8,
+        "item" : "272"
+      }, {
+        "count" : 7,
+        "item" : "134"
+      }, {
+        "count" : 6,
+        "item" : "283"
+      }, {
+        "count" : 5,
+        "item" : "228"
+      }, {
+        "count" : 4,
+        "item" : "42"
+      }, {
+        "count" : 3,
+        "item" : "152"
+      }, {
+        "count" : 2,
+        "item" : "45"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "center",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 44390878,
+    "name" : "Male Probationers Ages 16-24",
+    "dataTypeName" : "number",
+    "fieldName" : "male_probationers_ages_16_24",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7793708,
+    "width" : 174,
+    "cachedContents" : {
+      "non_null" : 19,
+      "smallest" : "33",
+      "sum" : "2848",
+      "null" : 0,
+      "average" : "149.8947368421053",
+      "largest" : "239",
+      "top" : [ {
+        "count" : 20,
+        "item" : "239"
+      }, {
+        "count" : 19,
+        "item" : "119"
+      }, {
+        "count" : 18,
+        "item" : "229"
+      }, {
+        "count" : 17,
+        "item" : "111"
+      }, {
+        "count" : 16,
+        "item" : "66"
+      }, {
+        "count" : 15,
+        "item" : "161"
+      }, {
+        "count" : 14,
+        "item" : "96"
+      }, {
+        "count" : 13,
+        "item" : "155"
+      }, {
+        "count" : 12,
+        "item" : "204"
+      }, {
+        "count" : 11,
+        "item" : "130"
+      }, {
+        "count" : 10,
+        "item" : "223"
+      }, {
+        "count" : 9,
+        "item" : "118"
+      }, {
+        "count" : 8,
+        "item" : "236"
+      }, {
+        "count" : 7,
+        "item" : "198"
+      }, {
+        "count" : 6,
+        "item" : "36"
+      }, {
+        "count" : 5,
+        "item" : "129"
+      }, {
+        "count" : 4,
+        "item" : "33"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "center",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 44390879,
+    "name" : "Female Probationers      Ages 16-24",
+    "dataTypeName" : "number",
+    "fieldName" : "female_probationers_ages_16_24",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7793709,
+    "width" : 189,
+    "cachedContents" : {
+      "non_null" : 19,
+      "smallest" : "6",
+      "sum" : "539",
+      "null" : 0,
+      "average" : "28.36842105263158",
+      "largest" : "50",
+      "top" : [ {
+        "count" : 20,
+        "item" : "50"
+      }, {
+        "count" : 19,
+        "item" : "24"
+      }, {
+        "count" : 18,
+        "item" : "34"
+      }, {
+        "count" : 17,
+        "item" : "20"
+      }, {
+        "count" : 16,
+        "item" : "21"
+      }, {
+        "count" : 15,
+        "item" : "37"
+      }, {
+        "count" : 14,
+        "item" : "32"
+      }, {
+        "count" : 13,
+        "item" : "17"
+      }, {
+        "count" : 12,
+        "item" : "28"
+      }, {
+        "count" : 11,
+        "item" : "31"
+      }, {
+        "count" : 10,
+        "item" : "30"
+      }, {
+        "count" : 9,
+        "item" : "49"
+      }, {
+        "count" : 8,
+        "item" : "16"
+      }, {
+        "count" : 7,
+        "item" : "47"
+      }, {
+        "count" : 6,
+        "item" : "6"
+      }, {
+        "count" : 5,
+        "item" : "23"
+      }, {
+        "count" : 4,
+        "item" : "12"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "center",
+      "noCommas" : "false"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dop", "probation", "law", "contact", "justice", "programs", "cd", "community district" ],
+  "flags" : [ "default" ]
+}

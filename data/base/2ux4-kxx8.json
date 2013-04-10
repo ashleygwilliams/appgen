@@ -1,0 +1,379 @@
+{
+  "id" : "2ux4-kxx8",
+  "name" : "2009 birth names (Male and Asian Pacific Islander)",
+  "attribution" : "Department of Health and Mental Hygiene (DOHMH)",
+  "averageRating" : 0,
+  "category" : "Health",
+  "createdAt" : 1317920260,
+  "description" : "Popular NYC birth names sorted by name and ethnicity",
+  "displayType" : "table",
+  "downloadCount" : 20,
+  "numberOfComments" : 0,
+  "oid" : 341074,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1317921135,
+  "publicationGroup" : 243458,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1317921102,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 243462,
+  "totalTimesRated" : 0,
+  "viewCount" : 265,
+  "viewLastModified" : 1360605495,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2968004,
+    "name" : "Year of birth",
+    "dataTypeName" : "number",
+    "fieldName" : "year_of_birth",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1556160,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 148,
+      "smallest" : "2009",
+      "sum" : "297332",
+      "null" : 0,
+      "average" : "2009",
+      "largest" : "2009",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2009"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 2968005,
+    "name" : "GENDER",
+    "dataTypeName" : "text",
+    "fieldName" : "gender",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1556161,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 148,
+      "smallest" : "MALE",
+      "null" : 0,
+      "largest" : "MALE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "MALE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2968006,
+    "name" : "ETHNICITY",
+    "dataTypeName" : "text",
+    "fieldName" : "ethnicity",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1556162,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 148,
+      "smallest" : "ASIAN AND PACIFIC ISLANDER",
+      "null" : 0,
+      "largest" : "ASIAN AND PACIFIC ISLANDER",
+      "top" : [ {
+        "count" : 20,
+        "item" : "ASIAN AND PACIFIC ISLANDER"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2968007,
+    "name" : "CHILD FIRST NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "child_first_name",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1556163,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 148,
+      "smallest" : "AARON",
+      "null" : 0,
+      "largest" : "ZACHARY",
+      "top" : [ {
+        "count" : 20,
+        "item" : "CONNOR"
+      }, {
+        "count" : 19,
+        "item" : "LAWRENCE"
+      }, {
+        "count" : 18,
+        "item" : "LOGAN"
+      }, {
+        "count" : 17,
+        "item" : "REHAN"
+      }, {
+        "count" : 16,
+        "item" : "TERRY"
+      }, {
+        "count" : 15,
+        "item" : "ARYAN"
+      }, {
+        "count" : 14,
+        "item" : "AYAN"
+      }, {
+        "count" : 13,
+        "item" : "GARY"
+      }, {
+        "count" : 12,
+        "item" : "JACKSON"
+      }, {
+        "count" : 11,
+        "item" : "SIMON"
+      }, {
+        "count" : 10,
+        "item" : "ADITYA"
+      }, {
+        "count" : 9,
+        "item" : "ARJUN"
+      }, {
+        "count" : 8,
+        "item" : "ARMAN"
+      }, {
+        "count" : 7,
+        "item" : "CALVIN"
+      }, {
+        "count" : 6,
+        "item" : "ELIJAH"
+      }, {
+        "count" : 5,
+        "item" : "FELIX"
+      }, {
+        "count" : 4,
+        "item" : "HAMZA"
+      }, {
+        "count" : 3,
+        "item" : "HARRISON"
+      }, {
+        "count" : 2,
+        "item" : "HUGO"
+      }, {
+        "count" : 1,
+        "item" : "JASPER"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2968008,
+    "name" : "COUNT",
+    "dataTypeName" : "number",
+    "fieldName" : "count",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1556164,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 148,
+      "smallest" : "10",
+      "sum" : "4306",
+      "null" : 0,
+      "average" : "29.09459459459459",
+      "largest" : "166",
+      "top" : [ {
+        "count" : 20,
+        "item" : "79"
+      }, {
+        "count" : 19,
+        "item" : "61"
+      }, {
+        "count" : 18,
+        "item" : "53"
+      }, {
+        "count" : 17,
+        "item" : "40"
+      }, {
+        "count" : 16,
+        "item" : "38"
+      }, {
+        "count" : 15,
+        "item" : "37"
+      }, {
+        "count" : 14,
+        "item" : "34"
+      }, {
+        "count" : 13,
+        "item" : "33"
+      }, {
+        "count" : 12,
+        "item" : "30"
+      }, {
+        "count" : 11,
+        "item" : "28"
+      }, {
+        "count" : 10,
+        "item" : "27"
+      }, {
+        "count" : 9,
+        "item" : "26"
+      }, {
+        "count" : 8,
+        "item" : "23"
+      }, {
+        "count" : 7,
+        "item" : "22"
+      }, {
+        "count" : 6,
+        "item" : "21"
+      }, {
+        "count" : 5,
+        "item" : "20"
+      }, {
+        "count" : 4,
+        "item" : "19"
+      }, {
+        "count" : 3,
+        "item" : "18"
+      }, {
+        "count" : 2,
+        "item" : "17"
+      }, {
+        "count" : 1,
+        "item" : "16"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2968009,
+    "name" : "RANK",
+    "dataTypeName" : "number",
+    "fieldName" : "rank",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1556165,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 148,
+      "smallest" : "1",
+      "sum" : "5618",
+      "null" : 0,
+      "average" : "37.95945945945946",
+      "largest" : "52",
+      "top" : [ {
+        "count" : 20,
+        "item" : "9"
+      }, {
+        "count" : 19,
+        "item" : "16"
+      }, {
+        "count" : 18,
+        "item" : "18"
+      }, {
+        "count" : 17,
+        "item" : "25"
+      }, {
+        "count" : 16,
+        "item" : "26"
+      }, {
+        "count" : 15,
+        "item" : "27"
+      }, {
+        "count" : 14,
+        "item" : "29"
+      }, {
+        "count" : 13,
+        "item" : "30"
+      }, {
+        "count" : 12,
+        "item" : "33"
+      }, {
+        "count" : 11,
+        "item" : "34"
+      }, {
+        "count" : 10,
+        "item" : "35"
+      }, {
+        "count" : 9,
+        "item" : "36"
+      }, {
+        "count" : 8,
+        "item" : "39"
+      }, {
+        "count" : 7,
+        "item" : "40"
+      }, {
+        "count" : 6,
+        "item" : "41"
+      }, {
+        "count" : 5,
+        "item" : "42"
+      }, {
+        "count" : 4,
+        "item" : "43"
+      }, {
+        "count" : 3,
+        "item" : "44"
+      }, {
+        "count" : 2,
+        "item" : "45"
+      }, {
+        "count" : 1,
+        "item" : "46"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "health", "names", "popular", "data", "asian", "pacific", "islander", "male" ],
+  "flags" : [ "default" ]
+}

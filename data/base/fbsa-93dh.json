@@ -1,0 +1,208 @@
+{
+  "id" : "fbsa-93dh",
+  "name" : "Directory Of Zoning Details",
+  "attribution" : "Department of City Planning (DCP)",
+  "attributionLink" : "http://www.nyc.gov/html/dcp/pdf/pub/conplan12_amended_vol2.pdf",
+  "averageRating" : 0,
+  "category" : "Construction and Housing",
+  "createdAt" : 1360784891,
+  "description" : "Details about different zones and corresponding dwelling unit limit",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "numberOfComments" : 0,
+  "oid" : 2514729,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1360785012,
+  "publicationGroup" : 675550,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1360784894,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 675550,
+  "totalTimesRated" : 0,
+  "viewCount" : 33,
+  "viewLastModified" : 1360785012,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 44612128,
+    "name" : "Zone",
+    "dataTypeName" : "text",
+    "fieldName" : "zone",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7826263,
+    "width" : 91,
+    "cachedContents" : {
+      "non_null" : 10,
+      "smallest" : "R1",
+      "null" : 0,
+      "largest" : "R9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "R1"
+      }, {
+        "count" : 19,
+        "item" : "R2"
+      }, {
+        "count" : 18,
+        "item" : "R3"
+      }, {
+        "count" : 17,
+        "item" : "R4"
+      }, {
+        "count" : 16,
+        "item" : "R5"
+      }, {
+        "count" : 15,
+        "item" : "R6"
+      }, {
+        "count" : 14,
+        "item" : "R7"
+      }, {
+        "count" : 13,
+        "item" : "R8"
+      }, {
+        "count" : 12,
+        "item" : "R9"
+      }, {
+        "count" : 11,
+        "item" : "R10"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44612129,
+    "name" : "Description",
+    "dataTypeName" : "text",
+    "fieldName" : "description",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7826264,
+    "width" : 619,
+    "cachedContents" : {
+      "non_null" : 10,
+      "smallest" : "General residence districts (high density residential districts)",
+      "null" : 0,
+      "largest" : "Two-family detached, semi-detached, \nand general residence districts",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Single-family detached residences"
+      }, {
+        "count" : 19,
+        "item" : "Two-family detached, semi-detached, \nand general residence districts"
+      }, {
+        "count" : 18,
+        "item" : "Two-family detached, semi-detached, and general residence districts"
+      }, {
+        "count" : 17,
+        "item" : "General residence districts (provides a transition between lower and higher density neighborhoods)"
+      }, {
+        "count" : 16,
+        "item" : "General residence districts (medium density housing between 3 and 12 stories)"
+      }, {
+        "count" : 15,
+        "item" : "General residence districts (medium density apartment houses with good access to public transportation)"
+      }, {
+        "count" : 14,
+        "item" : "General residence districts (high density residential districts)"
+      }, {
+        "count" : 13,
+        "item" : "General residence districts (highest density residential district)"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44612130,
+    "name" : "MaximumDwelling units per acre",
+    "dataTypeName" : "text",
+    "fieldName" : "maximumdwelling_units_per_acre",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7826265,
+    "width" : 227,
+    "cachedContents" : {
+      "non_null" : 10,
+      "smallest" : "11 to 15",
+      "null" : 0,
+      "largest" : "65 to 80",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4 to 7"
+      }, {
+        "count" : 19,
+        "item" : "11 to 15"
+      }, {
+        "count" : 18,
+        "item" : "26 to 42"
+      }, {
+        "count" : 17,
+        "item" : "30 to 65"
+      }, {
+        "count" : 16,
+        "item" : "65 to 80"
+      }, {
+        "count" : 15,
+        "item" : "129 to 192"
+      }, {
+        "count" : 14,
+        "item" : "192 to 322"
+      }, {
+        "count" : 13,
+        "item" : "258 to 427"
+      }, {
+        "count" : 12,
+        "item" : "444 to 495"
+      }, {
+        "count" : 11,
+        "item" : "551 to 700"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dcp", "city", "planning", "zone", "dwelling", "unit" ],
+  "flags" : [ "default" ]
+}

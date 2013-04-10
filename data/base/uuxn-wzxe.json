@@ -1,0 +1,522 @@
+{
+  "id" : "uuxn-wzxe",
+  "name" : "NYC Cool Roofs Buildings",
+  "attribution" : "Department of Buildings (DOB)",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1340726392,
+  "description" : "Locations of buildings participating in the Cool Roofs initiative.  NYC Cool Roofs buildings have a reflective surface applied to their rooftop, helping to reduce cooling costs, cut energy usage and lower greenhouse gas emissions.",
+  "displayType" : "table",
+  "downloadCount" : 104,
+  "numberOfComments" : 0,
+  "oid" : 812682,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1340990525,
+  "publicationGroup" : 368338,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1340990479,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 370653,
+  "totalTimesRated" : 0,
+  "viewCount" : 399,
+  "viewLastModified" : 1363704965,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 12097503,
+    "name" : "Neighborhood",
+    "dataTypeName" : "text",
+    "fieldName" : "neighborhood",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3281270,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 214,
+      "smallest" : "Arverne",
+      "null" : 0,
+      "largest" : "West side",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Lower East Side"
+      }, {
+        "count" : 19,
+        "item" : "East Harlem"
+      }, {
+        "count" : 18,
+        "item" : "Long Island City"
+      }, {
+        "count" : 17,
+        "item" : "Bronx"
+      }, {
+        "count" : 16,
+        "item" : "Fleetwood-Concourse Village"
+      }, {
+        "count" : 15,
+        "item" : "University Heights"
+      }, {
+        "count" : 14,
+        "item" : "High Bridge"
+      }, {
+        "count" : 13,
+        "item" : "Prospect Heights"
+      }, {
+        "count" : 12,
+        "item" : "Washington Heights"
+      }, {
+        "count" : 11,
+        "item" : "Harlem"
+      }, {
+        "count" : 10,
+        "item" : "East New York"
+      }, {
+        "count" : 9,
+        "item" : "Fordham Heights"
+      }, {
+        "count" : 8,
+        "item" : "Far Rockaway"
+      }, {
+        "count" : 7,
+        "item" : "Morning Side Heights"
+      }, {
+        "count" : 6,
+        "item" : "South Williamsburg"
+      }, {
+        "count" : 5,
+        "item" : "Crown Heights/Bedsty"
+      }, {
+        "count" : 4,
+        "item" : "Bushwick"
+      }, {
+        "count" : 3,
+        "item" : "Mott Haven"
+      }, {
+        "count" : 2,
+        "item" : "Brownsville"
+      }, {
+        "count" : 1,
+        "item" : "Bedford Stuyvesant"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12097504,
+    "name" : "Total Sq Ft",
+    "dataTypeName" : "number",
+    "fieldName" : "total_sq_ft",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 3281271,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 214,
+      "smallest" : "1000",
+      "sum" : "1559423",
+      "null" : 0,
+      "average" : "7287.023364485981",
+      "largest" : "60000",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3000"
+      }, {
+        "count" : 19,
+        "item" : "1925"
+      }, {
+        "count" : 18,
+        "item" : "1300"
+      }, {
+        "count" : 17,
+        "item" : "4100"
+      }, {
+        "count" : 16,
+        "item" : "6000"
+      }, {
+        "count" : 15,
+        "item" : "3375"
+      }, {
+        "count" : 14,
+        "item" : "8300"
+      }, {
+        "count" : 13,
+        "item" : "3800"
+      }, {
+        "count" : 12,
+        "item" : "7400"
+      }, {
+        "count" : 11,
+        "item" : "7000"
+      }, {
+        "count" : 10,
+        "item" : "6645"
+      }, {
+        "count" : 9,
+        "item" : "9500"
+      }, {
+        "count" : 8,
+        "item" : "7900"
+      }, {
+        "count" : 7,
+        "item" : "5200"
+      }, {
+        "count" : 6,
+        "item" : "15282"
+      }, {
+        "count" : 5,
+        "item" : "3200"
+      }, {
+        "count" : 4,
+        "item" : "24000"
+      }, {
+        "count" : 3,
+        "item" : "14000"
+      }, {
+        "count" : 2,
+        "item" : "9327"
+      }, {
+        "count" : 1,
+        "item" : "3315"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12098237,
+    "name" : "Address 1",
+    "dataTypeName" : "text",
+    "fieldName" : "address_1",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3317819,
+    "width" : 175,
+    "cachedContents" : {
+      "non_null" : 214,
+      "smallest" : "100-01 Northern Blvd",
+      "null" : 0,
+      "largest" : "9 E 3rd St",
+      "top" : [ {
+        "count" : 20,
+        "item" : "138-46 Northern Blvd"
+      }, {
+        "count" : 19,
+        "item" : "357 9th Street"
+      }, {
+        "count" : 18,
+        "item" : "238-10 Hillsdale Ave"
+      }, {
+        "count" : 17,
+        "item" : "1121 Bedford Ave"
+      }, {
+        "count" : 16,
+        "item" : "32-23 Queens Blvd"
+      }, {
+        "count" : 15,
+        "item" : "4912 14th Avenue"
+      }, {
+        "count" : 14,
+        "item" : "206 East 118th Street"
+      }, {
+        "count" : 13,
+        "item" : "2295 2nd Avenue"
+      }, {
+        "count" : 12,
+        "item" : "251 E. 119th Street"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12097506,
+    "name" : "Address 2",
+    "dataTypeName" : "text",
+    "fieldName" : "address_2",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3281273,
+    "width" : 156,
+    "cachedContents" : {
+      "non_null" : 72,
+      "smallest" : "114th Precinct",
+      "null" : 142,
+      "largest" : "YMCA Bed-Stuy",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Betances"
+      }, {
+        "count" : 19,
+        "item" : "Lenox Road-Rockaway Parkway"
+      }, {
+        "count" : 18,
+        "item" : "Betances 2"
+      }, {
+        "count" : 17,
+        "item" : "Betances 3"
+      }, {
+        "count" : 16,
+        "item" : "Betances 4"
+      }, {
+        "count" : 15,
+        "item" : "Windsor Park Library"
+      }, {
+        "count" : 14,
+        "item" : "Fresh Meadows Library"
+      }, {
+        "count" : 13,
+        "item" : "Howard Beach Library"
+      }, {
+        "count" : 12,
+        "item" : "Riverdale Neighborhood house"
+      }, {
+        "count" : 11,
+        "item" : "Rocking the Boat"
+      }, {
+        "count" : 10,
+        "item" : "Valley Lodge"
+      }, {
+        "count" : 9,
+        "item" : "The Westbourne"
+      }, {
+        "count" : 8,
+        "item" : "129th street residences"
+      }, {
+        "count" : 7,
+        "item" : "Film Biz Recycling"
+      }, {
+        "count" : 6,
+        "item" : "Flushing YMCA"
+      }, {
+        "count" : 5,
+        "item" : "Prospect Park YMCA"
+      }, {
+        "count" : 4,
+        "item" : "Cross Island YMCA"
+      }, {
+        "count" : 3,
+        "item" : "YMCA Bed-Stuy"
+      }, {
+        "count" : 2,
+        "item" : "Long Island City YMCA"
+      }, {
+        "count" : 1,
+        "item" : "Entrance on East 118th St."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12098225,
+    "name" : "Zip",
+    "dataTypeName" : "text",
+    "fieldName" : "zip",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3317807,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 214,
+      "smallest" : "10001",
+      "null" : 0,
+      "largest" : "11692",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10003"
+      }, {
+        "count" : 19,
+        "item" : "10035"
+      }, {
+        "count" : 18,
+        "item" : "11216"
+      }, {
+        "count" : 17,
+        "item" : "10002"
+      }, {
+        "count" : 16,
+        "item" : "11101"
+      }, {
+        "count" : 15,
+        "item" : "10456"
+      }, {
+        "count" : 14,
+        "item" : "10453"
+      }, {
+        "count" : 13,
+        "item" : "11238"
+      }, {
+        "count" : 12,
+        "item" : "10032"
+      }, {
+        "count" : 11,
+        "item" : "10009"
+      }, {
+        "count" : 10,
+        "item" : "11207"
+      }, {
+        "count" : 9,
+        "item" : "10468"
+      }, {
+        "count" : 8,
+        "item" : "10458"
+      }, {
+        "count" : 7,
+        "item" : "11208"
+      }, {
+        "count" : 6,
+        "item" : "11213"
+      }, {
+        "count" : 5,
+        "item" : "11691"
+      }, {
+        "count" : 4,
+        "item" : "10040"
+      }, {
+        "count" : 3,
+        "item" : "10455"
+      }, {
+        "count" : 2,
+        "item" : "10454"
+      }, {
+        "count" : 1,
+        "item" : "11212"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12098226,
+    "name" : "Location",
+    "dataTypeName" : "location",
+    "fieldName" : "location",
+    "position" : 6,
+    "renderTypeName" : "location",
+    "tableColumnId" : 3317808,
+    "width" : 194,
+    "cachedContents" : {
+      "non_null" : 214,
+      "smallest" : {
+        "longitude" : "-73.95158068745047",
+        "latitude" : "40.74668288541022",
+        "human_address" : "{\"address\":\"10-27 46th Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11101\"}"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.88071901205879",
+        "latitude" : "40.84159956575862",
+        "human_address" : "{\"address\":\"999 E 178th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10460\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.82788209552716",
+          "latitude" : "40.76387046469852",
+          "human_address" : "{\"address\":\"138-46 Northern Blvd\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11354\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.98449587372284",
+          "latitude" : "40.66834294343789",
+          "human_address" : "{\"address\":\"357 9th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11215\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.72683805147472",
+          "latitude" : "40.73332088487009",
+          "human_address" : "{\"address\":\"238-10 Hillsdale Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11427\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.95421414326802",
+          "latitude" : "40.68527796251576",
+          "human_address" : "{\"address\":\"1121 Bedford Ave\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11216\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.93257715921851",
+          "latitude" : "40.74499325994295",
+          "human_address" : "{\"address\":\"32-23 Queens Blvd\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11101\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.99005881599756",
+          "latitude" : "40.633637619852465",
+          "human_address" : "{\"address\":\"4912 14th Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"11219\"}"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.93859447734735",
+          "latitude" : "40.799023427515465",
+          "human_address" : "{\"address\":\"206 East 118th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10035\"}"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.93696670447434",
+          "latitude" : "40.798151085147026",
+          "human_address" : "{\"address\":\"2295 2nd Avenue\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10035\"}"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.9374136655865",
+          "latitude" : "40.799444610049534",
+          "human_address" : "{\"address\":\"251 E. 119th Street\",\"city\":\"\",\"state\":\"NY\",\"zip\":\"10035\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "nyc cool roofs buildings", "dob", "environment", "cooling", "greenhouse gas", "reflective", "clean web" ],
+  "flags" : [ "default" ]
+}

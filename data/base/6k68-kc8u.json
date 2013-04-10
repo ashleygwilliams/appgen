@@ -1,0 +1,1005 @@
+{
+  "id" : "6k68-kc8u",
+  "name" : "Sidewalk Cafes",
+  "attribution" : "Department of Consumer Affairs (DCA)",
+  "averageRating" : 0,
+  "category" : "Business and Economic",
+  "createdAt" : 1318030452,
+  "description" : "A list of sidewalk cafes that have a current DCA license as of the run date.",
+  "displayType" : "table",
+  "downloadCount" : 791,
+  "numberOfComments" : 0,
+  "oid" : 341843,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318030714,
+  "publicationGroup" : 243926,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318030500,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 243926,
+  "totalTimesRated" : 0,
+  "viewCount" : 1656,
+  "viewLastModified" : 1319219487,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2980480,
+    "name" : "Entity Type",
+    "dataTypeName" : "text",
+    "fieldName" : "entity_type",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561590,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 1008,
+      "smallest" : "SIDEWALK CAFE",
+      "null" : 0,
+      "largest" : "SIDEWALK CAFE",
+      "top" : [ {
+        "count" : 1008,
+        "item" : "SIDEWALK CAFE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980481,
+    "name" : "License Number",
+    "dataTypeName" : "number",
+    "fieldName" : "license_number",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561591,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 1008,
+      "smallest" : "293907",
+      "sum" : "1177688595",
+      "null" : 0,
+      "average" : "1168341.860119048",
+      "largest" : "1357229",
+      "top" : [ {
+        "count" : 1,
+        "item" : "1103699"
+      }, {
+        "count" : 1,
+        "item" : "629616"
+      }, {
+        "count" : 1,
+        "item" : "1163815"
+      }, {
+        "count" : 1,
+        "item" : "1132655"
+      }, {
+        "count" : 1,
+        "item" : "1169146"
+      }, {
+        "count" : 1,
+        "item" : "1157473"
+      }, {
+        "count" : 1,
+        "item" : "920440"
+      }, {
+        "count" : 1,
+        "item" : "920314"
+      }, {
+        "count" : 1,
+        "item" : "1073840"
+      }, {
+        "count" : 1,
+        "item" : "1311304"
+      }, {
+        "count" : 1,
+        "item" : "1334107"
+      }, {
+        "count" : 1,
+        "item" : "1315480"
+      }, {
+        "count" : 1,
+        "item" : "1190476"
+      }, {
+        "count" : 1,
+        "item" : "1227042"
+      }, {
+        "count" : 1,
+        "item" : "1024654"
+      }, {
+        "count" : 1,
+        "item" : "1276674"
+      }, {
+        "count" : 1,
+        "item" : "1133929"
+      }, {
+        "count" : 1,
+        "item" : "1199111"
+      }, {
+        "count" : 1,
+        "item" : "1223897"
+      }, {
+        "count" : 1,
+        "item" : "1245534"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 2980482,
+    "name" : "Sidewalk Cafe Type",
+    "dataTypeName" : "text",
+    "fieldName" : "sidewalk_cafe_type",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561592,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 1008,
+      "smallest" : "Enclosed",
+      "null" : 0,
+      "largest" : "Unenclosed",
+      "top" : [ {
+        "count" : 861,
+        "item" : "Unenclosed"
+      }, {
+        "count" : 147,
+        "item" : "Enclosed"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980483,
+    "name" : "Lic Area Sq Ft",
+    "dataTypeName" : "number",
+    "fieldName" : "lic_area_sq_ft",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561593,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 973,
+      "smallest" : "1",
+      "sum" : "251664",
+      "null" : 35,
+      "average" : "258.6474820143885",
+      "largest" : "1300",
+      "top" : [ {
+        "count" : 10,
+        "item" : "175"
+      }, {
+        "count" : 9,
+        "item" : "180"
+      }, {
+        "count" : 9,
+        "item" : "162"
+      }, {
+        "count" : 9,
+        "item" : "140"
+      }, {
+        "count" : 8,
+        "item" : "200"
+      }, {
+        "count" : 8,
+        "item" : "126"
+      }, {
+        "count" : 8,
+        "item" : "145"
+      }, {
+        "count" : 8,
+        "item" : "320"
+      }, {
+        "count" : 8,
+        "item" : "144"
+      }, {
+        "count" : 8,
+        "item" : "170"
+      }, {
+        "count" : 7,
+        "item" : "420"
+      }, {
+        "count" : 7,
+        "item" : "185"
+      }, {
+        "count" : 7,
+        "item" : "360"
+      }, {
+        "count" : 7,
+        "item" : "138"
+      }, {
+        "count" : 7,
+        "item" : "168"
+      }, {
+        "count" : 6,
+        "item" : "108"
+      }, {
+        "count" : 6,
+        "item" : "177"
+      }, {
+        "count" : 6,
+        "item" : "228"
+      }, {
+        "count" : 6,
+        "item" : "280"
+      }, {
+        "count" : 6,
+        "item" : "99"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980484,
+    "name" : "Entity Name",
+    "dataTypeName" : "text",
+    "fieldName" : "entity_name",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561594,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 1008,
+      "smallest" : "1 & 3 ON 5TH CORP",
+      "null" : 0,
+      "largest" : "ZVAH, INC.",
+      "top" : [ {
+        "count" : 4,
+        "item" : "STARBUCKS CORPORATION"
+      }, {
+        "count" : 2,
+        "item" : "LENNY'S 77TH STREET LLC"
+      }, {
+        "count" : 2,
+        "item" : "BURKINABE ENTERTAINMENT LLC"
+      }, {
+        "count" : 2,
+        "item" : "EMEL SOAN CORP"
+      }, {
+        "count" : 2,
+        "item" : "PLAZA MEXICO, INC."
+      }, {
+        "count" : 2,
+        "item" : "542 3RD AVENUE FOOD CORP"
+      }, {
+        "count" : 2,
+        "item" : "BROADWAY 76 LTD"
+      }, {
+        "count" : 1,
+        "item" : "SULLIVAN RESTAURANT LLC"
+      }, {
+        "count" : 1,
+        "item" : "SAMALITAS OF CALIFORNIA II LLC"
+      }, {
+        "count" : 1,
+        "item" : "HELEDONA, INC"
+      }, {
+        "count" : 1,
+        "item" : "DE PALINO RESTAURANT CORP."
+      }, {
+        "count" : 1,
+        "item" : "C.A.P. RESTAURANT CORP."
+      }, {
+        "count" : 1,
+        "item" : "LA BOUCHERIE, INC."
+      }, {
+        "count" : 1,
+        "item" : "BROADWAY DESSERTS, LTD"
+      }, {
+        "count" : 1,
+        "item" : "BECAF LLC"
+      }, {
+        "count" : 1,
+        "item" : "KIMAN COFFEE SHOP,INC."
+      }, {
+        "count" : 1,
+        "item" : "MANGIA RESTAURANT CORPORATION"
+      }, {
+        "count" : 1,
+        "item" : "SAMMY'S S.B. REST. CORP."
+      }, {
+        "count" : 1,
+        "item" : "PALAZZO & CORSINI LLC"
+      }, {
+        "count" : 1,
+        "item" : "MACDOUGAL BLEECKER CORP."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980485,
+    "name" : "Camis Trade Name",
+    "dataTypeName" : "text",
+    "fieldName" : "camis_trade_name",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561595,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 400,
+      "smallest" : "107 WEST RESTAURANT",
+      "null" : 608,
+      "largest" : "ZUCCHERO E POMODON",
+      "top" : [ {
+        "count" : 2,
+        "item" : "LE PAIN QUOTIDIEN"
+      }, {
+        "count" : 2,
+        "item" : "BENNY'S BURRITOS"
+      }, {
+        "count" : 2,
+        "item" : "NIKO'S MEDITERREAN GRILL AND BISTRO"
+      }, {
+        "count" : 2,
+        "item" : "THE STUMBLE INN"
+      }, {
+        "count" : 2,
+        "item" : "BLOCKHEADS"
+      }, {
+        "count" : 2,
+        "item" : "ATHENS CAFE"
+      }, {
+        "count" : 2,
+        "item" : "MERCHANTS NY"
+      }, {
+        "count" : 2,
+        "item" : "HARU"
+      }, {
+        "count" : 2,
+        "item" : "PETITE ABEILLE"
+      }, {
+        "count" : 2,
+        "item" : "MAMA MEXICO"
+      }, {
+        "count" : 2,
+        "item" : "DALLAS BBQ"
+      }, {
+        "count" : 2,
+        "item" : "CAFE ESPANOL"
+      }, {
+        "count" : 2,
+        "item" : "SMITH & WOLLENSKY"
+      }, {
+        "count" : 2,
+        "item" : "STARBUCKS COFFEE COMPANY"
+      }, {
+        "count" : 1,
+        "item" : "BISTRO LES AMIS"
+      }, {
+        "count" : 1,
+        "item" : "FETCH"
+      }, {
+        "count" : 1,
+        "item" : "SHANGRILA DELI"
+      }, {
+        "count" : 1,
+        "item" : "RESTO"
+      }, {
+        "count" : 1,
+        "item" : "THE CITY GRILL"
+      }, {
+        "count" : 1,
+        "item" : "SILVER STAR RESTAURANT"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980486,
+    "name" : "Address Street Name",
+    "dataTypeName" : "text",
+    "fieldName" : "address_street_name",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561596,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 1008,
+      "smallest" : "10 AVENUE",
+      "null" : 0,
+      "largest" : "YORK AVENUE",
+      "top" : [ {
+        "count" : 73,
+        "item" : "BROADWAY"
+      }, {
+        "count" : 69,
+        "item" : "2 AVENUE"
+      }, {
+        "count" : 55,
+        "item" : "AMSTERDAM AVENUE"
+      }, {
+        "count" : 44,
+        "item" : "3 AVENUE"
+      }, {
+        "count" : 35,
+        "item" : "COLUMBUS AVENUE"
+      }, {
+        "count" : 28,
+        "item" : "SECOND AVENUE"
+      }, {
+        "count" : 26,
+        "item" : "THIRD AVENUE"
+      }, {
+        "count" : 20,
+        "item" : "1 AVENUE"
+      }, {
+        "count" : 20,
+        "item" : "MULBERRY STREET"
+      }, {
+        "count" : 18,
+        "item" : "HUDSON STREET"
+      }, {
+        "count" : 17,
+        "item" : "9 AVENUE"
+      }, {
+        "count" : 17,
+        "item" : "7 AVENUE"
+      }, {
+        "count" : 14,
+        "item" : "FIRST AVENUE"
+      }, {
+        "count" : 14,
+        "item" : "7 AVENUE SOUTH"
+      }, {
+        "count" : 12,
+        "item" : "LEXINGTON AVENUE"
+      }, {
+        "count" : 12,
+        "item" : "SPRING STREET"
+      }, {
+        "count" : 10,
+        "item" : "NINTH AVENUE"
+      }, {
+        "count" : 9,
+        "item" : "30 AVENUE"
+      }, {
+        "count" : 9,
+        "item" : "GREENWICH STREET"
+      }, {
+        "count" : 9,
+        "item" : "10 AVENUE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980487,
+    "name" : "Street Address",
+    "dataTypeName" : "text",
+    "fieldName" : "street_address",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561597,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 1008,
+      "smallest" : "10018 FOURTH AVENUE",
+      "null" : 0,
+      "largest" : "984 2 AVENUE",
+      "top" : [ {
+        "count" : 3,
+        "item" : "1900 BROADWAY"
+      }, {
+        "count" : 2,
+        "item" : "2161 BROADWAY"
+      }, {
+        "count" : 2,
+        "item" : "505 3 AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "225 WEST    4 STREET"
+      }, {
+        "count" : 2,
+        "item" : "10 DOWNING STREET"
+      }, {
+        "count" : 2,
+        "item" : "450 AMSTERDAM AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "30-95 33 STREET"
+      }, {
+        "count" : 2,
+        "item" : "1417 2 AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "88 2 AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "1481 SECOND AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "65 2 AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "441 AMSTERDAM AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "1090 AMSTERDAM AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "221-223 COLUMBUS AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "1491 2 AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "160 7 AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "38 EAST   19 STREET"
+      }, {
+        "count" : 2,
+        "item" : "477 AMSTERDAM AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "626 10 AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "2672 BROADWAY"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980488,
+    "name" : "Address Location",
+    "dataTypeName" : "text",
+    "fieldName" : "address_location",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561598,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 38,
+      "smallest" : "10019",
+      "null" : 970,
+      "largest" : "STORE # E",
+      "top" : [ {
+        "count" : 1,
+        "item" : "119-123 MACDOUGAL ST"
+      }, {
+        "count" : 1,
+        "item" : "10019"
+      }, {
+        "count" : 1,
+        "item" : "AKA 601 EAST 6 STREET"
+      }, {
+        "count" : 1,
+        "item" : "STORE #825"
+      }, {
+        "count" : 1,
+        "item" : "STORE #1 AND #2"
+      }, {
+        "count" : 1,
+        "item" : "AKA 460 WEST 20TH STREET"
+      }, {
+        "count" : 1,
+        "item" : "AKA MALCOLM X BLVD"
+      }, {
+        "count" : 1,
+        "item" : "257-263  6 AVENUE"
+      }, {
+        "count" : 1,
+        "item" : "AKA ADAM CLAYTON POWELL JR BLVD"
+      }, {
+        "count" : 1,
+        "item" : "A/K/A 31-02, 36 STREET"
+      }, {
+        "count" : 1,
+        "item" : "A/K/A 130 MULBERRY STREET"
+      }, {
+        "count" : 1,
+        "item" : "A/K/A 200 EAST 81 STREET"
+      }, {
+        "count" : 1,
+        "item" : "GR.FL"
+      }, {
+        "count" : 1,
+        "item" : "87-89 GREENWICH STREET"
+      }, {
+        "count" : 1,
+        "item" : "AKA 2 LAFAYETTE_STREET"
+      }, {
+        "count" : 1,
+        "item" : "SIXTH AVENUE"
+      }, {
+        "count" : 1,
+        "item" : "E/S/C #357"
+      }, {
+        "count" : 1,
+        "item" : "98 RIVINGTON STREET"
+      }, {
+        "count" : 1,
+        "item" : "8424 3 AVE"
+      }, {
+        "count" : 1,
+        "item" : "832-834 7 AVE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980489,
+    "name" : "Address Zip Code",
+    "dataTypeName" : "number",
+    "fieldName" : "address_zip_code",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561599,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 1008,
+      "smallest" : "10001",
+      "sum" : "10333985",
+      "null" : 0,
+      "average" : "10251.96924603175",
+      "largest" : "11694",
+      "top" : [ {
+        "count" : 88,
+        "item" : "10014"
+      }, {
+        "count" : 64,
+        "item" : "10003"
+      }, {
+        "count" : 62,
+        "item" : "10024"
+      }, {
+        "count" : 54,
+        "item" : "10013"
+      }, {
+        "count" : 46,
+        "item" : "10012"
+      }, {
+        "count" : 41,
+        "item" : "10025"
+      }, {
+        "count" : 37,
+        "item" : "10023"
+      }, {
+        "count" : 36,
+        "item" : "10016"
+      }, {
+        "count" : 36,
+        "item" : "10011"
+      }, {
+        "count" : 36,
+        "item" : "10028"
+      }, {
+        "count" : 32,
+        "item" : "10019"
+      }, {
+        "count" : 30,
+        "item" : "10021"
+      }, {
+        "count" : 28,
+        "item" : "10075"
+      }, {
+        "count" : 28,
+        "item" : "10128"
+      }, {
+        "count" : 27,
+        "item" : "10065"
+      }, {
+        "count" : 27,
+        "item" : "10009"
+      }, {
+        "count" : 26,
+        "item" : "10036"
+      }, {
+        "count" : 22,
+        "item" : "10022"
+      }, {
+        "count" : 18,
+        "item" : "11103"
+      }, {
+        "count" : 16,
+        "item" : "10010"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 2980490,
+    "name" : "Camis Phone Number",
+    "dataTypeName" : "number",
+    "fieldName" : "camis_phone_number",
+    "position" : 12,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561600,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 1008,
+      "smallest" : "212",
+      "sum" : "3793793954624",
+      "null" : 0,
+      "average" : "3763684478.793651",
+      "largest" : "9179912522",
+      "top" : [ {
+        "count" : 17,
+        "item" : "2125131988"
+      }, {
+        "count" : 6,
+        "item" : "9146326036"
+      }, {
+        "count" : 5,
+        "item" : "2123599000"
+      }, {
+        "count" : 3,
+        "item" : "6314248480"
+      }, {
+        "count" : 3,
+        "item" : "212"
+      }, {
+        "count" : 3,
+        "item" : "2123431212"
+      }, {
+        "count" : 2,
+        "item" : "2128642323"
+      }, {
+        "count" : 2,
+        "item" : "2127691212"
+      }, {
+        "count" : 2,
+        "item" : "2124960163"
+      }, {
+        "count" : 2,
+        "item" : "2127877199"
+      }, {
+        "count" : 2,
+        "item" : "2126899022"
+      }, {
+        "count" : 2,
+        "item" : "2128737000"
+      }, {
+        "count" : 2,
+        "item" : "2122133332"
+      }, {
+        "count" : 2,
+        "item" : "2127654842"
+      }, {
+        "count" : 2,
+        "item" : "6462756820"
+      }, {
+        "count" : 2,
+        "item" : "2127271505"
+      }, {
+        "count" : 2,
+        "item" : "2129837474"
+      }, {
+        "count" : 2,
+        "item" : "2127531530"
+      }, {
+        "count" : 2,
+        "item" : "2127722011"
+      }, {
+        "count" : 2,
+        "item" : "6462941902"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "false",
+      "align" : "right",
+      "mask" : "###-###-####"
+    }
+  }, {
+    "id" : 2980491,
+    "name" : "Location 1",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 13,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1561601,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 1008,
+      "smallest" : {
+        "longitude" : -73.99249983978359,
+        "latitude" : 40.72530600077374,
+        "human_address" : "{\"address\":\"1 BLEECKER STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10012\"}"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : -73.96752566702992,
+        "latitude" : 40.756233685361394,
+        "human_address" : "{\"address\":\"984 2 AVENUE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10022\"}"
+      },
+      "top" : [ {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.92643545073543,
+          "latitude" : 40.77152402451418,
+          "human_address" : "{\"address\":\"30 50 14 STREET\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11102\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.95627072148905,
+          "latitude" : 40.77170647121955,
+          "human_address" : "{\"address\":\"1471 SECOND AVENUE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10075\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.98052813112305,
+          "latitude" : 40.782698725331585,
+          "human_address" : "{\"address\":\"2186 BROADWAY\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10024\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.95658091793337,
+          "latitude" : 40.766998570052124,
+          "human_address" : "{\"address\":\"1321 1 AVENUE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10021\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.90960650023976,
+          "latitude" : 40.780092072491186,
+          "human_address" : "{\"address\":\"29 05 23 AVENUE\",\"city\":\"ASTORIA\",\"state\":\"NY\",\"zip\":\"11105\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.9880212160777,
+          "latitude" : 40.71997302113999,
+          "human_address" : "{\"address\":\"107 RIVINGTON STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10002\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.92492478250199,
+          "latitude" : 40.861868050922965,
+          "human_address" : "{\"address\":\"101B DYCKMAN STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10040\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.9570665518292,
+          "latitude" : 40.77457086153879,
+          "human_address" : "{\"address\":\"1394 3 AVENUE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10075\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -74.00655870149312,
+          "latitude" : 40.731763439488326,
+          "human_address" : "{\"address\":\"466 HUDSON STREET\",\"city\":\"MANHATTAN\",\"state\":\"NY\",\"zip\":\"10014\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.97428856869027,
+          "latitude" : 40.78869021739882,
+          "human_address" : "{\"address\":\"568 AMSTERDAM AVENUE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10024\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.97555082633563,
+          "latitude" : 40.68671870554047,
+          "human_address" : "{\"address\":\"662 FULTON STREET\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11217\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -74.0013851414331,
+          "latitude" : 40.73607987868479,
+          "human_address" : "{\"address\":\"173 7 AVENUE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10014\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -74.00995707678072,
+          "latitude" : 40.61164359368847,
+          "human_address" : "{\"address\":\"1476 86 STREET\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11228\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.95171405895464,
+          "latitude" : 40.723528223958596,
+          "human_address" : "{\"address\":\"905 LORIMER STREET\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11222\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.9316632529567,
+          "latitude" : 40.761699790013324,
+          "human_address" : "{\"address\":\"31 90 30 STREET\",\"city\":\"ASTORIA\",\"state\":\"NY\",\"zip\":\"11106\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.97570050427629,
+          "latitude" : 40.78673868859522,
+          "human_address" : "{\"address\":\"511 AMSTERDAM AVENUE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10024\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.9316632529567,
+          "latitude" : 40.761699790013324,
+          "human_address" : "{\"address\":\"33 21 31 AVENUE\",\"city\":\"ASTORIA\",\"state\":\"NY\",\"zip\":\"11106\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.95600113266143,
+          "latitude" : 40.57780407888207,
+          "human_address" : "{\"address\":\"1129 BRIGHTON BEACH AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11235\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.98162703644937,
+          "latitude" : 40.74090923798212,
+          "human_address" : "{\"address\":\"360 THIRD AVENUE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10016\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -74.00800910673831,
+          "latitude" : 40.716999760104166,
+          "human_address" : "{\"address\":\"145 BROADWAY\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10013\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "restaurant", "license", "café", "food", "meal", "sidewalk", "consumer affairs", "dca" ],
+  "flags" : [ "default" ]
+}

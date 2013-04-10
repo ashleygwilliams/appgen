@@ -1,0 +1,1307 @@
+{
+  "id" : "z4kf-gt4n",
+  "name" : "Watershed statistics",
+  "attribution" : "Department of Environmental Protection (DEP)",
+  "averageRating" : 0,
+  "createdAt" : 1315854103,
+  "description" : "County and Town Area Statistics for the NYC East-of-Hudson Watershed (including towns within a watershed county that are completely outside watershed)",
+  "displayType" : "table",
+  "downloadCount" : 8,
+  "numberOfComments" : 0,
+  "oid" : 332831,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1315854103,
+  "publicationGroup" : 240290,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1315854305,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 240290,
+  "totalTimesRated" : 0,
+  "viewCount" : 63,
+  "viewLastModified" : 1363712771,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2834726,
+    "name" : "TOWN**",
+    "dataTypeName" : "text",
+    "fieldName" : "town",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1518206,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 157,
+      "smallest" : "***  Town boundaries for the Greene County Towns of Windham, Jewett, Cairo, and Durham follow the ridgeline of the same divide forming the Schoharie Basin Watershed Boundary. Due to differing scales of the two data sources used to generate these statistics, care should be taken to categorize those towns as being either fully inside (Windham and Jewett) or outside (Cairo and Durham) the NYC watershed, despite any \"sliver\" polygons generated along boundaries when combining the two GIS layers. Such slivers are only artifacts of the differing scales of the data, while the true town boundaries and the watershed divide are one and the same.",
+      "null" : 1,
+      "largest" : "Yorktown",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Conesville"
+      }, {
+        "count" : 19,
+        "item" : "Gilboa"
+      }, {
+        "count" : 18,
+        "item" : "Jefferson"
+      }, {
+        "count" : 17,
+        "item" : "Schoharie WOH Towns Total"
+      }, {
+        "count" : 16,
+        "item" : "Schoharie County Total Acres Inside and Outside WOH including non-WOH Towns"
+      }, {
+        "count" : 15,
+        "item" : "Schoharie County Total Acres outside WOH including non-WOH Towns"
+      }, {
+        "count" : 14,
+        "item" : "% of All Schoharie County inside WOH "
+      }, {
+        "count" : 13,
+        "item" : "SULLIVAN COUNTY"
+      }, {
+        "count" : 12,
+        "item" : "Fallsburg"
+      }, {
+        "count" : 11,
+        "item" : "Liberty"
+      }, {
+        "count" : 10,
+        "item" : "Neversink"
+      }, {
+        "count" : 9,
+        "item" : "Sullivan WOH Towns Total"
+      }, {
+        "count" : 8,
+        "item" : "Sullivan County Total Acres Inside and Outside WOH including non-WOH Towns"
+      }, {
+        "count" : 7,
+        "item" : "Sullivan County Total Acres outside WOH including non-WOH Towns"
+      }, {
+        "count" : 6,
+        "item" : "% of All Sullivan County inside WOH "
+      }, {
+        "count" : 5,
+        "item" : "ULSTER COUNTY"
+      }, {
+        "count" : 4,
+        "item" : "Denning"
+      }, {
+        "count" : 3,
+        "item" : "Hardenburgh"
+      }, {
+        "count" : 2,
+        "item" : "Hurley"
+      }, {
+        "count" : 1,
+        "item" : "Kingston"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834727,
+    "name" : "Amawalk",
+    "dataTypeName" : "number",
+    "fieldName" : "amawalk",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518207,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 21,
+      "smallest" : "0",
+      "sum" : "351963.58",
+      "null" : 137,
+      "average" : "16760.17047619048",
+      "largest" : "131404",
+      "top" : [ {
+        "count" : 20,
+        "item" : "7987.3"
+      }, {
+        "count" : 19,
+        "item" : "512.15"
+      }, {
+        "count" : 18,
+        "item" : "8499.45"
+      }, {
+        "count" : 17,
+        "item" : "4073.34"
+      }, {
+        "count" : 16,
+        "item" : "161"
+      }, {
+        "count" : 15,
+        "item" : "14608"
+      }, {
+        "count" : 14,
+        "item" : "17236"
+      }, {
+        "count" : 13,
+        "item" : "31843"
+      }, {
+        "count" : 12,
+        "item" : "0"
+      }, {
+        "count" : 11,
+        "item" : "176"
+      }, {
+        "count" : 10,
+        "item" : "137"
+      }, {
+        "count" : 9,
+        "item" : "8491"
+      }, {
+        "count" : 8,
+        "item" : "10"
+      }, {
+        "count" : 7,
+        "item" : "270"
+      }, {
+        "count" : 6,
+        "item" : "29021"
+      }, {
+        "count" : 5,
+        "item" : "70859"
+      }, {
+        "count" : 4,
+        "item" : "22441"
+      }, {
+        "count" : 3,
+        "item" : "131404"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834728,
+    "name" : "Bog Brook",
+    "dataTypeName" : "number",
+    "fieldName" : "bog_brook",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518208,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 25,
+      "smallest" : "0",
+      "sum" : "586893.144",
+      "null" : 133,
+      "average" : "23475.72576",
+      "largest" : "288523",
+      "top" : [ {
+        "count" : 20,
+        "item" : "522.162"
+      }, {
+        "count" : 19,
+        "item" : "1841.91"
+      }, {
+        "count" : 18,
+        "item" : "2364.072"
+      }, {
+        "count" : 17,
+        "item" : "1205"
+      }, {
+        "count" : 16,
+        "item" : "24766"
+      }, {
+        "count" : 15,
+        "item" : "40896"
+      }, {
+        "count" : 14,
+        "item" : "2279"
+      }, {
+        "count" : 13,
+        "item" : "6043"
+      }, {
+        "count" : 12,
+        "item" : "26149"
+      }, {
+        "count" : 11,
+        "item" : "7083"
+      }, {
+        "count" : 10,
+        "item" : "25024"
+      }, {
+        "count" : 9,
+        "item" : "8095"
+      }, {
+        "count" : 8,
+        "item" : "15419"
+      }, {
+        "count" : 7,
+        "item" : "11"
+      }, {
+        "count" : 6,
+        "item" : "323"
+      }, {
+        "count" : 5,
+        "item" : "600"
+      }, {
+        "count" : 4,
+        "item" : "29709"
+      }, {
+        "count" : 3,
+        "item" : "45237"
+      }, {
+        "count" : 2,
+        "item" : "55683"
+      }, {
+        "count" : 1,
+        "item" : "288523"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834729,
+    "name" : "Boyds Corner",
+    "dataTypeName" : "number",
+    "fieldName" : "boyds_corner",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518209,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "0",
+      "sum" : "146442.96",
+      "null" : 142,
+      "average" : "9152.685",
+      "largest" : "38127",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3269.23"
+      }, {
+        "count" : 19,
+        "item" : "9419.41"
+      }, {
+        "count" : 18,
+        "item" : "1628.84"
+      }, {
+        "count" : 17,
+        "item" : "11048.25"
+      }, {
+        "count" : 16,
+        "item" : "0"
+      }, {
+        "count" : 15,
+        "item" : "176"
+      }, {
+        "count" : 14,
+        "item" : "240"
+      }, {
+        "count" : 13,
+        "item" : "20361"
+      }, {
+        "count" : 12,
+        "item" : "20777"
+      }, {
+        "count" : 11,
+        "item" : "32258"
+      }, {
+        "count" : 10,
+        "item" : "49"
+      }, {
+        "count" : 9,
+        "item" : "5820"
+      }, {
+        "count" : 8,
+        "item" : "38127"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834730,
+    "name" : "Cross River",
+    "dataTypeName" : "number",
+    "fieldName" : "cross_river",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518210,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 25,
+      "smallest" : "0",
+      "sum" : "513329.324",
+      "null" : 133,
+      "average" : "20533.17296",
+      "largest" : "197789",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4546.33"
+      }, {
+        "count" : 19,
+        "item" : "9434.76"
+      }, {
+        "count" : 18,
+        "item" : "109.048"
+      }, {
+        "count" : 17,
+        "item" : "3242.06"
+      }, {
+        "count" : 16,
+        "item" : "17332.198"
+      }, {
+        "count" : 15,
+        "item" : "1855.464"
+      }, {
+        "count" : 14,
+        "item" : "64509"
+      }, {
+        "count" : 13,
+        "item" : "3881"
+      }, {
+        "count" : 12,
+        "item" : "18679"
+      }, {
+        "count" : 11,
+        "item" : "701"
+      }, {
+        "count" : 10,
+        "item" : "7187"
+      }, {
+        "count" : 9,
+        "item" : "62235"
+      }, {
+        "count" : 8,
+        "item" : "40431"
+      }, {
+        "count" : 7,
+        "item" : "167"
+      }, {
+        "count" : 6,
+        "item" : "197789"
+      }, {
+        "count" : 5,
+        "item" : "13716"
+      }, {
+        "count" : 4,
+        "item" : "1336"
+      }, {
+        "count" : 3,
+        "item" : "15051"
+      }, {
+        "count" : 2,
+        "item" : "0"
+      }, {
+        "count" : 1,
+        "item" : "18"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834731,
+    "name" : "Croton Falls",
+    "dataTypeName" : "number",
+    "fieldName" : "croton_falls",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518211,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "0",
+      "sum" : "142537.940",
+      "null" : 140,
+      "average" : "7918.774444444444",
+      "largest" : "36851",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8343.77"
+      }, {
+        "count" : 19,
+        "item" : "676.445"
+      }, {
+        "count" : 18,
+        "item" : "989.068"
+      }, {
+        "count" : 17,
+        "item" : "10009.283"
+      }, {
+        "count" : 16,
+        "item" : "219.687"
+      }, {
+        "count" : 15,
+        "item" : "0"
+      }, {
+        "count" : 14,
+        "item" : "812"
+      }, {
+        "count" : 13,
+        "item" : "23377"
+      }, {
+        "count" : 12,
+        "item" : "24189"
+      }, {
+        "count" : 11,
+        "item" : "23160"
+      }, {
+        "count" : 10,
+        "item" : "274"
+      }, {
+        "count" : 9,
+        "item" : "2063"
+      }, {
+        "count" : 8,
+        "item" : "668"
+      }, {
+        "count" : 7,
+        "item" : "10686"
+      }, {
+        "count" : 6,
+        "item" : "36851"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834732,
+    "name" : "Diverting",
+    "dataTypeName" : "number",
+    "fieldName" : "diverting",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518212,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 21,
+      "smallest" : "0",
+      "sum" : "413696.212",
+      "null" : 137,
+      "average" : "19699.81961904762",
+      "largest" : "152558",
+      "top" : [ {
+        "count" : 20,
+        "item" : "140.153"
+      }, {
+        "count" : 19,
+        "item" : "4663.453"
+      }, {
+        "count" : 18,
+        "item" : "4803.606"
+      }, {
+        "count" : 17,
+        "item" : "15363"
+      }, {
+        "count" : 16,
+        "item" : "1018"
+      }, {
+        "count" : 15,
+        "item" : "16380"
+      }, {
+        "count" : 14,
+        "item" : "16054"
+      }, {
+        "count" : 13,
+        "item" : "753"
+      }, {
+        "count" : 12,
+        "item" : "28521"
+      }, {
+        "count" : 11,
+        "item" : "32162"
+      }, {
+        "count" : 10,
+        "item" : "32614"
+      }, {
+        "count" : 9,
+        "item" : "13779"
+      }, {
+        "count" : 8,
+        "item" : "28675"
+      }, {
+        "count" : 7,
+        "item" : "152558"
+      }, {
+        "count" : 6,
+        "item" : "39"
+      }, {
+        "count" : 5,
+        "item" : "21781"
+      }, {
+        "count" : 4,
+        "item" : "10913"
+      }, {
+        "count" : 3,
+        "item" : "373"
+      }, {
+        "count" : 2,
+        "item" : "33106"
+      }, {
+        "count" : 1,
+        "item" : "0"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834733,
+    "name" : "East Branch",
+    "dataTypeName" : "number",
+    "fieldName" : "east_branch",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518213,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 59,
+      "smallest" : "10",
+      "sum" : "2124019.889892",
+      "null" : 99,
+      "average" : "36000.33711681356",
+      "largest" : "502853",
+      "top" : [ {
+        "count" : 20,
+        "item" : "639.111"
+      }, {
+        "count" : 19,
+        "item" : "2933"
+      }, {
+        "count" : 18,
+        "item" : "35665"
+      }, {
+        "count" : 17,
+        "item" : "988"
+      }, {
+        "count" : 16,
+        "item" : "240"
+      }, {
+        "count" : 15,
+        "item" : "43738"
+      }, {
+        "count" : 14,
+        "item" : "44966"
+      }, {
+        "count" : 13,
+        "item" : "55612"
+      }, {
+        "count" : 12,
+        "item" : "22370"
+      }, {
+        "count" : 11,
+        "item" : "8491"
+      }, {
+        "count" : 10,
+        "item" : "10"
+      }, {
+        "count" : 9,
+        "item" : "270"
+      }, {
+        "count" : 8,
+        "item" : "29295"
+      }, {
+        "count" : 7,
+        "item" : "2063"
+      }, {
+        "count" : 6,
+        "item" : "79780"
+      }, {
+        "count" : 5,
+        "item" : "10686"
+      }, {
+        "count" : 4,
+        "item" : "22441"
+      }, {
+        "count" : 3,
+        "item" : "231018"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834734,
+    "name" : "Kensico",
+    "dataTypeName" : "number",
+    "fieldName" : "kensico",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518214,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 47,
+      "smallest" : "20.8618",
+      "sum" : "3677204.876370",
+      "null" : 111,
+      "average" : "78238.40162489362",
+      "largest" : "592453",
+      "top" : [ {
+        "count" : 20,
+        "item" : "457.234"
+      }, {
+        "count" : 19,
+        "item" : "14522"
+      }, {
+        "count" : 18,
+        "item" : "75519"
+      }, {
+        "count" : 17,
+        "item" : "21377"
+      }, {
+        "count" : 16,
+        "item" : "257001"
+      }, {
+        "count" : 15,
+        "item" : "511735"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834735,
+    "name" : "Lake Gilead",
+    "dataTypeName" : "number",
+    "fieldName" : "lake_gilead",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518215,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 53,
+      "smallest" : "419.115",
+      "sum" : "6702951.230",
+      "null" : 105,
+      "average" : "126470.7779245283",
+      "largest" : "938844",
+      "top" : [ {
+        "count" : 20,
+        "item" : "419.115"
+      }, {
+        "count" : 19,
+        "item" : "51186"
+      }, {
+        "count" : 18,
+        "item" : "22649"
+      }, {
+        "count" : 17,
+        "item" : "4630"
+      }, {
+        "count" : 16,
+        "item" : "35668"
+      }, {
+        "count" : 15,
+        "item" : "42044"
+      }, {
+        "count" : 14,
+        "item" : "57108"
+      }, {
+        "count" : 13,
+        "item" : "79780"
+      }, {
+        "count" : 12,
+        "item" : "86205"
+      }, {
+        "count" : 11,
+        "item" : "43818"
+      }, {
+        "count" : 10,
+        "item" : "488018"
+      }, {
+        "count" : 9,
+        "item" : "742753"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834736,
+    "name" : "Lake Gleneida",
+    "dataTypeName" : "percent",
+    "fieldName" : "lake_gleneida",
+    "position" : 12,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1518216,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 53,
+      "smallest" : "0.1",
+      "sum" : "3557.476",
+      "null" : 105,
+      "average" : "67.12218867924528",
+      "largest" : "415.288",
+      "top" : [ {
+        "count" : 20,
+        "item" : "415.288"
+      }, {
+        "count" : 19,
+        "item" : "100.0"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834737,
+    "name" : "Middle Branch",
+    "dataTypeName" : "number",
+    "fieldName" : "middle_branch",
+    "position" : 13,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518217,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 9,
+      "smallest" : "551.644",
+      "sum" : "26783.070",
+      "null" : 149,
+      "average" : "2975.896666666667",
+      "largest" : "9166.564",
+      "top" : [ {
+        "count" : 20,
+        "item" : "987.285"
+      }, {
+        "count" : 19,
+        "item" : "2404.29"
+      }, {
+        "count" : 18,
+        "item" : "833.396"
+      }, {
+        "count" : 17,
+        "item" : "4224.971"
+      }, {
+        "count" : 16,
+        "item" : "551.644"
+      }, {
+        "count" : 15,
+        "item" : "4411.23"
+      }, {
+        "count" : 14,
+        "item" : "1194.48"
+      }, {
+        "count" : 13,
+        "item" : "3009.21"
+      }, {
+        "count" : 12,
+        "item" : "9166.564"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834738,
+    "name" : "Muscoot",
+    "dataTypeName" : "number",
+    "fieldName" : "muscoot",
+    "position" : 14,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518218,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 10,
+      "smallest" : "2092.9",
+      "sum" : "96829.90",
+      "null" : 148,
+      "average" : "9682.99",
+      "largest" : "43536.18",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2092.9"
+      }, {
+        "count" : 19,
+        "item" : "2785.87"
+      }, {
+        "count" : 18,
+        "item" : "4878.77"
+      }, {
+        "count" : 17,
+        "item" : "12606.6"
+      }, {
+        "count" : 16,
+        "item" : "3891.82"
+      }, {
+        "count" : 15,
+        "item" : "4436.87"
+      }, {
+        "count" : 14,
+        "item" : "2793.66"
+      }, {
+        "count" : 13,
+        "item" : "14172"
+      }, {
+        "count" : 12,
+        "item" : "5635.23"
+      }, {
+        "count" : 11,
+        "item" : "43536.18"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834739,
+    "name" : "New Croton",
+    "dataTypeName" : "number",
+    "fieldName" : "new_croton",
+    "position" : 15,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518219,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "170.258",
+      "sum" : "74255.156",
+      "null" : 150,
+      "average" : "9281.8945",
+      "largest" : "37127.578",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4499.69"
+      }, {
+        "count" : 19,
+        "item" : "3743.21"
+      }, {
+        "count" : 18,
+        "item" : "1980.8"
+      }, {
+        "count" : 17,
+        "item" : "9397.79"
+      }, {
+        "count" : 16,
+        "item" : "170.258"
+      }, {
+        "count" : 15,
+        "item" : "2040.63"
+      }, {
+        "count" : 14,
+        "item" : "15295.2"
+      }, {
+        "count" : 13,
+        "item" : "37127.578"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834740,
+    "name" : "Titicus",
+    "dataTypeName" : "number",
+    "fieldName" : "titicus",
+    "position" : 16,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518220,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "855.415",
+      "sum" : "31152.784",
+      "null" : 153,
+      "average" : "6230.5568",
+      "largest" : "10387.122",
+      "top" : [ {
+        "count" : 20,
+        "item" : "855.415"
+      }, {
+        "count" : 19,
+        "item" : "9531.707"
+      }, {
+        "count" : 18,
+        "item" : "10387.122"
+      }, {
+        "count" : 17,
+        "item" : "5189.27"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834741,
+    "name" : "West Branch",
+    "dataTypeName" : "number",
+    "fieldName" : "west_branch",
+    "position" : 17,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518221,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "149.38",
+      "sum" : "25473.62",
+      "null" : 153,
+      "average" : "5094.724",
+      "largest" : "12587.43",
+      "top" : [ {
+        "count" : 20,
+        "item" : "149.38"
+      }, {
+        "count" : 19,
+        "item" : "4444.13"
+      }, {
+        "count" : 18,
+        "item" : "8143.3"
+      }, {
+        "count" : 17,
+        "item" : "12587.43"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834742,
+    "name" : "Sub-total Town Acres Inside NYC Watershed",
+    "dataTypeName" : "number",
+    "fieldName" : "sub_total_town_acres_inside_nyc_watershed",
+    "position" : 18,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518222,
+    "width" : 592,
+    "cachedContents" : {
+      "non_null" : 80,
+      "smallest" : "0.00",
+      "sum" : "496175.27",
+      "null" : 78,
+      "average" : "6202.190875",
+      "largest" : "121334.42",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "999.85"
+      }, {
+        "count" : 18,
+        "item" : "5822.90"
+      }, {
+        "count" : 17,
+        "item" : "13672.54"
+      }, {
+        "count" : 16,
+        "item" : "20495.28"
+      }, {
+        "count" : 15,
+        "item" : "24254.15"
+      }, {
+        "count" : 14,
+        "item" : "23028.39"
+      }, {
+        "count" : 13,
+        "item" : "20897.32"
+      }, {
+        "count" : 12,
+        "item" : "2140.99"
+      }, {
+        "count" : 11,
+        "item" : "22058.75"
+      }, {
+        "count" : 10,
+        "item" : "92379.59"
+      }, {
+        "count" : 9,
+        "item" : "21652.62"
+      }, {
+        "count" : 8,
+        "item" : "20.86"
+      }, {
+        "count" : 7,
+        "item" : "3743.21"
+      }, {
+        "count" : 6,
+        "item" : "788.40"
+      }, {
+        "count" : 5,
+        "item" : "14181.99"
+      }, {
+        "count" : 4,
+        "item" : "1980.80"
+      }, {
+        "count" : 3,
+        "item" : "2046.18"
+      }, {
+        "count" : 2,
+        "item" : "9814.70"
+      }, {
+        "count" : 1,
+        "item" : "4917.11"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834743,
+    "name" : "Town Acres Outside NYC Watershed",
+    "dataTypeName" : "number",
+    "fieldName" : "town_acres_outside_nyc_watershed",
+    "position" : 19,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518223,
+    "width" : 484,
+    "cachedContents" : {
+      "non_null" : 80,
+      "smallest" : "0.00",
+      "sum" : "2338553.43",
+      "null" : 78,
+      "average" : "29231.917875",
+      "largest" : "507363.91",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4563.01"
+      }, {
+        "count" : 19,
+        "item" : "15665.34"
+      }, {
+        "count" : 18,
+        "item" : "0.00"
+      }, {
+        "count" : 17,
+        "item" : "18937.76"
+      }, {
+        "count" : 16,
+        "item" : "5200.22"
+      }, {
+        "count" : 15,
+        "item" : "11790.00"
+      }, {
+        "count" : 14,
+        "item" : "122.93"
+      }, {
+        "count" : 13,
+        "item" : "9935.87"
+      }, {
+        "count" : 12,
+        "item" : "1406.45"
+      }, {
+        "count" : 11,
+        "item" : "8745.85"
+      }, {
+        "count" : 10,
+        "item" : "4729.33"
+      }, {
+        "count" : 9,
+        "item" : "4266.50"
+      }, {
+        "count" : 8,
+        "item" : "47.77"
+      }, {
+        "count" : 7,
+        "item" : "4312.19"
+      }, {
+        "count" : 6,
+        "item" : "198599.59"
+      }, {
+        "count" : 5,
+        "item" : "10839.10"
+      }, {
+        "count" : 4,
+        "item" : "10465.17"
+      }, {
+        "count" : 3,
+        "item" : "13031.30"
+      }, {
+        "count" : 2,
+        "item" : "27118.20"
+      }, {
+        "count" : 1,
+        "item" : "8139.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834744,
+    "name" : "Total Town Acreage",
+    "dataTypeName" : "number",
+    "fieldName" : "total_town_acreage",
+    "position" : 20,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518224,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 80,
+      "smallest" : "1406.45",
+      "sum" : "2834728.71",
+      "null" : 78,
+      "average" : "35434.108875",
+      "largest" : "527859.20",
+      "top" : [ {
+        "count" : 20,
+        "item" : "18745.00"
+      }, {
+        "count" : 19,
+        "item" : "15665.34"
+      }, {
+        "count" : 18,
+        "item" : "1980.80"
+      }, {
+        "count" : 17,
+        "item" : "20983.94"
+      }, {
+        "count" : 16,
+        "item" : "15014.92"
+      }, {
+        "count" : 15,
+        "item" : "16707.11"
+      }, {
+        "count" : 14,
+        "item" : "14839.67"
+      }, {
+        "count" : 13,
+        "item" : "9935.87"
+      }, {
+        "count" : 12,
+        "item" : "1406.45"
+      }, {
+        "count" : 11,
+        "item" : "14781.57"
+      }, {
+        "count" : 10,
+        "item" : "4729.33"
+      }, {
+        "count" : 9,
+        "item" : "4266.50"
+      }, {
+        "count" : 8,
+        "item" : "20553.43"
+      }, {
+        "count" : 7,
+        "item" : "25242.62"
+      }, {
+        "count" : 6,
+        "item" : "319934.01"
+      }, {
+        "count" : 5,
+        "item" : "10839.10"
+      }, {
+        "count" : 4,
+        "item" : "10465.17"
+      }, {
+        "count" : 3,
+        "item" : "13031.30"
+      }, {
+        "count" : 2,
+        "item" : "28106.89"
+      }, {
+        "count" : 1,
+        "item" : "8139.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2834745,
+    "name" : "% of each Town in NYC Watershed",
+    "dataTypeName" : "percent",
+    "fieldName" : "of_each_town_in_nyc_watershed",
+    "position" : 21,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1518225,
+    "width" : 472,
+    "cachedContents" : {
+      "non_null" : 80,
+      "smallest" : "0.00",
+      "sum" : "1333.37",
+      "null" : 78,
+      "average" : "16.667125",
+      "largest" : "100.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "5.08"
+      }, {
+        "count" : 18,
+        "item" : "15.83"
+      }, {
+        "count" : 17,
+        "item" : "47.17"
+      }, {
+        "count" : 16,
+        "item" : "3.88"
+      }, {
+        "count" : 15,
+        "item" : "93.06"
+      }, {
+        "count" : 14,
+        "item" : "84.05"
+      }, {
+        "count" : 13,
+        "item" : "100.00"
+      }, {
+        "count" : 12,
+        "item" : "7.80"
+      }, {
+        "count" : 11,
+        "item" : "98.26"
+      }, {
+        "count" : 10,
+        "item" : "58.67"
+      }, {
+        "count" : 9,
+        "item" : "85.46"
+      }, {
+        "count" : 8,
+        "item" : "0.33"
+      }, {
+        "count" : 7,
+        "item" : "11.60"
+      }, {
+        "count" : 6,
+        "item" : "7.10"
+      }, {
+        "count" : 5,
+        "item" : "75.66"
+      }, {
+        "count" : 4,
+        "item" : "9.75"
+      }, {
+        "count" : 3,
+        "item" : "65.37"
+      }, {
+        "count" : 2,
+        "item" : "29.43"
+      }, {
+        "count" : 1,
+        "item" : "99.17"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "department of environmental protection", "dep", "environment", "water", "reservoir", "health", "ecosystem", "eco-system", "agua", "water system", "water supply", "nyc", "tap", "tap water", "conservation", "basin town", "basin", "healthy living" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,545 @@
+{
+  "id" : "6eph-59sd",
+  "name" : "Completed Percent for Art projects with artist information",
+  "attribution" : "Department of Cultural Affairs (DCLA)",
+  "averageRating" : 0,
+  "category" : "Cultural Affairs",
+  "createdAt" : 1318112814,
+  "description" : "This data set contains the current listing of Department of Cultural Affairs completed Percent for Art projects.",
+  "displayType" : "table",
+  "downloadCount" : 70,
+  "numberOfComments" : 0,
+  "oid" : 342238,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318112858,
+  "publicationGroup" : 244100,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318112817,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 244100,
+  "totalTimesRated" : 0,
+  "viewCount" : 226,
+  "viewLastModified" : 1328657671,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2988771,
+    "name" : "Percent Project",
+    "dataTypeName" : "text",
+    "fieldName" : "percent_project",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564139,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 282,
+      "smallest" : "59th Street Marine Transfer Station ",
+      "null" : 0,
+      "largest" : "Williamsburg Childcare Center ",
+      "top" : [ {
+        "count" : 9,
+        "item" : "Office of Chief Medical Examiner "
+      }, {
+        "count" : 3,
+        "item" : "Audubon Ballroom "
+      }, {
+        "count" : 3,
+        "item" : "IS 90 "
+      }, {
+        "count" : 3,
+        "item" : "Long Island City High School "
+      }, {
+        "count" : 3,
+        "item" : "New Children's Center "
+      }, {
+        "count" : 3,
+        "item" : "PS 181 "
+      }, {
+        "count" : 3,
+        "item" : "PS 24 "
+      }, {
+        "count" : 3,
+        "item" : "PS 306 "
+      }, {
+        "count" : 3,
+        "item" : "Townsend Harris High School "
+      }, {
+        "count" : 3,
+        "item" : "Van Arsdale High School "
+      }, {
+        "count" : 3,
+        "item" : "Walton High School "
+      }, {
+        "count" : 2,
+        "item" : "Bronx County Hall of Justice "
+      }, {
+        "count" : 2,
+        "item" : "Bronx Housing Court "
+      }, {
+        "count" : 2,
+        "item" : "Coney Island Water Pollution Control Center Plant "
+      }, {
+        "count" : 2,
+        "item" : "Crossroads Juvenile Detention Center "
+      }, {
+        "count" : 2,
+        "item" : "East River Promenade "
+      }, {
+        "count" : 2,
+        "item" : "Flushing Regional Library "
+      }, {
+        "count" : 2,
+        "item" : "Frederick Douglass Memorial "
+      }, {
+        "count" : 2,
+        "item" : "IS 125 "
+      }, {
+        "count" : 2,
+        "item" : "IS 2 "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988772,
+    "name" : "Artist",
+    "dataTypeName" : "text",
+    "fieldName" : "artist",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564140,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 282,
+      "smallest" : " Acconci, Vito",
+      "null" : 0,
+      "largest" : " Zweig, Janet",
+      "top" : [ {
+        "count" : 3,
+        "item" : " Dennis, Donna"
+      }, {
+        "count" : 3,
+        "item" : " Ladda, Justen"
+      }, {
+        "count" : 3,
+        "item" : " Sky, Alison"
+      }, {
+        "count" : 3,
+        "item" : " Smyth, Ned"
+      }, {
+        "count" : 3,
+        "item" : " Wexler, Allan"
+      }, {
+        "count" : 2,
+        "item" : " Acconci, Vito"
+      }, {
+        "count" : 2,
+        "item" : " Adams, Dennis"
+      }, {
+        "count" : 2,
+        "item" : " Arai, Tomie"
+      }, {
+        "count" : 2,
+        "item" : " Buchen, Bill"
+      }, {
+        "count" : 2,
+        "item" : " Chase, Colin"
+      }, {
+        "count" : 2,
+        "item" : " Cole, Willie"
+      }, {
+        "count" : 2,
+        "item" : " DeMonte, Claudia"
+      }, {
+        "count" : 2,
+        "item" : " Dermansky, Julie"
+      }, {
+        "count" : 2,
+        "item" : " Fay, Ming"
+      }, {
+        "count" : 2,
+        "item" : " Grajales, Elizabeth"
+      }, {
+        "count" : 2,
+        "item" : " Greengold, Jane"
+      }, {
+        "count" : 2,
+        "item" : " Harries, Mags"
+      }, {
+        "count" : 2,
+        "item" : " Hassinger, Maren"
+      }, {
+        "count" : 2,
+        "item" : " Holder, Robin"
+      }, {
+        "count" : 2,
+        "item" : " Holup, Wopo"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988773,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564141,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 282,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 77,
+        "item" : "Manhattan"
+      }, {
+        "count" : 76,
+        "item" : "Queens"
+      }, {
+        "count" : 66,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 50,
+        "item" : "Bronx"
+      }, {
+        "count" : 13,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988774,
+    "name" : "Council District",
+    "dataTypeName" : "text",
+    "fieldName" : "council_district",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564142,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 280,
+      "smallest" : "Bronx Council District #11",
+      "null" : 2,
+      "largest" : "Staten Island Council District #49",
+      "top" : [ {
+        "count" : 16,
+        "item" : "Manhattan Council District #1"
+      }, {
+        "count" : 14,
+        "item" : "Manhattan Council District #4"
+      }, {
+        "count" : 12,
+        "item" : "Manhattan Council District #7"
+      }, {
+        "count" : 12,
+        "item" : "Queens Council District #21"
+      }, {
+        "count" : 12,
+        "item" : "Queens Council District #25"
+      }, {
+        "count" : 11,
+        "item" : "Bronx Council District #11"
+      }, {
+        "count" : 11,
+        "item" : "Queens Council District #24"
+      }, {
+        "count" : 9,
+        "item" : "Bronx Council District #15"
+      }, {
+        "count" : 9,
+        "item" : "Bronx Council District #16"
+      }, {
+        "count" : 9,
+        "item" : "Brooklyn Council District #35"
+      }, {
+        "count" : 9,
+        "item" : "Manhattan Council District #10"
+      }, {
+        "count" : 9,
+        "item" : "Manhattan Council District #8"
+      }, {
+        "count" : 9,
+        "item" : "Staten Island Council Dist #49"
+      }, {
+        "count" : 8,
+        "item" : "Brooklyn Council District #38"
+      }, {
+        "count" : 8,
+        "item" : "Brooklyn Council District #45"
+      }, {
+        "count" : 7,
+        "item" : "Bronx Council District #14"
+      }, {
+        "count" : 7,
+        "item" : "Brooklyn Council District #48"
+      }, {
+        "count" : 7,
+        "item" : "Queens Council District #23"
+      }, {
+        "count" : 6,
+        "item" : "Bronx Council District #17"
+      }, {
+        "count" : 6,
+        "item" : "Brooklyn Council District #33"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988775,
+    "name" : "Community Board",
+    "dataTypeName" : "text",
+    "fieldName" : "community_board",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564143,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 278,
+      "smallest" : "Bronx Community Board",
+      "null" : 4,
+      "largest" : "Staten Island Community Brd #3",
+      "top" : [ {
+        "count" : 15,
+        "item" : "Manhattan Community Board #12"
+      }, {
+        "count" : 12,
+        "item" : "Manhattan Community Board #1"
+      }, {
+        "count" : 12,
+        "item" : "Manhattan Community Board #6"
+      }, {
+        "count" : 11,
+        "item" : "Brooklyn Community Board #17"
+      }, {
+        "count" : 11,
+        "item" : "Queens Community Board #3"
+      }, {
+        "count" : 11,
+        "item" : "Queens Community Board #4"
+      }, {
+        "count" : 8,
+        "item" : "Queens Community Board #7"
+      }, {
+        "count" : 7,
+        "item" : "Bronx Community Board #1"
+      }, {
+        "count" : 7,
+        "item" : "Bronx Community Board #4"
+      }, {
+        "count" : 7,
+        "item" : "Bronx Community Board #5"
+      }, {
+        "count" : 7,
+        "item" : "Bronx Community Board #7"
+      }, {
+        "count" : 7,
+        "item" : "Manhattan Community Board #11"
+      }, {
+        "count" : 7,
+        "item" : "Queens Community Board #13"
+      }, {
+        "count" : 7,
+        "item" : "Staten Island Community Brd #1"
+      }, {
+        "count" : 6,
+        "item" : "Brooklyn Community Board #1"
+      }, {
+        "count" : 6,
+        "item" : "Brooklyn Community Board #16"
+      }, {
+        "count" : 6,
+        "item" : "Brooklyn Community Board #7"
+      }, {
+        "count" : 6,
+        "item" : "Manhattan Community Board #10"
+      }, {
+        "count" : 6,
+        "item" : "Queens Community Board #12"
+      }, {
+        "count" : 6,
+        "item" : "Queens Community Board #9"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988776,
+    "name" : "Location 1",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 7,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1564144,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 66,
+      "smallest" : {
+        "longitude" : -74.00795700041522,
+        "latitude" : 40.70553100025546,
+        "human_address" : "{\"address\":\"\",\"city\":\"Allen Street\",\"state\":\"New York\",\"zip\":\"\"}"
+      },
+      "null" : 216,
+      "largest" : {
+        "human_address" : "{\"address\":\"Whitehall\",\"city\":\"Streets\",\"state\":\"New York\",\"zip\":\"\"}"
+      },
+      "top" : [ {
+        "count" : 9,
+        "item" : {
+          "human_address" : "{\"address\":\"421 26th\",\"city\":\"Street\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "human_address" : "{\"address\":\"492 First\",\"city\":\"Avenue\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"Frederick Douglass Circle\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "human_address" : "{\"address\":\"125 White\",\"city\":\"Street\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "human_address" : "{\"address\":\"127 127th\",\"city\":\"Street\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "human_address" : "{\"address\":\"143 Baxter\",\"city\":\"Street\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "human_address" : "{\"address\":\"21 Jumel\",\"city\":\"Place\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "human_address" : "{\"address\":\"213 63rd\",\"city\":\"Street\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "human_address" : "{\"address\":\"215 99th\",\"city\":\"Street\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "human_address" : "{\"address\":\"2180 First\",\"city\":\"Avenue\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "human_address" : "{\"address\":\"300 Greenwich\",\"city\":\"Street\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "human_address" : "{\"address\":\"345 Chambers\",\"city\":\"Street\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "human_address" : "{\"address\":\"465 167th\",\"city\":\"Street\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "human_address" : "{\"address\":\"Whitehall\",\"city\":\"Streets\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -74.00795700041522,
+          "latitude" : 40.70553100025546,
+          "human_address" : "{\"address\":\"\",\"city\":\"Allen Street\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"Civic Center\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "human_address" : "{\"address\":\"1 Centre\",\"city\":\"Street\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "human_address" : "{\"address\":\"100 Amsterdam\",\"city\":\"Avenue\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "human_address" : "{\"address\":\"107th Street\",\"city\":\"Esplanade\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "human_address" : "{\"address\":\"1218 Elwood\",\"city\":\"Street\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "cultural", "culture", "program", "fund", "funding", "project", "art", "percent", "percent for art", "artist", "dcla", "cultural affairs" ],
+  "flags" : [ "default" ]
+}

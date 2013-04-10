@@ -1,0 +1,679 @@
+{
+  "id" : "6j6t-3ixh",
+  "name" : "DFTA Contracts",
+  "attribution" : "Department for the Aging (DFTA)",
+  "attributionLink" : "http://www.nyc.gov/aging",
+  "averageRating" : 0,
+  "category" : "Social Services",
+  "createdAt" : 1362168556,
+  "description" : "Listing of all Senior Centers, Abuse Prevention Contracts, Home Care Contracts, Legal Services Contracts, NORC Contracts, Transportation Contracts, Case Mangement Contracts, Home Delivered Meal Contracts and  Caregiver Contracts in all five boroughs.",
+  "displayType" : "table",
+  "downloadCount" : 6,
+  "numberOfComments" : 0,
+  "oid" : 3085331,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1365198682,
+  "publicationGroup" : 707852,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1365198681,
+  "rowsUpdatedBy" : "5fuc-pqz2",
+  "signed" : false,
+  "tableId" : 777588,
+  "totalTimesRated" : 0,
+  "viewCount" : 24,
+  "viewLastModified" : 1365198682,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 55758250,
+    "name" : "Contract Type",
+    "dataTypeName" : "text",
+    "description" : "contract service type",
+    "fieldName" : "contract_type",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8272603,
+    "width" : 118,
+    "cachedContents" : {
+      "non_null" : 409,
+      "smallest" : "CAREGIVER",
+      "null" : 0,
+      "largest" : "TRANSPORTATION ONLY",
+      "top" : [ {
+        "count" : 20,
+        "item" : "CAREGIVER"
+      }, {
+        "count" : 19,
+        "item" : "CASE MANAGEMENT ONLY"
+      }, {
+        "count" : 18,
+        "item" : "COMMUNITY CARE TRANSITION"
+      }, {
+        "count" : 17,
+        "item" : "CONGREGATE SITES"
+      }, {
+        "count" : 16,
+        "item" : "EMPLOYMENT"
+      }, {
+        "count" : 15,
+        "item" : "HOME CARE"
+      }, {
+        "count" : 14,
+        "item" : "HOME DELIVERED MEALS"
+      }, {
+        "count" : 13,
+        "item" : "INNOVATIVE SENIOR CENTERS"
+      }, {
+        "count" : 12,
+        "item" : "LEGAL SERVICES"
+      }, {
+        "count" : 11,
+        "item" : "NEIGHBORHOOD SENIOR CENTE"
+      }, {
+        "count" : 10,
+        "item" : "NORC SITES"
+      }, {
+        "count" : 9,
+        "item" : "SOCIAL ADULT DAY CARE"
+      }, {
+        "count" : 8,
+        "item" : "SOCIAL SERVICES ONLY"
+      }, {
+        "count" : 7,
+        "item" : "TRANSPORTATION ONLY"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 55758251,
+    "name" : "Provider ID",
+    "dataTypeName" : "text",
+    "description" : "contract id number",
+    "fieldName" : "provider_id",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8272620,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 409,
+      "smallest" : "11E01",
+      "null" : 0,
+      "largest" : "N4901",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N3201"
+      }, {
+        "count" : 19,
+        "item" : "N1301"
+      }, {
+        "count" : 18,
+        "item" : "N3301"
+      }, {
+        "count" : 17,
+        "item" : "N3701"
+      }, {
+        "count" : 16,
+        "item" : "N4701"
+      }, {
+        "count" : 15,
+        "item" : "N4201"
+      }, {
+        "count" : 14,
+        "item" : "N4901"
+      }, {
+        "count" : 13,
+        "item" : "N4301"
+      }, {
+        "count" : 12,
+        "item" : "N3401"
+      }, {
+        "count" : 11,
+        "item" : "N2301"
+      }, {
+        "count" : 10,
+        "item" : "N3501"
+      }, {
+        "count" : 9,
+        "item" : "23V01"
+      }, {
+        "count" : 8,
+        "item" : "12F03"
+      }, {
+        "count" : 7,
+        "item" : "12F01"
+      }, {
+        "count" : 6,
+        "item" : "50501"
+      }, {
+        "count" : 5,
+        "item" : "11G01"
+      }, {
+        "count" : 4,
+        "item" : "63801"
+      }, {
+        "count" : 3,
+        "item" : "33301"
+      }, {
+        "count" : 2,
+        "item" : "25501"
+      }, {
+        "count" : 1,
+        "item" : "16901"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 55758252,
+    "name" : "Program Name",
+    "dataTypeName" : "text",
+    "description" : "contract name",
+    "fieldName" : "program_name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8272621,
+    "width" : 129,
+    "cachedContents" : {
+      "non_null" : 409,
+      "smallest" : "A. PHILIP RANDOLPH NEIGHBORHOOD SC",
+      "null" : 0,
+      "largest" : "YOUNG ISRAEL SR SERVICES NBH SR CTR",
+      "top" : [ {
+        "count" : 20,
+        "item" : "MRHS NORC PROGRAM"
+      }, {
+        "count" : 19,
+        "item" : "PARKCHESTER ENHANCEMENT PROGRAM NORC"
+      }, {
+        "count" : 18,
+        "item" : "PENN SOUTH NORC PROGRAM"
+      }, {
+        "count" : 17,
+        "item" : "PHIPPS PLAZA WEST NORC"
+      }, {
+        "count" : 16,
+        "item" : "ROCHDALE VILLAGE"
+      }, {
+        "count" : 15,
+        "item" : "SELFHELP BIG SIX NORC"
+      }, {
+        "count" : 14,
+        "item" : "SELFHELP NORTHRIDGE 11-BRULENE"
+      }, {
+        "count" : 13,
+        "item" : "SELFHELP QUEENSVIEW NORC"
+      }, {
+        "count" : 12,
+        "item" : "STANLEY ISAACS NORC"
+      }, {
+        "count" : 11,
+        "item" : "TRUMP VILLAGE NORC"
+      }, {
+        "count" : 10,
+        "item" : "VLADECK CARES NORC"
+      }, {
+        "count" : 9,
+        "item" : "LUTHERAN MEDICAL SADS"
+      }, {
+        "count" : 8,
+        "item" : "BJCC BAINBRIDGE AVENUE OFFICE"
+      }, {
+        "count" : 7,
+        "item" : "BRONX JEWISH COMMUNITY COUNCIL"
+      }, {
+        "count" : 6,
+        "item" : "CASC CASE ASSISTANCE AND TRANSPORTATION"
+      }, {
+        "count" : 5,
+        "item" : "NEIGHBORHOOD SHOPP-SNAP"
+      }, {
+        "count" : 4,
+        "item" : "NY FDTN HOME SHARING"
+      }, {
+        "count" : 3,
+        "item" : "ONE STOP SENIOR SERVICES"
+      }, {
+        "count" : 2,
+        "item" : "RAICES"
+      }, {
+        "count" : 1,
+        "item" : "RAIN ONE-STOP SERVICES TO THE ELDERLY"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 55758253,
+    "name" : "Sponsor Name",
+    "dataTypeName" : "text",
+    "description" : "contract sponsor's name",
+    "fieldName" : "sponsor_name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8272622,
+    "width" : 129,
+    "cachedContents" : {
+      "non_null" : 409,
+      "smallest" : "ABYSSINIAN DEVELOPMENT CORPORATION",
+      "null" : 0,
+      "largest" : "YOUNG MEN'S AND YOUNG WOMEN'S HEBREW ASSOCIATION O",
+      "top" : [ {
+        "count" : 20,
+        "item" : "JEWISH ASSOCIATION FOR SERVICES FOR THE AGED "
+      }, {
+        "count" : 19,
+        "item" : "CATHOLIC CHARITIES NEIGHBORHOOD SERVICES INC"
+      }, {
+        "count" : 18,
+        "item" : "FORT GREENE COUNCIL "
+      }, {
+        "count" : 17,
+        "item" : "INSTITUTE FOR THE PUERTO RICAN HISPANIC ELDERLY "
+      }, {
+        "count" : 16,
+        "item" : "PRESBYTERIAN SENIOR SERVICES  "
+      }, {
+        "count" : 15,
+        "item" : "THE SPANISH SPEAKING ELDERLY COUNCIL-RAICES INC."
+      }, {
+        "count" : 14,
+        "item" : "REGIONAL AID FOR INTERIM NEEDS INC "
+      }, {
+        "count" : 13,
+        "item" : "SELFHELP COMMUNITY SERVICES INC "
+      }, {
+        "count" : 12,
+        "item" : "WAYSIDE OUT-REACH DEVELOPMENT INC "
+      }, {
+        "count" : 11,
+        "item" : "HELLENIC AMERICAN NEIGHBORHOOD ACTION COMMITTEE IN"
+      }, {
+        "count" : 10,
+        "item" : "BRONX JEWISH COMMUNITY COUNCIL INC "
+      }, {
+        "count" : 9,
+        "item" : "COMMUNITY AGENCY FOR SENIOR CITIZENS INC "
+      }, {
+        "count" : 8,
+        "item" : "JEWISH COMMUNITY COUNCIL OF GREATER CONEY ISLAND I"
+      }, {
+        "count" : 7,
+        "item" : "NEW YORK FOUNDATION FOR SENIOR CITIZENS INC "
+      }, {
+        "count" : 6,
+        "item" : "RECREATION ROOMS AND SETTLEMENT INC "
+      }, {
+        "count" : 5,
+        "item" : "RIVERDALE SENIOR SERVICES INC  "
+      }, {
+        "count" : 4,
+        "item" : "UNION SETTLEMENT ASSOCIATION INC "
+      }, {
+        "count" : 3,
+        "item" : "ARC XVI FORT WASHINGTON INC  "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 55758254,
+    "name" : "Program Address",
+    "dataTypeName" : "text",
+    "description" : "contract address",
+    "fieldName" : "program_address",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8272623,
+    "width" : 151,
+    "cachedContents" : {
+      "non_null" : 409,
+      "smallest" : "1001 QUENTIN ROAD",
+      "null" : 0,
+      "largest" : "9 NOLL STREET",
+      "top" : [ {
+        "count" : 20,
+        "item" : "250 WEST 65TH STREET"
+      }, {
+        "count" : 19,
+        "item" : "1525 UNIONPORT ROAD"
+      }, {
+        "count" : 18,
+        "item" : "290 NINTH AVENUE"
+      }, {
+        "count" : 17,
+        "item" : "520 SECOND AVENUE"
+      }, {
+        "count" : 16,
+        "item" : "169-65 137TH AVENUE"
+      }, {
+        "count" : 15,
+        "item" : "59-55 47TH AVENUE"
+      }, {
+        "count" : 14,
+        "item" : "34-10 94TH STREET"
+      }, {
+        "count" : 13,
+        "item" : "33-34 CRESCENT STREET"
+      }, {
+        "count" : 12,
+        "item" : "415 EAST 93RD STREET"
+      }, {
+        "count" : 11,
+        "item" : "2942 WEST 5TH STREET"
+      }, {
+        "count" : 10,
+        "item" : "351 MADISON STREET"
+      }, {
+        "count" : 9,
+        "item" : "9000 SHORE ROAD"
+      }, {
+        "count" : 8,
+        "item" : "3176 BAINBRIDGE AVENUE"
+      }, {
+        "count" : 7,
+        "item" : "2930 WALLACE AVENUE"
+      }, {
+        "count" : 6,
+        "item" : "56 BAY STREET"
+      }, {
+        "count" : 5,
+        "item" : "953 SOUTHERN BOULEVARD"
+      }, {
+        "count" : 4,
+        "item" : "11 PARK PLACE"
+      }, {
+        "count" : 3,
+        "item" : "747 AMSTERDAM AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "460 ATLANTIC AVENUE"
+      }, {
+        "count" : 1,
+        "item" : "1168 CASTLE HILL AVENUE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 55758255,
+    "name" : "Program Borough",
+    "dataTypeName" : "text",
+    "description" : "contract borough located",
+    "fieldName" : "program_borough",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8272624,
+    "width" : 147,
+    "cachedContents" : {
+      "non_null" : 409,
+      "smallest" : "ASTORIA",
+      "null" : 0,
+      "largest" : "WOODSIDE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "QUEENS VILLAGE"
+      }, {
+        "count" : 19,
+        "item" : "BRONX"
+      }, {
+        "count" : 18,
+        "item" : "NEW YORK"
+      }, {
+        "count" : 17,
+        "item" : "FLUSHING"
+      }, {
+        "count" : 16,
+        "item" : "BROOKLYN"
+      }, {
+        "count" : 15,
+        "item" : "STATEN ISLAND"
+      }, {
+        "count" : 14,
+        "item" : "LONG ISLAND CIT"
+      }, {
+        "count" : 13,
+        "item" : "FAR ROCKAWAY"
+      }, {
+        "count" : 12,
+        "item" : "NEW  YORK"
+      }, {
+        "count" : 11,
+        "item" : "FOREST HILLS"
+      }, {
+        "count" : 10,
+        "item" : "HOLLIS"
+      }, {
+        "count" : 9,
+        "item" : "SUNNYSIDE"
+      }, {
+        "count" : 8,
+        "item" : "ASTORIA"
+      }, {
+        "count" : 7,
+        "item" : "JAMAICA"
+      }, {
+        "count" : 6,
+        "item" : "OZONE PARK"
+      }, {
+        "count" : 5,
+        "item" : "CORONA"
+      }, {
+        "count" : 4,
+        "item" : "RIDGEWOOD"
+      }, {
+        "count" : 3,
+        "item" : "BAYSIDE"
+      }, {
+        "count" : 2,
+        "item" : "FAR RACKAWAY"
+      }, {
+        "count" : 1,
+        "item" : "HOWARD BEACH"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 55758256,
+    "name" : "Program Zipcode",
+    "dataTypeName" : "text",
+    "description" : "contract zipcode",
+    "fieldName" : "program_zipcode",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8272625,
+    "width" : 174,
+    "cachedContents" : {
+      "non_null" : 409,
+      "smallest" : "10001",
+      "null" : 0,
+      "largest" : "11694",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11432"
+      }, {
+        "count" : 19,
+        "item" : "10467"
+      }, {
+        "count" : 18,
+        "item" : "11235"
+      }, {
+        "count" : 17,
+        "item" : "10002"
+      }, {
+        "count" : 16,
+        "item" : "10023"
+      }, {
+        "count" : 15,
+        "item" : "11206"
+      }, {
+        "count" : 14,
+        "item" : "11377"
+      }, {
+        "count" : 13,
+        "item" : "10001"
+      }, {
+        "count" : 12,
+        "item" : "11106"
+      }, {
+        "count" : 11,
+        "item" : "11224"
+      }, {
+        "count" : 10,
+        "item" : "10007"
+      }, {
+        "count" : 9,
+        "item" : "10025"
+      }, {
+        "count" : 8,
+        "item" : "11217"
+      }, {
+        "count" : 7,
+        "item" : "10462"
+      }, {
+        "count" : 6,
+        "item" : "11433"
+      }, {
+        "count" : 5,
+        "item" : "10301"
+      }, {
+        "count" : 4,
+        "item" : "11102"
+      }, {
+        "count" : 3,
+        "item" : "11201"
+      }, {
+        "count" : 2,
+        "item" : "10021"
+      }, {
+        "count" : 1,
+        "item" : "10019"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 55758257,
+    "name" : "Program Phone",
+    "dataTypeName" : "text",
+    "description" : "contract phone",
+    "fieldName" : "program_phone",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8272626,
+    "width" : 133,
+    "cachedContents" : {
+      "non_null" : 409,
+      "smallest" : "(212) 360-762",
+      "null" : 0,
+      "largest" : "718-996-6666 ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "212-874-0860 "
+      }, {
+        "count" : 19,
+        "item" : "718-409-1619 "
+      }, {
+        "count" : 18,
+        "item" : "212-243-3670 "
+      }, {
+        "count" : 17,
+        "item" : "212 683-6583 "
+      }, {
+        "count" : 16,
+        "item" : "718-949-3499 "
+      }, {
+        "count" : 15,
+        "item" : "718-458-8579 "
+      }, {
+        "count" : 14,
+        "item" : "718-396-5425 "
+      }, {
+        "count" : 13,
+        "item" : "718-278-4148 "
+      }, {
+        "count" : 12,
+        "item" : "(212) 360-762"
+      }, {
+        "count" : 11,
+        "item" : "718-946-7973 "
+      }, {
+        "count" : 10,
+        "item" : "212-477-0455 "
+      }, {
+        "count" : 9,
+        "item" : "718 630 7266 "
+      }, {
+        "count" : 8,
+        "item" : "718 652-5500 "
+      }, {
+        "count" : 7,
+        "item" : "718-981-6226 "
+      }, {
+        "count" : 6,
+        "item" : "718 620-4650 "
+      }, {
+        "count" : 5,
+        "item" : "212-962-7653 "
+      }, {
+        "count" : 4,
+        "item" : "212-864-7900 "
+      }, {
+        "count" : 3,
+        "item" : "718 643 0232 "
+      }, {
+        "count" : 2,
+        "item" : "718 239-4358 "
+      }, {
+        "count" : 1,
+        "item" : "718-743-0575 "
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Weekly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "dfta", "congregate meals", "abuse prevention", "home care", "legal services", "norc", "transportation", "case management", "home delivered meals", "caregivers" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,264 @@
+{
+  "id" : "wkaa-8g8b",
+  "name" : "DOC Annual Statistics",
+  "attribution" : "Department of Correction (DOC)",
+  "attributionLink" : "http://www.nyc.gov/html/doc/html/stats/doc_stats.shtml",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1362580101,
+  "description" : "This table contains the statistical record of the Inmate Population. This record is updated annually",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "numberOfComments" : 0,
+  "oid" : 2730221,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362580221,
+  "publicationGroup" : 717569,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1362580103,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 717569,
+  "totalTimesRated" : 0,
+  "viewCount" : 26,
+  "viewLastModified" : 1362582703,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 48783929,
+    "name" : "Fiscal Year",
+    "dataTypeName" : "text",
+    "fieldName" : "fiscal_year",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8399555,
+    "width" : 58,
+    "cachedContents" : {
+      "non_null" : 115,
+      "smallest" : "FY 2001",
+      "null" : 0,
+      "largest" : "FY 2012",
+      "top" : [ {
+        "count" : 20,
+        "item" : "FY 2012"
+      }, {
+        "count" : 19,
+        "item" : "FY 2011"
+      }, {
+        "count" : 18,
+        "item" : "FY 2010"
+      }, {
+        "count" : 17,
+        "item" : "FY 2009"
+      }, {
+        "count" : 16,
+        "item" : "FY 2008"
+      }, {
+        "count" : 15,
+        "item" : "FY 2007"
+      }, {
+        "count" : 14,
+        "item" : "FY 2006"
+      }, {
+        "count" : 13,
+        "item" : "FY 2005"
+      }, {
+        "count" : 12,
+        "item" : "FY 2004"
+      }, {
+        "count" : 11,
+        "item" : "FY 2003"
+      }, {
+        "count" : 10,
+        "item" : "FY 2002"
+      }, {
+        "count" : 9,
+        "item" : "FY 2001"
+      }, {
+        "count" : 8,
+        "item" : "FY 2003 "
+      }, {
+        "count" : 7,
+        "item" : "FY 2002 "
+      }, {
+        "count" : 6,
+        "item" : "FY 2001 "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48783931,
+    "name" : "Statistic Type Name",
+    "dataTypeName" : "text",
+    "fieldName" : "statistic_type_name",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8399557,
+    "width" : 177,
+    "cachedContents" : {
+      "non_null" : 115,
+      "smallest" : "Annual Inmate Admissions",
+      "null" : 0,
+      "largest" : "Visitor Arrests",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Average Daily Inmate Population"
+      }, {
+        "count" : 19,
+        "item" : "Annual Inmate Admissions"
+      }, {
+        "count" : 18,
+        "item" : "Average Length of Stay (Detainees)"
+      }, {
+        "count" : 17,
+        "item" : "Average Length of Stay (Sentenced)"
+      }, {
+        "count" : 16,
+        "item" : "Inmate Stabbing/Slashing Incidents"
+      }, {
+        "count" : 15,
+        "item" : "Use of Force Incidents Class A (resulting in injury)"
+      }, {
+        "count" : 14,
+        "item" : "Inmate Assaults on Staff Class A "
+      }, {
+        "count" : 13,
+        "item" : "Inmate Arrests"
+      }, {
+        "count" : 12,
+        "item" : "Visitor Arrests"
+      }, {
+        "count" : 11,
+        "item" : "Inmates Delivered to Court"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48783933,
+    "name" : "Statistic Type Count",
+    "dataTypeName" : "text",
+    "fieldName" : "statistic_type_count",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8399559,
+    "width" : 111,
+    "cachedContents" : {
+      "non_null" : 115,
+      "smallest" : "101",
+      "null" : 0,
+      "largest" : "99,939",
+      "top" : [ {
+        "count" : 20,
+        "item" : "37"
+      }, {
+        "count" : 19,
+        "item" : "40"
+      }, {
+        "count" : 18,
+        "item" : "54"
+      }, {
+        "count" : 17,
+        "item" : "89"
+      }, {
+        "count" : 16,
+        "item" : "684"
+      }, {
+        "count" : 15,
+        "item" : "628"
+      }, {
+        "count" : 14,
+        "item" : "671"
+      }, {
+        "count" : 13,
+        "item" : "576"
+      }, {
+        "count" : 12,
+        "item" : "853"
+      }, {
+        "count" : 11,
+        "item" : "355"
+      }, {
+        "count" : 10,
+        "item" : "348"
+      }, {
+        "count" : 9,
+        "item" : "292"
+      }, {
+        "count" : 8,
+        "item" : "264"
+      }, {
+        "count" : 7,
+        "item" : "201"
+      }, {
+        "count" : 6,
+        "item" : "318"
+      }, {
+        "count" : 5,
+        "item" : "295"
+      }, {
+        "count" : 4,
+        "item" : "367"
+      }, {
+        "count" : 3,
+        "item" : "360"
+      }, {
+        "count" : 2,
+        "item" : "341"
+      }, {
+        "count" : 1,
+        "item" : "313"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "department of correction", "doc", "arrests", "inmates", "visitor", "stabbing", "slashing" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,762 @@
+{
+  "id" : "e98g-f8hy",
+  "name" : "Property Data (Buildings Information System)",
+  "attribution" : "Department of Buildings (DOB)",
+  "averageRating" : 0,
+  "category" : "Property",
+  "createdAt" : 1319133802,
+  "description" : "List of NYC Properties under DOB jurisdiction",
+  "displayType" : "table",
+  "downloadCount" : 75,
+  "numberOfComments" : 1,
+  "oid" : 350090,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1319134030,
+  "publicationGroup" : 247193,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1319133838,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 247193,
+  "totalTimesRated" : 0,
+  "viewCount" : 1321,
+  "viewLastModified" : 1363704899,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3177668,
+    "name" : "Permit BIN",
+    "dataTypeName" : "number",
+    "fieldName" : "permit_bin",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1612615,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 96963,
+      "smallest" : "1000003",
+      "sum" : "234879392354",
+      "null" : 0,
+      "average" : "2422361.027959118",
+      "largest" : "5863723",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4125803"
+      }, {
+        "count" : 19,
+        "item" : "5037210"
+      }, {
+        "count" : 18,
+        "item" : "4436676"
+      }, {
+        "count" : 17,
+        "item" : "5863485"
+      }, {
+        "count" : 16,
+        "item" : "5057656"
+      }, {
+        "count" : 15,
+        "item" : "5043324"
+      }, {
+        "count" : 14,
+        "item" : "4445806"
+      }, {
+        "count" : 13,
+        "item" : "4047337"
+      }, {
+        "count" : 12,
+        "item" : "4113304"
+      }, {
+        "count" : 11,
+        "item" : "4539510"
+      }, {
+        "count" : 10,
+        "item" : "5863171"
+      }, {
+        "count" : 9,
+        "item" : "5095172"
+      }, {
+        "count" : 8,
+        "item" : "5001873"
+      }, {
+        "count" : 7,
+        "item" : "5039658"
+      }, {
+        "count" : 6,
+        "item" : "5057708"
+      }, {
+        "count" : 5,
+        "item" : "5038654"
+      }, {
+        "count" : 4,
+        "item" : "4201966"
+      }, {
+        "count" : 3,
+        "item" : "4200675"
+      }, {
+        "count" : 2,
+        "item" : "4040352"
+      }, {
+        "count" : 1,
+        "item" : "4052241"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 3177669,
+    "name" : "Permit Application Job Number",
+    "dataTypeName" : "number",
+    "fieldName" : "permit_application_job_number",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1612616,
+    "width" : 448,
+    "cachedContents" : {
+      "non_null" : 96963,
+      "smallest" : "100052194",
+      "sum" : "23809325406419",
+      "null" : 0,
+      "average" : "245550626.5938451",
+      "largest" : "520078870",
+      "top" : [ {
+        "count" : 20,
+        "item" : "420296619"
+      }, {
+        "count" : 19,
+        "item" : "520010292"
+      }, {
+        "count" : 18,
+        "item" : "420466766"
+      }, {
+        "count" : 17,
+        "item" : "520010283"
+      }, {
+        "count" : 16,
+        "item" : "520072037"
+      }, {
+        "count" : 15,
+        "item" : "520070191"
+      }, {
+        "count" : 14,
+        "item" : "420370565"
+      }, {
+        "count" : 13,
+        "item" : "420353147"
+      }, {
+        "count" : 12,
+        "item" : "420458089"
+      }, {
+        "count" : 11,
+        "item" : "420471670"
+      }, {
+        "count" : 10,
+        "item" : "510036097"
+      }, {
+        "count" : 9,
+        "item" : "520048350"
+      }, {
+        "count" : 8,
+        "item" : "520041507"
+      }, {
+        "count" : 7,
+        "item" : "520056493"
+      }, {
+        "count" : 6,
+        "item" : "520067971"
+      }, {
+        "count" : 5,
+        "item" : "520067221"
+      }, {
+        "count" : 4,
+        "item" : "420360861"
+      }, {
+        "count" : 3,
+        "item" : "420371804"
+      }, {
+        "count" : 2,
+        "item" : "420323073"
+      }, {
+        "count" : 1,
+        "item" : "420330350"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 3177670,
+    "name" : "Permit Application Document Number",
+    "dataTypeName" : "number",
+    "fieldName" : "permit_application_document_number",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1612617,
+    "width" : 508,
+    "cachedContents" : {
+      "non_null" : 96963,
+      "smallest" : "1",
+      "sum" : "109956",
+      "null" : 0,
+      "average" : "1.133999566845085",
+      "largest" : "9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "8"
+      }, {
+        "count" : 13,
+        "item" : "7"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3177671,
+    "name" : "Permit Application Job Type",
+    "dataTypeName" : "text",
+    "fieldName" : "permit_application_job_type",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1612618,
+    "width" : 424,
+    "cachedContents" : {
+      "non_null" : 96963,
+      "smallest" : "A1",
+      "null" : 0,
+      "largest" : "SG",
+      "top" : [ {
+        "count" : 20,
+        "item" : "A2"
+      }, {
+        "count" : 19,
+        "item" : "NB"
+      }, {
+        "count" : 18,
+        "item" : "A1"
+      }, {
+        "count" : 17,
+        "item" : "A3"
+      }, {
+        "count" : 16,
+        "item" : "DM"
+      }, {
+        "count" : 15,
+        "item" : "SG"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3177672,
+    "name" : "Permit Type",
+    "dataTypeName" : "text",
+    "fieldName" : "permit_type",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1612619,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 96963,
+      "smallest" : "AL",
+      "null" : 0,
+      "largest" : "SG",
+      "top" : [ {
+        "count" : 20,
+        "item" : "PL"
+      }, {
+        "count" : 19,
+        "item" : "EW"
+      }, {
+        "count" : 18,
+        "item" : "NB"
+      }, {
+        "count" : 17,
+        "item" : "AL"
+      }, {
+        "count" : 16,
+        "item" : "EQ"
+      }, {
+        "count" : 15,
+        "item" : "FO"
+      }, {
+        "count" : 14,
+        "item" : "SG"
+      }, {
+        "count" : 13,
+        "item" : "DM"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3177673,
+    "name" : "Permit SubType",
+    "dataTypeName" : "text",
+    "fieldName" : "permit_subtype",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1612620,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 96963,
+      "smallest" : "  ",
+      "null" : 0,
+      "largest" : "SP",
+      "top" : [ {
+        "count" : 20,
+        "item" : "  "
+      }, {
+        "count" : 19,
+        "item" : "SP"
+      }, {
+        "count" : 18,
+        "item" : "OT"
+      }, {
+        "count" : 17,
+        "item" : "FN"
+      }, {
+        "count" : 16,
+        "item" : "SD"
+      }, {
+        "count" : 15,
+        "item" : "MH"
+      }, {
+        "count" : 14,
+        "item" : "FS"
+      }, {
+        "count" : 13,
+        "item" : "FB"
+      }, {
+        "count" : 12,
+        "item" : "SH"
+      }, {
+        "count" : 11,
+        "item" : "SF"
+      }, {
+        "count" : 10,
+        "item" : "BL"
+      }, {
+        "count" : 9,
+        "item" : "CH"
+      }, {
+        "count" : 8,
+        "item" : "FP"
+      }, {
+        "count" : 7,
+        "item" : "EA"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3177674,
+    "name" : "Permit Status Description",
+    "dataTypeName" : "text",
+    "fieldName" : "permit_status_description",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1612621,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 96963,
+      "smallest" : "PERMIT ISSUED                           ",
+      "null" : 0,
+      "largest" : "PERMIT REISSUED                         ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "PERMIT ISSUED                           "
+      }, {
+        "count" : 19,
+        "item" : "PERMIT REISSUED                         "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3177675,
+    "name" : "Permit Sequence Number",
+    "dataTypeName" : "number",
+    "fieldName" : "permit_sequence_number",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1612622,
+    "width" : 364,
+    "cachedContents" : {
+      "non_null" : 96963,
+      "smallest" : "1",
+      "sum" : "165500",
+      "null" : 0,
+      "average" : "1.706836628404649",
+      "largest" : "24",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8"
+      }, {
+        "count" : 19,
+        "item" : "7"
+      }, {
+        "count" : 18,
+        "item" : "9"
+      }, {
+        "count" : 17,
+        "item" : "3"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "4"
+      }, {
+        "count" : 14,
+        "item" : "1"
+      }, {
+        "count" : 13,
+        "item" : "2"
+      }, {
+        "count" : 12,
+        "item" : "12"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "6"
+      }, {
+        "count" : 9,
+        "item" : "13"
+      }, {
+        "count" : 8,
+        "item" : "16"
+      }, {
+        "count" : 7,
+        "item" : "11"
+      }, {
+        "count" : 6,
+        "item" : "15"
+      }, {
+        "count" : 5,
+        "item" : "17"
+      }, {
+        "count" : 4,
+        "item" : "14"
+      }, {
+        "count" : 3,
+        "item" : "20"
+      }, {
+        "count" : 2,
+        "item" : "18"
+      }, {
+        "count" : 1,
+        "item" : "19"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3177676,
+    "name" : "Permit Status Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "permit_status_date",
+    "position" : 10,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 1612623,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 96963,
+      "smallest" : "2002-05-23T00:00:00",
+      "null" : 0,
+      "largest" : "2011-09-30T00:00:00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2011-06-28T00:00:00"
+      }, {
+        "count" : 19,
+        "item" : "2011-09-13T00:00:00"
+      }, {
+        "count" : 18,
+        "item" : "2011-09-26T00:00:00"
+      }, {
+        "count" : 17,
+        "item" : "2011-07-26T00:00:00"
+      }, {
+        "count" : 16,
+        "item" : "2011-09-28T00:00:00"
+      }, {
+        "count" : 15,
+        "item" : "2011-08-09T00:00:00"
+      }, {
+        "count" : 14,
+        "item" : "2011-09-09T00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2011-05-16T00:00:00"
+      }, {
+        "count" : 12,
+        "item" : "2011-07-28T00:00:00"
+      }, {
+        "count" : 11,
+        "item" : "2011-08-26T00:00:00"
+      }, {
+        "count" : 10,
+        "item" : "2011-06-09T00:00:00"
+      }, {
+        "count" : 9,
+        "item" : "2011-05-09T00:00:00"
+      }, {
+        "count" : 8,
+        "item" : "2011-05-20T00:00:00"
+      }, {
+        "count" : 7,
+        "item" : "2011-06-07T00:00:00"
+      }, {
+        "count" : 6,
+        "item" : "2011-09-07T00:00:00"
+      }, {
+        "count" : 5,
+        "item" : "2011-07-14T00:00:00"
+      }, {
+        "count" : 4,
+        "item" : "2011-09-16T00:00:00"
+      }, {
+        "count" : 3,
+        "item" : "2011-06-30T00:00:00"
+      }, {
+        "count" : 2,
+        "item" : "2011-08-24T00:00:00"
+      }, {
+        "count" : 1,
+        "item" : "2011-07-22T00:00:00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3177677,
+    "name" : "Permit Issuance Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "permit_issuance_date",
+    "position" : 11,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 1612624,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 96963,
+      "smallest" : "2002-05-23T00:00:00",
+      "null" : 0,
+      "largest" : "2011-09-30T00:00:00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2011-09-13T00:00:00"
+      }, {
+        "count" : 19,
+        "item" : "2011-09-28T00:00:00"
+      }, {
+        "count" : 18,
+        "item" : "2011-08-09T00:00:00"
+      }, {
+        "count" : 17,
+        "item" : "2011-09-09T00:00:00"
+      }, {
+        "count" : 16,
+        "item" : "2011-05-16T00:00:00"
+      }, {
+        "count" : 15,
+        "item" : "2011-07-28T00:00:00"
+      }, {
+        "count" : 14,
+        "item" : "2011-07-26T00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2011-08-26T00:00:00"
+      }, {
+        "count" : 12,
+        "item" : "2011-06-09T00:00:00"
+      }, {
+        "count" : 11,
+        "item" : "2011-09-07T00:00:00"
+      }, {
+        "count" : 10,
+        "item" : "2011-07-14T00:00:00"
+      }, {
+        "count" : 9,
+        "item" : "2011-06-07T00:00:00"
+      }, {
+        "count" : 8,
+        "item" : "2011-09-16T00:00:00"
+      }, {
+        "count" : 7,
+        "item" : "2011-06-30T00:00:00"
+      }, {
+        "count" : 6,
+        "item" : "2011-08-24T00:00:00"
+      }, {
+        "count" : 5,
+        "item" : "2011-07-22T00:00:00"
+      }, {
+        "count" : 4,
+        "item" : "2010-12-23T00:00:00"
+      }, {
+        "count" : 3,
+        "item" : "2011-09-15T00:00:00"
+      }, {
+        "count" : 2,
+        "item" : "2011-07-11T00:00:00"
+      }, {
+        "count" : 1,
+        "item" : "2011-03-09T00:00:00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3177678,
+    "name" : "Permit Experation Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "permit_experation_date",
+    "position" : 12,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 1612625,
+    "width" : 364,
+    "cachedContents" : {
+      "non_null" : 96960,
+      "smallest" : "2011-10-01T00:00:00",
+      "null" : 3,
+      "largest" : "2013-08-30T00:00:00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2012-01-01T00:00:00"
+      }, {
+        "count" : 19,
+        "item" : "2012-04-01T00:00:00"
+      }, {
+        "count" : 18,
+        "item" : "2011-11-01T00:00:00"
+      }, {
+        "count" : 17,
+        "item" : "2012-09-25T00:00:00"
+      }, {
+        "count" : 16,
+        "item" : "2011-12-01T00:00:00"
+      }, {
+        "count" : 15,
+        "item" : "2012-02-25T00:00:00"
+      }, {
+        "count" : 14,
+        "item" : "2011-10-01T00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2012-04-25T00:00:00"
+      }, {
+        "count" : 12,
+        "item" : "2012-06-27T00:00:00"
+      }, {
+        "count" : 11,
+        "item" : "2011-10-08T00:00:00"
+      }, {
+        "count" : 10,
+        "item" : "2012-04-27T00:00:00"
+      }, {
+        "count" : 9,
+        "item" : "2012-07-25T00:00:00"
+      }, {
+        "count" : 8,
+        "item" : "2012-09-27T00:00:00"
+      }, {
+        "count" : 7,
+        "item" : "2012-07-27T00:00:00"
+      }, {
+        "count" : 6,
+        "item" : "2012-02-23T00:00:00"
+      }, {
+        "count" : 5,
+        "item" : "2011-10-06T00:00:00"
+      }, {
+        "count" : 4,
+        "item" : "2012-03-01T00:00:00"
+      }, {
+        "count" : 3,
+        "item" : "2012-09-08T00:00:00"
+      }, {
+        "count" : 2,
+        "item" : "2012-08-08T00:00:00"
+      }, {
+        "count" : 1,
+        "item" : "2012-03-15T00:00:00"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Quarterly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "property", "building", "jurisdiction", "clean web" ],
+  "flags" : [ "default" ]
+}

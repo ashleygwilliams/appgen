@@ -1,0 +1,214 @@
+{
+  "id" : "m6nh-ye6v",
+  "name" : "Intake within and outside CCRB Jurisdiction",
+  "attribution" : "Civilian Complaint Review Board (CCRB)",
+  "attributionLink" : "http://www.nyc.gov/html/ccrb/pdf/ccrbappendices2011.pdf",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1361827485,
+  "description" : "This table represents the total intake of complaints within and outside CCRB Jurisdiction",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2643190,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361902204,
+  "publicationGroup" : 699471,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1361901443,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 701260,
+  "totalTimesRated" : 0,
+  "viewCount" : 21,
+  "viewLastModified" : 1361904502,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 47130543,
+    "name" : "Year",
+    "dataTypeName" : "text",
+    "fieldName" : "year",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8158612,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "2009",
+      "null" : 0,
+      "largest" : "2011",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2009"
+      }, {
+        "count" : 19,
+        "item" : "2010"
+      }, {
+        "count" : 18,
+        "item" : "2011"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 47130544,
+    "name" : "Complaints within CCRB Jurisdiction",
+    "dataTypeName" : "text",
+    "fieldName" : "complaints_within_ccrb_jurisdiction",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8158613,
+    "width" : 207,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "5966",
+      "null" : 0,
+      "largest" : "7660",
+      "top" : [ {
+        "count" : 20,
+        "item" : "7660"
+      }, {
+        "count" : 19,
+        "item" : "6467"
+      }, {
+        "count" : 18,
+        "item" : "5966"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47130545,
+    "name" : "Referrals to Office of the Chief Of Department",
+    "dataTypeName" : "text",
+    "fieldName" : "referrals_to_office_of_the_chief_of_department",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8158614,
+    "width" : 257,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "8184",
+      "null" : 0,
+      "largest" : "9500",
+      "top" : [ {
+        "count" : 20,
+        "item" : "9500"
+      }, {
+        "count" : 19,
+        "item" : "8634"
+      }, {
+        "count" : 18,
+        "item" : "8184"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47130546,
+    "name" : "Referrals to Internal Affairs Bureau",
+    "dataTypeName" : "text",
+    "fieldName" : "referrals_to_internal_affairs_bureau",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8158615,
+    "width" : 190,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "1626",
+      "null" : 0,
+      "largest" : "1734",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1626"
+      }, {
+        "count" : 19,
+        "item" : "1716"
+      }, {
+        "count" : 18,
+        "item" : "1734"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47130547,
+    "name" : "Referrals to Other Agencies",
+    "dataTypeName" : "text",
+    "fieldName" : "referrals_to_other_agencies",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8158616,
+    "width" : 154,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "182",
+      "null" : 0,
+      "largest" : "305",
+      "top" : [ {
+        "count" : 20,
+        "item" : "305"
+      }, {
+        "count" : 19,
+        "item" : "218"
+      }, {
+        "count" : 18,
+        "item" : "182"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "ccrb", "jurisdiction", "complaints", "referrals" ],
+  "flags" : [ "default" ]
+}

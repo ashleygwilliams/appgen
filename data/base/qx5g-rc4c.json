@@ -1,0 +1,191 @@
+{
+  "id" : "qx5g-rc4c",
+  "name" : "New York City Population and Households in the 100-Year Flood Plain",
+  "attribution" : "Office of Emergency Management (OEM)",
+  "attributionLink" : "http://www.nyc.gov/html/oem/downloads/pdf/hazard_mitigation/section_3j_flooding_hazard_analysis.pdf",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1361908035,
+  "description" : "Details about New York City people that live in 100-year Flood Plain. 100-year flood is the flood that has a 1 % chance of being equaled or exceeded in any given year.",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2645396,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361918094,
+  "publicationGroup" : 701461,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1361918064,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 701767,
+  "totalTimesRated" : 0,
+  "viewCount" : 22,
+  "viewLastModified" : 1361918111,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 47174338,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8185783,
+    "width" : 86,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Manhattan"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47174339,
+    "name" : "Year",
+    "dataTypeName" : "text",
+    "fieldName" : "year",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8185784,
+    "width" : 67,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "2000",
+      "null" : 0,
+      "largest" : "2000",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2000"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47174341,
+    "name" : "Population",
+    "dataTypeName" : "text",
+    "fieldName" : "population",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8185785,
+    "width" : 102,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "11,023",
+      "null" : 0,
+      "largest" : "63,654",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11,023"
+      }, {
+        "count" : 19,
+        "item" : "63,654"
+      }, {
+        "count" : 18,
+        "item" : "63,576"
+      }, {
+        "count" : 17,
+        "item" : "46,674"
+      }, {
+        "count" : 16,
+        "item" : "18,108"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47174343,
+    "name" : "Households",
+    "dataTypeName" : "text",
+    "fieldName" : "households",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8185786,
+    "width" : 112,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "18,070",
+      "null" : 0,
+      "largest" : "6,487",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4,188"
+      }, {
+        "count" : 19,
+        "item" : "24,477"
+      }, {
+        "count" : 18,
+        "item" : "24,562"
+      }, {
+        "count" : 17,
+        "item" : "18,070"
+      }, {
+        "count" : 16,
+        "item" : "6,487"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "oem", "emergency", "management", "services", "flood", "household", "population" ],
+  "flags" : [ "default" ]
+}

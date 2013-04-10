@@ -1,0 +1,242 @@
+{
+  "id" : "3h6b-pt5u",
+  "name" : "Total Crime Index For The Nation’s Largest Cities",
+  "attribution" : "Office of the Mayor (OTM)",
+  "attributionLink" : "http://www.nyc.gov/html/omb/downloads/pdf/sum1_13.pdf",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1360792616,
+  "description" : "Total Crime Index for the Nation’s Largest Cities",
+  "displayType" : "table",
+  "downloadCount" : 2,
+  "numberOfComments" : 0,
+  "oid" : 2515613,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1360792823,
+  "publicationGroup" : 675771,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1360792619,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 675771,
+  "totalTimesRated" : 0,
+  "viewCount" : 36,
+  "viewLastModified" : 1360943771,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 44648427,
+    "name" : "Year",
+    "dataTypeName" : "number",
+    "fieldName" : "year",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7829394,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 10,
+      "smallest" : "2009",
+      "sum" : "20090",
+      "null" : 0,
+      "average" : "2009",
+      "largest" : "2009",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2009"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44648428,
+    "name" : "Crime Index Ranking ",
+    "dataTypeName" : "number",
+    "fieldName" : "crime_index_ranking",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7829395,
+    "width" : 116,
+    "cachedContents" : {
+      "non_null" : 10,
+      "smallest" : "1",
+      "sum" : "55",
+      "null" : 0,
+      "average" : "5.5",
+      "largest" : "10",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44648429,
+    "name" : "City",
+    "dataTypeName" : "text",
+    "fieldName" : "city",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7829396,
+    "width" : 70,
+    "cachedContents" : {
+      "non_null" : 10,
+      "smallest" : "Dallas",
+      "null" : 0,
+      "largest" : "San Jose",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New York"
+      }, {
+        "count" : 19,
+        "item" : "San Jose"
+      }, {
+        "count" : 18,
+        "item" : "San Diego"
+      }, {
+        "count" : 17,
+        "item" : "Los Angeles"
+      }, {
+        "count" : 16,
+        "item" : "Las Vegas"
+      }, {
+        "count" : 15,
+        "item" : "Phoenix"
+      }, {
+        "count" : 14,
+        "item" : "Philadelphia"
+      }, {
+        "count" : 13,
+        "item" : "Dallas"
+      }, {
+        "count" : 12,
+        "item" : "Houston"
+      }, {
+        "count" : 11,
+        "item" : "San Antonio"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44648430,
+    "name" : "Rate",
+    "dataTypeName" : "number",
+    "fieldName" : "rate",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7829397,
+    "width" : 70,
+    "cachedContents" : {
+      "non_null" : 10,
+      "smallest" : "2242.10",
+      "sum" : "42970.50",
+      "null" : 0,
+      "average" : "4297.05",
+      "largest" : "7241.60",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2242.10"
+      }, {
+        "count" : 19,
+        "item" : "2745.70"
+      }, {
+        "count" : 18,
+        "item" : "2903.70"
+      }, {
+        "count" : 17,
+        "item" : "3074.00"
+      }, {
+        "count" : 16,
+        "item" : "4407.70"
+      }, {
+        "count" : 15,
+        "item" : "4654.30"
+      }, {
+        "count" : 14,
+        "item" : "4849.50"
+      }, {
+        "count" : 13,
+        "item" : "6444.20"
+      }, {
+        "count" : 12,
+        "item" : "7241.60"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "crime", "index", "nationwide", "fbi data", "new york city", "safest" ],
+  "flags" : [ "default" ]
+}

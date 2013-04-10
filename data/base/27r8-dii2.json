@@ -1,0 +1,204 @@
+{
+  "id" : "27r8-dii2",
+  "name" : "Workforce 1 Resume And Job Interview Assistance Locations",
+  "attribution" : "Department of Small Business Services (SBS)",
+  "averageRating" : 0,
+  "category" : "Social Services",
+  "createdAt" : 1363720244,
+  "description" : "Listing of locations that offer resume and interview assistance",
+  "displayType" : "table",
+  "downloadCount" : 1,
+  "numberOfComments" : 0,
+  "oid" : 2881643,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363720748,
+  "publicationGroup" : 743321,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1363720246,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 743321,
+  "totalTimesRated" : 0,
+  "viewCount" : 13,
+  "viewLastModified" : 1363720748,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 51677791,
+    "name" : "Location",
+    "dataTypeName" : "text",
+    "fieldName" : "location",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8758527,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Upper Manhattan",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Hunts Point"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      }, {
+        "count" : 15,
+        "item" : "Upper Manhattan"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51677792,
+    "name" : "Facility Address",
+    "dataTypeName" : "text",
+    "fieldName" : "facility_address",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8758528,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "1029 East 163 Street, 3rd Fl",
+      "null" : 0,
+      "largest" : "9 Bond Street",
+      "top" : [ {
+        "count" : 20,
+        "item" : "400 East Fordham Road"
+      }, {
+        "count" : 19,
+        "item" : "9 Bond Street"
+      }, {
+        "count" : 18,
+        "item" : "1029 East 163 Street, 3rd Fl"
+      }, {
+        "count" : 17,
+        "item" : "168-46 91st Ave, 2nd Fl"
+      }, {
+        "count" : 16,
+        "item" : "120 Stuyvesant Place, 3rd Fl."
+      }, {
+        "count" : 15,
+        "item" : "215 West 125 Street, 6th Fl."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51677793,
+    "name" : "Time",
+    "dataTypeName" : "text",
+    "fieldName" : "time",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8758529,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "10:00am",
+      "null" : 0,
+      "largest" : "2:30pm",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10:30am"
+      }, {
+        "count" : 19,
+        "item" : "2:30pm"
+      }, {
+        "count" : 18,
+        "item" : "11:00am"
+      }, {
+        "count" : 17,
+        "item" : "2:20pm"
+      }, {
+        "count" : 16,
+        "item" : "10:00am"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51677794,
+    "name" : "Days",
+    "dataTypeName" : "text",
+    "fieldName" : "days",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8758530,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "Monday",
+      "null" : 0,
+      "largest" : "Wednesday",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Monday"
+      }, {
+        "count" : 19,
+        "item" : "Wednesday"
+      }, {
+        "count" : 18,
+        "item" : "Tuesday"
+      }, {
+        "count" : 17,
+        "item" : "Monday & Wednesday"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "workforce 1 resume and job interview assistance locations", "sbs", "small business services", "jobs and economic mobility" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,1082 @@
+{
+  "id" : "urz7-pzb3",
+  "name" : "2010-2011 Class Size - School-level detail",
+  "attribution" : "Department of Education (DOE)",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1318523204,
+  "description" : "Average class sizes for each school, by grade and program type (General Education, Self-Contained Special Education, Collaborative Team Teaching (CTT)) for grades K-9 (where grade 9 is not reported by subject area), and for grades 5-9 (where available) and 9-12, aggregated by program type (General Education, CTT, and Self-Contained Special Education) and core course (e.g. English 9, Integrated Algebra, US History, etc.).\r\n\r\nClass size data is based on January 28, 2011 data.\r\n\r\n*Grade 9 Official Class data is included for 0K-09 schools. Core Course information for these sections is not reported.",
+  "displayType" : "table",
+  "downloadCount" : 93,
+  "numberOfComments" : 0,
+  "oid" : 344841,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318523557,
+  "publicationGroup" : 245485,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318523227,
+  "rowsUpdatedBy" : "rnig-m3uj",
+  "signed" : false,
+  "tableId" : 245485,
+  "totalTimesRated" : 0,
+  "viewCount" : 366,
+  "viewLastModified" : 1363697876,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3039671,
+    "name" : "CSD",
+    "dataTypeName" : "number",
+    "fieldName" : "csd",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1582173,
+    "width" : 136,
+    "cachedContents" : {
+      "non_null" : 27611,
+      "smallest" : "1",
+      "sum" : "436014",
+      "null" : 0,
+      "average" : "15.79131505559379",
+      "largest" : "32",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "11"
+      }, {
+        "count" : 9,
+        "item" : "12"
+      }, {
+        "count" : 8,
+        "item" : "13"
+      }, {
+        "count" : 7,
+        "item" : "14"
+      }, {
+        "count" : 6,
+        "item" : "15"
+      }, {
+        "count" : 5,
+        "item" : "16"
+      }, {
+        "count" : 4,
+        "item" : "17"
+      }, {
+        "count" : 3,
+        "item" : "18"
+      }, {
+        "count" : 2,
+        "item" : "19"
+      }, {
+        "count" : 1,
+        "item" : "20"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3039672,
+    "name" : "BOROUGH",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1582174,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 27611,
+      "smallest" : "K",
+      "null" : 0,
+      "largest" : "X",
+      "top" : [ {
+        "count" : 20,
+        "item" : "M"
+      }, {
+        "count" : 19,
+        "item" : "X"
+      }, {
+        "count" : 18,
+        "item" : "K"
+      }, {
+        "count" : 17,
+        "item" : "Q"
+      }, {
+        "count" : 16,
+        "item" : "R"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3039673,
+    "name" : "SCHOOL CODE",
+    "dataTypeName" : "text",
+    "fieldName" : "school_code",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1582175,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 27611,
+      "smallest" : "K001",
+      "null" : 0,
+      "largest" : "X696",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Q445"
+      }, {
+        "count" : 19,
+        "item" : "Q450"
+      }, {
+        "count" : 18,
+        "item" : "R051"
+      }, {
+        "count" : 17,
+        "item" : "R061"
+      }, {
+        "count" : 16,
+        "item" : "R063"
+      }, {
+        "count" : 15,
+        "item" : "R064"
+      }, {
+        "count" : 14,
+        "item" : "R069"
+      }, {
+        "count" : 13,
+        "item" : "R072"
+      }, {
+        "count" : 12,
+        "item" : "R075"
+      }, {
+        "count" : 11,
+        "item" : "R080"
+      }, {
+        "count" : 10,
+        "item" : "R440"
+      }, {
+        "count" : 9,
+        "item" : "R445"
+      }, {
+        "count" : 8,
+        "item" : "R450"
+      }, {
+        "count" : 7,
+        "item" : "R455"
+      }, {
+        "count" : 6,
+        "item" : "R460"
+      }, {
+        "count" : 5,
+        "item" : "R600"
+      }, {
+        "count" : 4,
+        "item" : "R605"
+      }, {
+        "count" : 3,
+        "item" : "R861"
+      }, {
+        "count" : 2,
+        "item" : "K116"
+      }, {
+        "count" : 1,
+        "item" : "K151"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3039674,
+    "name" : "SCHOOL NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "school_name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1582176,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 27611,
+      "smallest" : "47 The American Sign Language and English Secondary School",
+      "null" : 0,
+      "largest" : "Young Women's Leadership School of Brooklyn",
+      "top" : [ {
+        "count" : 20,
+        "item" : "William Cullen Bryant High School"
+      }, {
+        "count" : 19,
+        "item" : "Long Island City High School"
+      }, {
+        "count" : 18,
+        "item" : "I.S. 051 Edwin Markham"
+      }, {
+        "count" : 17,
+        "item" : "I.S. 061 William A Morris"
+      }, {
+        "count" : 16,
+        "item" : "Marsh Avenue School for Expeditionary Learning"
+      }, {
+        "count" : 15,
+        "item" : "Gaynor McCown Expeditionary Learning School"
+      }, {
+        "count" : 14,
+        "item" : "P.S. 069 Daniel D. Tompkins"
+      }, {
+        "count" : 13,
+        "item" : "I.S. 072 Rocco Laurie"
+      }, {
+        "count" : 12,
+        "item" : "I.S. 075 Frank D. Paulo"
+      }, {
+        "count" : 11,
+        "item" : "The Michael J. Petrides School"
+      }, {
+        "count" : 10,
+        "item" : "New Dorp High School"
+      }, {
+        "count" : 9,
+        "item" : "Port Richmond High School"
+      }, {
+        "count" : 8,
+        "item" : "Curtis High School"
+      }, {
+        "count" : 7,
+        "item" : "Tottenville High School"
+      }, {
+        "count" : 6,
+        "item" : "Susan E. Wagner High School"
+      }, {
+        "count" : 5,
+        "item" : "Ralph R. McKee Career and Technical Education High School"
+      }, {
+        "count" : 4,
+        "item" : "Staten Island Technical High School"
+      }, {
+        "count" : 3,
+        "item" : "Staten Island School of Civic Leadership"
+      }, {
+        "count" : 2,
+        "item" : "P.S. 116 Elizabeth L Farrell"
+      }, {
+        "count" : 1,
+        "item" : "P.S. 151 Lyndon B. Johnson"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3039675,
+    "name" : "GRADE ",
+    "dataTypeName" : "text",
+    "fieldName" : "grade_",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1582177,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 26127,
+      "smallest" : "01",
+      "null" : 1484,
+      "largest" : "MS Core",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0K"
+      }, {
+        "count" : 19,
+        "item" : "01"
+      }, {
+        "count" : 18,
+        "item" : "02"
+      }, {
+        "count" : 17,
+        "item" : "03"
+      }, {
+        "count" : 16,
+        "item" : "04"
+      }, {
+        "count" : 15,
+        "item" : "05"
+      }, {
+        "count" : 14,
+        "item" : "0K-09"
+      }, {
+        "count" : 13,
+        "item" : "06"
+      }, {
+        "count" : 12,
+        "item" : "07"
+      }, {
+        "count" : 11,
+        "item" : "08"
+      }, {
+        "count" : 10,
+        "item" : "MS Core"
+      }, {
+        "count" : 9,
+        "item" : "09-12"
+      }, {
+        "count" : 8,
+        "item" : "09"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3039676,
+    "name" : "PROGRAM TYPE",
+    "dataTypeName" : "text",
+    "fieldName" : "program_type",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1582178,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 26127,
+      "smallest" : "CTT",
+      "null" : 1484,
+      "largest" : "SPEC ED",
+      "top" : [ {
+        "count" : 20,
+        "item" : "GEN ED"
+      }, {
+        "count" : 19,
+        "item" : "CTT"
+      }, {
+        "count" : 18,
+        "item" : "SPEC ED"
+      }, {
+        "count" : 17,
+        "item" : "G&T"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3039677,
+    "name" : "CORE SUBJECT (MS CORE and 9-12 ONLY)",
+    "dataTypeName" : "text",
+    "fieldName" : "core_subject_ms_core_and_9_12_only_",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1582179,
+    "width" : 532,
+    "cachedContents" : {
+      "non_null" : 26127,
+      "smallest" : "-",
+      "null" : 1484,
+      "largest" : "SOCIAL STUDIES",
+      "top" : [ {
+        "count" : 20,
+        "item" : "-"
+      }, {
+        "count" : 19,
+        "item" : "ENGLISH"
+      }, {
+        "count" : 18,
+        "item" : "MATH"
+      }, {
+        "count" : 17,
+        "item" : "SCIENCE"
+      }, {
+        "count" : 16,
+        "item" : "SOCIAL STUDIES"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3039678,
+    "name" : "CORE COURSE (MS CORE and 9-12 ONLY)",
+    "dataTypeName" : "text",
+    "fieldName" : "core_course_ms_core_and_9_12_only_",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1582180,
+    "width" : 520,
+    "cachedContents" : {
+      "non_null" : 26127,
+      "smallest" : "-",
+      "null" : 1484,
+      "largest" : "US History & Government",
+      "top" : [ {
+        "count" : 20,
+        "item" : "-"
+      }, {
+        "count" : 19,
+        "item" : "MS English Core"
+      }, {
+        "count" : 18,
+        "item" : "MS Math Core"
+      }, {
+        "count" : 17,
+        "item" : "MS Science Core"
+      }, {
+        "count" : 16,
+        "item" : "MS Social Studies Core"
+      }, {
+        "count" : 15,
+        "item" : "Global History & Geography"
+      }, {
+        "count" : 14,
+        "item" : "Integrated Algebra"
+      }, {
+        "count" : 13,
+        "item" : "Living Environment"
+      }, {
+        "count" : 12,
+        "item" : "Participation in Government"
+      }, {
+        "count" : 11,
+        "item" : "US History & Government"
+      }, {
+        "count" : 10,
+        "item" : "English 9"
+      }, {
+        "count" : 9,
+        "item" : "English 10"
+      }, {
+        "count" : 8,
+        "item" : "English 11"
+      }, {
+        "count" : 7,
+        "item" : "English 12"
+      }, {
+        "count" : 6,
+        "item" : "Geometry"
+      }, {
+        "count" : 5,
+        "item" : "Other Math"
+      }, {
+        "count" : 4,
+        "item" : "Earth Science"
+      }, {
+        "count" : 3,
+        "item" : "Chemistry"
+      }, {
+        "count" : 2,
+        "item" : "Physics"
+      }, {
+        "count" : 1,
+        "item" : "Other Science"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3039679,
+    "name" : "SERVICE CATEGORY(K-9* ONLY)",
+    "dataTypeName" : "text",
+    "fieldName" : "service_category_k_9_only_",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1582181,
+    "width" : 424,
+    "cachedContents" : {
+      "non_null" : 26127,
+      "smallest" : "-",
+      "null" : 1484,
+      "largest" : "8:1:1",
+      "top" : [ {
+        "count" : 20,
+        "item" : "-"
+      }, {
+        "count" : 19,
+        "item" : "12:1:1"
+      }, {
+        "count" : 18,
+        "item" : "12:1"
+      }, {
+        "count" : 17,
+        "item" : "6:1:1"
+      }, {
+        "count" : 16,
+        "item" : "15:1"
+      }, {
+        "count" : 15,
+        "item" : "8:1:1"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3039680,
+    "name" : "NUMBER OF STUDENTS / SEATS FILLED",
+    "dataTypeName" : "number",
+    "fieldName" : "number_of_students_seats_filled",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1582182,
+    "width" : 496,
+    "cachedContents" : {
+      "non_null" : 26127,
+      "smallest" : "2",
+      "sum" : "2773185",
+      "null" : 1484,
+      "average" : "106.1424962682283",
+      "largest" : "2965",
+      "top" : [ {
+        "count" : 20,
+        "item" : "24"
+      }, {
+        "count" : 19,
+        "item" : "25"
+      }, {
+        "count" : 18,
+        "item" : "23"
+      }, {
+        "count" : 17,
+        "item" : "20"
+      }, {
+        "count" : 16,
+        "item" : "13"
+      }, {
+        "count" : 15,
+        "item" : "32"
+      }, {
+        "count" : 14,
+        "item" : "98"
+      }, {
+        "count" : 13,
+        "item" : "30"
+      }, {
+        "count" : 12,
+        "item" : "70"
+      }, {
+        "count" : 11,
+        "item" : "68"
+      }, {
+        "count" : 10,
+        "item" : "313"
+      }, {
+        "count" : 9,
+        "item" : "289"
+      }, {
+        "count" : 8,
+        "item" : "128"
+      }, {
+        "count" : 7,
+        "item" : "59"
+      }, {
+        "count" : 6,
+        "item" : "63"
+      }, {
+        "count" : 5,
+        "item" : "14"
+      }, {
+        "count" : 4,
+        "item" : "11"
+      }, {
+        "count" : 3,
+        "item" : "10"
+      }, {
+        "count" : 2,
+        "item" : "26"
+      }, {
+        "count" : 1,
+        "item" : "22"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3039681,
+    "name" : "NUMBER OF SECTIONS",
+    "dataTypeName" : "number",
+    "fieldName" : "number_of_sections",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1582183,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 26127,
+      "smallest" : "1",
+      "sum" : "111905",
+      "null" : 1484,
+      "average" : "4.283117081945880",
+      "largest" : "100",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "4"
+      }, {
+        "count" : 17,
+        "item" : "3"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "8"
+      }, {
+        "count" : 13,
+        "item" : "7"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "14"
+      }, {
+        "count" : 9,
+        "item" : "12"
+      }, {
+        "count" : 8,
+        "item" : "11"
+      }, {
+        "count" : 7,
+        "item" : "15"
+      }, {
+        "count" : 6,
+        "item" : "13"
+      }, {
+        "count" : 5,
+        "item" : "21"
+      }, {
+        "count" : 4,
+        "item" : "28"
+      }, {
+        "count" : 3,
+        "item" : "22"
+      }, {
+        "count" : 2,
+        "item" : "23"
+      }, {
+        "count" : 1,
+        "item" : "17"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3039682,
+    "name" : "AVERAGE CLASS SIZE",
+    "dataTypeName" : "number",
+    "fieldName" : "average_class_size",
+    "position" : 12,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1582184,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 26127,
+      "smallest" : "2.0",
+      "sum" : "596580.0",
+      "null" : 1484,
+      "average" : "22.83385004018831",
+      "largest" : "95.0",
+      "top" : [ {
+        "count" : 20,
+        "item" : "21.0"
+      }, {
+        "count" : 19,
+        "item" : "27.0"
+      }, {
+        "count" : 18,
+        "item" : "23.0"
+      }, {
+        "count" : 17,
+        "item" : "22.0"
+      }, {
+        "count" : 16,
+        "item" : "24.0"
+      }, {
+        "count" : 15,
+        "item" : "25.0"
+      }, {
+        "count" : 14,
+        "item" : "26.0"
+      }, {
+        "count" : 13,
+        "item" : "28.0"
+      }, {
+        "count" : 12,
+        "item" : "29.0"
+      }, {
+        "count" : 11,
+        "item" : "30.0"
+      }, {
+        "count" : 10,
+        "item" : "31.0"
+      }, {
+        "count" : 9,
+        "item" : "10.0"
+      }, {
+        "count" : 8,
+        "item" : "11.0"
+      }, {
+        "count" : 7,
+        "item" : "20.0"
+      }, {
+        "count" : 6,
+        "item" : "24.5"
+      }, {
+        "count" : 5,
+        "item" : "13.0"
+      }, {
+        "count" : 4,
+        "item" : "32.0"
+      }, {
+        "count" : 3,
+        "item" : "24.4"
+      }, {
+        "count" : 2,
+        "item" : "11.5"
+      }, {
+        "count" : 1,
+        "item" : "16.0"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3039683,
+    "name" : "SIZE OF SMALLEST CLASS",
+    "dataTypeName" : "number",
+    "fieldName" : "size_of_smallest_class",
+    "position" : 13,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1582185,
+    "width" : 364,
+    "cachedContents" : {
+      "non_null" : 26127,
+      "smallest" : "2",
+      "sum" : "530848",
+      "null" : 1484,
+      "average" : "20.31798522601141",
+      "largest" : "95",
+      "top" : [ {
+        "count" : 20,
+        "item" : "19"
+      }, {
+        "count" : 19,
+        "item" : "21"
+      }, {
+        "count" : 18,
+        "item" : "17"
+      }, {
+        "count" : 17,
+        "item" : "15"
+      }, {
+        "count" : 16,
+        "item" : "12"
+      }, {
+        "count" : 15,
+        "item" : "27"
+      }, {
+        "count" : 14,
+        "item" : "9"
+      }, {
+        "count" : 13,
+        "item" : "18"
+      }, {
+        "count" : 12,
+        "item" : "13"
+      }, {
+        "count" : 11,
+        "item" : "22"
+      }, {
+        "count" : 10,
+        "item" : "24"
+      }, {
+        "count" : 9,
+        "item" : "7"
+      }, {
+        "count" : 8,
+        "item" : "11"
+      }, {
+        "count" : 7,
+        "item" : "20"
+      }, {
+        "count" : 6,
+        "item" : "16"
+      }, {
+        "count" : 5,
+        "item" : "23"
+      }, {
+        "count" : 4,
+        "item" : "28"
+      }, {
+        "count" : 3,
+        "item" : "29"
+      }, {
+        "count" : 2,
+        "item" : "14"
+      }, {
+        "count" : 1,
+        "item" : "26"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3039684,
+    "name" : "SIZE OF LARGEST CLASS",
+    "dataTypeName" : "number",
+    "fieldName" : "size_of_largest_class",
+    "position" : 14,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1582186,
+    "width" : 352,
+    "cachedContents" : {
+      "non_null" : 26127,
+      "smallest" : "2",
+      "sum" : "650272",
+      "null" : 1484,
+      "average" : "24.88888888888889",
+      "largest" : "96",
+      "top" : [ {
+        "count" : 20,
+        "item" : "19"
+      }, {
+        "count" : 19,
+        "item" : "21"
+      }, {
+        "count" : 18,
+        "item" : "17"
+      }, {
+        "count" : 17,
+        "item" : "15"
+      }, {
+        "count" : 16,
+        "item" : "12"
+      }, {
+        "count" : 15,
+        "item" : "14"
+      }, {
+        "count" : 14,
+        "item" : "27"
+      }, {
+        "count" : 13,
+        "item" : "9"
+      }, {
+        "count" : 12,
+        "item" : "20"
+      }, {
+        "count" : 11,
+        "item" : "13"
+      }, {
+        "count" : 10,
+        "item" : "24"
+      }, {
+        "count" : 9,
+        "item" : "18"
+      }, {
+        "count" : 8,
+        "item" : "22"
+      }, {
+        "count" : 7,
+        "item" : "7"
+      }, {
+        "count" : 6,
+        "item" : "11"
+      }, {
+        "count" : 5,
+        "item" : "23"
+      }, {
+        "count" : 4,
+        "item" : "29"
+      }, {
+        "count" : 3,
+        "item" : "16"
+      }, {
+        "count" : 2,
+        "item" : "26"
+      }, {
+        "count" : 1,
+        "item" : "25"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3039685,
+    "name" : "DATA SOURCE",
+    "dataTypeName" : "text",
+    "fieldName" : "data_source",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1582187,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 26127,
+      "smallest" : "ATS",
+      "null" : 1484,
+      "largest" : "STARS",
+      "top" : [ {
+        "count" : 20,
+        "item" : "ATS"
+      }, {
+        "count" : 19,
+        "item" : "STARS"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3039686,
+    "name" : "SCHOOLWIDE PUPIL-TEACHER RATIO",
+    "dataTypeName" : "number",
+    "fieldName" : "schoolwide_pupil_teacher_ratio",
+    "position" : 16,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1582188,
+    "width" : 460,
+    "cachedContents" : {
+      "non_null" : 1484,
+      "smallest" : "3.0",
+      "sum" : "20870.3",
+      "null" : 26127,
+      "average" : "14.06354447439353",
+      "largest" : "29.0",
+      "top" : [ {
+        "count" : 20,
+        "item" : "15.5"
+      }, {
+        "count" : 19,
+        "item" : "16.6"
+      }, {
+        "count" : 18,
+        "item" : "14.6"
+      }, {
+        "count" : 17,
+        "item" : "14.2"
+      }, {
+        "count" : 16,
+        "item" : "14.9"
+      }, {
+        "count" : 15,
+        "item" : "16.0"
+      }, {
+        "count" : 14,
+        "item" : "14.8"
+      }, {
+        "count" : 13,
+        "item" : "15.1"
+      }, {
+        "count" : 12,
+        "item" : "15.9"
+      }, {
+        "count" : 11,
+        "item" : "17.1"
+      }, {
+        "count" : 10,
+        "item" : "20.3"
+      }, {
+        "count" : 9,
+        "item" : "19.3"
+      }, {
+        "count" : 8,
+        "item" : "13.5"
+      }, {
+        "count" : 7,
+        "item" : "14.4"
+      }, {
+        "count" : 6,
+        "item" : "19.4"
+      }, {
+        "count" : 5,
+        "item" : "13.1"
+      }, {
+        "count" : 4,
+        "item" : "12.4"
+      }, {
+        "count" : 3,
+        "item" : "15.4"
+      }, {
+        "count" : 2,
+        "item" : "11.6"
+      }, {
+        "count" : 1,
+        "item" : "13.2"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Historical Data"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "rnig-m3uj",
+    "displayName" : "Jorge J.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/5083/4460/large-profile_large.png",
+    "profileImageUrlMedium" : "/images/profile/5083/4460/large-profile_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/5083/4460/large-profile_tiny.png",
+    "profileLastModified" : 1322859437,
+    "screenName" : "Jorge J."
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rnig-m3uj",
+    "displayName" : "Jorge J.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/5083/4460/large-profile_large.png",
+    "profileImageUrlMedium" : "/images/profile/5083/4460/large-profile_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/5083/4460/large-profile_tiny.png",
+    "profileLastModified" : 1322859437,
+    "screenName" : "Jorge J."
+  },
+  "tags" : [ "lifelong learning" ],
+  "flags" : [ "default" ]
+}

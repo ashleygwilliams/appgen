@@ -1,0 +1,326 @@
+{
+  "id" : "ngf9-zejg",
+  "name" : "Type & Number Of Allegation Complaints Received",
+  "attribution" : "Civilian Complaint Review Board (CCRB)",
+  "attributionLink" : "http://www.nyc.gov/html/ccrb/pdf/ccrbappendices2011.pdf",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1361827474,
+  "description" : "This table represents the type of allegation and total number of allegations received for a particular type of complaint. Types of allegations and complaints are Force, Abuse of Authority, Discourtsey, Offensive Language.",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2642827,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361897490,
+  "publicationGroup" : 699468,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1361897482,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 701167,
+  "totalTimesRated" : 0,
+  "viewCount" : 18,
+  "viewLastModified" : 1361904852,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 47125660,
+    "name" : "Year",
+    "dataTypeName" : "text",
+    "fieldName" : "year",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8158579,
+    "width" : 68,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "2009",
+      "null" : 0,
+      "largest" : "2011",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2009"
+      }, {
+        "count" : 19,
+        "item" : "2010"
+      }, {
+        "count" : 18,
+        "item" : "2011"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 47125661,
+    "name" : "Force (Number)",
+    "dataTypeName" : "text",
+    "fieldName" : "force_number",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8158580,
+    "width" : 85,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "5283",
+      "null" : 0,
+      "largest" : "6404",
+      "top" : [ {
+        "count" : 20,
+        "item" : "6404"
+      }, {
+        "count" : 19,
+        "item" : "5298"
+      }, {
+        "count" : 18,
+        "item" : "5283"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47125662,
+    "name" : "Force (Type)",
+    "dataTypeName" : "text",
+    "fieldName" : "force_type",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8158581,
+    "width" : 67,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "2903",
+      "null" : 0,
+      "largest" : "3984",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3984"
+      }, {
+        "count" : 19,
+        "item" : "3225"
+      }, {
+        "count" : 18,
+        "item" : "2903"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47125663,
+    "name" : "Abuse of Authority (Number)",
+    "dataTypeName" : "text",
+    "fieldName" : "abuse_of_authority_number",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8158582,
+    "width" : 157,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "10549",
+      "null" : 0,
+      "largest" : "8743",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10549"
+      }, {
+        "count" : 19,
+        "item" : "8677"
+      }, {
+        "count" : 18,
+        "item" : "8743"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47125664,
+    "name" : "Abuse of Authority (Type)",
+    "dataTypeName" : "text",
+    "fieldName" : "abuse_of_authority_type",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8158583,
+    "width" : 137,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "3631",
+      "null" : 0,
+      "largest" : "4858",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4858"
+      }, {
+        "count" : 19,
+        "item" : "3998"
+      }, {
+        "count" : 18,
+        "item" : "3631"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47125665,
+    "name" : "Discourtsey (Number)",
+    "dataTypeName" : "text",
+    "fieldName" : "discourtsey_number",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8158584,
+    "width" : 121,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "3307",
+      "null" : 0,
+      "largest" : "3828",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3828"
+      }, {
+        "count" : 19,
+        "item" : "3308"
+      }, {
+        "count" : 18,
+        "item" : "3307"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47125666,
+    "name" : "Discourtsey (Type)",
+    "dataTypeName" : "text",
+    "fieldName" : "discourtsey_type",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8158585,
+    "width" : 102,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "2561",
+      "null" : 0,
+      "largest" : "3172",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3172"
+      }, {
+        "count" : 19,
+        "item" : "2698"
+      }, {
+        "count" : 18,
+        "item" : "2561"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47125667,
+    "name" : "Offensive Language (Number)",
+    "dataTypeName" : "text",
+    "fieldName" : "offensive_language_number",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8158586,
+    "width" : 166,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "514",
+      "null" : 0,
+      "largest" : "589",
+      "top" : [ {
+        "count" : 20,
+        "item" : "589"
+      }, {
+        "count" : 19,
+        "item" : "514"
+      }, {
+        "count" : 18,
+        "item" : "534"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47125668,
+    "name" : "Offensive Language (Type)",
+    "dataTypeName" : "text",
+    "fieldName" : "offensive_language_type",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8158587,
+    "width" : 151,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "451",
+      "null" : 0,
+      "largest" : "554",
+      "top" : [ {
+        "count" : 20,
+        "item" : "554"
+      }, {
+        "count" : 19,
+        "item" : "467"
+      }, {
+        "count" : 18,
+        "item" : "451"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "ccrb", "allegations", "complaints", "abuse", "force", "offensive language" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,330 @@
+{
+  "id" : "s22f-jsd4",
+  "name" : "Current Medallion Drivers",
+  "attribution" : "Taxi and Limousine Commission (TLC)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1346941832,
+  "description" : "Yellow Medallion Taxicabs are the official taxis of New York City. There are currently about 13,000 licensed taxicabs and they provide transportation for passengers via street hails. Medallion Taxicab Drivers face a unique set of requirements in order to be licensed to drive a yellow taxicab.  This data set contains information on the status of current medallion drivers.",
+  "displayType" : "table",
+  "downloadCount" : 239,
+  "numberOfComments" : 0,
+  "oid" : 3083717,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1365191583,
+  "publicationGroup" : 419702,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1365191402,
+  "rowsUpdatedBy" : "x539-akqs",
+  "signed" : false,
+  "tableId" : 777315,
+  "totalTimesRated" : 0,
+  "viewCount" : 757,
+  "viewLastModified" : 1365191583,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 55718104,
+    "name" : "Date Updated",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "date_updated",
+    "position" : 1,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 4055208,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 7544416,
+      "smallest" : "2012-09-06T00:00:00",
+      "null" : 0,
+      "largest" : "2013-04-05T00:00:00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2013-01-10T00:00:00"
+      }, {
+        "count" : 19,
+        "item" : "2013-01-23T00:00:00"
+      }, {
+        "count" : 18,
+        "item" : "2013-01-30T00:00:00"
+      }, {
+        "count" : 17,
+        "item" : "2013-02-14T00:00:00"
+      }, {
+        "count" : 16,
+        "item" : "2013-02-15T00:00:00"
+      }, {
+        "count" : 15,
+        "item" : "2013-02-18T00:00:00"
+      }, {
+        "count" : 14,
+        "item" : "2013-02-19T00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2013-02-20T00:00:00"
+      }, {
+        "count" : 12,
+        "item" : "2013-02-21T00:00:00"
+      }, {
+        "count" : 11,
+        "item" : "2013-02-22T00:00:00"
+      }, {
+        "count" : 10,
+        "item" : "2013-02-25T00:00:00"
+      }, {
+        "count" : 9,
+        "item" : "2013-02-26T00:00:00"
+      }, {
+        "count" : 8,
+        "item" : "2013-02-27T00:00:00"
+      }, {
+        "count" : 7,
+        "item" : "2013-02-28T00:00:00"
+      }, {
+        "count" : 6,
+        "item" : "2013-03-01T00:00:00"
+      }, {
+        "count" : 5,
+        "item" : "2013-03-04T00:00:00"
+      }, {
+        "count" : 4,
+        "item" : "2013-03-05T00:00:00"
+      }, {
+        "count" : 3,
+        "item" : "2013-03-06T00:00:00"
+      }, {
+        "count" : 2,
+        "item" : "2013-03-07T00:00:00"
+      }, {
+        "count" : 1,
+        "item" : "2013-03-08T00:00:00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 55718105,
+    "name" : "License Number",
+    "dataTypeName" : "text",
+    "fieldName" : "license_number",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4055209,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 7544416,
+      "smallest" : "004511",
+      "null" : 0,
+      "largest" : "5475359",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5475017"
+      }, {
+        "count" : 19,
+        "item" : "5475050"
+      }, {
+        "count" : 18,
+        "item" : "5475154"
+      }, {
+        "count" : 17,
+        "item" : "5475175"
+      }, {
+        "count" : 16,
+        "item" : "5475351"
+      }, {
+        "count" : 15,
+        "item" : "5475359"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 55718106,
+    "name" : "Name of Licensee",
+    "dataTypeName" : "text",
+    "fieldName" : "name_of_licensee",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4055210,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 7544416,
+      "smallest" : "AABIZZA,NOURDDINE",
+      "null" : 0,
+      "largest" : "ZZAMAN,MOLLA,MONIRU",
+      "top" : [ {
+        "count" : 20,
+        "item" : "OSENI,MAMOWORA"
+      }, {
+        "count" : 19,
+        "item" : "NAFKAOUI,ABDELOUAHED"
+      }, {
+        "count" : 18,
+        "item" : "ABRAZ,MOHAMED,A"
+      }, {
+        "count" : 17,
+        "item" : "AHMED,ASHAR,L"
+      }, {
+        "count" : 16,
+        "item" : "SAMED,ABDUL,SAMU"
+      }, {
+        "count" : 15,
+        "item" : "DAVID,BRUCE,L,JR"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 55718107,
+    "name" : "License Type",
+    "dataTypeName" : "text",
+    "fieldName" : "license_type",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4055211,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 7544416,
+      "smallest" : "MEDALLION TAXI DRIVER",
+      "null" : 0,
+      "largest" : "MEDALLION TAXI DRIVER",
+      "top" : [ {
+        "count" : 20,
+        "item" : "MEDALLION TAXI DRIVER"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 55718108,
+    "name" : "License Expiration Date",
+    "dataTypeName" : "text",
+    "fieldName" : "license_expiration_date",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4055212,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 7544416,
+      "smallest" : "01/01/2013",
+      "null" : 0,
+      "largest" : "12/31/2014",
+      "top" : [ {
+        "count" : 20,
+        "item" : "08/27/2013"
+      }, {
+        "count" : 19,
+        "item" : "11/09/2013"
+      }, {
+        "count" : 18,
+        "item" : "11/20/2013"
+      }, {
+        "count" : 17,
+        "item" : "12/21/2013"
+      }, {
+        "count" : 16,
+        "item" : "12/07/2013"
+      }, {
+        "count" : 15,
+        "item" : "12/14/2013"
+      }, {
+        "count" : 14,
+        "item" : "02/20/2014"
+      }, {
+        "count" : 13,
+        "item" : "01/03/2014"
+      }, {
+        "count" : 12,
+        "item" : "01/22/2014"
+      }, {
+        "count" : 11,
+        "item" : "01/25/2014"
+      }, {
+        "count" : 10,
+        "item" : "03/07/2014"
+      }, {
+        "count" : 9,
+        "item" : "01/29/2014"
+      }, {
+        "count" : 8,
+        "item" : "02/19/2014"
+      }, {
+        "count" : 7,
+        "item" : "04/02/2014"
+      }, {
+        "count" : 6,
+        "item" : "02/12/2014"
+      }, {
+        "count" : 5,
+        "item" : "03/14/2014"
+      }, {
+        "count" : 4,
+        "item" : "03/11/2014"
+      }, {
+        "count" : 3,
+        "item" : "02/28/2014"
+      }, {
+        "count" : 2,
+        "item" : "02/25/2014"
+      }, {
+        "count" : 1,
+        "item" : "03/22/2014"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Daily"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+    "orderBys" : [ {
+      "ascending" : false,
+      "expression" : {
+        "columnId" : 55718104,
+        "type" : "column"
+      }
+    } ]
+  },
+  "rights" : [ "read" ],
+  "sortBys" : [ {
+    "id" : 0,
+    "viewColumnId" : 55718104
+  } ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "tlc", "taxi", "medallion", "cab", "license", "driver" ],
+  "flags" : [ "default" ]
+}

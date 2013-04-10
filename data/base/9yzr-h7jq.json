@@ -1,0 +1,449 @@
+{
+  "id" : "9yzr-h7jq",
+  "name" : "Parking Regulations Street Segments",
+  "attribution" : "Department of Transportation (DOT)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1314994698,
+  "description" : "The Parking Regulations are drawn from DOT’s traffic sign database, STATUS, which is used by DOT in managing its inventory of over one million traffic signs in New York City. The database keeps track of the description, location and installation dates for DOT traffic signs. The Locations and Signs files need to be used in combination. The data in files can be linked, to find an applicable regulation, using the 'StatusOrderNumber' value. This process is automated at our  DOT Parking Regulation website: http://a841-dotvweb01.nyc.gov/ParkingRegs/ViewController/LocationValidation.aspx",
+  "displayType" : "table",
+  "downloadCount" : 594,
+  "numberOfComments" : 4,
+  "oid" : 2203222,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1357859402,
+  "publicationGroup" : 240073,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1357859222,
+  "rowsUpdatedBy" : "5fuc-pqz2",
+  "signed" : false,
+  "tableId" : 606621,
+  "totalTimesRated" : 0,
+  "viewCount" : 2344,
+  "viewLastModified" : 1363705546,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 38518139,
+    "name" : "BoroughCode",
+    "dataTypeName" : "text",
+    "fieldName" : "boroughcode",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1514754,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 93601,
+      "smallest" : "B",
+      "null" : 0,
+      "largest" : "S",
+      "top" : [ {
+        "count" : 20,
+        "item" : "B"
+      }, {
+        "count" : 19,
+        "item" : "K"
+      }, {
+        "count" : 18,
+        "item" : "M"
+      }, {
+        "count" : 17,
+        "item" : "Q"
+      }, {
+        "count" : 16,
+        "item" : "S"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 38518140,
+    "name" : "StatusOrderNumber",
+    "dataTypeName" : "text",
+    "fieldName" : "statusordernumber",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1514755,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 93601,
+      "smallest" : "P-000720",
+      "null" : 0,
+      "largest" : "S-999996",
+      "top" : [ {
+        "count" : 20,
+        "item" : "S-985717"
+      }, {
+        "count" : 19,
+        "item" : "S-985789"
+      }, {
+        "count" : 18,
+        "item" : "S-986004"
+      }, {
+        "count" : 17,
+        "item" : "S-986007"
+      }, {
+        "count" : 16,
+        "item" : "S-986051"
+      }, {
+        "count" : 15,
+        "item" : "S-986215"
+      }, {
+        "count" : 14,
+        "item" : "S-986494"
+      }, {
+        "count" : 13,
+        "item" : "S-986498"
+      }, {
+        "count" : 12,
+        "item" : "S-991575"
+      }, {
+        "count" : 11,
+        "item" : "S-992153"
+      }, {
+        "count" : 10,
+        "item" : "S-992397"
+      }, {
+        "count" : 9,
+        "item" : "S-992398"
+      }, {
+        "count" : 8,
+        "item" : "S-992399"
+      }, {
+        "count" : 7,
+        "item" : "S-993031"
+      }, {
+        "count" : 6,
+        "item" : "S-993202"
+      }, {
+        "count" : 5,
+        "item" : "S-993923"
+      }, {
+        "count" : 4,
+        "item" : "S-994079"
+      }, {
+        "count" : 3,
+        "item" : "S-994211"
+      }, {
+        "count" : 2,
+        "item" : "S-994364"
+      }, {
+        "count" : 1,
+        "item" : "S-994751"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 38518141,
+    "name" : "MainStreet",
+    "dataTypeName" : "text",
+    "fieldName" : "sideofstreet",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1514756,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 93601,
+      "smallest" : "100 AVENUE",
+      "null" : 0,
+      "largest" : "ZULETTE AVENUE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "HYLAN BOULEVARD"
+      }, {
+        "count" : 19,
+        "item" : "VICTORY BOULEVARD"
+      }, {
+        "count" : 18,
+        "item" : "AMBOY ROAD"
+      }, {
+        "count" : 17,
+        "item" : "RICHMOND TERRACE"
+      }, {
+        "count" : 16,
+        "item" : "SLOSSON AVENUE"
+      }, {
+        "count" : 15,
+        "item" : "FOREST HILL ROAD"
+      }, {
+        "count" : 14,
+        "item" : "CLOVE ROAD"
+      }, {
+        "count" : 13,
+        "item" : "MILFORD AVENUE"
+      }, {
+        "count" : 12,
+        "item" : "COLONIAL AVENUE"
+      }, {
+        "count" : 11,
+        "item" : "FERRY TERMINAL         *EXIT"
+      }, {
+        "count" : 10,
+        "item" : "GARDEN STREET"
+      }, {
+        "count" : 9,
+        "item" : "ARTHUR KILL ROAD"
+      }, {
+        "count" : 8,
+        "item" : "RICHMOND AVENUE"
+      }, {
+        "count" : 7,
+        "item" : "HOWARD AVENUE"
+      }, {
+        "count" : 6,
+        "item" : "BROOKSIDE AVENUE"
+      }, {
+        "count" : 5,
+        "item" : "REVERE STREET"
+      }, {
+        "count" : 4,
+        "item" : "CRYSTAL AVENUE"
+      }, {
+        "count" : 3,
+        "item" : "FELTON STREET"
+      }, {
+        "count" : 2,
+        "item" : "NEPTUNE STREET"
+      }, {
+        "count" : 1,
+        "item" : "DEISIUS STREET"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 38518142,
+    "name" : "FromStreet",
+    "dataTypeName" : "text",
+    "fieldName" : "fromstreet",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1677428,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 93601,
+      "smallest" : "100 AVENUE",
+      "null" : 0,
+      "largest" : "ZWICKY AVENUE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "DEAD END"
+      }, {
+        "count" : 19,
+        "item" : "NORTH RAILROAD AVENUE"
+      }, {
+        "count" : 18,
+        "item" : "RICHMOND AVENUE"
+      }, {
+        "count" : 17,
+        "item" : "BOUNDARY AVENUE"
+      }, {
+        "count" : 16,
+        "item" : "WADSWORTH ROAD"
+      }, {
+        "count" : 15,
+        "item" : "HARBOR VIEW PLACE"
+      }, {
+        "count" : 14,
+        "item" : "BAY STREET"
+      }, {
+        "count" : 13,
+        "item" : "NEW YORK PLACE"
+      }, {
+        "count" : 12,
+        "item" : "DUSTAN STREET"
+      }, {
+        "count" : 11,
+        "item" : "SEA GATE ROAD"
+      }, {
+        "count" : 10,
+        "item" : "AMBOY ROAD"
+      }, {
+        "count" : 9,
+        "item" : "HYLAN BOULEVARD"
+      }, {
+        "count" : 8,
+        "item" : "GREENCROFT AVENUE"
+      }, {
+        "count" : 7,
+        "item" : "DENT ROAD"
+      }, {
+        "count" : 6,
+        "item" : "GUYON AVENUE"
+      }, {
+        "count" : 5,
+        "item" : "BRIELLE AVENUE"
+      }, {
+        "count" : 4,
+        "item" : "HAROLD AVENUE"
+      }, {
+        "count" : 3,
+        "item" : "PRIMROSE PLACE"
+      }, {
+        "count" : 2,
+        "item" : "SCHOOL ROAD            *ENTRANCE"
+      }, {
+        "count" : 1,
+        "item" : "ROCKLAND AVENUE"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 38518143,
+    "name" : "ToStreet",
+    "dataTypeName" : "text",
+    "fieldName" : "tostreet",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1677429,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 93601,
+      "smallest" : "100 AVENUE",
+      "null" : 0,
+      "largest" : "ZWICKY AVENUE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "DEAD END"
+      }, {
+        "count" : 19,
+        "item" : "HYLAN BOULEVARD"
+      }, {
+        "count" : 18,
+        "item" : "SOUTH GANNON AVENUE"
+      }, {
+        "count" : 17,
+        "item" : "HARBOR VIEW PLACE SOUTH"
+      }, {
+        "count" : 16,
+        "item" : "SEA GATE ROAD"
+      }, {
+        "count" : 15,
+        "item" : "WADSWORTH ROAD"
+      }, {
+        "count" : 14,
+        "item" : "HARBOR VIEW PLACE"
+      }, {
+        "count" : 13,
+        "item" : "ALABAMA PLACE"
+      }, {
+        "count" : 12,
+        "item" : "CEDAR GROVE AVENUE"
+      }, {
+        "count" : 11,
+        "item" : "HARBOR VIEW PLACE EAST"
+      }, {
+        "count" : 10,
+        "item" : "DENT ROAD"
+      }, {
+        "count" : 9,
+        "item" : "GREENCROFT AVENUE"
+      }, {
+        "count" : 8,
+        "item" : "MAYBURY AVENUE"
+      }, {
+        "count" : 7,
+        "item" : "AMBOY ROAD"
+      }, {
+        "count" : 6,
+        "item" : "ISABELLA AVENUE"
+      }, {
+        "count" : 5,
+        "item" : "PORTAGE AVENUE"
+      }, {
+        "count" : 4,
+        "item" : "BENNETT PLACE"
+      }, {
+        "count" : 3,
+        "item" : "TRAVIS AVENUE"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 38518144,
+    "name" : "SideOfStreet",
+    "dataTypeName" : "text",
+    "fieldName" : "mainstreet",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1677427,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 93601,
+      "smallest" : "E",
+      "null" : 0,
+      "largest" : "W",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "S"
+      }, {
+        "count" : 18,
+        "item" : "W"
+      }, {
+        "count" : 17,
+        "item" : "E"
+      }, {
+        "count" : 16,
+        "item" : "M"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "parking", "regulation", "traffic", "sign", "signage", "location", "install", "car", "automobile", "drive", "driving", "clean web" ],
+  "flags" : [ "default" ]
+}

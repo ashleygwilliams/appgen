@@ -1,0 +1,310 @@
+{
+  "id" : "pc34-d3sx",
+  "name" : "Safe Route to Schools - Priority Schools",
+  "attribution" : "Department of Transportation (DOT)",
+  "attributionLink" : "http://www.nyc.gov/html/dot/html/safety/saferoutes.shtml",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1362588406,
+  "description" : "DOT has analyzed the latest citywide crash data and school data in order to identify a new group of 135 public, private and parochial elementary and middle schools Priority Schools. Each of DOT's Priority Schools receives an individualized planning study which determines both short-term and long-term measures to improve safety.",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2882348,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363726005,
+  "publicationGroup" : 717882,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1363725892,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 743483,
+  "totalTimesRated" : 0,
+  "viewCount" : 18,
+  "viewLastModified" : 1363726005,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 51690583,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8403925,
+    "width" : 51,
+    "cachedContents" : {
+      "non_null" : 135,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Queens"
+      }, {
+        "count" : 17,
+        "item" : "Staten Island"
+      }, {
+        "count" : 16,
+        "item" : "Manhattan"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51690584,
+    "name" : "Community Board",
+    "dataTypeName" : "number",
+    "fieldName" : "community_board",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8403926,
+    "width" : 112,
+    "cachedContents" : {
+      "non_null" : 135,
+      "smallest" : "1",
+      "sum" : "1097",
+      "null" : 0,
+      "average" : "8.125925925925926",
+      "largest" : "18",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "11"
+      }, {
+        "count" : 9,
+        "item" : "12"
+      }, {
+        "count" : 8,
+        "item" : "13"
+      }, {
+        "count" : 7,
+        "item" : "14"
+      }, {
+        "count" : 6,
+        "item" : "15"
+      }, {
+        "count" : 5,
+        "item" : "16"
+      }, {
+        "count" : 4,
+        "item" : "17"
+      }, {
+        "count" : 3,
+        "item" : "18"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51690585,
+    "name" : "School Type",
+    "dataTypeName" : "text",
+    "fieldName" : "school_type",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8403927,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 135,
+      "smallest" : "Private",
+      "null" : 0,
+      "largest" : "Public",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Public"
+      }, {
+        "count" : 19,
+        "item" : "Private"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51690586,
+    "name" : "School Name / ID",
+    "dataTypeName" : "text",
+    "fieldName" : "school_name_id",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8403928,
+    "width" : 372,
+    "cachedContents" : {
+      "non_null" : 135,
+      "smallest" : "ACADEMY OF HOSPITALITY AND TOURISM",
+      "null" : 0,
+      "largest" : "YESHIVA TORAH VODAATH",
+      "top" : [ {
+        "count" : 20,
+        "item" : "PARK AVENUE CHRISTIAN CHURCH DAY"
+      }, {
+        "count" : 19,
+        "item" : "RAMAZ LOWER SCHOOL"
+      }, {
+        "count" : 18,
+        "item" : "ST JOSEPH'S SCHOOL(YORKVILLE)"
+      }, {
+        "count" : 17,
+        "item" : "KIPP STAR COLLEGE PREP CHARTER"
+      }, {
+        "count" : 16,
+        "item" : "OUR LADY OF LOURDES SCHOOL"
+      }, {
+        "count" : 15,
+        "item" : "P.S. 154"
+      }, {
+        "count" : 14,
+        "item" : "P.S. 83 LUIS MUNOZ RIVERA SCHOOL"
+      }, {
+        "count" : 13,
+        "item" : "SAINT ANN SCHOOL"
+      }, {
+        "count" : 12,
+        "item" : "COMMUNITY HEALTH ACAD OF THE HEIGHTS"
+      }, {
+        "count" : 11,
+        "item" : "P.S. 128 AUDUBON SCHOOL"
+      }, {
+        "count" : 10,
+        "item" : "P.S. 4  DUKE ELLINGTON SCHOOL"
+      }, {
+        "count" : 9,
+        "item" : "SAINT ELIZABETH SCHOOL"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51690587,
+    "name" : "Address",
+    "dataTypeName" : "text",
+    "fieldName" : "address",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8403929,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 135,
+      "smallest" : "100-05 Springfield Boulevard",
+      "null" : 0,
+      "largest" : "99-01 34th Avenue",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1010 Park Avenue"
+      }, {
+        "count" : 19,
+        "item" : "125 East 85th Street"
+      }, {
+        "count" : 18,
+        "item" : "420 East 87th Street"
+      }, {
+        "count" : 17,
+        "item" : "433 West 123rd Street"
+      }, {
+        "count" : 16,
+        "item" : "468 West 143rd Street"
+      }, {
+        "count" : 15,
+        "item" : "250 West 127th Street"
+      }, {
+        "count" : 14,
+        "item" : "219 East 109th Street"
+      }, {
+        "count" : 13,
+        "item" : "314 East 110th Street"
+      }, {
+        "count" : 12,
+        "item" : "511 West 182nd Street"
+      }, {
+        "count" : 11,
+        "item" : "560 West 169th Street"
+      }, {
+        "count" : 10,
+        "item" : "500 West 160th Street"
+      }, {
+        "count" : 9,
+        "item" : "612 West 187th Street"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dot", "safe route", "schools", "priority school", "clean web" ],
+  "flags" : [ "default" ]
+}

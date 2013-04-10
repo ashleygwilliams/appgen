@@ -1,0 +1,209 @@
+{
+  "id" : "dgg9-jkx8",
+  "name" : "World Trade Center (WTC) Patient Categories",
+  "attribution" : "Health and Hospitals Corporation (HHC)",
+  "averageRating" : 0,
+  "category" : "Health",
+  "createdAt" : 1317407708,
+  "description" : "HHC's WTC Environmental Health Center program, one of three Centers of Excellence in New York City, provides medical and mental healthcare to residents, students, workers, and passersby who may still be sick from 9/11.  This data shows the patient population of the program from 2008 to 2011.\r\nUpdate Frequency: As needed",
+  "displayType" : "table",
+  "downloadCount" : 16,
+  "numberOfComments" : 0,
+  "oid" : 337521,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318361138,
+  "publicationGroup" : 242192,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1317407718,
+  "rowsUpdatedBy" : "k2fz-tf56",
+  "signed" : false,
+  "tableId" : 242192,
+  "totalTimesRated" : 0,
+  "viewCount" : 85,
+  "viewLastModified" : 1363711911,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2910022,
+    "name" : "Categories",
+    "dataTypeName" : "text",
+    "fieldName" : "categories",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1540133,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 9,
+      "smallest" : "Clean-Up Worker",
+      "null" : 0,
+      "largest" : "Student",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Resident"
+      }, {
+        "count" : 19,
+        "item" : "Local Worker"
+      }, {
+        "count" : 18,
+        "item" : "Resident + Local Worker"
+      }, {
+        "count" : 17,
+        "item" : "Clean-Up Worker"
+      }, {
+        "count" : 16,
+        "item" : "Clean-Up Worker + Local Worker"
+      }, {
+        "count" : 15,
+        "item" : "Rescue/Recovery"
+      }, {
+        "count" : 14,
+        "item" : "Passerby, Commuter"
+      }, {
+        "count" : 13,
+        "item" : "Student"
+      }, {
+        "count" : 12,
+        "item" : "Other"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910023,
+    "name" : "Total",
+    "dataTypeName" : "number",
+    "fieldName" : "total",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1540134,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 9,
+      "smallest" : "4",
+      "sum" : "754",
+      "null" : 0,
+      "average" : "83.77777777777778",
+      "largest" : "378",
+      "top" : [ {
+        "count" : 20,
+        "item" : "154"
+      }, {
+        "count" : 19,
+        "item" : "378"
+      }, {
+        "count" : 18,
+        "item" : "77"
+      }, {
+        "count" : 17,
+        "item" : "51"
+      }, {
+        "count" : 16,
+        "item" : "20"
+      }, {
+        "count" : 15,
+        "item" : "4"
+      }, {
+        "count" : 14,
+        "item" : "32"
+      }, {
+        "count" : 13,
+        "item" : "25"
+      }, {
+        "count" : 12,
+        "item" : "13"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910024,
+    "name" : "% of Total",
+    "dataTypeName" : "percent",
+    "fieldName" : "_of_total",
+    "position" : 4,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1540135,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 9,
+      "smallest" : "1",
+      "sum" : "100",
+      "null" : 0,
+      "average" : "11.11111111111111",
+      "largest" : "50",
+      "top" : [ {
+        "count" : 20,
+        "item" : "20"
+      }, {
+        "count" : 19,
+        "item" : "50"
+      }, {
+        "count" : 18,
+        "item" : "10"
+      }, {
+        "count" : 17,
+        "item" : "7"
+      }, {
+        "count" : 16,
+        "item" : "3"
+      }, {
+        "count" : 15,
+        "item" : "1"
+      }, {
+        "count" : 14,
+        "item" : "4"
+      }, {
+        "count" : 13,
+        "item" : "2"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "health", "patient", "world trade center", "wtc", "healthy living" ],
+  "flags" : [ "default" ]
+}

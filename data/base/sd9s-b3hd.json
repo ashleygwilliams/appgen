@@ -1,0 +1,214 @@
+{
+  "id" : "sd9s-b3hd",
+  "name" : "Average days for the CCRB to close case",
+  "attribution" : "Civilian Complaint Review Board (CCRB)",
+  "attributionLink" : "http://www.nyc.gov/html/ccrb/pdf/ccrbappendices2011.pdf",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1361828533,
+  "description" : "This table represents average days for the CCRB to close a case measured from the date of report",
+  "displayType" : "table",
+  "downloadCount" : 1,
+  "numberOfComments" : 0,
+  "oid" : 2643680,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361906330,
+  "publicationGroup" : 699517,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1361906223,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 701374,
+  "totalTimesRated" : 0,
+  "viewCount" : 13,
+  "viewLastModified" : 1361910670,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 47138251,
+    "name" : "Year",
+    "dataTypeName" : "text",
+    "fieldName" : "year",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159453,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "2009",
+      "null" : 0,
+      "largest" : "2011",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2009"
+      }, {
+        "count" : 19,
+        "item" : "2010"
+      }, {
+        "count" : 18,
+        "item" : "2011"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 47138252,
+    "name" : "Full Investigations",
+    "dataTypeName" : "text",
+    "fieldName" : "full_investigations",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159454,
+    "width" : 98,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "284",
+      "null" : 0,
+      "largest" : "349",
+      "top" : [ {
+        "count" : 20,
+        "item" : "349"
+      }, {
+        "count" : 19,
+        "item" : "299"
+      }, {
+        "count" : 18,
+        "item" : "284"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47138253,
+    "name" : "Truncated Investigations",
+    "dataTypeName" : "text",
+    "fieldName" : "truncated_investigations",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159455,
+    "width" : 135,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "113",
+      "null" : 0,
+      "largest" : "97",
+      "top" : [ {
+        "count" : 20,
+        "item" : "113"
+      }, {
+        "count" : 19,
+        "item" : "96"
+      }, {
+        "count" : 18,
+        "item" : "97"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47138254,
+    "name" : "Mediations",
+    "dataTypeName" : "text",
+    "fieldName" : "mediations",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159456,
+    "width" : 61,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "162",
+      "null" : 0,
+      "largest" : "178",
+      "top" : [ {
+        "count" : 20,
+        "item" : "162"
+      }, {
+        "count" : 19,
+        "item" : "177"
+      }, {
+        "count" : 18,
+        "item" : "178"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47138255,
+    "name" : "Mediation Attempted",
+    "dataTypeName" : "text",
+    "fieldName" : "mediation_attempted",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159457,
+    "width" : 117,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "227",
+      "null" : 0,
+      "largest" : "267",
+      "top" : [ {
+        "count" : 20,
+        "item" : "227"
+      }, {
+        "count" : 19,
+        "item" : "264"
+      }, {
+        "count" : 18,
+        "item" : "267"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "ccrb", "average", "days", "investigations" ],
+  "flags" : [ "default" ]
+}

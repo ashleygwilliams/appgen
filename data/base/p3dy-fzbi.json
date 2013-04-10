@@ -1,0 +1,1506 @@
+{
+  "id" : "p3dy-fzbi",
+  "name" : "Projected Population 1950-2030 - School- Age-- Elderly-- Total By Borough",
+  "attribution" : "Department of City Planning (DCP)",
+  "averageRating" : 0,
+  "category" : "Statistics",
+  "createdAt" : 1319564684,
+  "description" : "Unadjusted decennial census data from 1950-2000 and projected figures from 2010-2030: summary table of New York City population numbers and percentage share by Borough, including school-age (5 to 17), elderly (65+), and total population.",
+  "displayType" : "table",
+  "downloadCount" : 31,
+  "numberOfComments" : 0,
+  "oid" : 353617,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1319565005,
+  "publicationGroup" : 248171,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1319564688,
+  "rowsUpdatedBy" : "rnig-m3uj",
+  "signed" : false,
+  "tableId" : 248171,
+  "totalTimesRated" : 0,
+  "viewCount" : 99,
+  "viewLastModified" : 1340900236,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3248008,
+    "name" : "Age Group",
+    "dataTypeName" : "text",
+    "fieldName" : "age_group",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1625288,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "Elderly (65+) ",
+      "null" : 0,
+      "largest" : "Total Population",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Total Population"
+      }, {
+        "count" : 19,
+        "item" : "School-Age (5 to 17)"
+      }, {
+        "count" : 18,
+        "item" : "Elderly (65+) "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248009,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1625289,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "   Bronx",
+      "null" : 0,
+      "largest" : "   Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NYC Total"
+      }, {
+        "count" : 19,
+        "item" : "   Bronx"
+      }, {
+        "count" : 18,
+        "item" : "   Brooklyn"
+      }, {
+        "count" : 17,
+        "item" : "   Manhattan"
+      }, {
+        "count" : 16,
+        "item" : "   Queens"
+      }, {
+        "count" : 15,
+        "item" : "   Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248010,
+    "name" : "1950",
+    "dataTypeName" : "number",
+    "fieldName" : "_1",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625290,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "15481",
+      "sum" : "19512137",
+      "null" : 0,
+      "average" : "1084007.611111111",
+      "largest" : "7891957",
+      "top" : [ {
+        "count" : 20,
+        "item" : "7891957"
+      }, {
+        "count" : 19,
+        "item" : "1451277"
+      }, {
+        "count" : 18,
+        "item" : "2738175"
+      }, {
+        "count" : 17,
+        "item" : "1960101"
+      }, {
+        "count" : 16,
+        "item" : "1550849"
+      }, {
+        "count" : 15,
+        "item" : "191555"
+      }, {
+        "count" : 14,
+        "item" : "1258877"
+      }, {
+        "count" : 13,
+        "item" : "251210"
+      }, {
+        "count" : 12,
+        "item" : "471479"
+      }, {
+        "count" : 11,
+        "item" : "247520"
+      }, {
+        "count" : 10,
+        "item" : "254277"
+      }, {
+        "count" : 9,
+        "item" : "34390"
+      }, {
+        "count" : 8,
+        "item" : "605235"
+      }, {
+        "count" : 7,
+        "item" : "105862"
+      }, {
+        "count" : 6,
+        "item" : "202838"
+      }, {
+        "count" : 5,
+        "item" : "171323"
+      }, {
+        "count" : 4,
+        "item" : "109731"
+      }, {
+        "count" : 3,
+        "item" : "15481"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248011,
+    "name" : "1950 - Boro share of NYC total",
+    "dataTypeName" : "percent",
+    "fieldName" : "_boro_share_of_nyc_total_1",
+    "position" : 5,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1625291,
+    "width" : 460,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "2.4272179892",
+      "sum" : "343.7259294148",
+      "null" : 0,
+      "average" : "19.09588496748889",
+      "largest" : "100",
+      "top" : [ {
+        "count" : 20,
+        "item" : "100"
+      }, {
+        "count" : 19,
+        "item" : "18.3893171238"
+      }, {
+        "count" : 18,
+        "item" : "34.6957668421"
+      }, {
+        "count" : 17,
+        "item" : "24.8366913302"
+      }, {
+        "count" : 16,
+        "item" : "19.6510067148"
+      }, {
+        "count" : 15,
+        "item" : "2.4272179892"
+      }, {
+        "count" : 14,
+        "item" : "15.9513920312"
+      }, {
+        "count" : 13,
+        "item" : "17.3095969963"
+      }, {
+        "count" : 12,
+        "item" : "17.2187387585"
+      }, {
+        "count" : 11,
+        "item" : "12.6279411112"
+      }, {
+        "count" : 10,
+        "item" : "16.3959740761"
+      }, {
+        "count" : 9,
+        "item" : "17.9532771267"
+      }, {
+        "count" : 8,
+        "item" : "7.6690103608"
+      }, {
+        "count" : 7,
+        "item" : "7.2944034805"
+      }, {
+        "count" : 6,
+        "item" : "7.4077807299"
+      }, {
+        "count" : 5,
+        "item" : "8.7405189835"
+      }, {
+        "count" : 4,
+        "item" : "7.0755437828"
+      }, {
+        "count" : 3,
+        "item" : "8.0817519772"
+      } ]
+    },
+    "format" : {
+      "precision" : "1",
+      "noCommas" : "false",
+      "align" : "right",
+      "view" : "percent_bar_and_text"
+    }
+  }, {
+    "id" : 3248012,
+    "name" : "1960",
+    "dataTypeName" : "number",
+    "fieldName" : "_2",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625292,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "20534",
+      "sum" : "20118179",
+      "null" : 0,
+      "average" : "1117676.611111111",
+      "largest" : "7781984",
+      "top" : [ {
+        "count" : 20,
+        "item" : "7781984"
+      }, {
+        "count" : 19,
+        "item" : "1424815"
+      }, {
+        "count" : 18,
+        "item" : "2627319"
+      }, {
+        "count" : 17,
+        "item" : "1698281"
+      }, {
+        "count" : 16,
+        "item" : "1809578"
+      }, {
+        "count" : 15,
+        "item" : "221991"
+      }, {
+        "count" : 14,
+        "item" : "1463279"
+      }, {
+        "count" : 13,
+        "item" : "275325"
+      }, {
+        "count" : 12,
+        "item" : "527360"
+      }, {
+        "count" : 11,
+        "item" : "258476"
+      }, {
+        "count" : 10,
+        "item" : "348996"
+      }, {
+        "count" : 9,
+        "item" : "53121"
+      }, {
+        "count" : 8,
+        "item" : "813827"
+      }, {
+        "count" : 7,
+        "item" : "152403"
+      }, {
+        "count" : 6,
+        "item" : "259158"
+      }, {
+        "count" : 5,
+        "item" : "207700"
+      }, {
+        "count" : 4,
+        "item" : "174032"
+      }, {
+        "count" : 3,
+        "item" : "20534"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248013,
+    "name" : "1960 - Boro share of NYC total",
+    "dataTypeName" : "percent",
+    "fieldName" : "_boro_share_of_nyc_total_2",
+    "position" : 7,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1625293,
+    "width" : 460,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "0.104578344",
+      "sum" : "331.6551569639",
+      "null" : 0,
+      "average" : "18.42528649799444",
+      "largest" : "100",
+      "top" : [ {
+        "count" : 20,
+        "item" : "100"
+      }, {
+        "count" : 19,
+        "item" : "0.1830914841"
+      }, {
+        "count" : 18,
+        "item" : "33.761557464"
+      }, {
+        "count" : 17,
+        "item" : "21.8232394207"
+      }, {
+        "count" : 16,
+        "item" : "23.2534274036"
+      }, {
+        "count" : 15,
+        "item" : "2.8526272992"
+      }, {
+        "count" : 14,
+        "item" : "0.1880341311"
+      }, {
+        "count" : 13,
+        "item" : "19.3235332306"
+      }, {
+        "count" : 12,
+        "item" : "20.0721876559"
+      }, {
+        "count" : 11,
+        "item" : "15.2198605531"
+      }, {
+        "count" : 10,
+        "item" : "19.286065591"
+      }, {
+        "count" : 9,
+        "item" : "23.9294385808"
+      }, {
+        "count" : 8,
+        "item" : "0.104578344"
+      }, {
+        "count" : 7,
+        "item" : "10.6963360156"
+      }, {
+        "count" : 6,
+        "item" : "9.8639715999"
+      }, {
+        "count" : 5,
+        "item" : "12.230013761"
+      }, {
+        "count" : 4,
+        "item" : "9.6172698828"
+      }, {
+        "count" : 3,
+        "item" : "9.2499245465"
+      } ]
+    },
+    "format" : {
+      "precision" : "1",
+      "noCommas" : "false",
+      "align" : "right",
+      "view" : "percent_bar_and_text"
+    }
+  }, {
+    "id" : 3248014,
+    "name" : "1970",
+    "dataTypeName" : "number",
+    "fieldName" : "_3",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625294,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "25622",
+      "sum" : "20920100",
+      "null" : 0,
+      "average" : "1162227.777777778",
+      "largest" : "7894862",
+      "top" : [ {
+        "count" : 20,
+        "item" : "7894862"
+      }, {
+        "count" : 19,
+        "item" : "1471701"
+      }, {
+        "count" : 18,
+        "item" : "2602012"
+      }, {
+        "count" : 17,
+        "item" : "1539233"
+      }, {
+        "count" : 16,
+        "item" : "1986473"
+      }, {
+        "count" : 15,
+        "item" : "295443"
+      }, {
+        "count" : 14,
+        "item" : "1617310"
+      }, {
+        "count" : 13,
+        "item" : "331588"
+      }, {
+        "count" : 12,
+        "item" : "588273"
+      }, {
+        "count" : 11,
+        "item" : "243423"
+      }, {
+        "count" : 10,
+        "item" : "379369"
+      }, {
+        "count" : 9,
+        "item" : "74657"
+      }, {
+        "count" : 8,
+        "item" : "947878"
+      }, {
+        "count" : 7,
+        "item" : "170920"
+      }, {
+        "count" : 6,
+        "item" : "289077"
+      }, {
+        "count" : 5,
+        "item" : "214973"
+      }, {
+        "count" : 4,
+        "item" : "247286"
+      }, {
+        "count" : 3,
+        "item" : "25622"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248015,
+    "name" : "1970 - Boro share of NYC total",
+    "dataTypeName" : "percent",
+    "fieldName" : "_boro_share_of_nyc_total_3",
+    "position" : 9,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1625295,
+    "width" : 460,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "3.7422186734",
+      "sum" : "395.6234974013",
+      "null" : 0,
+      "average" : "21.97908318896111",
+      "largest" : "100",
+      "top" : [ {
+        "count" : 20,
+        "item" : "100"
+      }, {
+        "count" : 19,
+        "item" : "18.641250474"
+      }, {
+        "count" : 18,
+        "item" : "32.9582961678"
+      }, {
+        "count" : 17,
+        "item" : "19.4966422466"
+      }, {
+        "count" : 16,
+        "item" : "25.1615924382"
+      }, {
+        "count" : 15,
+        "item" : "3.7422186734"
+      }, {
+        "count" : 14,
+        "item" : "20.4856044349"
+      }, {
+        "count" : 13,
+        "item" : "22.5309624713"
+      }, {
+        "count" : 12,
+        "item" : "22.6083892004"
+      }, {
+        "count" : 11,
+        "item" : "15.8145387995"
+      }, {
+        "count" : 10,
+        "item" : "19.0976368669"
+      }, {
+        "count" : 9,
+        "item" : "25.2694428367"
+      }, {
+        "count" : 8,
+        "item" : "12.0062643274"
+      }, {
+        "count" : 7,
+        "item" : "11.6137720909"
+      }, {
+        "count" : 6,
+        "item" : "11.1097489174"
+      }, {
+        "count" : 5,
+        "item" : "13.9662416281"
+      }, {
+        "count" : 4,
+        "item" : "12.4484953986"
+      }, {
+        "count" : 3,
+        "item" : "8.6724004292"
+      } ]
+    },
+    "format" : {
+      "precision" : "1",
+      "noCommas" : "false",
+      "align" : "right",
+      "view" : "percent_bar_and_text"
+    }
+  }, {
+    "id" : 3248016,
+    "name" : "1980",
+    "dataTypeName" : "number",
+    "fieldName" : "_4",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625296,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "35125",
+      "sum" : "18629992",
+      "null" : 0,
+      "average" : "1034999.555555556",
+      "largest" : "7071559",
+      "top" : [ {
+        "count" : 20,
+        "item" : "7071559"
+      }, {
+        "count" : 19,
+        "item" : "1168972"
+      }, {
+        "count" : 18,
+        "item" : "2230936"
+      }, {
+        "count" : 17,
+        "item" : "1428285"
+      }, {
+        "count" : 16,
+        "item" : "1891325"
+      }, {
+        "count" : 15,
+        "item" : "352041"
+      }, {
+        "count" : 14,
+        "item" : "1291705"
+      }, {
+        "count" : 13,
+        "item" : "251366"
+      }, {
+        "count" : 12,
+        "item" : "453116"
+      }, {
+        "count" : 11,
+        "item" : "186389"
+      }, {
+        "count" : 10,
+        "item" : "323532"
+      }, {
+        "count" : 9,
+        "item" : "77302"
+      }, {
+        "count" : 8,
+        "item" : "951732"
+      }, {
+        "count" : 7,
+        "item" : "151298"
+      }, {
+        "count" : 6,
+        "item" : "279544"
+      }, {
+        "count" : 5,
+        "item" : "204437"
+      }, {
+        "count" : 4,
+        "item" : "281328"
+      }, {
+        "count" : 3,
+        "item" : "35125"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248017,
+    "name" : "1980 - Boro share of NYC total",
+    "dataTypeName" : "percent",
+    "fieldName" : "_boro_share_of_nyc_total_4",
+    "position" : 11,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1625297,
+    "width" : 460,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "4.9782657544",
+      "sum" : "390.2915357854",
+      "null" : 0,
+      "average" : "21.68286309918889",
+      "largest" : "100",
+      "top" : [ {
+        "count" : 20,
+        "item" : "100"
+      }, {
+        "count" : 19,
+        "item" : "16.5306122738"
+      }, {
+        "count" : 18,
+        "item" : "31.5480080135"
+      }, {
+        "count" : 17,
+        "item" : "20.1975971635"
+      }, {
+        "count" : 16,
+        "item" : "26.7455167948"
+      }, {
+        "count" : 15,
+        "item" : "4.9782657544"
+      }, {
+        "count" : 14,
+        "item" : "18.2662012719"
+      }, {
+        "count" : 13,
+        "item" : "21.503132667"
+      }, {
+        "count" : 12,
+        "item" : "20.3105781609"
+      }, {
+        "count" : 11,
+        "item" : "13.049860497"
+      }, {
+        "count" : 10,
+        "item" : "17.1061240136"
+      }, {
+        "count" : 9,
+        "item" : "21.9582378189"
+      }, {
+        "count" : 8,
+        "item" : "13.4585881275"
+      }, {
+        "count" : 7,
+        "item" : "12.9428249778"
+      }, {
+        "count" : 6,
+        "item" : "12.5303460072"
+      }, {
+        "count" : 5,
+        "item" : "14.3134598487"
+      }, {
+        "count" : 4,
+        "item" : "14.8746513687"
+      }, {
+        "count" : 3,
+        "item" : "9.9775310262"
+      } ]
+    },
+    "format" : {
+      "precision" : "1",
+      "noCommas" : "false",
+      "align" : "right",
+      "view" : "percent_bar_and_text"
+    }
+  }, {
+    "id" : 3248018,
+    "name" : "1990",
+    "dataTypeName" : "number",
+    "fieldName" : "_5",
+    "position" : 12,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625298,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "42313",
+      "sum" : "18931803",
+      "null" : 0,
+      "average" : "1051766.833333333",
+      "largest" : "7322564",
+      "top" : [ {
+        "count" : 20,
+        "item" : "7322564"
+      }, {
+        "count" : 19,
+        "item" : "1203789"
+      }, {
+        "count" : 18,
+        "item" : "2300664"
+      }, {
+        "count" : 17,
+        "item" : "1487536"
+      }, {
+        "count" : 16,
+        "item" : "1951598"
+      }, {
+        "count" : 15,
+        "item" : "378977"
+      }, {
+        "count" : 14,
+        "item" : "1190021"
+      }, {
+        "count" : 13,
+        "item" : "231489"
+      }, {
+        "count" : 12,
+        "item" : "429418"
+      }, {
+        "count" : 11,
+        "item" : "173437"
+      }, {
+        "count" : 10,
+        "item" : "289639"
+      }, {
+        "count" : 9,
+        "item" : "66037"
+      }, {
+        "count" : 8,
+        "item" : "953317"
+      }, {
+        "count" : 7,
+        "item" : "140220"
+      }, {
+        "count" : 6,
+        "item" : "285057"
+      }, {
+        "count" : 5,
+        "item" : "197384"
+      }, {
+        "count" : 4,
+        "item" : "288343"
+      }, {
+        "count" : 3,
+        "item" : "42313"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248019,
+    "name" : "1990 - Boro share of NYC total",
+    "dataTypeName" : "percent",
+    "fieldName" : "_boro_share_of_nyc_total_5",
+    "position" : 13,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1625299,
+    "width" : 460,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "5.1754685927",
+      "sum" : "374.3383542006",
+      "null" : 0,
+      "average" : "20.79657523336667",
+      "largest" : "100",
+      "top" : [ {
+        "count" : 20,
+        "item" : "100"
+      }, {
+        "count" : 19,
+        "item" : "16.4394466201"
+      }, {
+        "count" : 18,
+        "item" : "31.4188308904"
+      }, {
+        "count" : 17,
+        "item" : "20.3144144592"
+      }, {
+        "count" : 16,
+        "item" : "26.6518394377"
+      }, {
+        "count" : 15,
+        "item" : "5.1754685927"
+      }, {
+        "count" : 14,
+        "item" : "16.2514195847"
+      }, {
+        "count" : 13,
+        "item" : "19.2300477908"
+      }, {
+        "count" : 12,
+        "item" : "18.6649680266"
+      }, {
+        "count" : 11,
+        "item" : "11.6593615213"
+      }, {
+        "count" : 10,
+        "item" : "14.8410994477"
+      }, {
+        "count" : 9,
+        "item" : "17.4251735593"
+      }, {
+        "count" : 8,
+        "item" : "13.0188961134"
+      }, {
+        "count" : 7,
+        "item" : "11.648220743"
+      }, {
+        "count" : 6,
+        "item" : "12.3902056102"
+      }, {
+        "count" : 5,
+        "item" : "13.2691914683"
+      }, {
+        "count" : 4,
+        "item" : "14.7747128251"
+      }, {
+        "count" : 3,
+        "item" : "11.1650575101"
+      } ]
+    },
+    "format" : {
+      "precision" : "1",
+      "noCommas" : "false",
+      "align" : "right",
+      "view" : "percent_bar_and_text"
+    }
+  }, {
+    "id" : 3248020,
+    "name" : "2000",
+    "dataTypeName" : "number",
+    "fieldName" : "_6",
+    "position" : 14,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625300,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "51433",
+      "sum" : "20700902",
+      "null" : 0,
+      "average" : "1150050.111111111",
+      "largest" : "8008278",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8008278"
+      }, {
+        "count" : 19,
+        "item" : "1332650"
+      }, {
+        "count" : 18,
+        "item" : "2465326"
+      }, {
+        "count" : 17,
+        "item" : "1537195"
+      }, {
+        "count" : 16,
+        "item" : "2229379"
+      }, {
+        "count" : 15,
+        "item" : "443728"
+      }, {
+        "count" : 14,
+        "item" : "1404316"
+      }, {
+        "count" : 13,
+        "item" : "288308"
+      }, {
+        "count" : 12,
+        "item" : "478912"
+      }, {
+        "count" : 11,
+        "item" : "187758"
+      }, {
+        "count" : 10,
+        "item" : "366604"
+      }, {
+        "count" : 9,
+        "item" : "82734"
+      }, {
+        "count" : 8,
+        "item" : "937857"
+      }, {
+        "count" : 7,
+        "item" : "133948"
+      }, {
+        "count" : 6,
+        "item" : "282658"
+      }, {
+        "count" : 5,
+        "item" : "186776"
+      }, {
+        "count" : 4,
+        "item" : "283042"
+      }, {
+        "count" : 3,
+        "item" : "51433"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248021,
+    "name" : "2000 - Boro share of NYC total",
+    "dataTypeName" : "percent",
+    "fieldName" : "_boro_share_of_nyc_total_6",
+    "position" : 15,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1625301,
+    "width" : 460,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "5.5408665883",
+      "sum" : "375.5649308901",
+      "null" : 0,
+      "average" : "20.86471838278333",
+      "largest" : "100",
+      "top" : [ {
+        "count" : 20,
+        "item" : "100"
+      }, {
+        "count" : 19,
+        "item" : "16.6409058227"
+      }, {
+        "count" : 18,
+        "item" : "30.7847205105"
+      }, {
+        "count" : 17,
+        "item" : "19.1950753957"
+      }, {
+        "count" : 16,
+        "item" : "27.8384316828"
+      }, {
+        "count" : 15,
+        "item" : "5.5408665883"
+      }, {
+        "count" : 14,
+        "item" : "17.5357998311"
+      }, {
+        "count" : 13,
+        "item" : "21.6341725134"
+      }, {
+        "count" : 12,
+        "item" : "19.4258933707"
+      }, {
+        "count" : 11,
+        "item" : "12.214299422"
+      }, {
+        "count" : 10,
+        "item" : "16.4442295366"
+      }, {
+        "count" : 9,
+        "item" : "18.6452962175"
+      }, {
+        "count" : 8,
+        "item" : "11.711094445"
+      }, {
+        "count" : 7,
+        "item" : "10.0512512663"
+      }, {
+        "count" : 6,
+        "item" : "11.4653396752"
+      }, {
+        "count" : 5,
+        "item" : "12.1504428521"
+      }, {
+        "count" : 4,
+        "item" : "12.6960018911"
+      }, {
+        "count" : 3,
+        "item" : "11.5911098691"
+      } ]
+    },
+    "format" : {
+      "precision" : "1",
+      "noCommas" : "false",
+      "align" : "right",
+      "view" : "percent_bar_and_text"
+    }
+  }, {
+    "id" : 3248022,
+    "name" : "2010",
+    "dataTypeName" : "number",
+    "fieldName" : "_7",
+    "position" : 16,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625302,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "60794",
+      "sum" : "21480060",
+      "null" : 0,
+      "average" : "1193336.666666667",
+      "largest" : "8402213",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8402213"
+      }, {
+        "count" : 19,
+        "item" : "1401194"
+      }, {
+        "count" : 18,
+        "item" : "2566836"
+      }, {
+        "count" : 17,
+        "item" : "1662701"
+      }, {
+        "count" : 16,
+        "item" : "2279674"
+      }, {
+        "count" : 15,
+        "item" : "491808"
+      }, {
+        "count" : 14,
+        "item" : "1406167"
+      }, {
+        "count" : 13,
+        "item" : "289564"
+      }, {
+        "count" : 12,
+        "item" : "465729"
+      }, {
+        "count" : 11,
+        "item" : "196127"
+      }, {
+        "count" : 10,
+        "item" : "368789"
+      }, {
+        "count" : 9,
+        "item" : "85958"
+      }, {
+        "count" : 8,
+        "item" : "931650"
+      }, {
+        "count" : 7,
+        "item" : "132716"
+      }, {
+        "count" : 6,
+        "item" : "281517"
+      }, {
+        "count" : 5,
+        "item" : "203101"
+      }, {
+        "count" : 4,
+        "item" : "253522"
+      }, {
+        "count" : 3,
+        "item" : "60794"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248023,
+    "name" : "2010 - Boro share of NYC total",
+    "dataTypeName" : "percent",
+    "fieldName" : "_boro_share_of_nyc_total_7",
+    "position" : 17,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1625303,
+    "width" : 460,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "5.8533150731",
+      "sum" : "368.2209314485",
+      "null" : 0,
+      "average" : "20.45671841380556",
+      "largest" : "100",
+      "top" : [ {
+        "count" : 20,
+        "item" : "100"
+      }, {
+        "count" : 19,
+        "item" : "16.676487492"
+      }, {
+        "count" : 18,
+        "item" : "30.549523084"
+      }, {
+        "count" : 17,
+        "item" : "19.7888461052"
+      }, {
+        "count" : 16,
+        "item" : "27.1318282457"
+      }, {
+        "count" : 15,
+        "item" : "5.8533150731"
+      }, {
+        "count" : 14,
+        "item" : "16.7356718998"
+      }, {
+        "count" : 13,
+        "item" : "20.6655038489"
+      }, {
+        "count" : 12,
+        "item" : "18.1440730923"
+      }, {
+        "count" : 11,
+        "item" : "11.7956866568"
+      }, {
+        "count" : 10,
+        "item" : "16.177269206"
+      }, {
+        "count" : 9,
+        "item" : "17.4780402108"
+      }, {
+        "count" : 8,
+        "item" : "11.088150229"
+      }, {
+        "count" : 7,
+        "item" : "9.471636333"
+      }, {
+        "count" : 6,
+        "item" : "10.967471237"
+      }, {
+        "count" : 5,
+        "item" : "12.2151246676"
+      }, {
+        "count" : 4,
+        "item" : "11.1209760694"
+      }, {
+        "count" : 3,
+        "item" : "12.3613279979"
+      } ]
+    },
+    "format" : {
+      "precision" : "1",
+      "noCommas" : "false",
+      "align" : "right",
+      "view" : "percent_bar_and_text"
+    }
+  }, {
+    "id" : 3248024,
+    "name" : "2020",
+    "dataTypeName" : "number",
+    "fieldName" : "_8",
+    "position" : 18,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625304,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "77155",
+      "sum" : "22210995",
+      "null" : 0,
+      "average" : "1233944.166666667",
+      "largest" : "8692564",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8692564"
+      }, {
+        "count" : 19,
+        "item" : "1420277"
+      }, {
+        "count" : 18,
+        "item" : "2628211"
+      }, {
+        "count" : 17,
+        "item" : "1729530"
+      }, {
+        "count" : 16,
+        "item" : "2396949"
+      }, {
+        "count" : 15,
+        "item" : "517597"
+      }, {
+        "count" : 14,
+        "item" : "1356983"
+      }, {
+        "count" : 13,
+        "item" : "274658"
+      }, {
+        "count" : 12,
+        "item" : "444430"
+      }, {
+        "count" : 11,
+        "item" : "194940"
+      }, {
+        "count" : 10,
+        "item" : "360202"
+      }, {
+        "count" : 9,
+        "item" : "82754"
+      }, {
+        "count" : 8,
+        "item" : "1055950"
+      }, {
+        "count" : 7,
+        "item" : "139589"
+      }, {
+        "count" : 6,
+        "item" : "323192"
+      }, {
+        "count" : 5,
+        "item" : "234478"
+      }, {
+        "count" : 4,
+        "item" : "281536"
+      }, {
+        "count" : 3,
+        "item" : "77155"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248025,
+    "name" : "2020 - Boro share of NYC total",
+    "dataTypeName" : "percent",
+    "fieldName" : "_boro_share_of_nyc_total_8",
+    "position" : 19,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1625305,
+    "width" : 460,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "5.9544801741",
+      "sum" : "368.6283948368",
+      "null" : 0,
+      "average" : "20.47935526871111",
+      "largest" : "100",
+      "top" : [ {
+        "count" : 20,
+        "item" : "100"
+      }, {
+        "count" : 19,
+        "item" : "16.3389881282"
+      }, {
+        "count" : 18,
+        "item" : "30.2351642162"
+      }, {
+        "count" : 17,
+        "item" : "19.8966611002"
+      }, {
+        "count" : 16,
+        "item" : "27.5747063812"
+      }, {
+        "count" : 15,
+        "item" : "5.9544801741"
+      }, {
+        "count" : 14,
+        "item" : "15.6108485367"
+      }, {
+        "count" : 13,
+        "item" : "19.3383121743"
+      }, {
+        "count" : 12,
+        "item" : "16.9099741231"
+      }, {
+        "count" : 11,
+        "item" : "11.2712586656"
+      }, {
+        "count" : 10,
+        "item" : "15.027512058"
+      }, {
+        "count" : 9,
+        "item" : "15.9881143051"
+      }, {
+        "count" : 8,
+        "item" : "12.1477391481"
+      }, {
+        "count" : 7,
+        "item" : "9.8282940581"
+      }, {
+        "count" : 6,
+        "item" : "12.29703399"
+      }, {
+        "count" : 5,
+        "item" : "13.5573248224"
+      }, {
+        "count" : 4,
+        "item" : "11.7455982585"
+      }, {
+        "count" : 3,
+        "item" : "14.906384697"
+      } ]
+    },
+    "format" : {
+      "precision" : "1",
+      "noCommas" : "false",
+      "align" : "right",
+      "view" : "percent_bar_and_text"
+    }
+  }, {
+    "id" : 3248026,
+    "name" : "2030",
+    "dataTypeName" : "number",
+    "fieldName" : "_9",
+    "position" : 20,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625306,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "88874",
+      "sum" : "23747778",
+      "null" : 0,
+      "average" : "1319321",
+      "largest" : "9119811",
+      "top" : [ {
+        "count" : 20,
+        "item" : "9119811"
+      }, {
+        "count" : 19,
+        "item" : "1457039"
+      }, {
+        "count" : 18,
+        "item" : "2718967"
+      }, {
+        "count" : 17,
+        "item" : "1826547"
+      }, {
+        "count" : 16,
+        "item" : "2565352"
+      }, {
+        "count" : 15,
+        "item" : "551906"
+      }, {
+        "count" : 14,
+        "item" : "1401703"
+      }, {
+        "count" : 13,
+        "item" : "286019"
+      }, {
+        "count" : 12,
+        "item" : "451286"
+      }, {
+        "count" : 11,
+        "item" : "196068"
+      }, {
+        "count" : 10,
+        "item" : "379456"
+      }, {
+        "count" : 9,
+        "item" : "88874"
+      }, {
+        "count" : 8,
+        "item" : "1352375"
+      }, {
+        "count" : 7,
+        "item" : "172653"
+      }, {
+        "count" : 6,
+        "item" : "409769"
+      }, {
+        "count" : 5,
+        "item" : "294919"
+      }, {
+        "count" : 4,
+        "item" : "372068"
+      }, {
+        "count" : 3,
+        "item" : "102966"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3248027,
+    "name" : "2030 - Boro share of NYC total",
+    "dataTypeName" : "percent",
+    "fieldName" : "_boro_share_of_nyc_total_9",
+    "position" : 21,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1625307,
+    "width" : 460,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "6.0517262913",
+      "sum" : "384.2823855923",
+      "null" : 0,
+      "average" : "21.34902142179444",
+      "largest" : "100",
+      "top" : [ {
+        "count" : 20,
+        "item" : "100"
+      }, {
+        "count" : 19,
+        "item" : "15.9766359193"
+      }, {
+        "count" : 18,
+        "item" : "29.813852502"
+      }, {
+        "count" : 17,
+        "item" : "20.0283426926"
+      }, {
+        "count" : 16,
+        "item" : "28.1294425948"
+      }, {
+        "count" : 15,
+        "item" : "6.0517262913"
+      }, {
+        "count" : 14,
+        "item" : "15.3698689589"
+      }, {
+        "count" : 13,
+        "item" : "19.6301403051"
+      }, {
+        "count" : 12,
+        "item" : "16.5976858123"
+      }, {
+        "count" : 11,
+        "item" : "10.7343638023"
+      }, {
+        "count" : 10,
+        "item" : "14.7915841569"
+      }, {
+        "count" : 9,
+        "item" : "16.1031407522"
+      }, {
+        "count" : 8,
+        "item" : "14.8289805567"
+      }, {
+        "count" : 7,
+        "item" : "11.8495798671"
+      }, {
+        "count" : 6,
+        "item" : "15.0707603292"
+      }, {
+        "count" : 5,
+        "item" : "16.1462584866"
+      }, {
+        "count" : 4,
+        "item" : "14.5035846933"
+      }, {
+        "count" : 3,
+        "item" : "18.6564378717"
+      } ]
+    },
+    "format" : {
+      "precision" : "1",
+      "noCommas" : "false",
+      "align" : "right",
+      "view" : "percent_bar_and_text"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Historical Data"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "rnig-m3uj",
+    "displayName" : "Jorge J.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/5083/4460/large-profile_large.png",
+    "profileImageUrlMedium" : "/images/profile/5083/4460/large-profile_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/5083/4460/large-profile_tiny.png",
+    "profileLastModified" : 1322859437,
+    "screenName" : "Jorge J."
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rnig-m3uj",
+    "displayName" : "Jorge J.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/5083/4460/large-profile_large.png",
+    "profileImageUrlMedium" : "/images/profile/5083/4460/large-profile_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/5083/4460/large-profile_tiny.png",
+    "profileLastModified" : 1322859437,
+    "screenName" : "Jorge J."
+  },
+  "tags" : [ "projected population 1950-2030 - school- age-- elderly-- total by borough", "dcp", "2000", "2030" ],
+  "flags" : [ "default" ]
+}

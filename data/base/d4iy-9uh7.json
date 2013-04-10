@@ -1,0 +1,831 @@
+{
+  "id" : "d4iy-9uh7",
+  "name" : "Directory of All NYCHA Facilities",
+  "attribution" : "New York City Housing Authority (NYCHA)",
+  "attributionLink" : "http://www.nyc.gov/html/nycha/html/resources/propertyguide.shtml",
+  "averageRating" : 0,
+  "category" : "Facilities and Structures",
+  "createdAt" : 1363791048,
+  "description" : "Contains all occupied and vacant facilities portfolio from Facility Planning (commercial spaces) and Community Operations (community centers, senior centers, day care centers, health centers, etc) It includes the 5 Community Operations borough offices.  The source data is our latest Property Directory as December 2012.  The field “Comments” contains summary codes to distinguish the type of facility (BO – NYCHA Community Operations Borough Offices, CO – Community Operations, FP – Facility Planning).  Please note that there are two commercial spaces (not coded under field “comments”)recorded in our property directory which are not part of the portfolio for Facility Planning.",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2892127,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363792393,
+  "publicationGroup" : 745169,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1363791053,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 745169,
+  "totalTimesRated" : 0,
+  "viewCount" : 20,
+  "viewLastModified" : 1363792422,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 51883924,
+    "name" : "DEVELOPMENT NAME",
+    "dataTypeName" : "text",
+    "description" : "Name of development",
+    "fieldName" : "development",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8782697,
+    "width" : 194,
+    "cachedContents" : {
+      "non_null" : 642,
+      "smallest" : "1010 EAST 178TH STREET",
+      "null" : 0,
+      "largest" : "WYCKOFF GARDENS",
+      "top" : [ {
+        "count" : 20,
+        "item" : "DREW-HAMILTON"
+      }, {
+        "count" : 19,
+        "item" : "HARLEM RIVER"
+      }, {
+        "count" : 18,
+        "item" : "PELHAM PARKWAY"
+      }, {
+        "count" : 17,
+        "item" : "QUEENSBRIDGE NORTH"
+      }, {
+        "count" : 16,
+        "item" : "QUEENSBRIDGE SOUTH"
+      }, {
+        "count" : 15,
+        "item" : "RANGEL"
+      }, {
+        "count" : 14,
+        "item" : "RAVENSWOOD"
+      }, {
+        "count" : 13,
+        "item" : "RED HOOK EAST"
+      }, {
+        "count" : 12,
+        "item" : "REHAB PROGRAM (TAFT REHABS)"
+      }, {
+        "count" : 11,
+        "item" : "SAINT NICHOLAS"
+      }, {
+        "count" : 10,
+        "item" : "SAMUEL (CITY)"
+      }, {
+        "count" : 9,
+        "item" : "SHEEPSHEAD BAY"
+      }, {
+        "count" : 8,
+        "item" : "SMITH"
+      }, {
+        "count" : 7,
+        "item" : "SOUNDVIEW"
+      }, {
+        "count" : 6,
+        "item" : "STAPLETON"
+      }, {
+        "count" : 5,
+        "item" : "SUMNER"
+      }, {
+        "count" : 4,
+        "item" : "TAFT"
+      }, {
+        "count" : 3,
+        "item" : "UNIVERSITY AVENUE REHAB"
+      }, {
+        "count" : 2,
+        "item" : "VAN DYKE I"
+      }, {
+        "count" : 1,
+        "item" : "VLADECK"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 51883925,
+    "name" : "BUILDING NUMBER",
+    "dataTypeName" : "number",
+    "description" : "Building number location of facility",
+    "fieldName" : "bldg",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8782698,
+    "width" : 116,
+    "cachedContents" : {
+      "non_null" : 637,
+      "smallest" : "1",
+      "sum" : "5466",
+      "null" : 5,
+      "average" : "8.580847723704867",
+      "largest" : "51",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "6"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "10"
+      }, {
+        "count" : 14,
+        "item" : "11"
+      }, {
+        "count" : 13,
+        "item" : "12"
+      }, {
+        "count" : 12,
+        "item" : "18"
+      }, {
+        "count" : 11,
+        "item" : "4"
+      }, {
+        "count" : 10,
+        "item" : "9"
+      }, {
+        "count" : 9,
+        "item" : "13"
+      }, {
+        "count" : 8,
+        "item" : "14"
+      }, {
+        "count" : 7,
+        "item" : "22"
+      }, {
+        "count" : 6,
+        "item" : "8"
+      }, {
+        "count" : 5,
+        "item" : "7"
+      }, {
+        "count" : 4,
+        "item" : "16"
+      }, {
+        "count" : 3,
+        "item" : "31"
+      }, {
+        "count" : 2,
+        "item" : "20"
+      }, {
+        "count" : 1,
+        "item" : "15"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 51883926,
+    "name" : "STAIR HALL NUMBER",
+    "dataTypeName" : "number",
+    "description" : "Stair hall number location of facility",
+    "fieldName" : "sh",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8782699,
+    "width" : 141,
+    "cachedContents" : {
+      "non_null" : 636,
+      "smallest" : "1",
+      "sum" : "14201",
+      "null" : 6,
+      "average" : "22.32861635220126",
+      "largest" : "137",
+      "top" : [ {
+        "count" : 20,
+        "item" : "13"
+      }, {
+        "count" : 19,
+        "item" : "3"
+      }, {
+        "count" : 18,
+        "item" : "10"
+      }, {
+        "count" : 17,
+        "item" : "25"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "1"
+      }, {
+        "count" : 14,
+        "item" : "2"
+      }, {
+        "count" : 13,
+        "item" : "6"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "18"
+      }, {
+        "count" : 10,
+        "item" : "4"
+      }, {
+        "count" : 9,
+        "item" : "11"
+      }, {
+        "count" : 8,
+        "item" : "26"
+      }, {
+        "count" : 7,
+        "item" : "12"
+      }, {
+        "count" : 6,
+        "item" : "7"
+      }, {
+        "count" : 5,
+        "item" : "8"
+      }, {
+        "count" : 4,
+        "item" : "16"
+      }, {
+        "count" : 3,
+        "item" : "15"
+      }, {
+        "count" : 2,
+        "item" : "33"
+      }, {
+        "count" : 1,
+        "item" : "19"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 51883927,
+    "name" : "ADDRESS",
+    "dataTypeName" : "text",
+    "description" : "Address of facility",
+    "fieldName" : "address",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8782700,
+    "width" : 197,
+    "cachedContents" : {
+      "non_null" : 642,
+      "smallest" : "1000 ROSEDALE AVENUE",
+      "null" : 0,
+      "largest" : "NORTH BED OF MONROE STREET",
+      "top" : [ {
+        "count" : 20,
+        "item" : "208 GRAHAM AVENUE"
+      }, {
+        "count" : 19,
+        "item" : "204 GRAHAM AVENUE"
+      }, {
+        "count" : 18,
+        "item" : "136 BUSHWICK AVENUE"
+      }, {
+        "count" : 17,
+        "item" : "138 BUSHWICK AVENUE"
+      }, {
+        "count" : 16,
+        "item" : "128 BUSHWICK AVENUE"
+      }, {
+        "count" : 15,
+        "item" : "130 BUSHWICK AVENUE"
+      }, {
+        "count" : 14,
+        "item" : "132 BUSHWICK AVENUE"
+      }, {
+        "count" : 13,
+        "item" : "134 BUSHWICK AVENUE"
+      }, {
+        "count" : 12,
+        "item" : "122 BUSHWICK AVENUE"
+      }, {
+        "count" : 11,
+        "item" : "124 BUSHWICK AVENUE"
+      }, {
+        "count" : 10,
+        "item" : "178 BUSHWICK AVENUE"
+      }, {
+        "count" : 9,
+        "item" : "172 BUSHWICK AVENUE"
+      }, {
+        "count" : 8,
+        "item" : "176 BUSHWICK AVENUE"
+      }, {
+        "count" : 7,
+        "item" : "195 GRAHAM AVENUE"
+      }, {
+        "count" : 6,
+        "item" : "405 EAST 105TH STREET"
+      }, {
+        "count" : 5,
+        "item" : "114 WEST 91ST STREET"
+      }, {
+        "count" : 4,
+        "item" : "136 WEST 91ST STREET"
+      }, {
+        "count" : 3,
+        "item" : "50-19 BROADWAY"
+      }, {
+        "count" : 2,
+        "item" : "50-37 BROADWAY"
+      }, {
+        "count" : 1,
+        "item" : "50-37 NEWTOWN ROAD"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 51883928,
+    "name" : "BOROUGH_CODE",
+    "dataTypeName" : "number",
+    "description" : "Borough of facility",
+    "fieldName" : "borough_code",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8782701,
+    "width" : 108,
+    "cachedContents" : {
+      "non_null" : 642,
+      "smallest" : "1",
+      "sum" : "1455",
+      "null" : 0,
+      "average" : "2.266355140186916",
+      "largest" : "5",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 51883929,
+    "name" : "CITY",
+    "dataTypeName" : "text",
+    "description" : "City",
+    "fieldName" : "city",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8782702,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 642,
+      "smallest" : "ARVERNE",
+      "null" : 0,
+      "largest" : "WOODSIDE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BRONX"
+      }, {
+        "count" : 19,
+        "item" : "NEW YORK"
+      }, {
+        "count" : 18,
+        "item" : "BROOKLYN"
+      }, {
+        "count" : 17,
+        "item" : "ASTORIA"
+      }, {
+        "count" : 16,
+        "item" : "JAMAICA"
+      }, {
+        "count" : 15,
+        "item" : "FAR ROCKAWAY"
+      }, {
+        "count" : 14,
+        "item" : "STATEN ISLAND"
+      }, {
+        "count" : 13,
+        "item" : "FLUSHING"
+      }, {
+        "count" : 12,
+        "item" : "ARVERNE"
+      }, {
+        "count" : 11,
+        "item" : "FOREST HILLS"
+      }, {
+        "count" : 10,
+        "item" : "LONG ISLAND CITY"
+      }, {
+        "count" : 9,
+        "item" : "WOODSIDE"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 51883930,
+    "name" : "ZIP CODE",
+    "dataTypeName" : "number",
+    "description" : "ZIP Code",
+    "fieldName" : "zip_code",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8782703,
+    "width" : 72,
+    "cachedContents" : {
+      "non_null" : 641,
+      "smallest" : "10001",
+      "sum" : "6804983",
+      "null" : 1,
+      "average" : "10616.19812792512",
+      "largest" : "11693",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10456"
+      }, {
+        "count" : 19,
+        "item" : "11206"
+      }, {
+        "count" : 18,
+        "item" : "10029"
+      }, {
+        "count" : 17,
+        "item" : "10002"
+      }, {
+        "count" : 16,
+        "item" : "10455"
+      }, {
+        "count" : 15,
+        "item" : "10009"
+      }, {
+        "count" : 14,
+        "item" : "11233"
+      }, {
+        "count" : 13,
+        "item" : "11212"
+      }, {
+        "count" : 12,
+        "item" : "10030"
+      }, {
+        "count" : 11,
+        "item" : "10027"
+      }, {
+        "count" : 10,
+        "item" : "10467"
+      }, {
+        "count" : 9,
+        "item" : "10039"
+      }, {
+        "count" : 8,
+        "item" : "10026"
+      }, {
+        "count" : 7,
+        "item" : "10451"
+      }, {
+        "count" : 6,
+        "item" : "10454"
+      }, {
+        "count" : 5,
+        "item" : "10473"
+      }, {
+        "count" : 4,
+        "item" : "11101"
+      }, {
+        "count" : 3,
+        "item" : "11106"
+      }, {
+        "count" : 2,
+        "item" : "11231"
+      }, {
+        "count" : 1,
+        "item" : "11221"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 51883931,
+    "name" : "NEW TENANT DATA SYSTEM",
+    "dataTypeName" : "number",
+    "description" : "Tenant Data System (TDS) number for the development where the facility is",
+    "fieldName" : "new_tds",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8782704,
+    "width" : 185,
+    "cachedContents" : {
+      "non_null" : 640,
+      "smallest" : "1",
+      "sum" : "83317",
+      "null" : 2,
+      "average" : "130.1828125",
+      "largest" : "582",
+      "top" : [ {
+        "count" : 20,
+        "item" : "111"
+      }, {
+        "count" : 19,
+        "item" : "3"
+      }, {
+        "count" : 18,
+        "item" : "505"
+      }, {
+        "count" : 17,
+        "item" : "5"
+      }, {
+        "count" : 16,
+        "item" : "37"
+      }, {
+        "count" : 15,
+        "item" : "48"
+      }, {
+        "count" : 14,
+        "item" : "4"
+      }, {
+        "count" : 13,
+        "item" : "516"
+      }, {
+        "count" : 12,
+        "item" : "38"
+      }, {
+        "count" : 11,
+        "item" : "377"
+      }, {
+        "count" : 10,
+        "item" : "36"
+      }, {
+        "count" : 9,
+        "item" : "27"
+      }, {
+        "count" : 8,
+        "item" : "71"
+      }, {
+        "count" : 7,
+        "item" : "114"
+      }, {
+        "count" : 6,
+        "item" : "73"
+      }, {
+        "count" : 5,
+        "item" : "97"
+      }, {
+        "count" : 4,
+        "item" : "341"
+      }, {
+        "count" : 3,
+        "item" : "61"
+      }, {
+        "count" : 2,
+        "item" : "6"
+      }, {
+        "count" : 1,
+        "item" : "74"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 51883932,
+    "name" : "FACILITY",
+    "dataTypeName" : "text",
+    "description" : "Category description of the facility",
+    "fieldName" : "facility",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8782705,
+    "width" : 288,
+    "cachedContents" : {
+      "non_null" : 642,
+      "smallest" : "ADULT COUNSELING CENTER",
+      "null" : 0,
+      "largest" : "VOCATIONAL TRAINING CENTER",
+      "top" : [ {
+        "count" : 20,
+        "item" : "COMMUNITY OPERATIONS SPACE (VACANT)"
+      }, {
+        "count" : 19,
+        "item" : "HEAD START CENTER"
+      }, {
+        "count" : 18,
+        "item" : "SENIOR CENTER"
+      }, {
+        "count" : 17,
+        "item" : "DAY CARE CENTER"
+      }, {
+        "count" : 16,
+        "item" : "COMMUNITY CENTER"
+      }, {
+        "count" : 15,
+        "item" : "COMMUNITY CENTER/ SENIOR CENTER"
+      }, {
+        "count" : 14,
+        "item" : "COMMUNITY CENTER / SENIOR CENTER"
+      }, {
+        "count" : 13,
+        "item" : "COMMERCIAL SPACE (STORE #1)"
+      }, {
+        "count" : 12,
+        "item" : "COMMERCIAL SPACE (STORE #2)"
+      }, {
+        "count" : 11,
+        "item" : "COMMERCIAL SPACE (STORE #3)"
+      }, {
+        "count" : 10,
+        "item" : "COMMERCIAL SPACE (STORE #4)"
+      }, {
+        "count" : 9,
+        "item" : "CHILD HEALTH CLINIC"
+      }, {
+        "count" : 8,
+        "item" : "COMMERCIAL SPACE (STORES #1, 2)"
+      }, {
+        "count" : 7,
+        "item" : "COMMERCIAL SPACE (STORES #12, 13)"
+      }, {
+        "count" : 6,
+        "item" : "COMMERCIAL SPACE  (STORES #48-50)"
+      }, {
+        "count" : 5,
+        "item" : "COMMERCIAL SPACE (STORE #12)"
+      }, {
+        "count" : 4,
+        "item" : "COMMERCIAL SPACE (STORE #11)"
+      }, {
+        "count" : 3,
+        "item" : "COMMERCIAL SPACE (STORE #9)"
+      }, {
+        "count" : 2,
+        "item" : "COMMERCIAL SPACE (STORE #16)"
+      }, {
+        "count" : 1,
+        "item" : "COMMERCIAL SPACE (STORE #18)"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 51883933,
+    "name" : "COMMENTS",
+    "dataTypeName" : "text",
+    "description" : "Abbreviations used by NYCHA, FP=Facility Planning, CO=Community Operations, BO=Borough Office",
+    "fieldName" : "comments",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8782706,
+    "width" : 89,
+    "cachedContents" : {
+      "non_null" : 640,
+      "smallest" : "BO",
+      "null" : 2,
+      "largest" : "FP",
+      "top" : [ {
+        "count" : 20,
+        "item" : "CO"
+      }, {
+        "count" : 19,
+        "item" : "BO"
+      }, {
+        "count" : 18,
+        "item" : "FP"
+      }, {
+        "count" : 17,
+        "item" : "CO, FP"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 51883934,
+    "name" : "MONTH",
+    "dataTypeName" : "text",
+    "description" : "Month of Data Collection",
+    "fieldName" : "month",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8782707,
+    "width" : 92,
+    "cachedContents" : {
+      "non_null" : 642,
+      "smallest" : "December",
+      "null" : 0,
+      "largest" : "December",
+      "top" : [ {
+        "count" : 20,
+        "item" : "December"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 51883935,
+    "name" : "YEAR",
+    "dataTypeName" : "text",
+    "description" : "Year of Data Collection",
+    "fieldName" : "year",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8782708,
+    "width" : 76,
+    "cachedContents" : {
+      "non_null" : 642,
+      "smallest" : "2012",
+      "null" : 0,
+      "largest" : "2012",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2012"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+    "orderBys" : [ {
+      "ascending" : true,
+      "expression" : {
+        "columnId" : 51883926,
+        "type" : "column"
+      }
+    } ]
+  },
+  "rights" : [ "read" ],
+  "sortBys" : [ {
+    "id" : 0,
+    "viewColumnId" : 51883926,
+    "flags" : [ "asc" ]
+  } ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "nycha", "nyc housing", "developments", "buildings", "community centers", "senior centers", "day care centers", "5 boroughs" ],
+  "flags" : [ "default" ]
+}

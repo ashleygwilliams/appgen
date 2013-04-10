@@ -1,0 +1,3019 @@
+{
+  "id" : "3rfa-3xsf",
+  "name" : "311 Service Requests 2009",
+  "attribution" : "311",
+  "averageRating" : 0,
+  "category" : "Service Requests (311)",
+  "createdAt" : 1318255777,
+  "description" : "All 311 Requests from year 2009. This is historical data and will not be updated.",
+  "displayType" : "table",
+  "downloadCount" : 229,
+  "numberOfComments" : 0,
+  "oid" : 346614,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1319136771,
+  "publicationGroup" : 244475,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1319026436,
+  "rowsUpdatedBy" : "i7d8-sc4w",
+  "signed" : false,
+  "tableId" : 246136,
+  "totalTimesRated" : 0,
+  "viewCount" : 594,
+  "viewLastModified" : 1343771974,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3071772,
+    "name" : "Unique Key",
+    "dataTypeName" : "text",
+    "fieldName" : "unique_key",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568763,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 1783133,
+      "smallest" : "12817784",
+      "null" : 0,
+      "largest" : "21277941",
+      "top" : [ {
+        "count" : 20,
+        "item" : "12981671"
+      }, {
+        "count" : 19,
+        "item" : "14818914"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071773,
+    "name" : "Created Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "created_date",
+    "position" : 3,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 1568764,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 1783133,
+      "smallest" : "2009-01-01T00:00:00",
+      "null" : 0,
+      "largest" : "2009-12-31T00:00:00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2009-10-14T00:00:00"
+      }, {
+        "count" : 19,
+        "item" : "2009-10-16T00:00:00"
+      }, {
+        "count" : 18,
+        "item" : "2009-10-15T00:00:00"
+      }, {
+        "count" : 17,
+        "item" : "2009-10-19T00:00:00"
+      }, {
+        "count" : 16,
+        "item" : "2009-11-10T00:00:00"
+      }, {
+        "count" : 15,
+        "item" : "2009-10-27T00:00:00"
+      }, {
+        "count" : 14,
+        "item" : "2009-10-29T00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2009-11-04T00:00:00"
+      }, {
+        "count" : 12,
+        "item" : "2009-10-26T00:00:00"
+      }, {
+        "count" : 11,
+        "item" : "2009-10-28T00:00:00"
+      }, {
+        "count" : 10,
+        "item" : "2009-11-12T00:00:00"
+      }, {
+        "count" : 9,
+        "item" : "2009-11-13T00:00:00"
+      }, {
+        "count" : 8,
+        "item" : "2009-11-06T00:00:00"
+      }, {
+        "count" : 7,
+        "item" : "2009-12-02T00:00:00"
+      }, {
+        "count" : 6,
+        "item" : "2009-11-24T00:00:00"
+      }, {
+        "count" : 5,
+        "item" : "2009-12-21T00:00:00"
+      }, {
+        "count" : 4,
+        "item" : "2009-12-16T00:00:00"
+      }, {
+        "count" : 3,
+        "item" : "2009-11-23T00:00:00"
+      }, {
+        "count" : 2,
+        "item" : "2009-11-20T00:00:00"
+      }, {
+        "count" : 1,
+        "item" : "2009-11-17T00:00:00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071774,
+    "name" : "Closed Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "closed_date",
+    "position" : 4,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 1568765,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 1723802,
+      "smallest" : "1939-01-09T00:00:00",
+      "null" : 59331,
+      "largest" : "3009-02-01T00:00:00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2009-11-12T00:00:00"
+      }, {
+        "count" : 19,
+        "item" : "2009-11-06T00:00:00"
+      }, {
+        "count" : 18,
+        "item" : "2009-11-16T00:00:00"
+      }, {
+        "count" : 17,
+        "item" : "2009-11-23T00:00:00"
+      }, {
+        "count" : 16,
+        "item" : "2009-11-13T00:00:00"
+      }, {
+        "count" : 15,
+        "item" : "2009-11-18T00:00:00"
+      }, {
+        "count" : 14,
+        "item" : "2009-11-17T00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2009-11-27T00:00:00"
+      }, {
+        "count" : 12,
+        "item" : "2009-11-24T00:00:00"
+      }, {
+        "count" : 11,
+        "item" : "2009-11-30T00:00:00"
+      }, {
+        "count" : 10,
+        "item" : "2009-11-20T00:00:00"
+      }, {
+        "count" : 9,
+        "item" : "2009-12-08T00:00:00"
+      }, {
+        "count" : 8,
+        "item" : "2009-11-21T00:00:00"
+      }, {
+        "count" : 7,
+        "item" : "2009-12-07T00:00:00"
+      }, {
+        "count" : 6,
+        "item" : "2009-12-22T00:00:00"
+      }, {
+        "count" : 5,
+        "item" : "2009-11-19T00:00:00"
+      }, {
+        "count" : 4,
+        "item" : "2009-11-25T00:00:00"
+      }, {
+        "count" : 3,
+        "item" : "2009-12-02T00:00:00"
+      }, {
+        "count" : 2,
+        "item" : "2009-12-04T00:00:00"
+      }, {
+        "count" : 1,
+        "item" : "2009-12-03T00:00:00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071775,
+    "name" : "Agency",
+    "dataTypeName" : "text",
+    "fieldName" : "agency",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568766,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 1783133,
+      "smallest" : "3-1-1",
+      "null" : 0,
+      "largest" : "TLC",
+      "top" : [ {
+        "count" : 20,
+        "item" : "HPD"
+      }, {
+        "count" : 19,
+        "item" : "DOHMH"
+      }, {
+        "count" : 18,
+        "item" : "DOT"
+      }, {
+        "count" : 17,
+        "item" : "NYPD"
+      }, {
+        "count" : 16,
+        "item" : "TLC"
+      }, {
+        "count" : 15,
+        "item" : "DOITT"
+      }, {
+        "count" : 14,
+        "item" : "DPR"
+      }, {
+        "count" : 13,
+        "item" : "DCA"
+      }, {
+        "count" : 12,
+        "item" : "DSNY"
+      }, {
+        "count" : 11,
+        "item" : "DOE"
+      }, {
+        "count" : 10,
+        "item" : "DOB"
+      }, {
+        "count" : 9,
+        "item" : "DEP"
+      }, {
+        "count" : 8,
+        "item" : "DFTA"
+      }, {
+        "count" : 7,
+        "item" : "3-1-1"
+      }, {
+        "count" : 6,
+        "item" : "DOF"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071776,
+    "name" : "Agency Name",
+    "dataTypeName" : "text",
+    "fieldName" : "agency_name",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568767,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 1783133,
+      "smallest" : "3-1-1 Call Center",
+      "null" : 0,
+      "largest" : "Taxi and Limousine Commission",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Department of Housing Preservation and Development"
+      }, {
+        "count" : 19,
+        "item" : "Department of Health and Mental Hygiene"
+      }, {
+        "count" : 18,
+        "item" : "Department of Transportation"
+      }, {
+        "count" : 17,
+        "item" : "New York City Police Department"
+      }, {
+        "count" : 16,
+        "item" : "Taxi and Limousine Commission"
+      }, {
+        "count" : 15,
+        "item" : "Department of Parks and Recreation"
+      }, {
+        "count" : 14,
+        "item" : "Department of Consumer Affairs"
+      }, {
+        "count" : 13,
+        "item" : "BCC - Queens East"
+      }, {
+        "count" : 12,
+        "item" : "BCC - Queens West"
+      }, {
+        "count" : 11,
+        "item" : "BCC - Manhattan"
+      }, {
+        "count" : 10,
+        "item" : "BCC - Brooklyn South"
+      }, {
+        "count" : 9,
+        "item" : "BCC - Staten Island"
+      }, {
+        "count" : 8,
+        "item" : "BCC - Brooklyn North"
+      }, {
+        "count" : 7,
+        "item" : "BCC - Bronx"
+      }, {
+        "count" : 6,
+        "item" : "A - Bronx"
+      }, {
+        "count" : 5,
+        "item" : "Central - Department of Education"
+      }, {
+        "count" : 4,
+        "item" : "A - Queens"
+      }, {
+        "count" : 3,
+        "item" : "Department of Buildings"
+      }, {
+        "count" : 2,
+        "item" : "Queens East 12"
+      }, {
+        "count" : 1,
+        "item" : "A - Manhattan"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071777,
+    "name" : "Complaint Type",
+    "dataTypeName" : "text",
+    "fieldName" : "complaint_type",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568768,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 1783133,
+      "smallest" : "Adopt-A-Basket",
+      "null" : 0,
+      "largest" : "X-Ray Machine/Equipment",
+      "top" : [ {
+        "count" : 20,
+        "item" : "HEATING"
+      }, {
+        "count" : 19,
+        "item" : "Traffic Signal Condition"
+      }, {
+        "count" : 18,
+        "item" : "NONCONST"
+      }, {
+        "count" : 17,
+        "item" : "PLUMBING"
+      }, {
+        "count" : 16,
+        "item" : "Noise - Commercial"
+      }, {
+        "count" : 15,
+        "item" : "Blocked Driveway"
+      }, {
+        "count" : 14,
+        "item" : "PAINT - PLASTER"
+      }, {
+        "count" : 13,
+        "item" : "GENERAL CONSTRUCTION"
+      }, {
+        "count" : 12,
+        "item" : "ELECTRIC"
+      }, {
+        "count" : 11,
+        "item" : "Taxi Complaint"
+      }, {
+        "count" : 10,
+        "item" : "Street Light Condition"
+      }, {
+        "count" : 9,
+        "item" : "Street Condition"
+      }, {
+        "count" : 8,
+        "item" : "Sanitation Condition"
+      }, {
+        "count" : 7,
+        "item" : "Dirty Conditions"
+      }, {
+        "count" : 6,
+        "item" : "General Construction/Plumbing"
+      }, {
+        "count" : 5,
+        "item" : "Consumer Complaint"
+      }, {
+        "count" : 4,
+        "item" : "Rodent"
+      }, {
+        "count" : 3,
+        "item" : "Sewer"
+      }, {
+        "count" : 2,
+        "item" : "Water System"
+      }, {
+        "count" : 1,
+        "item" : "Noise"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071778,
+    "name" : "Descriptor",
+    "dataTypeName" : "text",
+    "fieldName" : "descriptor",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568769,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 1783131,
+      "smallest" : "10A Adopt-A-Basket",
+      "null" : 2,
+      "largest" : "Zoning - Non-Conforming/Illegal Vehicle Storage",
+      "top" : [ {
+        "count" : 20,
+        "item" : "HEAT"
+      }, {
+        "count" : 19,
+        "item" : "No Access"
+      }, {
+        "count" : 18,
+        "item" : "Street Light Out"
+      }, {
+        "count" : 17,
+        "item" : "Pothole"
+      }, {
+        "count" : 16,
+        "item" : "Controller"
+      }, {
+        "count" : 15,
+        "item" : "VERMIN"
+      }, {
+        "count" : 14,
+        "item" : "Loud Music/Party"
+      }, {
+        "count" : 13,
+        "item" : "WALLS"
+      }, {
+        "count" : 12,
+        "item" : "CEILING"
+      }, {
+        "count" : 11,
+        "item" : "WATER-LEAKS"
+      }, {
+        "count" : 10,
+        "item" : "Building Permit - None"
+      }, {
+        "count" : 9,
+        "item" : "Illegal Conversion Of Residential Building/Space"
+      }, {
+        "count" : 8,
+        "item" : "No Certificate Of Occupancy/Illegal/Contrary To CO"
+      }, {
+        "count" : 7,
+        "item" : "After Hours Work - Illegal"
+      }, {
+        "count" : 6,
+        "item" : "WINDOWS"
+      }, {
+        "count" : 5,
+        "item" : "ELECTRIC-SUPPLY"
+      }, {
+        "count" : 4,
+        "item" : "CABINETS"
+      }, {
+        "count" : 3,
+        "item" : "FLOOR"
+      }, {
+        "count" : 2,
+        "item" : "Graffiti"
+      }, {
+        "count" : 1,
+        "item" : "Failed Street Repair"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071779,
+    "name" : "Location Type",
+    "dataTypeName" : "text",
+    "fieldName" : "location_type",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568770,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 1209530,
+      "smallest" : "1-2 Family Dwelling",
+      "null" : 573603,
+      "largest" : "Vacant Lot",
+      "top" : [ {
+        "count" : 20,
+        "item" : "RESIDENTIAL BUILDING"
+      }, {
+        "count" : 19,
+        "item" : "Restaurant/Bar/Deli/Bakery"
+      }, {
+        "count" : 18,
+        "item" : "Club/Bar/Restaurant"
+      }, {
+        "count" : 17,
+        "item" : "Street/Sidewalk"
+      }, {
+        "count" : 16,
+        "item" : "Street"
+      }, {
+        "count" : 15,
+        "item" : "Street and Sidewalk"
+      }, {
+        "count" : 14,
+        "item" : "Sidewalk"
+      }, {
+        "count" : 13,
+        "item" : "Building (Non-Residential)"
+      }, {
+        "count" : 12,
+        "item" : "Park"
+      }, {
+        "count" : 11,
+        "item" : "Residential Building/House"
+      }, {
+        "count" : 10,
+        "item" : "1-3 Family Dwelling"
+      }, {
+        "count" : 9,
+        "item" : "3+ Family Apt. Building"
+      }, {
+        "count" : 8,
+        "item" : "Store/Commercial"
+      }, {
+        "count" : 7,
+        "item" : "Street/Curbside"
+      }, {
+        "count" : 6,
+        "item" : "School"
+      }, {
+        "count" : 5,
+        "item" : "Other (Explain Below)"
+      }, {
+        "count" : 4,
+        "item" : "Highway"
+      }, {
+        "count" : 3,
+        "item" : "3+ Family Apartment Building"
+      }, {
+        "count" : 2,
+        "item" : "Vacant Lot"
+      }, {
+        "count" : 1,
+        "item" : "Commercial Building"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071780,
+    "name" : "Incident Zip",
+    "dataTypeName" : "text",
+    "fieldName" : "incident_zip",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568771,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 1660282,
+      "smallest" : "-",
+      "null" : 122851,
+      "largest" : "X",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11226"
+      }, {
+        "count" : 19,
+        "item" : "10467"
+      }, {
+        "count" : 18,
+        "item" : "11219"
+      }, {
+        "count" : 17,
+        "item" : "11220"
+      }, {
+        "count" : 16,
+        "item" : "11368"
+      }, {
+        "count" : 15,
+        "item" : "10305"
+      }, {
+        "count" : 14,
+        "item" : "10453"
+      }, {
+        "count" : 13,
+        "item" : "10472"
+      }, {
+        "count" : 12,
+        "item" : "11209"
+      }, {
+        "count" : 11,
+        "item" : "11215"
+      }, {
+        "count" : 10,
+        "item" : "11231"
+      }, {
+        "count" : 9,
+        "item" : "11217"
+      }, {
+        "count" : 8,
+        "item" : "10065"
+      }, {
+        "count" : 7,
+        "item" : "10026"
+      }, {
+        "count" : 6,
+        "item" : "10030"
+      }, {
+        "count" : 5,
+        "item" : "10013"
+      }, {
+        "count" : 4,
+        "item" : "10012"
+      }, {
+        "count" : 3,
+        "item" : "10002"
+      }, {
+        "count" : 2,
+        "item" : "10034"
+      }, {
+        "count" : 1,
+        "item" : "11230"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071781,
+    "name" : "Incident Address",
+    "dataTypeName" : "text",
+    "fieldName" : "incident_address",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568772,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 1400797,
+      "smallest" : "- -",
+      "null" : 382336,
+      "largest" : " ZULETTE AVENUE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "585 6 AVENUE"
+      }, {
+        "count" : 19,
+        "item" : "133 SUMMIT STREET"
+      }, {
+        "count" : 18,
+        "item" : "65 4 AVENUE"
+      }, {
+        "count" : 17,
+        "item" : "200 EAST 66 STREET"
+      }, {
+        "count" : 16,
+        "item" : "1947 7 AVENUE"
+      }, {
+        "count" : 15,
+        "item" : "2263 7 AVENUE"
+      }, {
+        "count" : 14,
+        "item" : "26 GRAND STREET"
+      }, {
+        "count" : 13,
+        "item" : "600 BROADWAY"
+      }, {
+        "count" : 12,
+        "item" : "107 CLINTON STREET"
+      }, {
+        "count" : 11,
+        "item" : "530 WEST 207 STREET"
+      }, {
+        "count" : 10,
+        "item" : "1102 GLENWOOD ROAD"
+      }, {
+        "count" : 9,
+        "item" : "2803 MERMAID AVENUE"
+      }, {
+        "count" : 8,
+        "item" : "99-15 194 STREET"
+      }, {
+        "count" : 7,
+        "item" : "34-42 107 STREET"
+      }, {
+        "count" : 6,
+        "item" : "3905 CARPENTER AVENUE"
+      }, {
+        "count" : 5,
+        "item" : "659 QUINCY STREET"
+      }, {
+        "count" : 4,
+        "item" : "1118 PUTNAM AVENUE"
+      }, {
+        "count" : 3,
+        "item" : "15-58 MURRAY STREET"
+      }, {
+        "count" : 2,
+        "item" : "1642 BRUCKNER BOULEVARD"
+      }, {
+        "count" : 1,
+        "item" : "382 3 STREET"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071782,
+    "name" : "Street Name",
+    "dataTypeName" : "text",
+    "fieldName" : "street_name",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568773,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 1400787,
+      "smallest" : "-",
+      "null" : 382346,
+      "largest" : "ZWICKY AVENUE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "7 AVENUE"
+      }, {
+        "count" : 19,
+        "item" : "BROADWAY"
+      }, {
+        "count" : 18,
+        "item" : "107 STREET"
+      }, {
+        "count" : 17,
+        "item" : "CARPENTER AVENUE"
+      }, {
+        "count" : 16,
+        "item" : "QUINCY STREET"
+      }, {
+        "count" : 15,
+        "item" : "PUTNAM AVENUE"
+      }, {
+        "count" : 14,
+        "item" : "MURRAY STREET"
+      }, {
+        "count" : 13,
+        "item" : "BRUCKNER BOULEVARD"
+      }, {
+        "count" : 12,
+        "item" : "3 STREET"
+      }, {
+        "count" : 11,
+        "item" : "EAST 18 STREET"
+      }, {
+        "count" : 10,
+        "item" : "WEST 51 STREET"
+      }, {
+        "count" : 9,
+        "item" : "109 AVENUE"
+      }, {
+        "count" : 8,
+        "item" : "EAST 87 STREET"
+      }, {
+        "count" : 7,
+        "item" : "BEACH 222 STREET"
+      }, {
+        "count" : 6,
+        "item" : "34 AVENUE"
+      }, {
+        "count" : 5,
+        "item" : "NOBLE AVENUE"
+      }, {
+        "count" : 4,
+        "item" : "MALCOLM X BOULEVARD"
+      }, {
+        "count" : 3,
+        "item" : "EAST 161 STREET"
+      }, {
+        "count" : 2,
+        "item" : "5 AVENUE"
+      }, {
+        "count" : 1,
+        "item" : "MAIDEN LANE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071783,
+    "name" : "Cross Street 1",
+    "dataTypeName" : "text",
+    "fieldName" : "cross_street_1",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568774,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 1397587,
+      "smallest" : "/CASTLE HILL",
+      "null" : 385546,
+      "largest" : "ZWICKY AVENUE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3 AVENUE"
+      }, {
+        "count" : 19,
+        "item" : "34 AVENUE"
+      }, {
+        "count" : 18,
+        "item" : "EAST 222 STREET"
+      }, {
+        "count" : 17,
+        "item" : "STUYVESANT AVENUE"
+      }, {
+        "count" : 16,
+        "item" : "BROADWAY"
+      }, {
+        "count" : 15,
+        "item" : "DEAD END"
+      }, {
+        "count" : 14,
+        "item" : "PEDESTRIAN OVERPASS"
+      }, {
+        "count" : 13,
+        "item" : "5 AVENUE"
+      }, {
+        "count" : 12,
+        "item" : "11 AVENUE"
+      }, {
+        "count" : 11,
+        "item" : "117 STREET"
+      }, {
+        "count" : 10,
+        "item" : "LEXINGTON AVENUE"
+      }, {
+        "count" : 9,
+        "item" : "BREEZY POINT BOULEVARD"
+      }, {
+        "count" : 8,
+        "item" : "145 STREET"
+      }, {
+        "count" : 7,
+        "item" : "WESTCHESTER AVENUE"
+      }, {
+        "count" : 6,
+        "item" : "GREENE AVENUE"
+      }, {
+        "count" : 5,
+        "item" : "MORRIS AVENUE"
+      }, {
+        "count" : 4,
+        "item" : "EAST 118 STREET"
+      }, {
+        "count" : 3,
+        "item" : "NASSAU STREET"
+      }, {
+        "count" : 2,
+        "item" : "BRANDT PLACE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071784,
+    "name" : "Cross Street 2",
+    "dataTypeName" : "text",
+    "fieldName" : "cross_street_2",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568775,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 1389088,
+      "smallest" : "/",
+      "null" : 394045,
+      "largest" : "ZWICKY AVENUE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BEND"
+      }, {
+        "count" : 19,
+        "item" : "MALCOLM X BOULEVARD"
+      }, {
+        "count" : 18,
+        "item" : "PROSPECT AVENUE"
+      }, {
+        "count" : 17,
+        "item" : "PARK AVENUE"
+      }, {
+        "count" : 16,
+        "item" : "EAST 119 STREET"
+      }, {
+        "count" : 15,
+        "item" : "WILLIAM STREET"
+      }, {
+        "count" : 14,
+        "item" : "MACOMBS ROAD"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071785,
+    "name" : "Intersection Street 1",
+    "dataTypeName" : "text",
+    "fieldName" : "intersection_street_1",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568776,
+    "width" : 352,
+    "cachedContents" : {
+      "non_null" : 352276,
+      "smallest" : "0000000000",
+      "null" : 1430857,
+      "largest" : "ZWICKY AVENUE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BROADWAY"
+      }, {
+        "count" : 19,
+        "item" : "BEDFORD AVENUE"
+      }, {
+        "count" : 18,
+        "item" : "179 PLACE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071786,
+    "name" : "Intersection Street 2",
+    "dataTypeName" : "text",
+    "fieldName" : "intersection_street_2",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568777,
+    "width" : 352,
+    "cachedContents" : {
+      "non_null" : 352301,
+      "smallest" : "0000000000",
+      "null" : 1430832,
+      "largest" : "ZWICKY AVENUE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "20 AVENUE"
+      }, {
+        "count" : 19,
+        "item" : "BAINBRIDGE AVENUE"
+      }, {
+        "count" : 18,
+        "item" : "ROCKAWAY AVENUE"
+      }, {
+        "count" : 17,
+        "item" : "HOYT STREET"
+      }, {
+        "count" : 16,
+        "item" : "151 PLACE"
+      }, {
+        "count" : 15,
+        "item" : "UPLAND ROAD"
+      }, {
+        "count" : 14,
+        "item" : "CODDINGTON AVENUE"
+      }, {
+        "count" : 13,
+        "item" : "97 STREET"
+      }, {
+        "count" : 12,
+        "item" : "119 ST E"
+      }, {
+        "count" : 11,
+        "item" : "BEVERLY ROAD"
+      }, {
+        "count" : 10,
+        "item" : "RODNEY STREET"
+      }, {
+        "count" : 9,
+        "item" : "COLUMBUS AVENUE"
+      }, {
+        "count" : 8,
+        "item" : "155 ST W"
+      }, {
+        "count" : 7,
+        "item" : "AVE A"
+      }, {
+        "count" : 6,
+        "item" : "ALLERTON AVENUE"
+      }, {
+        "count" : 5,
+        "item" : "46 STREET"
+      }, {
+        "count" : 4,
+        "item" : "BROADWAY"
+      }, {
+        "count" : 3,
+        "item" : "HOLLIS AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "LENOX AVENUE"
+      }, {
+        "count" : 1,
+        "item" : "NOLL STREET"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071787,
+    "name" : "Address Type",
+    "dataTypeName" : "text",
+    "fieldName" : "address_type",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568778,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 1730915,
+      "smallest" : "ADDRESS",
+      "null" : 52218,
+      "largest" : "PLACENAME",
+      "top" : [ {
+        "count" : 20,
+        "item" : "ADDRESS"
+      }, {
+        "count" : 19,
+        "item" : "INTERSECTION"
+      }, {
+        "count" : 18,
+        "item" : "PLACENAME"
+      }, {
+        "count" : 17,
+        "item" : "BLOCKFACE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071788,
+    "name" : "City",
+    "dataTypeName" : "text",
+    "fieldName" : "city",
+    "position" : 18,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568779,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 1661495,
+      "smallest" : "-",
+      "null" : 121638,
+      "largest" : "ZZZ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BROOKLYN"
+      }, {
+        "count" : 19,
+        "item" : "ASTORIA"
+      }, {
+        "count" : 18,
+        "item" : "OZONE PARK"
+      }, {
+        "count" : 17,
+        "item" : "WOODSIDE"
+      }, {
+        "count" : 16,
+        "item" : "NEW YORK"
+      }, {
+        "count" : 15,
+        "item" : "BRONX"
+      }, {
+        "count" : 14,
+        "item" : "STATEN ISLAND"
+      }, {
+        "count" : 13,
+        "item" : "ELMHURST"
+      }, {
+        "count" : 12,
+        "item" : "CORONA"
+      }, {
+        "count" : 11,
+        "item" : "MASPETH"
+      }, {
+        "count" : 10,
+        "item" : "WOODHAVEN"
+      }, {
+        "count" : 9,
+        "item" : "JAMAICA"
+      }, {
+        "count" : 8,
+        "item" : "HOLLIS"
+      }, {
+        "count" : 7,
+        "item" : "QUEENS VILLAGE"
+      }, {
+        "count" : 6,
+        "item" : "FLUSHING"
+      }, {
+        "count" : 5,
+        "item" : "RIDGEWOOD"
+      }, {
+        "count" : 4,
+        "item" : "LONG ISLAND CITY"
+      }, {
+        "count" : 3,
+        "item" : "FOREST HILLS"
+      }, {
+        "count" : 2,
+        "item" : "JACKSON HEIGHTS"
+      }, {
+        "count" : 1,
+        "item" : "RICHMOND HILL"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071789,
+    "name" : "Landmark",
+    "dataTypeName" : "text",
+    "fieldName" : "landmark",
+    "position" : 19,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568780,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 2063,
+      "smallest" : "79 STREET BOAT BASIN",
+      "null" : 1781070,
+      "largest" : "YORK COLLEGE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "MADISON SQUARE GARDEN"
+      }, {
+        "count" : 19,
+        "item" : "LA GUARDIA AIRPORT"
+      }, {
+        "count" : 18,
+        "item" : "PENNSYLVANIA STATION"
+      }, {
+        "count" : 17,
+        "item" : "J F K AIRPORT"
+      }, {
+        "count" : 16,
+        "item" : "CENTRAL PARK"
+      }, {
+        "count" : 15,
+        "item" : "SI FERRY TERMINAL"
+      }, {
+        "count" : 14,
+        "item" : "FERRY TERMINAL"
+      }, {
+        "count" : 13,
+        "item" : "GRAND CENTRAL TERM"
+      }, {
+        "count" : 12,
+        "item" : "PROSPECT PARK"
+      }, {
+        "count" : 11,
+        "item" : "GRAND ARMY PLAZA"
+      }, {
+        "count" : 10,
+        "item" : "PORT AUTH 42 STREET"
+      }, {
+        "count" : 9,
+        "item" : "YANKEE STADIUM"
+      }, {
+        "count" : 8,
+        "item" : "LINCOLN CENTER"
+      }, {
+        "count" : 7,
+        "item" : "MEADOW LAKE"
+      }, {
+        "count" : 6,
+        "item" : "CITY HALL"
+      }, {
+        "count" : 5,
+        "item" : "BKLYN BATTERY TUNNEL"
+      }, {
+        "count" : 4,
+        "item" : "BRYANT PARK"
+      }, {
+        "count" : 3,
+        "item" : "BKLYN PUBLIC LIBRARY"
+      }, {
+        "count" : 2,
+        "item" : "STATUE OF LIBERTY"
+      }, {
+        "count" : 1,
+        "item" : "BELLEVUE HOSPITAL"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071790,
+    "name" : "Facility Type",
+    "dataTypeName" : "text",
+    "fieldName" : "facility_type",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568781,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 1783127,
+      "smallest" : "DSNY Garage",
+      "null" : 6,
+      "largest" : "School District",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N/A"
+      }, {
+        "count" : 19,
+        "item" : "Precinct"
+      }, {
+        "count" : 18,
+        "item" : "DSNY Garage"
+      }, {
+        "count" : 17,
+        "item" : "School District"
+      }, {
+        "count" : 16,
+        "item" : "School"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071791,
+    "name" : "Status",
+    "dataTypeName" : "text",
+    "fieldName" : "status",
+    "position" : 21,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568782,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 1783133,
+      "smallest" : "Assigned",
+      "null" : 0,
+      "largest" : "Unspecified",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Closed"
+      }, {
+        "count" : 19,
+        "item" : "Pending"
+      }, {
+        "count" : 18,
+        "item" : "Open"
+      }, {
+        "count" : 17,
+        "item" : "Assigned"
+      }, {
+        "count" : 16,
+        "item" : "Draft"
+      }, {
+        "count" : 15,
+        "item" : "Started"
+      }, {
+        "count" : 14,
+        "item" : "Unspecified"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071792,
+    "name" : "Due Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "due_date",
+    "position" : 22,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 1568783,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 518738,
+      "smallest" : "1900-01-02T00:00:00",
+      "null" : 1264395,
+      "largest" : "2011-12-04T00:00:00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1900-01-02T00:00:00"
+      }, {
+        "count" : 19,
+        "item" : "2009-11-20T00:00:00"
+      }, {
+        "count" : 18,
+        "item" : "2009-12-20T00:00:00"
+      }, {
+        "count" : 17,
+        "item" : "2009-12-04T00:00:00"
+      }, {
+        "count" : 16,
+        "item" : "2009-11-15T00:00:00"
+      }, {
+        "count" : 15,
+        "item" : "2009-11-23T00:00:00"
+      }, {
+        "count" : 14,
+        "item" : "2009-12-01T00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2009-12-23T00:00:00"
+      }, {
+        "count" : 12,
+        "item" : "2009-11-18T00:00:00"
+      }, {
+        "count" : 11,
+        "item" : "2009-12-08T00:00:00"
+      }, {
+        "count" : 10,
+        "item" : "2009-11-22T00:00:00"
+      }, {
+        "count" : 9,
+        "item" : "2009-11-27T00:00:00"
+      }, {
+        "count" : 8,
+        "item" : "2009-12-16T00:00:00"
+      }, {
+        "count" : 7,
+        "item" : "2009-11-21T00:00:00"
+      }, {
+        "count" : 6,
+        "item" : "2009-11-26T00:00:00"
+      }, {
+        "count" : 5,
+        "item" : "2009-12-03T00:00:00"
+      }, {
+        "count" : 4,
+        "item" : "2009-12-09T00:00:00"
+      }, {
+        "count" : 3,
+        "item" : "2009-11-16T00:00:00"
+      }, {
+        "count" : 2,
+        "item" : "2009-10-16T00:00:00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071793,
+    "name" : "Resolution Action Updated Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "resolution_action_updated_date",
+    "position" : 23,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 1568784,
+    "width" : 460,
+    "cachedContents" : {
+      "non_null" : 1768946,
+      "smallest" : "2000-02-22T00:00:00",
+      "null" : 14187,
+      "largest" : "3009-06-08T00:00:00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2009-11-10T00:00:00"
+      }, {
+        "count" : 19,
+        "item" : "2009-11-12T00:00:00"
+      }, {
+        "count" : 18,
+        "item" : "2009-11-16T00:00:00"
+      }, {
+        "count" : 17,
+        "item" : "2009-11-13T00:00:00"
+      }, {
+        "count" : 16,
+        "item" : "2009-11-23T00:00:00"
+      }, {
+        "count" : 15,
+        "item" : "2009-11-17T00:00:00"
+      }, {
+        "count" : 14,
+        "item" : "2009-11-18T00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2009-11-19T00:00:00"
+      }, {
+        "count" : 12,
+        "item" : "2009-11-27T00:00:00"
+      }, {
+        "count" : 11,
+        "item" : "2009-12-03T00:00:00"
+      }, {
+        "count" : 10,
+        "item" : "2009-11-24T00:00:00"
+      }, {
+        "count" : 9,
+        "item" : "2009-11-20T00:00:00"
+      }, {
+        "count" : 8,
+        "item" : "2009-11-21T00:00:00"
+      }, {
+        "count" : 7,
+        "item" : "2009-11-30T00:00:00"
+      }, {
+        "count" : 6,
+        "item" : "2009-12-22T00:00:00"
+      }, {
+        "count" : 5,
+        "item" : "2009-11-25T00:00:00"
+      }, {
+        "count" : 4,
+        "item" : "2009-12-02T00:00:00"
+      }, {
+        "count" : 3,
+        "item" : "2009-12-07T00:00:00"
+      }, {
+        "count" : 2,
+        "item" : "2009-12-04T00:00:00"
+      }, {
+        "count" : 1,
+        "item" : "2009-12-19T00:00:00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071794,
+    "name" : "Community Board",
+    "dataTypeName" : "text",
+    "fieldName" : "community_board",
+    "position" : 24,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568785,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 1783133,
+      "smallest" : "01 BRONX",
+      "null" : 0,
+      "largest" : "Unspecified STATEN ISLAND",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0 Unspecified"
+      }, {
+        "count" : 19,
+        "item" : "12 QUEENS"
+      }, {
+        "count" : 18,
+        "item" : "13 QUEENS"
+      }, {
+        "count" : 17,
+        "item" : "07 QUEENS"
+      }, {
+        "count" : 16,
+        "item" : "Unspecified MANHATTAN"
+      }, {
+        "count" : 15,
+        "item" : "01 STATEN ISLAND"
+      }, {
+        "count" : 14,
+        "item" : "01 BROOKLYN"
+      }, {
+        "count" : 13,
+        "item" : "01 QUEENS"
+      }, {
+        "count" : 12,
+        "item" : "05 QUEENS"
+      }, {
+        "count" : 11,
+        "item" : "Unspecified QUEENS"
+      }, {
+        "count" : 10,
+        "item" : "02 MANHATTAN"
+      }, {
+        "count" : 9,
+        "item" : "Unspecified BRONX"
+      }, {
+        "count" : 8,
+        "item" : "03 MANHATTAN"
+      }, {
+        "count" : 7,
+        "item" : "18 BROOKLYN"
+      }, {
+        "count" : 6,
+        "item" : "02 STATEN ISLAND"
+      }, {
+        "count" : 5,
+        "item" : "11 BROOKLYN"
+      }, {
+        "count" : 4,
+        "item" : "02 BROOKLYN"
+      }, {
+        "count" : 3,
+        "item" : "03 BROOKLYN"
+      }, {
+        "count" : 2,
+        "item" : "12 BROOKLYN"
+      }, {
+        "count" : 1,
+        "item" : "07 BROOKLYN"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071795,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 25,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568786,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 1783133,
+      "smallest" : "BRONX",
+      "null" : 0,
+      "largest" : "Unspecified",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Unspecified"
+      }, {
+        "count" : 19,
+        "item" : "QUEENS"
+      }, {
+        "count" : 18,
+        "item" : "BROOKLYN"
+      }, {
+        "count" : 17,
+        "item" : "MANHATTAN"
+      }, {
+        "count" : 16,
+        "item" : "BRONX"
+      }, {
+        "count" : 15,
+        "item" : "STATEN ISLAND"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071796,
+    "name" : "X Coordinate (State Plane)",
+    "dataTypeName" : "number",
+    "fieldName" : "x_coordinate_state_plane_",
+    "position" : 26,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1568787,
+    "width" : 412,
+    "cachedContents" : {
+      "non_null" : 1651563,
+      "smallest" : "913357",
+      "sum" : "1660775863174",
+      "null" : 131570,
+      "average" : "1005578.269296418",
+      "largest" : "1067279",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1007227"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071797,
+    "name" : "Y Coordinate (State Plane)",
+    "dataTypeName" : "number",
+    "fieldName" : "y_coordinate_state_plane_",
+    "position" : 27,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1568788,
+    "width" : 412,
+    "cachedContents" : {
+      "non_null" : 1651563,
+      "smallest" : "121032",
+      "sum" : "339994969479",
+      "null" : 131570,
+      "average" : "205862.5492814988",
+      "largest" : "271876",
+      "top" : [ {
+        "count" : 20,
+        "item" : "248329"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071798,
+    "name" : "Park Facility Name",
+    "dataTypeName" : "text",
+    "fieldName" : "park_facility_name",
+    "position" : 28,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568789,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 1783133,
+      "smallest" : "100 Percent Playground - PS 242",
+      "null" : 0,
+      "largest" : "Zimmerman Playground",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Unspecified"
+      }, {
+        "count" : 19,
+        "item" : "Central Park"
+      }, {
+        "count" : 18,
+        "item" : "Central Park - Wild West Playground"
+      }, {
+        "count" : 17,
+        "item" : "Battery Park"
+      }, {
+        "count" : 16,
+        "item" : "Tompkins Square Park"
+      }, {
+        "count" : 15,
+        "item" : "Beach - Rockaway"
+      }, {
+        "count" : 14,
+        "item" : "Morningside Park"
+      }, {
+        "count" : 13,
+        "item" : "Riverside Park"
+      }, {
+        "count" : 12,
+        "item" : "J J Byrne Memorial Park"
+      }, {
+        "count" : 11,
+        "item" : "Rochdale Park Playground  at JHS 72"
+      }, {
+        "count" : 10,
+        "item" : "Willowbrook Park"
+      }, {
+        "count" : 9,
+        "item" : "School - PS 51 Elias Howe"
+      }, {
+        "count" : 8,
+        "item" : "Sol Lain Playground"
+      }, {
+        "count" : 7,
+        "item" : "Riverside Park - Neufeld Playgound"
+      }, {
+        "count" : 6,
+        "item" : "Linden Park - Linden Park School Playground"
+      }, {
+        "count" : 5,
+        "item" : "Tremont Park"
+      }, {
+        "count" : 4,
+        "item" : "Cooper Park"
+      }, {
+        "count" : 3,
+        "item" : "School - PS 150 Queens"
+      }, {
+        "count" : 2,
+        "item" : "Soundview Park"
+      }, {
+        "count" : 1,
+        "item" : "Sheepshead Playground"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071799,
+    "name" : "Park Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "park_borough",
+    "position" : 29,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568790,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 1783133,
+      "smallest" : "BRONX",
+      "null" : 0,
+      "largest" : "Unspecified",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Unspecified"
+      }, {
+        "count" : 19,
+        "item" : "QUEENS"
+      }, {
+        "count" : 18,
+        "item" : "BROOKLYN"
+      }, {
+        "count" : 17,
+        "item" : "MANHATTAN"
+      }, {
+        "count" : 16,
+        "item" : "BRONX"
+      }, {
+        "count" : 15,
+        "item" : "STATEN ISLAND"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071800,
+    "name" : "School Name",
+    "dataTypeName" : "text",
+    "fieldName" : "school_name",
+    "position" : 30,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568791,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 1783133,
+      "smallest" : "100 Percent Playground - PS 242",
+      "null" : 0,
+      "largest" : "Zimmerman Playground",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Unspecified"
+      }, {
+        "count" : 19,
+        "item" : "Central Park"
+      }, {
+        "count" : 18,
+        "item" : "Central Park - Wild West Playground"
+      }, {
+        "count" : 17,
+        "item" : "Battery Park"
+      }, {
+        "count" : 16,
+        "item" : "Tompkins Square Park"
+      }, {
+        "count" : 15,
+        "item" : "Beach - Rockaway"
+      }, {
+        "count" : 14,
+        "item" : "Morningside Park"
+      }, {
+        "count" : 13,
+        "item" : "Riverside Park"
+      }, {
+        "count" : 12,
+        "item" : "J J Byrne Memorial Park"
+      }, {
+        "count" : 11,
+        "item" : "Rochdale Park Playground  at JHS 72"
+      }, {
+        "count" : 10,
+        "item" : "Willowbrook Park"
+      }, {
+        "count" : 9,
+        "item" : "School - PS 51 Elias Howe"
+      }, {
+        "count" : 8,
+        "item" : "Sol Lain Playground"
+      }, {
+        "count" : 7,
+        "item" : "Riverside Park - Neufeld Playgound"
+      }, {
+        "count" : 6,
+        "item" : "Linden Park - Linden Park School Playground"
+      }, {
+        "count" : 5,
+        "item" : "Tremont Park"
+      }, {
+        "count" : 4,
+        "item" : "Cooper Park"
+      }, {
+        "count" : 3,
+        "item" : "School - PS 150 Queens"
+      }, {
+        "count" : 2,
+        "item" : "Soundview Park"
+      }, {
+        "count" : 1,
+        "item" : "Sheepshead Playground"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071801,
+    "name" : "School Number",
+    "dataTypeName" : "text",
+    "fieldName" : "school_number",
+    "position" : 31,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568792,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 1782857,
+      "smallest" : "001",
+      "null" : 276,
+      "largest" : "X336",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Unspecified"
+      }, {
+        "count" : 19,
+        "item" : "M010"
+      }, {
+        "count" : 18,
+        "item" : "B073"
+      }, {
+        "count" : 17,
+        "item" : "M005"
+      }, {
+        "count" : 16,
+        "item" : "M235"
+      }, {
+        "count" : 15,
+        "item" : "M088"
+      }, {
+        "count" : 14,
+        "item" : "Q162"
+      }, {
+        "count" : 13,
+        "item" : "M056"
+      }, {
+        "count" : 12,
+        "item" : "X118"
+      }, {
+        "count" : 11,
+        "item" : "B239"
+      }, {
+        "count" : 10,
+        "item" : "M144"
+      }, {
+        "count" : 9,
+        "item" : "104"
+      }, {
+        "count" : 8,
+        "item" : "B040"
+      }, {
+        "count" : 7,
+        "item" : "620"
+      }, {
+        "count" : 6,
+        "item" : "Q141"
+      }, {
+        "count" : 5,
+        "item" : "723"
+      }, {
+        "count" : 4,
+        "item" : "178"
+      }, {
+        "count" : 3,
+        "item" : "209"
+      }, {
+        "count" : 2,
+        "item" : "860"
+      }, {
+        "count" : 1,
+        "item" : "X010A"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071802,
+    "name" : "School Region",
+    "dataTypeName" : "text",
+    "fieldName" : "school_region",
+    "position" : 32,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568793,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 1774919,
+      "smallest" : "Alternative Superintendency",
+      "null" : 8214,
+      "largest" : "Unspecified",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Unspecified"
+      }, {
+        "count" : 19,
+        "item" : "Region 3"
+      }, {
+        "count" : 18,
+        "item" : "Region 2"
+      }, {
+        "count" : 17,
+        "item" : "Region 1"
+      }, {
+        "count" : 16,
+        "item" : "Region 9"
+      }, {
+        "count" : 15,
+        "item" : "Region 4"
+      }, {
+        "count" : 14,
+        "item" : "Region 10"
+      }, {
+        "count" : 13,
+        "item" : "Region 7"
+      }, {
+        "count" : 12,
+        "item" : "Region 6"
+      }, {
+        "count" : 11,
+        "item" : "Region 5"
+      }, {
+        "count" : 10,
+        "item" : "Alternative Superintendency"
+      }, {
+        "count" : 9,
+        "item" : "Region 8"
+      }, {
+        "count" : 8,
+        "item" : "District 75"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071803,
+    "name" : "School Code",
+    "dataTypeName" : "text",
+    "fieldName" : "school_code",
+    "position" : 33,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568794,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 1774926,
+      "smallest" : "01M015",
+      "null" : 8207,
+      "largest" : "X319",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Unspecified"
+      }, {
+        "count" : 19,
+        "item" : "11X194"
+      }, {
+        "count" : 18,
+        "item" : "11X542"
+      }, {
+        "count" : 17,
+        "item" : "25Q244"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071804,
+    "name" : "School Phone Number",
+    "dataTypeName" : "text",
+    "fieldName" : "school_phone_number",
+    "position" : 34,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568795,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 1783133,
+      "smallest" : "2122096006",
+      "null" : 0,
+      "largest" : "Unspecified",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Unspecified"
+      }, {
+        "count" : 19,
+        "item" : "2124080100"
+      }, {
+        "count" : 18,
+        "item" : "7189658900"
+      }, {
+        "count" : 17,
+        "item" : "7185205900"
+      }, {
+        "count" : 16,
+        "item" : "7184301800"
+      }, {
+        "count" : 15,
+        "item" : "NA 0/0"
+      }, {
+        "count" : 14,
+        "item" : "7189658999"
+      }, {
+        "count" : 13,
+        "item" : "2124080250"
+      }, {
+        "count" : 12,
+        "item" : "7183908000"
+      }, {
+        "count" : 11,
+        "item" : "7184301890"
+      }, {
+        "count" : 10,
+        "item" : "7188925270"
+      }, {
+        "count" : 9,
+        "item" : "7184301833"
+      }, {
+        "count" : 8,
+        "item" : "7185438672"
+      }, {
+        "count" : 7,
+        "item" : "7188823815"
+      }, {
+        "count" : 6,
+        "item" : "7184462120"
+      }, {
+        "count" : 5,
+        "item" : "2127573067"
+      }, {
+        "count" : 4,
+        "item" : "7187842252"
+      }, {
+        "count" : 3,
+        "item" : "7183271910"
+      }, {
+        "count" : 2,
+        "item" : "7183325000"
+      }, {
+        "count" : 1,
+        "item" : "7183201222"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071805,
+    "name" : "School Address",
+    "dataTypeName" : "text",
+    "fieldName" : "school_address",
+    "position" : 35,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568796,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 1783133,
+      "smallest" : "100-00 Beach Channel Drive",
+      "null" : 0,
+      "largest" : "Zerega, Commerce, Gleason, and Powell Avenues",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Unspecified"
+      }, {
+        "count" : 19,
+        "item" : "5th Avenue to Central Park West, 59th to 110th Streets"
+      }, {
+        "count" : 18,
+        "item" : "93rd Street and Central Park West"
+      }, {
+        "count" : 17,
+        "item" : "Battery Place, State and Whitehall Streets"
+      }, {
+        "count" : 16,
+        "item" : "Avenues A to B, East 7th to 10th Streets"
+      }, {
+        "count" : 15,
+        "item" : "Beach 3rd to 148th Streets"
+      }, {
+        "count" : 14,
+        "item" : "West 110th to 123rd Streets, Manhattan Avenue to Morningside Drive"
+      }, {
+        "count" : 13,
+        "item" : "Riverside Drive to Hudson River, West 59th Street to Clair Place"
+      }, {
+        "count" : 12,
+        "item" : "3rd to 4th Streets, 4th to 5th Avenues"
+      }, {
+        "count" : 11,
+        "item" : "North Guy Brewer Boulevard and 134th Avenue"
+      }, {
+        "count" : 10,
+        "item" : "Richmond Avenue to Victory Boulevard"
+      }, {
+        "count" : 9,
+        "item" : "323 East 91St Street"
+      }, {
+        "count" : 8,
+        "item" : "Broadway, Henry Street, Samuel Dickstein Place"
+      }, {
+        "count" : 7,
+        "item" : "West 76th Street and Riverside Drive"
+      }, {
+        "count" : 6,
+        "item" : "Stanley Avenue and Linden Boulevard"
+      }, {
+        "count" : 5,
+        "item" : "Fulton, East Tremont and Arthur Avenues"
+      }, {
+        "count" : 4,
+        "item" : "Sharon and Olive Streets, Maspeth and Morgan Avenues"
+      }, {
+        "count" : 3,
+        "item" : "40-01 43 Avenue"
+      }, {
+        "count" : 2,
+        "item" : "Bronx River Parkway, Lafayette, Metcalf, Bronx River Avenues"
+      }, {
+        "count" : 1,
+        "item" : "Avenue Z and Nostrand Avenue and East 29th Street"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071806,
+    "name" : "School City",
+    "dataTypeName" : "text",
+    "fieldName" : "school_city",
+    "position" : 36,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568797,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 1783133,
+      "smallest" : "ARVERNE",
+      "null" : 0,
+      "largest" : "WOODSIDE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Unspecified"
+      }, {
+        "count" : 19,
+        "item" : "NEW YORK"
+      }, {
+        "count" : 18,
+        "item" : "BROOKLYN"
+      }, {
+        "count" : 17,
+        "item" : "FLUSHING"
+      }, {
+        "count" : 16,
+        "item" : "BRONX"
+      }, {
+        "count" : 15,
+        "item" : "FOREST HILLS"
+      }, {
+        "count" : 14,
+        "item" : "MIDDLE VILLAGE"
+      }, {
+        "count" : 13,
+        "item" : "JAMAICA"
+      }, {
+        "count" : 12,
+        "item" : "STATEN ISLAND"
+      }, {
+        "count" : 11,
+        "item" : "SPRINGFIELD GARDENS"
+      }, {
+        "count" : 10,
+        "item" : "FRESH MEADOWS"
+      }, {
+        "count" : 9,
+        "item" : "ASTORIA"
+      }, {
+        "count" : 8,
+        "item" : "BAYSIDE"
+      }, {
+        "count" : 7,
+        "item" : "BELLEROSE"
+      }, {
+        "count" : 6,
+        "item" : "CORONA"
+      }, {
+        "count" : 5,
+        "item" : "ELMHURST"
+      }, {
+        "count" : 4,
+        "item" : "ROCKAWAY PARK"
+      }, {
+        "count" : 3,
+        "item" : "WHITESTONE"
+      }, {
+        "count" : 2,
+        "item" : "OAKLAND GARDENS"
+      }, {
+        "count" : 1,
+        "item" : "ARVERNE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071807,
+    "name" : "School State",
+    "dataTypeName" : "text",
+    "fieldName" : "school_state",
+    "position" : 37,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568798,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 1783133,
+      "smallest" : "NY",
+      "null" : 0,
+      "largest" : "Unspecified",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Unspecified"
+      }, {
+        "count" : 19,
+        "item" : "NY"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071808,
+    "name" : "School Zip",
+    "dataTypeName" : "text",
+    "fieldName" : "school_zip",
+    "position" : 38,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568799,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 1783133,
+      "smallest" : "10001",
+      "null" : 0,
+      "largest" : "Unspecified",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Unspecified"
+      }, {
+        "count" : 19,
+        "item" : "10023"
+      }, {
+        "count" : 18,
+        "item" : "10021"
+      }, {
+        "count" : 17,
+        "item" : "11215"
+      }, {
+        "count" : 16,
+        "item" : "11211"
+      }, {
+        "count" : 15,
+        "item" : "10002"
+      }, {
+        "count" : 14,
+        "item" : "10039"
+      }, {
+        "count" : 13,
+        "item" : "10467"
+      }, {
+        "count" : 12,
+        "item" : "10462"
+      }, {
+        "count" : 11,
+        "item" : "10461"
+      }, {
+        "count" : 10,
+        "item" : "11692"
+      }, {
+        "count" : 9,
+        "item" : "10025"
+      }, {
+        "count" : 8,
+        "item" : "10456"
+      }, {
+        "count" : 7,
+        "item" : "10473"
+      }, {
+        "count" : 6,
+        "item" : "10004"
+      }, {
+        "count" : 5,
+        "item" : "10009"
+      }, {
+        "count" : 4,
+        "item" : "10026"
+      }, {
+        "count" : 3,
+        "item" : "10304"
+      }, {
+        "count" : 2,
+        "item" : "11217"
+      }, {
+        "count" : 1,
+        "item" : "11434"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071809,
+    "name" : "School Not Found",
+    "dataTypeName" : "text",
+    "fieldName" : "school_not_found",
+    "position" : 39,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568800,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 5110,
+      "smallest" : "N",
+      "null" : 1778023,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071810,
+    "name" : "School or Citywide Complaint",
+    "dataTypeName" : "text",
+    "fieldName" : "school_or_citywide_complaint",
+    "position" : 40,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568801,
+    "width" : 436,
+    "cachedContents" : {
+      "non_null" : 4489,
+      "smallest" : "Citywide Complaint",
+      "null" : 1778644,
+      "largest" : "School",
+      "top" : [ {
+        "count" : 20,
+        "item" : "School"
+      }, {
+        "count" : 19,
+        "item" : "Citywide Complaint"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071811,
+    "name" : "Vehicle Type",
+    "dataTypeName" : "text",
+    "fieldName" : "vehicle_type",
+    "position" : 41,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568802,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 1691,
+      "smallest" : "Ambulette / Paratransit",
+      "null" : 1781442,
+      "largest" : "Commuter Van",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Car Service"
+      }, {
+        "count" : 19,
+        "item" : "Commuter Van"
+      }, {
+        "count" : 18,
+        "item" : "Ambulette / Paratransit"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071812,
+    "name" : "Taxi Company Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "taxi_company_borough",
+    "position" : 42,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568803,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 1389,
+      "smallest" : "BRONX",
+      "null" : 1781744,
+      "largest" : "STATEN ISLAND",
+      "top" : [ {
+        "count" : 20,
+        "item" : "MANHATTAN"
+      }, {
+        "count" : 19,
+        "item" : "QUEENS"
+      }, {
+        "count" : 18,
+        "item" : "BRONX"
+      }, {
+        "count" : 17,
+        "item" : "STATEN ISLAND"
+      }, {
+        "count" : 16,
+        "item" : "BROOKLYN"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071813,
+    "name" : "Taxi Pick Up Location",
+    "dataTypeName" : "text",
+    "fieldName" : "taxi_pick_up_location",
+    "position" : 43,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568804,
+    "width" : 352,
+    "cachedContents" : {
+      "non_null" : 18482,
+      "smallest" : "Grand Central Station",
+      "null" : 1764651,
+      "largest" : "Port Authority Bus Terminal",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Intersection"
+      }, {
+        "count" : 19,
+        "item" : "Other"
+      }, {
+        "count" : 18,
+        "item" : "JFK Airport"
+      }, {
+        "count" : 17,
+        "item" : "New York-Penn Station"
+      }, {
+        "count" : 16,
+        "item" : "La Guardia Airport"
+      }, {
+        "count" : 15,
+        "item" : "Port Authority Bus Terminal"
+      }, {
+        "count" : 14,
+        "item" : "Grand Central Station"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071814,
+    "name" : "Bridge Highway Name",
+    "dataTypeName" : "text",
+    "fieldName" : "bridge_highway_name",
+    "position" : 44,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568805,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 4002,
+      "smallest" : "145th St. Br - Lenox Ave",
+      "null" : 1779131,
+      "largest" : "Willis Ave Br - 125th St/1st Ave",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BQE/Gowanus Expwy"
+      }, {
+        "count" : 19,
+        "item" : "Grand Central Pkwy"
+      }, {
+        "count" : 18,
+        "item" : "Bronx River Pkwy"
+      }, {
+        "count" : 17,
+        "item" : "Long Island Expwy"
+      }, {
+        "count" : 16,
+        "item" : "Brooklyn Br"
+      }, {
+        "count" : 15,
+        "item" : "Queensboro/59th St Br"
+      }, {
+        "count" : 14,
+        "item" : "Staten Island Expwy"
+      }, {
+        "count" : 13,
+        "item" : "Manhattan Br"
+      }, {
+        "count" : 12,
+        "item" : "Van Wyck Expwy"
+      }, {
+        "count" : 11,
+        "item" : "Belt Pkwy"
+      }, {
+        "count" : 10,
+        "item" : "FDR Dr"
+      }, {
+        "count" : 9,
+        "item" : "Whitestone Expwy"
+      }, {
+        "count" : 8,
+        "item" : "Williamsburg Br"
+      }, {
+        "count" : 7,
+        "item" : "Bruckner Expwy"
+      }, {
+        "count" : 6,
+        "item" : "Major Deegan Expwy"
+      }, {
+        "count" : 5,
+        "item" : "Cross Bronx Expwy"
+      }, {
+        "count" : 4,
+        "item" : "Cross Island Pkwy"
+      }, {
+        "count" : 3,
+        "item" : "Henry Hudson Pkwy/Rt 9A"
+      }, {
+        "count" : 2,
+        "item" : "Harlem River Dr"
+      }, {
+        "count" : 1,
+        "item" : "Mill Basin Br - Belt Pkwy"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071815,
+    "name" : "Bridge Highway Direction",
+    "dataTypeName" : "text",
+    "fieldName" : "bridge_highway_direction",
+    "position" : 45,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568806,
+    "width" : 388,
+    "cachedContents" : {
+      "non_null" : 4001,
+      "smallest" : "Bronx/North Bound",
+      "null" : 1779132,
+      "largest" : "Westbound/To Goethals Br",
+      "top" : [ {
+        "count" : 20,
+        "item" : "East/Bronx Bound"
+      }, {
+        "count" : 19,
+        "item" : "West/Toward Triborough Br"
+      }, {
+        "count" : 18,
+        "item" : "Southbound"
+      }, {
+        "count" : 17,
+        "item" : "East/Long Island Bound"
+      }, {
+        "count" : 16,
+        "item" : "Brooklyn Bound"
+      }, {
+        "count" : 15,
+        "item" : "Queens Bound"
+      }, {
+        "count" : 14,
+        "item" : "Westbound/To Goethals Br"
+      }, {
+        "count" : 13,
+        "item" : "East/Queens Bound"
+      }, {
+        "count" : 12,
+        "item" : "North/Bronx Bound"
+      }, {
+        "count" : 11,
+        "item" : "Northbound"
+      }, {
+        "count" : 10,
+        "item" : "Manhattan Bound"
+      }, {
+        "count" : 9,
+        "item" : "West/Staten Island Bound"
+      }, {
+        "count" : 8,
+        "item" : "West Bound"
+      }, {
+        "count" : 7,
+        "item" : "Southbound/Downtown"
+      }, {
+        "count" : 6,
+        "item" : "Bronx Bound"
+      }, {
+        "count" : 5,
+        "item" : "South/JFK Airport Bound"
+      }, {
+        "count" : 4,
+        "item" : "Southbound/To Triborough Br"
+      }, {
+        "count" : 3,
+        "item" : "North/Westchester County Bound"
+      }, {
+        "count" : 2,
+        "item" : "East/Brooklyn Bound"
+      }, {
+        "count" : 1,
+        "item" : "South/Toward Triborough Br"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071816,
+    "name" : "Road Ramp",
+    "dataTypeName" : "text",
+    "fieldName" : "road_ramp",
+    "position" : 46,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568807,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 3999,
+      "smallest" : "N/A",
+      "null" : 1779134,
+      "largest" : "Roadway",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Roadway"
+      }, {
+        "count" : 19,
+        "item" : "Ramp"
+      }, {
+        "count" : 18,
+        "item" : "N/A"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071817,
+    "name" : "Bridge Highway Segment",
+    "dataTypeName" : "text",
+    "fieldName" : "bridge_highway_segment",
+    "position" : 47,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568808,
+    "width" : 364,
+    "cachedContents" : {
+      "non_null" : 3987,
+      "smallest" : "108th St (Exit 21)",
+      "null" : 1779146,
+      "largest" : "Wythe Ave / Kent Ave (Exit 31) - Tillary St /Manhattan Br (Exit 29)",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Ramp"
+      }, {
+        "count" : 19,
+        "item" : "Roadway"
+      }, {
+        "count" : 18,
+        "item" : "Rockaway Pkwy (Exit 13) - Flatbush Ave (Exit 11N)"
+      }, {
+        "count" : 17,
+        "item" : "N/A"
+      }, {
+        "count" : 16,
+        "item" : "East 61st St / East 63rd St (Exit 12) - East 96th St (Exit 14)"
+      }, {
+        "count" : 15,
+        "item" : "East 96th St (Exit 14) - Triborough Br (Exit 17)"
+      }, {
+        "count" : 14,
+        "item" : "Flatbush Ave (Exit 11N) - Gateway National Recreation Area (Exit 12)"
+      }, {
+        "count" : 13,
+        "item" : "Williamsburg Br / Metropolitan Ave (Exit 32) - McGuinness Blvd / Humboldt St (Exit 33)"
+      }, {
+        "count" : 12,
+        "item" : "Grand Central Pkwy (Exit 29 E-W) - Union Trnpke (Exit 28B)"
+      }, {
+        "count" : 11,
+        "item" : "Cadman Plaza West / Brooklyn Br (Exit 28) - Atlantic Ave (Exit 27)"
+      }, {
+        "count" : 10,
+        "item" : "East 96th St (Exit 14) - East 71st St (Exit 13)"
+      }, {
+        "count" : 9,
+        "item" : "East 34th St (Exit 8) - East 42nd St (Exit 9)"
+      }, {
+        "count" : 8,
+        "item" : "Bikepath"
+      }, {
+        "count" : 7,
+        "item" : "Northern Blvd (NY 25A) (Exit 13 E-W)"
+      }, {
+        "count" : 6,
+        "item" : "Meeker Ave / Morgan Ave (Exit 34) - Metropolitan Ave (Exit 32B)"
+      }, {
+        "count" : 5,
+        "item" : "Flatbush Ave (Exit 11S) - Flatbush Ave (Exit 11N)"
+      }, {
+        "count" : 4,
+        "item" : "Long Island Expwy (I-495) (Exit 35 E-W) - Queens Blvd (NY 25) (Exit 36)"
+      }, {
+        "count" : 3,
+        "item" : "East 71st St (Exit 13)"
+      }, {
+        "count" : 2,
+        "item" : "Dyckman St (Exit 17) - Cross Bronx / GWB (Exit 14)"
+      }, {
+        "count" : 1,
+        "item" : "Grand Central Pkwy / Van Wyck Expwy / College Point Blvd (Exit 22 A-E) - Main St (Exit 23)"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071818,
+    "name" : "Garage Lot Name",
+    "dataTypeName" : "text",
+    "fieldName" : "garage_lot_name",
+    "position" : 48,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568809,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 851,
+      "smallest" : "Astoria Field",
+      "null" : 1782282,
+      "largest" : "White Plains Road  Field",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Sunnyside Field"
+      }, {
+        "count" : 19,
+        "item" : "Flushing #3 Field"
+      }, {
+        "count" : 18,
+        "item" : "Stapleton Field"
+      }, {
+        "count" : 17,
+        "item" : "Steinway #1 and #2 Field"
+      }, {
+        "count" : 16,
+        "item" : "Broome and Ludlow Field"
+      }, {
+        "count" : 15,
+        "item" : "Leonard St Field"
+      }, {
+        "count" : 14,
+        "item" : "Flushing #1 Field"
+      }, {
+        "count" : 13,
+        "item" : "St. George Field"
+      }, {
+        "count" : 12,
+        "item" : "New Dorp Field"
+      }, {
+        "count" : 11,
+        "item" : "Flushing #2 Field"
+      }, {
+        "count" : 10,
+        "item" : "Ave M Field"
+      }, {
+        "count" : 9,
+        "item" : "Jerome-Gun Hill Road Garage"
+      }, {
+        "count" : 8,
+        "item" : "SI Ferry Terminal"
+      }, {
+        "count" : 7,
+        "item" : "Ditmars #1 and #2 Field"
+      }, {
+        "count" : 6,
+        "item" : "College Point Field"
+      }, {
+        "count" : 5,
+        "item" : "Brighton Beach Field"
+      }, {
+        "count" : 4,
+        "item" : "Sheepshead Bay #2 Field"
+      }, {
+        "count" : 3,
+        "item" : "Queens Village Field"
+      }, {
+        "count" : 2,
+        "item" : "Far Rockaway #2 Field"
+      }, {
+        "count" : 1,
+        "item" : "Bensonhurst #2 Field"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071819,
+    "name" : "Ferry Direction",
+    "dataTypeName" : "text",
+    "fieldName" : "ferry_direction",
+    "position" : 49,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568810,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 839,
+      "smallest" : "Manhattan Bound",
+      "null" : 1782294,
+      "largest" : "Staten Island Bound",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Manhattan Bound"
+      }, {
+        "count" : 19,
+        "item" : "N/A"
+      }, {
+        "count" : 18,
+        "item" : "Staten Island Bound"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071820,
+    "name" : "Ferry Terminal Name",
+    "dataTypeName" : "text",
+    "fieldName" : "ferry_terminal_name",
+    "position" : 50,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568811,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 1195,
+      "smallest" : "59 ST SENIOR COMMUNITY CENTER INC",
+      "null" : 1781938,
+      "largest" : "YOUNG ISRAEL OF MIDWOOD SENIOR CENTER",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Unknown"
+      }, {
+        "count" : 19,
+        "item" : "Whitehall Terminal (Manhattan)"
+      }, {
+        "count" : 18,
+        "item" : "N/A"
+      }, {
+        "count" : 17,
+        "item" : "St. George Terminal (Staten Island)"
+      }, {
+        "count" : 16,
+        "item" : "Molinari"
+      }, {
+        "count" : 15,
+        "item" : "Newhouse"
+      }, {
+        "count" : 14,
+        "item" : "Spirit of America"
+      }, {
+        "count" : 13,
+        "item" : "Kennedy"
+      }, {
+        "count" : 12,
+        "item" : "American Legion"
+      }, {
+        "count" : 11,
+        "item" : "A PHILIP RANDOLPH SENIOR CENTER"
+      }, {
+        "count" : 10,
+        "item" : "Barberi"
+      }, {
+        "count" : 9,
+        "item" : "Marchi"
+      }, {
+        "count" : 8,
+        "item" : "NEWTOWN ITALIAN SENIOR CENTER"
+      }, {
+        "count" : 7,
+        "item" : "Noble"
+      }, {
+        "count" : 6,
+        "item" : "LENOX HILL SENIOR CENTER - EAST 70TH STREET"
+      }, {
+        "count" : 5,
+        "item" : "CENTRAL HARLEM SENIOR CENTER"
+      }, {
+        "count" : 4,
+        "item" : "MOTT STREET SENIOR CENTER"
+      }, {
+        "count" : 3,
+        "item" : "BORO PARK YMHA-YWHA SENIOR CENTER"
+      }, {
+        "count" : 2,
+        "item" : "CATHOLIC CHARITIES NEIGHBORHOOD SERVICES (CCNS) DELLAMONICA SENIOR CENTER"
+      }, {
+        "count" : 1,
+        "item" : "Lehman"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071821,
+    "name" : "Latitude",
+    "dataTypeName" : "number",
+    "fieldName" : "latitude",
+    "position" : 51,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1568812,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 1651563,
+      "smallest" : "40.49862773316935",
+      "sum" : "67270913.242506967146516",
+      "null" : 131570,
+      "average" : "40.73166645323670",
+      "largest" : "40.912868792260795",
+      "top" : [ {
+        "count" : 20,
+        "item" : "40.84825089410784"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071822,
+    "name" : "Longitude",
+    "dataTypeName" : "number",
+    "fieldName" : "longitude",
+    "position" : 52,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1568813,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 1651563,
+      "smallest" : "-74.25493722035226",
+      "sum" : "-122088501.06829961241849",
+      "null" : 131570,
+      "average" : "-73.92300570326389",
+      "largest" : "-73.70038354802529",
+      "top" : [ {
+        "count" : 20,
+        "item" : "-73.91694985680124"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3071823,
+    "name" : "Location",
+    "dataTypeName" : "location",
+    "fieldName" : "location",
+    "position" : 53,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1568814,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 1651563,
+      "smallest" : {
+        "longitude" : "-73.95806621423951",
+        "latitude" : "40.65662129596871"
+      },
+      "null" : 131570,
+      "largest" : {
+        "longitude" : "-73.91694985680124",
+        "latitude" : "40.84825089410784"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.91694985680124",
+          "latitude" : "40.84825089410784"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Historical Data"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "i7d8-sc4w",
+    "displayName" : "Chris Metcalf",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/3353/3169/project_managing_reasonably_sized_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3353/3169/project_managing_reasonably_sized_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3353/3169/project_managing_reasonably_sized_tiny.jpg",
+    "profileLastModified" : 1360171451,
+    "screenName" : "Chris Metcalf",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ],
+    "flags" : [ "admin" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i7d8-sc4w",
+    "displayName" : "Chris Metcalf",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/3353/3169/project_managing_reasonably_sized_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3353/3169/project_managing_reasonably_sized_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3353/3169/project_managing_reasonably_sized_tiny.jpg",
+    "profileLastModified" : 1360171451,
+    "screenName" : "Chris Metcalf",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ],
+    "flags" : [ "admin" ]
+  },
+  "tags" : [ "311", "311 service requests", "2009", "all service requests" ],
+  "flags" : [ "default" ]
+}

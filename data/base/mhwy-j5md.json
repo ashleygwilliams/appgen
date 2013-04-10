@@ -1,0 +1,349 @@
+{
+  "id" : "mhwy-j5md",
+  "name" : "Public Health Insurance Enrollment Sites",
+  "attribution" : "Office of Citywide Health Insurance Access (HIA)",
+  "averageRating" : 0,
+  "createdAt" : 1311776323,
+  "description" : "List of NYC public health insurance enrollment sites",
+  "displayType" : "table",
+  "downloadCount" : 60,
+  "numberOfComments" : 0,
+  "oid" : 342270,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318115900,
+  "publicationGroup" : 238854,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318115873,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 244125,
+  "totalTimesRated" : 0,
+  "viewCount" : 77,
+  "viewLastModified" : 1363713600,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2989023,
+    "name" : "Facility",
+    "dataTypeName" : "text",
+    "fieldName" : "facility",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502042,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 50,
+      "smallest" : "Affinity Health Plan",
+      "null" : 0,
+      "largest" : "Yeled V' Yalda",
+      "top" : [ {
+        "count" : 20,
+        "item" : "AmeriChoice by UnitedHealthcare"
+      }, {
+        "count" : 19,
+        "item" : "Amerigroup Community Care"
+      }, {
+        "count" : 18,
+        "item" : "Fidelis Care NY"
+      }, {
+        "count" : 17,
+        "item" : "HealthFirst"
+      }, {
+        "count" : 16,
+        "item" : "Health Plus"
+      }, {
+        "count" : 15,
+        "item" : "Health Insurance Plan of New York (HIP)"
+      }, {
+        "count" : 14,
+        "item" : "MetroPlus Health Plan"
+      }, {
+        "count" : 13,
+        "item" : "Neighborhood Health Providers"
+      }, {
+        "count" : 12,
+        "item" : "WellCare, Inc."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989024,
+    "name" : "Zip code",
+    "dataTypeName" : "number",
+    "fieldName" : "zip_code",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502043,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 50,
+      "smallest" : "10001",
+      "sum" : "531010",
+      "null" : 0,
+      "average" : "10620.2",
+      "largest" : "11692",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11217"
+      }, {
+        "count" : 19,
+        "item" : "10031"
+      }, {
+        "count" : 18,
+        "item" : "10301"
+      }, {
+        "count" : 17,
+        "item" : "10005"
+      }, {
+        "count" : 16,
+        "item" : "11237"
+      }, {
+        "count" : 15,
+        "item" : "10038"
+      }, {
+        "count" : 14,
+        "item" : "10001"
+      }, {
+        "count" : 13,
+        "item" : "10011"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 2989025,
+    "name" : "Telephone",
+    "dataTypeName" : "text",
+    "fieldName" : "telephone",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502044,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 50,
+      "smallest" : "(212) 233-8955",
+      "null" : 0,
+      "largest" : "800-826-6240",
+      "top" : [ {
+        "count" : 20,
+        "item" : "(800) 493-4647"
+      }, {
+        "count" : 19,
+        "item" : "(800) 600-4441"
+      }, {
+        "count" : 18,
+        "item" : "(888) 343-3547"
+      }, {
+        "count" : 17,
+        "item" : "(800) 404-8778"
+      }, {
+        "count" : 16,
+        "item" : "(888) 809-8009"
+      }, {
+        "count" : 15,
+        "item" : "(800) 542-2412"
+      }, {
+        "count" : 14,
+        "item" : "(800) 475-6387"
+      }, {
+        "count" : 13,
+        "item" : "800-826-6240"
+      }, {
+        "count" : 12,
+        "item" : "(800) 992-6095"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989026,
+    "name" : "Website",
+    "dataTypeName" : "text",
+    "fieldName" : "website",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502045,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 49,
+      "smallest" : "www.addabbo.org",
+      "null" : 1,
+      "largest" : "www.yeled.org",
+      "top" : [ {
+        "count" : 20,
+        "item" : "www.nyc.gov/hra"
+      }, {
+        "count" : 19,
+        "item" : "www.alianzadom.org"
+      }, {
+        "count" : 18,
+        "item" : "www.bpnetwork.org   "
+      }, {
+        "count" : 17,
+        "item" : "www.childrensaidsociety.org"
+      }, {
+        "count" : 16,
+        "item" : "www.hispanicfederation.org"
+      }, {
+        "count" : 15,
+        "item" : "www.sijcc.org/community"
+      }, {
+        "count" : 14,
+        "item" : "www.addabbo.org"
+      }, {
+        "count" : 13,
+        "item" : "www.maketheroad.org"
+      }, {
+        "count" : 12,
+        "item" : "www.metcouncil.org"
+      }, {
+        "count" : 11,
+        "item" : "www.mhhc.org"
+      }, {
+        "count" : 10,
+        "item" : "www.healthsolutions.org"
+      }, {
+        "count" : 9,
+        "item" : "www.safespacenyc.org"
+      }, {
+        "count" : 8,
+        "item" : "www.seedco.org"
+      }, {
+        "count" : 7,
+        "item" : "www.yeled.org"
+      }, {
+        "count" : 6,
+        "item" : "www.nyc.gov/health"
+      }, {
+        "count" : 5,
+        "item" : "www.affinityplan.org"
+      }, {
+        "count" : 4,
+        "item" : "www.americhoice.com"
+      }, {
+        "count" : 3,
+        "item" : "www.amerigroupcorp.com"
+      }, {
+        "count" : 2,
+        "item" : "www.fideliscare.org"
+      }, {
+        "count" : 1,
+        "item" : "www.healthfirstny.com"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989027,
+    "name" : "Location 1",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 6,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1502046,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 46,
+      "smallest" : {
+        "longitude" : "-73.99250883300391",
+        "latitude" : "40.737500807491074",
+        "human_address" : "{\"address\":\"110 Fifth Avenue\",\"city\":\"New York\",\"state\":\"New York\",\"zip\":\"\"}"
+      },
+      "null" : 4,
+      "largest" : {
+        "longitude" : "-73.85259799999767",
+        "latitude" : "40.75257899982097",
+        "human_address" : "{\"address\":\"96 01 43rd Avenue\",\"city\":\"Corona\",\"state\":\"New York\",\"zip\":\"\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.99353870117261",
+          "latitude" : "40.594047085721755",
+          "human_address" : "{\"address\":\"241 37th Street\",\"city\":\"Brooklyn\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-74.00899848445475",
+          "latitude" : "40.70402753702807",
+          "human_address" : "{\"address\":\"55 Water Street\",\"city\":\"New York\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-74.00551302954756",
+          "latitude" : "40.706510170361355",
+          "human_address" : "{\"address\":\"160 Water Street\",\"city\":\"New York\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.98022409408367",
+          "latitude" : "40.75438108198102",
+          "human_address" : "{\"address\":\"521 Fifth Avenue\",\"city\":\"New York\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.99250883300391",
+          "latitude" : "40.737500807491074",
+          "human_address" : "{\"address\":\"110 Fifth Avenue\",\"city\":\"New York\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "jobs and economic mobility", "health", "insurance", "insure", "enroll", "enrollment", "access", "site", "ochia" ],
+  "flags" : [ "default" ]
+}

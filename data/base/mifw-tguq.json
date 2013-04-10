@@ -1,0 +1,941 @@
+{
+  "id" : "mifw-tguq",
+  "name" : "Voting/Poll Sites AS OF 09/21/2012",
+  "attribution" : "Board of Elections (BOENY)",
+  "averageRating" : 0,
+  "category" : "Facilities and Structures",
+  "createdAt" : 1350584130,
+  "description" : "Locations of voting/poll sites through the city. This data is correct as of 9/21/2012. Please note that this information may not be up-to-date.",
+  "displayType" : "table",
+  "downloadCount" : 56,
+  "numberOfComments" : 0,
+  "oid" : 1336822,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1350584271,
+  "publicationGroup" : 454724,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1350584137,
+  "rowsUpdatedBy" : "x539-akqs",
+  "signed" : false,
+  "tableId" : 454724,
+  "totalTimesRated" : 0,
+  "viewCount" : 47,
+  "viewLastModified" : 1360948521,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 22870766,
+    "name" : "SITE_NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "site_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4573914,
+    "width" : 170,
+    "cachedContents" : {
+      "non_null" : 1470,
+      "smallest" : "\"Sherwood Village \"\"C\"\"\"",
+      "null" : 0,
+      "largest" : "Zion-St Marks Church",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Sutton Place Synagogue"
+      }, {
+        "count" : 19,
+        "item" : "Downstate SUNY Medical Center"
+      }, {
+        "count" : 18,
+        "item" : "PS 971"
+      }, {
+        "count" : 17,
+        "item" : "St. Agatha"
+      }, {
+        "count" : 16,
+        "item" : "Ocean Hill Community Center"
+      }, {
+        "count" : 15,
+        "item" : "Cortelyou Branch Library"
+      }, {
+        "count" : 14,
+        "item" : "Midwood Branch Library"
+      }, {
+        "count" : 13,
+        "item" : "Park Slope YMCA"
+      }, {
+        "count" : 12,
+        "item" : "Beach Channel HS"
+      }, {
+        "count" : 11,
+        "item" : "Chinese Christian Herald Crusades"
+      }, {
+        "count" : 10,
+        "item" : "Ridgewood Presbyterian Church"
+      }, {
+        "count" : 9,
+        "item" : "St. Margaret's RC Church"
+      }, {
+        "count" : 8,
+        "item" : "Arverne Pilgrim Church"
+      }, {
+        "count" : 7,
+        "item" : "PS 14"
+      }, {
+        "count" : 6,
+        "item" : "Castleton Park Apartments"
+      }, {
+        "count" : 5,
+        "item" : "Richmond Terrace Community Center"
+      }, {
+        "count" : 4,
+        "item" : "PS 98"
+      }, {
+        "count" : 3,
+        "item" : "UASBYW"
+      }, {
+        "count" : 2,
+        "item" : "St Stephen of Hungary Parish"
+      }, {
+        "count" : 1,
+        "item" : "PS 184M"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 22870767,
+    "name" : "SITE_NUMBER",
+    "dataTypeName" : "text",
+    "fieldName" : "site_number",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4573915,
+    "width" : 128,
+    "cachedContents" : {
+      "non_null" : 1470,
+      "smallest" : "00001",
+      "null" : 0,
+      "largest" : "X0237",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11242"
+      }, {
+        "count" : 19,
+        "item" : "11244"
+      }, {
+        "count" : 18,
+        "item" : "11245"
+      }, {
+        "count" : 17,
+        "item" : "11246"
+      }, {
+        "count" : 16,
+        "item" : "11248"
+      }, {
+        "count" : 15,
+        "item" : "11249"
+      }, {
+        "count" : 14,
+        "item" : "11250"
+      }, {
+        "count" : 13,
+        "item" : "11251"
+      }, {
+        "count" : 12,
+        "item" : "11210"
+      }, {
+        "count" : 11,
+        "item" : "11213"
+      }, {
+        "count" : 10,
+        "item" : "11238"
+      }, {
+        "count" : 9,
+        "item" : "11239"
+      }, {
+        "count" : 8,
+        "item" : "11258"
+      }, {
+        "count" : 7,
+        "item" : "11240"
+      }, {
+        "count" : 6,
+        "item" : "11247"
+      }, {
+        "count" : 5,
+        "item" : "11259"
+      }, {
+        "count" : 4,
+        "item" : "11161"
+      }, {
+        "count" : 3,
+        "item" : "11255"
+      }, {
+        "count" : 2,
+        "item" : "11256"
+      }, {
+        "count" : 1,
+        "item" : "11260"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 22870768,
+    "name" : "VOTER_ENTRANCE",
+    "dataTypeName" : "text",
+    "fieldName" : "voter_entrance",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4573916,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 1470,
+      "smallest" : "\"Behind school-path on right of building, then left\"",
+      "null" : 0,
+      "largest" : "West 76th Street",
+      "top" : [ {
+        "count" : 20,
+        "item" : "225 East 51 Street"
+      }, {
+        "count" : 19,
+        "item" : "691 92 Street"
+      }, {
+        "count" : 18,
+        "item" : "6214 4 Avenue"
+      }, {
+        "count" : 17,
+        "item" : "736 48 Street"
+      }, {
+        "count" : 16,
+        "item" : "305 Macdougal Street"
+      }, {
+        "count" : 15,
+        "item" : "1305 Cortelyou Road"
+      }, {
+        "count" : 14,
+        "item" : "975 East 16th Street"
+      }, {
+        "count" : 13,
+        "item" : "361 15th Street"
+      }, {
+        "count" : 12,
+        "item" : "100-00 Beach Channel Drive"
+      }, {
+        "count" : 11,
+        "item" : "156-03 Horace Harding Expwy"
+      }, {
+        "count" : 10,
+        "item" : "59-14 70 Avenue"
+      }, {
+        "count" : 9,
+        "item" : "66-05 79 Place"
+      }, {
+        "count" : 8,
+        "item" : "74-16 Beach Channel Drive"
+      }, {
+        "count" : 7,
+        "item" : "100 Tompkins Avenue"
+      }, {
+        "count" : 6,
+        "item" : "185 St. Marks Place"
+      }, {
+        "count" : 5,
+        "item" : "71 Jersey Street"
+      }, {
+        "count" : 4,
+        "item" : "530 West 212 Street"
+      }, {
+        "count" : 3,
+        "item" : "81 New Street"
+      }, {
+        "count" : 2,
+        "item" : "414 East 82 Street"
+      }, {
+        "count" : 1,
+        "item" : "327 Cherry Street"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 22870769,
+    "name" : "HANDICAP_ENTRANCE",
+    "dataTypeName" : "text",
+    "fieldName" : "handicap_entrance",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4573917,
+    "width" : 237,
+    "cachedContents" : {
+      "non_null" : 1469,
+      "smallest" : "\"93 Street, School Yard\"",
+      "null" : 1,
+      "largest" : "Yates Avenue",
+      "top" : [ {
+        "count" : 20,
+        "item" : "225 East 51 Street"
+      }, {
+        "count" : 19,
+        "item" : "6214 4 Avenue"
+      }, {
+        "count" : 18,
+        "item" : "736 48 Street"
+      }, {
+        "count" : 17,
+        "item" : "305 Macdougal Street"
+      }, {
+        "count" : 16,
+        "item" : "1305 Cortelyou Road"
+      }, {
+        "count" : 15,
+        "item" : "975 East 16th Street"
+      }, {
+        "count" : 14,
+        "item" : "361 15th Street"
+      }, {
+        "count" : 13,
+        "item" : "100-00 Beach Channel Drive"
+      }, {
+        "count" : 12,
+        "item" : "156-03 Horace Harding Expwy"
+      }, {
+        "count" : 11,
+        "item" : "59-14 70 Avenue"
+      }, {
+        "count" : 10,
+        "item" : "66-05 79 Place"
+      }, {
+        "count" : 9,
+        "item" : "74-16 Beach Channel Drive"
+      }, {
+        "count" : 8,
+        "item" : "10 Hill Street"
+      }, {
+        "count" : 7,
+        "item" : "185 St. Marks Place"
+      }, {
+        "count" : 6,
+        "item" : "71 Jersey Street"
+      }, {
+        "count" : 5,
+        "item" : "530 West 212 Street"
+      }, {
+        "count" : 4,
+        "item" : "5 Beaver Street"
+      }, {
+        "count" : 3,
+        "item" : "414 East 82 Street"
+      }, {
+        "count" : 2,
+        "item" : "327 Cherry Street"
+      }, {
+        "count" : 1,
+        "item" : "1702 60th Street"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 22870770,
+    "name" : "STREET_NUMBER",
+    "dataTypeName" : "text",
+    "fieldName" : "street_number",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4573918,
+    "width" : 166,
+    "cachedContents" : {
+      "non_null" : 1470,
+      "smallest" : "1",
+      "null" : 0,
+      "largest" : "Oct-45",
+      "top" : [ {
+        "count" : 20,
+        "item" : "225"
+      }, {
+        "count" : 19,
+        "item" : "691"
+      }, {
+        "count" : 18,
+        "item" : "6214"
+      }, {
+        "count" : 17,
+        "item" : "736"
+      }, {
+        "count" : 16,
+        "item" : "305"
+      }, {
+        "count" : 15,
+        "item" : "1305"
+      }, {
+        "count" : 14,
+        "item" : "975"
+      }, {
+        "count" : 13,
+        "item" : "361"
+      }, {
+        "count" : 12,
+        "item" : "100-00"
+      }, {
+        "count" : 11,
+        "item" : "156-03"
+      }, {
+        "count" : 10,
+        "item" : "59-14"
+      }, {
+        "count" : 9,
+        "item" : "66-05"
+      }, {
+        "count" : 8,
+        "item" : "74-16"
+      }, {
+        "count" : 7,
+        "item" : "100"
+      }, {
+        "count" : 6,
+        "item" : "185"
+      }, {
+        "count" : 5,
+        "item" : "71"
+      }, {
+        "count" : 4,
+        "item" : "530"
+      }, {
+        "count" : 3,
+        "item" : "81"
+      }, {
+        "count" : 2,
+        "item" : "414"
+      }, {
+        "count" : 1,
+        "item" : "327"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 22870771,
+    "name" : "STREET_NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "street_name",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4573919,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 1470,
+      "smallest" : "101 Avenue",
+      "null" : 0,
+      "largest" : "York Street",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Henry Hudson Parkway"
+      }, {
+        "count" : 19,
+        "item" : "92 Street"
+      }, {
+        "count" : 18,
+        "item" : "4 Avenue"
+      }, {
+        "count" : 17,
+        "item" : "48 Street"
+      }, {
+        "count" : 16,
+        "item" : "Mac Dougal Street"
+      }, {
+        "count" : 15,
+        "item" : "Cortelyou Road"
+      }, {
+        "count" : 14,
+        "item" : "East 16th Street"
+      }, {
+        "count" : 13,
+        "item" : "15th Street"
+      }, {
+        "count" : 12,
+        "item" : "Beach Channel Drive"
+      }, {
+        "count" : 11,
+        "item" : "Horace Harding Expwy"
+      }, {
+        "count" : 10,
+        "item" : "70 Avenue"
+      }, {
+        "count" : 9,
+        "item" : "79 Place"
+      }, {
+        "count" : 8,
+        "item" : "Tompkins Avenue"
+      }, {
+        "count" : 7,
+        "item" : "St. Marks Place"
+      }, {
+        "count" : 6,
+        "item" : "Jersey Street"
+      }, {
+        "count" : 5,
+        "item" : "West 212 Street"
+      }, {
+        "count" : 4,
+        "item" : "New Street"
+      }, {
+        "count" : 3,
+        "item" : "East 82 Street"
+      }, {
+        "count" : 2,
+        "item" : "Cherry Street"
+      }, {
+        "count" : 1,
+        "item" : "60th Street"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 22870772,
+    "name" : "STREET_SUFFIX",
+    "dataTypeName" : "text",
+    "fieldName" : "street_suffix",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4573920,
+    "width" : 94,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 1470
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 22870773,
+    "name" : "SITE_STATUS",
+    "dataTypeName" : "text",
+    "fieldName" : "site_status",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4573921,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 1470,
+      "smallest" : "A",
+      "null" : 0,
+      "largest" : "A",
+      "top" : [ {
+        "count" : 20,
+        "item" : "A"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 22870774,
+    "name" : "CITY",
+    "dataTypeName" : "text",
+    "fieldName" : "city",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4573922,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 1470,
+      "smallest" : "Arverne",
+      "null" : 0,
+      "largest" : "Woodside",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New York"
+      }, {
+        "count" : 19,
+        "item" : "Bronx"
+      }, {
+        "count" : 18,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 17,
+        "item" : "Jamaica"
+      }, {
+        "count" : 16,
+        "item" : "Forest Hills"
+      }, {
+        "count" : 15,
+        "item" : "Corona"
+      }, {
+        "count" : 14,
+        "item" : "Far Rockaway"
+      }, {
+        "count" : 13,
+        "item" : "Flushing"
+      }, {
+        "count" : 12,
+        "item" : "Woodside"
+      }, {
+        "count" : 11,
+        "item" : "Astoria"
+      }, {
+        "count" : 10,
+        "item" : "Elmhurst"
+      }, {
+        "count" : 9,
+        "item" : "East Elmhurst"
+      }, {
+        "count" : 8,
+        "item" : "Springfield Gardens"
+      }, {
+        "count" : 7,
+        "item" : "Whitestone"
+      }, {
+        "count" : 6,
+        "item" : "Jackson Heights"
+      }, {
+        "count" : 5,
+        "item" : "Fresh Meadows"
+      }, {
+        "count" : 4,
+        "item" : "Ozone Park"
+      }, {
+        "count" : 3,
+        "item" : "Ridgewood"
+      }, {
+        "count" : 2,
+        "item" : "Queens Village"
+      }, {
+        "count" : 1,
+        "item" : "South Ozone Park"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 22870775,
+    "name" : "STATE",
+    "dataTypeName" : "text",
+    "fieldName" : "state",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4573923,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 135,
+      "smallest" : "New York",
+      "null" : 1335,
+      "largest" : "NY",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NY"
+      }, {
+        "count" : 19,
+        "item" : "New York"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 22870776,
+    "name" : "ZIP_CODE",
+    "dataTypeName" : "text",
+    "fieldName" : "zip_code",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4573924,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 1470,
+      "smallest" : "10001",
+      "null" : 0,
+      "largest" : "11697",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11208"
+      }, {
+        "count" : 19,
+        "item" : "11385"
+      }, {
+        "count" : 18,
+        "item" : "10306"
+      }, {
+        "count" : 17,
+        "item" : "10312"
+      }, {
+        "count" : 16,
+        "item" : "10301"
+      }, {
+        "count" : 15,
+        "item" : "10304"
+      }, {
+        "count" : 14,
+        "item" : "10314"
+      }, {
+        "count" : 13,
+        "item" : "10305"
+      }, {
+        "count" : 12,
+        "item" : "11201"
+      }, {
+        "count" : 11,
+        "item" : "11207"
+      }, {
+        "count" : 10,
+        "item" : "11377"
+      }, {
+        "count" : 9,
+        "item" : "11210"
+      }, {
+        "count" : 8,
+        "item" : "10022"
+      }, {
+        "count" : 7,
+        "item" : "11220"
+      }, {
+        "count" : 6,
+        "item" : "11230"
+      }, {
+        "count" : 5,
+        "item" : "11215"
+      }, {
+        "count" : 4,
+        "item" : "11694"
+      }, {
+        "count" : 3,
+        "item" : "11367"
+      }, {
+        "count" : 2,
+        "item" : "11379"
+      }, {
+        "count" : 1,
+        "item" : "11692"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 22870777,
+    "name" : "LOCATION",
+    "dataTypeName" : "location",
+    "fieldName" : "location",
+    "position" : 12,
+    "renderTypeName" : "location",
+    "tableColumnId" : 4573925,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 1470,
+      "smallest" : {
+        "longitude" : "-73.941294",
+        "latitude" : "40.769624"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.862208",
+        "latitude" : "40.705516"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.992723",
+          "latitude" : "40.69513"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-74.023574",
+          "latitude" : "40.614985"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-74.01976",
+          "latitude" : "40.639571"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-74.003856",
+          "latitude" : "40.643017"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.908242",
+          "latitude" : "40.680601"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.966021",
+          "latitude" : "40.640509"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.9606",
+          "latitude" : "40.626053"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.983766",
+          "latitude" : "40.662894"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.822624",
+          "latitude" : "40.586066"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.812113",
+          "latitude" : "40.738948"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.900024",
+          "latitude" : "40.701191"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.87306",
+          "latitude" : "40.715426"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.802484",
+          "latitude" : "40.590746"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-74.078464",
+          "latitude" : "40.622369"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-74.08074",
+          "latitude" : "40.645369"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-74.088052",
+          "latitude" : "40.645751"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.917312",
+          "latitude" : "40.867936"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-74.012526",
+          "latitude" : "40.705238"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.950706",
+          "latitude" : "40.774047"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-73.986542",
+          "latitude" : "40.711548"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 22870778,
+    "name" : "BOROUGH",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4573926,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 1470,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Manhattan"
+      }, {
+        "count" : 19,
+        "item" : "Bronx"
+      }, {
+        "count" : 18,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Historical Data"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "x539-akqs",
+    "displayName" : "Andrew Nicklin",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/4798/2643/My_Photo_3_large.png",
+    "profileImageUrlMedium" : "/images/profile/4798/2643/My_Photo_3_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/4798/2643/My_Photo_3_tiny.png",
+    "profileLastModified" : 1336858132,
+    "roleName" : "administrator",
+    "screenName" : "Andrew Nicklin",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "x539-akqs",
+    "displayName" : "Andrew Nicklin",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/4798/2643/My_Photo_3_large.png",
+    "profileImageUrlMedium" : "/images/profile/4798/2643/My_Photo_3_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/4798/2643/My_Photo_3_tiny.png",
+    "profileLastModified" : 1336858132,
+    "roleName" : "administrator",
+    "screenName" : "Andrew Nicklin",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "vote", "votes", "voting", "poll", "polls", "polling", "poll site", "poll sites", "site", "sites", "election", "elections" ],
+  "flags" : [ "default" ]
+}

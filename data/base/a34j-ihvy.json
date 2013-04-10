@@ -1,0 +1,209 @@
+{
+  "id" : "a34j-ihvy",
+  "name" : "Special Waste Drop-off Sites",
+  "attribution" : "Department of Sanitation (DSNY)",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1318104800,
+  "description" : "Addresses and coordinates of each of 5 special waste drop-off sites where New York City residents can dispose of automotive batteries, motor oil, oil filters, passenger car tires, transmission fluids, fluorescent light bulbs, thermostats, household batteries, and latex paint.",
+  "displayType" : "table",
+  "downloadCount" : 27,
+  "numberOfComments" : 0,
+  "oid" : 342197,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318104869,
+  "publicationGroup" : 244070,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318104801,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 244070,
+  "totalTimesRated" : 0,
+  "viewCount" : 163,
+  "viewLastModified" : 1363704737,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2988311,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1563812,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Manhattan"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Queens"
+      }, {
+        "count" : 17,
+        "item" : "Bronx"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988312,
+    "name" : "Drop-Off Site Location",
+    "dataTypeName" : "text",
+    "fieldName" : "drop_off_site_location",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1563813,
+    "width" : 364,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "120-15 31st Avenue, College Point, adjacent to Queens East 7 Garage",
+      "null" : 0,
+      "largest" : "Foot of Muldoon Avenue, off the West Shore Expressway, adjacent to Staten Island 3 Garage",
+      "top" : [ {
+        "count" : 20,
+        "item" : "605 West 30th Street, between 11th and 12th Avenues, opposite Manhattan 6 Garage"
+      }, {
+        "count" : 19,
+        "item" : "1824 Shore Parkway, between 25th Avenue and Bay 41st Street, adjacent to Brooklyn South 11 Garage"
+      }, {
+        "count" : 18,
+        "item" : "120-15 31st Avenue, College Point, adjacent to Queens East 7 Garage"
+      }, {
+        "count" : 17,
+        "item" : "Farragut and Halleck Streets, opposite the Hunts Point Food Cooperative"
+      }, {
+        "count" : 16,
+        "item" : "Foot of Muldoon Avenue, off the West Shore Expressway, adjacent to Staten Island 3 Garage"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988313,
+    "name" : "X_Coordinate",
+    "dataTypeName" : "number",
+    "fieldName" : "x_coordinate",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1563814,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "930589.5",
+      "sum" : "4944706.4",
+      "null" : 0,
+      "average" : "988941.28",
+      "largest" : "1026496.5",
+      "top" : [ {
+        "count" : 20,
+        "item" : "983130.4"
+      }, {
+        "count" : 19,
+        "item" : "985633.4"
+      }, {
+        "count" : 18,
+        "item" : "1026496.5"
+      }, {
+        "count" : 17,
+        "item" : "1018856.6"
+      }, {
+        "count" : 16,
+        "item" : "930589.5"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988314,
+    "name" : "Y_Coordinate",
+    "dataTypeName" : "number",
+    "fieldName" : "y_coordinate",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1563815,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "145667.5",
+      "sum" : "966313.7",
+      "null" : 0,
+      "average" : "193262.74",
+      "largest" : "231988.9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "213727.9"
+      }, {
+        "count" : 19,
+        "item" : "154770.8"
+      }, {
+        "count" : 18,
+        "item" : "220158.6"
+      }, {
+        "count" : 17,
+        "item" : "231988.9"
+      }, {
+        "count" : 16,
+        "item" : "145667.5"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "sanitation", "services", "waste", "drop off", "drop-off", "dispose", "disposal", "battery", "batteries", "oil", "motor", "filter", "tire", "transmission", "fluid", "light", "bulb", "latex", "refuse", "clean web" ],
+  "flags" : [ "default" ]
+}

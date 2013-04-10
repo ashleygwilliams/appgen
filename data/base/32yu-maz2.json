@@ -1,0 +1,207 @@
+{
+  "id" : "32yu-maz2",
+  "name" : "New York City Health and Hospitals Corporation (HHC): HHC Options (family level)",
+  "attribution" : "Health and Hospitals Corporation (HHC)",
+  "averageRating" : 0,
+  "category" : "Health",
+  "createdAt" : 1317407071,
+  "description" : "Through HHC Options, low and moderate-income HHC patients can get affordable healthcare.  If a patient is not eligible for public insurance, we reduce the patient's fee to an affordable amount, based on family size and income. This data shows the minimum and maximum income at each level.\r\nUpdate Frequency: As needed",
+  "displayType" : "table",
+  "downloadCount" : 27,
+  "numberOfComments" : 0,
+  "oid" : 337510,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318361247,
+  "publicationGroup" : 242181,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1317407072,
+  "rowsUpdatedBy" : "k2fz-tf56",
+  "signed" : false,
+  "tableId" : 242181,
+  "totalTimesRated" : 0,
+  "viewCount" : 138,
+  "viewLastModified" : 1363711890,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2909958,
+    "name" : "Family Size",
+    "dataTypeName" : "number",
+    "fieldName" : "family_size",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1540069,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 49,
+      "smallest" : "1",
+      "sum" : "196",
+      "null" : 0,
+      "average" : "4",
+      "largest" : "7",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2909959,
+    "name" : "Income more than",
+    "dataTypeName" : "number",
+    "fieldName" : "income_more_than",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1540070,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 49,
+      "smallest" : "0",
+      "sum" : "2581467",
+      "null" : 0,
+      "average" : "52683",
+      "largest" : "135241",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "119961"
+      }, {
+        "count" : 18,
+        "item" : "135241"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2909960,
+    "name" : "Income Less Than",
+    "dataTypeName" : "number",
+    "fieldName" : "income_less_than",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1540071,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 42,
+      "smallest" : "16335",
+      "sum" : "2581425",
+      "null" : 7,
+      "average" : "61462.5",
+      "largest" : "135240",
+      "top" : [ {
+        "count" : 20,
+        "item" : "135240"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2909961,
+    "name" : "HHC Options Reduced Fee Level",
+    "dataTypeName" : "number",
+    "fieldName" : "hhc_options_reduced_fee_level",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1540072,
+    "width" : 448,
+    "cachedContents" : {
+      "non_null" : 49,
+      "smallest" : "1",
+      "sum" : "196",
+      "null" : 0,
+      "average" : "4",
+      "largest" : "7",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "health", "patient", "healthcare", "healthcare provider", "hospital", "income", "family affordable healthcare", "healthy living" ],
+  "flags" : [ "default" ]
+}

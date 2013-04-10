@@ -1,0 +1,514 @@
+{
+  "id" : "wwsa-q2dq",
+  "name" : "Attribution of Complaints to Different Bureaus",
+  "attribution" : "Civilian Complaint Review Board (CCRB)",
+  "attributionLink" : "http://www.nyc.gov/html/ccrb/pdf/ccrbappendices2011.pdf",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1361828503,
+  "description" : "This is the table compiled in one data-set from different bureaus representing the attribution of complaints",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2655873,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361996429,
+  "publicationGroup" : 699511,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1361996396,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 703699,
+  "totalTimesRated" : 0,
+  "viewCount" : 28,
+  "viewLastModified" : 1361996429,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 47371249,
+    "name" : "Year",
+    "dataTypeName" : "text",
+    "fieldName" : "year_attribution_of_complaint_to_respective_agencies",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159405,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "2009",
+      "null" : 0,
+      "largest" : "2011",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2009"
+      }, {
+        "count" : 19,
+        "item" : "2010"
+      }, {
+        "count" : 18,
+        "item" : "2011"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 47371280,
+    "name" : "Patrol Services Bureau",
+    "dataTypeName" : "text",
+    "fieldName" : "patrol_services_bureau",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159406,
+    "width" : 127,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "3111",
+      "null" : 0,
+      "largest" : "3289",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3111"
+      }, {
+        "count" : 19,
+        "item" : "3289"
+      }, {
+        "count" : 18,
+        "item" : "3166"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47371281,
+    "name" : "Other Commands",
+    "dataTypeName" : "text",
+    "fieldName" : "other_commands",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159408,
+    "width" : 98,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "7013",
+      "null" : 0,
+      "largest" : "8539",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8539"
+      }, {
+        "count" : 19,
+        "item" : "7382"
+      }, {
+        "count" : 18,
+        "item" : "7013"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47371282,
+    "name" : "Special Operation Division",
+    "dataTypeName" : "text",
+    "fieldName" : "special_operation_division",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159409,
+    "width" : 152,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "16",
+      "null" : 0,
+      "largest" : "21",
+      "top" : [ {
+        "count" : 20,
+        "item" : "16"
+      }, {
+        "count" : 19,
+        "item" : "18"
+      }, {
+        "count" : 18,
+        "item" : "21"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47371283,
+    "name" : "Other Patrol Services Bureau",
+    "dataTypeName" : "text",
+    "fieldName" : "other_patrol_services_bureau",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159410,
+    "width" : 161,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "3",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3"
+      }, {
+        "count" : 19,
+        "item" : "0"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47371284,
+    "name" : "Special Operations Division",
+    "dataTypeName" : "text",
+    "fieldName" : "special_operations_division",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159411,
+    "width" : 156,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "16",
+      "null" : 0,
+      "largest" : "21",
+      "top" : [ {
+        "count" : 20,
+        "item" : "16"
+      }, {
+        "count" : 19,
+        "item" : "18"
+      }, {
+        "count" : 18,
+        "item" : "21"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47371285,
+    "name" : "Traffic Control Division",
+    "dataTypeName" : "text",
+    "fieldName" : "traffic_control_division",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159412,
+    "width" : 124,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "57",
+      "null" : 0,
+      "largest" : "61",
+      "top" : [ {
+        "count" : 20,
+        "item" : "57"
+      }, {
+        "count" : 19,
+        "item" : "61"
+      }, {
+        "count" : 18,
+        "item" : "60"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47371286,
+    "name" : "Transit Bureau",
+    "dataTypeName" : "text",
+    "fieldName" : "transit_bureau",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159413,
+    "width" : 82,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "175",
+      "null" : 0,
+      "largest" : "198",
+      "top" : [ {
+        "count" : 20,
+        "item" : "198"
+      }, {
+        "count" : 19,
+        "item" : "177"
+      }, {
+        "count" : 18,
+        "item" : "175"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47371288,
+    "name" : "Housing Bureau",
+    "dataTypeName" : "text",
+    "fieldName" : "housing_bureau",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159414,
+    "width" : 90,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "243",
+      "null" : 0,
+      "largest" : "301",
+      "top" : [ {
+        "count" : 20,
+        "item" : "289"
+      }, {
+        "count" : 19,
+        "item" : "301"
+      }, {
+        "count" : 18,
+        "item" : "243"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47371290,
+    "name" : "Organized Crime Control Bureau",
+    "dataTypeName" : "text",
+    "fieldName" : "organizaed_crime_control_bureau",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159415,
+    "width" : 195,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "294",
+      "null" : 0,
+      "largest" : "351",
+      "top" : [ {
+        "count" : 20,
+        "item" : "294"
+      }, {
+        "count" : 19,
+        "item" : "328"
+      }, {
+        "count" : 18,
+        "item" : "351"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47371291,
+    "name" : "Detective Bureau",
+    "dataTypeName" : "text",
+    "fieldName" : "detective_bureau",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159416,
+    "width" : 104,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "160",
+      "null" : 0,
+      "largest" : "212",
+      "top" : [ {
+        "count" : 20,
+        "item" : "212"
+      }, {
+        "count" : 19,
+        "item" : "184"
+      }, {
+        "count" : 18,
+        "item" : "160"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47371293,
+    "name" : "Deputy Commissioners and Misc. Commands",
+    "dataTypeName" : "text",
+    "fieldName" : "attribution_of_complaint_to_deputy_comissioners_and_misc_commands",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159418,
+    "width" : 253,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "21",
+      "null" : 0,
+      "largest" : "45",
+      "top" : [ {
+        "count" : 20,
+        "item" : "26"
+      }, {
+        "count" : 19,
+        "item" : "21"
+      }, {
+        "count" : 18,
+        "item" : "45"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47371344,
+    "name" : "Internal Affairs Bureau",
+    "dataTypeName" : "number",
+    "fieldName" : "internal_affairs_bureau",
+    "position" : 13,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8216826,
+    "width" : 122,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "0",
+      "sum" : "7",
+      "null" : 0,
+      "average" : "2.333333333333333",
+      "largest" : "4",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3"
+      }, {
+        "count" : 19,
+        "item" : "0"
+      }, {
+        "count" : 18,
+        "item" : "4"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47371345,
+    "name" : "Criminal Justice Bureau",
+    "dataTypeName" : "number",
+    "fieldName" : "criminal_justice_bureau",
+    "position" : 14,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8216827,
+    "width" : 134,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "36",
+      "sum" : "147",
+      "null" : 0,
+      "average" : "49",
+      "largest" : "61",
+      "top" : [ {
+        "count" : 20,
+        "item" : "61"
+      }, {
+        "count" : 19,
+        "item" : "50"
+      }, {
+        "count" : 18,
+        "item" : "36"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47371379,
+    "name" : "Support Services Bureau",
+    "dataTypeName" : "number",
+    "fieldName" : "support_services_bureau",
+    "position" : 15,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8216849,
+    "width" : 139,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "0",
+      "sum" : "8",
+      "null" : 0,
+      "average" : "2.666666666666667",
+      "largest" : "4",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "4"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47371404,
+    "name" : "Personnel Bureau",
+    "dataTypeName" : "number",
+    "fieldName" : "personnel_bureau",
+    "position" : 16,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8216874,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "2",
+      "sum" : "10",
+      "null" : 0,
+      "average" : "3.333333333333333",
+      "largest" : "6",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2"
+      }, {
+        "count" : 19,
+        "item" : "6"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "ccrb", "attribution", "complaints", "bureau" ],
+  "flags" : [ "default" ]
+}

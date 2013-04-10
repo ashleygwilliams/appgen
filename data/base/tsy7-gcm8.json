@@ -1,0 +1,377 @@
+{
+  "id" : "tsy7-gcm8",
+  "name" : "Court Liaison Contact Sheet",
+  "attribution" : "Department of Education (DOE)",
+  "averageRating" : 0,
+  "category" : "Social Services",
+  "createdAt" : 1363725270,
+  "description" : "Listing of NYC courts and their liaisons.",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "numberOfComments" : 0,
+  "oid" : 2882176,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363725430,
+  "publicationGroup" : 743461,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1363725274,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 743461,
+  "totalTimesRated" : 0,
+  "viewCount" : 5,
+  "viewLastModified" : 1363725430,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 51688145,
+    "name" : "Region",
+    "dataTypeName" : "text",
+    "fieldName" : "region",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8760310,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "Bronx Family Court",
+      "null" : 0,
+      "largest" : "Queens Supreme Court",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx Family Court"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn Criminal Court"
+      }, {
+        "count" : 18,
+        "item" : "Brooklyn Family Court"
+      }, {
+        "count" : 17,
+        "item" : "Manhattan Family Court"
+      }, {
+        "count" : 16,
+        "item" : "Queens Family Court"
+      }, {
+        "count" : 15,
+        "item" : "Queens Supreme Court"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51688146,
+    "name" : "Address",
+    "dataTypeName" : "text",
+    "fieldName" : "address",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8760311,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "120 Schermerhorn Street",
+      "null" : 0,
+      "largest" : "900 Sheridan Avenue",
+      "top" : [ {
+        "count" : 20,
+        "item" : "900 Sheridan Avenue"
+      }, {
+        "count" : 19,
+        "item" : "120 Schermerhorn Street"
+      }, {
+        "count" : 18,
+        "item" : "330 Jay Street"
+      }, {
+        "count" : 17,
+        "item" : "60 Lafayette Street"
+      }, {
+        "count" : 16,
+        "item" : "151-20 Jamaica Avenue"
+      }, {
+        "count" : 15,
+        "item" : "125-01 Queens Blvd"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51688147,
+    "name" : "City",
+    "dataTypeName" : "text",
+    "fieldName" : "city",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8760312,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Queens",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "New York"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Kew Gardens"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51688148,
+    "name" : "State",
+    "dataTypeName" : "text",
+    "fieldName" : "state",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8760313,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "New York",
+      "null" : 0,
+      "largest" : "New York",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New York"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51688149,
+    "name" : "Zip Code",
+    "dataTypeName" : "number",
+    "fieldName" : "zip_code",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8760314,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "10013",
+      "sum" : "65713",
+      "null" : 0,
+      "average" : "10952.16666666667",
+      "largest" : "11432",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10451"
+      }, {
+        "count" : 19,
+        "item" : "11201"
+      }, {
+        "count" : 18,
+        "item" : "10013"
+      }, {
+        "count" : 17,
+        "item" : "11432"
+      }, {
+        "count" : 16,
+        "item" : "11415"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 51688150,
+    "name" : "Contact",
+    "dataTypeName" : "text",
+    "fieldName" : "contact",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8760315,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "Cathy Sevos",
+      "null" : 0,
+      "largest" : "Shah Noralez",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Deborah Rice-Tarrant"
+      }, {
+        "count" : 19,
+        "item" : "Kristen Murphy"
+      }, {
+        "count" : 18,
+        "item" : "Shah Noralez"
+      }, {
+        "count" : 17,
+        "item" : "Michelle Augustine"
+      }, {
+        "count" : 16,
+        "item" : "Cathy Sevos"
+      }, {
+        "count" : 15,
+        "item" : "Pat Faraglia"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51688151,
+    "name" : "Phone",
+    "dataTypeName" : "text",
+    "fieldName" : "phone",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8760316,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "212-442-8548",
+      "null" : 0,
+      "largest" : "718-802-2622",
+      "top" : [ {
+        "count" : 20,
+        "item" : "718-681-5999"
+      }, {
+        "count" : 19,
+        "item" : "347-404-9561"
+      }, {
+        "count" : 18,
+        "item" : "718-802-2622"
+      }, {
+        "count" : 17,
+        "item" : "212-442-8548"
+      }, {
+        "count" : 16,
+        "item" : "718-291-8613"
+      }, {
+        "count" : 15,
+        "item" : "718-298-1379"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51688152,
+    "name" : "Email",
+    "dataTypeName" : "text",
+    "fieldName" : "email",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8760317,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "aaugustine3@schools.nyc.gov",
+      "null" : 0,
+      "largest" : "spowell112@schools.nyc.gov",
+      "top" : [ {
+        "count" : 20,
+        "item" : "dricetarrant@schools.nyc.gov"
+      }, {
+        "count" : 19,
+        "item" : "kharty@schools.nyc.gov"
+      }, {
+        "count" : 18,
+        "item" : "spowell112@schools.nyc.gov"
+      }, {
+        "count" : 17,
+        "item" : "aaugustine3@schools.nyc.gov"
+      }, {
+        "count" : 16,
+        "item" : "csevos@schools.nyc.gov"
+      }, {
+        "count" : 15,
+        "item" : "PFaraglia@schools.nyc.gov"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51688153,
+    "name" : "Notes",
+    "dataTypeName" : "text",
+    "fieldName" : "notes",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8760318,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "11th floor, cubicle #55",
+      "null" : 0,
+      "largest" : "Room 811",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Room6B19"
+      }, {
+        "count" : 19,
+        "item" : "Room 811"
+      }, {
+        "count" : 18,
+        "item" : "11th floor, cubicle #55"
+      }, {
+        "count" : 17,
+        "item" : "Room 3C7"
+      }, {
+        "count" : 16,
+        "item" : "Lower Level, Room B103"
+      }, {
+        "count" : 15,
+        "item" : "Room 322.02 Annex"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "court liaison contact sheet", "doe", "education court", "jobs and economic mobility" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,618 @@
+{
+  "id" : "vum2-yjuc",
+  "name" : "NYC Budget Expense City Funds",
+  "attribution" : "Office of Management and Budget (OMB)",
+  "averageRating" : 0,
+  "createdAt" : 1311792438,
+  "description" : "Data set contains expense budgets by agency for actual fiscal years and five financial plan fiscal years in City funds.",
+  "displayType" : "table",
+  "downloadCount" : 30,
+  "numberOfComments" : 0,
+  "oid" : 342338,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318118592,
+  "publicationGroup" : 238883,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318118589,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 244192,
+  "totalTimesRated" : 0,
+  "viewCount" : 111,
+  "viewLastModified" : 1361280604,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2989869,
+    "name" : "AGN",
+    "dataTypeName" : "number",
+    "fieldName" : "agn",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502502,
+    "width" : 136,
+    "cachedContents" : {
+      "non_null" : 89,
+      "smallest" : "2",
+      "sum" : "36700",
+      "null" : 2,
+      "average" : "412.3595505617978",
+      "largest" : "998",
+      "top" : [ {
+        "count" : 20,
+        "item" : "945"
+      }, {
+        "count" : 19,
+        "item" : "989"
+      }, {
+        "count" : 18,
+        "item" : "991"
+      }, {
+        "count" : 17,
+        "item" : "992"
+      }, {
+        "count" : 16,
+        "item" : "995"
+      }, {
+        "count" : 15,
+        "item" : "996"
+      }, {
+        "count" : 14,
+        "item" : "998"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989870,
+    "name" : "AGENCY NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "agency_name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502503,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 91,
+      "smallest" : "Admin. for Children Services",
+      "null" : 0,
+      "largest" : "Youth & Community Development",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Public Administrator -Richmond"
+      }, {
+        "count" : 19,
+        "item" : "Prior Payable Adjustment"
+      }, {
+        "count" : 18,
+        "item" : "General Reserve"
+      }, {
+        "count" : 17,
+        "item" : "IT Efficiency Savings"
+      }, {
+        "count" : 16,
+        "item" : "Energy Adjustment"
+      }, {
+        "count" : 15,
+        "item" : "Lease Adjustment"
+      }, {
+        "count" : 14,
+        "item" : "OTPS Inflation Adjustment"
+      }, {
+        "count" : 13,
+        "item" : "Prepayment Adjustment"
+      }, {
+        "count" : 12,
+        "item" : "CITYWIDE TOTAL - CITY FUNDS"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989871,
+    "name" : " FY 2002 Actual ",
+    "dataTypeName" : "number",
+    "fieldName" : "_fy_2002_actual_",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502504,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 91,
+      "smallest" : "-2263063",
+      "sum" : "53135060",
+      "null" : 0,
+      "average" : "583901.7582417582",
+      "largest" : "26567530",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "-415258"
+      }, {
+        "count" : 18,
+        "item" : "-2263063"
+      }, {
+        "count" : 17,
+        "item" : "26567530"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989872,
+    "name" : " FY 2003 Actual ",
+    "dataTypeName" : "number",
+    "fieldName" : "_fy_2003_actual_",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502505,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 91,
+      "smallest" : "-116736",
+      "sum" : "59871744",
+      "null" : 0,
+      "average" : "657931.2527472527",
+      "largest" : "29935872",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "-116736"
+      }, {
+        "count" : 18,
+        "item" : "736774"
+      }, {
+        "count" : 17,
+        "item" : "29935872"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989873,
+    "name" : " FY 2004 Actual ",
+    "dataTypeName" : "number",
+    "fieldName" : "_fy_2004_actual_",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502506,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 91,
+      "smallest" : "-329305",
+      "sum" : "65151318",
+      "null" : 0,
+      "average" : "715948.5494505495",
+      "largest" : "32575659",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "705916"
+      }, {
+        "count" : 18,
+        "item" : "32575659"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989874,
+    "name" : " FY 2005 Actual ",
+    "dataTypeName" : "number",
+    "fieldName" : "_fy_2005_actual_",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502507,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 91,
+      "smallest" : "-225859",
+      "sum" : "73895412",
+      "null" : 0,
+      "average" : "812037.4945054945",
+      "largest" : "36947706",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "36947706"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989875,
+    "name" : " FY 2006 Actual ",
+    "dataTypeName" : "number",
+    "fieldName" : "_fy_2006_actual_",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502508,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 91,
+      "smallest" : "-453518",
+      "sum" : "76740968",
+      "null" : 0,
+      "average" : "843307.3406593407",
+      "largest" : "38370484",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "372197"
+      }, {
+        "count" : 18,
+        "item" : "38370484"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989876,
+    "name" : " FY 2007 Actual ",
+    "dataTypeName" : "number",
+    "fieldName" : "_fy_2007_actual_",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502509,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 91,
+      "smallest" : "-514796",
+      "sum" : "85394234",
+      "null" : 0,
+      "average" : "938398.1758241758",
+      "largest" : "42697117",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "1955308"
+      }, {
+        "count" : 18,
+        "item" : "42697117"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989877,
+    "name" : " FY 2008 Actual ",
+    "dataTypeName" : "number",
+    "fieldName" : "_fy_2008_actual_",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502510,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 91,
+      "smallest" : "-398740",
+      "sum" : "87863898",
+      "null" : 0,
+      "average" : "965537.3406593407",
+      "largest" : "43931949",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "1602961"
+      }, {
+        "count" : 18,
+        "item" : "43931949"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989878,
+    "name" : " FY 2009 Actual ",
+    "dataTypeName" : "number",
+    "fieldName" : "_fy_2009_actual_",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502511,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 91,
+      "smallest" : "-2496716",
+      "sum" : "81920576",
+      "null" : 0,
+      "average" : "900226.1098901099",
+      "largest" : "40960288",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "40960288"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989879,
+    "name" : "FY 2010 Actual",
+    "dataTypeName" : "number",
+    "fieldName" : "fy_2010_actual",
+    "position" : 12,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502512,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 91,
+      "smallest" : "-1892941",
+      "sum" : "83736524",
+      "null" : 0,
+      "average" : "920181.5824175824",
+      "largest" : "41868262",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "41868262"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989880,
+    "name" : "FY 2011 Plan",
+    "dataTypeName" : "number",
+    "fieldName" : "fy_2011_plan",
+    "position" : 13,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502513,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 91,
+      "smallest" : "-500000",
+      "sum" : "88541234",
+      "null" : 0,
+      "average" : "972980.5934065934",
+      "largest" : "44270617",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "100000"
+      }, {
+        "count" : 18,
+        "item" : "-4407"
+      }, {
+        "count" : 17,
+        "item" : "29693"
+      }, {
+        "count" : 16,
+        "item" : "-495187"
+      }, {
+        "count" : 15,
+        "item" : "44270617"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989881,
+    "name" : "FY 2012 Plan",
+    "dataTypeName" : "number",
+    "fieldName" : "fy_2012_plan",
+    "position" : 14,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502514,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 91,
+      "smallest" : "-3150956",
+      "sum" : "93531668",
+      "null" : 0,
+      "average" : "1027820.527472527",
+      "largest" : "46765834",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "72118"
+      }, {
+        "count" : 18,
+        "item" : "23642"
+      }, {
+        "count" : 17,
+        "item" : "-3150956"
+      }, {
+        "count" : 16,
+        "item" : "46765834"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989882,
+    "name" : "FY 2013 Plan",
+    "dataTypeName" : "number",
+    "fieldName" : "fy_2013_plan",
+    "position" : 15,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502515,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 91,
+      "smallest" : "-8794",
+      "sum" : "105823930",
+      "null" : 0,
+      "average" : "1162900.329670330",
+      "largest" : "52911965",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "119904"
+      }, {
+        "count" : 18,
+        "item" : "85344"
+      }, {
+        "count" : 17,
+        "item" : "55519"
+      }, {
+        "count" : 16,
+        "item" : "52911965"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989883,
+    "name" : "FY 2014 Plan",
+    "dataTypeName" : "number",
+    "fieldName" : "fy_2014_plan",
+    "position" : 16,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502516,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 91,
+      "smallest" : "-8794",
+      "sum" : "108828022",
+      "null" : 0,
+      "average" : "1195912.329670330",
+      "largest" : "54414011",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "143774"
+      }, {
+        "count" : 18,
+        "item" : "136982"
+      }, {
+        "count" : 17,
+        "item" : "111038"
+      }, {
+        "count" : 16,
+        "item" : "54414011"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989884,
+    "name" : "FY 2015 Plan",
+    "dataTypeName" : "number",
+    "fieldName" : "fy_2015_plan",
+    "position" : 17,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502517,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 91,
+      "smallest" : "-8794",
+      "sum" : "112724392",
+      "null" : 0,
+      "average" : "1238729.582417582",
+      "largest" : "56362196",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "164077"
+      }, {
+        "count" : 18,
+        "item" : "140328"
+      }, {
+        "count" : 17,
+        "item" : "166557"
+      }, {
+        "count" : 16,
+        "item" : "56362196"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989885,
+    "name" : "EXPENSE ($ IN THOUSANDS) - CITY FUNDS",
+    "dataTypeName" : "text",
+    "fieldName" : "expense_in_thousands_city_funds",
+    "position" : 18,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502518,
+    "width" : 544,
+    "cachedContents" : {
+      "non_null" : 2,
+      "smallest" : "Agency expenditures adjusted to exclude the impact of prepayments & debt defeasances. FY2009 & prior years restated to include TFA Debt Service.",
+      "null" : 89,
+      "largest" : "Plan data as of February 2011 Financial Plan",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Plan data as of February 2011 Financial Plan"
+      }, {
+        "count" : 19,
+        "item" : "Agency expenditures adjusted to exclude the impact of prepayments & debt defeasances. FY2009 & prior years restated to include TFA Debt Service."
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "expense", "fund", "budget", "fiscal", "finance", "year", "agency", "omb", "plan", "future", "actual" ],
+  "flags" : [ "default" ]
+}

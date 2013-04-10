@@ -1,0 +1,469 @@
+{
+  "id" : "3nm4-g97k",
+  "name" : "Leaks And Their Costs",
+  "attribution" : "Department of Environmental Protection (DEP)",
+  "attributionLink" : "http://www.nyc.gov/html/dep/html/ways_to_save_water/waterleak_wide.shtml",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1359646553,
+  "description" : "Leaks and Their Cost Fact Sheet",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2394749,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359647097,
+  "publicationGroup" : 648435,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1359646556,
+  "rowsUpdatedBy" : "ya7g-926w",
+  "signed" : false,
+  "tableId" : 648435,
+  "totalTimesRated" : 0,
+  "viewCount" : 20,
+  "viewLastModified" : 1363712961,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 42265072,
+    "name" : "Leaking Fixture",
+    "dataTypeName" : "text",
+    "fieldName" : "leaking_fixture",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7434874,
+    "width" : 129,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "Faucets",
+      "null" : 0,
+      "largest" : "Toilets",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Faucets"
+      }, {
+        "count" : 19,
+        "item" : "Toilets"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42265073,
+    "name" : "Leak Type",
+    "dataTypeName" : "text",
+    "fieldName" : "leak_type",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7434875,
+    "width" : 112,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "Constantly Running",
+      "null" : 0,
+      "largest" : "Steady Drip",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Slow Drip"
+      }, {
+        "count" : 19,
+        "item" : "Steady Drip"
+      }, {
+        "count" : 18,
+        "item" : "One Quarter Open"
+      }, {
+        "count" : 17,
+        "item" : "One Half Open"
+      }, {
+        "count" : 16,
+        "item" : "Full Open"
+      }, {
+        "count" : 15,
+        "item" : "Seeping"
+      }, {
+        "count" : 14,
+        "item" : "Leaking"
+      }, {
+        "count" : 13,
+        "item" : "Constantly Running"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42265074,
+    "name" : "Water Wasted (Gallons)",
+    "dataTypeName" : "number",
+    "fieldName" : "water_wasted_gallons",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7434876,
+    "width" : 177,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "30",
+      "sum" : "12400",
+      "null" : 0,
+      "average" : "1550",
+      "largest" : "6000",
+      "top" : [ {
+        "count" : 20,
+        "item" : "36"
+      }, {
+        "count" : 19,
+        "item" : "180"
+      }, {
+        "count" : 18,
+        "item" : "684"
+      }, {
+        "count" : 17,
+        "item" : "1620"
+      }, {
+        "count" : 16,
+        "item" : "3600"
+      }, {
+        "count" : 15,
+        "item" : "30"
+      }, {
+        "count" : 14,
+        "item" : "250"
+      }, {
+        "count" : 13,
+        "item" : "6000"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "false",
+      "align" : "center"
+    }
+  }, {
+    "id" : 42265075,
+    "name" : "Water Charge (Per Day)",
+    "dataTypeName" : "money",
+    "fieldName" : "water_charge_per_day",
+    "position" : 4,
+    "renderTypeName" : "money",
+    "tableColumnId" : 7434877,
+    "width" : 179,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "0.14",
+      "sum" : "56.20",
+      "null" : 0,
+      "average" : "7.025",
+      "largest" : "27.19",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.16"
+      }, {
+        "count" : 19,
+        "item" : "0.82"
+      }, {
+        "count" : 18,
+        "item" : "3.10"
+      }, {
+        "count" : 17,
+        "item" : "7.34"
+      }, {
+        "count" : 16,
+        "item" : "16.32"
+      }, {
+        "count" : 15,
+        "item" : "0.14"
+      }, {
+        "count" : 14,
+        "item" : "1.13"
+      }, {
+        "count" : 13,
+        "item" : "27.19"
+      } ]
+    },
+    "format" : {
+      "humane" : "false",
+      "align" : "center",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 42265076,
+    "name" : "Sewer Charge(Per Day)",
+    "dataTypeName" : "money",
+    "fieldName" : "sewer_charge_per_day",
+    "position" : 5,
+    "renderTypeName" : "money",
+    "tableColumnId" : 7434878,
+    "width" : 173,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "0.22",
+      "sum" : "89.36",
+      "null" : 0,
+      "average" : "11.17",
+      "largest" : "43.24",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.26"
+      }, {
+        "count" : 19,
+        "item" : "1.30"
+      }, {
+        "count" : 18,
+        "item" : "4.93"
+      }, {
+        "count" : 17,
+        "item" : "11.67"
+      }, {
+        "count" : 16,
+        "item" : "25.94"
+      }, {
+        "count" : 15,
+        "item" : "0.22"
+      }, {
+        "count" : 14,
+        "item" : "1.80"
+      }, {
+        "count" : 13,
+        "item" : "43.24"
+      } ]
+    },
+    "format" : {
+      "humane" : "false",
+      "align" : "center",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 42265077,
+    "name" : "Total Cost(Per Day)",
+    "dataTypeName" : "money",
+    "fieldName" : "total_cost_per_day",
+    "position" : 6,
+    "renderTypeName" : "money",
+    "tableColumnId" : 7434879,
+    "width" : 152,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "0.35",
+      "sum" : "145.55",
+      "null" : 0,
+      "average" : "18.19375",
+      "largest" : "70.43",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.42"
+      }, {
+        "count" : 19,
+        "item" : "2.11"
+      }, {
+        "count" : 18,
+        "item" : "8.03"
+      }, {
+        "count" : 17,
+        "item" : "19.02"
+      }, {
+        "count" : 16,
+        "item" : "42.26"
+      }, {
+        "count" : 15,
+        "item" : "0.35"
+      }, {
+        "count" : 14,
+        "item" : "2.93"
+      }, {
+        "count" : 13,
+        "item" : "70.43"
+      } ]
+    },
+    "format" : {
+      "humane" : "false",
+      "align" : "center",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 42265078,
+    "name" : "Water Charge (Per Year)",
+    "dataTypeName" : "money",
+    "fieldName" : "water_charge_per_year",
+    "position" : 7,
+    "renderTypeName" : "money",
+    "tableColumnId" : 7434880,
+    "width" : 186,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "49.63",
+      "sum" : "20512.22",
+      "null" : 0,
+      "average" : "2564.0275",
+      "largest" : "9925.27",
+      "top" : [ {
+        "count" : 20,
+        "item" : "59.55"
+      }, {
+        "count" : 19,
+        "item" : "297.76"
+      }, {
+        "count" : 18,
+        "item" : "1131.48"
+      }, {
+        "count" : 17,
+        "item" : "2679.82"
+      }, {
+        "count" : 16,
+        "item" : "5955.16"
+      }, {
+        "count" : 15,
+        "item" : "49.63"
+      }, {
+        "count" : 14,
+        "item" : "413.55"
+      }, {
+        "count" : 13,
+        "item" : "9925.27"
+      } ]
+    },
+    "format" : {
+      "humane" : "false",
+      "align" : "center",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 42265079,
+    "name" : "Sewer Charge(Per Year)",
+    "dataTypeName" : "money",
+    "fieldName" : "sewer_charge_per_year",
+    "position" : 8,
+    "renderTypeName" : "money",
+    "tableColumnId" : 7434881,
+    "width" : 182,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "78.91",
+      "sum" : "32614.45",
+      "null" : 0,
+      "average" : "4076.80625",
+      "largest" : "15781.18",
+      "top" : [ {
+        "count" : 20,
+        "item" : "94.69"
+      }, {
+        "count" : 19,
+        "item" : "473.44"
+      }, {
+        "count" : 18,
+        "item" : "1799.05"
+      }, {
+        "count" : 17,
+        "item" : "4260.92"
+      }, {
+        "count" : 16,
+        "item" : "9468.71"
+      }, {
+        "count" : 15,
+        "item" : "78.91"
+      }, {
+        "count" : 14,
+        "item" : "657.55"
+      }, {
+        "count" : 13,
+        "item" : "15781.18"
+      } ]
+    },
+    "format" : {
+      "humane" : "false",
+      "align" : "center",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 42265080,
+    "name" : "Total Cost(Per Year)",
+    "dataTypeName" : "money",
+    "fieldName" : "total_cost_per_year",
+    "position" : 9,
+    "renderTypeName" : "money",
+    "tableColumnId" : 7434882,
+    "width" : 163,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "128.53",
+      "sum" : "73126.64",
+      "null" : 0,
+      "average" : "9140.83",
+      "largest" : "25706.44",
+      "top" : [ {
+        "count" : 20,
+        "item" : "154.24"
+      }, {
+        "count" : 19,
+        "item" : "771.19"
+      }, {
+        "count" : 18,
+        "item" : "22930.53"
+      }, {
+        "count" : 17,
+        "item" : "6940.74"
+      }, {
+        "count" : 16,
+        "item" : "15423.87"
+      }, {
+        "count" : 15,
+        "item" : "128.53"
+      }, {
+        "count" : 14,
+        "item" : "1071.10"
+      }, {
+        "count" : 13,
+        "item" : "25706.44"
+      } ]
+    },
+    "format" : {
+      "humane" : "false",
+      "align" : "center",
+      "currency" : "USD"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ya7g-926w",
+    "displayName" : "Aakash Dalwani",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1363663581,
+    "roleName" : "publisher",
+    "screenName" : "Aakash Dalwani",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ya7g-926w",
+    "displayName" : "Aakash Dalwani",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1363663581,
+    "roleName" : "publisher",
+    "screenName" : "Aakash Dalwani",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dep", "department of environmental protection", "environment", "water", "water wastage", "leak", "leaks", "leakage", "drip", "drips", "cost", "costs", "leaks and their costs", "healthy living" ],
+  "flags" : [ "default" ]
+}

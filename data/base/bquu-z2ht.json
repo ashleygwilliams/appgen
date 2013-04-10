@@ -1,0 +1,1442 @@
+{
+  "id" : "bquu-z2ht",
+  "name" : "NYC Service: Volunteer Opportunities",
+  "attribution" : "NYC Service (NYCSERVICE)",
+  "averageRating" : 0,
+  "category" : "Community Service",
+  "createdAt" : 1317410513,
+  "description" : "A list of volunteer opportunities, organized by event, category of event type, organization and location.\r\nUpdate Frequency: As needed",
+  "displayType" : "table",
+  "downloadCount" : 708,
+  "numberOfComments" : 0,
+  "oid" : 337566,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318875254,
+  "publicationGroup" : 242226,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1317410703,
+  "rowsUpdatedBy" : "k2fz-tf56",
+  "signed" : false,
+  "tableId" : 242226,
+  "totalTimesRated" : 0,
+  "viewCount" : 801,
+  "viewLastModified" : 1363713583,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2910302,
+    "name" : "opportunity_id",
+    "dataTypeName" : "number",
+    "fieldName" : "opportunity_id",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1540265,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 665,
+      "smallest" : "4952",
+      "sum" : "3574012",
+      "null" : 0,
+      "average" : "5374.454135338346",
+      "largest" : "5782",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5768"
+      }, {
+        "count" : 19,
+        "item" : "5774"
+      }, {
+        "count" : 18,
+        "item" : "5775"
+      }, {
+        "count" : 17,
+        "item" : "5776"
+      }, {
+        "count" : 16,
+        "item" : "5778"
+      }, {
+        "count" : 15,
+        "item" : "5779"
+      }, {
+        "count" : 14,
+        "item" : "5780"
+      }, {
+        "count" : 13,
+        "item" : "5781"
+      }, {
+        "count" : 12,
+        "item" : "5782"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910303,
+    "name" : "content_id",
+    "dataTypeName" : "number",
+    "fieldName" : "content_id",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1540266,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 665,
+      "smallest" : "36697",
+      "sum" : "28455778",
+      "null" : 0,
+      "average" : "42790.64360902256",
+      "largest" : "52894",
+      "top" : [ {
+        "count" : 20,
+        "item" : "52763"
+      }, {
+        "count" : 19,
+        "item" : "52807"
+      }, {
+        "count" : 18,
+        "item" : "52808"
+      }, {
+        "count" : 17,
+        "item" : "52834"
+      }, {
+        "count" : 16,
+        "item" : "52848"
+      }, {
+        "count" : 15,
+        "item" : "52855"
+      }, {
+        "count" : 14,
+        "item" : "52861"
+      }, {
+        "count" : 13,
+        "item" : "52862"
+      }, {
+        "count" : 12,
+        "item" : "52894"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910304,
+    "name" : "vol_requests",
+    "dataTypeName" : "number",
+    "fieldName" : "vol_requests",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1540267,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 665,
+      "smallest" : "1",
+      "sum" : "52388",
+      "null" : 0,
+      "average" : "78.77894736842105",
+      "largest" : "9999",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "12"
+      }, {
+        "count" : 18,
+        "item" : "25"
+      }, {
+        "count" : 17,
+        "item" : "5"
+      }, {
+        "count" : 16,
+        "item" : "100"
+      }, {
+        "count" : 15,
+        "item" : "50"
+      }, {
+        "count" : 14,
+        "item" : "20"
+      }, {
+        "count" : 13,
+        "item" : "1000"
+      }, {
+        "count" : 12,
+        "item" : "10"
+      }, {
+        "count" : 11,
+        "item" : "2"
+      }, {
+        "count" : 10,
+        "item" : "9999"
+      }, {
+        "count" : 9,
+        "item" : "30"
+      }, {
+        "count" : 8,
+        "item" : "500"
+      }, {
+        "count" : 7,
+        "item" : "40"
+      }, {
+        "count" : 6,
+        "item" : "15"
+      }, {
+        "count" : 5,
+        "item" : "3"
+      }, {
+        "count" : 4,
+        "item" : "200"
+      }, {
+        "count" : 3,
+        "item" : "6"
+      }, {
+        "count" : 2,
+        "item" : "4"
+      }, {
+        "count" : 1,
+        "item" : "8"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910305,
+    "name" : "event_time",
+    "dataTypeName" : "number",
+    "fieldName" : "event_time",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1540268,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 665,
+      "smallest" : "0",
+      "sum" : "0",
+      "null" : 0,
+      "average" : "0",
+      "largest" : "0",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910306,
+    "name" : "title",
+    "dataTypeName" : "text",
+    "fieldName" : "title",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1540269,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 665,
+      "smallest" : "\"Farm to Feast\" Gala at Battery Park",
+      "null" : 0,
+      "largest" : "Youth Service Day: Neighborhood Festival 2011",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Tutors Needed!!!!"
+      }, {
+        "count" : 19,
+        "item" : "Sign Up for the CUNY - Citizenship Now! Volunteer Corps"
+      }, {
+        "count" : 18,
+        "item" : "Help the Catskills Relief Effort"
+      }, {
+        "count" : 17,
+        "item" : "ACADEMIC TUTORING OPPORTUNITIES AT HARLEM RBI:  GREAT EXPERIENCE FOR ANYONE"
+      }, {
+        "count" : 16,
+        "item" : "Thanksgiving Feeding of the Needy 2011"
+      }, {
+        "count" : 15,
+        "item" : "Latino and African American Youth Serving Program"
+      }, {
+        "count" : 14,
+        "item" : "Math Tutor"
+      }, {
+        "count" : 13,
+        "item" : "Literacy Tutor"
+      }, {
+        "count" : 12,
+        "item" : "Senior Alliance Registrar"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910307,
+    "name" : "hits",
+    "dataTypeName" : "number",
+    "fieldName" : "hits",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1540270,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 665,
+      "smallest" : "0",
+      "sum" : "229697",
+      "null" : 0,
+      "average" : "345.4090225563910",
+      "largest" : "4662",
+      "top" : [ {
+        "count" : 20,
+        "item" : "81"
+      }, {
+        "count" : 19,
+        "item" : "30"
+      }, {
+        "count" : 18,
+        "item" : "80"
+      }, {
+        "count" : 17,
+        "item" : "12"
+      }, {
+        "count" : 16,
+        "item" : "59"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "29"
+      }, {
+        "count" : 13,
+        "item" : "38"
+      }, {
+        "count" : 12,
+        "item" : "18"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910308,
+    "name" : "summary",
+    "dataTypeName" : "text",
+    "fieldName" : "summary",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1540271,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 665,
+      "smallest" : ":  Big Apple Greeter is looking for an experienced volunteer to perform a feasibility study to determine whether a walkathon is right for us.  This person will work under the guidance of the Executive Director, the Development Director, and the Director of Volunteers and Programs.",
+      "null" : 0,
+      "largest" : "• Preparing press releases and updates to our website. •Working on the new “Greeter for a Day” program, in which CEOs and other top executives have the opportunity to be a Greeter in a neighborhood of their choice. •Updating press log and maintaining clip file.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "We are New York City’s largest girls-only youth and leadership development program where girls learn to lead with courage, confidence and character to make their communities and the world  a better place."
+      }, {
+        "count" : 19,
+        "item" : "NYC Parks and Recreation seeks your participation to enrich our recreation facilities! Shape Up New York is a free fitness program for all ages and is looking for additional instructors at St. Mary’s Recreation Center (St. Ann’s Avenue at East 145th street, Bronx, NY 10455)"
+      }, {
+        "count" : 18,
+        "item" : "Help our neighbors up north by staffing canned food drives at one of our Brooklyn farmer's markets."
+      }, {
+        "count" : 17,
+        "item" : "We are currently in the process of recruiting academic tutors for our after school programs. The time commitment is not strenuous. It is also a great opportunity to gain experience working with youth."
+      }, {
+        "count" : 16,
+        "item" : "Volunteers to pack boxes of Turkey Dinners on Nov.22"
+      }, {
+        "count" : 15,
+        "item" : "The International Youth Leadership Institute supports active community leadership and global understanding through Seminars and Travel Programs in Africa and Latin America"
+      }, {
+        "count" : 14,
+        "item" : "Tutors wanted to help students in grades 3-5 learn basic math skills."
+      }, {
+        "count" : 13,
+        "item" : "Help students acquire basic English/Language Arts Skills."
+      }, {
+        "count" : 12,
+        "item" : "ASA's Senior Alliance Senior Center is looking for volunteer registrars to assist with the greeting and registering of our members for daily lunch and classes. Volunteers should be mature and organized. We look forward to hearing from you!"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910309,
+    "name" : "is_priority",
+    "dataTypeName" : "text",
+    "fieldName" : "is_priority",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1540272,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 62,
+      "smallest" : "y",
+      "null" : 603,
+      "largest" : "y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910310,
+    "name" : "category_id",
+    "dataTypeName" : "number",
+    "fieldName" : "category_id",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1540273,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 617,
+      "smallest" : "1",
+      "sum" : "1299",
+      "null" : 48,
+      "average" : "2.105348460291734",
+      "largest" : "6",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "5"
+      }, {
+        "count" : 16,
+        "item" : "4"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910311,
+    "name" : "category_desc",
+    "dataTypeName" : "text",
+    "fieldName" : "category_desc",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1540274,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 617,
+      "smallest" : "Education",
+      "null" : 48,
+      "largest" : "Strengthening Communities",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Helping Neighbors in Need"
+      }, {
+        "count" : 19,
+        "item" : "Strengthening Communities"
+      }, {
+        "count" : 18,
+        "item" : "Education"
+      }, {
+        "count" : 17,
+        "item" : "Health"
+      }, {
+        "count" : 16,
+        "item" : "Environment"
+      }, {
+        "count" : 15,
+        "item" : "Emergency Preparedness"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910312,
+    "name" : "amsl",
+    "dataTypeName" : "text",
+    "fieldName" : "amsl",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1540275,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 665
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910313,
+    "name" : "amsl_unit",
+    "dataTypeName" : "text",
+    "fieldName" : "amsl_unit",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1540276,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 665
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910314,
+    "name" : "org_title",
+    "dataTypeName" : "text",
+    "fieldName" : "org_title",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1540277,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 665,
+      "smallest" : "\"I Have a Dream\" Foundation - NY: Ravenswood Program",
+      "null" : 0,
+      "largest" : "YWCA of Brooklyn",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Community Service Society/Retired & Senior Volunteer Program (RSVP)"
+      }, {
+        "count" : 19,
+        "item" : "New York City Department of Parks & Recreation"
+      }, {
+        "count" : 18,
+        "item" : "Metropolitan Council on Jewish Poverty"
+      }, {
+        "count" : 17,
+        "item" : "Hearts and Minds"
+      }, {
+        "count" : 16,
+        "item" : "Bike New York"
+      }, {
+        "count" : 15,
+        "item" : "Catchafire"
+      }, {
+        "count" : 14,
+        "item" : "Services for the UnderServed, Inc."
+      }, {
+        "count" : 13,
+        "item" : "Jewish Association for Services for the Aged (JASA)"
+      }, {
+        "count" : 12,
+        "item" : "Girl Scouts NYC"
+      }, {
+        "count" : 11,
+        "item" : "Episcopal Social Services NYC"
+      }, {
+        "count" : 10,
+        "item" : "New York Asian Women's Center"
+      }, {
+        "count" : 9,
+        "item" : "New York Legal Assistance Group"
+      }, {
+        "count" : 8,
+        "item" : "Police Athletic League Of New York"
+      }, {
+        "count" : 7,
+        "item" : "The Neighborhood Work Play Kids Theater"
+      }, {
+        "count" : 6,
+        "item" : "NYC Service"
+      }, {
+        "count" : 5,
+        "item" : "Pace University Community & Volunteer Mobilization AmeriCorps"
+      }, {
+        "count" : 4,
+        "item" : "Office of Recycling Outreach and Education"
+      }, {
+        "count" : 3,
+        "item" : "The Puppetry Arts Theatre, Inc"
+      }, {
+        "count" : 2,
+        "item" : "Friends of Van Cortlandt Park"
+      }, {
+        "count" : 1,
+        "item" : "Children of Bellevue"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910315,
+    "name" : "org_content_id",
+    "dataTypeName" : "number",
+    "fieldName" : "org_content_id",
+    "position" : 15,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1540278,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 665,
+      "smallest" : "24",
+      "sum" : "13800218",
+      "null" : 0,
+      "average" : "20752.20751879699",
+      "largest" : "52858",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4279"
+      }, {
+        "count" : 19,
+        "item" : "3706"
+      }, {
+        "count" : 18,
+        "item" : "974"
+      }, {
+        "count" : 17,
+        "item" : "39195"
+      }, {
+        "count" : 16,
+        "item" : "38740"
+      }, {
+        "count" : 15,
+        "item" : "39853"
+      }, {
+        "count" : 14,
+        "item" : "38951"
+      }, {
+        "count" : 13,
+        "item" : "728"
+      }, {
+        "count" : 12,
+        "item" : "44253"
+      }, {
+        "count" : 11,
+        "item" : "42496"
+      }, {
+        "count" : 10,
+        "item" : "24"
+      }, {
+        "count" : 9,
+        "item" : "104"
+      }, {
+        "count" : 8,
+        "item" : "3067"
+      }, {
+        "count" : 7,
+        "item" : "50876"
+      }, {
+        "count" : 6,
+        "item" : "3747"
+      }, {
+        "count" : 5,
+        "item" : "4019"
+      }, {
+        "count" : 4,
+        "item" : "36773"
+      }, {
+        "count" : 3,
+        "item" : "999"
+      }, {
+        "count" : 2,
+        "item" : "161"
+      }, {
+        "count" : 1,
+        "item" : "34244"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910316,
+    "name" : "addresses_count",
+    "dataTypeName" : "number",
+    "fieldName" : "addresses_count",
+    "position" : 16,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1540279,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 665,
+      "smallest" : "1",
+      "sum" : "696",
+      "null" : 0,
+      "average" : "1.046616541353383",
+      "largest" : "12",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "12"
+      }, {
+        "count" : 18,
+        "item" : "2"
+      }, {
+        "count" : 17,
+        "item" : "7"
+      }, {
+        "count" : 16,
+        "item" : "3"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910317,
+    "name" : "locality",
+    "dataTypeName" : "location",
+    "fieldName" : "locality",
+    "position" : 17,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1540280,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 595,
+      "smallest" : {
+        "longitude" : "-73.95817675075642",
+        "latitude" : "40.711589765255496",
+        "human_address" : "{\"address\":\"1 Brooklyn\",\"city\":\"NY\",\"state\":\"\",\"zip\":\"11211\"}"
+      },
+      "null" : 70,
+      "largest" : {
+        "longitude" : "-74.00913138370635",
+        "latitude" : "40.71363051943297",
+        "human_address" : "{\"address\":\"five boroughs\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10007\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.88632317887395",
+          "latitude" : "40.86579443967629",
+          "human_address" : "{\"address\":\"2763 Webster Ave\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10458\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.98921741350024",
+          "latitude" : "40.74868428617484",
+          "human_address" : "{\"address\":\"132 32nd St\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10001\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.95176754309219",
+          "latitude" : "40.793325183462535",
+          "human_address" : "{\"address\":\"1234 5th Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10029\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-74.01308532103428",
+          "latitude" : "40.70604252290616",
+          "human_address" : "{\"address\":\"32 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10004\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-74.00706885665824",
+          "latitude" : "40.713255085581125",
+          "human_address" : "{\"address\":\"253 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10007\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.95176754309219",
+          "latitude" : "40.793325183462535",
+          "human_address" : "{\"address\":\"1234 5th Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10029\"}"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.91424241425239",
+          "latitude" : "40.81200330013793",
+          "human_address" : "{\"address\":\"450 St Anns Ave\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10455\"}"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.91424241425239",
+          "latitude" : "40.81200330013793",
+          "human_address" : "{\"address\":\"450 St Anns Ave\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10455\"}"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.9869780025237",
+          "latitude" : "40.7539853802881",
+          "human_address" : "{\"address\":\"1430 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10018\"}"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-74.00749200433894",
+          "latitude" : "40.72636283816059",
+          "human_address" : "{\"address\":\"315 Hudson St\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10013\"}"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.95343329083079",
+          "latitude" : "40.77130632257246",
+          "human_address" : "{\"address\":\"1484 First Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10075\"}"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.9707368555664",
+          "latitude" : "40.75867891119946",
+          "human_address" : "{\"address\":\"619 Lexington Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10022\"}"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.98662013867026",
+          "latitude" : "40.692238836414404",
+          "human_address" : "{\"address\":\"57 Willoughby Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.98289845639863",
+          "latitude" : "40.73914078212147",
+          "human_address" : "{\"address\":\"24 20 FDR Drive Service Rd\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10010\"}"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.94792934815561",
+          "latitude" : "40.7870466388226",
+          "human_address" : "{\"address\":\"1775 Third Ave\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10029\"}"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.98923961872805",
+          "latitude" : "40.74795702400355",
+          "human_address" : "{\"address\":\"101 31st St\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10001\"}"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-74.00706885665824",
+          "latitude" : "40.713255085581125",
+          "human_address" : "{\"address\":\"253 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10007\"}"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.94439880643534",
+          "latitude" : "40.7864951475855",
+          "human_address" : "{\"address\":\"333 100th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10029\"}"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.95309800037239",
+          "latitude" : "40.8110019996426",
+          "human_address" : "{\"address\":\"852 JFK Station\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10116\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-74.01019960472792",
+          "latitude" : "40.73358645135369",
+          "human_address" : "{\"address\":\"657 New\",\"city\":\"York\",\"state\":\"NY\",\"zip\":\"10014\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 2910318,
+    "name" : "region",
+    "dataTypeName" : "text",
+    "fieldName" : "region",
+    "position" : 18,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1540281,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 665,
+      "smallest" : "NY",
+      "null" : 0,
+      "largest" : "NY",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NY"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910319,
+    "name" : "postalcode",
+    "dataTypeName" : "number",
+    "fieldName" : "postalcode",
+    "position" : 19,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1540282,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 659,
+      "smallest" : "2114",
+      "sum" : "6907669",
+      "null" : 6,
+      "average" : "10482.04704097117",
+      "largest" : "112112",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10010"
+      }, {
+        "count" : 19,
+        "item" : "10007"
+      }, {
+        "count" : 18,
+        "item" : "10018"
+      }, {
+        "count" : 17,
+        "item" : "10003"
+      }, {
+        "count" : 16,
+        "item" : "10001"
+      }, {
+        "count" : 15,
+        "item" : "10463"
+      }, {
+        "count" : 14,
+        "item" : "10024"
+      }, {
+        "count" : 13,
+        "item" : "11415"
+      }, {
+        "count" : 12,
+        "item" : "10038"
+      }, {
+        "count" : 11,
+        "item" : "10016"
+      }, {
+        "count" : 10,
+        "item" : "10013"
+      }, {
+        "count" : 9,
+        "item" : "10025"
+      }, {
+        "count" : 8,
+        "item" : "10115"
+      }, {
+        "count" : 7,
+        "item" : "10004"
+      }, {
+        "count" : 6,
+        "item" : "10029"
+      }, {
+        "count" : 5,
+        "item" : "11212"
+      }, {
+        "count" : 4,
+        "item" : "11205"
+      }, {
+        "count" : 3,
+        "item" : "10455"
+      }, {
+        "count" : 2,
+        "item" : "10022"
+      }, {
+        "count" : 1,
+        "item" : "11201"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910320,
+    "name" : "primary_loc",
+    "dataTypeName" : "text",
+    "fieldName" : "primary_loc",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1540283,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 665
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910321,
+    "name" : "display_url",
+    "dataTypeName" : "text",
+    "fieldName" : "display_url",
+    "position" : 21,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1540284,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 665,
+      "smallest" : "/opportunities/4952",
+      "null" : 0,
+      "largest" : "/opportunities/5782",
+      "top" : [ {
+        "count" : 20,
+        "item" : "/opportunities/5768"
+      }, {
+        "count" : 19,
+        "item" : "/opportunities/5774"
+      }, {
+        "count" : 18,
+        "item" : "/opportunities/5775"
+      }, {
+        "count" : 17,
+        "item" : "/opportunities/5776"
+      }, {
+        "count" : 16,
+        "item" : "/opportunities/5778"
+      }, {
+        "count" : 15,
+        "item" : "/opportunities/5779"
+      }, {
+        "count" : 14,
+        "item" : "/opportunities/5780"
+      }, {
+        "count" : 13,
+        "item" : "/opportunities/5781"
+      }, {
+        "count" : 12,
+        "item" : "/opportunities/5782"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910322,
+    "name" : "recurrence_type",
+    "dataTypeName" : "text",
+    "fieldName" : "recurrence_type",
+    "position" : 22,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1540285,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 665,
+      "smallest" : "onetime",
+      "null" : 0,
+      "largest" : "ongoing",
+      "top" : [ {
+        "count" : 20,
+        "item" : "onetime"
+      }, {
+        "count" : 19,
+        "item" : "ongoing"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910323,
+    "name" : "hours",
+    "dataTypeName" : "number",
+    "fieldName" : "hours",
+    "position" : 23,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1540286,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 665,
+      "smallest" : "0",
+      "sum" : "18",
+      "null" : 0,
+      "average" : "0.02706766917293233",
+      "largest" : "12",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "12"
+      }, {
+        "count" : 18,
+        "item" : "6"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910324,
+    "name" : "created_date",
+    "dataTypeName" : "text",
+    "fieldName" : "created_date",
+    "position" : 24,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1540287,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 665,
+      "smallest" : "April 01 2011",
+      "null" : 0,
+      "largest" : "September 26 2011",
+      "top" : [ {
+        "count" : 20,
+        "item" : "April 12 2011"
+      }, {
+        "count" : 19,
+        "item" : "June 06 2011"
+      }, {
+        "count" : 18,
+        "item" : "June 07 2011"
+      }, {
+        "count" : 17,
+        "item" : "July 07 2011"
+      }, {
+        "count" : 16,
+        "item" : "July 19 2011"
+      }, {
+        "count" : 15,
+        "item" : "July 20 2011"
+      }, {
+        "count" : 14,
+        "item" : "August 01 2011"
+      }, {
+        "count" : 13,
+        "item" : "August 02 2011"
+      }, {
+        "count" : 12,
+        "item" : "August 03 2011"
+      }, {
+        "count" : 11,
+        "item" : "August 04 2011"
+      }, {
+        "count" : 10,
+        "item" : "August 09 2011"
+      }, {
+        "count" : 9,
+        "item" : "August 10 2011"
+      }, {
+        "count" : 8,
+        "item" : "August 11 2011"
+      }, {
+        "count" : 7,
+        "item" : "August 15 2011"
+      }, {
+        "count" : 6,
+        "item" : "August 16 2011"
+      }, {
+        "count" : 5,
+        "item" : "August 17 2011"
+      }, {
+        "count" : 4,
+        "item" : "August 19 2011"
+      }, {
+        "count" : 3,
+        "item" : "August 22 2011"
+      }, {
+        "count" : 2,
+        "item" : "August 23 2011"
+      }, {
+        "count" : 1,
+        "item" : "August 24 2011"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910325,
+    "name" : "last_modified_date",
+    "dataTypeName" : "text",
+    "fieldName" : "last_modified_date",
+    "position" : 25,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1540288,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 665,
+      "smallest" : "April 01 2011",
+      "null" : 0,
+      "largest" : "September 27 2011",
+      "top" : [ {
+        "count" : 20,
+        "item" : "March 09 2011"
+      }, {
+        "count" : 19,
+        "item" : "March 11 2011"
+      }, {
+        "count" : 18,
+        "item" : "April 14 2011"
+      }, {
+        "count" : 17,
+        "item" : "April 18 2011"
+      }, {
+        "count" : 16,
+        "item" : "April 29 2011"
+      }, {
+        "count" : 15,
+        "item" : "June 08 2011"
+      }, {
+        "count" : 14,
+        "item" : "June 02 2011"
+      }, {
+        "count" : 13,
+        "item" : "June 09 2011"
+      }, {
+        "count" : 12,
+        "item" : "June 10 2011"
+      }, {
+        "count" : 11,
+        "item" : "July 14 2011"
+      }, {
+        "count" : 10,
+        "item" : "July 20 2011"
+      }, {
+        "count" : 9,
+        "item" : "August 10 2011"
+      }, {
+        "count" : 8,
+        "item" : "August 22 2011"
+      }, {
+        "count" : 7,
+        "item" : "August 01 2011"
+      }, {
+        "count" : 6,
+        "item" : "August 04 2011"
+      }, {
+        "count" : 5,
+        "item" : "August 15 2011"
+      }, {
+        "count" : 4,
+        "item" : "August 09 2011"
+      }, {
+        "count" : 3,
+        "item" : "August 18 2011"
+      }, {
+        "count" : 2,
+        "item" : "August 17 2011"
+      }, {
+        "count" : 1,
+        "item" : "August 19 2011"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910326,
+    "name" : "start_date_date",
+    "dataTypeName" : "text",
+    "fieldName" : "start_date_date",
+    "position" : 26,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1540289,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 665,
+      "smallest" : "April 01 2011",
+      "null" : 0,
+      "largest" : "September 29 2011",
+      "top" : [ {
+        "count" : 20,
+        "item" : "April 12 2011"
+      }, {
+        "count" : 19,
+        "item" : "June 05 2011"
+      }, {
+        "count" : 18,
+        "item" : "June 06 2011"
+      }, {
+        "count" : 17,
+        "item" : "August 01 2011"
+      }, {
+        "count" : 16,
+        "item" : "September 19 2011"
+      }, {
+        "count" : 15,
+        "item" : "September 06 2011"
+      }, {
+        "count" : 14,
+        "item" : "September 01 2011"
+      }, {
+        "count" : 13,
+        "item" : "August 15 2011"
+      }, {
+        "count" : 12,
+        "item" : "August 10 2011"
+      }, {
+        "count" : 11,
+        "item" : "August 24 2011"
+      }, {
+        "count" : 10,
+        "item" : "August 16 2011"
+      }, {
+        "count" : 9,
+        "item" : "October 01 2011"
+      }, {
+        "count" : 8,
+        "item" : "September 24 2011"
+      }, {
+        "count" : 7,
+        "item" : "September 17 2011"
+      }, {
+        "count" : 6,
+        "item" : "August 28 2011"
+      }, {
+        "count" : 5,
+        "item" : "September 18 2011"
+      }, {
+        "count" : 4,
+        "item" : "September 10 2011"
+      }, {
+        "count" : 3,
+        "item" : "October 22 2011"
+      }, {
+        "count" : 2,
+        "item" : "September 07 2011"
+      }, {
+        "count" : 1,
+        "item" : "September 12 2011"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910327,
+    "name" : "end_date_date",
+    "dataTypeName" : "text",
+    "fieldName" : "end_date_date",
+    "position" : 27,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1540290,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 665,
+      "smallest" : "April 01 2011",
+      "null" : 0,
+      "largest" : "September 30 2011",
+      "top" : [ {
+        "count" : 20,
+        "item" : "April 11 2012"
+      }, {
+        "count" : 19,
+        "item" : "June 04 2012"
+      }, {
+        "count" : 18,
+        "item" : "June 05 2012"
+      }, {
+        "count" : 17,
+        "item" : "September 01 2011"
+      }, {
+        "count" : 16,
+        "item" : "June 30 2012"
+      }, {
+        "count" : 15,
+        "item" : "December 12 2011"
+      }, {
+        "count" : 14,
+        "item" : "August 01 2012"
+      }, {
+        "count" : 13,
+        "item" : "March 06 2012"
+      }, {
+        "count" : 12,
+        "item" : "September 17 2011"
+      }, {
+        "count" : 11,
+        "item" : "October 29 2012"
+      }, {
+        "count" : 10,
+        "item" : "August 31 2012"
+      }, {
+        "count" : 9,
+        "item" : "October 15 2011"
+      }, {
+        "count" : 8,
+        "item" : "October 22 2011"
+      }, {
+        "count" : 7,
+        "item" : "September 10 2011"
+      }, {
+        "count" : 6,
+        "item" : "September 11 2012"
+      }, {
+        "count" : 5,
+        "item" : "September 12 2012"
+      }, {
+        "count" : 4,
+        "item" : "September 13 2012"
+      }, {
+        "count" : 3,
+        "item" : "September 25 2011"
+      }, {
+        "count" : 2,
+        "item" : "September 14 2012"
+      }, {
+        "count" : 1,
+        "item" : "October 16 2011"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910328,
+    "name" : "status",
+    "dataTypeName" : "text",
+    "fieldName" : "status",
+    "position" : 28,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1540291,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 665,
+      "smallest" : "approved",
+      "null" : 0,
+      "largest" : "approved",
+      "top" : [ {
+        "count" : 20,
+        "item" : "approved"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "jobs and economic mobility", "volunteering", "volunteers", "volunteer opportunities", "events", "volunteer organizations", "lifelong learning" ],
+  "flags" : [ "default" ]
+}

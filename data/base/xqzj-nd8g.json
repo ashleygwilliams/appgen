@@ -1,0 +1,207 @@
+{
+  "id" : "xqzj-nd8g",
+  "name" : "Residential Water Use",
+  "attribution" : "Department of Environmental Protection (DEP)",
+  "attributionLink" : "http://www.nyc.gov/html/dep/html/residents/wateruse.shtml",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1359689167,
+  "description" : "Residential Water Use Fact Sheet",
+  "displayType" : "table",
+  "downloadCount" : 1,
+  "numberOfComments" : 0,
+  "oid" : 2399038,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359689334,
+  "publicationGroup" : 649498,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1359689170,
+  "rowsUpdatedBy" : "ya7g-926w",
+  "signed" : false,
+  "tableId" : 649498,
+  "totalTimesRated" : 0,
+  "viewCount" : 55,
+  "viewLastModified" : 1363712883,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 42343337,
+    "name" : "Item Description",
+    "dataTypeName" : "text",
+    "fieldName" : "item_description",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7449679,
+    "width" : 407,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "1980s vintage toilet (1980 - 1992) uses:",
+      "null" : 0,
+      "largest" : "Water-efficient washing machines use:",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Combined water and sewer rate in New York City is:"
+      }, {
+        "count" : 19,
+        "item" : "National average indoor residential water use per day per person is:"
+      }, {
+        "count" : 18,
+        "item" : "50 - 75% of all residential water use occurs:"
+      }, {
+        "count" : 17,
+        "item" : "A standard (pre-1980) toilet uses:"
+      }, {
+        "count" : 16,
+        "item" : "1980s vintage toilet (1980 - 1992) uses:"
+      }, {
+        "count" : 15,
+        "item" : "A low-consumption toilet uses:"
+      }, {
+        "count" : 14,
+        "item" : "Displacement bags save:"
+      }, {
+        "count" : 13,
+        "item" : "Flush valve retrofit kits save:"
+      }, {
+        "count" : 12,
+        "item" : "The average faucet uses:"
+      }, {
+        "count" : 11,
+        "item" : "Faucet aerators reduce flow by:"
+      }, {
+        "count" : 10,
+        "item" : "Standard showerheads use:"
+      }, {
+        "count" : 9,
+        "item" : "Low-flow showerheads use:"
+      }, {
+        "count" : 8,
+        "item" : "A compact washing machine uses:"
+      }, {
+        "count" : 7,
+        "item" : "A standard domestic washing machine uses:"
+      }, {
+        "count" : 6,
+        "item" : "Water-efficient washing machines use:"
+      }, {
+        "count" : 5,
+        "item" : "A dishwasher uses:"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 42343338,
+    "name" : "Water Use Details",
+    "dataTypeName" : "text",
+    "fieldName" : "water_use_details",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7449680,
+    "width" : 323,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : " $8.21 per 100 cubic feet of water* (07/01/11-06/30/12)",
+      "null" : 0,
+      "largest" : " In the bathroom ",
+      "top" : [ {
+        "count" : 20,
+        "item" : " $8.21 per 100 cubic feet of water* (07/01/11-06/30/12)"
+      }, {
+        "count" : 19,
+        "item" : " 60 - 70 gallons"
+      }, {
+        "count" : 18,
+        "item" : " In the bathroom "
+      }, {
+        "count" : 17,
+        "item" : " 4.5 - 7.0 gallons per flush"
+      }, {
+        "count" : 16,
+        "item" : " 3.5 gallons per flush"
+      }, {
+        "count" : 15,
+        "item" : " 1.6 gallons per flush (or less)"
+      }, {
+        "count" : 14,
+        "item" : " 0.6 gallons per flush"
+      }, {
+        "count" : 13,
+        "item" : " 1.0 - 1.5 gallons per flush"
+      }, {
+        "count" : 12,
+        "item" : " 0.5 - 5 gallons per minute"
+      }, {
+        "count" : 11,
+        "item" : " 1 gallon per minute"
+      }, {
+        "count" : 10,
+        "item" : " 4 - 7 gallons per minute"
+      }, {
+        "count" : 9,
+        "item" : " 2.5 gallons per minute (or less)"
+      }, {
+        "count" : 8,
+        "item" : " 32 gallons per load (13+ gals/cubic foot)"
+      }, {
+        "count" : 7,
+        "item" : " 45 - 55 gallons per load (13+ gals/cubic foot)"
+      }, {
+        "count" : 6,
+        "item" : " 20 - 25 gallons per load (8.0 - 9.5 gals/cubic foot)"
+      }, {
+        "count" : 5,
+        "item" : " 5 - 15 gallons per load"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ya7g-926w",
+    "displayName" : "Aakash Dalwani",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1363663581,
+    "roleName" : "publisher",
+    "screenName" : "Aakash Dalwani",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ya7g-926w",
+    "displayName" : "Aakash Dalwani",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1363663581,
+    "roleName" : "publisher",
+    "screenName" : "Aakash Dalwani",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dep", "department of environmental protection", "environment", "water", "residential", "water use", "residential water use", "healthy living" ],
+  "flags" : [ "default" ]
+}

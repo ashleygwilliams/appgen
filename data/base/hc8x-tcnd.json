@@ -1,0 +1,260 @@
+{
+  "id" : "hc8x-tcnd",
+  "name" : "FDNY Firehouse Listing",
+  "attribution" : "Fire Department of New York City (FDNY)",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1311984656,
+  "description" : "Listing of all NYC fire houses with addresses",
+  "displayType" : "table",
+  "downloadCount" : 248,
+  "numberOfComments" : 0,
+  "oid" : 330695,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1311984656,
+  "publicationGroup" : 239012,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1313895287,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 239012,
+  "totalTimesRated" : 0,
+  "viewCount" : 1167,
+  "viewLastModified" : 1318009453,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2803532,
+    "name" : "FacilityName",
+    "dataTypeName" : "text",
+    "fieldName" : "facilityname",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1503108,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 219,
+      "smallest" : "Bronx Borough Command, District Office 6 & 7 ",
+      "null" : 0,
+      "largest" : "Squad 61/Battalion 20",
+      "top" : [ {
+        "count" : 1,
+        "item" : "Engine 291/Ladder 140"
+      }, {
+        "count" : 1,
+        "item" : "Engine 281/Ladder 147"
+      }, {
+        "count" : 1,
+        "item" : "Engine 248"
+      }, {
+        "count" : 1,
+        "item" : "Engine 10/Ladder 10"
+      }, {
+        "count" : 1,
+        "item" : "Ladder 25/District Office 4/Division 3"
+      }, {
+        "count" : 1,
+        "item" : "Engine 324/Division 14"
+      }, {
+        "count" : 1,
+        "item" : "Engine 5"
+      }, {
+        "count" : 1,
+        "item" : "Engine 260"
+      }, {
+        "count" : 1,
+        "item" : "Marine 1"
+      }, {
+        "count" : 1,
+        "item" : "Engine 318/Ladder 166"
+      }, {
+        "count" : 1,
+        "item" : "Engine 303/Ladder 126"
+      }, {
+        "count" : 1,
+        "item" : "Engine 75/Ladder 33/Battalion 19"
+      }, {
+        "count" : 1,
+        "item" : "Engine 72"
+      }, {
+        "count" : 1,
+        "item" : "Engine 315/Ladder 125"
+      }, {
+        "count" : 1,
+        "item" : "Engine 220/Ladder 122"
+      }, {
+        "count" : 1,
+        "item" : "Engine 64/Ladder 47/District Office 7"
+      }, {
+        "count" : 1,
+        "item" : "Engine 34/Ladder 21"
+      }, {
+        "count" : 1,
+        "item" : "Engine 247"
+      }, {
+        "count" : 1,
+        "item" : "Engine 97"
+      }, {
+        "count" : 1,
+        "item" : "Squad 1"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2803533,
+    "name" : "FacilityAddress",
+    "dataTypeName" : "text",
+    "fieldName" : "facilityaddress",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1503109,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 219,
+      "smallest" : "100-104 Duane Street",
+      "null" : 0,
+      "largest" : "Saint George Ferry Terminal",
+      "top" : [ {
+        "count" : 1,
+        "item" : "5113-5117 4th Avenue"
+      }, {
+        "count" : 1,
+        "item" : "489-91 Saint John�s Place"
+      }, {
+        "count" : 1,
+        "item" : "875 Jewett Avenue"
+      }, {
+        "count" : 1,
+        "item" : "494 Dean Street"
+      }, {
+        "count" : 1,
+        "item" : "108 East 13th Street"
+      }, {
+        "count" : 1,
+        "item" : "218-44 97th Avenue"
+      }, {
+        "count" : 1,
+        "item" : "503 West 139th Street"
+      }, {
+        "count" : 1,
+        "item" : "234 East 29th Street"
+      }, {
+        "count" : 1,
+        "item" : "1307 Prospect Avenue"
+      }, {
+        "count" : 1,
+        "item" : "119-11 14th Road"
+      }, {
+        "count" : 1,
+        "item" : "215 West 58th Street"
+      }, {
+        "count" : 1,
+        "item" : "3025 Bailey Avenue"
+      }, {
+        "count" : 1,
+        "item" : "16-15 Central Avenue"
+      }, {
+        "count" : 1,
+        "item" : "1367 5th Avenue"
+      }, {
+        "count" : 1,
+        "item" : "998 Liberty Avenue"
+      }, {
+        "count" : 1,
+        "item" : "1259 Morris Avenue"
+      }, {
+        "count" : 1,
+        "item" : "21 Asch Loop West"
+      }, {
+        "count" : 1,
+        "item" : "423-25 Ralph Avenue"
+      }, {
+        "count" : 1,
+        "item" : "172 Tillary Street"
+      }, {
+        "count" : 1,
+        "item" : "257 Beach 116th Street"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2803534,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1503110,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 219,
+      "smallest" : "Borough",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 66,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 50,
+        "item" : "Queens"
+      }, {
+        "count" : 48,
+        "item" : "Manhattan"
+      }, {
+        "count" : 34,
+        "item" : "Bronx"
+      }, {
+        "count" : 20,
+        "item" : "Staten Island"
+      }, {
+        "count" : 1,
+        "item" : "Borough"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "fire department", "fdny", "fd", "fires", "community board", "station", "fire station", "fire house", "emergency", "911" ],
+  "flags" : [ "default" ]
+}

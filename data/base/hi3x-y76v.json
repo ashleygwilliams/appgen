@@ -1,0 +1,300 @@
+{
+  "id" : "hi3x-y76v",
+  "name" : "New York City Health and Hospitals Corporation (HHC) Patient Satisfaction - 2009",
+  "attribution" : "Health and Hospitals Corporation (HHC)",
+  "averageRating" : 0,
+  "category" : "Health",
+  "createdAt" : 1317403812,
+  "description" : "Patient satisfaction at HHC hospitals is measured by a standardized survey known as the Hospital Consumer Assessment of Healthcare Providers & Systems (HCAHPS). The survey has been validated by the federal Centers for Medicare and Medicaid Services (CMS) as a standard assessment tool for all hospitals throughout the nation. This data shows patient satisfaction scores in HHC hospitals.\r\nUpdate Frequency: Annually",
+  "displayType" : "table",
+  "downloadCount" : 49,
+  "numberOfComments" : 0,
+  "oid" : 337478,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318362586,
+  "publicationGroup" : 242152,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1317403813,
+  "rowsUpdatedBy" : "k2fz-tf56",
+  "signed" : false,
+  "tableId" : 242152,
+  "totalTimesRated" : 0,
+  "viewCount" : 205,
+  "viewLastModified" : 1363711824,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2909420,
+    "name" : "Hospital Name",
+    "dataTypeName" : "text",
+    "fieldName" : "hospital_name",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1539642,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 110,
+      "smallest" : "BELLEVUE HOSPITAL CENTER",
+      "null" : 0,
+      "largest" : "WOODHULL MEDICAL AND MENTAL HEALTH CENTER",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BELLEVUE HOSPITAL CENTER"
+      }, {
+        "count" : 19,
+        "item" : "CONEY ISLAND HOSPITAL"
+      }, {
+        "count" : 18,
+        "item" : "ELMHURST HOSPITAL CENTER"
+      }, {
+        "count" : 17,
+        "item" : "HARLEM HOSPITAL CENTER"
+      }, {
+        "count" : 16,
+        "item" : "JACOBI MEDICAL CENTER"
+      }, {
+        "count" : 15,
+        "item" : "KINGS COUNTY HOSPITAL CENTER"
+      }, {
+        "count" : 14,
+        "item" : "LINCOLN MEDICAL & MENTAL HEALTH CENTER"
+      }, {
+        "count" : 13,
+        "item" : "METROPOLITAN HOSPITAL CENTER"
+      }, {
+        "count" : 12,
+        "item" : "NORTH CENTRAL BRONX HOSPITAL"
+      }, {
+        "count" : 11,
+        "item" : "QUEENS HOSPITAL CENTER"
+      }, {
+        "count" : 10,
+        "item" : "WOODHULL MEDICAL AND MENTAL HEALTH CENTER"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2909421,
+    "name" : "HCAHPS Question",
+    "dataTypeName" : "text",
+    "fieldName" : "hcahps_question",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1539643,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 110,
+      "smallest" : "How do patients rate the hospital overall?",
+      "null" : 0,
+      "largest" : "Would patients recommend the hospital to friends and family?",
+      "top" : [ {
+        "count" : 20,
+        "item" : "How often were the patients rooms and bathrooms kept clean?"
+      }, {
+        "count" : 19,
+        "item" : "How often did nurses communicate well with patients?"
+      }, {
+        "count" : 18,
+        "item" : "How often did doctors communicate well with patients?"
+      }, {
+        "count" : 17,
+        "item" : "How often did patients receive help quickly from hospital staff?"
+      }, {
+        "count" : 16,
+        "item" : "How often was patients pain well controlled?"
+      }, {
+        "count" : 15,
+        "item" : "How often did staff explain about medicines before giving them to patients?"
+      }, {
+        "count" : 14,
+        "item" : "Were patients given information about what to do during their recovery at home?"
+      }, {
+        "count" : 13,
+        "item" : "How do patients rate the hospital overall?"
+      }, {
+        "count" : 12,
+        "item" : "How often was the area around patients rooms kept quiet at night?"
+      }, {
+        "count" : 11,
+        "item" : "Would patients recommend the hospital to friends and family?"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2909422,
+    "name" : "HCAHPS Answer Description",
+    "dataTypeName" : "text",
+    "fieldName" : "hcahps_answer_description",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1539644,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 110,
+      "smallest" : "\"YES\", patients would definitely recommend the hospital",
+      "null" : 0,
+      "largest" : "Yes, staff \"did\" give patients this information",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Room was \"always\" clean"
+      }, {
+        "count" : 19,
+        "item" : "Nurses \"always\" communicated well"
+      }, {
+        "count" : 18,
+        "item" : "Doctors \"always\" communicated well"
+      }, {
+        "count" : 17,
+        "item" : "Patients \"always\" received help as soon as they wanted"
+      }, {
+        "count" : 16,
+        "item" : "Pain was \"always\" well controlled"
+      }, {
+        "count" : 15,
+        "item" : "Staff \"always\" explained"
+      }, {
+        "count" : 14,
+        "item" : "Yes, staff \"did\" give patients this information"
+      }, {
+        "count" : 13,
+        "item" : "Patients who gave a rating of \"9\" or \"10\" (high)"
+      }, {
+        "count" : 12,
+        "item" : "Always quiet at night"
+      }, {
+        "count" : 11,
+        "item" : "\"YES\", patients would definitely recommend the hospital"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2909423,
+    "name" : "HCAHPS Answer Percent",
+    "dataTypeName" : "number",
+    "fieldName" : "hcahps_answer_percent",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1539645,
+    "width" : 352,
+    "cachedContents" : {
+      "non_null" : 110,
+      "smallest" : "35",
+      "sum" : "6673",
+      "null" : 0,
+      "average" : "60.66363636363636",
+      "largest" : "82",
+      "top" : [ {
+        "count" : 20,
+        "item" : "56"
+      }, {
+        "count" : 19,
+        "item" : "64"
+      }, {
+        "count" : 18,
+        "item" : "57"
+      }, {
+        "count" : 17,
+        "item" : "61"
+      }, {
+        "count" : 16,
+        "item" : "63"
+      }, {
+        "count" : 15,
+        "item" : "73"
+      }, {
+        "count" : 14,
+        "item" : "65"
+      }, {
+        "count" : 13,
+        "item" : "62"
+      }, {
+        "count" : 12,
+        "item" : "68"
+      }, {
+        "count" : 11,
+        "item" : "67"
+      }, {
+        "count" : 10,
+        "item" : "66"
+      }, {
+        "count" : 9,
+        "item" : "77"
+      }, {
+        "count" : 8,
+        "item" : "74"
+      }, {
+        "count" : 7,
+        "item" : "78"
+      }, {
+        "count" : 6,
+        "item" : "75"
+      }, {
+        "count" : 5,
+        "item" : "76"
+      }, {
+        "count" : 4,
+        "item" : "79"
+      }, {
+        "count" : 3,
+        "item" : "49"
+      }, {
+        "count" : 2,
+        "item" : "44"
+      }, {
+        "count" : 1,
+        "item" : "48"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "health", "patient", "satisfaction", "consumer", "healthcare", "healthcare provider", "survey", "hospital", "medicare", "medicaid", "gcahps", "healthy living" ],
+  "flags" : [ "default" ]
+}

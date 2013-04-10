@@ -1,0 +1,705 @@
+{
+  "id" : "whux-iuiu",
+  "name" : "Oil Usage ( Select City Owned Buildings)",
+  "attribution" : "Department of Citywide Administrative Services (DCAS)",
+  "averageRating" : 0,
+  "category" : "Statistics",
+  "createdAt" : 1346951597,
+  "description" : "Oil usage statistics for a select portfolio of City-owned buildings",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "numberOfComments" : 0,
+  "oid" : 1049205,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1346953053,
+  "publicationGroup" : 419778,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1346952956,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 419794,
+  "totalTimesRated" : 0,
+  "viewCount" : 51,
+  "viewLastModified" : 1346953053,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 17218769,
+    "name" : "BIN Number",
+    "dataTypeName" : "number",
+    "fieldName" : "bin_number",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056462,
+    "width" : 106,
+    "cachedContents" : {
+      "non_null" : 65,
+      "smallest" : "1001035",
+      "sum" : "160724046",
+      "null" : 0,
+      "average" : "2472677.630769231",
+      "largest" : "5113169",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1001037"
+      }, {
+        "count" : 19,
+        "item" : "4195688"
+      }, {
+        "count" : 18,
+        "item" : "1001035"
+      }, {
+        "count" : 17,
+        "item" : "3045047"
+      }, {
+        "count" : 16,
+        "item" : "1064871"
+      }, {
+        "count" : 15,
+        "item" : "3085070"
+      }, {
+        "count" : 14,
+        "item" : "3043248"
+      }, {
+        "count" : 13,
+        "item" : "4181565"
+      }, {
+        "count" : 12,
+        "item" : "4085173"
+      }, {
+        "count" : 11,
+        "item" : "2013899"
+      }, {
+        "count" : 10,
+        "item" : "4004170"
+      }, {
+        "count" : 9,
+        "item" : "3032886"
+      }, {
+        "count" : 8,
+        "item" : "2011810"
+      }, {
+        "count" : 7,
+        "item" : "2010604"
+      }, {
+        "count" : 6,
+        "item" : "4467711"
+      }, {
+        "count" : 5,
+        "item" : "3083660"
+      }, {
+        "count" : 4,
+        "item" : "3154215"
+      }, {
+        "count" : 3,
+        "item" : "4268900"
+      }, {
+        "count" : 2,
+        "item" : "2086851"
+      }, {
+        "count" : 1,
+        "item" : "2096013"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 17218770,
+    "name" : "Building",
+    "dataTypeName" : "text",
+    "fieldName" : "building",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4056463,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 65,
+      "smallest" : "Bronx Bergen Building",
+      "null" : 0,
+      "largest" : "William H. Maxwell High School",
+      "top" : [ {
+        "count" : 20,
+        "item" : "High School of Economics & Finance"
+      }, {
+        "count" : 19,
+        "item" : "Richmond Hill High School"
+      }, {
+        "count" : 18,
+        "item" : "High School for Leadership in Public Services"
+      }, {
+        "count" : 17,
+        "item" : "George E. Wibecan School"
+      }, {
+        "count" : 16,
+        "item" : "Shorac Kappock School"
+      }, {
+        "count" : 15,
+        "item" : "Roberto Clemente School"
+      }, {
+        "count" : 14,
+        "item" : "Thaddeus Stevens School"
+      }, {
+        "count" : 13,
+        "item" : "Forest Park School"
+      }, {
+        "count" : 12,
+        "item" : "Seneca School"
+      }, {
+        "count" : 11,
+        "item" : "Middle School 399"
+      }, {
+        "count" : 10,
+        "item" : "Dutch Kills"
+      }, {
+        "count" : 9,
+        "item" : "Medger Evers Middle College"
+      }, {
+        "count" : 8,
+        "item" : "Theodore Roosevelt High School"
+      }, {
+        "count" : 7,
+        "item" : "MS / High School 270"
+      }, {
+        "count" : 6,
+        "item" : "P.S.43Q"
+      }, {
+        "count" : 5,
+        "item" : "William H. Maxwell High School"
+      }, {
+        "count" : 4,
+        "item" : "Brooklyn School District 20"
+      }, {
+        "count" : 3,
+        "item" : "Saint Albans School"
+      }, {
+        "count" : 2,
+        "item" : "George J. Werdan III School"
+      }, {
+        "count" : 1,
+        "item" : "Institute for Environmental Learning"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17218786,
+    "name" : "SqFt",
+    "dataTypeName" : "number",
+    "fieldName" : "sqft",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056464,
+    "width" : 140,
+    "cachedContents" : {
+      "non_null" : 0,
+      "sum" : "0",
+      "null" : 65
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "left",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 17218772,
+    "name" : "Electric",
+    "dataTypeName" : "text",
+    "fieldName" : "electric",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4056465,
+    "width" : 69,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 65
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17218773,
+    "name" : " 2006 Natural Gas Usage",
+    "dataTypeName" : "text",
+    "fieldName" : "natural_gas_usage_1",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4056466,
+    "width" : 142,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 65
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17218774,
+    "name" : "2006 Fuel Oil #2- Delivery",
+    "dataTypeName" : "text",
+    "fieldName" : "fuel_oil_2_delivery_1",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4056467,
+    "width" : 147,
+    "cachedContents" : {
+      "non_null" : 36,
+      "smallest" : "1978",
+      "null" : 29,
+      "largest" : "NA",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NA"
+      }, {
+        "count" : 19,
+        "item" : "7302"
+      }, {
+        "count" : 18,
+        "item" : "74015"
+      }, {
+        "count" : 17,
+        "item" : "43320"
+      }, {
+        "count" : 16,
+        "item" : "2000"
+      }, {
+        "count" : 15,
+        "item" : "6502"
+      }, {
+        "count" : 14,
+        "item" : "3001"
+      }, {
+        "count" : 13,
+        "item" : "1978"
+      }, {
+        "count" : 12,
+        "item" : "2283"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17218775,
+    "name" : "2006 Fuel Oil #4 - Delivery",
+    "dataTypeName" : "text",
+    "fieldName" : "fuel_oil_4_delivery_1",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4056468,
+    "width" : 122,
+    "cachedContents" : {
+      "non_null" : 36,
+      "smallest" : "15505",
+      "null" : 29,
+      "largest" : "NA",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NA"
+      }, {
+        "count" : 19,
+        "item" : "21503"
+      }, {
+        "count" : 18,
+        "item" : "15505"
+      }, {
+        "count" : 17,
+        "item" : "22433"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17218776,
+    "name" : "2006 Fuel Oil #6 - Delivery",
+    "dataTypeName" : "text",
+    "fieldName" : "fuel_oil_6_delivery_1",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4056469,
+    "width" : 139,
+    "cachedContents" : {
+      "non_null" : 36,
+      "smallest" : "134732",
+      "null" : 29,
+      "largest" : "NA",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NA"
+      }, {
+        "count" : 19,
+        "item" : "261648"
+      }, {
+        "count" : 18,
+        "item" : "57351"
+      }, {
+        "count" : 17,
+        "item" : "59168"
+      }, {
+        "count" : 16,
+        "item" : "187311"
+      }, {
+        "count" : 15,
+        "item" : "134732"
+      }, {
+        "count" : 14,
+        "item" : "47830"
+      }, {
+        "count" : 13,
+        "item" : "34161"
+      }, {
+        "count" : 12,
+        "item" : "47891"
+      }, {
+        "count" : 11,
+        "item" : "87524"
+      }, {
+        "count" : 10,
+        "item" : "266589"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17218777,
+    "name" : "2006 Steam usage",
+    "dataTypeName" : "text",
+    "fieldName" : "steam_usage_1",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4056470,
+    "width" : 137,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 65
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17218778,
+    "name" : "2011 Electric usage",
+    "dataTypeName" : "text",
+    "fieldName" : "electric_usage",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4056471,
+    "width" : 152,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 65
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17218779,
+    "name" : "2011 Natural Gas usage ",
+    "dataTypeName" : "text",
+    "fieldName" : "natural_gas_usage_2",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4056472,
+    "width" : 144,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 65
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17218780,
+    "name" : "2011 Fuel Oil #2 B5 - Delivery",
+    "dataTypeName" : "text",
+    "fieldName" : "fuel_oil_2_b5_delivery",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4056473,
+    "width" : 209,
+    "cachedContents" : {
+      "non_null" : 65,
+      "smallest" : "4660",
+      "null" : 0,
+      "largest" : "N/A",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N/A"
+      }, {
+        "count" : 19,
+        "item" : "4660"
+      }, {
+        "count" : 18,
+        "item" : "511"
+      }, {
+        "count" : 17,
+        "item" : "662"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17218781,
+    "name" : "2011 Fuel Oil #2- Delivery",
+    "dataTypeName" : "text",
+    "fieldName" : "fuel_oil_2_delivery_2",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4056474,
+    "width" : 187,
+    "cachedContents" : {
+      "non_null" : 65,
+      "smallest" : "1224",
+      "null" : 0,
+      "largest" : "NA",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N/A"
+      }, {
+        "count" : 19,
+        "item" : "1497"
+      }, {
+        "count" : 18,
+        "item" : "1957"
+      }, {
+        "count" : 17,
+        "item" : "1731"
+      }, {
+        "count" : 16,
+        "item" : "7810"
+      }, {
+        "count" : 15,
+        "item" : "3102"
+      }, {
+        "count" : 14,
+        "item" : "5007"
+      }, {
+        "count" : 13,
+        "item" : "NA"
+      }, {
+        "count" : 12,
+        "item" : "464"
+      }, {
+        "count" : 11,
+        "item" : "263"
+      }, {
+        "count" : 10,
+        "item" : "850"
+      }, {
+        "count" : 9,
+        "item" : "1224"
+      }, {
+        "count" : 8,
+        "item" : "2000"
+      }, {
+        "count" : 7,
+        "item" : "3500"
+      }, {
+        "count" : 6,
+        "item" : "79500"
+      }, {
+        "count" : 5,
+        "item" : "3000"
+      }, {
+        "count" : 4,
+        "item" : "2500"
+      }, {
+        "count" : 3,
+        "item" : "7700"
+      }, {
+        "count" : 2,
+        "item" : "5400"
+      }, {
+        "count" : 1,
+        "item" : "2001"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17218782,
+    "name" : "2011 Fuel Oil #4 - Delivery",
+    "dataTypeName" : "text",
+    "fieldName" : "fuel_oil_4_delivery_2",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4056475,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 65,
+      "smallest" : "1205",
+      "null" : 0,
+      "largest" : "NA",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1740"
+      }, {
+        "count" : 19,
+        "item" : "N/A"
+      }, {
+        "count" : 18,
+        "item" : "1205"
+      }, {
+        "count" : 17,
+        "item" : "NA"
+      }, {
+        "count" : 16,
+        "item" : "25004"
+      }, {
+        "count" : 15,
+        "item" : "21504"
+      }, {
+        "count" : 14,
+        "item" : "19009"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17218783,
+    "name" : "2011 Fuel Oil #6 - Delivery",
+    "dataTypeName" : "text",
+    "fieldName" : "fuel_oil_6_delivery_2",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4056476,
+    "width" : 150,
+    "cachedContents" : {
+      "non_null" : 65,
+      "smallest" : "128012",
+      "null" : 0,
+      "largest" : "NA",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N/A"
+      }, {
+        "count" : 19,
+        "item" : "NA"
+      }, {
+        "count" : 18,
+        "item" : "232200"
+      }, {
+        "count" : 17,
+        "item" : "225640"
+      }, {
+        "count" : 16,
+        "item" : "153259"
+      }, {
+        "count" : 15,
+        "item" : "128012"
+      }, {
+        "count" : 14,
+        "item" : "42342"
+      }, {
+        "count" : 13,
+        "item" : "29191"
+      }, {
+        "count" : 12,
+        "item" : "183350"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17218784,
+    "name" : "2011 Steam usage",
+    "dataTypeName" : "text",
+    "fieldName" : "steam_usage_2",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4056477,
+    "width" : 174,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 65
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17218785,
+    "name" : "Types",
+    "dataTypeName" : "text",
+    "fieldName" : "types",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4056478,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 29,
+      "smallest" : "ConEd Steam",
+      "null" : 36,
+      "largest" : "No boilers, Heated with Gas Fired Chillers",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Gas Primary/FO Secondary"
+      }, {
+        "count" : 19,
+        "item" : "ConEd Steam"
+      }, {
+        "count" : 18,
+        "item" : "Gas Only"
+      }, {
+        "count" : 17,
+        "item" : "No boilers, Heated with Gas Fired Chillers"
+      }, {
+        "count" : 16,
+        "item" : "Gas Primary/FO Secondary, also feeds Brooklyn House of Detention"
+      }, {
+        "count" : 15,
+        "item" : "Leased Space for Which DCAS pays the energy bill"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+    "orderBys" : [ {
+      "ascending" : true,
+      "expression" : {
+        "columnId" : 17218786,
+        "type" : "column"
+      }
+    } ]
+  },
+  "rights" : [ "read" ],
+  "sortBys" : [ {
+    "id" : 0,
+    "viewColumnId" : 17218786,
+    "flags" : [ "asc" ]
+  } ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "oil usage ( select city owned buildings)", "oil", "city", "data", "statistics", "heating", "energy", "coned", "thermostat", "heat" ],
+  "flags" : [ "default" ]
+}

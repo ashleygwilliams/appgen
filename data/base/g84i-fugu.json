@@ -1,0 +1,205 @@
+{
+  "id" : "g84i-fugu",
+  "name" : "Fire Alarms Periodic Inspection Testing Requirements",
+  "attribution" : "Fire Department of New York City (FDNY)",
+  "attributionLink" : "http://www.nyc.gov/html/fdny/pdf/firecode/fc_nycsfpe_presentation_10_26_10_draft.pdf",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1358978511,
+  "description" : "FIRE PROTECTION PERIODIC INSPECTION AND TESTING REQUIREMENTS \r\nSPRINKLER SYSTEM (Excerpt from NFPA 25 Table 5.1)\r\nSTANDPIPE SYSTEM (Excerpt from NFPA 25 Table 6.1)\r\nWATER STORAGE TANK (Excerpt from NFPA 25 Table 9.1)\r\nFIRE ALARM SYSTEM (Excerpt from NFPA 72 Table 10.3.1)",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2396936,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359666037,
+  "publicationGroup" : 632046,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1359666032,
+  "rowsUpdatedBy" : "syvn-4vgv",
+  "signed" : false,
+  "tableId" : 648952,
+  "totalTimesRated" : 0,
+  "viewCount" : 58,
+  "viewLastModified" : 1360620337,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 42310155,
+    "name" : "Component Name",
+    "dataTypeName" : "text",
+    "fieldName" : "component_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7186236,
+    "width" : 312,
+    "cachedContents" : {
+      "non_null" : 51,
+      "smallest" : "Air pressure Inspect Monthly/quarterly",
+      "null" : 0,
+      "largest" : "Water temperature Inspect Daily/weekly",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Control valves"
+      }, {
+        "count" : 19,
+        "item" : "Alarm devices"
+      }, {
+        "count" : 18,
+        "item" : "Sprinklers"
+      }, {
+        "count" : 17,
+        "item" : "Hose"
+      }, {
+        "count" : 16,
+        "item" : "Hose storage device"
+      }, {
+        "count" : 15,
+        "item" : "Alarm notification appliance"
+      }, {
+        "count" : 14,
+        "item" : "Supervisory signal and waterflow initiating devices"
+      }, {
+        "count" : 13,
+        "item" : "Other initiating devices (e.g. duct detectors, fire alarm boxes and smoke detectors)"
+      }, {
+        "count" : 12,
+        "item" : "Interface equipment"
+      }, {
+        "count" : 11,
+        "item" : "Central station transmitters"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42310156,
+    "name" : "Required Inspection Test Type",
+    "dataTypeName" : "text",
+    "fieldName" : "required_inspection_test_type",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7186237,
+    "width" : 144,
+    "cachedContents" : {
+      "non_null" : 51,
+      "smallest" : "Inspect",
+      "null" : 0,
+      "largest" : "Test",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Inspect"
+      }, {
+        "count" : 19,
+        "item" : " Inspect"
+      }, {
+        "count" : 18,
+        "item" : "Test"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42310157,
+    "name" : "Required Inspection Frequency",
+    "dataTypeName" : "text",
+    "fieldName" : "required_inspection_frequency",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7186238,
+    "width" : 333,
+    "cachedContents" : {
+      "non_null" : 51,
+      "smallest" : "50 years, and every 10 years thereafter",
+      "null" : 0,
+      "largest" : "Weekly/monthly",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Weekly/monthly"
+      }, {
+        "count" : 19,
+        "item" : "Quarterly"
+      }, {
+        "count" : 18,
+        "item" : "Monthly"
+      }, {
+        "count" : 17,
+        "item" : "Annually"
+      }, {
+        "count" : 16,
+        "item" : "See NFPA 25 Table 12.1"
+      }, {
+        "count" : 15,
+        "item" : "Quarterly/semiannually"
+      }, {
+        "count" : 14,
+        "item" : "5 years"
+      }, {
+        "count" : 13,
+        "item" : "50 years, and every 10 years thereafter"
+      }, {
+        "count" : 12,
+        "item" : "5 years/3 years"
+      }, {
+        "count" : 11,
+        "item" : "Monthly/quarterly"
+      }, {
+        "count" : 10,
+        "item" : "Daily/weekly"
+      }, {
+        "count" : 9,
+        "item" : "Semiannually"
+      }, {
+        "count" : 8,
+        "item" : "Weekly, or annually if alarm, supervisory and trouble signals are monitored by a central station"
+      }, {
+        "count" : 7,
+        "item" : "Monthly/semiannually"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "syvn-4vgv",
+    "displayName" : "Sudhir Vasudeva",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360686446,
+    "screenName" : "Sudhir Vasudeva"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "syvn-4vgv",
+    "displayName" : "Sudhir Vasudeva",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360686446,
+    "screenName" : "Sudhir Vasudeva"
+  },
+  "tags" : [ "fdny", "fire department", "safety", "fire safety", "fire code", "building standards", "sprinklers" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,161 @@
+{
+  "id" : "yc6c-pk2a",
+  "name" : "Directory of City Resources",
+  "attribution" : "Mayor's Office to Combat Domestic Violence (OCDV)",
+  "attributionLink" : "http://www.nyc.gov/html/ocdv/html/statistics_resources/providers.shtml",
+  "averageRating" : 0,
+  "category" : "Social Services",
+  "createdAt" : 1363718240,
+  "description" : "List of resources that address the domestic violence issues",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2882365,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363726228,
+  "publicationGroup" : 743127,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1363726148,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 743491,
+  "totalTimesRated" : 0,
+  "viewCount" : 8,
+  "viewLastModified" : 1363788265,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 51690809,
+    "name" : "Facility Name",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "facility_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757859,
+    "width" : 343,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "City of New York Resources",
+      "null" : 0,
+      "largest" : "NYC Mayor's Office to Combat Domestic Violence",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NYC Mayor's Office to Combat Domestic Violence"
+      }, {
+        "count" : 19,
+        "item" : "City of New York Resources"
+      }, {
+        "count" : 18,
+        "item" : "Directory of Domestic Violence Services"
+      }, {
+        "count" : 17,
+        "item" : "NYC Alliance Against Sexual Assault"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51690810,
+    "name" : "Phone Number",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "phone_number",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757860,
+    "width" : 137,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "212-523-4344",
+      "null" : 1,
+      "largest" : "311",
+      "top" : [ {
+        "count" : 20,
+        "item" : "212-788-3156"
+      }, {
+        "count" : 19,
+        "item" : "311"
+      }, {
+        "count" : 18,
+        "item" : "212-523-4344"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51690811,
+    "name" : "Website Address",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "website_address",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757861,
+    "width" : 451,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "http://www.nyc.gov/html/ocdv/html/directory/directory.shtml",
+      "null" : 1,
+      "largest" : "www.nycagainstrape.org",
+      "top" : [ {
+        "count" : 20,
+        "item" : "http://www.nyc.gov/html/ocdv/html/home/home.shtml"
+      }, {
+        "count" : 19,
+        "item" : "http://www.nyc.gov/html/ocdv/html/directory/directory.shtml"
+      }, {
+        "count" : 18,
+        "item" : "www.nycagainstrape.org"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "ocdv", "combat", "domestic violence", "jobs", "economic mobility", "city services", "jobs and economic mobility" ],
+  "flags" : [ "default" ]
+}

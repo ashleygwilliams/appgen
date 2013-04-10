@@ -1,0 +1,208 @@
+{
+  "id" : "2n8q-stkt",
+  "name" : "Projected Public School Ratio",
+  "attribution" : "School Construction Authority (SCA)",
+  "averageRating" : 0,
+  "category" : "Construction and Housing",
+  "createdAt" : 1362583282,
+  "description" : "The SCA’s comprehensive capital planning process includes developing and analyzing quality data, creating and updating the Department of Education’s Five-Year Capital Plans, and monitoring projects through completion. The SCA prioritizes capital projects to best meet the capacity and building improvements needs throughout the City.  Additionally, the SCA assures that the Capital Plan aligns with New York State and City Department of Education mandates, academic initiatives, and budgetary resources.  This is one of the most current published reports.",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2731022,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362586135,
+  "publicationGroup" : 717698,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1362585965,
+  "rowsUpdatedBy" : "ci6y-i73t",
+  "signed" : false,
+  "tableId" : 717795,
+  "totalTimesRated" : 0,
+  "viewCount" : 11,
+  "viewLastModified" : 1363704135,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 48795029,
+    "name" : "BOROUGH",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401249,
+    "width" : 159,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "BRONX",
+      "null" : 0,
+      "largest" : "RICHMOND",
+      "top" : [ {
+        "count" : 20,
+        "item" : "MANHATTAN"
+      }, {
+        "count" : 19,
+        "item" : "BRONX"
+      }, {
+        "count" : 18,
+        "item" : "BROOKLYN"
+      }, {
+        "count" : 17,
+        "item" : "QUEENS"
+      }, {
+        "count" : 16,
+        "item" : "RICHMOND"
+      }, {
+        "count" : 15,
+        "item" : "NEW YORK CITY"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48795032,
+    "name" : "Children aged 4-10 contributed per housing unit",
+    "dataTypeName" : "text",
+    "fieldName" : "children_aged_4_10_contributed_per_housing_unit",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401250,
+    "width" : 333,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "0.12",
+      "null" : 0,
+      "largest" : "1.29",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.12"
+      }, {
+        "count" : 19,
+        "item" : "0.39"
+      }, {
+        "count" : 18,
+        "item" : "0.29"
+      }, {
+        "count" : 17,
+        "item" : "0.28"
+      }, {
+        "count" : 16,
+        "item" : "0.21"
+      }, {
+        "count" : 15,
+        "item" : "1.29"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48795033,
+    "name" : "Children aged 11-13 contributed per housing unit",
+    "dataTypeName" : "text",
+    "fieldName" : "children_aged_11_13_contributed_per_housing_unit",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401251,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "0.04",
+      "null" : 0,
+      "largest" : "0.54",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.04"
+      }, {
+        "count" : 19,
+        "item" : "0.16"
+      }, {
+        "count" : 18,
+        "item" : "0.12"
+      }, {
+        "count" : 17,
+        "item" : "0.10"
+      }, {
+        "count" : 16,
+        "item" : "0.54"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48795034,
+    "name" : "Children aged 14-17 contributed per housing unit",
+    "dataTypeName" : "text",
+    "fieldName" : "children_aged_14_17_contributed_per_housing_unit",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401252,
+    "width" : 377,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "0.06",
+      "null" : 0,
+      "largest" : "0.67",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.06"
+      }, {
+        "count" : 19,
+        "item" : "0.19"
+      }, {
+        "count" : 18,
+        "item" : "0.14"
+      }, {
+        "count" : 17,
+        "item" : "0.67"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ci6y-i73t",
+    "displayName" : "Harish Pathria",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358262517,
+    "roleName" : "publisher",
+    "screenName" : "Harish Pathria",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ci6y-i73t",
+    "displayName" : "Harish Pathria",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358262517,
+    "roleName" : "publisher",
+    "screenName" : "Harish Pathria",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "school", "construction", "authority", "sca", "public school", "ratio", "lifelong learning" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,500 @@
+{
+  "id" : "2eq2-trdu",
+  "name" : "Directory Of Competitive Bid",
+  "attribution" : "Department of Design and Construction (DDC)",
+  "attributionLink" : "http://ddcftp.nyc.gov/inet/html/contrbid.asp",
+  "averageRating" : 0,
+  "category" : "Construction and Housing",
+  "createdAt" : 1362576815,
+  "description" : "This table displays currently advertised projects (type of work), estimated range ($) for project completion, bid date, time and projects description along with Project ID. It also provides link to plan holders information.",
+  "displayType" : "table",
+  "downloadCount" : 1,
+  "numberOfComments" : 0,
+  "oid" : 2729713,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362577106,
+  "publicationGroup" : 717473,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1362576822,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 717473,
+  "totalTimesRated" : 0,
+  "viewCount" : 8,
+  "viewLastModified" : 1362582779,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 48772806,
+    "name" : "#",
+    "dataTypeName" : "number",
+    "fieldName" : "_",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8398187,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 14,
+      "smallest" : "1",
+      "sum" : "105",
+      "null" : 29,
+      "average" : "7.5",
+      "largest" : "14",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "11"
+      }, {
+        "count" : 9,
+        "item" : "12"
+      }, {
+        "count" : 8,
+        "item" : "13"
+      }, {
+        "count" : 7,
+        "item" : "14"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48772807,
+    "name" : "TYPE OF WORK   ",
+    "dataTypeName" : "text",
+    "fieldName" : "type_of_work",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8398188,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 43,
+      "smallest" : "Construction/",
+      "null" : 0,
+      "largest" : "Water/",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Construction/"
+      }, {
+        "count" : 19,
+        "item" : "Regular/"
+      }, {
+        "count" : 18,
+        "item" : "General Construction/"
+      }, {
+        "count" : 17,
+        "item" : "Water/"
+      }, {
+        "count" : 16,
+        "item" : "Sewer/"
+      }, {
+        "count" : 15,
+        "item" : "Highways/"
+      }, {
+        "count" : 14,
+        "item" : "Non-Site Specific Highway/"
+      }, {
+        "count" : 13,
+        "item" : "Sidewalks"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48772808,
+    "name" : "ESTIMATED $ RANGE   ",
+    "dataTypeName" : "text",
+    "fieldName" : "estimated_range",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8398189,
+    "width" : 153,
+    "cachedContents" : {
+      "non_null" : 14,
+      "smallest" : "$1,000,000-$2,499,999",
+      "null" : 29,
+      "largest" : "OVER 10 MILLION",
+      "top" : [ {
+        "count" : 20,
+        "item" : "$5,000,000-$10,000,000"
+      }, {
+        "count" : 19,
+        "item" : "OVER 10 MILLION"
+      }, {
+        "count" : 18,
+        "item" : "$1,000,000-$2,499,999"
+      }, {
+        "count" : 17,
+        "item" : "$2,500,000-$4,999,999"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 48772809,
+    "name" : "BID DATE & TIME   ",
+    "dataTypeName" : "text",
+    "fieldName" : "bid_date_time",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8398190,
+    "width" : 109,
+    "cachedContents" : {
+      "non_null" : 28,
+      "smallest" : "11:00 AM",
+      "null" : 15,
+      "largest" : "4/5/13",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3/7/13"
+      }, {
+        "count" : 19,
+        "item" : "2:00 PM"
+      }, {
+        "count" : 18,
+        "item" : "3/20/13"
+      }, {
+        "count" : 17,
+        "item" : "3/21/13"
+      }, {
+        "count" : 16,
+        "item" : "3/13/13"
+      }, {
+        "count" : 15,
+        "item" : "11:00 AM"
+      }, {
+        "count" : 14,
+        "item" : "3/14/13"
+      }, {
+        "count" : 13,
+        "item" : "3/22/13"
+      }, {
+        "count" : 12,
+        "item" : "4/4/13"
+      }, {
+        "count" : 11,
+        "item" : "4/5/13"
+      }, {
+        "count" : 10,
+        "item" : "4/10/13"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 48772810,
+    "name" : "PIN   ",
+    "dataTypeName" : "text",
+    "fieldName" : "pin",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8398191,
+    "width" : 124,
+    "cachedContents" : {
+      "non_null" : 14,
+      "smallest" : "8502012PV0015C",
+      "null" : 29,
+      "largest" : "8502013WM0004C",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8502012TR0004C"
+      }, {
+        "count" : 19,
+        "item" : "8502013PV0004C"
+      }, {
+        "count" : 18,
+        "item" : "8502012PV0015C"
+      }, {
+        "count" : 17,
+        "item" : "8502013WM0004C"
+      }, {
+        "count" : 16,
+        "item" : "8502012SE0010C"
+      }, {
+        "count" : 15,
+        "item" : "8502012SE0016C"
+      }, {
+        "count" : 14,
+        "item" : "8502013HW0027C"
+      }, {
+        "count" : 13,
+        "item" : "8502013HW0025C"
+      }, {
+        "count" : 12,
+        "item" : "8502013HW0026C"
+      }, {
+        "count" : 11,
+        "item" : "8502013HW0028C"
+      }, {
+        "count" : 10,
+        "item" : "8502013HW0032C"
+      }, {
+        "count" : 9,
+        "item" : "8502013HW0030C"
+      }, {
+        "count" : 8,
+        "item" : "8502013HW0031C"
+      }, {
+        "count" : 7,
+        "item" : "8502013HL0001C"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 48772811,
+    "name" : "PROJ ID   ",
+    "dataTypeName" : "text",
+    "fieldName" : "proj_id",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8398192,
+    "width" : 114,
+    "cachedContents" : {
+      "non_null" : 14,
+      "smallest" : "HL82SIABEX",
+      "null" : 29,
+      "largest" : "SECBRPQ07",
+      "top" : [ {
+        "count" : 20,
+        "item" : "HWQF027C"
+      }, {
+        "count" : 19,
+        "item" : "P-1CROT16"
+      }, {
+        "count" : 18,
+        "item" : "PV467DCTV"
+      }, {
+        "count" : 17,
+        "item" : "QED1015"
+      }, {
+        "count" : 16,
+        "item" : "SECBRPQ07"
+      }, {
+        "count" : 15,
+        "item" : "SE-734"
+      }, {
+        "count" : 14,
+        "item" : "HWS2013Q"
+      }, {
+        "count" : 13,
+        "item" : "HWS2013CW"
+      }, {
+        "count" : 12,
+        "item" : "HWS2013M"
+      }, {
+        "count" : 11,
+        "item" : "HWS2013K"
+      }, {
+        "count" : 10,
+        "item" : "HWCSCH3E-R"
+      }, {
+        "count" : 9,
+        "item" : "HWS2013X"
+      }, {
+        "count" : 8,
+        "item" : "HWS2013R"
+      }, {
+        "count" : 7,
+        "item" : "HL82SIABEX"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 48772812,
+    "name" : "DESCRIPTION   ",
+    "dataTypeName" : "text",
+    "fieldName" : "description",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8398193,
+    "width" : 1467,
+    "cachedContents" : {
+      "non_null" : 14,
+      "smallest" : "CONSTRUCTION OF SANITARY AND STORM SEWERS AND APPURTENANCES IN RICHARD AVENUE BETWEEN ACADEMY AVENUE AND CLERMONT AVENUE, ETC. - BOROUGH OF STATEN ISLAND",
+      "null" : 29,
+      "largest" : "STATEN ISLAND ANIMAL CARE AND CONTROL CENTER RECONSTRUCTION",
+      "top" : [ {
+        "count" : 20,
+        "item" : "HARPER STREET YARD CONSTRUCTION OF NEW DIESEL STATION, ELECTRICAL, ROOF & FLOOR UPDGRADE - BOROUGH OF QUEENS"
+      }, {
+        "count" : 19,
+        "item" : "NEW CONSTRUCTION OF THE BRONX RIVER HOUSE"
+      }, {
+        "count" : 18,
+        "item" : "DOWNTOWN COMMUNITY TELEVISION CENTER: SCREENING ROOM RENOVATION - BOROUGH OF MANHATTAN"
+      }, {
+        "count" : 17,
+        "item" : "INSTALLATION OF WATER MAINS AND APPURTENANCES FOR NEW BUILDING CONSTRUCTION AND FOR IMPROVEMENT TO THE CITY'S WATER MAIN DISTRIBUTION SYSTEM AND FIRE PROTECTION IN VARIOUS LOCATIONS - BOROUGHS OF QUEENS AND THE BRONX"
+      }, {
+        "count" : 16,
+        "item" : "RECONSTRUCTION OF EXISTING COLLAPSED OR OTHERWISE DEFECTIVE CATCH BASINS AND APPURTENANCES IN VARIOUS LOCATIONS - BOROUGH OF QUEENS"
+      }, {
+        "count" : 15,
+        "item" : "CONSTRUCTION OF SANITARY AND STORM SEWERS AND APPURTENANCES IN RICHARD AVENUE BETWEEN ACADEMY AVENUE AND CLERMONT AVENUE, ETC. - BOROUGH OF STATEN ISLAND"
+      }, {
+        "count" : 14,
+        "item" : "INSTALLATION OFSIDEWALKS, ADJACENT CURBS AND PEDESTRIAN RAMPS AS NECESSARY IN VARIOUS LOCATIONS - BOROUGH OF QUEENS"
+      }, {
+        "count" : 13,
+        "item" : "INSTALLATION OF SIDEWALKS, ADJACENT CURBS AND PEDESTRIAN RAMPS AS NECESSARY IN VARIOUS LOCATIONS - CITYWIDE"
+      }, {
+        "count" : 12,
+        "item" : "INSTALLATION OF SIDEWALKS, ADJACENT CURBS AND PEDESTRIAN RAMPS AS NECESSARY IN VARIOUS LOCATIONS - BOROUGH OF MANHATTAN"
+      }, {
+        "count" : 11,
+        "item" : "INSTALLATION OF SIDEWALKS, ADJACENT CURBS AND PEDESTRIAN RAMPS AS NECESSARY IN VARIOUS LOCATIONS - BOROUGH OF BROOKLYN"
+      }, {
+        "count" : 10,
+        "item" : "HWCSCH3E-R - SAFE ROUTES TO SCHOOLS, PHASE 1 IN THE VICINITY OF VARIOUS SCHOOLS IN THE BOROUGHS OF QUEENS AND MANHATTAN"
+      }, {
+        "count" : 9,
+        "item" : "INSTALLATION OF SIDEWALKS, ADJACENT CURBS AND PEDESTRIAN RAMPS AS NECESSARY IN VARIOUS LOCATIONS - BOROUGH OF THE BRONX"
+      }, {
+        "count" : 8,
+        "item" : "INSTALLATION OF SIDEWALKS, ADJACENT CURBS AND PEDESTRIAN RAMPS AS NECESSARY IN VARIOUS LOCATIONS - BOROUGH OF STATEN ISLAND"
+      }, {
+        "count" : 7,
+        "item" : "STATEN ISLAND ANIMAL CARE AND CONTROL CENTER RECONSTRUCTION"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 48772813,
+    "name" : "PLAN HOLDERS",
+    "dataTypeName" : "text",
+    "fieldName" : "plan_holders",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8398194,
+    "width" : 266,
+    "cachedContents" : {
+      "non_null" : 14,
+      "smallest" : "http://ddcftp.nyc.gov/biddoc/list.aspx?bid_id=1144",
+      "null" : 29,
+      "largest" : "http://ddcftp.nyc.gov/biddoc/list.aspx?bid_id=1166",
+      "top" : [ {
+        "count" : 20,
+        "item" : "http://ddcftp.nyc.gov/biddoc/list.aspx?bid_id=1144"
+      }, {
+        "count" : 19,
+        "item" : "http://ddcftp.nyc.gov/biddoc/list.aspx?bid_id=1149"
+      }, {
+        "count" : 18,
+        "item" : "http://ddcftp.nyc.gov/biddoc/list.aspx?bid_id=1155"
+      }, {
+        "count" : 17,
+        "item" : "http://ddcftp.nyc.gov/biddoc/list.aspx?bid_id=1156"
+      }, {
+        "count" : 16,
+        "item" : "http://ddcftp.nyc.gov/biddoc/list.aspx?bid_id=1157"
+      }, {
+        "count" : 15,
+        "item" : "http://ddcftp.nyc.gov/biddoc/list.aspx?bid_id=1158"
+      }, {
+        "count" : 14,
+        "item" : "http://ddcftp.nyc.gov/biddoc/list.aspx?bid_id=1159"
+      }, {
+        "count" : 13,
+        "item" : "http://ddcftp.nyc.gov/biddoc/list.aspx?bid_id=1160"
+      }, {
+        "count" : 12,
+        "item" : "http://ddcftp.nyc.gov/biddoc/list.aspx?bid_id=1161"
+      }, {
+        "count" : 11,
+        "item" : "http://ddcftp.nyc.gov/biddoc/list.aspx?bid_id=1162"
+      }, {
+        "count" : 10,
+        "item" : "http://ddcftp.nyc.gov/biddoc/list.aspx?bid_id=1163"
+      }, {
+        "count" : 9,
+        "item" : "http://ddcftp.nyc.gov/biddoc/list.aspx?bid_id=1164"
+      }, {
+        "count" : 8,
+        "item" : "http://ddcftp.nyc.gov/biddoc/list.aspx?bid_id=1165"
+      }, {
+        "count" : 7,
+        "item" : "http://ddcftp.nyc.gov/biddoc/list.aspx?bid_id=1166"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "department of design and construction", "ddc", "competitive", "bids" ],
+  "flags" : [ "default" ]
+}

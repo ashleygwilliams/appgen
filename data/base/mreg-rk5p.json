@@ -1,0 +1,704 @@
+{
+  "id" : "mreg-rk5p",
+  "name" : "NYC Public High School Program Data",
+  "attribution" : "Department of Education (DOE)",
+  "averageRating" : 100,
+  "category" : "Education",
+  "createdAt" : 1318307530,
+  "description" : "Data on programs in NYC High Schools",
+  "displayType" : "table",
+  "downloadCount" : 496,
+  "numberOfComments" : 0,
+  "oid" : 343165,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318307598,
+  "publicationGroup" : 244617,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318307541,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 244617,
+  "totalTimesRated" : 1,
+  "viewCount" : 1340,
+  "viewLastModified" : 1363697589,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3003370,
+    "name" : "Program Code",
+    "dataTypeName" : "text",
+    "fieldName" : "program_code",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1570471,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 701,
+      "smallest" : "A11A",
+      "null" : 0,
+      "largest" : "Y56A",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NO CODE"
+      }, {
+        "count" : 19,
+        "item" : "R30S"
+      }, {
+        "count" : 18,
+        "item" : "R30Z"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3003371,
+    "name" : "Program Name",
+    "dataTypeName" : "text",
+    "fieldName" : "program_name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1570472,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 701,
+      "smallest" : "A+ Computer Repair",
+      "null" : 0,
+      "largest" : "Zoned",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Zoned"
+      }, {
+        "count" : 19,
+        "item" : "Math & Science Health Careers Institute"
+      }, {
+        "count" : 18,
+        "item" : "Institute of Forensic Science and Criminology"
+      }, {
+        "count" : 17,
+        "item" : "The Gateway Academy for Health"
+      }, {
+        "count" : 16,
+        "item" : "Culinary Arts"
+      }, {
+        "count" : 15,
+        "item" : "Junior Reserve Officers' Training Corps"
+      }, {
+        "count" : 14,
+        "item" : "Performing & Visual Arts"
+      }, {
+        "count" : 13,
+        "item" : "Institute of Business Technology & Entrepreneurship"
+      }, {
+        "count" : 12,
+        "item" : "Television, Broadcasting and Media Arts"
+      }, {
+        "count" : 11,
+        "item" : "Medical Technology"
+      }, {
+        "count" : 10,
+        "item" : "Institute for Civic Leadership"
+      }, {
+        "count" : 9,
+        "item" : "Information Technology"
+      }, {
+        "count" : 8,
+        "item" : "Visual Arts and Graphic Design"
+      }, {
+        "count" : 7,
+        "item" : "Pre-Engineering/Computer Aided Drafting"
+      }, {
+        "count" : 6,
+        "item" : "Automotive Service Center Specialist"
+      }, {
+        "count" : 5,
+        "item" : "Cosmetology/Salon Management"
+      }, {
+        "count" : 4,
+        "item" : "Construction Trades and Management"
+      }, {
+        "count" : 3,
+        "item" : "Engineering"
+      }, {
+        "count" : 2,
+        "item" : "Academy of Finance"
+      }, {
+        "count" : 1,
+        "item" : "Academy of Hospitality & Tourism"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3003372,
+    "name" : "DBN",
+    "dataTypeName" : "text",
+    "fieldName" : "dbn",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1570473,
+    "width" : 136,
+    "cachedContents" : {
+      "non_null" : 701,
+      "smallest" : "01M292",
+      "null" : 0,
+      "largest" : "32K556",
+      "top" : [ {
+        "count" : 20,
+        "item" : "03M415"
+      }, {
+        "count" : 19,
+        "item" : "02M460"
+      }, {
+        "count" : 18,
+        "item" : "27Q400"
+      }, {
+        "count" : 17,
+        "item" : "26Q495"
+      }, {
+        "count" : 16,
+        "item" : "26Q415"
+      }, {
+        "count" : 15,
+        "item" : "28Q440"
+      }, {
+        "count" : 14,
+        "item" : "26Q430"
+      }, {
+        "count" : 13,
+        "item" : "30Q501"
+      }, {
+        "count" : 12,
+        "item" : "28Q505"
+      }, {
+        "count" : 11,
+        "item" : "27Q480"
+      }, {
+        "count" : 10,
+        "item" : "25Q425"
+      }, {
+        "count" : 9,
+        "item" : "30Q450"
+      }, {
+        "count" : 8,
+        "item" : "24Q455"
+      }, {
+        "count" : 7,
+        "item" : "24Q600"
+      }, {
+        "count" : 6,
+        "item" : "28Q620"
+      }, {
+        "count" : 5,
+        "item" : "30Q445"
+      }, {
+        "count" : 4,
+        "item" : "31R450"
+      }, {
+        "count" : 3,
+        "item" : "31R080"
+      }, {
+        "count" : 2,
+        "item" : "31R440"
+      }, {
+        "count" : 1,
+        "item" : "31R445"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3003373,
+    "name" : "Printed School Name",
+    "dataTypeName" : "text",
+    "fieldName" : "printed_school_name",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1570474,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 701,
+      "smallest" : "\"47\" The American Sign Language and English School",
+      "null" : 0,
+      "largest" : "Young Women's Leadership School",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Wadleigh Secondary School for the Performing & Visual Arts"
+      }, {
+        "count" : 19,
+        "item" : "Washington Irving High School"
+      }, {
+        "count" : 18,
+        "item" : "August Martin High School"
+      }, {
+        "count" : 17,
+        "item" : "Bayside High School"
+      }, {
+        "count" : 16,
+        "item" : "Benjamin N. Cardozo High School"
+      }, {
+        "count" : 15,
+        "item" : "Forest Hills High School"
+      }, {
+        "count" : 14,
+        "item" : "Francis Lewis High School"
+      }, {
+        "count" : 13,
+        "item" : "Frank Sinatra School of the Arts High School"
+      }, {
+        "count" : 12,
+        "item" : "Hillcrest High School"
+      }, {
+        "count" : 11,
+        "item" : "John Adams High School"
+      }, {
+        "count" : 10,
+        "item" : "John Bowne High School"
+      }, {
+        "count" : 9,
+        "item" : "Long Island City High School"
+      }, {
+        "count" : 8,
+        "item" : "Newtown High School"
+      }, {
+        "count" : 7,
+        "item" : "Queens Vocational and Technical High School"
+      }, {
+        "count" : 6,
+        "item" : "Thomas A. Edison Career and Technical Education High School"
+      }, {
+        "count" : 5,
+        "item" : "William Cullen Bryant High School"
+      }, {
+        "count" : 4,
+        "item" : "Curtis High School"
+      }, {
+        "count" : 3,
+        "item" : "The Michael J. Petrides School"
+      }, {
+        "count" : 2,
+        "item" : "New Dorp High School"
+      }, {
+        "count" : 1,
+        "item" : "Port Richmond High School"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3003374,
+    "name" : "Interest Area",
+    "dataTypeName" : "text",
+    "fieldName" : "interest_area",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1570475,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 701,
+      "smallest" : "Animal Science",
+      "null" : 0,
+      "largest" : "Zoned",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Communications"
+      }, {
+        "count" : 19,
+        "item" : "Computer Science & Technology"
+      }, {
+        "count" : 18,
+        "item" : "Business"
+      }, {
+        "count" : 17,
+        "item" : "Engineering"
+      }, {
+        "count" : 16,
+        "item" : "Humanities & Interdisciplinary"
+      }, {
+        "count" : 15,
+        "item" : "Science & Math"
+      }, {
+        "count" : 14,
+        "item" : "Health Professions"
+      }, {
+        "count" : 13,
+        "item" : "Architecture"
+      }, {
+        "count" : 12,
+        "item" : "Law & Government"
+      }, {
+        "count" : 11,
+        "item" : "Visual Art & Design"
+      }, {
+        "count" : 10,
+        "item" : "Film/Video"
+      }, {
+        "count" : 9,
+        "item" : "Performing Arts"
+      }, {
+        "count" : 8,
+        "item" : "Animal Science"
+      }, {
+        "count" : 7,
+        "item" : "Teaching"
+      }, {
+        "count" : 6,
+        "item" : "Environmental Science"
+      }, {
+        "count" : 5,
+        "item" : "Culinary Arts"
+      }, {
+        "count" : 4,
+        "item" : "JROTC"
+      }, {
+        "count" : 3,
+        "item" : "Zoned"
+      }, {
+        "count" : 2,
+        "item" : "Cosmetology"
+      }, {
+        "count" : 1,
+        "item" : "Hospitality, Travel and Tourism"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3003375,
+    "name" : "Selection Method",
+    "dataTypeName" : "text",
+    "fieldName" : "selection_method",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1570476,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 701,
+      "smallest" : "Audition",
+      "null" : 0,
+      "largest" : "Zoned",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Screened: Language"
+      }, {
+        "count" : 19,
+        "item" : "Limited Unscreened"
+      }, {
+        "count" : 18,
+        "item" : "Screened"
+      }, {
+        "count" : 17,
+        "item" : "Ed. Opt."
+      }, {
+        "count" : 16,
+        "item" : "Test"
+      }, {
+        "count" : 15,
+        "item" : "For Continuing 8th Graders"
+      }, {
+        "count" : 14,
+        "item" : "Audition"
+      }, {
+        "count" : 13,
+        "item" : "Zoned"
+      }, {
+        "count" : 12,
+        "item" : "Unscreened"
+      }, {
+        "count" : 11,
+        "item" : "Screened: Language & Academics"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3003376,
+    "name" : "Selection Method Abbreviated",
+    "dataTypeName" : "text",
+    "fieldName" : "selection_method_abbreviated",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1570477,
+    "width" : 436,
+    "cachedContents" : {
+      "non_null" : 701,
+      "smallest" : "8",
+      "null" : 0,
+      "largest" : "Z",
+      "top" : [ {
+        "count" : 20,
+        "item" : "SL"
+      }, {
+        "count" : 19,
+        "item" : "L"
+      }, {
+        "count" : 18,
+        "item" : "S"
+      }, {
+        "count" : 17,
+        "item" : "E"
+      }, {
+        "count" : 16,
+        "item" : "T"
+      }, {
+        "count" : 15,
+        "item" : "8"
+      }, {
+        "count" : 14,
+        "item" : "A"
+      }, {
+        "count" : 13,
+        "item" : "Z"
+      }, {
+        "count" : 12,
+        "item" : "U"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3003377,
+    "name" : "Directory Page #",
+    "dataTypeName" : "number",
+    "fieldName" : "directory_page_",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1570478,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 701,
+      "smallest" : "1",
+      "sum" : "194226",
+      "null" : 0,
+      "average" : "277.0699001426534",
+      "largest" : "506",
+      "top" : [ {
+        "count" : 20,
+        "item" : "392"
+      }, {
+        "count" : 19,
+        "item" : "395"
+      }, {
+        "count" : 18,
+        "item" : "402"
+      }, {
+        "count" : 17,
+        "item" : "409"
+      }, {
+        "count" : 16,
+        "item" : "412"
+      }, {
+        "count" : 15,
+        "item" : "423"
+      }, {
+        "count" : 14,
+        "item" : "425"
+      }, {
+        "count" : 13,
+        "item" : "427"
+      }, {
+        "count" : 12,
+        "item" : "438"
+      }, {
+        "count" : 11,
+        "item" : "445"
+      }, {
+        "count" : 10,
+        "item" : "447"
+      }, {
+        "count" : 9,
+        "item" : "450"
+      }, {
+        "count" : 8,
+        "item" : "458"
+      }, {
+        "count" : 7,
+        "item" : "472"
+      }, {
+        "count" : 6,
+        "item" : "481"
+      }, {
+        "count" : 5,
+        "item" : "485"
+      }, {
+        "count" : 4,
+        "item" : "492"
+      }, {
+        "count" : 3,
+        "item" : "495"
+      }, {
+        "count" : 2,
+        "item" : "496"
+      }, {
+        "count" : 1,
+        "item" : "498"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3003378,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1570479,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 701,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Manhattan"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3003379,
+    "name" : "URLS",
+    "dataTypeName" : "text",
+    "fieldName" : "urls",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1570480,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 701,
+      "smallest" : "http://schools.nyc.gov/Redirector.htm?Page=Admissions&loc=K071",
+      "null" : 0,
+      "largest" : "http://schools.nyc.gov/Redirector.htm?Page=Admissions&loc=X696",
+      "top" : [ {
+        "count" : 20,
+        "item" : "http://schools.nyc.gov/Redirector.htm?Page=Admissions&loc=M415"
+      }, {
+        "count" : 19,
+        "item" : "http://schools.nyc.gov/Redirector.htm?Page=Admissions&loc=M460"
+      }, {
+        "count" : 18,
+        "item" : "http://schools.nyc.gov/Redirector.htm?Page=Admissions&loc=Q400"
+      }, {
+        "count" : 17,
+        "item" : "http://schools.nyc.gov/Redirector.htm?Page=Admissions&loc=Q495"
+      }, {
+        "count" : 16,
+        "item" : "http://schools.nyc.gov/Redirector.htm?Page=Admissions&loc=Q415"
+      }, {
+        "count" : 15,
+        "item" : "http://schools.nyc.gov/Redirector.htm?Page=Admissions&loc=Q440"
+      }, {
+        "count" : 14,
+        "item" : "http://schools.nyc.gov/Redirector.htm?Page=Admissions&loc=Q430"
+      }, {
+        "count" : 13,
+        "item" : "http://schools.nyc.gov/Redirector.htm?Page=Admissions&loc=Q501"
+      }, {
+        "count" : 12,
+        "item" : "http://schools.nyc.gov/Redirector.htm?Page=Admissions&loc=Q505"
+      }, {
+        "count" : 11,
+        "item" : "http://schools.nyc.gov/Redirector.htm?Page=Admissions&loc=Q480"
+      }, {
+        "count" : 10,
+        "item" : "http://schools.nyc.gov/Redirector.htm?Page=Admissions&loc=Q425"
+      }, {
+        "count" : 9,
+        "item" : "http://schools.nyc.gov/Redirector.htm?Page=Admissions&loc=Q450"
+      }, {
+        "count" : 8,
+        "item" : "http://schools.nyc.gov/Redirector.htm?Page=Admissions&loc=Q455"
+      }, {
+        "count" : 7,
+        "item" : "http://schools.nyc.gov/Redirector.htm?Page=Admissions&loc=Q600"
+      }, {
+        "count" : 6,
+        "item" : "http://schools.nyc.gov/Redirector.htm?Page=Admissions&loc=Q620"
+      }, {
+        "count" : 5,
+        "item" : "http://schools.nyc.gov/Redirector.htm?Page=Admissions&loc=Q445"
+      }, {
+        "count" : 4,
+        "item" : "http://schools.nyc.gov/Redirector.htm?Page=Admissions&loc=R450"
+      }, {
+        "count" : 3,
+        "item" : "http://schools.nyc.gov/Redirector.htm?Page=Admissions&loc=R080"
+      }, {
+        "count" : 2,
+        "item" : "http://schools.nyc.gov/Redirector.htm?Page=Admissions&loc=R440"
+      }, {
+        "count" : 1,
+        "item" : "http://schools.nyc.gov/Redirector.htm?Page=Admissions&loc=R445"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "9C43E14F-4F02-47F9-89B7-4E546C1A18EB",
+      "name" : "DescriptionHSEnrollmentDataset_BigApps.doc",
+      "filename" : "DescriptionHSEnrollmentDataset_BigApps.doc"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "ratings" : {
+    "rating" : 100
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "doe", "programs", "nyc", "data", "lifelong learning" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,193 @@
+{
+  "id" : "sci4-yqgk",
+  "name" : "Daily Report Of Single Adult And Family Intake",
+  "attribution" : "Department of Homeless Services (DHS)",
+  "attributionLink" : "http://www.nyc.gov/html/dhs/downloads/pdf/dailyreport.pdf",
+  "averageRating" : 0,
+  "category" : "Social Services",
+  "createdAt" : 1359644908,
+  "description" : "Daily report of how many Single Adults and Families are served",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2394479,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359645381,
+  "publicationGroup" : 648377,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1359645237,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 648377,
+  "totalTimesRated" : 0,
+  "viewCount" : 23,
+  "viewLastModified" : 1359645423,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 42253595,
+    "name" : "Date",
+    "dataTypeName" : "text",
+    "fieldName" : "date",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7434044,
+    "width" : 119,
+    "cachedContents" : {
+      "non_null" : 11,
+      "smallest" : "01/28/2013",
+      "null" : 0,
+      "largest" : "01/28/2013",
+      "top" : [ {
+        "count" : 20,
+        "item" : "01/28/2013"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 42253302,
+    "name" : "Daily Report",
+    "dataTypeName" : "text",
+    "fieldName" : "daily_report",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7434045,
+    "width" : 413,
+    "cachedContents" : {
+      "non_null" : 11,
+      "smallest" : "Family Intake - Adult Families Requesting Temporary Housing at AFIC",
+      "null" : 0,
+      "largest" : "Single Adults - Veterans In Short-term Housing",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Single Adults - Drop-in Center Clients Served"
+      }, {
+        "count" : 19,
+        "item" : "Single Adults - Drop-in Center Overnight Census"
+      }, {
+        "count" : 18,
+        "item" : "Single Adults - Faith Bed Census"
+      }, {
+        "count" : 17,
+        "item" : "Single Adults - Outreach Contacts"
+      }, {
+        "count" : 16,
+        "item" : "Single Adults - Outreach Placements"
+      }, {
+        "count" : 15,
+        "item" : "Single Adults - Safe Haven Utilization"
+      }, {
+        "count" : 14,
+        "item" : "Single Adults - Veterans In Short-term Housing"
+      }, {
+        "count" : 13,
+        "item" : "Family Intake - Families Requesting Temporary Housing at PATH"
+      }, {
+        "count" : 12,
+        "item" : "Family Intake - Adult Families Requesting Temporary Housing at AFIC"
+      }, {
+        "count" : 11,
+        "item" : "Family Intake - Families Placed in Overnight Accommodations"
+      }, {
+        "count" : 10,
+        "item" : "Family Intake - Families w/children at PATH Overnight (pre 10PM)"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42253303,
+    "name" : "Number",
+    "dataTypeName" : "number",
+    "fieldName" : "number",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7434046,
+    "width" : 111,
+    "cachedContents" : {
+      "non_null" : 11,
+      "smallest" : "0",
+      "sum" : "2344",
+      "null" : 0,
+      "average" : "213.0909090909091",
+      "largest" : "610",
+      "top" : [ {
+        "count" : 20,
+        "item" : "610"
+      }, {
+        "count" : 19,
+        "item" : "175"
+      }, {
+        "count" : 18,
+        "item" : "254"
+      }, {
+        "count" : 17,
+        "item" : "253"
+      }, {
+        "count" : 16,
+        "item" : "11"
+      }, {
+        "count" : 15,
+        "item" : "537"
+      }, {
+        "count" : 14,
+        "item" : "376"
+      }, {
+        "count" : 13,
+        "item" : "115"
+      }, {
+        "count" : 12,
+        "item" : "13"
+      }, {
+        "count" : 11,
+        "item" : "0"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Daily"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dhs", "homeless", "family", "adult", "intake", "daily", "report" ],
+  "flags" : [ "default" ]
+}

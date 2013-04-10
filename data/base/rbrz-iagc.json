@@ -1,0 +1,186 @@
+{
+  "id" : "rbrz-iagc",
+  "name" : "Assignment of Officers against whom Allegations were Substantiated",
+  "attribution" : "Civilian Complaint Review Board (CCRB)",
+  "attributionLink" : "http://www.nyc.gov/html/ccrb/pdf/ccrbappendices2011.pdf",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1361827506,
+  "description" : "This table represents the assignment of officers against whom allegations were substantiated",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2643992,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361908351,
+  "publicationGroup" : 699476,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1361908249,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 701481,
+  "totalTimesRated" : 0,
+  "viewCount" : 21,
+  "viewLastModified" : 1361910523,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 47142113,
+    "name" : "Year",
+    "dataTypeName" : "text",
+    "fieldName" : "year",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8158654,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "2009",
+      "null" : 0,
+      "largest" : "2011",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2009"
+      }, {
+        "count" : 19,
+        "item" : "2010"
+      }, {
+        "count" : 18,
+        "item" : "2011"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 47142114,
+    "name" : "Patrol Services Bureau",
+    "dataTypeName" : "text",
+    "fieldName" : "patrol_services_bureau",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8158655,
+    "width" : 128,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "164",
+      "null" : 0,
+      "largest" : "264",
+      "top" : [ {
+        "count" : 20,
+        "item" : "209"
+      }, {
+        "count" : 19,
+        "item" : "264"
+      }, {
+        "count" : 18,
+        "item" : "164"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47142115,
+    "name" : "Other Bureaus",
+    "dataTypeName" : "text",
+    "fieldName" : "other_bureaus",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8158656,
+    "width" : 79,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "110",
+      "null" : 0,
+      "largest" : "64",
+      "top" : [ {
+        "count" : 20,
+        "item" : "64"
+      }, {
+        "count" : 19,
+        "item" : "110"
+      }, {
+        "count" : 18,
+        "item" : "53"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47142116,
+    "name" : "Other Commands",
+    "dataTypeName" : "text",
+    "fieldName" : "other_commands",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8158657,
+    "width" : 95,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "213",
+      "null" : 0,
+      "largest" : "376",
+      "top" : [ {
+        "count" : 20,
+        "item" : "278"
+      }, {
+        "count" : 19,
+        "item" : "376"
+      }, {
+        "count" : 18,
+        "item" : "213"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "ccrb", "assignment", "officer", "substantiated", "allegations" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,449 @@
+{
+  "id" : "k2zs-b24z",
+  "name" : "Directory Of Future Construction Projects",
+  "attribution" : "Department of Design and Construction (DDC)",
+  "attributionLink" : "http://ddcftp.nyc.gov/inet/html/future.asp",
+  "averageRating" : 0,
+  "category" : "Construction and Housing",
+  "createdAt" : 1362577268,
+  "description" : "This table displays future construction projects which is based on the city's April approved budget. The fiscal year starts July 1 and ends June 30.",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "numberOfComments" : 0,
+  "oid" : 2729898,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362577612,
+  "publicationGroup" : 717486,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1362577280,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 717486,
+  "totalTimesRated" : 0,
+  "viewCount" : 26,
+  "viewLastModified" : 1362582764,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 48778204,
+    "name" : "No.(#)",
+    "dataTypeName" : "number",
+    "fieldName" : "no",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8398368,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 158,
+      "smallest" : "1",
+      "sum" : "12561",
+      "null" : 0,
+      "average" : "79.5",
+      "largest" : "158",
+      "top" : [ {
+        "count" : 20,
+        "item" : "124"
+      }, {
+        "count" : 19,
+        "item" : "125"
+      }, {
+        "count" : 18,
+        "item" : "126"
+      }, {
+        "count" : 17,
+        "item" : "127"
+      }, {
+        "count" : 16,
+        "item" : "128"
+      }, {
+        "count" : 15,
+        "item" : "129"
+      }, {
+        "count" : 14,
+        "item" : "130"
+      }, {
+        "count" : 13,
+        "item" : "131"
+      }, {
+        "count" : 12,
+        "item" : "132"
+      }, {
+        "count" : 11,
+        "item" : "133"
+      }, {
+        "count" : 10,
+        "item" : "134"
+      }, {
+        "count" : 9,
+        "item" : "135"
+      }, {
+        "count" : 8,
+        "item" : "136"
+      }, {
+        "count" : 7,
+        "item" : "137"
+      }, {
+        "count" : 6,
+        "item" : "138"
+      }, {
+        "count" : 5,
+        "item" : "139"
+      }, {
+        "count" : 4,
+        "item" : "140"
+      }, {
+        "count" : 3,
+        "item" : "141"
+      }, {
+        "count" : 2,
+        "item" : "142"
+      }, {
+        "count" : 1,
+        "item" : "143"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48778205,
+    "name" : "FISCAL YEAR   ",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8398369,
+    "width" : 78,
+    "cachedContents" : {
+      "non_null" : 158,
+      "smallest" : "2012",
+      "sum" : "318075",
+      "null" : 0,
+      "average" : "2013.132911392405",
+      "largest" : "2014",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2012"
+      }, {
+        "count" : 19,
+        "item" : "2013"
+      }, {
+        "count" : 18,
+        "item" : "2014"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48778206,
+    "name" : "EST. BID PERIOD   ",
+    "dataTypeName" : "text",
+    "fieldName" : "est_bid_period",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8398370,
+    "width" : 104,
+    "cachedContents" : {
+      "non_null" : 158,
+      "smallest" : "Apr 01 - Jun 30",
+      "null" : 0,
+      "largest" : "Oct 01 - Dec 31",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Apr 01 - Jun 30"
+      }, {
+        "count" : 19,
+        "item" : "Jan 01 - Mar 31"
+      }, {
+        "count" : 18,
+        "item" : "Jul 01 - Sep 30"
+      }, {
+        "count" : 17,
+        "item" : "Oct 01 - Dec 31"
+      }, {
+        "count" : 16,
+        "item" : "Jul-01 - Sep-30"
+      }, {
+        "count" : 15,
+        "item" : "Jul 01- Sep 30"
+      }, {
+        "count" : 14,
+        "item" : "Jul 01 -Sep 30"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 48778207,
+    "name" : "TRADE   ",
+    "dataTypeName" : "text",
+    "fieldName" : "trade",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8398371,
+    "width" : 136,
+    "cachedContents" : {
+      "non_null" : 158,
+      "smallest" : "Construction",
+      "null" : 0,
+      "largest" : "Plumbing, HVAC, Elec, GC",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Construction"
+      }, {
+        "count" : 19,
+        "item" : "Plumbing, HVAC, Elec, GC"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 48778208,
+    "name" : "FMS ID   ",
+    "dataTypeName" : "text",
+    "fieldName" : "fms_id",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8398372,
+    "width" : 85,
+    "cachedContents" : {
+      "non_null" : 158,
+      "smallest" : "C75AMKCAC",
+      "null" : 0,
+      "largest" : "TF18-2012",
+      "top" : [ {
+        "count" : 20,
+        "item" : "SEQ201BN5"
+      }, {
+        "count" : 19,
+        "item" : "SEQ201BS5"
+      }, {
+        "count" : 18,
+        "item" : "SER00201W"
+      }, {
+        "count" : 17,
+        "item" : "SER002311"
+      }, {
+        "count" : 16,
+        "item" : "SER002318"
+      }, {
+        "count" : 15,
+        "item" : "SER200208"
+      }, {
+        "count" : 14,
+        "item" : "SER200209"
+      }, {
+        "count" : 13,
+        "item" : "SER200226"
+      }, {
+        "count" : 12,
+        "item" : "SER200238"
+      }, {
+        "count" : 11,
+        "item" : "SER200252"
+      }, {
+        "count" : 10,
+        "item" : "SETVDDC12"
+      }, {
+        "count" : 9,
+        "item" : "SEX00201X"
+      }, {
+        "count" : 8,
+        "item" : "SEX20042"
+      }, {
+        "count" : 7,
+        "item" : "CONISPH2A"
+      }, {
+        "count" : 6,
+        "item" : "HH115AUBU"
+      }, {
+        "count" : 5,
+        "item" : "HL82RPZ2"
+      }, {
+        "count" : 4,
+        "item" : "HWK1048B"
+      }, {
+        "count" : 3,
+        "item" : "HWK300-01"
+      }, {
+        "count" : 2,
+        "item" : "HWK639W"
+      }, {
+        "count" : 1,
+        "item" : "HWM1683"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48778209,
+    "name" : "DESCRIPTION   ",
+    "dataTypeName" : "text",
+    "fieldName" : "description",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8398373,
+    "width" : 1439,
+    "cachedContents" : {
+      "non_null" : 158,
+      "smallest" : "ADA UPGRADE",
+      "null" : 0,
+      "largest" : "WIDEN ROADWAY AND PERFORM RELATED WORK: AMBOY ROAD BETWEEN RICHMOND AND ARMSTRONG AVENUES",
+      "top" : [ {
+        "count" : 20,
+        "item" : "REBUILD EXISTING CATCH BASINS IN QUEENS"
+      }, {
+        "count" : 19,
+        "item" : "RECONSTRUCT EXISTING DETERIORATED VITREOUS CLAY PIPE SEWERS"
+      }, {
+        "count" : 18,
+        "item" : "EMERGENCY REPAIR AND RECONSTRUCTION OF EXISTING DETERIORATED VITREOUS CLAY PIPE SEWERS IN VARIOUS LOCATIONS, STATEN ISLAND"
+      }, {
+        "count" : 17,
+        "item" : "CONSTRUCT STORM AND SANITARY SEWERS AND APPURTENANCES: BERTRAM, PHILIP AND POILLON AVENUES BELOW HYLAN BOULEVARD, INCLUDING KENWOOD AVENUE, LYNCH STREET, PLUS HYLAN BETWEEN BERTRAM AND PHILIP"
+      }, {
+        "count" : 16,
+        "item" : "REPLACE SANITARY SEWER IN WINDSOR ROAD BETWEEN LITTLE CLOVE ROAD AND TODT HILL ROAD"
+      }, {
+        "count" : 15,
+        "item" : "INSTALL STORM AND SANITARY SEWERS, WATER MAINS AND APPURTENANCES IN WARDS POINT AVENUE AND ADJACENT SECTIONS OF AMBOY ROAD, SATTERLEE STREET, TOTTENVILLE PLACE AND PERTH AMBOY PLACE"
+      }, {
+        "count" : 14,
+        "item" : "INSTALL STORM AND SANITARY SEWERS, AND WATER MAIN: WOODROW ROAD FROM BELFIELD AVENUE TO JEFFERSON AVENUE; BELFIELD FROM WOODROW TO CROWN AVENUE; HOLCOMB AVENUE FROM WOODROW TO CROWN; CANTON AVENUE FROM VESPA AVENUE TO CROWN; AND VESPA FROM CANTON TO HOLCO"
+      }, {
+        "count" : 13,
+        "item" : "INSTALL SANITARY AND STORM SEWERS, AND WATER MAIN REPLACEMENT, ALONG VICTORY BOULEVARD AND ADJOINING STREETS IN THE TRAVIS AREA"
+      }, {
+        "count" : 12,
+        "item" : "REPLACE STORM AND SANITARY SEWERS, INSTALL NEW EXTENSIONS: CUBA AVENUE AND VICINITY, STATEN ISLAND"
+      }, {
+        "count" : 11,
+        "item" : "INSTALL STORM AND SANITARY SEWERS IN SCARBORO AVENUE AREA"
+      }, {
+        "count" : 10,
+        "item" : "REMOTE CAMERA SEWER INSPECTIONS ON AN AS-NEEDED BASIS, CITYWIDE"
+      }, {
+        "count" : 9,
+        "item" : "INSTALL STORM SEWER IN WILLIAM AVENUE BETWEEN DITMARS STREET AND TIER STREET"
+      }, {
+        "count" : 8,
+        "item" : "INSTALL STORM AND SANITARY SEWERS, TRUNK AND DISTRIBUTION WATER MAINS, CONY ISLAND AREA INCLUDING: WEST 21ST STREET BETWEEN NEPTUNE AND SURF AVENUES, AND MERMAID AVENUE BETWEEN WEST 21ST AND WEST 24TH STREETS"
+      }, {
+        "count" : 7,
+        "item" : "UPGRADE RESTROOMS"
+      }, {
+        "count" : 6,
+        "item" : "INSTALL/MODIFY REDUCED PRESSURE ZONE (BACKFLOW PREVENTION) DEVICES AT MULTIPLE HEALTH CENTERS CITY-WIDE"
+      }, {
+        "count" : 5,
+        "item" : "RECONFIGURE FLUSHING AVENUE FROM NAVY STREET TO WILLIAMSBURG STREET, TO INCLUDE: A TWO-WAY, CLASS 1 SEPARATED BIKE PATH; A SIX FOOT SIDEWALK EXTENSION; IMPROVED PAVEMENT MARKINGS AT ALL INTERSECTIONS"
+      }, {
+        "count" : 4,
+        "item" : "RECONSTRUCT NORTH FLATBUSH AVENUE FROM ATLANTIC AVENUE TO GRAND ARMY PLAZA, TO INCLUDE GREEN TRIANGLE STREETSCAPES WITH TRAFFIC NECKDOWNS AT INTERSECTIONS WITH CARLTON AVENUE AND PARK PLACE; 7TH AVENUE AND PARK PLACE; 6TH AVENUE AND ST. MARKS AVENUE; 8TH"
+      }, {
+        "count" : 3,
+        "item" : "STREET RECONSTRUCTION INCLUDING IMPROVED ACCESS FOR BICYCLISTS AND PEDESTRIANS: TILLARY STREET BETWEEN CADMAN PLAZA AND NAVY STREET, AND ADAMS STREET FROM TILLARY TO SANDS STREET, PLUS ADJACENT SECTIONS OF GOLD AND JOHNSON STREETS, SANDS, PEARL AND HIGH S"
+      }, {
+        "count" : 2,
+        "item" : "ROADWAY RECONSTRUCTION, WEST 33RD STREET BETWEEN 10TH AND 11TH AVENUES, INCLUDING SEWER AND WATER MAIN REPLACEMENT"
+      }, {
+        "count" : 1,
+        "item" : "INSTALL COMPLEX PEDESTRIAN RAMPS AT LANDMARK LOCATIONS IN BROOKLYN AND MANHATTAN"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48778210,
+    "name" : "BUDGET RANGE (X $1000)   ",
+    "dataTypeName" : "text",
+    "fieldName" : "budget_range_x_1000",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8398374,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 158,
+      "smallest" : "1000-2500",
+      "null" : 0,
+      "largest" : "Over 10 mil",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Over 10 mil"
+      }, {
+        "count" : 19,
+        "item" : "5000-10000"
+      }, {
+        "count" : 18,
+        "item" : "1000-2500"
+      }, {
+        "count" : 17,
+        "item" : "2500-5000"
+      }, {
+        "count" : 16,
+        "item" : "2500 -5000"
+      }, {
+        "count" : 15,
+        "item" : "250-500"
+      }, {
+        "count" : 14,
+        "item" : "500-1000"
+      }, {
+        "count" : 13,
+        "item" : "5000- 10000"
+      }, {
+        "count" : 12,
+        "item" : "500- 1000"
+      }, {
+        "count" : 11,
+        "item" : "100-250"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "department of design and construction", "ddc", "future" ],
+  "flags" : [ "default" ]
+}

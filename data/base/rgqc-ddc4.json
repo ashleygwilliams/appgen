@@ -1,0 +1,311 @@
+{
+  "id" : "rgqc-ddc4",
+  "name" : "CCRB:  Average Days for the CCRB to Close Cases Measured from Date of Report 2005 - 2009",
+  "attribution" : "Civilian Complaint Review Board (CCRB)",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1316113132,
+  "description" : "Civilian Complaint Review Board (CCRB) complaint activity data, 2005-2009.\r\nUpdate Frequency: Annually",
+  "displayType" : "table",
+  "downloadCount" : 30,
+  "numberOfComments" : 0,
+  "oid" : 333104,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1316113132,
+  "publicationGroup" : 240441,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1316113136,
+  "rowsUpdatedBy" : "k2fz-tf56",
+  "signed" : false,
+  "tableId" : 240441,
+  "totalTimesRated" : 0,
+  "viewCount" : 47,
+  "viewLastModified" : 1318356710,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2838703,
+    "name" : "Case Type",
+    "dataTypeName" : "text",
+    "fieldName" : "case_type",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1520060,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "All Cases",
+      "null" : 0,
+      "largest" : "Truncated Investigations",
+      "top" : [ {
+        "count" : 1,
+        "item" : "Truncated Investigations"
+      }, {
+        "count" : 1,
+        "item" : "All Cases"
+      }, {
+        "count" : 1,
+        "item" : "Mediation Attempted"
+      }, {
+        "count" : 1,
+        "item" : "Mediations"
+      }, {
+        "count" : 1,
+        "item" : "Full Investigations"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2838704,
+    "name" : "2005",
+    "dataTypeName" : "number",
+    "fieldName" : "_2005",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1520061,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "121",
+      "sum" : "1049",
+      "null" : 0,
+      "average" : "209.8",
+      "largest" : "294",
+      "top" : [ {
+        "count" : 1,
+        "item" : "195"
+      }, {
+        "count" : 1,
+        "item" : "254"
+      }, {
+        "count" : 1,
+        "item" : "185"
+      }, {
+        "count" : 1,
+        "item" : "121"
+      }, {
+        "count" : 1,
+        "item" : "294"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2838705,
+    "name" : "2006",
+    "dataTypeName" : "number",
+    "fieldName" : "_2006",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1520062,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "106",
+      "sum" : "912",
+      "null" : 0,
+      "average" : "182.4",
+      "largest" : "281",
+      "top" : [ {
+        "count" : 1,
+        "item" : "172"
+      }, {
+        "count" : 1,
+        "item" : "106"
+      }, {
+        "count" : 1,
+        "item" : "198"
+      }, {
+        "count" : 1,
+        "item" : "155"
+      }, {
+        "count" : 1,
+        "item" : "281"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2838706,
+    "name" : "2007",
+    "dataTypeName" : "number",
+    "fieldName" : "_2007",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1520063,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "112",
+      "sum" : "944",
+      "null" : 0,
+      "average" : "188.8",
+      "largest" : "303",
+      "top" : [ {
+        "count" : 1,
+        "item" : "303"
+      }, {
+        "count" : 1,
+        "item" : "181"
+      }, {
+        "count" : 1,
+        "item" : "200"
+      }, {
+        "count" : 1,
+        "item" : "148"
+      }, {
+        "count" : 1,
+        "item" : "112"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2838707,
+    "name" : "2008",
+    "dataTypeName" : "number",
+    "fieldName" : "_2008",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1520064,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "98",
+      "sum" : "979",
+      "null" : 0,
+      "average" : "195.8",
+      "largest" : "316",
+      "top" : [ {
+        "count" : 1,
+        "item" : "170"
+      }, {
+        "count" : 1,
+        "item" : "167"
+      }, {
+        "count" : 1,
+        "item" : "316"
+      }, {
+        "count" : 1,
+        "item" : "228"
+      }, {
+        "count" : 1,
+        "item" : "98"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2838708,
+    "name" : "2009",
+    "dataTypeName" : "number",
+    "fieldName" : "_2009",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1520065,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "113",
+      "sum" : "1044",
+      "null" : 0,
+      "average" : "208.8",
+      "largest" : "349",
+      "top" : [ {
+        "count" : 1,
+        "item" : "349"
+      }, {
+        "count" : 1,
+        "item" : "193"
+      }, {
+        "count" : 1,
+        "item" : "227"
+      }, {
+        "count" : 1,
+        "item" : "113"
+      }, {
+        "count" : 1,
+        "item" : "162"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2838709,
+    "name" : "Five-year Average",
+    "dataTypeName" : "number",
+    "fieldName" : "five_year_average",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1520066,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "110",
+      "sum" : "982",
+      "null" : 0,
+      "average" : "196.4",
+      "largest" : "308",
+      "top" : [ {
+        "count" : 1,
+        "item" : "182"
+      }, {
+        "count" : 1,
+        "item" : "163"
+      }, {
+        "count" : 1,
+        "item" : "308"
+      }, {
+        "count" : 1,
+        "item" : "110"
+      }, {
+        "count" : 1,
+        "item" : "219"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "complaint", "civilian", "review", "board", "activity", "ccrb", "civilian complaint review board", "2005", "2006", "2007", "2008", "2009", "complaint activity", "statistics" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,880 @@
+{
+  "id" : "ujcn-y8yu",
+  "name" : "Prequalified Firms",
+  "attribution" : "School Construction Authority (SCA)",
+  "averageRating" : 0,
+  "createdAt" : 1311775139,
+  "description" : "List of firms qualified to perform work for the School Construction Authority, their trades, and the end date of their qualification.",
+  "displayType" : "table",
+  "downloadCount" : 381,
+  "numberOfComments" : 0,
+  "oid" : 342352,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318119128,
+  "publicationGroup" : 238843,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318119006,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 244206,
+  "totalTimesRated" : 0,
+  "viewCount" : 116,
+  "viewLastModified" : 1363704024,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2990019,
+    "name" : "VENDOR_NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "vendor_name",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1501645,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 5200,
+      "smallest" : "   ",
+      "null" : 0,
+      "largest" : "ZWICKER ELECTRIC CO., INC.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "TWINS ELECTRIC CORP."
+      }, {
+        "count" : 19,
+        "item" : "UTOPIA CONSTRUCTION CORP. OF NY"
+      }, {
+        "count" : 18,
+        "item" : "VREX REMODELING INC"
+      }, {
+        "count" : 17,
+        "item" : "Walker Construction & Development, Inc."
+      }, {
+        "count" : 16,
+        "item" : "Walker Contractors, Inc."
+      }, {
+        "count" : 15,
+        "item" : "WALTON ELECTRICAL CONSTRUCTION CORP."
+      }, {
+        "count" : 14,
+        "item" : "WASCO CONTRACTING, INC."
+      }, {
+        "count" : 13,
+        "item" : "WBE SHEET METAL, INC."
+      }, {
+        "count" : 12,
+        "item" : "WEBNEST CONSTRUCTION COMPANY"
+      }, {
+        "count" : 11,
+        "item" : "WESTERN WATERPROOFING CO., INC."
+      }, {
+        "count" : 10,
+        "item" : "WILLIAM A. GROSS CONST. ASSOC. INC."
+      }, {
+        "count" : 9,
+        "item" : "WOLKOW BRAKER ROOFING CORP."
+      }, {
+        "count" : 8,
+        "item" : "WOODWORKS CONSTRUCTION COMPANY, INC"
+      }, {
+        "count" : 7,
+        "item" : "WSP Environment & Energy LLC"
+      }, {
+        "count" : 6,
+        "item" : "X-cell Insulation"
+      }, {
+        "count" : 5,
+        "item" : "Yonkers Contracting Company, Inc."
+      }, {
+        "count" : 4,
+        "item" : "YONKERS PAVING CONCEPTS, INC."
+      }, {
+        "count" : 3,
+        "item" : "YORK SCAFFOLD EQUIPMENT CORP."
+      }, {
+        "count" : 2,
+        "item" : "YORK SIGN INDUSTRIES"
+      }, {
+        "count" : 1,
+        "item" : "YOUNG EQUIPMENT SALES INC."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990020,
+    "name" : "ZIP CODE",
+    "dataTypeName" : "number",
+    "fieldName" : "zip_code",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501646,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 0,
+      "sum" : "0",
+      "null" : 5200
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990021,
+    "name" : "PHONE",
+    "dataTypeName" : "text",
+    "fieldName" : "phone",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1501647,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 5198,
+      "smallest" : "   ",
+      "null" : 2,
+      "largest" : "YORKTOWN HEIGHTS",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New York"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "NEW YORK"
+      }, {
+        "count" : 17,
+        "item" : "BROOKLYN"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      }, {
+        "count" : 15,
+        "item" : "Long Island City"
+      }, {
+        "count" : 14,
+        "item" : "Bronx"
+      }, {
+        "count" : 13,
+        "item" : "BRONX"
+      }, {
+        "count" : 12,
+        "item" : "LONG ISLAND CITY"
+      }, {
+        "count" : 11,
+        "item" : "STATEN ISLAND"
+      }, {
+        "count" : 10,
+        "item" : "FARMINGDALE"
+      }, {
+        "count" : 9,
+        "item" : "Astoria"
+      }, {
+        "count" : 8,
+        "item" : "EAST ELMHURST"
+      }, {
+        "count" : 7,
+        "item" : "Central Islip"
+      }, {
+        "count" : 6,
+        "item" : "New Hyde Park"
+      }, {
+        "count" : 5,
+        "item" : "Woodside"
+      }, {
+        "count" : 4,
+        "item" : "Chestnut Ridge"
+      }, {
+        "count" : 3,
+        "item" : "Farmingdale,"
+      }, {
+        "count" : 2,
+        "item" : "Jamaica"
+      }, {
+        "count" : 1,
+        "item" : "MOUNT VERNON"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990022,
+    "name" : "FAX",
+    "dataTypeName" : "text",
+    "fieldName" : "fax",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1501648,
+    "width" : 136,
+    "cachedContents" : {
+      "non_null" : 5198,
+      "smallest" : "   ",
+      "null" : 2,
+      "largest" : "WV",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NY"
+      }, {
+        "count" : 19,
+        "item" : "NJ"
+      }, {
+        "count" : 18,
+        "item" : "DC"
+      }, {
+        "count" : 17,
+        "item" : "CT"
+      }, {
+        "count" : 16,
+        "item" : "PA"
+      }, {
+        "count" : 15,
+        "item" : "NC"
+      }, {
+        "count" : 14,
+        "item" : "On"
+      }, {
+        "count" : 13,
+        "item" : "VA"
+      }, {
+        "count" : 12,
+        "item" : "OH"
+      }, {
+        "count" : 11,
+        "item" : "NH"
+      }, {
+        "count" : 10,
+        "item" : "IL"
+      }, {
+        "count" : 9,
+        "item" : "Qu"
+      }, {
+        "count" : 8,
+        "item" : "RI"
+      }, {
+        "count" : 7,
+        "item" : "IN"
+      }, {
+        "count" : 6,
+        "item" : "CA"
+      }, {
+        "count" : 5,
+        "item" : "GA"
+      }, {
+        "count" : 4,
+        "item" : "KS"
+      }, {
+        "count" : 3,
+        "item" : "TX"
+      }, {
+        "count" : 2,
+        "item" : "WV"
+      }, {
+        "count" : 1,
+        "item" : "MD"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990023,
+    "name" : "CONTACT PERSON",
+    "dataTypeName" : "text",
+    "fieldName" : "contact_person",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1501649,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 5200,
+      "smallest" : "   ",
+      "null" : 0,
+      "largest" : "973-994-9220",
+      "top" : [ {
+        "count" : 20,
+        "item" : "718-292-5536"
+      }, {
+        "count" : 19,
+        "item" : "516-647-4441"
+      }, {
+        "count" : 18,
+        "item" : "347-682-1702"
+      }, {
+        "count" : 17,
+        "item" : "718-626-5089"
+      }, {
+        "count" : 16,
+        "item" : "917-446-2843"
+      }, {
+        "count" : 15,
+        "item" : "718-978-2004"
+      }, {
+        "count" : 14,
+        "item" : "718-449-3500"
+      }, {
+        "count" : 13,
+        "item" : "718-542-3662"
+      }, {
+        "count" : 12,
+        "item" : "516-326-4515"
+      }, {
+        "count" : 11,
+        "item" : "201-945-0210"
+      }, {
+        "count" : 10,
+        "item" : "516-437-7768"
+      }, {
+        "count" : 9,
+        "item" : "718-384-3456"
+      }, {
+        "count" : 8,
+        "item" : "212-888-7311"
+      }, {
+        "count" : 7,
+        "item" : "732-564-0888"
+      }, {
+        "count" : 6,
+        "item" : "631-780-6601"
+      }, {
+        "count" : 5,
+        "item" : "914-965-1500"
+      }, {
+        "count" : 4,
+        "item" : "914-235-7000"
+      }, {
+        "count" : 3,
+        "item" : "718-784-6666"
+      }, {
+        "count" : 2,
+        "item" : "516-871-0401"
+      }, {
+        "count" : 1,
+        "item" : "631-582-5900"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990024,
+    "name" : "MBE",
+    "dataTypeName" : "text",
+    "fieldName" : "mbe",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1501650,
+    "width" : 136,
+    "cachedContents" : {
+      "non_null" : 5200,
+      "smallest" : "   ",
+      "null" : 0,
+      "largest" : "973-956-8811",
+      "top" : [ {
+        "count" : 20,
+        "item" : "718-402-6338"
+      }, {
+        "count" : 19,
+        "item" : "516-501-0051"
+      }, {
+        "count" : 18,
+        "item" : "347-920-4674"
+      }, {
+        "count" : 17,
+        "item" : "718-228-5598"
+      }, {
+        "count" : 16,
+        "item" : "845-426-0202"
+      }, {
+        "count" : 15,
+        "item" : "718-978-2015"
+      }, {
+        "count" : 14,
+        "item" : "718-228-9566"
+      }, {
+        "count" : 13,
+        "item" : "516-328-2559"
+      }, {
+        "count" : 12,
+        "item" : "201-945-7841"
+      }, {
+        "count" : 11,
+        "item" : "516-437-7768"
+      }, {
+        "count" : 10,
+        "item" : "718-387-4931"
+      }, {
+        "count" : 9,
+        "item" : "212-832-8864"
+      }, {
+        "count" : 8,
+        "item" : "732-564-1888"
+      }, {
+        "count" : 7,
+        "item" : "631-406-6843"
+      }, {
+        "count" : 6,
+        "item" : "914-378-8880"
+      }, {
+        "count" : 5,
+        "item" : "914-633-9157"
+      }, {
+        "count" : 4,
+        "item" : "718-482-9016"
+      }, {
+        "count" : 3,
+        "item" : "516-871-0402"
+      }, {
+        "count" : 2,
+        "item" : "631-582-9520"
+      }, {
+        "count" : 1,
+        "item" : "646-487-5555"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990025,
+    "name" : "WBE",
+    "dataTypeName" : "text",
+    "fieldName" : "wbe",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1501651,
+    "width" : 136,
+    "cachedContents" : {
+      "non_null" : 5200,
+      "smallest" : "   ",
+      "null" : 0,
+      "largest" : "Zoran Grgurovic",
+      "top" : [ {
+        "count" : 20,
+        "item" : "ANTHONY DIFUSCO"
+      }, {
+        "count" : 19,
+        "item" : "MICHAEL SCLAFANI"
+      }, {
+        "count" : 18,
+        "item" : "VEDAT REXHEPI"
+      }, {
+        "count" : 17,
+        "item" : "LOUIS WALKER"
+      }, {
+        "count" : 16,
+        "item" : "Garfield Walker"
+      }, {
+        "count" : 15,
+        "item" : "Marc Walton"
+      }, {
+        "count" : 14,
+        "item" : "Zahir Ilyas"
+      }, {
+        "count" : 13,
+        "item" : "Rosemarie Gerenia-"
+      }, {
+        "count" : 12,
+        "item" : "Shazia Anjum"
+      }, {
+        "count" : 11,
+        "item" : "Dan Tyler"
+      }, {
+        "count" : 10,
+        "item" : "Theresa Carbone"
+      }, {
+        "count" : 9,
+        "item" : "Felix H. Wolkowitz"
+      }, {
+        "count" : 8,
+        "item" : "W. Scott Rives"
+      }, {
+        "count" : 7,
+        "item" : "Mark Foley"
+      }, {
+        "count" : 6,
+        "item" : "Jeniffer Anderson"
+      }, {
+        "count" : 5,
+        "item" : "John L. Kolaya"
+      }, {
+        "count" : 4,
+        "item" : "Ronald Belizze"
+      }, {
+        "count" : 3,
+        "item" : "Tammy Wood"
+      }, {
+        "count" : 2,
+        "item" : "SUNIL SAIGAL"
+      }, {
+        "count" : 1,
+        "item" : "Paul Chiarelli"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990026,
+    "name" : "LBE",
+    "dataTypeName" : "text",
+    "fieldName" : "lbe",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1501652,
+    "width" : 136,
+    "cachedContents" : {
+      "non_null" : 5200,
+      "smallest" : "   ",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      }, {
+        "count" : 18,
+        "item" : "   "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990027,
+    "name" : "> 1M",
+    "dataTypeName" : "text",
+    "fieldName" : "_m",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1501653,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 5200,
+      "smallest" : "   ",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      }, {
+        "count" : 18,
+        "item" : "   "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990028,
+    "name" : "PREQUALIFIED DATE",
+    "dataTypeName" : "text",
+    "fieldName" : "prequalified_date",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1501654,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 5200,
+      "smallest" : "   ",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      }, {
+        "count" : 18,
+        "item" : "   "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990029,
+    "name" : "TRADE CODE (MASTER FORMAT)",
+    "dataTypeName" : "text",
+    "fieldName" : "trade_code_master_format_",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1501655,
+    "width" : 412,
+    "cachedContents" : {
+      "non_null" : 5200,
+      "smallest" : "   ",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Y"
+      }, {
+        "count" : 19,
+        "item" : "N"
+      }, {
+        "count" : 18,
+        "item" : "   "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990030,
+    "name" : "TRADE DESCRIPTION",
+    "dataTypeName" : "text",
+    "fieldName" : "trade_description",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1501656,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 5194,
+      "smallest" : "   ",
+      "null" : 6,
+      "largest" : "9/9/2014",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10/31/2011"
+      }, {
+        "count" : 19,
+        "item" : "9/30/2011"
+      }, {
+        "count" : 18,
+        "item" : "7/21/2012"
+      }, {
+        "count" : 17,
+        "item" : "9/17/2012"
+      }, {
+        "count" : 16,
+        "item" : "5/3/2013"
+      }, {
+        "count" : 15,
+        "item" : "3/17/2012"
+      }, {
+        "count" : 14,
+        "item" : "12/23/2012"
+      }, {
+        "count" : 13,
+        "item" : "10/6/2012"
+      }, {
+        "count" : 12,
+        "item" : "3/8/2013"
+      }, {
+        "count" : 11,
+        "item" : "5/13/2012"
+      }, {
+        "count" : 10,
+        "item" : "7/29/2013"
+      }, {
+        "count" : 9,
+        "item" : "10/16/2012"
+      }, {
+        "count" : 8,
+        "item" : "4/14/2013"
+      }, {
+        "count" : 7,
+        "item" : "5/26/2012"
+      }, {
+        "count" : 6,
+        "item" : "9/11/2012"
+      }, {
+        "count" : 5,
+        "item" : "3/1/2014"
+      }, {
+        "count" : 4,
+        "item" : "3/24/2012"
+      }, {
+        "count" : 3,
+        "item" : "3/16/2014"
+      }, {
+        "count" : 2,
+        "item" : "1/12/2013"
+      }, {
+        "count" : 1,
+        "item" : "1/15/2012"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990031,
+    "name" : "Location 1",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 14,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1501657,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 2675,
+      "smallest" : {
+        "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"10100\"}"
+      },
+      "null" : 2525,
+      "largest" : {
+        "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"99999\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"15700\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"16000\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"99960\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"16700\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"99999\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"35000\"}"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"99945\"}"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"15400\"}"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"12600\"}"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"14800\"}"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"10500\"}"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"10600\"}"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"12300\"}"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"11060\"}"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"11480\"}"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-81.86194799970036",
+          "latitude" : "30.07093199971206",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"32030\"}"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-81.86194799970036",
+          "latitude" : "30.07093199971206",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"32030\"}"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-110.58843608195957",
+          "latitude" : "36.24375867762092",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"86030\"}"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-87.78315275079876",
+          "latitude" : "35.758242445432586",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"37097\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-86.39374936544084",
+          "latitude" : "35.624320835538185",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"37020\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "A85EFA94-FBC7-46D3-85D1-6D104E243B8A",
+      "name" : "Big_Apps_Data_Desc.xls",
+      "filename" : "Big_Apps_Data_Desc.xls"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "school", "construction", "authority", "sca", "firm", "company", "companies", "work", "trade", "qualification", "qualify", "qualified", "education", "lifelong learning" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,711 @@
+{
+  "id" : "yqzy-qebu",
+  "name" : "Cyclist Count By Month At Selected Commuter Locations",
+  "attribution" : "Department of Transportation (DOT)",
+  "attributionLink" : "http://www.nyc.gov/html/dot/downloads/pdf/commuter_cycling_indicator_and_data_2011.pdf",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1362586382,
+  "description" : "Weekday counts of cyclists from 7am to 7pm at selected commuter locations",
+  "displayType" : "table",
+  "downloadCount" : 3,
+  "numberOfComments" : 0,
+  "oid" : 2731115,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362586586,
+  "publicationGroup" : 717814,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1362586386,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 717814,
+  "totalTimesRated" : 0,
+  "viewCount" : 23,
+  "viewLastModified" : 1363706082,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 48796768,
+    "name" : "Month",
+    "dataTypeName" : "text",
+    "fieldName" : "month",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402593,
+    "width" : 78,
+    "cachedContents" : {
+      "non_null" : 31,
+      "smallest" : "April",
+      "null" : 0,
+      "largest" : "September",
+      "top" : [ {
+        "count" : 20,
+        "item" : "May"
+      }, {
+        "count" : 19,
+        "item" : "August"
+      }, {
+        "count" : 18,
+        "item" : "September"
+      }, {
+        "count" : 17,
+        "item" : "April"
+      }, {
+        "count" : 16,
+        "item" : "June"
+      }, {
+        "count" : 15,
+        "item" : "July"
+      }, {
+        "count" : 14,
+        "item" : "October"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48796769,
+    "name" : "Year",
+    "dataTypeName" : "number",
+    "fieldName" : "year",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8402594,
+    "width" : 58,
+    "cachedContents" : {
+      "non_null" : 31,
+      "smallest" : "2007",
+      "sum" : "62287",
+      "null" : 0,
+      "average" : "2009.258064516129",
+      "largest" : "2011",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2007"
+      }, {
+        "count" : 19,
+        "item" : "2008"
+      }, {
+        "count" : 18,
+        "item" : "2009"
+      }, {
+        "count" : 17,
+        "item" : "2010"
+      }, {
+        "count" : 16,
+        "item" : "2011"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 48796770,
+    "name" : "Staten Island Ferry",
+    "dataTypeName" : "number",
+    "fieldName" : "staten_island_ferry",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8402595,
+    "width" : 121,
+    "cachedContents" : {
+      "non_null" : 31,
+      "smallest" : "132",
+      "sum" : "9340",
+      "null" : 0,
+      "average" : "301.2903225806452",
+      "largest" : "492",
+      "top" : [ {
+        "count" : 20,
+        "item" : "341"
+      }, {
+        "count" : 19,
+        "item" : "266"
+      }, {
+        "count" : 18,
+        "item" : "149"
+      }, {
+        "count" : 17,
+        "item" : "153"
+      }, {
+        "count" : 16,
+        "item" : "194"
+      }, {
+        "count" : 15,
+        "item" : "132"
+      }, {
+        "count" : 14,
+        "item" : "212"
+      }, {
+        "count" : 13,
+        "item" : "318"
+      }, {
+        "count" : 12,
+        "item" : "269"
+      }, {
+        "count" : 11,
+        "item" : "203"
+      }, {
+        "count" : 10,
+        "item" : "185"
+      }, {
+        "count" : 9,
+        "item" : "209"
+      }, {
+        "count" : 8,
+        "item" : "161"
+      }, {
+        "count" : 7,
+        "item" : "339"
+      }, {
+        "count" : 6,
+        "item" : "345"
+      }, {
+        "count" : 5,
+        "item" : "272"
+      }, {
+        "count" : 4,
+        "item" : "268"
+      }, {
+        "count" : 3,
+        "item" : "356"
+      }, {
+        "count" : 2,
+        "item" : "403"
+      }, {
+        "count" : 1,
+        "item" : "237"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48796771,
+    "name" : "Brooklyn Bridge",
+    "dataTypeName" : "number",
+    "fieldName" : "brooklyn_bridge",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8402596,
+    "width" : 99,
+    "cachedContents" : {
+      "non_null" : 31,
+      "smallest" : "1325",
+      "sum" : "63153",
+      "null" : 0,
+      "average" : "2037.193548387097",
+      "largest" : "2943",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1574"
+      }, {
+        "count" : 19,
+        "item" : "1689"
+      }, {
+        "count" : 18,
+        "item" : "1616"
+      }, {
+        "count" : 17,
+        "item" : "1325"
+      }, {
+        "count" : 16,
+        "item" : "1776"
+      }, {
+        "count" : 15,
+        "item" : "1638"
+      }, {
+        "count" : 14,
+        "item" : "1594"
+      }, {
+        "count" : 13,
+        "item" : "1642"
+      }, {
+        "count" : 12,
+        "item" : "1991"
+      }, {
+        "count" : 11,
+        "item" : "1512"
+      }, {
+        "count" : 10,
+        "item" : "1585"
+      }, {
+        "count" : 9,
+        "item" : "2601"
+      }, {
+        "count" : 8,
+        "item" : "2504"
+      }, {
+        "count" : 7,
+        "item" : "2943"
+      }, {
+        "count" : 6,
+        "item" : "2505"
+      }, {
+        "count" : 5,
+        "item" : "1930"
+      }, {
+        "count" : 4,
+        "item" : "2479"
+      }, {
+        "count" : 3,
+        "item" : "2062"
+      }, {
+        "count" : 2,
+        "item" : "2466"
+      }, {
+        "count" : 1,
+        "item" : "1376"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48796772,
+    "name" : "Manhattan Bridge",
+    "dataTypeName" : "number",
+    "fieldName" : "manhattan_bridge",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8402597,
+    "width" : 123,
+    "cachedContents" : {
+      "non_null" : 31,
+      "smallest" : "1137",
+      "sum" : "83709",
+      "null" : 0,
+      "average" : "2700.290322580645",
+      "largest" : "4207",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1280"
+      }, {
+        "count" : 19,
+        "item" : "1522"
+      }, {
+        "count" : 18,
+        "item" : "1137"
+      }, {
+        "count" : 17,
+        "item" : "2058"
+      }, {
+        "count" : 16,
+        "item" : "2960"
+      }, {
+        "count" : 15,
+        "item" : "2557"
+      }, {
+        "count" : 14,
+        "item" : "1955"
+      }, {
+        "count" : 13,
+        "item" : "2073"
+      }, {
+        "count" : 12,
+        "item" : "2302"
+      }, {
+        "count" : 11,
+        "item" : "1497"
+      }, {
+        "count" : 10,
+        "item" : "1828"
+      }, {
+        "count" : 9,
+        "item" : "2371"
+      }, {
+        "count" : 8,
+        "item" : "2245"
+      }, {
+        "count" : 7,
+        "item" : "2624"
+      }, {
+        "count" : 6,
+        "item" : "3821"
+      }, {
+        "count" : 5,
+        "item" : "2778"
+      }, {
+        "count" : 4,
+        "item" : "2962"
+      }, {
+        "count" : 3,
+        "item" : "2404"
+      }, {
+        "count" : 2,
+        "item" : "3453"
+      }, {
+        "count" : 1,
+        "item" : "2407"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48796773,
+    "name" : "Williamsburg Bridge",
+    "dataTypeName" : "number",
+    "fieldName" : "williamsburg_bridge",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8402598,
+    "width" : 155,
+    "cachedContents" : {
+      "non_null" : 31,
+      "smallest" : "1644",
+      "sum" : "114706",
+      "null" : 0,
+      "average" : "3700.193548387097",
+      "largest" : "5007",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1644"
+      }, {
+        "count" : 19,
+        "item" : "2284"
+      }, {
+        "count" : 18,
+        "item" : "2842"
+      }, {
+        "count" : 17,
+        "item" : "2855"
+      }, {
+        "count" : 16,
+        "item" : "2840"
+      }, {
+        "count" : 15,
+        "item" : "2931"
+      }, {
+        "count" : 14,
+        "item" : "2884"
+      }, {
+        "count" : 13,
+        "item" : "3021"
+      }, {
+        "count" : 12,
+        "item" : "3081"
+      }, {
+        "count" : 11,
+        "item" : "2416"
+      }, {
+        "count" : 10,
+        "item" : "3202"
+      }, {
+        "count" : 9,
+        "item" : "3420"
+      }, {
+        "count" : 8,
+        "item" : "3802"
+      }, {
+        "count" : 7,
+        "item" : "4200"
+      }, {
+        "count" : 6,
+        "item" : "3941"
+      }, {
+        "count" : 5,
+        "item" : "4038"
+      }, {
+        "count" : 4,
+        "item" : "3911"
+      }, {
+        "count" : 3,
+        "item" : "3909"
+      }, {
+        "count" : 2,
+        "item" : "4076"
+      }, {
+        "count" : 1,
+        "item" : "3845"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48796774,
+    "name" : "Queensboro Bridge",
+    "dataTypeName" : "number",
+    "fieldName" : "queensboro_bridge",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8402599,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 31,
+      "smallest" : "1100",
+      "sum" : "71684",
+      "null" : 0,
+      "average" : "2312.387096774194",
+      "largest" : "3558",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1100"
+      }, {
+        "count" : 19,
+        "item" : "1244"
+      }, {
+        "count" : 18,
+        "item" : "1533"
+      }, {
+        "count" : 17,
+        "item" : "1538"
+      }, {
+        "count" : 16,
+        "item" : "2116"
+      }, {
+        "count" : 15,
+        "item" : "1704"
+      }, {
+        "count" : 14,
+        "item" : "2194"
+      }, {
+        "count" : 13,
+        "item" : "2092"
+      }, {
+        "count" : 12,
+        "item" : "1940"
+      }, {
+        "count" : 11,
+        "item" : "1660"
+      }, {
+        "count" : 10,
+        "item" : "1751"
+      }, {
+        "count" : 9,
+        "item" : "2396"
+      }, {
+        "count" : 8,
+        "item" : "2963"
+      }, {
+        "count" : 7,
+        "item" : "2641"
+      }, {
+        "count" : 6,
+        "item" : "2016"
+      }, {
+        "count" : 5,
+        "item" : "2172"
+      }, {
+        "count" : 4,
+        "item" : "2235"
+      }, {
+        "count" : 3,
+        "item" : "2574"
+      }, {
+        "count" : 2,
+        "item" : "2590"
+      }, {
+        "count" : 1,
+        "item" : "2020"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48796775,
+    "name" : "Hudson River Greenway at 50th St.",
+    "dataTypeName" : "number",
+    "fieldName" : "hudson_river_greenway_at_50th_st",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8402600,
+    "width" : 206,
+    "cachedContents" : {
+      "non_null" : 31,
+      "smallest" : "1880",
+      "sum" : "129176",
+      "null" : 0,
+      "average" : "4166.967741935484",
+      "largest" : "6190",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2404"
+      }, {
+        "count" : 19,
+        "item" : "2392"
+      }, {
+        "count" : 18,
+        "item" : "2963"
+      }, {
+        "count" : 17,
+        "item" : "2795"
+      }, {
+        "count" : 16,
+        "item" : "1880"
+      }, {
+        "count" : 15,
+        "item" : "3276"
+      }, {
+        "count" : 14,
+        "item" : "3666"
+      }, {
+        "count" : 13,
+        "item" : "4185"
+      }, {
+        "count" : 12,
+        "item" : "4040"
+      }, {
+        "count" : 11,
+        "item" : "3599"
+      }, {
+        "count" : 10,
+        "item" : "2309"
+      }, {
+        "count" : 9,
+        "item" : "3840"
+      }, {
+        "count" : 8,
+        "item" : "4426"
+      }, {
+        "count" : 7,
+        "item" : "4329"
+      }, {
+        "count" : 6,
+        "item" : "4970"
+      }, {
+        "count" : 5,
+        "item" : "4419"
+      }, {
+        "count" : 4,
+        "item" : "4354"
+      }, {
+        "count" : 3,
+        "item" : "4452"
+      }, {
+        "count" : 2,
+        "item" : "6190"
+      }, {
+        "count" : 1,
+        "item" : "5230"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48796776,
+    "name" : "Grand Total",
+    "dataTypeName" : "number",
+    "fieldName" : "grand_total",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8402601,
+    "width" : 111,
+    "cachedContents" : {
+      "non_null" : 31,
+      "smallest" : "8343",
+      "sum" : "471768",
+      "null" : 0,
+      "average" : "15218.32258064516",
+      "largest" : "21429",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8343"
+      }, {
+        "count" : 19,
+        "item" : "9397"
+      }, {
+        "count" : 18,
+        "item" : "10240"
+      }, {
+        "count" : 17,
+        "item" : "10724"
+      }, {
+        "count" : 16,
+        "item" : "11766"
+      }, {
+        "count" : 15,
+        "item" : "12238"
+      }, {
+        "count" : 14,
+        "item" : "12505"
+      }, {
+        "count" : 13,
+        "item" : "13355"
+      }, {
+        "count" : 12,
+        "item" : "13775"
+      }, {
+        "count" : 11,
+        "item" : "11167"
+      }, {
+        "count" : 10,
+        "item" : "10769"
+      }, {
+        "count" : 9,
+        "item" : "14192"
+      }, {
+        "count" : 8,
+        "item" : "15534"
+      }, {
+        "count" : 7,
+        "item" : "17398"
+      }, {
+        "count" : 6,
+        "item" : "18223"
+      }, {
+        "count" : 5,
+        "item" : "15453"
+      }, {
+        "count" : 4,
+        "item" : "16146"
+      }, {
+        "count" : 3,
+        "item" : "15418"
+      }, {
+        "count" : 2,
+        "item" : "19162"
+      }, {
+        "count" : 1,
+        "item" : "15685"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dot", "transportation", "cyclist", "commuter", "location", "clean web" ],
+  "flags" : [ "default" ]
+}

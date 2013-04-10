@@ -1,0 +1,654 @@
+{
+  "id" : "hh3r-6w3t",
+  "name" : "Upcoming contracts to be awarded",
+  "attribution" : "School Construction Authority (SCA)",
+  "averageRating" : 0,
+  "category" : "Facilities and Structures",
+  "createdAt" : 1318119735,
+  "description" : "New school projects (Capacity) and Capital Improvement Projects (CIP) that will complete design within the next 6 months and will be available for bid.",
+  "displayType" : "table",
+  "downloadCount" : 66,
+  "numberOfComments" : 0,
+  "oid" : 342367,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318119786,
+  "publicationGroup" : 244221,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318119736,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 244221,
+  "totalTimesRated" : 0,
+  "viewCount" : 89,
+  "viewLastModified" : 1363704066,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2990179,
+    "name" : "design_id",
+    "dataTypeName" : "text",
+    "fieldName" : "design_id",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565425,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 50,
+      "smallest" : "53629",
+      "null" : 0,
+      "largest" : "D013813",
+      "top" : [ {
+        "count" : 20,
+        "item" : "D013171"
+      }, {
+        "count" : 19,
+        "item" : "D013199"
+      }, {
+        "count" : 18,
+        "item" : "D013271"
+      }, {
+        "count" : 17,
+        "item" : "D013542"
+      }, {
+        "count" : 16,
+        "item" : "D013658"
+      }, {
+        "count" : 15,
+        "item" : "D013793"
+      }, {
+        "count" : 14,
+        "item" : "D013795"
+      }, {
+        "count" : 13,
+        "item" : "D013798"
+      }, {
+        "count" : 12,
+        "item" : "D013813"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990180,
+    "name" : "proj_type",
+    "dataTypeName" : "text",
+    "fieldName" : "proj_type",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565426,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 50,
+      "smallest" : "CIP",
+      "null" : 0,
+      "largest" : "CIP",
+      "top" : [ {
+        "count" : 20,
+        "item" : "CIP"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990181,
+    "name" : "name",
+    "dataTypeName" : "text",
+    "fieldName" : "name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565427,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 50,
+      "smallest" : "AUGUST MARTIN HS",
+      "null" : 0,
+      "largest" : "WESTINGHOUSE VOC HS",
+      "top" : [ {
+        "count" : 20,
+        "item" : "P.S. 315 (@ X859)"
+      }, {
+        "count" : 19,
+        "item" : "P.S. 68"
+      }, {
+        "count" : 18,
+        "item" : "P.S. 154"
+      }, {
+        "count" : 17,
+        "item" : "P.S. 256 ANNEX"
+      }, {
+        "count" : 16,
+        "item" : "J.H.S. 168"
+      }, {
+        "count" : 15,
+        "item" : "I.S. 171/P.S. 7"
+      }, {
+        "count" : 14,
+        "item" : "FOREST HILLS HS"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990182,
+    "name" : "boro_name",
+    "dataTypeName" : "text",
+    "fieldName" : "boro_name",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565428,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 50,
+      "smallest" : "BRONX",
+      "null" : 0,
+      "largest" : "STATEN ISLAND",
+      "top" : [ {
+        "count" : 20,
+        "item" : "QUEENS"
+      }, {
+        "count" : 19,
+        "item" : "BRONX"
+      }, {
+        "count" : 18,
+        "item" : "MANHATTAN"
+      }, {
+        "count" : 17,
+        "item" : "STATEN ISLAND"
+      }, {
+        "count" : 16,
+        "item" : "BROOKLYN"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990183,
+    "name" : "geodist",
+    "dataTypeName" : "number",
+    "fieldName" : "geodist",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1565429,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 50,
+      "smallest" : "2",
+      "sum" : "1012",
+      "null" : 0,
+      "average" : "20.24",
+      "largest" : "31",
+      "top" : [ {
+        "count" : 20,
+        "item" : "28"
+      }, {
+        "count" : 19,
+        "item" : "24"
+      }, {
+        "count" : 18,
+        "item" : "11"
+      }, {
+        "count" : 17,
+        "item" : "30"
+      }, {
+        "count" : 16,
+        "item" : "2"
+      }, {
+        "count" : 15,
+        "item" : "31"
+      }, {
+        "count" : 14,
+        "item" : "10"
+      }, {
+        "count" : 13,
+        "item" : "4"
+      }, {
+        "count" : 12,
+        "item" : "15"
+      }, {
+        "count" : 11,
+        "item" : "9"
+      }, {
+        "count" : 10,
+        "item" : "16"
+      }, {
+        "count" : 9,
+        "item" : "8"
+      }, {
+        "count" : 8,
+        "item" : "25"
+      }, {
+        "count" : 7,
+        "item" : "27"
+      }, {
+        "count" : 6,
+        "item" : "19"
+      }, {
+        "count" : 5,
+        "item" : "20"
+      }, {
+        "count" : 4,
+        "item" : "5"
+      }, {
+        "count" : 3,
+        "item" : "13"
+      }, {
+        "count" : 2,
+        "item" : "7"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990184,
+    "name" : "projdesc",
+    "dataTypeName" : "text",
+    "fieldName" : "projdesc",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565430,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 50,
+      "smallest" : "ACCESSIBILITY/ELEC SYS/MA",
+      "null" : 0,
+      "largest" : "WINDOWS",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New"
+      }, {
+        "count" : 19,
+        "item" : "Addition"
+      }, {
+        "count" : 18,
+        "item" : "Lease"
+      }, {
+        "count" : 17,
+        "item" : "FLOOD ELIMINATION"
+      }, {
+        "count" : 16,
+        "item" : "ELECTRICAL SYSTEMS"
+      }, {
+        "count" : 15,
+        "item" : "SCIENCE LAB"
+      }, {
+        "count" : 14,
+        "item" : "CHILLER REPLACEMENT"
+      }, {
+        "count" : 13,
+        "item" : "PAVED AREAS - BLACKTOP"
+      }, {
+        "count" : 12,
+        "item" : "PLANYC PLAYGROUND"
+      }, {
+        "count" : 11,
+        "item" : "WATER PENETRATION"
+      }, {
+        "count" : 10,
+        "item" : "RESO A LIBRARY"
+      }, {
+        "count" : 9,
+        "item" : "FUEL OIL TANK REPLACEMENT"
+      }, {
+        "count" : 8,
+        "item" : "C OF O"
+      }, {
+        "count" : 7,
+        "item" : "WINDOWS"
+      }, {
+        "count" : 6,
+        "item" : "WATER STORAGE TANK"
+      }, {
+        "count" : 5,
+        "item" : "PAVED AREAS - BLACKTOP/FE"
+      }, {
+        "count" : 4,
+        "item" : "ELEVATORS/ESCALATORS"
+      }, {
+        "count" : 3,
+        "item" : "FLOOD/EXT MASONRY/CEC REQ"
+      }, {
+        "count" : 2,
+        "item" : "ACCESSIBILITY/ELEC SYS/MA"
+      }, {
+        "count" : 1,
+        "item" : "CAFE-MULTIPURPOSE RM UPGR"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990185,
+    "name" : "range",
+    "dataTypeName" : "text",
+    "fieldName" : "range",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565431,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 50,
+      "smallest" : " 0   - 1 M",
+      "null" : 0,
+      "largest" : " 9 M - 10M",
+      "top" : [ {
+        "count" : 20,
+        "item" : "40 M OVER"
+      }, {
+        "count" : 19,
+        "item" : "30 M - 40M"
+      }, {
+        "count" : 18,
+        "item" : "15 M - 20M"
+      }, {
+        "count" : 17,
+        "item" : " 3 M - 4 M"
+      }, {
+        "count" : 16,
+        "item" : " 8 M - 9 M"
+      }, {
+        "count" : 15,
+        "item" : " 2 M - 3 M"
+      }, {
+        "count" : 14,
+        "item" : " 1 M - 2 M"
+      }, {
+        "count" : 13,
+        "item" : " 9 M - 10M"
+      }, {
+        "count" : 12,
+        "item" : " 0   - 1 M"
+      }, {
+        "count" : 11,
+        "item" : " 6 M - 7 M"
+      }, {
+        "count" : 10,
+        "item" : " 4 M - 5 M"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990186,
+    "name" : "desi_compl",
+    "dataTypeName" : "date",
+    "fieldName" : "desi_compl",
+    "position" : 9,
+    "renderTypeName" : "date",
+    "tableColumnId" : 1565432,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 50,
+      "smallest" : 1206514800,
+      "null" : 0,
+      "largest" : 1330416000,
+      "top" : [ {
+        "count" : 20,
+        "item" : 1328601600
+      }, {
+        "count" : 19,
+        "item" : 1301036400
+      }, {
+        "count" : 18,
+        "item" : 1320217200
+      }, {
+        "count" : 17,
+        "item" : 1267516800
+      }, {
+        "count" : 16,
+        "item" : 1268895600
+      }, {
+        "count" : 15,
+        "item" : 1291622400
+      }, {
+        "count" : 14,
+        "item" : 1306220400
+      }, {
+        "count" : 13,
+        "item" : 1313996400
+      }, {
+        "count" : 12,
+        "item" : 1299225600
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990187,
+    "name" : "ccate",
+    "dataTypeName" : "text",
+    "fieldName" : "ccate",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565433,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 50,
+      "smallest" : "Accessibility",
+      "null" : 0,
+      "largest" : "Site",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New Schools"
+      }, {
+        "count" : 19,
+        "item" : "Additions"
+      }, {
+        "count" : 18,
+        "item" : "Leases"
+      }, {
+        "count" : 17,
+        "item" : "Ext.  Work"
+      }, {
+        "count" : 16,
+        "item" : "Electrical"
+      }, {
+        "count" : 15,
+        "item" : "Science Lab Upgrades"
+      }, {
+        "count" : 14,
+        "item" : "Building Systems"
+      }, {
+        "count" : 13,
+        "item" : "Site"
+      }, {
+        "count" : 12,
+        "item" : "Play Grounds"
+      }, {
+        "count" : 11,
+        "item" : "Library Upgrades"
+      }, {
+        "count" : 10,
+        "item" : "Other"
+      }, {
+        "count" : 9,
+        "item" : "Accessibility"
+      }, {
+        "count" : 8,
+        "item" : "Room Conversions/upgrades"
+      }, {
+        "count" : 7,
+        "item" : "Auditorium grades"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990188,
+    "name" : "cstat",
+    "dataTypeName" : "text",
+    "fieldName" : "cstat",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565434,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 50,
+      "smallest" : "Design",
+      "null" : 0,
+      "largest" : "Scope",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Design"
+      }, {
+        "count" : 19,
+        "item" : "Scope"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990189,
+    "name" : "newsf",
+    "dataTypeName" : "number",
+    "fieldName" : "newsf",
+    "position" : 12,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1565435,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 11,
+      "smallest" : "0",
+      "sum" : "910693",
+      "null" : 39,
+      "average" : "82790.27272727273",
+      "largest" : "230700",
+      "top" : [ {
+        "count" : 20,
+        "item" : "116000"
+      }, {
+        "count" : 19,
+        "item" : "107666"
+      }, {
+        "count" : 18,
+        "item" : "102450"
+      }, {
+        "count" : 17,
+        "item" : "63361"
+      }, {
+        "count" : 16,
+        "item" : "78000"
+      }, {
+        "count" : 15,
+        "item" : "132646"
+      }, {
+        "count" : 14,
+        "item" : "19870"
+      }, {
+        "count" : 13,
+        "item" : "60000"
+      }, {
+        "count" : 12,
+        "item" : "230700"
+      }, {
+        "count" : 11,
+        "item" : "0"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990190,
+    "name" : "newseats",
+    "dataTypeName" : "number",
+    "fieldName" : "newseats",
+    "position" : 13,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1565436,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 11,
+      "smallest" : "136",
+      "sum" : "6722",
+      "null" : 39,
+      "average" : "611.0909090909091",
+      "largest" : "1487",
+      "top" : [ {
+        "count" : 20,
+        "item" : "757"
+      }, {
+        "count" : 19,
+        "item" : "785"
+      }, {
+        "count" : 18,
+        "item" : "616"
+      }, {
+        "count" : 17,
+        "item" : "379"
+      }, {
+        "count" : 16,
+        "item" : "432"
+      }, {
+        "count" : 15,
+        "item" : "1110"
+      }, {
+        "count" : 14,
+        "item" : "140"
+      }, {
+        "count" : 13,
+        "item" : "508"
+      }, {
+        "count" : 12,
+        "item" : "1487"
+      }, {
+        "count" : 11,
+        "item" : "372"
+      }, {
+        "count" : 10,
+        "item" : "136"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "AB11B336-1E7B-4F76-A2B6-A256E549222E",
+      "name" : "Big_Apps_Data_Desc.xls",
+      "filename" : "Big_Apps_Data_Desc.xls"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "school", "construction", "authority", "sca", "capital", "improvement", "project", "design", "complete", "completion", "bid", "education", "lifelong learning" ],
+  "flags" : [ "default" ]
+}

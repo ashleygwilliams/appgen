@@ -1,0 +1,251 @@
+{
+  "id" : "9thp-mkar",
+  "name" : "Fujita and Enhanced Fujita Scale for measuring Hurricane Intensity",
+  "attribution" : "Office of Emergency Management (OEM)",
+  "attributionLink" : "http://www.nyc.gov/html/oem/downloads/pdf/hazard_mitigation/section_3k_windstorms_tornadoes_hazard_analysis.pdf",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1361908546,
+  "description" : "Comparison between Fujita and Enhanced Fujita Scale for measuring Hurricane Intensity",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2645631,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361918644,
+  "publicationGroup" : 701489,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1361918578,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 701792,
+  "totalTimesRated" : 0,
+  "viewCount" : 7,
+  "viewLastModified" : 1361918652,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 47178520,
+    "name" : "F-Scale",
+    "dataTypeName" : "text",
+    "fieldName" : "f_scale",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8186008,
+    "width" : 73,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "F0",
+      "null" : 0,
+      "largest" : "F5",
+      "top" : [ {
+        "count" : 20,
+        "item" : "F0"
+      }, {
+        "count" : 19,
+        "item" : "F1"
+      }, {
+        "count" : 18,
+        "item" : "F2"
+      }, {
+        "count" : 17,
+        "item" : "F3"
+      }, {
+        "count" : 16,
+        "item" : "F4"
+      }, {
+        "count" : 15,
+        "item" : "F5"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47178521,
+    "name" : "3-sec. gust speed-F (mph)",
+    "dataTypeName" : "text",
+    "fieldName" : "_3_sec_gust_speed_f_mph",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8186009,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "118–161",
+      "null" : 0,
+      "largest" : "79–117",
+      "top" : [ {
+        "count" : 20,
+        "item" : "45–78"
+      }, {
+        "count" : 19,
+        "item" : "79–117"
+      }, {
+        "count" : 18,
+        "item" : "118–161"
+      }, {
+        "count" : 17,
+        "item" : "162–209"
+      }, {
+        "count" : 16,
+        "item" : "210–261"
+      }, {
+        "count" : 15,
+        "item" : "262–317"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47178522,
+    "name" : "EF-Scale",
+    "dataTypeName" : "text",
+    "fieldName" : "ef_scale",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8186010,
+    "width" : 65,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "EF0",
+      "null" : 0,
+      "largest" : "EF5",
+      "top" : [ {
+        "count" : 20,
+        "item" : "EF0"
+      }, {
+        "count" : 19,
+        "item" : "EF1"
+      }, {
+        "count" : 18,
+        "item" : "EF2"
+      }, {
+        "count" : 17,
+        "item" : "EF3"
+      }, {
+        "count" : 16,
+        "item" : "EF4"
+      }, {
+        "count" : 15,
+        "item" : "EF5"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47178523,
+    "name" : "3-sec. gust speed-EF (mph)",
+    "dataTypeName" : "text",
+    "fieldName" : "_3_sec_gust_speed_ef_mph",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8186011,
+    "width" : 156,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "110–137",
+      "null" : 0,
+      "largest" : "86–109",
+      "top" : [ {
+        "count" : 20,
+        "item" : "65–85"
+      }, {
+        "count" : 19,
+        "item" : "86–109"
+      }, {
+        "count" : 18,
+        "item" : "110–137"
+      }, {
+        "count" : 17,
+        "item" : "138–167"
+      }, {
+        "count" : 16,
+        "item" : "168–199"
+      }, {
+        "count" : 15,
+        "item" : "200–234"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47178524,
+    "name" : "TYPICAL DAMAGE",
+    "dataTypeName" : "text",
+    "fieldName" : "typical_damage",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8186012,
+    "width" : 709,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "Considerable damage. Roofs torn off frame houses. Mobile homes demolished. Boxcars overturned. Large trees snapped or uprooted. Light-object missiles generated. Cars lifted off ground.",
+      "null" : 0,
+      "largest" : "Severe damage. Roofs and some walls torn off well-constructed houses. Trains overturned. Most trees in forest uprooted. Heavy cars lifted off the ground and thrown.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Light damage. Some damage to chimneys. Branches broken off trees. Shallow-rooted trees pushed over; signboards damaged."
+      }, {
+        "count" : 19,
+        "item" : "Moderate damage. Peels surface off roofs. Mobile homes pushed off foundations or overturned. Moving autos blown off roads."
+      }, {
+        "count" : 18,
+        "item" : "Considerable damage. Roofs torn off frame houses. Mobile homes demolished. Boxcars overturned. Large trees snapped or uprooted. Light-object missiles generated. Cars lifted off ground."
+      }, {
+        "count" : 17,
+        "item" : "Severe damage. Roofs and some walls torn off well-constructed houses. Trains overturned. Most trees in forest uprooted. Heavy cars lifted off the ground and thrown."
+      }, {
+        "count" : 16,
+        "item" : "Devastating damage. Well-constructed houses leveled. Structures with weak foundations blown away some distance. Cars thrown and large missiles generated."
+      }, {
+        "count" : 15,
+        "item" : "Incredible damage. Strong frame houses leveled off foundations and swept away. Automobile-sized missiles fly through the air in excess of 100 meters (109 yards). Trees debarked. Incredible phenomena will occur"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "oem", "emergency", "management", "services", "windstorm", "fujita", "scale" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,223 @@
+{
+  "id" : "yizy-365y",
+  "name" : "NYCHA Applicant Income Limits",
+  "attribution" : "New York City Housing Authority (NYCHA)",
+  "attributionLink" : "http://www.nyc.gov/html/nycha/html/assistance/income.shtml",
+  "averageRating" : 0,
+  "category" : "Social Services",
+  "createdAt" : 1364497874,
+  "description" : "Income limits by household size for public housing",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2997811,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1364570659,
+  "publicationGroup" : 761955,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1364570634,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 763877,
+  "totalTimesRated" : 0,
+  "viewCount" : 12,
+  "viewLastModified" : 1364570678,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 54037295,
+    "name" : "Year",
+    "dataTypeName" : "text",
+    "description" : "Year that the limits were last updated",
+    "fieldName" : "year",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008551,
+    "width" : 91,
+    "cachedContents" : {
+      "non_null" : 15,
+      "smallest" : "2013",
+      "null" : 0,
+      "largest" : "2013",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2013"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54037296,
+    "name" : "Person(s) in Family",
+    "dataTypeName" : "text",
+    "description" : "# of person(s) in family",
+    "fieldName" : "password",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008552,
+    "width" : 138,
+    "cachedContents" : {
+      "non_null" : 15,
+      "smallest" : "1",
+      "null" : 0,
+      "largest" : "9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "11"
+      }, {
+        "count" : 9,
+        "item" : "12"
+      }, {
+        "count" : 8,
+        "item" : "13"
+      }, {
+        "count" : 7,
+        "item" : "14"
+      }, {
+        "count" : 6,
+        "item" : "15"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 54037297,
+    "name" : "Gross Family Income Limit",
+    "dataTypeName" : "text",
+    "description" : "The gross income limit for the family",
+    "fieldName" : "confirm_password",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008553,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 15,
+      "smallest" : "$101,700 ",
+      "null" : 0,
+      "largest" : "$96,200 ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "$48,100 "
+      }, {
+        "count" : 19,
+        "item" : "$55,000 "
+      }, {
+        "count" : 18,
+        "item" : "$61,850 "
+      }, {
+        "count" : 17,
+        "item" : "$68,700 "
+      }, {
+        "count" : 16,
+        "item" : "$74,200 "
+      }, {
+        "count" : 15,
+        "item" : "$79,700 "
+      }, {
+        "count" : 14,
+        "item" : "$85,200 "
+      }, {
+        "count" : 13,
+        "item" : "$90,700 "
+      }, {
+        "count" : 12,
+        "item" : "$96,200 "
+      }, {
+        "count" : 11,
+        "item" : "$101,700 "
+      }, {
+        "count" : 10,
+        "item" : "$107,200 "
+      }, {
+        "count" : 9,
+        "item" : "$112,700 "
+      }, {
+        "count" : 8,
+        "item" : "$118,200 "
+      }, {
+        "count" : 7,
+        "item" : "$123,700 "
+      }, {
+        "count" : 6,
+        "item" : "$129,200 "
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "nycha", "nyc housing", "public housing", "application", "subsidized housing" ],
+  "flags" : [ "default" ]
+}

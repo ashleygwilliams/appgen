@@ -1,0 +1,600 @@
+{
+  "id" : "7iqz-npua",
+  "name" : "NYCHA Citywide Special Events",
+  "attribution" : "New York City Housing Authority (NYCHA)",
+  "averageRating" : 0,
+  "category" : "Events",
+  "createdAt" : 1364499060,
+  "description" : "It contains the special events hosted by NYCHA",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2987381,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1364500581,
+  "publicationGroup" : 762327,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1364500570,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 762361,
+  "totalTimesRated" : 0,
+  "viewCount" : 9,
+  "viewLastModified" : 1364581734,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 53749123,
+    "name" : "UNIT",
+    "dataTypeName" : "text",
+    "description" : "Organizational unit responsible for the event",
+    "fieldName" : "unit",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008905,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 119,
+      "smallest" : "Creative Arts",
+      "null" : 0,
+      "largest" : "Garden & Greening Program",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Creative Arts "
+      }, {
+        "count" : 19,
+        "item" : "Education Through Sports "
+      }, {
+        "count" : 18,
+        "item" : "Food Program"
+      }, {
+        "count" : 17,
+        "item" : "Garden & Greening Program"
+      }, {
+        "count" : 16,
+        "item" : "Educational Services "
+      }, {
+        "count" : 15,
+        "item" : "Creative Arts"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53749124,
+    "name" : "EVENT NAME",
+    "dataTypeName" : "text",
+    "description" : "Name of the event",
+    "fieldName" : "event_name",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008906,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 119,
+      "smallest" : "11th Annual  Chess Tournament",
+      "null" : 0,
+      "largest" : "Youth Chorus Performance NYCHA Talent Show",
+      "top" : [ {
+        "count" : 20,
+        "item" : "City Harvest Mobile Markets"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn Track & Field"
+      }, {
+        "count" : 18,
+        "item" : "Brooklyn Sports Challegnge "
+      }, {
+        "count" : 17,
+        "item" : "Summer Theater Camp"
+      }, {
+        "count" : 16,
+        "item" : "Art Camp"
+      }, {
+        "count" : 15,
+        "item" : "35th Annual Senior Show"
+      }, {
+        "count" : 14,
+        "item" : "Bulb GiveAway with New Yorkers for Parks"
+      }, {
+        "count" : 13,
+        "item" : "50th Annual Garden and Greening Awards Ceremony"
+      }, {
+        "count" : 12,
+        "item" : "Cops & Bowl"
+      }, {
+        "count" : 11,
+        "item" : "Daffodil Planting "
+      }, {
+        "count" : 10,
+        "item" : "Flag Football Finals"
+      }, {
+        "count" : 9,
+        "item" : "Citywide Bowling Finals"
+      }, {
+        "count" : 8,
+        "item" : "23rd Annual Toy Drive"
+      }, {
+        "count" : 7,
+        "item" : "Annual Turkey Drive"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53749125,
+    "name" : "EVENT DATE",
+    "dataTypeName" : "text",
+    "description" : "Date(s) for the event",
+    "fieldName" : "event_date",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008907,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 119,
+      "smallest" : "13-Jun",
+      "null" : 0,
+      "largest" : "Wednesday, May 22, 2013",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Saturday, April 13, 2013"
+      }, {
+        "count" : 19,
+        "item" : "July"
+      }, {
+        "count" : 18,
+        "item" : "August"
+      }, {
+        "count" : 17,
+        "item" : "August TBD"
+      }, {
+        "count" : 16,
+        "item" : "September"
+      }, {
+        "count" : 15,
+        "item" : "October"
+      }, {
+        "count" : 14,
+        "item" : "November "
+      }, {
+        "count" : 13,
+        "item" : "October "
+      }, {
+        "count" : 12,
+        "item" : "Friday, November 01, 2013"
+      }, {
+        "count" : 11,
+        "item" : "December"
+      }, {
+        "count" : 10,
+        "item" : "Friday, December 06, 2013"
+      }, {
+        "count" : 9,
+        "item" : "December TBD"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53749126,
+    "name" : "PLACE",
+    "dataTypeName" : "text",
+    "description" : "Name of the location where event taking place",
+    "fieldName" : "place",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008908,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 119,
+      "smallest" : "Apollo",
+      "null" : 0,
+      "largest" : "Wycoff Farm Musuem ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Apollo"
+      }, {
+        "count" : 19,
+        "item" : "TBD"
+      }, {
+        "count" : 18,
+        "item" : "Manhattanville CC"
+      }, {
+        "count" : 17,
+        "item" : "Rutgers CC"
+      }, {
+        "count" : 16,
+        "item" : "Stapleton"
+      }, {
+        "count" : 15,
+        "item" : "Sunken Meadow"
+      }, {
+        "count" : 14,
+        "item" : "Sumner"
+      }, {
+        "count" : 13,
+        "item" : "Dyckman"
+      }, {
+        "count" : 12,
+        "item" : "MacCombs Dam Park"
+      }, {
+        "count" : 11,
+        "item" : "Melrose"
+      }, {
+        "count" : 10,
+        "item" : "St. Johns Park"
+      }, {
+        "count" : 9,
+        "item" : "Lucille Lortel Theater"
+      }, {
+        "count" : 8,
+        "item" : "Brooklyn Museum"
+      }, {
+        "count" : 7,
+        "item" : "Metropolitan Museum of Art"
+      }, {
+        "count" : 6,
+        "item" : "Washington Heights/ Inwood"
+      }, {
+        "count" : 5,
+        "item" : "Symphony Space"
+      }, {
+        "count" : 4,
+        "item" : "Bed-Stuy"
+      }, {
+        "count" : 3,
+        "item" : "Queens"
+      }, {
+        "count" : 2,
+        "item" : "Various Community Centers throughout Nycha"
+      }, {
+        "count" : 1,
+        "item" : "Reinaldo Salgado Field "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53749127,
+    "name" : "TIME",
+    "dataTypeName" : "text",
+    "description" : "Time range event opens and closes",
+    "fieldName" : "time",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008909,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 119,
+      "smallest" : "1:00pm-   3:00pm",
+      "null" : 0,
+      "largest" : "TBD",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8:00 p.m."
+      }, {
+        "count" : 19,
+        "item" : "10am-5pm"
+      }, {
+        "count" : 18,
+        "item" : "TBD"
+      }, {
+        "count" : 17,
+        "item" : "10.00 am-\n2.00 pm"
+      }, {
+        "count" : 16,
+        "item" : "10:00 am to 2:00 PM"
+      }, {
+        "count" : 15,
+        "item" : "2.00 pm-\n5.00 pm"
+      }, {
+        "count" : 14,
+        "item" : "10:00am- 5:00pm"
+      }, {
+        "count" : 13,
+        "item" : "6:00pm-9:00pm"
+      }, {
+        "count" : 12,
+        "item" : "4:30pm-6:00pm"
+      }, {
+        "count" : 11,
+        "item" : "5:30pm-7:30pm"
+      }, {
+        "count" : 10,
+        "item" : "12:00 pm-4:00 pm"
+      }, {
+        "count" : 9,
+        "item" : "12:30pm- 4:30pm"
+      }, {
+        "count" : 8,
+        "item" : "5:00 pm-   7:30 pm"
+      }, {
+        "count" : 7,
+        "item" : "5:00pm-   7:30pm"
+      }, {
+        "count" : 6,
+        "item" : "9:00am - 11:00am"
+      }, {
+        "count" : 5,
+        "item" : "10.00 am-\n4.00 pm"
+      }, {
+        "count" : 4,
+        "item" : "9:00 am - 3:00 pm"
+      }, {
+        "count" : 3,
+        "item" : "6:00pm - 9:00pm"
+      }, {
+        "count" : 2,
+        "item" : "10:30am-3:00pm"
+      }, {
+        "count" : 1,
+        "item" : "10:00 am -2:00 PM"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53749128,
+    "name" : "ADDRESS",
+    "dataTypeName" : "text",
+    "description" : "Address where event is taking place.",
+    "fieldName" : "address",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008910,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 119,
+      "smallest" : "1000 Fifth Avenue\nNY NY 10028",
+      "null" : 0,
+      "largest" : "Various CC",
+      "top" : [ {
+        "count" : 20,
+        "item" : "153 W. 133rd St., NYC "
+      }, {
+        "count" : 19,
+        "item" : "189 Gordon Street,Staten Island, NY 10304"
+      }, {
+        "count" : 18,
+        "item" : "TBD"
+      }, {
+        "count" : 17,
+        "item" : "253 West 125th Street, NY, NY"
+      }, {
+        "count" : 16,
+        "item" : "200 Madison St., NYC"
+      }, {
+        "count" : 15,
+        "item" : "Sunken Meadow State Park, NY"
+      }, {
+        "count" : 14,
+        "item" : "862 Park Avenue, Brooklyn, NY 11206"
+      }, {
+        "count" : 13,
+        "item" : "3782 Tenth Avenue, New York, NY 10034"
+      }, {
+        "count" : 12,
+        "item" : "Bronx, NY 11354"
+      }, {
+        "count" : 11,
+        "item" : "286 East 156th Street, Bronx, NY 10451"
+      }, {
+        "count" : 10,
+        "item" : "Troy Ave., Bergen St., Prospect Pl., Schenectady Ave., Brooklyn NY"
+      }, {
+        "count" : 9,
+        "item" : "121 Christopher Street, New York, NY 10001"
+      }, {
+        "count" : 8,
+        "item" : "200 Eastern Parkway\nBrooklyn"
+      }, {
+        "count" : 7,
+        "item" : "1000 Fifth Avenue\nNY NY 10028"
+      }, {
+        "count" : 6,
+        "item" : "Dyckman Houses on 10th Avenue"
+      }, {
+        "count" : 5,
+        "item" : "Tompkins Houses (Parking Lot on Myrtle & Sumner"
+      }, {
+        "count" : 4,
+        "item" : "Astoria Community Center  4-05 Astoria Blvd."
+      }, {
+        "count" : 3,
+        "item" : "2537 Broadway              New York, NY  10025"
+      }, {
+        "count" : 2,
+        "item" : "Monroe St, Bet. Ralph and Patchen Streets, Brooklyn, NY "
+      }, {
+        "count" : 1,
+        "item" : "23rd St. & 12th Ave.,\nNYC"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53749129,
+    "name" : "TYPE OF EVENT",
+    "dataTypeName" : "text",
+    "description" : "Will the event be indoors, outdoors or both",
+    "fieldName" : "type_of_event",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008911,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 119,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Outdoor",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Indoor"
+      }, {
+        "count" : 19,
+        "item" : "Outdoor"
+      }, {
+        "count" : 18,
+        "item" : "outdoor"
+      }, {
+        "count" : 17,
+        "item" : "Indoor/Outdoor"
+      }, {
+        "count" : 16,
+        "item" : "450"
+      }, {
+        "count" : 15,
+        "item" : "Indoor Tour\nOutdoor Lunch &\nBanner Painting"
+      }, {
+        "count" : 14,
+        "item" : " "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53749130,
+    "name" : "ESTIMATED # OF PARTICIPANTS",
+    "dataTypeName" : "text",
+    "description" : "The estimated number of participants at the event",
+    "fieldName" : "estimated___of_participants",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008912,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 119,
+      "smallest" : "100",
+      "null" : 0,
+      "largest" : "TBA",
+      "top" : [ {
+        "count" : 20,
+        "item" : "TBA"
+      }, {
+        "count" : 19,
+        "item" : "200"
+      }, {
+        "count" : 18,
+        "item" : "200-250"
+      }, {
+        "count" : 17,
+        "item" : "250"
+      }, {
+        "count" : 16,
+        "item" : "450"
+      }, {
+        "count" : 15,
+        "item" : "1200"
+      }, {
+        "count" : 14,
+        "item" : "400"
+      }, {
+        "count" : 13,
+        "item" : "100"
+      }, {
+        "count" : 12,
+        "item" : "50"
+      }, {
+        "count" : 11,
+        "item" : "30"
+      }, {
+        "count" : 10,
+        "item" : "60"
+      }, {
+        "count" : 9,
+        "item" : "75"
+      }, {
+        "count" : 8,
+        "item" : "4000"
+      }, {
+        "count" : 7,
+        "item" : "50-100"
+      }, {
+        "count" : 6,
+        "item" : "1000"
+      }, {
+        "count" : 5,
+        "item" : "200-300"
+      }, {
+        "count" : 4,
+        "item" : "550"
+      }, {
+        "count" : 3,
+        "item" : "600"
+      }, {
+        "count" : 2,
+        "item" : "300-500"
+      }, {
+        "count" : 1,
+        "item" : "No"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53749132,
+    "name" : "OPEN TO THE PUBLIC",
+    "dataTypeName" : "text",
+    "description" : "Is the event open to the public?",
+    "fieldName" : "open_to_the_public",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008913,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 98,
+      "smallest" : "No",
+      "null" : 21,
+      "largest" : "Yes",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Yes"
+      }, {
+        "count" : 19,
+        "item" : "No"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "nycha", "nyc housing", "events for residents", "childrens events", "senior events", "community events" ],
+  "flags" : [ "default" ]
+}

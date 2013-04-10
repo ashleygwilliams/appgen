@@ -1,0 +1,360 @@
+{
+  "id" : "rtc6-e7ff",
+  "name" : "FDNY Community Board Incident Count",
+  "attribution" : "Fire Department of New York City (FDNY)",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1314735394,
+  "description" : "Provides incident counts by Year, Month, Incident classification, borough and community board.",
+  "displayType" : "table",
+  "downloadCount" : 64,
+  "numberOfComments" : 0,
+  "oid" : 332242,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1314735394,
+  "publicationGroup" : 239947,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1314735408,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 239947,
+  "totalTimesRated" : 0,
+  "viewCount" : 285,
+  "viewLastModified" : 1318009902,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2826703,
+    "name" : "YEARMONTH",
+    "dataTypeName" : "number",
+    "fieldName" : "yearmonth",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1513877,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 5207,
+      "smallest" : "200907",
+      "sum" : "1046381490",
+      "null" : 449,
+      "average" : "200956.6909928942",
+      "largest" : "201006",
+      "top" : [ {
+        "count" : 440,
+        "item" : "201003"
+      }, {
+        "count" : 437,
+        "item" : "201006"
+      }, {
+        "count" : 436,
+        "item" : "201001"
+      }, {
+        "count" : 436,
+        "item" : "200908"
+      }, {
+        "count" : 436,
+        "item" : "201004"
+      }, {
+        "count" : 435,
+        "item" : "200912"
+      }, {
+        "count" : 433,
+        "item" : "201005"
+      }, {
+        "count" : 433,
+        "item" : "200910"
+      }, {
+        "count" : 432,
+        "item" : "201002"
+      }, {
+        "count" : 430,
+        "item" : "200911"
+      }, {
+        "count" : 430,
+        "item" : "200907"
+      }, {
+        "count" : 429,
+        "item" : "200909"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "false",
+      "align" : "right",
+      "mask" : "####/##"
+    }
+  }, {
+    "id" : 2826704,
+    "name" : "INCIDENTCLASSIFICATION",
+    "dataTypeName" : "text",
+    "fieldName" : "incidentclassification",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513878,
+    "width" : 364,
+    "cachedContents" : {
+      "non_null" : 5656,
+      "smallest" : "All Fire/Emergency Incidents",
+      "null" : 0,
+      "largest" : "Structural Fires",
+      "top" : [ {
+        "count" : 831,
+        "item" : "All Fire/Emergency Incidents"
+      }, {
+        "count" : 827,
+        "item" : "Medical Emergencies"
+      }, {
+        "count" : 823,
+        "item" : "Non Medical Emergencies"
+      }, {
+        "count" : 808,
+        "item" : "False Alarm"
+      }, {
+        "count" : 801,
+        "item" : "Non Structural Fires"
+      }, {
+        "count" : 796,
+        "item" : "Structural Fires"
+      }, {
+        "count" : 769,
+        "item" : "Medical False Alarm"
+      }, {
+        "count" : 1,
+        "item" : "INCIDENTCLASSIFICATION"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826705,
+    "name" : "INCIDENTBOROUGH",
+    "dataTypeName" : "text",
+    "fieldName" : "incidentborough",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513879,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 5656,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 1682,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 1343,
+        "item" : "Queens"
+      }, {
+        "count" : 1152,
+        "item" : "Manhattan"
+      }, {
+        "count" : 1137,
+        "item" : "Bronx"
+      }, {
+        "count" : 341,
+        "item" : "Staten Island"
+      }, {
+        "count" : 1,
+        "item" : "INCIDENTBOROUGH"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826706,
+    "name" : "COMMUNITYBOARDCODE",
+    "dataTypeName" : "number",
+    "fieldName" : "communityboardcode",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1513880,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 5358,
+      "smallest" : "1",
+      "sum" : "39760",
+      "null" : 298,
+      "average" : "7.420679357969392",
+      "largest" : "18",
+      "top" : [ {
+        "count" : 455,
+        "item" : "2"
+      }, {
+        "count" : 455,
+        "item" : "3"
+      }, {
+        "count" : 454,
+        "item" : "1"
+      }, {
+        "count" : 364,
+        "item" : "11"
+      }, {
+        "count" : 364,
+        "item" : "10"
+      }, {
+        "count" : 364,
+        "item" : "4"
+      }, {
+        "count" : 364,
+        "item" : "12"
+      }, {
+        "count" : 364,
+        "item" : "7"
+      }, {
+        "count" : 363,
+        "item" : "5"
+      }, {
+        "count" : 363,
+        "item" : "8"
+      }, {
+        "count" : 362,
+        "item" : "9"
+      }, {
+        "count" : 361,
+        "item" : "6"
+      }, {
+        "count" : 182,
+        "item" : "13"
+      }, {
+        "count" : 181,
+        "item" : "14"
+      }, {
+        "count" : 91,
+        "item" : "16"
+      }, {
+        "count" : 91,
+        "item" : "15"
+      }, {
+        "count" : 91,
+        "item" : "18"
+      }, {
+        "count" : 89,
+        "item" : "17"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826707,
+    "name" : "INCIDENTCOUNT",
+    "dataTypeName" : "number",
+    "fieldName" : "incidentcount",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1513881,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 5655,
+      "smallest" : "1",
+      "sum" : "1949172",
+      "null" : 1,
+      "average" : "344.6811671087533",
+      "largest" : "16804",
+      "top" : [ {
+        "count" : 114,
+        "item" : "1"
+      }, {
+        "count" : 112,
+        "item" : "4"
+      }, {
+        "count" : 111,
+        "item" : "3"
+      }, {
+        "count" : 101,
+        "item" : "6"
+      }, {
+        "count" : 95,
+        "item" : "5"
+      }, {
+        "count" : 93,
+        "item" : "2"
+      }, {
+        "count" : 77,
+        "item" : "20"
+      }, {
+        "count" : 74,
+        "item" : "17"
+      }, {
+        "count" : 73,
+        "item" : "18"
+      }, {
+        "count" : 71,
+        "item" : "15"
+      }, {
+        "count" : 71,
+        "item" : "8"
+      }, {
+        "count" : 68,
+        "item" : "16"
+      }, {
+        "count" : 68,
+        "item" : "7"
+      }, {
+        "count" : 68,
+        "item" : "21"
+      }, {
+        "count" : 67,
+        "item" : "9"
+      }, {
+        "count" : 67,
+        "item" : "19"
+      }, {
+        "count" : 66,
+        "item" : "11"
+      }, {
+        "count" : 65,
+        "item" : "14"
+      }, {
+        "count" : 64,
+        "item" : "10"
+      }, {
+        "count" : 62,
+        "item" : "23"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "fire department", "fdny", "fd", "fires", "community board", "station", "fire station", "fire house", "emergency", "911" ],
+  "flags" : [ "default" ]
+}

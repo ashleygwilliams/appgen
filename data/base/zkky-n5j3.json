@@ -1,0 +1,1739 @@
+{
+  "id" : "zkky-n5j3",
+  "name" : "Water Resevoir Levels",
+  "attribution" : "Department of Environmental Protection (DEP)",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1314740665,
+  "description" : "New York City water supply system reservoir levels",
+  "displayType" : "table",
+  "downloadCount" : 26,
+  "numberOfComments" : 0,
+  "oid" : 332250,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1314740665,
+  "publicationGroup" : 239955,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1314740746,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 239955,
+  "totalTimesRated" : 0,
+  "viewCount" : 213,
+  "viewLastModified" : 1363712522,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2826775,
+    "name" : "Neversink Date              ",
+    "dataTypeName" : "date",
+    "fieldName" : "neversink_date",
+    "position" : 2,
+    "renderTypeName" : "date",
+    "tableColumnId" : 1513949,
+    "width" : 436,
+    "cachedContents" : {
+      "non_null" : 2035,
+      "smallest" : 1109692800,
+      "null" : 0,
+      "largest" : 1285858800,
+      "top" : [ {
+        "count" : 20,
+        "item" : 1283698800
+      }, {
+        "count" : 19,
+        "item" : 1283785200
+      }, {
+        "count" : 18,
+        "item" : 1283871600
+      }, {
+        "count" : 17,
+        "item" : 1283958000
+      }, {
+        "count" : 16,
+        "item" : 1284044400
+      }, {
+        "count" : 15,
+        "item" : 1284130800
+      }, {
+        "count" : 14,
+        "item" : 1284217200
+      }, {
+        "count" : 13,
+        "item" : 1284303600
+      }, {
+        "count" : 12,
+        "item" : 1284390000
+      }, {
+        "count" : 11,
+        "item" : 1284476400
+      }, {
+        "count" : 10,
+        "item" : 1284562800
+      }, {
+        "count" : 9,
+        "item" : 1284649200
+      }, {
+        "count" : 8,
+        "item" : 1284735600
+      }, {
+        "count" : 7,
+        "item" : 1284822000
+      }, {
+        "count" : 6,
+        "item" : 1284908400
+      }, {
+        "count" : 5,
+        "item" : 1284994800
+      }, {
+        "count" : 4,
+        "item" : 1285081200
+      }, {
+        "count" : 3,
+        "item" : 1285167600
+      }, {
+        "count" : 2,
+        "item" : 1285254000
+      }, {
+        "count" : 1,
+        "item" : 1285340400
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826776,
+    "name" : "Neversink Elevation",
+    "dataTypeName" : "number",
+    "fieldName" : "neversink_elevation",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1513950,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 2035,
+      "smallest" : "1394.42",
+      "sum" : "2911954.23",
+      "null" : 0,
+      "average" : "1430.935739557740",
+      "largest" : "1442.89",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1428.62"
+      }, {
+        "count" : 19,
+        "item" : "1419.96"
+      }, {
+        "count" : 18,
+        "item" : "1418.08"
+      }, {
+        "count" : 17,
+        "item" : "1417.94"
+      }, {
+        "count" : 16,
+        "item" : "1417.78"
+      }, {
+        "count" : 15,
+        "item" : "1417.65"
+      }, {
+        "count" : 14,
+        "item" : "1417.51"
+      }, {
+        "count" : 13,
+        "item" : "1417.41"
+      }, {
+        "count" : 12,
+        "item" : "1417.28"
+      }, {
+        "count" : 11,
+        "item" : "1417.15"
+      }, {
+        "count" : 10,
+        "item" : "1417"
+      }, {
+        "count" : 9,
+        "item" : "1416.93"
+      }, {
+        "count" : 8,
+        "item" : "1416.14"
+      }, {
+        "count" : 7,
+        "item" : "1416.05"
+      }, {
+        "count" : 6,
+        "item" : "1415.96"
+      }, {
+        "count" : 5,
+        "item" : "1415.14"
+      }, {
+        "count" : 4,
+        "item" : "1414.67"
+      }, {
+        "count" : 3,
+        "item" : "1414.2"
+      }, {
+        "count" : 2,
+        "item" : "1413.75"
+      }, {
+        "count" : 1,
+        "item" : "1412.81"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826777,
+    "name" : "Neversink Storage",
+    "dataTypeName" : "number",
+    "fieldName" : "neversink_storage",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1513951,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 2035,
+      "smallest" : "16760",
+      "sum" : "63671393",
+      "null" : 0,
+      "average" : "31288.15380835381",
+      "largest" : "36911",
+      "top" : [ {
+        "count" : 20,
+        "item" : "30096"
+      }, {
+        "count" : 19,
+        "item" : "26346"
+      }, {
+        "count" : 18,
+        "item" : "25564"
+      }, {
+        "count" : 17,
+        "item" : "25506"
+      }, {
+        "count" : 16,
+        "item" : "25441"
+      }, {
+        "count" : 15,
+        "item" : "25388"
+      }, {
+        "count" : 14,
+        "item" : "25330"
+      }, {
+        "count" : 13,
+        "item" : "25289"
+      }, {
+        "count" : 12,
+        "item" : "25236"
+      }, {
+        "count" : 11,
+        "item" : "25183"
+      }, {
+        "count" : 10,
+        "item" : "25121"
+      }, {
+        "count" : 9,
+        "item" : "25093"
+      }, {
+        "count" : 8,
+        "item" : "24771"
+      }, {
+        "count" : 7,
+        "item" : "24734"
+      }, {
+        "count" : 6,
+        "item" : "24698"
+      }, {
+        "count" : 5,
+        "item" : "24367"
+      }, {
+        "count" : 4,
+        "item" : "24178"
+      }, {
+        "count" : 3,
+        "item" : "23990"
+      }, {
+        "count" : 2,
+        "item" : "23811"
+      }, {
+        "count" : 1,
+        "item" : "23438"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826778,
+    "name" : "Rondout Date             ",
+    "dataTypeName" : "date",
+    "fieldName" : "rondout_date",
+    "position" : 5,
+    "renderTypeName" : "date",
+    "tableColumnId" : 1513952,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 2034,
+      "smallest" : 1109692800,
+      "null" : 1,
+      "largest" : 1285858800,
+      "top" : [ {
+        "count" : 20,
+        "item" : 1283785200
+      }, {
+        "count" : 19,
+        "item" : 1283871600
+      }, {
+        "count" : 18,
+        "item" : 1283958000
+      }, {
+        "count" : 17,
+        "item" : 1284044400
+      }, {
+        "count" : 16,
+        "item" : 1284130800
+      }, {
+        "count" : 15,
+        "item" : 1284217200
+      }, {
+        "count" : 14,
+        "item" : 1284303600
+      }, {
+        "count" : 13,
+        "item" : 1284390000
+      }, {
+        "count" : 12,
+        "item" : 1284476400
+      }, {
+        "count" : 11,
+        "item" : 1284562800
+      }, {
+        "count" : 10,
+        "item" : 1284649200
+      }, {
+        "count" : 9,
+        "item" : 1284735600
+      }, {
+        "count" : 8,
+        "item" : 1284822000
+      }, {
+        "count" : 7,
+        "item" : 1284908400
+      }, {
+        "count" : 6,
+        "item" : 1284994800
+      }, {
+        "count" : 5,
+        "item" : 1285081200
+      }, {
+        "count" : 4,
+        "item" : 1285167600
+      }, {
+        "count" : 3,
+        "item" : 1285254000
+      }, {
+        "count" : 2,
+        "item" : 1285340400
+      }, {
+        "count" : 1,
+        "item" : 1285426800
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826779,
+    "name" : "Rondout Elevation",
+    "dataTypeName" : "number",
+    "fieldName" : "rondout_elevation",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1513953,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 2034,
+      "smallest" : "827.73",
+      "sum" : "1701247.79",
+      "null" : 1,
+      "average" : "836.4050098328417",
+      "largest" : "842.11",
+      "top" : [ {
+        "count" : 20,
+        "item" : "838.43"
+      }, {
+        "count" : 19,
+        "item" : "838.15"
+      }, {
+        "count" : 18,
+        "item" : "837.99"
+      }, {
+        "count" : 17,
+        "item" : "837.9"
+      }, {
+        "count" : 16,
+        "item" : "836.34"
+      }, {
+        "count" : 15,
+        "item" : "836.08"
+      }, {
+        "count" : 14,
+        "item" : "836.25"
+      }, {
+        "count" : 13,
+        "item" : "836.01"
+      }, {
+        "count" : 12,
+        "item" : "835.76"
+      }, {
+        "count" : 11,
+        "item" : "835.93"
+      }, {
+        "count" : 10,
+        "item" : "835.89"
+      }, {
+        "count" : 9,
+        "item" : "835.88"
+      }, {
+        "count" : 8,
+        "item" : "835.84"
+      }, {
+        "count" : 7,
+        "item" : "836.1"
+      }, {
+        "count" : 6,
+        "item" : "836.07"
+      }, {
+        "count" : 5,
+        "item" : "835.6"
+      }, {
+        "count" : 4,
+        "item" : "835.86"
+      }, {
+        "count" : 3,
+        "item" : "835.91"
+      }, {
+        "count" : 2,
+        "item" : "835.95"
+      }, {
+        "count" : 1,
+        "item" : "837.58"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826780,
+    "name" : "Rondout Storage",
+    "dataTypeName" : "number",
+    "fieldName" : "rondout_storage",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1513954,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 2034,
+      "smallest" : "42004",
+      "sum" : "96888875",
+      "null" : 1,
+      "average" : "47634.64847590954",
+      "largest" : "51499",
+      "top" : [ {
+        "count" : 20,
+        "item" : "48981"
+      }, {
+        "count" : 19,
+        "item" : "48793"
+      }, {
+        "count" : 18,
+        "item" : "48684"
+      }, {
+        "count" : 17,
+        "item" : "48624"
+      }, {
+        "count" : 16,
+        "item" : "47580"
+      }, {
+        "count" : 15,
+        "item" : "47406"
+      }, {
+        "count" : 14,
+        "item" : "47519"
+      }, {
+        "count" : 13,
+        "item" : "47360"
+      }, {
+        "count" : 12,
+        "item" : "47194"
+      }, {
+        "count" : 11,
+        "item" : "47307"
+      }, {
+        "count" : 10,
+        "item" : "47281"
+      }, {
+        "count" : 9,
+        "item" : "47274"
+      }, {
+        "count" : 8,
+        "item" : "47248"
+      }, {
+        "count" : 7,
+        "item" : "47420"
+      }, {
+        "count" : 6,
+        "item" : "47400"
+      }, {
+        "count" : 5,
+        "item" : "47088"
+      }, {
+        "count" : 4,
+        "item" : "47261"
+      }, {
+        "count" : 3,
+        "item" : "47294"
+      }, {
+        "count" : 2,
+        "item" : "47320"
+      }, {
+        "count" : 1,
+        "item" : "48410"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826781,
+    "name" : "Schoharie Date             ",
+    "dataTypeName" : "date",
+    "fieldName" : "schoharie_date",
+    "position" : 8,
+    "renderTypeName" : "date",
+    "tableColumnId" : 1513955,
+    "width" : 424,
+    "cachedContents" : {
+      "non_null" : 2034,
+      "smallest" : 1109692800,
+      "null" : 1,
+      "largest" : 1285858800,
+      "top" : [ {
+        "count" : 20,
+        "item" : 1283785200
+      }, {
+        "count" : 19,
+        "item" : 1283871600
+      }, {
+        "count" : 18,
+        "item" : 1283958000
+      }, {
+        "count" : 17,
+        "item" : 1284044400
+      }, {
+        "count" : 16,
+        "item" : 1284130800
+      }, {
+        "count" : 15,
+        "item" : 1284217200
+      }, {
+        "count" : 14,
+        "item" : 1284303600
+      }, {
+        "count" : 13,
+        "item" : 1284390000
+      }, {
+        "count" : 12,
+        "item" : 1284476400
+      }, {
+        "count" : 11,
+        "item" : 1284562800
+      }, {
+        "count" : 10,
+        "item" : 1284649200
+      }, {
+        "count" : 9,
+        "item" : 1284735600
+      }, {
+        "count" : 8,
+        "item" : 1284822000
+      }, {
+        "count" : 7,
+        "item" : 1284908400
+      }, {
+        "count" : 6,
+        "item" : 1284994800
+      }, {
+        "count" : 5,
+        "item" : 1285081200
+      }, {
+        "count" : 4,
+        "item" : 1285167600
+      }, {
+        "count" : 3,
+        "item" : 1285254000
+      }, {
+        "count" : 2,
+        "item" : 1285340400
+      }, {
+        "count" : 1,
+        "item" : 1285426800
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826782,
+    "name" : "Schoharie Elevation",
+    "dataTypeName" : "number",
+    "fieldName" : "schoharie_elevation",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1513956,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 2034,
+      "smallest" : "1072.93",
+      "sum" : "2271904.59",
+      "null" : 1,
+      "average" : "1116.963908554572",
+      "largest" : "1133.39",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1106.37"
+      }, {
+        "count" : 19,
+        "item" : "1104.93"
+      }, {
+        "count" : 18,
+        "item" : "1109.06"
+      }, {
+        "count" : 17,
+        "item" : "1103.38"
+      }, {
+        "count" : 16,
+        "item" : "1103.27"
+      }, {
+        "count" : 15,
+        "item" : "1103.14"
+      }, {
+        "count" : 14,
+        "item" : "1103.02"
+      }, {
+        "count" : 13,
+        "item" : "1102.87"
+      }, {
+        "count" : 12,
+        "item" : "1102.74"
+      }, {
+        "count" : 11,
+        "item" : "1102.63"
+      }, {
+        "count" : 10,
+        "item" : "1102.35"
+      }, {
+        "count" : 9,
+        "item" : "1101.85"
+      }, {
+        "count" : 8,
+        "item" : "1101.34"
+      }, {
+        "count" : 7,
+        "item" : "1100.83"
+      }, {
+        "count" : 6,
+        "item" : "1100.28"
+      }, {
+        "count" : 5,
+        "item" : "1099.62"
+      }, {
+        "count" : 4,
+        "item" : "1099.03"
+      }, {
+        "count" : 3,
+        "item" : "1098.44"
+      }, {
+        "count" : 2,
+        "item" : "1097.88"
+      }, {
+        "count" : 1,
+        "item" : "1097.29"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826783,
+    "name" : "Schoharie Storage",
+    "dataTypeName" : "number",
+    "fieldName" : "schoharie_storage",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1513957,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 2034,
+      "smallest" : "3440",
+      "sum" : "31224429",
+      "null" : 1,
+      "average" : "15351.24336283186",
+      "largest" : "20900",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11898"
+      }, {
+        "count" : 19,
+        "item" : "11475"
+      }, {
+        "count" : 18,
+        "item" : "12689"
+      }, {
+        "count" : 17,
+        "item" : "11037"
+      }, {
+        "count" : 16,
+        "item" : "11005"
+      }, {
+        "count" : 15,
+        "item" : "10969"
+      }, {
+        "count" : 14,
+        "item" : "10935"
+      }, {
+        "count" : 13,
+        "item" : "10892"
+      }, {
+        "count" : 12,
+        "item" : "10855"
+      }, {
+        "count" : 11,
+        "item" : "10824"
+      }, {
+        "count" : 10,
+        "item" : "10745"
+      }, {
+        "count" : 9,
+        "item" : "10604"
+      }, {
+        "count" : 8,
+        "item" : "10459"
+      }, {
+        "count" : 7,
+        "item" : "10315"
+      }, {
+        "count" : 6,
+        "item" : "10159"
+      }, {
+        "count" : 5,
+        "item" : "9976"
+      }, {
+        "count" : 4,
+        "item" : "9815"
+      }, {
+        "count" : 3,
+        "item" : "9654"
+      }, {
+        "count" : 2,
+        "item" : "9502"
+      }, {
+        "count" : 1,
+        "item" : "9341"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826784,
+    "name" : "Cannonsville Date             ",
+    "dataTypeName" : "date",
+    "fieldName" : "cannonsville_date",
+    "position" : 11,
+    "renderTypeName" : "date",
+    "tableColumnId" : 1513958,
+    "width" : 460,
+    "cachedContents" : {
+      "non_null" : 2033,
+      "smallest" : 1109779200,
+      "null" : 2,
+      "largest" : 1285858800,
+      "top" : [ {
+        "count" : 20,
+        "item" : 1283871600
+      }, {
+        "count" : 19,
+        "item" : 1283958000
+      }, {
+        "count" : 18,
+        "item" : 1284044400
+      }, {
+        "count" : 17,
+        "item" : 1284130800
+      }, {
+        "count" : 16,
+        "item" : 1284217200
+      }, {
+        "count" : 15,
+        "item" : 1284303600
+      }, {
+        "count" : 14,
+        "item" : 1284390000
+      }, {
+        "count" : 13,
+        "item" : 1284476400
+      }, {
+        "count" : 12,
+        "item" : 1284562800
+      }, {
+        "count" : 11,
+        "item" : 1284649200
+      }, {
+        "count" : 10,
+        "item" : 1284735600
+      }, {
+        "count" : 9,
+        "item" : 1284822000
+      }, {
+        "count" : 8,
+        "item" : 1284908400
+      }, {
+        "count" : 7,
+        "item" : 1284994800
+      }, {
+        "count" : 6,
+        "item" : 1285081200
+      }, {
+        "count" : 5,
+        "item" : 1285167600
+      }, {
+        "count" : 4,
+        "item" : 1285254000
+      }, {
+        "count" : 3,
+        "item" : 1285340400
+      }, {
+        "count" : 2,
+        "item" : 1285426800
+      }, {
+        "count" : 1,
+        "item" : 1285513200
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826785,
+    "name" : "Cannonsville Elevation",
+    "dataTypeName" : "number",
+    "fieldName" : "cannonsville_elevation",
+    "position" : 12,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1513959,
+    "width" : 364,
+    "cachedContents" : {
+      "non_null" : 2030,
+      "smallest" : "1090.29",
+      "sum" : "2316973.63",
+      "null" : 5,
+      "average" : "1141.366320197044",
+      "largest" : "1157.6",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1114.13"
+      }, {
+        "count" : 19,
+        "item" : "1113.32"
+      }, {
+        "count" : 18,
+        "item" : "1112.6"
+      }, {
+        "count" : 17,
+        "item" : "1111.84"
+      }, {
+        "count" : 16,
+        "item" : "1111.13"
+      }, {
+        "count" : 15,
+        "item" : "1110.56"
+      }, {
+        "count" : 14,
+        "item" : "1110"
+      }, {
+        "count" : 13,
+        "item" : "1109.49"
+      }, {
+        "count" : 12,
+        "item" : "1108.92"
+      }, {
+        "count" : 11,
+        "item" : "1108.44"
+      }, {
+        "count" : 10,
+        "item" : "1107.91"
+      }, {
+        "count" : 9,
+        "item" : "1107.36"
+      }, {
+        "count" : 8,
+        "item" : "1106.69"
+      }, {
+        "count" : 7,
+        "item" : "1106.03"
+      }, {
+        "count" : 6,
+        "item" : "1105.32"
+      }, {
+        "count" : 5,
+        "item" : "1104.56"
+      }, {
+        "count" : 4,
+        "item" : "1104.15"
+      }, {
+        "count" : 3,
+        "item" : "1104.04"
+      }, {
+        "count" : 2,
+        "item" : "1103.92"
+      }, {
+        "count" : 1,
+        "item" : "1103.86"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826786,
+    "name" : "Cannonsville Storage",
+    "dataTypeName" : "number",
+    "fieldName" : "cannonsville_storage",
+    "position" : 13,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1513960,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 2030,
+      "smallest" : "25646",
+      "sum" : "172272765",
+      "null" : 5,
+      "average" : "84863.43103448276",
+      "largest" : "109210",
+      "top" : [ {
+        "count" : 20,
+        "item" : "49090"
+      }, {
+        "count" : 19,
+        "item" : "48189"
+      }, {
+        "count" : 18,
+        "item" : "47388"
+      }, {
+        "count" : 17,
+        "item" : "46543"
+      }, {
+        "count" : 16,
+        "item" : "45754"
+      }, {
+        "count" : 15,
+        "item" : "45120"
+      }, {
+        "count" : 14,
+        "item" : "44497"
+      }, {
+        "count" : 13,
+        "item" : "43961"
+      }, {
+        "count" : 12,
+        "item" : "43362"
+      }, {
+        "count" : 11,
+        "item" : "42857"
+      }, {
+        "count" : 10,
+        "item" : "42301"
+      }, {
+        "count" : 9,
+        "item" : "41723"
+      }, {
+        "count" : 8,
+        "item" : "41019"
+      }, {
+        "count" : 7,
+        "item" : "40326"
+      }, {
+        "count" : 6,
+        "item" : "39579"
+      }, {
+        "count" : 5,
+        "item" : "38807"
+      }, {
+        "count" : 4,
+        "item" : "38401"
+      }, {
+        "count" : 3,
+        "item" : "38292"
+      }, {
+        "count" : 2,
+        "item" : "38173"
+      }, {
+        "count" : 1,
+        "item" : "38113"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826787,
+    "name" : "Pepacton Date              ",
+    "dataTypeName" : "date",
+    "fieldName" : "pepacton_date",
+    "position" : 14,
+    "renderTypeName" : "date",
+    "tableColumnId" : 1513961,
+    "width" : 424,
+    "cachedContents" : {
+      "non_null" : 2035,
+      "smallest" : 1109692800,
+      "null" : 0,
+      "largest" : 1285858800,
+      "top" : [ {
+        "count" : 20,
+        "item" : 1283698800
+      }, {
+        "count" : 19,
+        "item" : 1283785200
+      }, {
+        "count" : 18,
+        "item" : 1283871600
+      }, {
+        "count" : 17,
+        "item" : 1283958000
+      }, {
+        "count" : 16,
+        "item" : 1284044400
+      }, {
+        "count" : 15,
+        "item" : 1284130800
+      }, {
+        "count" : 14,
+        "item" : 1284217200
+      }, {
+        "count" : 13,
+        "item" : 1284303600
+      }, {
+        "count" : 12,
+        "item" : 1284390000
+      }, {
+        "count" : 11,
+        "item" : 1284476400
+      }, {
+        "count" : 10,
+        "item" : 1284562800
+      }, {
+        "count" : 9,
+        "item" : 1284649200
+      }, {
+        "count" : 8,
+        "item" : 1284735600
+      }, {
+        "count" : 7,
+        "item" : 1284822000
+      }, {
+        "count" : 6,
+        "item" : 1284908400
+      }, {
+        "count" : 5,
+        "item" : 1284994800
+      }, {
+        "count" : 4,
+        "item" : 1285081200
+      }, {
+        "count" : 3,
+        "item" : 1285167600
+      }, {
+        "count" : 2,
+        "item" : 1285254000
+      }, {
+        "count" : 1,
+        "item" : 1285340400
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826788,
+    "name" : "Pepacton Elevation",
+    "dataTypeName" : "number",
+    "fieldName" : "pepacton_elevation",
+    "position" : 15,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1513962,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 2035,
+      "smallest" : "1240.77",
+      "sum" : "2588975.04",
+      "null" : 0,
+      "average" : "1272.223606879607",
+      "largest" : "1283.68",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1257.3"
+      }, {
+        "count" : 19,
+        "item" : "1256.98"
+      }, {
+        "count" : 18,
+        "item" : "1256.66"
+      }, {
+        "count" : 17,
+        "item" : "1256.33"
+      }, {
+        "count" : 16,
+        "item" : "1256.04"
+      }, {
+        "count" : 15,
+        "item" : "1255.73"
+      }, {
+        "count" : 14,
+        "item" : "1255.4"
+      }, {
+        "count" : 13,
+        "item" : "1255.11"
+      }, {
+        "count" : 12,
+        "item" : "1255.09"
+      }, {
+        "count" : 11,
+        "item" : "1254.84"
+      }, {
+        "count" : 10,
+        "item" : "1254.53"
+      }, {
+        "count" : 9,
+        "item" : "1254.23"
+      }, {
+        "count" : 8,
+        "item" : "1253.93"
+      }, {
+        "count" : 7,
+        "item" : "1253.65"
+      }, {
+        "count" : 6,
+        "item" : "1253.35"
+      }, {
+        "count" : 5,
+        "item" : "1253.05"
+      }, {
+        "count" : 4,
+        "item" : "1252.73"
+      }, {
+        "count" : 3,
+        "item" : "1252.42"
+      }, {
+        "count" : 2,
+        "item" : "1252.13"
+      }, {
+        "count" : 1,
+        "item" : "1251.82"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826789,
+    "name" : "Pepacton Storage",
+    "dataTypeName" : "number",
+    "fieldName" : "pepacton_storage",
+    "position" : 16,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1513963,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 2035,
+      "smallest" : "81099",
+      "sum" : "264979028",
+      "null" : 0,
+      "average" : "130210.8245700246",
+      "largest" : "150593",
+      "top" : [ {
+        "count" : 20,
+        "item" : "105097"
+      }, {
+        "count" : 19,
+        "item" : "104597"
+      }, {
+        "count" : 18,
+        "item" : "104101"
+      }, {
+        "count" : 17,
+        "item" : "103589"
+      }, {
+        "count" : 16,
+        "item" : "103140"
+      }, {
+        "count" : 15,
+        "item" : "102662"
+      }, {
+        "count" : 14,
+        "item" : "102155"
+      }, {
+        "count" : 13,
+        "item" : "101709"
+      }, {
+        "count" : 12,
+        "item" : "101679"
+      }, {
+        "count" : 11,
+        "item" : "101297"
+      }, {
+        "count" : 10,
+        "item" : "100824"
+      }, {
+        "count" : 9,
+        "item" : "100367"
+      }, {
+        "count" : 8,
+        "item" : "99911"
+      }, {
+        "count" : 7,
+        "item" : "99489"
+      }, {
+        "count" : 6,
+        "item" : "99034"
+      }, {
+        "count" : 5,
+        "item" : "98582"
+      }, {
+        "count" : 4,
+        "item" : "98101"
+      }, {
+        "count" : 3,
+        "item" : "97637"
+      }, {
+        "count" : 2,
+        "item" : "97203"
+      }, {
+        "count" : 1,
+        "item" : "96740"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826790,
+    "name" : "Ashokan East Date             ",
+    "dataTypeName" : "date",
+    "fieldName" : "ashokan_east_date",
+    "position" : 17,
+    "renderTypeName" : "date",
+    "tableColumnId" : 1513964,
+    "width" : 460,
+    "cachedContents" : {
+      "non_null" : 2035,
+      "smallest" : 1109692800,
+      "null" : 0,
+      "largest" : 1285858800,
+      "top" : [ {
+        "count" : 20,
+        "item" : 1283698800
+      }, {
+        "count" : 19,
+        "item" : 1283785200
+      }, {
+        "count" : 18,
+        "item" : 1283871600
+      }, {
+        "count" : 17,
+        "item" : 1283958000
+      }, {
+        "count" : 16,
+        "item" : 1284044400
+      }, {
+        "count" : 15,
+        "item" : 1284130800
+      }, {
+        "count" : 14,
+        "item" : 1284217200
+      }, {
+        "count" : 13,
+        "item" : 1284303600
+      }, {
+        "count" : 12,
+        "item" : 1284390000
+      }, {
+        "count" : 11,
+        "item" : 1284476400
+      }, {
+        "count" : 10,
+        "item" : 1284562800
+      }, {
+        "count" : 9,
+        "item" : 1284649200
+      }, {
+        "count" : 8,
+        "item" : 1284735600
+      }, {
+        "count" : 7,
+        "item" : 1284822000
+      }, {
+        "count" : 6,
+        "item" : 1284908400
+      }, {
+        "count" : 5,
+        "item" : 1284994800
+      }, {
+        "count" : 4,
+        "item" : 1285081200
+      }, {
+        "count" : 3,
+        "item" : 1285167600
+      }, {
+        "count" : 2,
+        "item" : 1285254000
+      }, {
+        "count" : 1,
+        "item" : 1285340400
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826791,
+    "name" : "Ashokan East Elevation",
+    "dataTypeName" : "number",
+    "fieldName" : "ashokan_east_elevation",
+    "position" : 18,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1513965,
+    "width" : 364,
+    "cachedContents" : {
+      "non_null" : 2035,
+      "smallest" : "566.42",
+      "sum" : "1187721.06",
+      "null" : 0,
+      "average" : "583.6467125307125",
+      "largest" : "591.37",
+      "top" : [ {
+        "count" : 20,
+        "item" : "576.55"
+      }, {
+        "count" : 19,
+        "item" : "576.37"
+      }, {
+        "count" : 18,
+        "item" : "576.34"
+      }, {
+        "count" : 17,
+        "item" : "576.31"
+      }, {
+        "count" : 16,
+        "item" : "576.29"
+      }, {
+        "count" : 15,
+        "item" : "576.27"
+      }, {
+        "count" : 14,
+        "item" : "576.23"
+      }, {
+        "count" : 13,
+        "item" : "573.41"
+      }, {
+        "count" : 12,
+        "item" : "572.95"
+      }, {
+        "count" : 11,
+        "item" : "572.52"
+      }, {
+        "count" : 10,
+        "item" : "572.12"
+      }, {
+        "count" : 9,
+        "item" : "571.68"
+      }, {
+        "count" : 8,
+        "item" : "571.23"
+      }, {
+        "count" : 7,
+        "item" : "570.8"
+      }, {
+        "count" : 6,
+        "item" : "570.34"
+      }, {
+        "count" : 5,
+        "item" : "569.91"
+      }, {
+        "count" : 4,
+        "item" : "569.46"
+      }, {
+        "count" : 3,
+        "item" : "569.04"
+      }, {
+        "count" : 2,
+        "item" : "568.63"
+      }, {
+        "count" : 1,
+        "item" : "568.19"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826792,
+    "name" : "Ashokan East Storage",
+    "dataTypeName" : "number",
+    "fieldName" : "ashokan_east_storage",
+    "position" : 19,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1513966,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 2035,
+      "smallest" : "49359",
+      "sum" : "152941359",
+      "null" : 0,
+      "average" : "75155.45896805897",
+      "largest" : "87919",
+      "top" : [ {
+        "count" : 20,
+        "item" : "63766"
+      }, {
+        "count" : 19,
+        "item" : "63488"
+      }, {
+        "count" : 18,
+        "item" : "63442"
+      }, {
+        "count" : 17,
+        "item" : "63396"
+      }, {
+        "count" : 16,
+        "item" : "63365"
+      }, {
+        "count" : 15,
+        "item" : "63334"
+      }, {
+        "count" : 14,
+        "item" : "63272"
+      }, {
+        "count" : 13,
+        "item" : "59086"
+      }, {
+        "count" : 12,
+        "item" : "58424"
+      }, {
+        "count" : 11,
+        "item" : "57804"
+      }, {
+        "count" : 10,
+        "item" : "57228"
+      }, {
+        "count" : 9,
+        "item" : "56595"
+      }, {
+        "count" : 8,
+        "item" : "55947"
+      }, {
+        "count" : 7,
+        "item" : "55328"
+      }, {
+        "count" : 6,
+        "item" : "54665"
+      }, {
+        "count" : 5,
+        "item" : "54054"
+      }, {
+        "count" : 4,
+        "item" : "53449"
+      }, {
+        "count" : 3,
+        "item" : "52884"
+      }, {
+        "count" : 2,
+        "item" : "52332"
+      }, {
+        "count" : 1,
+        "item" : "51740"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826793,
+    "name" : "Ashokan West Date             ",
+    "dataTypeName" : "date",
+    "fieldName" : "ashokan_west_date",
+    "position" : 20,
+    "renderTypeName" : "date",
+    "tableColumnId" : 1513967,
+    "width" : 460,
+    "cachedContents" : {
+      "non_null" : 2035,
+      "smallest" : 1109692800,
+      "null" : 0,
+      "largest" : 1285858800,
+      "top" : [ {
+        "count" : 20,
+        "item" : 1283698800
+      }, {
+        "count" : 19,
+        "item" : 1283785200
+      }, {
+        "count" : 18,
+        "item" : 1283871600
+      }, {
+        "count" : 17,
+        "item" : 1283958000
+      }, {
+        "count" : 16,
+        "item" : 1284044400
+      }, {
+        "count" : 15,
+        "item" : 1284130800
+      }, {
+        "count" : 14,
+        "item" : 1284217200
+      }, {
+        "count" : 13,
+        "item" : 1284303600
+      }, {
+        "count" : 12,
+        "item" : 1284390000
+      }, {
+        "count" : 11,
+        "item" : 1284476400
+      }, {
+        "count" : 10,
+        "item" : 1284562800
+      }, {
+        "count" : 9,
+        "item" : 1284649200
+      }, {
+        "count" : 8,
+        "item" : 1284735600
+      }, {
+        "count" : 7,
+        "item" : 1284822000
+      }, {
+        "count" : 6,
+        "item" : 1284908400
+      }, {
+        "count" : 5,
+        "item" : 1284994800
+      }, {
+        "count" : 4,
+        "item" : 1285081200
+      }, {
+        "count" : 3,
+        "item" : 1285167600
+      }, {
+        "count" : 2,
+        "item" : 1285254000
+      }, {
+        "count" : 1,
+        "item" : 1285340400
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826794,
+    "name" : "Ashokan West Elevation",
+    "dataTypeName" : "number",
+    "fieldName" : "ashokan_west_elevation",
+    "position" : 21,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1513968,
+    "width" : 364,
+    "cachedContents" : {
+      "non_null" : 2034,
+      "smallest" : "566.31",
+      "sum" : "1192576.73",
+      "null" : 1,
+      "average" : "586.3209095378564",
+      "largest" : "593.79",
+      "top" : [ {
+        "count" : 20,
+        "item" : "566.31"
+      }, {
+        "count" : 19,
+        "item" : "566.49"
+      }, {
+        "count" : 18,
+        "item" : "566.71"
+      }, {
+        "count" : 17,
+        "item" : "566.91"
+      }, {
+        "count" : 16,
+        "item" : "567.1"
+      }, {
+        "count" : 15,
+        "item" : "567.26"
+      }, {
+        "count" : 14,
+        "item" : "567.41"
+      }, {
+        "count" : 13,
+        "item" : "567.56"
+      }, {
+        "count" : 12,
+        "item" : "567.71"
+      }, {
+        "count" : 11,
+        "item" : "567.83"
+      }, {
+        "count" : 10,
+        "item" : "567.96"
+      }, {
+        "count" : 9,
+        "item" : "568.2"
+      }, {
+        "count" : 8,
+        "item" : "568.48"
+      }, {
+        "count" : 7,
+        "item" : "568.72"
+      }, {
+        "count" : 6,
+        "item" : "568.98"
+      }, {
+        "count" : 5,
+        "item" : "569.24"
+      }, {
+        "count" : 4,
+        "item" : "569.51"
+      }, {
+        "count" : 3,
+        "item" : "569.76"
+      }, {
+        "count" : 2,
+        "item" : "570.01"
+      }, {
+        "count" : 1,
+        "item" : "570.23"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826795,
+    "name" : "Ashokan West Storage",
+    "dataTypeName" : "number",
+    "fieldName" : "ashokan_west_storage",
+    "position" : 22,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1513969,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 2034,
+      "smallest" : "26264",
+      "sum" : "88897962",
+      "null" : 1,
+      "average" : "43705.97935103245",
+      "largest" : "51192",
+      "top" : [ {
+        "count" : 20,
+        "item" : "26264"
+      }, {
+        "count" : 19,
+        "item" : "26402"
+      }, {
+        "count" : 18,
+        "item" : "26571"
+      }, {
+        "count" : 17,
+        "item" : "26725"
+      }, {
+        "count" : 16,
+        "item" : "26871"
+      }, {
+        "count" : 15,
+        "item" : "26994"
+      }, {
+        "count" : 14,
+        "item" : "27109"
+      }, {
+        "count" : 13,
+        "item" : "27225"
+      }, {
+        "count" : 12,
+        "item" : "27340"
+      }, {
+        "count" : 11,
+        "item" : "27432"
+      }, {
+        "count" : 10,
+        "item" : "27532"
+      }, {
+        "count" : 9,
+        "item" : "27717"
+      }, {
+        "count" : 8,
+        "item" : "27932"
+      }, {
+        "count" : 7,
+        "item" : "28116"
+      }, {
+        "count" : 6,
+        "item" : "28316"
+      }, {
+        "count" : 5,
+        "item" : "28516"
+      }, {
+        "count" : 4,
+        "item" : "28723"
+      }, {
+        "count" : 3,
+        "item" : "28916"
+      }, {
+        "count" : 2,
+        "item" : "29108"
+      }, {
+        "count" : 1,
+        "item" : "29289"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "department of environmental protection", "dep", "environment", "water", "reservoir", "health", "ecosystem", "eco-system", "agua", "water system", "water supply", "nyc", "tap", "tap water", "conservation", "healthy living" ],
+  "flags" : [ "default" ]
+}

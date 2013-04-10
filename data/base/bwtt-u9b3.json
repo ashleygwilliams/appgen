@@ -1,0 +1,143 @@
+{
+  "id" : "bwtt-u9b3",
+  "name" : "Directory of Heat and Wind Chill Products by National Weather Service for New York City",
+  "attribution" : "Office of Emergency Management (OEM)",
+  "attributionLink" : "http://www.nyc.gov/html/oem/downloads/pdf/hazard_mitigation/section_3i_extreme_temperatures_hazard_analysis.pdf",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1361907984,
+  "description" : "List of Heat and Wind Chill products for New York City issued by National Weather Service (NWS)",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2645266,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361916258,
+  "publicationGroup" : 701450,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1361916229,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 701711,
+  "totalTimesRated" : 0,
+  "viewCount" : 11,
+  "viewLastModified" : 1361916268,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 47172780,
+    "name" : "Product",
+    "dataTypeName" : "text",
+    "fieldName" : "product",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8185731,
+    "width" : 191,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "Excessive Heat Warning",
+      "null" : 0,
+      "largest" : "Wind Chill Watch",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Heat Advisory (New York City)"
+      }, {
+        "count" : 19,
+        "item" : "Excessive Heat Watch"
+      }, {
+        "count" : 18,
+        "item" : "Excessive Heat Warning"
+      }, {
+        "count" : 17,
+        "item" : "Wind Chill Watch"
+      }, {
+        "count" : 16,
+        "item" : "Wind Chill Advisory"
+      }, {
+        "count" : 15,
+        "item" : "Wind Chill Warning"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47172781,
+    "name" : "Criteria",
+    "dataTypeName" : "text",
+    "fieldName" : "criteria",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8185732,
+    "width" : 951,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "Issued by the NWS when there is a chance that wind chill temperatures will decrease to at least 24º F below zero during the next 24 to 48 hours",
+      "null" : 0,
+      "largest" : "Issued within 48 hours prior to onset of the following conditions:\nHeat index of at least 105° F for more than 3 hours per day for 2 consecutive days. Heat index of at least 115° F for any time of 95° F or higher for two consecutive days.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Issued within 24 hours prior to onset of any of the following conditions:\nHeat index of at least 100° F but less than 105° F for any period of time. Maximum heat index of 95°F or greater for two consecutive days. Nighttime lows above 80° F for any period of time"
+      }, {
+        "count" : 19,
+        "item" : "Issued within 48 hours prior to onset of the following conditions:\nHeat index of at least 105° F for more than 3 hours per day for 2 consecutive days. Heat index of at least 115° F for any time of 95° F or higher for two consecutive days."
+      }, {
+        "count" : 18,
+        "item" : "Issued within 24 hours of onset of the following conditions:\nHeat index of at least 105° F for more than 3 hours per day for 2 consecutive days. Heat index of more than 115° F for any time period."
+      }, {
+        "count" : 17,
+        "item" : "Issued by the NWS when there is a chance that wind chill temperatures will decrease to at least 24º F below zero during the next 24 to 48 hours"
+      }, {
+        "count" : 16,
+        "item" : "Issued when the wind chill could be life threatening if action is not taken. The criteria for this advisory are expected wind chill readings of 15º F to 24º F degrees below zero"
+      }, {
+        "count" : 15,
+        "item" : "Issued when wind chill readings are life threatening. Wind chill readings of 25º F below zero or lower are expected"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "oem", "emergency", "management", "services", "heat", "wind chill", "product", "nws" ],
+  "flags" : [ "default" ]
+}

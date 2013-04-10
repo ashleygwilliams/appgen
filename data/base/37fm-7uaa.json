@@ -1,0 +1,296 @@
+{
+  "id" : "37fm-7uaa",
+  "name" : "NYCHA Customer Contact Centers",
+  "attribution" : "New York City Housing Authority (NYCHA)",
+  "attributionLink" : "http://www.nyc.gov/html/nycha/html/residents/maint_requests.shtml",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1364497878,
+  "description" : "The  customer contact center locations, phone numbers and schedules",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2999043,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1364581022,
+  "publicationGroup" : 761958,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1364580958,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 764093,
+  "totalTimesRated" : 0,
+  "viewCount" : 7,
+  "viewLastModified" : 1364581036,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 54058361,
+    "name" : "Name",
+    "dataTypeName" : "text",
+    "description" : "Location of the customer contact center",
+    "fieldName" : "name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008557,
+    "width" : 283,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "Bronx/Manhattan Customer Contact Center",
+      "null" : 0,
+      "largest" : "Queens Customer Contact Center",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx/Manhattan Customer Contact Center"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn/Staten Island Customer Contact Center"
+      }, {
+        "count" : 18,
+        "item" : "Queens Customer Contact Center"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058362,
+    "name" : "Address 1",
+    "dataTypeName" : "text",
+    "description" : "Street Address",
+    "fieldName" : "address_1",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008558,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "478 East Fordham Road (1 Fordham Plaza)",
+      "null" : 0,
+      "largest" : "90-27 Sutphin Boulevard",
+      "top" : [ {
+        "count" : 20,
+        "item" : "478 East Fordham Road (1 Fordham Plaza)"
+      }, {
+        "count" : 19,
+        "item" : "787 Atlantic Avenue"
+      }, {
+        "count" : 18,
+        "item" : "90-27 Sutphin Boulevard"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058363,
+    "name" : "Address 2",
+    "dataTypeName" : "text",
+    "description" : "Floor #",
+    "fieldName" : "address_2",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008559,
+    "width" : 79,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "2nd Floor",
+      "null" : 0,
+      "largest" : "4th Floor",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2nd Floor"
+      }, {
+        "count" : 19,
+        "item" : "4th Floor"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058364,
+    "name" : "City",
+    "dataTypeName" : "text",
+    "description" : "City",
+    "fieldName" : "city",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008560,
+    "width" : 86,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Jamaica",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn "
+      }, {
+        "count" : 18,
+        "item" : "Jamaica"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058365,
+    "name" : "State",
+    "dataTypeName" : "text",
+    "description" : "State",
+    "fieldName" : "state",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008561,
+    "width" : 63,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "NY",
+      "null" : 0,
+      "largest" : "NY",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NY"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058366,
+    "name" : "Zip Code",
+    "dataTypeName" : "text",
+    "description" : "Zip Code",
+    "fieldName" : "zip_code",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008562,
+    "width" : 86,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "10458",
+      "null" : 0,
+      "largest" : "11435",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10458"
+      }, {
+        "count" : 19,
+        "item" : "11238"
+      }, {
+        "count" : 18,
+        "item" : "11435"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058367,
+    "name" : "Phone #",
+    "dataTypeName" : "text",
+    "description" : "Phone number for customer contact center",
+    "fieldName" : "phone__",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008563,
+    "width" : 106,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "(718) 707-7771",
+      "null" : 0,
+      "largest" : "(718) 707-7771",
+      "top" : [ {
+        "count" : 20,
+        "item" : "(718) 707-7771"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058368,
+    "name" : "Days",
+    "dataTypeName" : "text",
+    "description" : "Days that customer contact center is open",
+    "fieldName" : "days",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008564,
+    "width" : 83,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "Mon.- Fri.",
+      "null" : 0,
+      "largest" : "Mon.- Fri.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Mon.- Fri."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058369,
+    "name" : "Hours",
+    "dataTypeName" : "text",
+    "description" : "Hours that customer contact center is open",
+    "fieldName" : "hours",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008565,
+    "width" : 97,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "8am - 5pm",
+      "null" : 0,
+      "largest" : "8am - 5pm",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8am - 5pm"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Biannually "
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "nycha", "nyc housing", "government service", "call center", "walk-in center" ],
+  "flags" : [ "default" ]
+}

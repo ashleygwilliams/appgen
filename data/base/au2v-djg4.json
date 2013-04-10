@@ -1,0 +1,130 @@
+{
+  "id" : "au2v-djg4",
+  "name" : "WTC Disorders",
+  "attribution" : "Health and Hospitals Corporation (HHC)",
+  "averageRating" : 0,
+  "category" : "Health",
+  "createdAt" : 1317408342,
+  "description" : "The New York City Health and Hospitals Corporation (HHC) World Trade Center (WTC) Environmental Health Center program, one of three Centers of Excellence in New York City, provides medical and mental healthcare to residents, students, workers, and passersby who may still be sick from 9/11.  This data shows the major disorders suffered by patients who were enrolled between 4/1/2010 and 3/31/2011..\r\nUpdate Frequency: As needed",
+  "displayType" : "table",
+  "downloadCount" : 20,
+  "numberOfComments" : 0,
+  "oid" : 337532,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318361046,
+  "publicationGroup" : 242203,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1317408351,
+  "rowsUpdatedBy" : "k2fz-tf56",
+  "signed" : false,
+  "tableId" : 242203,
+  "totalTimesRated" : 0,
+  "viewCount" : 75,
+  "viewLastModified" : 1363711931,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2910079,
+    "name" : "DISORDER",
+    "dataTypeName" : "text",
+    "fieldName" : "disorder",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1540190,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "Digestive Disorders",
+      "null" : 0,
+      "largest" : "Upper Respiratory Symtomps",
+      "top" : [ {
+        "count" : 20,
+        "item" : "PTSD/Anxiety/depression"
+      }, {
+        "count" : 19,
+        "item" : "Digestive Disorders"
+      }, {
+        "count" : 18,
+        "item" : "Lower Respiratory Symptoms"
+      }, {
+        "count" : 17,
+        "item" : "Upper Respiratory Symtomps"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910080,
+    "name" : "PERCENTAGE",
+    "dataTypeName" : "text",
+    "fieldName" : "percentage",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1540191,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "40%",
+      "null" : 0,
+      "largest" : "76%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "51%"
+      }, {
+        "count" : 19,
+        "item" : "40%"
+      }, {
+        "count" : 18,
+        "item" : "76%"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "health", "patient", "world trade center", "wtc", "disorder", "environmental health center", "healthy living" ],
+  "flags" : [ "default" ]
+}

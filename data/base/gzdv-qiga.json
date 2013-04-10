@@ -1,0 +1,502 @@
+{
+  "id" : "gzdv-qiga",
+  "name" : "Completed Percent for Art projects with artist information",
+  "attribution" : "Department of Cultural Affairs (DCLA)",
+  "attributionLink" : "http://www.nyc.gov/html/dcla/html/panyc/projects.shtml",
+  "averageRating" : 0,
+  "category" : "Cultural Affairs",
+  "createdAt" : 1362169607,
+  "description" : "This data set contains the current listing of Department of Cultural Affairs completed Percent for Art projects.",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "numberOfComments" : 0,
+  "oid" : 2745214,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362689481,
+  "publicationGroup" : 707876,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1362689435,
+  "rowsUpdatedBy" : "5fuc-pqz2",
+  "signed" : false,
+  "tableId" : 720265,
+  "totalTimesRated" : 0,
+  "viewCount" : 23,
+  "viewLastModified" : 1362691453,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 49101181,
+    "name" : "Percent Project",
+    "dataTypeName" : "text",
+    "description" : "Name and/or location of Public Art Work",
+    "fieldName" : "percent_project",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8272858,
+    "width" : 353,
+    "cachedContents" : {
+      "non_null" : 296,
+      "smallest" : "59th Street Marine Transfer Station ",
+      "null" : 0,
+      "largest" : "Williamsburg Childcare Center ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Office of Chief Medical Examiner "
+      }, {
+        "count" : 19,
+        "item" : "PS 306 "
+      }, {
+        "count" : 18,
+        "item" : "Port Richmond High School "
+      }, {
+        "count" : 17,
+        "item" : "Queens Civil Court "
+      }, {
+        "count" : 16,
+        "item" : "Stuyvesant High School "
+      }, {
+        "count" : 15,
+        "item" : "Townsend Harris High School "
+      }, {
+        "count" : 14,
+        "item" : "Van Arsdale High School "
+      }, {
+        "count" : 13,
+        "item" : "Walton High School "
+      }, {
+        "count" : 12,
+        "item" : "Weeksville Heritage Center "
+      }, {
+        "count" : 11,
+        "item" : "West Harlem Waterfront "
+      }, {
+        "count" : 10,
+        "item" : "West Side High School "
+      }, {
+        "count" : 9,
+        "item" : "White Street Detention Center "
+      }, {
+        "count" : 8,
+        "item" : "Whitehall Ferry Terminal "
+      }, {
+        "count" : 7,
+        "item" : "Williamsburg Childcare Center "
+      }, {
+        "count" : 6,
+        "item" : "Battery Park City(PS 276)"
+      }, {
+        "count" : 5,
+        "item" : "Eagle Academy for Young Men"
+      }, {
+        "count" : 4,
+        "item" : "ECC 361 @ 94"
+      }, {
+        "count" : 3,
+        "item" : "Family Intake Center (Emergency Assistance Unit)"
+      }, {
+        "count" : 2,
+        "item" : "Gateway High School for Health Care Professionals"
+      }, {
+        "count" : 1,
+        "item" : "Metropolitan Avenue Campus"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 49101182,
+    "name" : "Artist",
+    "dataTypeName" : "text",
+    "fieldName" : "artist",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8272859,
+    "width" : 238,
+    "cachedContents" : {
+      "non_null" : 296,
+      "smallest" : " Acconci, Vito",
+      "null" : 0,
+      "largest" : " Zweig, Janet",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Watkins, Tim and May, Carol"
+      }, {
+        "count" : 19,
+        "item" : "Putrih, Tobias"
+      }, {
+        "count" : 18,
+        "item" : "Rostovsky, Peter"
+      }, {
+        "count" : 17,
+        "item" : "Rubin, Ben"
+      }, {
+        "count" : 16,
+        "item" : "Simon, Adam"
+      }, {
+        "count" : 15,
+        "item" : "Spiegelman, Art"
+      }, {
+        "count" : 14,
+        "item" : "Trimble, Scott"
+      }, {
+        "count" : 13,
+        "item" : "Weiner, Lawrence"
+      }, {
+        "count" : 12,
+        "item" : "Zweig, Janet"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 49101183,
+    "name" : "Address",
+    "dataTypeName" : "text",
+    "description" : "Location of the Public Art Work",
+    "fieldName" : "address",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8272860,
+    "width" : 211,
+    "cachedContents" : {
+      "non_null" : 296,
+      "smallest" : "100-01 Northern Boulevard",
+      "null" : 0,
+      "largest" : "Winchester Boulevard/Grand Central Parkway",
+      "top" : [ {
+        "count" : 20,
+        "item" : "421 East 26th Street"
+      }, {
+        "count" : 19,
+        "item" : "40 West Tremont Avenue"
+      }, {
+        "count" : 18,
+        "item" : "85 St. Joseph's Avenue"
+      }, {
+        "count" : 17,
+        "item" : "89-17 Sutphin Boulevard"
+      }, {
+        "count" : 16,
+        "item" : "614 Broadway"
+      }, {
+        "count" : 15,
+        "item" : "345 Chambers Street"
+      }, {
+        "count" : 14,
+        "item" : "2180 First Avenue"
+      }, {
+        "count" : 13,
+        "item" : "149-11 Melbourne Avenue"
+      }, {
+        "count" : 12,
+        "item" : "259 North 6th Street"
+      }, {
+        "count" : 11,
+        "item" : "2780 Reservoir Avenue"
+      }, {
+        "count" : 10,
+        "item" : "125th Street and the Hudson River"
+      }, {
+        "count" : 9,
+        "item" : "140 West 102nd Street"
+      }, {
+        "count" : 8,
+        "item" : "125 White Street"
+      }, {
+        "count" : 7,
+        "item" : "Whitehall and South Streets"
+      }, {
+        "count" : 6,
+        "item" : "243 South Second Street"
+      }, {
+        "count" : 5,
+        "item" : "55 Battery Place"
+      }, {
+        "count" : 4,
+        "item" : "506 East 176th Street"
+      }, {
+        "count" : 3,
+        "item" : "3530 Kings College Place"
+      }, {
+        "count" : 2,
+        "item" : "151 East 151st Street"
+      }, {
+        "count" : 1,
+        "item" : "150-91 87th Road"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 49101184,
+    "name" : "City",
+    "dataTypeName" : "text",
+    "fieldName" : "city",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8272866,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 296,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New York"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Queens"
+      }, {
+        "count" : 17,
+        "item" : "Bronx"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      }, {
+        "count" : 15,
+        "item" : "Brooklyn "
+      }, {
+        "count" : 14,
+        "item" : "Bronx "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 49101185,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8272871,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 296,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Manhattan"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Queens"
+      }, {
+        "count" : 17,
+        "item" : "Bronx"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 49101186,
+    "name" : "Council District",
+    "dataTypeName" : "text",
+    "fieldName" : "council_district",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8272872,
+    "width" : 212,
+    "cachedContents" : {
+      "non_null" : 294,
+      "smallest" : "Bronx Council District #11",
+      "null" : 2,
+      "largest" : "Staten Island Council District #49",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Manhattan Council District #10"
+      }, {
+        "count" : 19,
+        "item" : "Bronx Council District #15"
+      }, {
+        "count" : 18,
+        "item" : "Bronx Council District #16"
+      }, {
+        "count" : 17,
+        "item" : "Brooklyn Council District #35"
+      }, {
+        "count" : 16,
+        "item" : "Queens Council District #27"
+      }, {
+        "count" : 15,
+        "item" : "Brooklyn Council District #45"
+      }, {
+        "count" : 14,
+        "item" : "Brooklyn Council District #48"
+      }, {
+        "count" : 13,
+        "item" : "Queens Council District #21"
+      }, {
+        "count" : 12,
+        "item" : "Manhattan Council District #8"
+      }, {
+        "count" : 11,
+        "item" : "Brooklyn Council District #42"
+      }, {
+        "count" : 10,
+        "item" : "Queens Council District #25"
+      }, {
+        "count" : 9,
+        "item" : "Bronx Council District #17"
+      }, {
+        "count" : 8,
+        "item" : "Queens Council District #20"
+      }, {
+        "count" : 7,
+        "item" : "Manhattan Council District #1"
+      }, {
+        "count" : 6,
+        "item" : "Manhattan Council District #9"
+      }, {
+        "count" : 5,
+        "item" : "Queens Council District #23"
+      }, {
+        "count" : 4,
+        "item" : "Bronx Council District #11"
+      }, {
+        "count" : 3,
+        "item" : "Manhattan Council District #7"
+      }, {
+        "count" : 2,
+        "item" : "Manhattan Council District #4"
+      }, {
+        "count" : 1,
+        "item" : "Brooklyn Council District #33"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 49101187,
+    "name" : "Community Board",
+    "dataTypeName" : "text",
+    "fieldName" : "community_board",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8272887,
+    "width" : 248,
+    "cachedContents" : {
+      "non_null" : 292,
+      "smallest" : "Bronx Community Board",
+      "null" : 4,
+      "largest" : "Staten Island Community Brd #3",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Manhattan Community Board #12"
+      }, {
+        "count" : 19,
+        "item" : "Bronx Community Board #4"
+      }, {
+        "count" : 18,
+        "item" : "Queens Community Board #13"
+      }, {
+        "count" : 17,
+        "item" : "Brooklyn Community Board #17"
+      }, {
+        "count" : 16,
+        "item" : "Queens Community Board #7"
+      }, {
+        "count" : 15,
+        "item" : "Brooklyn Community Board #16"
+      }, {
+        "count" : 14,
+        "item" : "Queens Community Board #3"
+      }, {
+        "count" : 13,
+        "item" : "Manhattan Community Board #11"
+      }, {
+        "count" : 12,
+        "item" : "Queens Community Board #4"
+      }, {
+        "count" : 11,
+        "item" : "Bronx Community Board #1"
+      }, {
+        "count" : 10,
+        "item" : "Manhattan Community Board #10"
+      }, {
+        "count" : 9,
+        "item" : "Manhattan Community Board #6"
+      }, {
+        "count" : 8,
+        "item" : "Bronx Community Board #5"
+      }, {
+        "count" : 7,
+        "item" : "Brooklyn Community Board #8"
+      }, {
+        "count" : 6,
+        "item" : "Manhattan Community Board #1"
+      }, {
+        "count" : 5,
+        "item" : "Brooklyn Community Board #7"
+      }, {
+        "count" : 4,
+        "item" : "Queens Community Board #9"
+      }, {
+        "count" : 3,
+        "item" : "Bronx Community Board #7"
+      }, {
+        "count" : 2,
+        "item" : "Brooklyn Community Board #4"
+      }, {
+        "count" : 1,
+        "item" : "Manhattan Community Board #9"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "dcla", "cultural", "culture", "program", "fund", "funding", "project", "art", "percent", "percent for art", "artist", "cultural affairs" ],
+  "flags" : [ "default" ]
+}

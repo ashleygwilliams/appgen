@@ -1,0 +1,568 @@
+{
+  "id" : "gaq9-z3hz",
+  "name" : "Recycling Diversion and Capture Rates",
+  "attribution" : "Department of Sanitation (DSNY)",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1319228987,
+  "description" : "For each Community District, its Recycling Diversion rate (percentage of total municipal solid waste collected by the Department of Sanitation (DSNY that is disposed of by recycling) and Capture Rate (% of total Paper or Metal/Glass/Plastic in the waste stream that is disposed of by recycling).",
+  "displayType" : "table",
+  "downloadCount" : 91,
+  "numberOfComments" : 0,
+  "oid" : 351291,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1319229202,
+  "publicationGroup" : 247440,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1319228993,
+  "rowsUpdatedBy" : "k2fz-tf56",
+  "signed" : false,
+  "tableId" : 247440,
+  "totalTimesRated" : 0,
+  "viewCount" : 595,
+  "viewLastModified" : 1363704652,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3204120,
+    "name" : "﻿Zone",
+    "dataTypeName" : "text",
+    "fieldName" : "_zone",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1616140,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 59,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Manhattan"
+      }, {
+        "count" : 19,
+        "item" : "Bronx"
+      }, {
+        "count" : 18,
+        "item" : "Brooklyn North"
+      }, {
+        "count" : 17,
+        "item" : "Brooklyn South"
+      }, {
+        "count" : 16,
+        "item" : "Queens West"
+      }, {
+        "count" : 15,
+        "item" : "Queens East"
+      }, {
+        "count" : 14,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3204121,
+    "name" : "District",
+    "dataTypeName" : "text",
+    "fieldName" : "district",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1616141,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 59,
+      "smallest" : "BKN01",
+      "null" : 0,
+      "largest" : "SI03",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BKS18"
+      }, {
+        "count" : 19,
+        "item" : "QW01"
+      }, {
+        "count" : 18,
+        "item" : "QW02"
+      }, {
+        "count" : 17,
+        "item" : "QW03"
+      }, {
+        "count" : 16,
+        "item" : "QW04"
+      }, {
+        "count" : 15,
+        "item" : "QW05"
+      }, {
+        "count" : 14,
+        "item" : "QW06"
+      }, {
+        "count" : 13,
+        "item" : "QW09"
+      }, {
+        "count" : 12,
+        "item" : "QE07"
+      }, {
+        "count" : 11,
+        "item" : "QE08"
+      }, {
+        "count" : 10,
+        "item" : "QE10"
+      }, {
+        "count" : 9,
+        "item" : "QE11"
+      }, {
+        "count" : 8,
+        "item" : "QE12"
+      }, {
+        "count" : 7,
+        "item" : "QE13"
+      }, {
+        "count" : 6,
+        "item" : "QE14"
+      }, {
+        "count" : 5,
+        "item" : "SI01"
+      }, {
+        "count" : 4,
+        "item" : "SI02"
+      }, {
+        "count" : 3,
+        "item" : "SI03"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3204123,
+    "name" : "Fiscal Month Number",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_month_number",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1616142,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 59,
+      "smallest" : "11",
+      "sum" : "649",
+      "null" : 0,
+      "average" : "11",
+      "largest" : "11",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3204124,
+    "name" : "Fiscal Year",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1616143,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 59,
+      "smallest" : "2010",
+      "sum" : "118590",
+      "null" : 0,
+      "average" : "2010",
+      "largest" : "2010",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2010"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3204125,
+    "name" : "Month Name",
+    "dataTypeName" : "text",
+    "fieldName" : "month_name",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1616144,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 59,
+      "smallest" : "May",
+      "null" : 0,
+      "largest" : "May",
+      "top" : [ {
+        "count" : 20,
+        "item" : "May"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3204126,
+    "name" : "Diversion Rate-Total (Total Recycling / Total Waste)",
+    "dataTypeName" : "number",
+    "fieldName" : "diversion_rate_total_total_recycling_total_waste_",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1616145,
+    "width" : 700,
+    "cachedContents" : {
+      "non_null" : 59,
+      "smallest" : "4.934534157463125",
+      "sum" : "886.857675176890761",
+      "null" : 0,
+      "average" : "15.03148601994730",
+      "largest" : "29.27665128471074",
+      "top" : [ {
+        "count" : 20,
+        "item" : "14.443406036847497"
+      }, {
+        "count" : 19,
+        "item" : "18.31269267879514"
+      }, {
+        "count" : 18,
+        "item" : "18.61480469790731"
+      }, {
+        "count" : 17,
+        "item" : "13.210223325960586"
+      }, {
+        "count" : 16,
+        "item" : "12.247413380581515"
+      }, {
+        "count" : 15,
+        "item" : "19.336375872867155"
+      }, {
+        "count" : 14,
+        "item" : "19.086820379681665"
+      }, {
+        "count" : 13,
+        "item" : "15.632987112791568"
+      }, {
+        "count" : 12,
+        "item" : "17.14339406262667"
+      }, {
+        "count" : 11,
+        "item" : "15.357681608211635"
+      }, {
+        "count" : 10,
+        "item" : "15.992564710225812"
+      }, {
+        "count" : 9,
+        "item" : "19.370087766147947"
+      }, {
+        "count" : 8,
+        "item" : "11.95382734141861"
+      }, {
+        "count" : 7,
+        "item" : "14.8797002697641"
+      }, {
+        "count" : 6,
+        "item" : "10.856873749664736"
+      }, {
+        "count" : 5,
+        "item" : "15.191572223385233"
+      }, {
+        "count" : 4,
+        "item" : "17.04848673291907"
+      }, {
+        "count" : 3,
+        "item" : "17.96681413287608"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3204127,
+    "name" : "Capture Rate-Paper (Total Paper / Max Paper)",
+    "dataTypeName" : "number",
+    "fieldName" : "capture_rate_paper_total_paper_max_paper_",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1616146,
+    "width" : 628,
+    "cachedContents" : {
+      "non_null" : 59,
+      "smallest" : "16.653928911961565",
+      "sum" : "2351.585887169052293",
+      "null" : 0,
+      "average" : "39.85738791811953",
+      "largest" : "65.5725934172423",
+      "top" : [ {
+        "count" : 20,
+        "item" : "43.78507824885981"
+      }, {
+        "count" : 19,
+        "item" : "54.79961348889329"
+      }, {
+        "count" : 18,
+        "item" : "54.976129938734296"
+      }, {
+        "count" : 17,
+        "item" : "33.533666946403415"
+      }, {
+        "count" : 16,
+        "item" : "34.86907822272402"
+      }, {
+        "count" : 15,
+        "item" : "55.63134245770429"
+      }, {
+        "count" : 14,
+        "item" : "31.02685429040165"
+      }, {
+        "count" : 13,
+        "item" : "42.33504394277595"
+      }, {
+        "count" : 12,
+        "item" : "53.01469503215925"
+      }, {
+        "count" : 11,
+        "item" : "32.43299688688826"
+      }, {
+        "count" : 10,
+        "item" : "45.794356095774155"
+      }, {
+        "count" : 9,
+        "item" : "65.5725934172423"
+      }, {
+        "count" : 8,
+        "item" : "39.083195590399214"
+      }, {
+        "count" : 7,
+        "item" : "41.85702828843178"
+      }, {
+        "count" : 6,
+        "item" : "32.0048158006721"
+      }, {
+        "count" : 5,
+        "item" : "46.9541455717905"
+      }, {
+        "count" : 4,
+        "item" : "54.17105632593259"
+      }, {
+        "count" : 3,
+        "item" : "57.73705128736698"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3204128,
+    "name" : "Capture Rate-MGP (Total MGP / Max MGP)",
+    "dataTypeName" : "number",
+    "fieldName" : "capture_rate_mgp_total_mgp_max_mgp_",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1616147,
+    "width" : 556,
+    "cachedContents" : {
+      "non_null" : 59,
+      "smallest" : "16.469411898376695",
+      "sum" : "2966.042198859707051",
+      "null" : 0,
+      "average" : "50.27190167558826",
+      "largest" : "78.96740781007655",
+      "top" : [ {
+        "count" : 20,
+        "item" : "59.34628033032124"
+      }, {
+        "count" : 19,
+        "item" : "57.544145633201495"
+      }, {
+        "count" : 18,
+        "item" : "59.681346020409066"
+      }, {
+        "count" : 17,
+        "item" : "51.30230288807635"
+      }, {
+        "count" : 16,
+        "item" : "41.39233719979363"
+      }, {
+        "count" : 15,
+        "item" : "64.40445011177978"
+      }, {
+        "count" : 14,
+        "item" : "59.67812144280414"
+      }, {
+        "count" : 13,
+        "item" : "56.38234682385516"
+      }, {
+        "count" : 12,
+        "item" : "51.07112078120035"
+      }, {
+        "count" : 11,
+        "item" : "43.76543343435467"
+      }, {
+        "count" : 10,
+        "item" : "70.58154323757502"
+      }, {
+        "count" : 9,
+        "item" : "67.17015956027149"
+      }, {
+        "count" : 8,
+        "item" : "48.6911499925129"
+      }, {
+        "count" : 7,
+        "item" : "67.03055165613388"
+      }, {
+        "count" : 6,
+        "item" : "34.90543395388806"
+      }, {
+        "count" : 5,
+        "item" : "60.78740386292506"
+      }, {
+        "count" : 4,
+        "item" : "65.53969008221074"
+      }, {
+        "count" : 3,
+        "item" : "67.89551007280613"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3204129,
+    "name" : "Capture Rate-Total ((Total Recycling - Leaves (Recycling)) / (Max Paper + Max MGP))x100",
+    "dataTypeName" : "number",
+    "fieldName" : "capture_rate_total_total_recycling_leaves_recycling_max_paper_max_mgp_x100",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1616148,
+    "width" : 700,
+    "cachedContents" : {
+      "non_null" : 59,
+      "smallest" : "16.573345943231484",
+      "sum" : "2549.590879866861182",
+      "null" : 0,
+      "average" : "43.21340474350612",
+      "largest" : "66.14063279882964",
+      "top" : [ {
+        "count" : 20,
+        "item" : "49.31810462506259"
+      }, {
+        "count" : 19,
+        "item" : "55.842078504684665"
+      }, {
+        "count" : 18,
+        "item" : "56.76332822936365"
+      }, {
+        "count" : 17,
+        "item" : "40.2827886085206"
+      }, {
+        "count" : 16,
+        "item" : "37.346829954160285"
+      }, {
+        "count" : 15,
+        "item" : "58.96366189441127"
+      }, {
+        "count" : 14,
+        "item" : "37.92732327765892"
+      }, {
+        "count" : 13,
+        "item" : "47.67067896170619"
+      }, {
+        "count" : 12,
+        "item" : "52.27646058793184"
+      }, {
+        "count" : 11,
+        "item" : "35.782049152168725"
+      }, {
+        "count" : 10,
+        "item" : "54.60782433103648"
+      }, {
+        "count" : 9,
+        "item" : "66.14063279882964"
+      }, {
+        "count" : 8,
+        "item" : "43.49410874617291"
+      }, {
+        "count" : 7,
+        "item" : "50.80786435150099"
+      }, {
+        "count" : 6,
+        "item" : "33.10656749819475"
+      }, {
+        "count" : 5,
+        "item" : "51.87277477491984"
+      }, {
+        "count" : 4,
+        "item" : "58.21335010925248"
+      }, {
+        "count" : 3,
+        "item" : "61.34904861939605"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3204130,
+    "name" : "Report Version",
+    "dataTypeName" : "text",
+    "fieldName" : "report_version",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1616149,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 59,
+      "smallest" : "Preliminary",
+      "null" : 0,
+      "largest" : "Preliminary",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Preliminary"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "sanitation", "dsny", "refuse", "recycle", "recycling", "plastic", "metal", "paper", "community", "community district", "tonnage", "capture", "diversion", "clean web" ],
+  "flags" : [ "default" ]
+}

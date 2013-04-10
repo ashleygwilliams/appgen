@@ -1,0 +1,396 @@
+{
+  "id" : "swpk-hqdp",
+  "name" : "New York City Population By Neighborhood Tabulation Areas",
+  "attribution" : "Department of City Planning (DCP)",
+  "attributionLink" : "http://www.nyc.gov/html/dcp/html/census/demo_tables_2010.shtml",
+  "averageRating" : 0,
+  "category" : "Statistics",
+  "createdAt" : 1362329696,
+  "description" : "Population Numbers By New York City Neighborhood Tabulation Areas",
+  "displayType" : "table",
+  "downloadCount" : 2,
+  "numberOfComments" : 0,
+  "oid" : 2697661,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362330049,
+  "publicationGroup" : 711151,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1362329700,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 711151,
+  "totalTimesRated" : 0,
+  "viewCount" : 23,
+  "viewLastModified" : 1362404153,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 48171757,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8319043,
+    "width" : 111,
+    "cachedContents" : {
+      "non_null" : 390,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Manhattan"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48171758,
+    "name" : "Year",
+    "dataTypeName" : "text",
+    "fieldName" : "year",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8319044,
+    "width" : 70,
+    "cachedContents" : {
+      "non_null" : 390,
+      "smallest" : "2000",
+      "null" : 0,
+      "largest" : "2010",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2000"
+      }, {
+        "count" : 19,
+        "item" : "2010"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48171759,
+    "name" : "FIPS County Code",
+    "dataTypeName" : "text",
+    "fieldName" : "fips_county_code",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8319045,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 390,
+      "smallest" : "005",
+      "null" : 0,
+      "largest" : "085",
+      "top" : [ {
+        "count" : 20,
+        "item" : "005"
+      }, {
+        "count" : 19,
+        "item" : "047"
+      }, {
+        "count" : 18,
+        "item" : "061"
+      }, {
+        "count" : 17,
+        "item" : "081"
+      }, {
+        "count" : 16,
+        "item" : "085"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48171760,
+    "name" : "NTA Code",
+    "dataTypeName" : "text",
+    "fieldName" : "nta_code",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8319046,
+    "width" : 97,
+    "cachedContents" : {
+      "non_null" : 390,
+      "smallest" : "BK09",
+      "null" : 0,
+      "largest" : "SI99",
+      "top" : [ {
+        "count" : 20,
+        "item" : "QN98"
+      }, {
+        "count" : 19,
+        "item" : "QN99"
+      }, {
+        "count" : 18,
+        "item" : "SI01"
+      }, {
+        "count" : 17,
+        "item" : "SI05"
+      }, {
+        "count" : 16,
+        "item" : "SI07"
+      }, {
+        "count" : 15,
+        "item" : "SI08"
+      }, {
+        "count" : 14,
+        "item" : "SI11"
+      }, {
+        "count" : 13,
+        "item" : "SI12"
+      }, {
+        "count" : 12,
+        "item" : "SI14"
+      }, {
+        "count" : 11,
+        "item" : "SI22"
+      }, {
+        "count" : 10,
+        "item" : "SI24"
+      }, {
+        "count" : 9,
+        "item" : "SI25"
+      }, {
+        "count" : 8,
+        "item" : "SI28"
+      }, {
+        "count" : 7,
+        "item" : "SI32"
+      }, {
+        "count" : 6,
+        "item" : "SI35"
+      }, {
+        "count" : 5,
+        "item" : "SI36"
+      }, {
+        "count" : 4,
+        "item" : "SI37"
+      }, {
+        "count" : 3,
+        "item" : "SI45"
+      }, {
+        "count" : 2,
+        "item" : "SI48"
+      }, {
+        "count" : 1,
+        "item" : "SI54"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48171761,
+    "name" : "NTA Name",
+    "dataTypeName" : "text",
+    "fieldName" : "nta_name",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8319047,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 390,
+      "smallest" : "Airport",
+      "null" : 0,
+      "largest" : "Yorkville",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Airport"
+      }, {
+        "count" : 19,
+        "item" : "park-cemetery-etc-Queens"
+      }, {
+        "count" : 18,
+        "item" : "Annadale-Huguenot-Prince's Bay-Eltingville"
+      }, {
+        "count" : 17,
+        "item" : "New Springville-Bloomfield-Travis"
+      }, {
+        "count" : 16,
+        "item" : "Westerleigh"
+      }, {
+        "count" : 15,
+        "item" : "Grymes Hill-Clifton-Fox Hills"
+      }, {
+        "count" : 14,
+        "item" : "Charleston-Richmond Valley-Tottenville"
+      }, {
+        "count" : 13,
+        "item" : "Mariner's Harbor-Arlington-Port Ivory-Graniteville"
+      }, {
+        "count" : 12,
+        "item" : "Grasmere-Arrochar-Ft. Wadsworth"
+      }, {
+        "count" : 11,
+        "item" : "West New Brighton-New Brighton-St. George"
+      }, {
+        "count" : 10,
+        "item" : "Todt Hill-Emersn Hill-Heartland Villg-Lighthse Hill"
+      }, {
+        "count" : 9,
+        "item" : "Oakwood-Oakwood Beach"
+      }, {
+        "count" : 8,
+        "item" : "Port Richmond"
+      }, {
+        "count" : 7,
+        "item" : "Rossville-Woodrow"
+      }, {
+        "count" : 6,
+        "item" : "New Brighton-Silver Lake"
+      }, {
+        "count" : 5,
+        "item" : "Old Town-Dongan Hills-South Beach"
+      }, {
+        "count" : 4,
+        "item" : "Stapleton-Rosebank"
+      }, {
+        "count" : 3,
+        "item" : "New Dorp-Midland Beach"
+      }, {
+        "count" : 2,
+        "item" : "Arden Heights"
+      }, {
+        "count" : 1,
+        "item" : "Great Kills"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48171762,
+    "name" : "Population",
+    "dataTypeName" : "number",
+    "fieldName" : "population",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8319048,
+    "width" : 101,
+    "cachedContents" : {
+      "non_null" : 390,
+      "smallest" : "0",
+      "sum" : "16183411",
+      "null" : 0,
+      "average" : "41495.92564102564",
+      "largest" : "136954",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "436"
+      }, {
+        "count" : 18,
+        "item" : "27770"
+      }, {
+        "count" : 17,
+        "item" : "39597"
+      }, {
+        "count" : 16,
+        "item" : "24102"
+      }, {
+        "count" : 15,
+        "item" : "22460"
+      }, {
+        "count" : 14,
+        "item" : "23313"
+      }, {
+        "count" : 13,
+        "item" : "31474"
+      }, {
+        "count" : 12,
+        "item" : "16079"
+      }, {
+        "count" : 11,
+        "item" : "33551"
+      }, {
+        "count" : 10,
+        "item" : "30714"
+      }, {
+        "count" : 9,
+        "item" : "22049"
+      }, {
+        "count" : 8,
+        "item" : "20191"
+      }, {
+        "count" : 7,
+        "item" : "20763"
+      }, {
+        "count" : 6,
+        "item" : "17525"
+      }, {
+        "count" : 5,
+        "item" : "24835"
+      }, {
+        "count" : 4,
+        "item" : "26453"
+      }, {
+        "count" : 3,
+        "item" : "21896"
+      }, {
+        "count" : 2,
+        "item" : "25238"
+      }, {
+        "count" : 1,
+        "item" : "40720"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dcp", "city", "planning", "population", "growth", "nta", "neighborhood", "tabulation" ],
+  "flags" : [ "default" ]
+}

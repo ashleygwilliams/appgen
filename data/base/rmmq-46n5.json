@@ -1,0 +1,937 @@
+{
+  "id" : "rmmq-46n5",
+  "name" : "Food Scrap Drop Off Sites",
+  "attribution" : "Department of Sanitation (DSNY)",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1340750333,
+  "description" : "Locations and operators of food scrap drop-off sites. Please note that these sites are not necessarily operated solely by the City of New York.",
+  "displayType" : "table",
+  "downloadCount" : 36,
+  "numberOfComments" : 0,
+  "oid" : 800303,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1340750667,
+  "publicationGroup" : 368576,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1340750352,
+  "rowsUpdatedBy" : "x539-akqs",
+  "signed" : false,
+  "tableId" : 368576,
+  "totalTimesRated" : 0,
+  "viewCount" : 163,
+  "viewLastModified" : 1363704756,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 11828420,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3285477,
+    "width" : 96,
+    "cachedContents" : {
+      "non_null" : 39,
+      "smallest" : "BK",
+      "null" : 0,
+      "largest" : "SI",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BK"
+      }, {
+        "count" : 19,
+        "item" : "MN"
+      }, {
+        "count" : 18,
+        "item" : "QN"
+      }, {
+        "count" : 17,
+        "item" : "SI"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 11828421,
+    "name" : "Name",
+    "dataTypeName" : "text",
+    "fieldName" : "location",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3285478,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 39,
+      "smallest" : "462 Halsey Community Garden",
+      "null" : 0,
+      "largest" : "Windsor Terrace - PS 154 Greenmarket @PS 154",
+      "top" : [ {
+        "count" : 20,
+        "item" : "462 Halsey Community Garden"
+      }, {
+        "count" : 19,
+        "item" : "Bay Ridge Greenmarket"
+      }, {
+        "count" : 18,
+        "item" : "Brooklyn Borough Hall Greenmarket"
+      }, {
+        "count" : 17,
+        "item" : "Carrol Gardens Greenmarket"
+      }, {
+        "count" : 16,
+        "item" : "Compost For Brooklyn"
+      }, {
+        "count" : 15,
+        "item" : "Cortelyou Greenmarket"
+      }, {
+        "count" : 14,
+        "item" : "Fort Greene Greenmarket "
+      }, {
+        "count" : 13,
+        "item" : "Grand Army Plaza Greenmarket"
+      }, {
+        "count" : 12,
+        "item" : "McCarren Park Greenmarket"
+      }, {
+        "count" : 11,
+        "item" : "North Brooklyn Compost Project @ McCarren Park"
+      }, {
+        "count" : 10,
+        "item" : "Prospect Heights Community Farm"
+      }, {
+        "count" : 9,
+        "item" : "Red Hook Community Farm"
+      }, {
+        "count" : 8,
+        "item" : "Sunset Park Greenmarket"
+      }, {
+        "count" : 7,
+        "item" : "Windsor Terrace - PS 154 Greenmarket @PS 154"
+      }, {
+        "count" : 6,
+        "item" : "57th Street Greenmarket"
+      }, {
+        "count" : 5,
+        "item" : "79th Street Greenmarket"
+      }, {
+        "count" : 4,
+        "item" : "82nd Street Greenmarket"
+      }, {
+        "count" : 3,
+        "item" : "92nd Street Greenmarket"
+      }, {
+        "count" : 2,
+        "item" : "Abingdon Square Greenmarket"
+      }, {
+        "count" : 1,
+        "item" : "Columbia University Greenmarket"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 11828431,
+    "name" : "Location",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 3,
+    "renderTypeName" : "location",
+    "tableColumnId" : 3285488,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 39,
+      "smallest" : {
+        "longitude" : "-73.93211351051998",
+        "latitude" : "40.77205438915846",
+        "human_address" : "{\"address\":\"11-01 30th Avenue\",\"city\":\"Astoria\",\"state\":\"NY\",\"zip\":\"11104&nbsp;&nbsp;\"}"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-74.00501000031113",
+        "latitude" : "40.733929999569966",
+        "human_address" : "{\"address\":\"West 12 St &amp; 8th Ave\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10014&nbsp;\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.9357346332942",
+          "latitude" : "40.68338860098805",
+          "human_address" : "{\"address\":\"462 Halsey Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11223&nbsp;&nbsp;&nbsp;\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-74.03007000033011",
+          "latitude" : "40.62450999973686",
+          "human_address" : "{\"address\":\"3rd Ave &amp; 95th Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11209&nbsp;&nbsp;&nbsp;\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.99130999985647",
+          "latitude" : "40.69373999970139",
+          "human_address" : "{\"address\":\"Court St &amp; Montague St\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201&nbsp;\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-74.0006699998205",
+          "latitude" : "40.680220000352904",
+          "human_address" : "{\"address\":\"Carroll St, b/t Smith &amp; Court\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11231&nbsp;\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.96349999982499",
+          "latitude" : "40.62294000018102",
+          "human_address" : "{\"address\":\"Newkirk Ave &amp; East 8th St\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11230&nbsp;\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.9573199999179",
+          "latitude" : "40.64728000027196",
+          "human_address" : "{\"address\":\"Courtelyou Rd b/t Argyle &amp; Rugby Rd\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11226&nbsp;&nbsp;\"}"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.99130999985647",
+          "latitude" : "40.69373999970139",
+          "human_address" : "{\"address\":\"Washington Park b/t Dekalb Ave &amp; Willoughby Ave\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201&nbsp;\"}"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.9635700003551",
+          "latitude" : "40.679380000286926",
+          "human_address" : "{\"address\":\"Prospect Park West &amp; Plaza St West\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11238&nbsp;\"}"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.95335566994004",
+          "latitude" : "40.71978151369627",
+          "human_address" : "{\"address\":\"229 North 12th St\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11211&nbsp;\"}"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.95335566994004",
+          "latitude" : "40.71978151369627",
+          "human_address" : "{\"address\":\"229 North 12th St\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11211&nbsp;\"}"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.96765157211405",
+          "latitude" : "40.67829843830225",
+          "human_address" : "{\"address\":\"252 St. Marks Ave\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11238&nbsp;\"}"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-74.0006699998205",
+          "latitude" : "40.680220000352904",
+          "human_address" : "{\"address\":\"580 Columbia St b/t Halleck St &amp; Sigourney St\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11231&nbsp;&nbsp;\"}"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-74.01363999988592",
+          "latitude" : "40.64135999976435",
+          "human_address" : "{\"address\":\"4th Avenue b/t 59th &amp; 60th Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11220&nbsp;&nbsp;\"}"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.9829100000963",
+          "latitude" : "40.66783000005461",
+          "human_address" : "{\"address\":\"11th Ave b/t Sherman &amp; Windsor Pl.\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11215&nbsp;&nbsp;\"}"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.98420000022969",
+          "latitude" : "40.76489999963542",
+          "human_address" : "{\"address\":\"57th St &amp; 9th Ave\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10019&nbsp;&nbsp;\"}"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.9752700003101",
+          "latitude" : "40.786299999945186",
+          "human_address" : "{\"address\":\"79th St &amp; Columbus Ave\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10024&nbsp;&nbsp;\"}"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.95274999961265",
+          "latitude" : "40.77601999982329",
+          "human_address" : "{\"address\":\"East 82nd St &amp; York Ave\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10028&nbsp;&nbsp;\"}"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.95056999980551",
+          "latitude" : "40.7813999997104",
+          "human_address" : "{\"address\":\"92nd St &amp; 1st Ave\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10128&nbsp;&nbsp;\"}"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-74.00501000031113",
+          "latitude" : "40.733929999569966",
+          "human_address" : "{\"address\":\"West 12 St &amp; 8th Ave\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10014&nbsp;\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-73.96729000013323",
+          "latitude" : "40.798120000038125",
+          "human_address" : "{\"address\":\"Broadway b/t 114 &amp; 115 St\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10025&nbsp;&nbsp;&nbsp;\"}"
+        }
+      } ]
+    },
+    "format" : {
+      "align" : "left",
+      "view" : "address_coords"
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 11828422,
+    "name" : "CityMap Location",
+    "dataTypeName" : "url",
+    "fieldName" : "citymap_location",
+    "position" : 4,
+    "renderTypeName" : "url",
+    "tableColumnId" : 3285479,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 39,
+      "smallest" : {
+        "url" : "http://gis.nyc.gov/doitt/nycitymap/?searchType=AddressSearch&addressNumber=39&street=union+sq+west&borough=Manhattan&Submit=Go"
+      },
+      "null" : 0,
+      "largest" : {
+        "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=9&p=986952,192125&c=GISBasic&s=i:COURT+STREET,MONTAGUE+STREET,BROOKLYN"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=1002094,188192&c=GISBasic&s=a:462,HALSEY+STREET,BROOKLYN"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=974925,164169&c=GISBasic&s=i:3+AVENUE,95+STREET,N,BROOKLYN"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=9&p=986952,192125&c=GISBasic&s=i:COURT+STREET,MONTAGUE+STREET,BROOKLYN"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=985667,187092&c=GISBasic&s=i:SMITH+STREET,CARROLL+STREET,S,BROOKLYN"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=993880,172748&c=GISBasic&s=i:CORTELYOU+ROAD,RUGBY+ROAD,BROOKLYN"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=991703,190525&c=GISBasic&s=i:DEKALB+AVENUE,WASHINGTON+PARK,BROOKLYN"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=7&p=991952,182827&c=GISBasic&s=i:PROSPECT+PARK+WEST,PLAZA+ST+WEST,BROOKLYN"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=997287,201419&c=GISBasic&s=a:229,NORTH+12+STREET,BROOKLYN"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=7&p=992727,184796&c=GISBasic&s=a:252,ST+MARKS+AVENUE,BROOKLYN"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=981522,184276&c=GISBasic&s=a:580,COLUMBIA+STREET,BROOKLYN"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=979306,172969&c=GISBasic&s=i:4+AVENUE,59+STREET,BROOKLYN"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=990877,178667&c=GISBasic&s=a:1625,11+AVENUE,BROOKLYN"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=988207,219050&c=GISBasic&s=i:WEST+57+STREET,9+AVENUE,MANHATTAN"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=991040,224164&c=GISBasic&s=i:WEST+79+STREET,COLUMBUS+AVENUE,MANHATTAN"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=997935,221182&c=GISBasic&s=l:MANHATTAN,1561,37,PLUTO"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=999041,223708&c=GISBasic&s=i:EAST+92+STREET,1+AVENUE,MANHATTAN"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=982912,207985&c=GISBasic&s=i:WEST+12+STREET,8+AVENUE,MANHATTAN"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=993981,233184&c=GISBasic&s=i:BROADWAY,WEST+114+STREET,MANHATTAN"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=980605,190782&c=GISBasic&s=a:1,GOVERNORS+ISLAND,MANHATTAN"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "url" : "http://gis.nyc.gov/doitt/nycitymap/?z=8&p=1006208,256266&c=GISBasic&s=i:ISHAM+STREET,SEAMAN+AVENUE,MANHATTAN"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "url", "description" ]
+  }, {
+    "id" : 11828423,
+    "name" : "Materials Accepted:",
+    "dataTypeName" : "text",
+    "fieldName" : "materials_accepted",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3285480,
+    "width" : 228,
+    "cachedContents" : {
+      "non_null" : 39,
+      "smallest" : "food scraps",
+      "null" : 0,
+      "largest" : "food scraps, leaves, garden trimmings",
+      "top" : [ {
+        "count" : 20,
+        "item" : "food scraps"
+      }, {
+        "count" : 19,
+        "item" : "food scraps, leaves, garden trimmings"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 11828424,
+    "name" : "Days ",
+    "dataTypeName" : "text",
+    "fieldName" : "days",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3285481,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 39,
+      "smallest" : "check garden for open hours",
+      "null" : 0,
+      "largest" : "whenever the garden is open",
+      "top" : [ {
+        "count" : 20,
+        "item" : "whenever the garden is open"
+      }, {
+        "count" : 19,
+        "item" : "Saturdays"
+      }, {
+        "count" : 18,
+        "item" : "Sundays"
+      }, {
+        "count" : 17,
+        "item" : "Saturdays, Sundays, Thursdays"
+      }, {
+        "count" : 16,
+        "item" : "check garden for open hours"
+      }, {
+        "count" : 15,
+        "item" : "whenever Governors Island is open to the public"
+      }, {
+        "count" : 14,
+        "item" : "Monday – Friday"
+      }, {
+        "count" : 13,
+        "item" : "Mondays, Wednesdays, Fridays, Saturdays"
+      }, {
+        "count" : 12,
+        "item" : "Thursday"
+      }, {
+        "count" : 11,
+        "item" : "email licgardencompost@gmail.com for info"
+      }, {
+        "count" : 10,
+        "item" : "Monday - Sunday"
+      }, {
+        "count" : 9,
+        "item" : "Tuesdays"
+      }, {
+        "count" : 8,
+        "item" : "garden open hours"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 11828425,
+    "name" : "Hours",
+    "dataTypeName" : "text",
+    "fieldName" : "hours",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3285482,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 37,
+      "smallest" : "10 am – 4:30 pm",
+      "null" : 2,
+      "largest" : "whenever the garden is open",
+      "top" : [ {
+        "count" : 20,
+        "item" : "whenever the garden is open"
+      }, {
+        "count" : 19,
+        "item" : "8 am – 1:00 pm"
+      }, {
+        "count" : 18,
+        "item" : "8 am – 4 pm"
+      }, {
+        "count" : 17,
+        "item" : "8 am – 1 pm"
+      }, {
+        "count" : 16,
+        "item" : "Sat: 10 am– 1 pm; Sun  1 – 4 pm; Thur  4:30 to 6:30 PM"
+      }, {
+        "count" : 15,
+        "item" : "8 am – 3 pm"
+      }, {
+        "count" : 14,
+        "item" : "8 am – 3:30 pm"
+      }, {
+        "count" : 13,
+        "item" : "8 am – 2 pm"
+      }, {
+        "count" : 12,
+        "item" : "9 am – 12 pm"
+      }, {
+        "count" : 11,
+        "item" : "check garden for open hours"
+      }, {
+        "count" : 10,
+        "item" : "10 am to 3 pm "
+      }, {
+        "count" : 9,
+        "item" : "8 am – 1 pm"
+      }, {
+        "count" : 8,
+        "item" : "9 am – 1:00 pm"
+      }, {
+        "count" : 7,
+        "item" : "9 am – 1 pm"
+      }, {
+        "count" : 6,
+        "item" : "9 am – 1 pm "
+      }, {
+        "count" : 5,
+        "item" : "whenever Governors Island is open to the public"
+      }, {
+        "count" : 4,
+        "item" : "8 am – 12 pm"
+      }, {
+        "count" : 3,
+        "item" : "8 am – 5 pm"
+      }, {
+        "count" : 2,
+        "item" : "8 am – 4 pm"
+      }, {
+        "count" : 1,
+        "item" : "4:30 - 7:30 PM"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 11828426,
+    "name" : "Months of Operation",
+    "dataTypeName" : "text",
+    "fieldName" : "months_of_operation",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3285483,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 22,
+      "smallest" : "(April - November) Check the calendar on home page for winter  “community composting” times.",
+      "null" : 17,
+      "largest" : "Year Round",
+      "top" : [ {
+        "count" : 20,
+        "item" : "whenever the garden is open"
+      }, {
+        "count" : 19,
+        "item" : "May 12-Nov 17, 2012"
+      }, {
+        "count" : 18,
+        "item" : "Year Round"
+      }, {
+        "count" : 17,
+        "item" : "(April - November) Check the calendar on home page for winter  “community composting” times."
+      }, {
+        "count" : 16,
+        "item" : "(June 23-Nov 17, 2012)"
+      }, {
+        "count" : 15,
+        "item" : "(July 8-Nov 18, 2012)"
+      }, {
+        "count" : 14,
+        "item" : "(through Dec 22, 2012)"
+      }, {
+        "count" : 13,
+        "item" : "(June 17-Dec 23, 2012)"
+      }, {
+        "count" : 12,
+        "item" : "(May 31 to Nov 29)(skip November 22)"
+      }, {
+        "count" : 11,
+        "item" : "Year round"
+      }, {
+        "count" : 10,
+        "item" : "(May 12-Nov 17 2012)"
+      }, {
+        "count" : 9,
+        "item" : "(June 23-Dec 22 2012)"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 11828427,
+    "name" : "Requirements",
+    "dataTypeName" : "text",
+    "fieldName" : "requirements",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3285484,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 39,
+      "smallest" : "bring compostables to \"compost row\" on the southwest edge of the farm and follow easy self-help composting instructions",
+      "null" : 0,
+      "largest" : "must assist with maintenance of compost site",
+      "top" : [ {
+        "count" : 20,
+        "item" : "check website regularly for drop off schedule updates"
+      }, {
+        "count" : 19,
+        "item" : "check website for specific food scrap drop-off requirements and schedule updates"
+      }, {
+        "count" : 18,
+        "item" : "must assist with maintenance of compost site"
+      }, {
+        "count" : 17,
+        "item" : "garden membership or drop-off during garden's open hours"
+      }, {
+        "count" : 16,
+        "item" : "bring compostables to \"compost row\" on the southwest edge of the farm and follow easy self-help composting instructions"
+      }, {
+        "count" : 15,
+        "item" : "check Trust for Governors Island   website for specific food scrap drop-off sites on Governors Island and schedule updates"
+      }, {
+        "count" : 14,
+        "item" : "households only; no businesses or other commercial generators may drop off organic waste"
+      }, {
+        "count" : 13,
+        "item" : "Drop off food scraps in the green metal containers within the large operations yard on the east side of the street. Do not include any metal, plastic, meat, oils, cooked foods, or highly invasive weeds. Contact jsmith@nyrp.org with any questions."
+      }, {
+        "count" : 12,
+        "item" : "food scrap drop-off when CSA is in operation"
+      }, {
+        "count" : 11,
+        "item" : "food scrap drop off when farmers market is in operation"
+      }, {
+        "count" : 10,
+        "item" : "food scrap drop off during designated collection times only; email licgardencompost@gmail.com for info"
+      }, {
+        "count" : 9,
+        "item" : "food scrap drop off only when farm stand in operation; look for the bin and the \"What to Compost\" sign"
+      }, {
+        "count" : 8,
+        "item" : "food scrap drop off only when farmers market is in operation"
+      }, {
+        "count" : 7,
+        "item" : "for most current information, please email wqnscompost@gmail.com"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 11828428,
+    "name" : "Organizer",
+    "dataTypeName" : "text",
+    "fieldName" : "organizer",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3285485,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 39,
+      "smallest" : "462 Halsey Community Garden  ",
+      "null" : 0,
+      "largest" : "Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "462 Halsey Community Garden  "
+      }, {
+        "count" : 19,
+        "item" : "DSNY & GrowNYC Food Waste Drop-Off Program "
+      }, {
+        "count" : 18,
+        "item" : "Compost For Brooklyn "
+      }, {
+        "count" : 17,
+        "item" : "North Brooklyn Compost Project "
+      }, {
+        "count" : 16,
+        "item" : "Prospect Heights Community Farm "
+      }, {
+        "count" : 15,
+        "item" : "Red Hook Community Farm "
+      }, {
+        "count" : 14,
+        "item" : "NYC Compost Project Local Organics Recovery Program "
+      }, {
+        "count" : 13,
+        "item" : "Lower East Side Ecology Center "
+      }, {
+        "count" : 12,
+        "item" : "New York Restoration Project "
+      }, {
+        "count" : 11,
+        "item" : "Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program "
+      }, {
+        "count" : 10,
+        "item" : "Long Island City Community Garden"
+      }, {
+        "count" : 9,
+        "item" : "Queens County Farm Museum "
+      }, {
+        "count" : 8,
+        "item" : "DSNY & GrowNYC Food Scrap Drop-Off Program "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 11828429,
+    "name" : "Composted By",
+    "dataTypeName" : "text",
+    "fieldName" : "composted_by",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3285486,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 39,
+      "smallest" : "462 Halsey Community Garden  ",
+      "null" : 0,
+      "largest" : "Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "462 Halsey Community Garden  "
+      }, {
+        "count" : 19,
+        "item" : "NYC Department of Sanitation"
+      }, {
+        "count" : 18,
+        "item" : "GrowNYC community partners"
+      }, {
+        "count" : 17,
+        "item" : "Compost For Brooklyn "
+      }, {
+        "count" : 16,
+        "item" : "North Brooklyn Compost Project "
+      }, {
+        "count" : 15,
+        "item" : "Prospect Heights Community Farm "
+      }, {
+        "count" : 14,
+        "item" : "Red Hook Community Farm "
+      }, {
+        "count" : 13,
+        "item" : "Earth Matter NY  through the NYC Compost Project Local Organics Recovery Program "
+      }, {
+        "count" : 12,
+        "item" : "New York Restoration Project "
+      }, {
+        "count" : 11,
+        "item" : "Lower East Side Ecology Center "
+      }, {
+        "count" : 10,
+        "item" : "Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program "
+      }, {
+        "count" : 9,
+        "item" : "Long Island City Community Garden"
+      }, {
+        "count" : 8,
+        "item" : "Queens County Farm Museum "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 11828430,
+    "name" : "Website",
+    "dataTypeName" : "url",
+    "fieldName" : "website",
+    "position" : 12,
+    "renderTypeName" : "url",
+    "tableColumnId" : 3285487,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 38,
+      "smallest" : {
+        "url" : "http://462halsey.com/composting/"
+      },
+      "null" : 1,
+      "largest" : {
+        "url" : "http://www.queensfarm.org/"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "url" : "http://462halsey.com/composting/"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "url" : "http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "url" : "http://compostforbrooklyn.org/"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "url" : "http://northbrooklyncompostproject.wordpress.com/"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "url" : "http://www.phcfarm.com/welcome/"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "url" : "http://www.added-value.org/"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "url" : "http://www.lesecologycenter.org/"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "url" : "http://www.nyrp.org/"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "url" : "http://www.queensfarm.org/"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "url" : "http://bignyc.org/western-queens-compost-initiative"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "url", "description" ]
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "x539-akqs",
+    "displayName" : "Andrew Nicklin",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/4798/2643/My_Photo_3_large.png",
+    "profileImageUrlMedium" : "/images/profile/4798/2643/My_Photo_3_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/4798/2643/My_Photo_3_tiny.png",
+    "profileLastModified" : 1336858132,
+    "roleName" : "administrator",
+    "screenName" : "Andrew Nicklin",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "food", "scrap", "compost", "clean web" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,804 @@
+{
+  "id" : "tj4w-skrs",
+  "name" : "Building Permits",
+  "attribution" : "Department of Buildings (DOB)",
+  "averageRating" : 0,
+  "category" : "Property",
+  "createdAt" : 1332863048,
+  "description" : "Permits issued by the Department of Buildings. This data is replaced on a daily basis.",
+  "displayType" : "table",
+  "downloadCount" : 593,
+  "numberOfComments" : 4,
+  "oid" : 3103606,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1365339703,
+  "publicationGroup" : 305888,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1365339697,
+  "rowsUpdatedBy" : "x539-akqs",
+  "signed" : false,
+  "tableId" : 780612,
+  "totalTimesRated" : 0,
+  "viewCount" : 1210,
+  "viewLastModified" : 1365339703,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 56102208,
+    "name" : "BOROUGH",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380623,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+      "aggregate" : "count",
+      "align" : "left"
+    }
+  }, {
+    "id" : 56102209,
+    "name" : "Bin #",
+    "dataTypeName" : "text",
+    "fieldName" : "bin",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380624,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 56102210,
+    "name" : "House #",
+    "dataTypeName" : "text",
+    "fieldName" : "house",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380625,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102211,
+    "name" : "Street Name",
+    "dataTypeName" : "text",
+    "fieldName" : "street_name",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380626,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102212,
+    "name" : "Job #",
+    "dataTypeName" : "text",
+    "fieldName" : "job",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380627,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 56102213,
+    "name" : "Job doc. #",
+    "dataTypeName" : "text",
+    "fieldName" : "job_doc",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380628,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 56102214,
+    "name" : "Job Type",
+    "dataTypeName" : "text",
+    "fieldName" : "job_type",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380629,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102215,
+    "name" : "Self_Cert",
+    "dataTypeName" : "text",
+    "fieldName" : "self_cert",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380630,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102216,
+    "name" : "Block",
+    "dataTypeName" : "text",
+    "fieldName" : "block",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380631,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 56102217,
+    "name" : "Lot",
+    "dataTypeName" : "text",
+    "fieldName" : "lot",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380632,
+    "width" : 136,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 56102218,
+    "name" : "Community Board",
+    "dataTypeName" : "number",
+    "fieldName" : "community_board",
+    "position" : 12,
+    "renderTypeName" : "number",
+    "tableColumnId" : 2380633,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 0,
+      "sum" : "0",
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102219,
+    "name" : "Zip Code",
+    "dataTypeName" : "text",
+    "fieldName" : "zip_code",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380634,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 56102234,
+    "name" : "Bldg Type",
+    "dataTypeName" : "number",
+    "fieldName" : "bldg_type",
+    "position" : 14,
+    "renderTypeName" : "number",
+    "tableColumnId" : 2380635,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 0,
+      "sum" : "0",
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102235,
+    "name" : "Residential",
+    "dataTypeName" : "text",
+    "fieldName" : "residential",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380636,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102236,
+    "name" : "Special District 1",
+    "dataTypeName" : "text",
+    "fieldName" : "special_district_1",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380637,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102237,
+    "name" : "Special District 2",
+    "dataTypeName" : "text",
+    "fieldName" : "special_district_2",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380638,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102238,
+    "name" : "Work Type",
+    "dataTypeName" : "text",
+    "fieldName" : "work_type",
+    "position" : 18,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380639,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102239,
+    "name" : "Permit Status",
+    "dataTypeName" : "text",
+    "fieldName" : "permit_status",
+    "position" : 19,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380640,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102240,
+    "name" : "Filing Status",
+    "dataTypeName" : "text",
+    "fieldName" : "filing_status",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380641,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102241,
+    "name" : "Permit Type",
+    "dataTypeName" : "text",
+    "fieldName" : "permit_type",
+    "position" : 21,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380642,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102242,
+    "name" : "Permit Sequence #",
+    "dataTypeName" : "text",
+    "fieldName" : "permit_sequence",
+    "position" : 22,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380643,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 56102243,
+    "name" : "Permit Subtype",
+    "dataTypeName" : "text",
+    "fieldName" : "permit_subtype",
+    "position" : 23,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380644,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102244,
+    "name" : "Oil Gas",
+    "dataTypeName" : "text",
+    "fieldName" : "oil_gas",
+    "position" : 24,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380645,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102245,
+    "name" : "Site Fill",
+    "dataTypeName" : "text",
+    "fieldName" : "site_fill",
+    "position" : 25,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380646,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102246,
+    "name" : "Filing Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "filing_date",
+    "position" : 26,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 2380647,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 56102247,
+    "name" : "Issuance Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "issuance_date",
+    "position" : 27,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 2380648,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 56102248,
+    "name" : "Expiration Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "expiration_date",
+    "position" : 28,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 2380649,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 56102249,
+    "name" : "Job Start Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "job_start_date",
+    "position" : 29,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 2380650,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 56102250,
+    "name" : "Permittee's First & Last Name",
+    "dataTypeName" : "text",
+    "fieldName" : "permittee_s_first_last_name",
+    "position" : 30,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380651,
+    "width" : 448,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102251,
+    "name" : "Permittee's Business Name",
+    "dataTypeName" : "text",
+    "fieldName" : "permittee_s_business_name",
+    "position" : 31,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380652,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102252,
+    "name" : "Permittee's Phone #",
+    "dataTypeName" : "text",
+    "fieldName" : "permittee_s_phone",
+    "position" : 32,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380653,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 56102253,
+    "name" : "Permittee's License Type",
+    "dataTypeName" : "text",
+    "fieldName" : "permittee_s_license_type",
+    "position" : 33,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380654,
+    "width" : 388,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102254,
+    "name" : "Permittee's License #",
+    "dataTypeName" : "text",
+    "fieldName" : "permittee_s_license",
+    "position" : 34,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380655,
+    "width" : 352,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 56102255,
+    "name" : "Permittee's Other Title",
+    "dataTypeName" : "text",
+    "fieldName" : "permittee_s_other_title",
+    "position" : 35,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380656,
+    "width" : 376,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102256,
+    "name" : "HIC License",
+    "dataTypeName" : "text",
+    "fieldName" : "hic_license",
+    "position" : 36,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380657,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102257,
+    "name" : "Site Safety Mgr's Name",
+    "dataTypeName" : "text",
+    "fieldName" : "site_safety_mgr_s_name",
+    "position" : 37,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380658,
+    "width" : 364,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102258,
+    "name" : "Site Safety Mgr Business Name",
+    "dataTypeName" : "text",
+    "fieldName" : "site_safety_mgr_business_name",
+    "position" : 38,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380659,
+    "width" : 448,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102259,
+    "name" : "Superintendent First & Last Name",
+    "dataTypeName" : "text",
+    "fieldName" : "superintendent_first_last_name",
+    "position" : 39,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380660,
+    "width" : 484,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102260,
+    "name" : "Superintendent Business Name",
+    "dataTypeName" : "text",
+    "fieldName" : "superintendent_business_name",
+    "position" : 40,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380661,
+    "width" : 436,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102261,
+    "name" : "Owner's Business Type",
+    "dataTypeName" : "text",
+    "fieldName" : "owner_s_business_type",
+    "position" : 41,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380662,
+    "width" : 352,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102262,
+    "name" : "Non-Profit",
+    "dataTypeName" : "text",
+    "fieldName" : "non_profit",
+    "position" : 42,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380663,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102263,
+    "name" : "Owner's Business Name",
+    "dataTypeName" : "text",
+    "fieldName" : "owner_s_business_name",
+    "position" : 43,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380664,
+    "width" : 352,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102264,
+    "name" : "Owner's First & Last Name",
+    "dataTypeName" : "text",
+    "fieldName" : "owner_s_first_last_name",
+    "position" : 44,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380665,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102265,
+    "name" : "Owner's House Street",
+    "dataTypeName" : "text",
+    "fieldName" : "owner_s_house_street",
+    "position" : 45,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380666,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102266,
+    "name" : "City, State, Zip",
+    "dataTypeName" : "text",
+    "fieldName" : "city_state_zip",
+    "position" : 46,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380667,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 56102267,
+    "name" : "Owner's Phone #",
+    "dataTypeName" : "text",
+    "fieldName" : "owner_s_phone",
+    "position" : 47,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2380668,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Daily"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "x539-akqs",
+    "displayName" : "Andrew Nicklin",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/4798/2643/My_Photo_3_large.png",
+    "profileImageUrlMedium" : "/images/profile/4798/2643/My_Photo_3_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/4798/2643/My_Photo_3_tiny.png",
+    "profileLastModified" : 1336858132,
+    "roleName" : "administrator",
+    "screenName" : "Andrew Nicklin",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "x539-akqs",
+    "displayName" : "Andrew Nicklin",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/4798/2643/My_Photo_3_large.png",
+    "profileImageUrlMedium" : "/images/profile/4798/2643/My_Photo_3_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/4798/2643/My_Photo_3_tiny.png",
+    "profileLastModified" : 1336858132,
+    "roleName" : "administrator",
+    "screenName" : "Andrew Nicklin",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "building", "buildings", "permit", "permits", "dob", "building permits", "clean web" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,184 @@
+{
+  "id" : "tgvi-w9ww",
+  "name" : "Damage By Sandy By Land Use",
+  "attribution" : "Department of City Planning (DCP)",
+  "attributionLink" : "http://www.nyc.gov/html/dcp/pdf/climate_resilience/presentation_sandy.pdf",
+  "averageRating" : 0,
+  "category" : "Construction and Housing",
+  "createdAt" : 1360784554,
+  "description" : "Details about damage by Storm Sandy to various types of buildings",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2514709,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1360784648,
+  "publicationGroup" : 675539,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1360784556,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 675539,
+  "totalTimesRated" : 0,
+  "viewCount" : 87,
+  "viewLastModified" : 1360784664,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 44611906,
+    "name" : "Land Use",
+    "dataTypeName" : "text",
+    "fieldName" : "land_use",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7826149,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 11,
+      "smallest" : "Commercial & Office ",
+      "null" : 0,
+      "largest" : "Vacant ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "One & Two Family "
+      }, {
+        "count" : 19,
+        "item" : "Multi-Family Walk Up "
+      }, {
+        "count" : 18,
+        "item" : "Mixed Residential & Commercial "
+      }, {
+        "count" : 17,
+        "item" : "Commercial & Office "
+      }, {
+        "count" : 16,
+        "item" : "Public Facility & Institution "
+      }, {
+        "count" : 15,
+        "item" : "Vacant "
+      }, {
+        "count" : 14,
+        "item" : "Open Space & Recreation "
+      }, {
+        "count" : 13,
+        "item" : "Industrial & Manufacturing "
+      }, {
+        "count" : 12,
+        "item" : "Multi-Family Elevator "
+      }, {
+        "count" : 11,
+        "item" : "Transportation & Utility "
+      }, {
+        "count" : 10,
+        "item" : "Parking "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44611907,
+    "name" : "% of Total Destroyed by Storm",
+    "dataTypeName" : "text",
+    "fieldName" : "of_total_destroyed_by_storm",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7826150,
+    "width" : 224,
+    "cachedContents" : {
+      "non_null" : 11,
+      "smallest" : "< 1% ",
+      "null" : 0,
+      "largest" : "88%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "88%"
+      }, {
+        "count" : 19,
+        "item" : "1%"
+      }, {
+        "count" : 18,
+        "item" : "6%"
+      }, {
+        "count" : 17,
+        "item" : "2%"
+      }, {
+        "count" : 16,
+        "item" : "< 1% "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44611908,
+    "name" : "% of Total Red Tags",
+    "dataTypeName" : "text",
+    "fieldName" : "of_total_red_tags",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7826151,
+    "width" : 175,
+    "cachedContents" : {
+      "non_null" : 11,
+      "smallest" : "< 1% ",
+      "null" : 0,
+      "largest" : "90%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "90%"
+      }, {
+        "count" : 19,
+        "item" : "4%"
+      }, {
+        "count" : 18,
+        "item" : "1%"
+      }, {
+        "count" : 17,
+        "item" : "< 1% "
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Historical Data"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dcp", "city", "planning", "hurricane", "sandy", "damage" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,228 @@
+{
+  "id" : "wudr-qbgm",
+  "name" : "CCRB: Attribution of Complaints to Other Patrol Services Bureau Commands 2005 - 2009",
+  "attribution" : "Civilian Complaint Review Board (CCRB)",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1315947949,
+  "description" : "Civilian Complaint Review Board (CCRB) complaint activity data, 2005-2009.\r\nUpdate Frequency: Annually",
+  "displayType" : "table",
+  "downloadCount" : 12,
+  "numberOfComments" : 0,
+  "oid" : 332935,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1315947949,
+  "publicationGroup" : 240361,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1315947952,
+  "rowsUpdatedBy" : "k2fz-tf56",
+  "signed" : false,
+  "tableId" : 240361,
+  "totalTimesRated" : 0,
+  "viewCount" : 27,
+  "viewLastModified" : 1318356622,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2836062,
+    "name" : "Other Patrol Services Bureau Commands",
+    "dataTypeName" : "text",
+    "fieldName" : "other_patrol_services_bureau_commands",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1518897,
+    "width" : 544,
+    "cachedContents" : {
+      "non_null" : 2,
+      "smallest" : "Chief's Office",
+      "null" : 0,
+      "largest" : "Other Patrol Services Bureau Commands Total",
+      "top" : [ {
+        "count" : 1,
+        "item" : "Other Patrol Services Bureau Commands Total"
+      }, {
+        "count" : 1,
+        "item" : "Chief's Office"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2836063,
+    "name" : "2005",
+    "dataTypeName" : "number",
+    "fieldName" : "_2005",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518898,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 2,
+      "smallest" : "2",
+      "sum" : "4",
+      "null" : 0,
+      "average" : "2",
+      "largest" : "2",
+      "top" : [ {
+        "count" : 2,
+        "item" : "2"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2836064,
+    "name" : "2006",
+    "dataTypeName" : "number",
+    "fieldName" : "_2006",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518899,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 2,
+      "smallest" : "4",
+      "sum" : "8",
+      "null" : 0,
+      "average" : "4",
+      "largest" : "4",
+      "top" : [ {
+        "count" : 2,
+        "item" : "4"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2836065,
+    "name" : "2007",
+    "dataTypeName" : "number",
+    "fieldName" : "_2007",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518900,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 2,
+      "smallest" : "5",
+      "sum" : "10",
+      "null" : 0,
+      "average" : "5",
+      "largest" : "5",
+      "top" : [ {
+        "count" : 2,
+        "item" : "5"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2836066,
+    "name" : "2008",
+    "dataTypeName" : "number",
+    "fieldName" : "_2008",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518901,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 2,
+      "smallest" : "2",
+      "sum" : "4",
+      "null" : 0,
+      "average" : "2",
+      "largest" : "2",
+      "top" : [ {
+        "count" : 2,
+        "item" : "2"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2836067,
+    "name" : "2009",
+    "dataTypeName" : "number",
+    "fieldName" : "_2009",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518902,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 2,
+      "smallest" : "3",
+      "sum" : "6",
+      "null" : 0,
+      "average" : "3",
+      "largest" : "3",
+      "top" : [ {
+        "count" : 2,
+        "item" : "3"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2836068,
+    "name" : "Total",
+    "dataTypeName" : "text",
+    "fieldName" : "total",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1518903,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 2,
+      "smallest" : "16",
+      "null" : 0,
+      "largest" : "16",
+      "top" : [ {
+        "count" : 2,
+        "item" : "16"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "complaint", "civilian", "review", "board", "activity", "ccrb", "civilian complaint review board", "2005", "2006", "2007", "2008", "2009", "complaint activity", "statistics" ],
+  "flags" : [ "default" ]
+}

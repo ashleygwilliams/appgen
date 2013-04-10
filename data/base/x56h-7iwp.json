@@ -1,0 +1,256 @@
+{
+  "id" : "x56h-7iwp",
+  "name" : "Directory Of Unsheltered Street Homeless To General Population Ratio 2009",
+  "attribution" : "Department of Homeless Services (DHS)",
+  "attributionLink" : "http://www.nyc.gov/html/dhs/downloads/pdf/hope10_results.pdf",
+  "averageRating" : 0,
+  "category" : "Social Services",
+  "createdAt" : 1359586284,
+  "description" : "\"Ratio of Homeless Population to General Population in major US Cities in 2009. \n*This represents a list of large U.S. cities with a similar street count methodology for which DHS was able to confirm a recent Census; 2009 results are not yet available for LA, SF, and Chicago.  All population figures are from the 2007 U.S. Census Bureau Population Estimate.\"",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2387266,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359587389,
+  "publicationGroup" : 646869,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1359586975,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 646886,
+  "totalTimesRated" : 0,
+  "viewCount" : 27,
+  "viewLastModified" : 1359587497,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 42123108,
+    "name" : "City",
+    "dataTypeName" : "location",
+    "fieldName" : "location",
+    "position" : 1,
+    "renderTypeName" : "location",
+    "tableColumnId" : 7411030,
+    "width" : 149,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : {
+        "human_address" : "{\"address\":\"\",\"city\":\"Chicago *\",\"state\":\"\",\"zip\":\"\"}"
+      },
+      "null" : 0,
+      "largest" : {
+        "human_address" : "{\"address\":\"\",\"city\":\"Seattle\",\"state\":\"\",\"zip\":\"\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"New York City\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"Los Angeles *\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"San Francisco *\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"Seattle\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"Chicago *\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"Miami-Dade County\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      } ]
+    },
+    "format" : {
+      "align" : "left",
+      "view" : "address_coords"
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 42123109,
+    "name" : "Estimated Unsheltered Population",
+    "dataTypeName" : "number",
+    "fieldName" : "estimated_unsheltered_population",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7411027,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "994",
+      "sum" : "49789",
+      "null" : 0,
+      "average" : "8298.166666666667",
+      "largest" : "40144",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2328"
+      }, {
+        "count" : 19,
+        "item" : "40144"
+      }, {
+        "count" : 18,
+        "item" : "2771"
+      }, {
+        "count" : 17,
+        "item" : "1976"
+      }, {
+        "count" : 16,
+        "item" : "1576"
+      }, {
+        "count" : 15,
+        "item" : "994"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 42123110,
+    "name" : "Total Population",
+    "dataTypeName" : "number",
+    "fieldName" : "total_population",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7411028,
+    "width" : 216,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "594210",
+      "sum" : "18691881",
+      "null" : 0,
+      "average" : "3115313.5",
+      "largest" : "8274527",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8274527"
+      }, {
+        "count" : 19,
+        "item" : "3834340"
+      }, {
+        "count" : 18,
+        "item" : "764976"
+      }, {
+        "count" : 17,
+        "item" : "594210"
+      }, {
+        "count" : 16,
+        "item" : "2836658"
+      }, {
+        "count" : 15,
+        "item" : "2387170"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 42123111,
+    "name" : "Ratio of Unsheltered Homeless to General Population",
+    "dataTypeName" : "text",
+    "fieldName" : "ratio_of_unsheltered_homeless_to_general_population",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7411029,
+    "width" : 356,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "1 in 1,800 ",
+      "null" : 0,
+      "largest" : "1 in 96 ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1 in 3,554 "
+      }, {
+        "count" : 19,
+        "item" : "1 in 96 "
+      }, {
+        "count" : 18,
+        "item" : "1 in 276 "
+      }, {
+        "count" : 17,
+        "item" : "1 in 301 "
+      }, {
+        "count" : 16,
+        "item" : "1 in 1,800 "
+      }, {
+        "count" : 15,
+        "item" : "1 in 2,402 "
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+    "orderBys" : [ {
+      "ascending" : true,
+      "expression" : {
+        "columnId" : 42123111,
+        "type" : "column"
+      }
+    } ]
+  },
+  "rights" : [ "read" ],
+  "sortBys" : [ {
+    "id" : 0,
+    "viewColumnId" : 42123111,
+    "flags" : [ "asc" ]
+  } ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dhs", "homeless", "ratio", "population" ],
+  "flags" : [ "default" ]
+}

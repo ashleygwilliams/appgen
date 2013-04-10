@@ -1,0 +1,260 @@
+{
+  "id" : "h7mf-hrsw",
+  "name" : "NYC School meals income levels",
+  "attribution" : "Human Resources Administration (HRA)",
+  "attributionLink" : "http://www.nyc.gov/html/hia/html/other/benefits_child_nut.shtml",
+  "averageRating" : 0,
+  "category" : "Health",
+  "createdAt" : 1363714292,
+  "description" : "The National School Lunch Program (NSLP), School Breakfast Program (SBP) and Summer Food Service Program (SFSP) provide nutritious meals to children in New York City Public Schools. All children attending schools that offer these programs can receive breakfast and lunch. Breakfast is free for all students. Some children will qualify for free or reduced price lunch, and others pay the full cost of meals, depending on family and income. This income chart sets forth the different meal costs.This chart is only a guide. Individuals should see school office personnel for assistance. \r\nNOTE: Chart effective July 1, 2012 to June 30, 2013. Subject to annual income updates.",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2880575,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363714302,
+  "publicationGroup" : 742992,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1363714301,
+  "rowsUpdatedBy" : "ya7g-926w",
+  "signed" : false,
+  "tableId" : 742993,
+  "totalTimesRated" : 0,
+  "viewCount" : 12,
+  "viewLastModified" : 1363714778,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 51659234,
+    "name" : "Meal Cost",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "meal_cost",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8756013,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "Free Lunch",
+      "null" : 0,
+      "largest" : "Reduced Price Lunch (25¢) paid by family",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Free Lunch"
+      }, {
+        "count" : 19,
+        "item" : "Reduced Price Lunch (25¢) paid by family"
+      }, {
+        "count" : 18,
+        "item" : "Full Price Lunch ($1.50) paid by family"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51659235,
+    "name" : "Monthly Income For Family Size 1",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "monthly_income_for_family_size_1",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8756014,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "$1,211",
+      "null" : 0,
+      "largest" : "Over $1,723",
+      "top" : [ {
+        "count" : 20,
+        "item" : "$1,211"
+      }, {
+        "count" : 19,
+        "item" : "$1,723"
+      }, {
+        "count" : 18,
+        "item" : "Over $1,723"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51659236,
+    "name" : "Monthly Income For Family Size 2",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "monthly_income_for_family_size_2",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8756015,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "$1,640",
+      "null" : 0,
+      "largest" : "Over $2,333",
+      "top" : [ {
+        "count" : 20,
+        "item" : "$1,640"
+      }, {
+        "count" : 19,
+        "item" : "$2,333"
+      }, {
+        "count" : 18,
+        "item" : "Over $2,333"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51659237,
+    "name" : "Monthly Income For Family Size 3",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "monthly_income_for_family_size_3",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8756016,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "$2,069",
+      "null" : 0,
+      "largest" : "Over $2,944",
+      "top" : [ {
+        "count" : 20,
+        "item" : "$2,069"
+      }, {
+        "count" : 19,
+        "item" : "$2,944"
+      }, {
+        "count" : 18,
+        "item" : "Over $2,944"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51659238,
+    "name" : "Monthly Income For Family Size 4",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "monthly_income_for_family_size_4",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8756017,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "$2,498",
+      "null" : 0,
+      "largest" : "Over $3,554",
+      "top" : [ {
+        "count" : 20,
+        "item" : "$2,498"
+      }, {
+        "count" : 19,
+        "item" : "$3,554"
+      }, {
+        "count" : 18,
+        "item" : "Over $3,554"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51659239,
+    "name" : "Monthly Income For Family Size 5",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "monthly_income_for_family_size_5",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8756018,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "$2,927",
+      "null" : 0,
+      "largest" : "Over $4,165",
+      "top" : [ {
+        "count" : 20,
+        "item" : "$2,927"
+      }, {
+        "count" : 19,
+        "item" : "$4,165"
+      }, {
+        "count" : 18,
+        "item" : "Over $4,165"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51659240,
+    "name" : "Each Extra Person, Add:",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "each_extra_person_add_",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8756019,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "$429",
+      "null" : 0,
+      "largest" : "$611",
+      "top" : [ {
+        "count" : 20,
+        "item" : "$429"
+      }, {
+        "count" : 19,
+        "item" : "$611"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ya7g-926w",
+    "displayName" : "Aakash Dalwani",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1363663581,
+    "roleName" : "publisher",
+    "screenName" : "Aakash Dalwani",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ya7g-926w",
+    "displayName" : "Aakash Dalwani",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1363663581,
+    "roleName" : "publisher",
+    "screenName" : "Aakash Dalwani",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "hra", "human resources administration", "jobs and economic mobility", "nyc school meals income levels" ],
+  "flags" : [ "default" ]
+}

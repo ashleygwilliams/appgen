@@ -1,0 +1,276 @@
+{
+  "id" : "ivbu-e2q7",
+  "name" : "Directory Of Unsheltered Street Homeless To General Population Ratio 2011",
+  "attribution" : "Department of Homeless Services (DHS)",
+  "attributionLink" : "http://www.nyc.gov/html/dhs/downloads/pdf/hope11_results.pdf",
+  "averageRating" : 0,
+  "category" : "Social Services",
+  "createdAt" : 1359588245,
+  "description" : "\"Ratio of Homeless Population to General Population in major US Cities in 2011.\n*This represents a list of large U.S. cities for which DHS was able to confirm a recent estimate of the unsheltered population.  A 2011 result is available for Seattle, WA, Miami, FL, and Boston, MA.. 2011 results are not yet available for the other cities, and their 2009 data are displayed in this chart. General population figures are 2010 estimates in New York, San Francisco, and Chicago, and 2009 estimates elsewhere.\"",
+  "displayType" : "table",
+  "downloadCount" : 6,
+  "numberOfComments" : 0,
+  "oid" : 2387332,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359589162,
+  "publicationGroup" : 646925,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1359588248,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 646925,
+  "totalTimesRated" : 0,
+  "viewCount" : 23,
+  "viewLastModified" : 1359589238,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 42124095,
+    "name" : "City",
+    "dataTypeName" : "location",
+    "fieldName" : "city",
+    "position" : 1,
+    "renderTypeName" : "location",
+    "tableColumnId" : 7411849,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : {
+        "human_address" : "{\"address\":\"\",\"city\":\"Boston, MA\",\"state\":\"\",\"zip\":\"\"}"
+      },
+      "null" : 0,
+      "largest" : {
+        "human_address" : "{\"address\":\"\",\"city\":\"Washington, DC\",\"state\":\"\",\"zip\":\"\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"Boston, MA\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"Chicago, IL\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"New York City\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"Washington, DC\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"Miami, FL\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"Seattle, WA\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"San Francisco, CA\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"Los Angeles, CA\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 42124092,
+    "name" : "Street Homeless Population",
+    "dataTypeName" : "number",
+    "fieldName" : "street_homeless_population",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7411846,
+    "width" : 206,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "182",
+      "sum" : "24754",
+      "null" : 0,
+      "average" : "3094.25",
+      "largest" : "15770",
+      "top" : [ {
+        "count" : 20,
+        "item" : "182"
+      }, {
+        "count" : 19,
+        "item" : "884"
+      }, {
+        "count" : 18,
+        "item" : "2648"
+      }, {
+        "count" : 17,
+        "item" : "321"
+      }, {
+        "count" : 16,
+        "item" : "487"
+      }, {
+        "count" : 15,
+        "item" : "1753"
+      }, {
+        "count" : 14,
+        "item" : "2709"
+      }, {
+        "count" : 13,
+        "item" : "15770"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42124093,
+    "name" : "General Population",
+    "dataTypeName" : "number",
+    "fieldName" : "general_population",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7411847,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "433136",
+      "sum" : "17960159",
+      "null" : 0,
+      "average" : "2245019.875",
+      "largest" : "8175133",
+      "top" : [ {
+        "count" : 20,
+        "item" : "645169"
+      }, {
+        "count" : 19,
+        "item" : "2851268"
+      }, {
+        "count" : 18,
+        "item" : "8175133"
+      }, {
+        "count" : 17,
+        "item" : "601723"
+      }, {
+        "count" : 16,
+        "item" : "433136"
+      }, {
+        "count" : 15,
+        "item" : "616627"
+      }, {
+        "count" : 14,
+        "item" : "805235"
+      }, {
+        "count" : 13,
+        "item" : "3831868"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42124094,
+    "name" : "Ratio of Unsheltered Homeless to General Population",
+    "dataTypeName" : "text",
+    "fieldName" : "ratio_of_unsheltered_homeless_to_general_population",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7411848,
+    "width" : 352,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "1 in 1,875 ",
+      "null" : 0,
+      "largest" : "1 in 889 ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1 in 3,545 "
+      }, {
+        "count" : 19,
+        "item" : "1 in 3,225 "
+      }, {
+        "count" : 18,
+        "item" : "1 in 3,087 "
+      }, {
+        "count" : 17,
+        "item" : "1 in 1,875 "
+      }, {
+        "count" : 16,
+        "item" : "1 in 889 "
+      }, {
+        "count" : 15,
+        "item" : "1 in 352 "
+      }, {
+        "count" : 14,
+        "item" : "1 in 297 "
+      }, {
+        "count" : 13,
+        "item" : "1 in 243 "
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+    "orderBys" : [ {
+      "ascending" : true,
+      "expression" : {
+        "columnId" : 42124094,
+        "type" : "column"
+      }
+    } ]
+  },
+  "rights" : [ "read" ],
+  "sortBys" : [ {
+    "id" : 0,
+    "viewColumnId" : 42124094,
+    "flags" : [ "asc" ]
+  } ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dhs", "homeless", "ratio", "population" ],
+  "flags" : [ "default" ]
+}

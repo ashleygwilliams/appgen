@@ -1,0 +1,167 @@
+{
+  "id" : "26ze-s5bx",
+  "name" : "Average Daily Inmate Population",
+  "attribution" : "Department of Correction (DOC)",
+  "averageRating" : 0,
+  "category" : "Statistics",
+  "createdAt" : 1317945047,
+  "description" : "Average daily inmate population by fiscal year\n\nNote: The data for each of these indicators is based upon year of report, not year of occurrence.",
+  "displayType" : "table",
+  "downloadCount" : 13,
+  "numberOfComments" : 0,
+  "oid" : 341390,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1317945182,
+  "publicationGroup" : 243612,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1317945048,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 243612,
+  "totalTimesRated" : 0,
+  "viewCount" : 177,
+  "viewLastModified" : 1318362320,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2972982,
+    "name" : "Fiscal year",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1557739,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 10,
+      "smallest" : "2001",
+      "sum" : "20055",
+      "null" : 0,
+      "average" : "2005.5",
+      "largest" : "2010",
+      "top" : [ {
+        "count" : 1,
+        "item" : "2002"
+      }, {
+        "count" : 1,
+        "item" : "2010"
+      }, {
+        "count" : 1,
+        "item" : "2005"
+      }, {
+        "count" : 1,
+        "item" : "2008"
+      }, {
+        "count" : 1,
+        "item" : "2003"
+      }, {
+        "count" : 1,
+        "item" : "2007"
+      }, {
+        "count" : 1,
+        "item" : "2004"
+      }, {
+        "count" : 1,
+        "item" : "2006"
+      }, {
+        "count" : 1,
+        "item" : "2001"
+      }, {
+        "count" : 1,
+        "item" : "2009"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 2972983,
+    "name" : "Inmate Population",
+    "dataTypeName" : "number",
+    "fieldName" : "inmate_population",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1557740,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 10,
+      "smallest" : "13049",
+      "sum" : "138029",
+      "null" : 0,
+      "average" : "13802.9",
+      "largest" : "14533",
+      "top" : [ {
+        "count" : 1,
+        "item" : "14533"
+      }, {
+        "count" : 1,
+        "item" : "13751"
+      }, {
+        "count" : 1,
+        "item" : "13987"
+      }, {
+        "count" : 1,
+        "item" : "13497"
+      }, {
+        "count" : 1,
+        "item" : "13362"
+      }, {
+        "count" : 1,
+        "item" : "13850"
+      }, {
+        "count" : 1,
+        "item" : "13049"
+      }, {
+        "count" : 1,
+        "item" : "13576"
+      }, {
+        "count" : 1,
+        "item" : "14490"
+      }, {
+        "count" : 1,
+        "item" : "13934"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "corrections", "jail", "prison", "inmate", "facility", "rikers", "population", "arrest" ],
+  "flags" : [ "default" ]
+}

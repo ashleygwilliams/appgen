@@ -1,0 +1,914 @@
+{
+  "id" : "5k3t-wy5j",
+  "name" : "DCA Parking Facilities",
+  "attribution" : "Department of Consumer Affairs (DCA)",
+  "averageRating" : 0,
+  "category" : "Facilities and Structures",
+  "createdAt" : 1362584319,
+  "description" : "Parking facilities currently licensed by DCA",
+  "displayType" : "table",
+  "downloadCount" : 6,
+  "numberOfComments" : 0,
+  "oid" : 2730698,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362584638,
+  "publicationGroup" : 717736,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1362584332,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 717736,
+  "totalTimesRated" : 0,
+  "viewCount" : 26,
+  "viewLastModified" : 1362584646,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 48790481,
+    "name" : "﻿ID",
+    "dataTypeName" : "number",
+    "fieldName" : "id",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8401644,
+    "width" : 54,
+    "cachedContents" : {
+      "non_null" : 1847,
+      "smallest" : "1",
+      "sum" : "1706628",
+      "null" : 0,
+      "average" : "924",
+      "largest" : "1847",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1846"
+      }, {
+        "count" : 19,
+        "item" : "1847"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48790482,
+    "name" : "Business Name",
+    "dataTypeName" : "text",
+    "fieldName" : "business_name",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401645,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 1847,
+      "smallest" : "100 ML GARAGE CORP",
+      "null" : 0,
+      "largest" : "ZITRO PARKING, CORP",
+      "top" : [ {
+        "count" : 20,
+        "item" : "CENTRAL PARKING SYSTEM OF NEW YORK INC"
+      }, {
+        "count" : 19,
+        "item" : "CENTRAL PARKING SYSTEM OF NEW YORK, INC"
+      }, {
+        "count" : 18,
+        "item" : "STANDARD PARKING CORP"
+      }, {
+        "count" : 17,
+        "item" : "STANDARD PARKING CORPORATION"
+      }, {
+        "count" : 16,
+        "item" : "WELCOME PARKING LIMITED LIABILITY COMPANY"
+      }, {
+        "count" : 15,
+        "item" : "WEST 25TH LLC"
+      }, {
+        "count" : 14,
+        "item" : "WEST PLAZA GARAGE LLC"
+      }, {
+        "count" : 13,
+        "item" : "ZEPHYR PARKING LLC"
+      }, {
+        "count" : 12,
+        "item" : "ZETA PARKING CORP"
+      }, {
+        "count" : 11,
+        "item" : "ZITRO PARKING, CORP"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48790483,
+    "name" : "Trade Name",
+    "dataTypeName" : "text",
+    "fieldName" : "trade_name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401646,
+    "width" : 99,
+    "cachedContents" : {
+      "non_null" : 223,
+      "smallest" : "108TH ST GARAGE",
+      "null" : 1624,
+      "largest" : "Y & H GARAGE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "GGMC"
+      }, {
+        "count" : 19,
+        "item" : "MEYERS PARKING"
+      }, {
+        "count" : 18,
+        "item" : "AVISTAR AIRPORT PARKING"
+      }, {
+        "count" : 17,
+        "item" : "THE PARKING SPOT"
+      }, {
+        "count" : 16,
+        "item" : "IMPARK"
+      }, {
+        "count" : 15,
+        "item" : "CENTRAL PARKING SYSTEM"
+      }, {
+        "count" : 14,
+        "item" : "LAZ PARKING NY/NJ, LLC"
+      }, {
+        "count" : 13,
+        "item" : "GARRISON PARKING LOT & SALES, CO."
+      }, {
+        "count" : 12,
+        "item" : "1318 SOUTHERN BLVD PARKING"
+      }, {
+        "count" : 11,
+        "item" : "HELMSLEY MEDICAL TOWER GRG"
+      }, {
+        "count" : 10,
+        "item" : "A RUFRANO PARKING LOT"
+      }, {
+        "count" : 9,
+        "item" : "INCORPORATION PARKING GARAGE"
+      }, {
+        "count" : 8,
+        "item" : "J & S PARKING FACILITY"
+      }, {
+        "count" : 7,
+        "item" : "RAAMCO"
+      }, {
+        "count" : 6,
+        "item" : "C.N.A. PARKING"
+      }, {
+        "count" : 5,
+        "item" : "MARLE REALTY CO"
+      }, {
+        "count" : 4,
+        "item" : "RIVEREDGE SUTTON GARDEN"
+      }, {
+        "count" : 3,
+        "item" : "SELECT PARKING"
+      }, {
+        "count" : 2,
+        "item" : "SHARP PARKING"
+      }, {
+        "count" : 1,
+        "item" : "STANDARD PARKING CORP QUEENS FAMILY COURT"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48790484,
+    "name" : "Facility Type",
+    "dataTypeName" : "text",
+    "fieldName" : "facility_type",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401647,
+    "width" : 126,
+    "cachedContents" : {
+      "non_null" : 1847,
+      "smallest" : "Garage - Parking Lot Combo",
+      "null" : 0,
+      "largest" : "Parking Lot",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Parking Lot"
+      }, {
+        "count" : 19,
+        "item" : "Parking Garage"
+      }, {
+        "count" : 18,
+        "item" : "Garage - Parking Lot Combo"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48790485,
+    "name" : "License Number",
+    "dataTypeName" : "number",
+    "fieldName" : "license_number",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8401648,
+    "width" : 114,
+    "cachedContents" : {
+      "non_null" : 1847,
+      "smallest" : "363056",
+      "sum" : "2076280057",
+      "null" : 0,
+      "average" : "1124136.468327017",
+      "largest" : "1457135",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1012474"
+      }, {
+        "count" : 19,
+        "item" : "1185040"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 48790486,
+    "name" : "Full Address",
+    "dataTypeName" : "text",
+    "fieldName" : "full_address",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401649,
+    "width" : 271,
+    "cachedContents" : {
+      "non_null" : 1847,
+      "smallest" : "000 BRUCKNER EXPRESSWAY, BRONX, NY 10474",
+      "null" : 0,
+      "largest" : "NKA PIER   42, NEW YORK, NY 10002",
+      "top" : [ {
+        "count" : 20,
+        "item" : "213 EAST   80 STREET, NEW YORK, NY 10021"
+      }, {
+        "count" : 19,
+        "item" : "562 W 182ND ST, NEW YORK, NY 10033"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48790487,
+    "name" : "Address Building",
+    "dataTypeName" : "text",
+    "fieldName" : "address_building",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401650,
+    "width" : 138,
+    "cachedContents" : {
+      "non_null" : 1847,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "NKA",
+      "top" : [ {
+        "count" : 20,
+        "item" : "148"
+      }, {
+        "count" : 19,
+        "item" : "562"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48790488,
+    "name" : "Address Street Name",
+    "dataTypeName" : "text",
+    "fieldName" : "address_street_name",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401651,
+    "width" : 185,
+    "cachedContents" : {
+      "non_null" : 1847,
+      "smallest" : " 104 STREET",
+      "null" : 0,
+      "largest" : "YORK AVENUE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BROADWAY"
+      }, {
+        "count" : 19,
+        "item" : "EAST END AVENUE"
+      }, {
+        "count" : 18,
+        "item" : "WEBSTER AVE"
+      }, {
+        "count" : 17,
+        "item" : "WEST   25 STREET"
+      }, {
+        "count" : 16,
+        "item" : "WEST   37 STREET"
+      }, {
+        "count" : 15,
+        "item" : "WEST   54 STREET"
+      }, {
+        "count" : 14,
+        "item" : "WEST 89TH STREET"
+      }, {
+        "count" : 13,
+        "item" : "WEST   89 STREET"
+      }, {
+        "count" : 12,
+        "item" : "WEST   90 STREET"
+      }, {
+        "count" : 11,
+        "item" : "WEST END AVENUE"
+      }, {
+        "count" : 10,
+        "item" : "   2 AVENUE"
+      }, {
+        "count" : 9,
+        "item" : "WASHINGTON STREET"
+      }, {
+        "count" : 8,
+        "item" : "EAST   66 STREET"
+      }, {
+        "count" : 7,
+        "item" : "COLUMBUS AVENUE"
+      }, {
+        "count" : 6,
+        "item" : "WEST   42 STREET"
+      }, {
+        "count" : 5,
+        "item" : "WETHEROLE STREET"
+      }, {
+        "count" : 4,
+        "item" : "CLINTON AVENUE"
+      }, {
+        "count" : 3,
+        "item" : "HENRY HUDSON PARKWAY"
+      }, {
+        "count" : 2,
+        "item" : "EAST   15 STREET"
+      }, {
+        "count" : 1,
+        "item" : "71ST RD"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48790489,
+    "name" : "City",
+    "dataTypeName" : "text",
+    "fieldName" : "city",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401652,
+    "width" : 91,
+    "cachedContents" : {
+      "non_null" : 1847,
+      "smallest" : "ASTORIA",
+      "null" : 0,
+      "largest" : "WOODSIDE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NEW YORK"
+      }, {
+        "count" : 19,
+        "item" : "BRONX"
+      }, {
+        "count" : 18,
+        "item" : "BROOKLYN"
+      }, {
+        "count" : 17,
+        "item" : "BKLYN"
+      }, {
+        "count" : 16,
+        "item" : "FLUSHING"
+      }, {
+        "count" : 15,
+        "item" : "LONG ISLND CITY"
+      }, {
+        "count" : 14,
+        "item" : "NY"
+      }, {
+        "count" : 13,
+        "item" : "FOREST HILLS"
+      }, {
+        "count" : 12,
+        "item" : "ELMHURST"
+      }, {
+        "count" : 11,
+        "item" : "JACKSON HEIGHTS"
+      }, {
+        "count" : 10,
+        "item" : "QUEENS"
+      }, {
+        "count" : 9,
+        "item" : "JAMAICA"
+      }, {
+        "count" : 8,
+        "item" : "EAST ELMHURST"
+      }, {
+        "count" : 7,
+        "item" : "LONG ISL CITY"
+      }, {
+        "count" : 6,
+        "item" : "LONG ISLAND CIT"
+      }, {
+        "count" : 5,
+        "item" : "STATEN ISLAND"
+      }, {
+        "count" : 4,
+        "item" : "FOREST HILL"
+      }, {
+        "count" : 3,
+        "item" : "BAYSIDE"
+      }, {
+        "count" : 2,
+        "item" : "REGO PARK"
+      }, {
+        "count" : 1,
+        "item" : "LITTLE NECK"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48790490,
+    "name" : "State",
+    "dataTypeName" : "text",
+    "fieldName" : "state",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401653,
+    "width" : 78,
+    "cachedContents" : {
+      "non_null" : 1847,
+      "smallest" : "NY",
+      "null" : 0,
+      "largest" : "NY",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NY"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48790491,
+    "name" : "ZIP Code",
+    "dataTypeName" : "text",
+    "fieldName" : "zip_code",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401654,
+    "width" : 93,
+    "cachedContents" : {
+      "non_null" : 1847,
+      "smallest" : "10001",
+      "null" : 0,
+      "largest" : "11691",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10028"
+      }, {
+        "count" : 19,
+        "item" : "10003"
+      }, {
+        "count" : 18,
+        "item" : "10022"
+      }, {
+        "count" : 17,
+        "item" : "10019"
+      }, {
+        "count" : 16,
+        "item" : "10021"
+      }, {
+        "count" : 15,
+        "item" : "11201"
+      }, {
+        "count" : 14,
+        "item" : "10128"
+      }, {
+        "count" : 13,
+        "item" : "10001"
+      }, {
+        "count" : 12,
+        "item" : "10016"
+      }, {
+        "count" : 11,
+        "item" : "10036"
+      }, {
+        "count" : 10,
+        "item" : "10013"
+      }, {
+        "count" : 9,
+        "item" : "11101"
+      }, {
+        "count" : 8,
+        "item" : "10017"
+      }, {
+        "count" : 7,
+        "item" : "10011"
+      }, {
+        "count" : 6,
+        "item" : "10451"
+      }, {
+        "count" : 5,
+        "item" : "10475"
+      }, {
+        "count" : 4,
+        "item" : "11375"
+      }, {
+        "count" : 3,
+        "item" : "11373"
+      }, {
+        "count" : 2,
+        "item" : "10024"
+      }, {
+        "count" : 1,
+        "item" : "10027"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48790492,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401655,
+    "width" : 97,
+    "cachedContents" : {
+      "non_null" : 1847,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Manhattan"
+      }, {
+        "count" : 19,
+        "item" : "Other"
+      }, {
+        "count" : 18,
+        "item" : "Bronx"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 15,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48790493,
+    "name" : "Address Location",
+    "dataTypeName" : "text",
+    "fieldName" : "address_location",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401656,
+    "width" : 163,
+    "cachedContents" : {
+      "non_null" : 260,
+      "smallest" : "(626-644 FLATBUSH AVE)",
+      "null" : 1587,
+      "largest" : "WEST   42 STREET",
+      "top" : [ {
+        "count" : 20,
+        "item" : "AKA 68 E 153RD ST"
+      }, {
+        "count" : 19,
+        "item" : "1432-36"
+      }, {
+        "count" : 18,
+        "item" : "GARAGE"
+      }, {
+        "count" : 17,
+        "item" : "AKA 345 E 148TH STREET"
+      }, {
+        "count" : 16,
+        "item" : "AKA 424-438 WEST END AVENUE"
+      }, {
+        "count" : 15,
+        "item" : "AKA 14-47 EAST 21 STREET"
+      }, {
+        "count" : 14,
+        "item" : "AKA 1867 PARK AVE"
+      }, {
+        "count" : 13,
+        "item" : "584-596"
+      }, {
+        "count" : 12,
+        "item" : "AKA 250 EAST 187 STREET"
+      }, {
+        "count" : 11,
+        "item" : "289"
+      }, {
+        "count" : 10,
+        "item" : "AKA 1345 AVENUE OF AMERICA"
+      }, {
+        "count" : 9,
+        "item" : "AKA 2420-2438 BROADWAY"
+      }, {
+        "count" : 8,
+        "item" : "534"
+      }, {
+        "count" : 7,
+        "item" : "AKA 254 WEST 49 STREET"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48790494,
+    "name" : "Phone Number",
+    "dataTypeName" : "text",
+    "fieldName" : "phone_number",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401657,
+    "width" : 134,
+    "cachedContents" : {
+      "non_null" : 1847,
+      "smallest" : "(121) 221-6111",
+      "null" : 0,
+      "largest" : "(999) 999-9999",
+      "top" : [ {
+        "count" : 20,
+        "item" : "(212) 996-6363"
+      }, {
+        "count" : 19,
+        "item" : "(212) 736-7171"
+      }, {
+        "count" : 18,
+        "item" : "(212) 686-9800"
+      }, {
+        "count" : 17,
+        "item" : "(212) 502-5490"
+      }, {
+        "count" : 16,
+        "item" : "(212) 629-6602"
+      }, {
+        "count" : 15,
+        "item" : "(212) 308-5959"
+      }, {
+        "count" : 14,
+        "item" : "(212) 937-8660"
+      }, {
+        "count" : 13,
+        "item" : "(212) 490-3460"
+      }, {
+        "count" : 12,
+        "item" : "(212) 832-2066"
+      }, {
+        "count" : 11,
+        "item" : "(212) 916-3480"
+      }, {
+        "count" : 10,
+        "item" : "(718) 575-9440"
+      }, {
+        "count" : 9,
+        "item" : "(201) 680-7129"
+      }, {
+        "count" : 8,
+        "item" : "(718) 490-1976"
+      }, {
+        "count" : 7,
+        "item" : "(718) 206-8022"
+      }, {
+        "count" : 6,
+        "item" : "(212) 249-5514"
+      }, {
+        "count" : 5,
+        "item" : "(212) 222-8800"
+      }, {
+        "count" : 4,
+        "item" : "(212) 961-1091"
+      }, {
+        "count" : 3,
+        "item" : "(212) 929-9404"
+      }, {
+        "count" : 2,
+        "item" : "(212) 535-8670"
+      }, {
+        "count" : 1,
+        "item" : "(646) 964-4323"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48790495,
+    "name" : "Number of Spaces",
+    "dataTypeName" : "number",
+    "fieldName" : "number_of_spaces",
+    "position" : 15,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8401658,
+    "width" : 157,
+    "cachedContents" : {
+      "non_null" : 1846,
+      "smallest" : "1",
+      "sum" : "292737",
+      "null" : 1,
+      "average" : "158.5790899241603",
+      "largest" : "6640",
+      "top" : [ {
+        "count" : 20,
+        "item" : "150"
+      }, {
+        "count" : 19,
+        "item" : "100"
+      }, {
+        "count" : 18,
+        "item" : "50"
+      }, {
+        "count" : 17,
+        "item" : "25"
+      }, {
+        "count" : 16,
+        "item" : "40"
+      }, {
+        "count" : 15,
+        "item" : "250"
+      }, {
+        "count" : 14,
+        "item" : "90"
+      }, {
+        "count" : 13,
+        "item" : "200"
+      }, {
+        "count" : 12,
+        "item" : "98"
+      }, {
+        "count" : 11,
+        "item" : "18"
+      }, {
+        "count" : 10,
+        "item" : "30"
+      }, {
+        "count" : 9,
+        "item" : "44"
+      }, {
+        "count" : 8,
+        "item" : "375"
+      }, {
+        "count" : 7,
+        "item" : "96"
+      }, {
+        "count" : 6,
+        "item" : "149"
+      }, {
+        "count" : 5,
+        "item" : "75"
+      }, {
+        "count" : 4,
+        "item" : "175"
+      }, {
+        "count" : 3,
+        "item" : "29"
+      }, {
+        "count" : 2,
+        "item" : "65"
+      }, {
+        "count" : 1,
+        "item" : "85"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48790496,
+    "name" : "Number of Bike Spaces",
+    "dataTypeName" : "number",
+    "fieldName" : "number_of_bike_spaces",
+    "position" : 16,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8401659,
+    "width" : 155,
+    "cachedContents" : {
+      "non_null" : 1353,
+      "smallest" : "5",
+      "sum" : "18301",
+      "null" : 494,
+      "average" : "13.52623798965262",
+      "largest" : "84",
+      "top" : [ {
+        "count" : 20,
+        "item" : "15"
+      }, {
+        "count" : 19,
+        "item" : "19"
+      }, {
+        "count" : 18,
+        "item" : "6"
+      }, {
+        "count" : 17,
+        "item" : "16"
+      }, {
+        "count" : 16,
+        "item" : "8"
+      }, {
+        "count" : 15,
+        "item" : "20"
+      }, {
+        "count" : 14,
+        "item" : "9"
+      }, {
+        "count" : 13,
+        "item" : "5"
+      }, {
+        "count" : 12,
+        "item" : "24"
+      }, {
+        "count" : 11,
+        "item" : "18"
+      }, {
+        "count" : 10,
+        "item" : "10"
+      }, {
+        "count" : 9,
+        "item" : "7"
+      }, {
+        "count" : 8,
+        "item" : "25"
+      }, {
+        "count" : 7,
+        "item" : "21"
+      }, {
+        "count" : 6,
+        "item" : "14"
+      }, {
+        "count" : 5,
+        "item" : "13"
+      }, {
+        "count" : 4,
+        "item" : "17"
+      }, {
+        "count" : 3,
+        "item" : "11"
+      }, {
+        "count" : 2,
+        "item" : "12"
+      }, {
+        "count" : 1,
+        "item" : "23"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Weekly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dca", "parking", "license", "parking lot", "lot", "park", "garages" ],
+  "flags" : [ "default" ]
+}

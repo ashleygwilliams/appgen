@@ -1,0 +1,1194 @@
+{
+  "id" : "4fnu-iufz",
+  "name" : "PMMR Data - Current Year",
+  "attribution" : "Mayor's Office of Operations (OPS)",
+  "averageRating" : 0,
+  "createdAt" : 1360660472,
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "numberOfComments" : 0,
+  "oid" : 2597452,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361535938,
+  "publicationGroup" : 672490,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1361535907,
+  "rowsUpdatedBy" : "x5jh-tg6w",
+  "signed" : false,
+  "tableId" : 693208,
+  "totalTimesRated" : 0,
+  "viewCount" : 224,
+  "viewLastModified" : 1362089192,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 46286633,
+    "name" : "﻿Agency",
+    "dataTypeName" : "text",
+    "fieldName" : "agency",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7783259,
+    "width" : 92,
+    "cachedContents" : {
+      "non_null" : 23728,
+      "smallest" : "311",
+      "null" : 0,
+      "largest" : "TLC",
+      "top" : [ {
+        "count" : 20,
+        "item" : "DEP"
+      }, {
+        "count" : 19,
+        "item" : "DOE"
+      }, {
+        "count" : 18,
+        "item" : "DOC"
+      }, {
+        "count" : 17,
+        "item" : "DOB"
+      }, {
+        "count" : 16,
+        "item" : "DCAS"
+      }, {
+        "count" : 15,
+        "item" : "DOITT"
+      }, {
+        "count" : 14,
+        "item" : "DOI"
+      }, {
+        "count" : 13,
+        "item" : "DOHMH"
+      }, {
+        "count" : 12,
+        "item" : "DHS"
+      }, {
+        "count" : 11,
+        "item" : "TLC"
+      }, {
+        "count" : 10,
+        "item" : "HRA"
+      }, {
+        "count" : 9,
+        "item" : "HPD"
+      }, {
+        "count" : 8,
+        "item" : "DOF"
+      }, {
+        "count" : 7,
+        "item" : "NYPD"
+      }, {
+        "count" : 6,
+        "item" : "ACS"
+      }, {
+        "count" : 5,
+        "item" : "DPR"
+      }, {
+        "count" : 4,
+        "item" : "NYCHA"
+      }, {
+        "count" : 3,
+        "item" : "DDC"
+      }, {
+        "count" : 2,
+        "item" : "DYCD"
+      }, {
+        "count" : 1,
+        "item" : "CCRB"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46286634,
+    "name" : "Indicator ID",
+    "dataTypeName" : "text",
+    "fieldName" : "indicator_id",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7783260,
+    "width" : 139,
+    "cachedContents" : {
+      "non_null" : 23728,
+      "smallest" : "1000",
+      "null" : 0,
+      "largest" : "9999",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10222"
+      }, {
+        "count" : 19,
+        "item" : "2086"
+      }, {
+        "count" : 18,
+        "item" : "2085"
+      }, {
+        "count" : 17,
+        "item" : "10212"
+      }, {
+        "count" : 16,
+        "item" : "5519"
+      }, {
+        "count" : 15,
+        "item" : "2392"
+      }, {
+        "count" : 14,
+        "item" : "9289"
+      }, {
+        "count" : 13,
+        "item" : "3467"
+      }, {
+        "count" : 12,
+        "item" : "3464"
+      }, {
+        "count" : 11,
+        "item" : "3465"
+      }, {
+        "count" : 10,
+        "item" : "3462"
+      }, {
+        "count" : 9,
+        "item" : "3466"
+      }, {
+        "count" : 8,
+        "item" : "3463"
+      }, {
+        "count" : 7,
+        "item" : "10243"
+      }, {
+        "count" : 6,
+        "item" : "10294"
+      }, {
+        "count" : 5,
+        "item" : "10298"
+      }, {
+        "count" : 4,
+        "item" : "10290"
+      }, {
+        "count" : 3,
+        "item" : "10281"
+      }, {
+        "count" : 2,
+        "item" : "2121"
+      }, {
+        "count" : 1,
+        "item" : "10145"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46286635,
+    "name" : "Indicator Name",
+    "dataTypeName" : "text",
+    "fieldName" : "indicator_name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7783261,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 23728,
+      "smallest" : "# of active Housing Maintenance Code cases (end-of-month)",
+      "null" : 0,
+      "largest" : "Zoning Information Desk",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Private transfer station permits"
+      }, {
+        "count" : 19,
+        "item" : "Public health insurance enrollees (000)"
+      }, {
+        "count" : 18,
+        "item" : "Recycling tons per truckshift"
+      }, {
+        "count" : 17,
+        "item" : "Refuse tons per truckshift"
+      }, {
+        "count" : 16,
+        "item" : "Resolved consumer complaints"
+      }, {
+        "count" : 15,
+        "item" : "Robbery *"
+      }, {
+        "count" : 14,
+        "item" : "Sidewalks rated acceptably clean (%)"
+      }, {
+        "count" : 13,
+        "item" : "Sidewalks rated filthy (%)"
+      }, {
+        "count" : 12,
+        "item" : "Streets maintained with a pavement rating of Good (%)"
+      }, {
+        "count" : 11,
+        "item" : "Streets rated acceptably clean (%)"
+      }, {
+        "count" : 10,
+        "item" : "Streets rated filthy (%)"
+      }, {
+        "count" : 9,
+        "item" : "Structural fires"
+      }, {
+        "count" : 8,
+        "item" : "Students in grades 3 to 8 meeting or exceeding standards    - English Language Arts (%)"
+      }, {
+        "count" : 7,
+        "item" : "Students in grades 3 to 8 meeting or exceeding standards    - Math (%)"
+      }, {
+        "count" : 6,
+        "item" : "Students in schools that exceed capacity (%)   - Elementary/middle schools"
+      }, {
+        "count" : 5,
+        "item" : "Tons of refuse collected (000)"
+      }, {
+        "count" : 4,
+        "item" : "Tons per day disposed"
+      }, {
+        "count" : 3,
+        "item" : "Water main breaks"
+      }, {
+        "count" : 2,
+        "item" : "Wireless sessions"
+      }, {
+        "count" : 1,
+        "item" : "Workforce1 systemwide job placements"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46286636,
+    "name" : "Indicator Sequence",
+    "dataTypeName" : "number",
+    "fieldName" : "indicator_sequence",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7783262,
+    "width" : 163,
+    "cachedContents" : {
+      "non_null" : 23728,
+      "smallest" : "0",
+      "sum" : "324314",
+      "null" : 0,
+      "average" : "13.66798718813216",
+      "largest" : "109",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "4"
+      }, {
+        "count" : 18,
+        "item" : "8"
+      }, {
+        "count" : 17,
+        "item" : "1"
+      }, {
+        "count" : 16,
+        "item" : "12"
+      }, {
+        "count" : 15,
+        "item" : "3"
+      }, {
+        "count" : 14,
+        "item" : "6"
+      }, {
+        "count" : 13,
+        "item" : "7"
+      }, {
+        "count" : 12,
+        "item" : "2"
+      }, {
+        "count" : 11,
+        "item" : "14"
+      }, {
+        "count" : 10,
+        "item" : "9"
+      }, {
+        "count" : 9,
+        "item" : "5"
+      }, {
+        "count" : 8,
+        "item" : "10"
+      }, {
+        "count" : 7,
+        "item" : "15"
+      }, {
+        "count" : 6,
+        "item" : "37"
+      }, {
+        "count" : 5,
+        "item" : "26"
+      }, {
+        "count" : 4,
+        "item" : "36"
+      }, {
+        "count" : 3,
+        "item" : "19"
+      }, {
+        "count" : 2,
+        "item" : "11"
+      }, {
+        "count" : 1,
+        "item" : "28"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46286637,
+    "name" : "Sub-Indicator",
+    "dataTypeName" : "text",
+    "fieldName" : "sub_indicator",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7783263,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 22423,
+      "smallest" : "# of active Housing Maintenance Code cases (end-of-month)",
+      "null" : 1305,
+      "largest" : "Youth with previous admissions to detention (%)",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Water main breaks per 100 miles of main in the last 12 months"
+      }, {
+        "count" : 19,
+        "item" : "Water main work completed on schedule (%)"
+      }, {
+        "count" : 18,
+        "item" : "Water mains (new and replaced) (miles)"
+      }, {
+        "count" : 17,
+        "item" : "Water supply - Critical equipment out of service (%)"
+      }, {
+        "count" : 16,
+        "item" : "Weapon recovery rate (average per 100 total ADP)"
+      }, {
+        "count" : 15,
+        "item" : "Weapons recovered"
+      }, {
+        "count" : 14,
+        "item" : "Web-based emergency management training (hours)"
+      }, {
+        "count" : 13,
+        "item" : "Weights and Measures Law compliance rate - fuel trucks (%)"
+      }, {
+        "count" : 12,
+        "item" : "Weights and Measures Law compliance rate - gasoline pumps (%)"
+      }, {
+        "count" : 11,
+        "item" : "Weights and measures inspections - fuel trucks"
+      }, {
+        "count" : 10,
+        "item" : "Weights and measures inspections - gas pumps"
+      }, {
+        "count" : 9,
+        "item" : "Weights and measures violations - fuel trucks"
+      }, {
+        "count" : 8,
+        "item" : "Weights and measures violations - gas pumps"
+      }, {
+        "count" : 7,
+        "item" : "Win rate on affirmative motions (%)"
+      }, {
+        "count" : 6,
+        "item" : "Wireless sessions"
+      }, {
+        "count" : 5,
+        "item" : "Witnessed cardiac arrest patients revived (%)"
+      }, {
+        "count" : 4,
+        "item" : "Work permit applications received"
+      }, {
+        "count" : 3,
+        "item" : "Work without a permit complaints where access was obtained and violations were written (%)"
+      }, {
+        "count" : 2,
+        "item" : "Workforce1 systemwide job placements"
+      }, {
+        "count" : 1,
+        "item" : "Working families residing in public housing (cumulative) (%)"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46286638,
+    "name" : "Subindicator Sequence",
+    "dataTypeName" : "number",
+    "fieldName" : "subindicator_sequence",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7783264,
+    "width" : 181,
+    "cachedContents" : {
+      "non_null" : 23728,
+      "smallest" : "0",
+      "sum" : "1389879",
+      "null" : 0,
+      "average" : "58.57548044504383",
+      "largest" : "503",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "414"
+      }, {
+        "count" : 18,
+        "item" : "402"
+      }, {
+        "count" : 17,
+        "item" : "403"
+      }, {
+        "count" : 16,
+        "item" : "404"
+      }, {
+        "count" : 15,
+        "item" : "405"
+      }, {
+        "count" : 14,
+        "item" : "406"
+      }, {
+        "count" : 13,
+        "item" : "407"
+      }, {
+        "count" : 12,
+        "item" : "408"
+      }, {
+        "count" : 11,
+        "item" : "409"
+      }, {
+        "count" : 10,
+        "item" : "501"
+      }, {
+        "count" : 9,
+        "item" : "502"
+      }, {
+        "count" : 8,
+        "item" : "503"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46286639,
+    "name" : "Record Type",
+    "dataTypeName" : "text",
+    "fieldName" : "record_type",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7783265,
+    "width" : 124,
+    "cachedContents" : {
+      "non_null" : 23728,
+      "smallest" : "IND",
+      "null" : 0,
+      "largest" : "INQ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "INQ"
+      }, {
+        "count" : 19,
+        "item" : "IND"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46286640,
+    "name" : "Desired Direction",
+    "dataTypeName" : "text",
+    "fieldName" : "desired_direction",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7783266,
+    "width" : 162,
+    "cachedContents" : {
+      "non_null" : 23728,
+      "smallest" : "Down",
+      "null" : 0,
+      "largest" : "Up",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NA"
+      }, {
+        "count" : 19,
+        "item" : "Down"
+      }, {
+        "count" : 18,
+        "item" : "Neutral"
+      }, {
+        "count" : 17,
+        "item" : "Up"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46286641,
+    "name" : "Critical Flag",
+    "dataTypeName" : "text",
+    "fieldName" : "critical_flag",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7783267,
+    "width" : 125,
+    "cachedContents" : {
+      "non_null" : 23728,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NA"
+      }, {
+        "count" : 19,
+        "item" : "N"
+      }, {
+        "count" : 18,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46286642,
+    "name" : "Geography",
+    "dataTypeName" : "text",
+    "fieldName" : "geography",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7783268,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 23728,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NA"
+      }, {
+        "count" : 19,
+        "item" : "Citywide"
+      }, {
+        "count" : 18,
+        "item" : "Community Board Manhattan 08"
+      }, {
+        "count" : 17,
+        "item" : "Community Board Manhattan 09"
+      }, {
+        "count" : 16,
+        "item" : "Community Board Queens 01"
+      }, {
+        "count" : 15,
+        "item" : "Community Board Queens 10"
+      }, {
+        "count" : 14,
+        "item" : "Community Board Queens 11"
+      }, {
+        "count" : 13,
+        "item" : "Community Board Queens 12"
+      }, {
+        "count" : 12,
+        "item" : "Community Board Queens 13"
+      }, {
+        "count" : 11,
+        "item" : "Community Board Queens 14"
+      }, {
+        "count" : 10,
+        "item" : "Community Board Queens 02"
+      }, {
+        "count" : 9,
+        "item" : "Community Board Queens 03"
+      }, {
+        "count" : 8,
+        "item" : "Community Board Queens 04"
+      }, {
+        "count" : 7,
+        "item" : "Community Board Queens 05"
+      }, {
+        "count" : 6,
+        "item" : "Community Board Queens 06"
+      }, {
+        "count" : 5,
+        "item" : "Community Board Queens 07"
+      }, {
+        "count" : 4,
+        "item" : "Community Board Queens 08"
+      }, {
+        "count" : 3,
+        "item" : "Community Board Queens 09"
+      }, {
+        "count" : 2,
+        "item" : "Community Board Staten Island 01"
+      }, {
+        "count" : 1,
+        "item" : "Community Board Staten Island 02"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46286643,
+    "name" : "Measure Type",
+    "dataTypeName" : "text",
+    "fieldName" : "measure_type",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7783269,
+    "width" : 129,
+    "cachedContents" : {
+      "non_null" : 8269,
+      "smallest" : "% of Inquiries",
+      "null" : 15459,
+      "largest" : "Total",
+      "top" : [ {
+        "count" : 20,
+        "item" : "% of Inquiries"
+      }, {
+        "count" : 19,
+        "item" : "Rank"
+      }, {
+        "count" : 18,
+        "item" : "Total"
+      }, {
+        "count" : 17,
+        "item" : "PMMR"
+      }, {
+        "count" : 16,
+        "item" : "Target"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46286644,
+    "name" : "Fiscal Year",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 12,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7783270,
+    "width" : 119,
+    "cachedContents" : {
+      "non_null" : 23728,
+      "smallest" : "2010",
+      "sum" : "47732895",
+      "null" : 0,
+      "average" : "2011.669546527310",
+      "largest" : "2014",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2012"
+      }, {
+        "count" : 19,
+        "item" : "2013"
+      }, {
+        "count" : 18,
+        "item" : "2011"
+      }, {
+        "count" : 17,
+        "item" : "2010"
+      }, {
+        "count" : 16,
+        "item" : "2014"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 46286645,
+    "name" : "Conditional Format",
+    "dataTypeName" : "text",
+    "fieldName" : "conditional_format",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7783271,
+    "width" : 161,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 23728
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46286646,
+    "name" : "Raw Value",
+    "dataTypeName" : "number",
+    "fieldName" : "raw_value",
+    "position" : 14,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7783272,
+    "width" : 137,
+    "cachedContents" : {
+      "non_null" : 17669,
+      "smallest" : "0",
+      "sum" : "5855670995.713198761015460",
+      "null" : 6059,
+      "average" : "331409.3041888731",
+      "largest" : "1046711744",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "0.1"
+      }, {
+        "count" : 18,
+        "item" : "18"
+      }, {
+        "count" : 17,
+        "item" : "10"
+      }, {
+        "count" : 16,
+        "item" : "4"
+      }, {
+        "count" : 15,
+        "item" : "14"
+      }, {
+        "count" : 14,
+        "item" : "2"
+      }, {
+        "count" : 13,
+        "item" : "0.03"
+      }, {
+        "count" : 12,
+        "item" : "85"
+      }, {
+        "count" : 11,
+        "item" : "62"
+      }, {
+        "count" : 10,
+        "item" : "50"
+      }, {
+        "count" : 9,
+        "item" : "76.8"
+      }, {
+        "count" : 8,
+        "item" : "36.36"
+      }, {
+        "count" : 7,
+        "item" : "72.5"
+      }, {
+        "count" : 6,
+        "item" : "59.5"
+      }, {
+        "count" : 5,
+        "item" : "54"
+      }, {
+        "count" : 4,
+        "item" : "53"
+      }, {
+        "count" : 3,
+        "item" : "25519"
+      }, {
+        "count" : 2,
+        "item" : "26098"
+      }, {
+        "count" : 1,
+        "item" : "26683"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46286647,
+    "name" : "Format Type",
+    "dataTypeName" : "text",
+    "fieldName" : "format_type",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7783273,
+    "width" : 129,
+    "cachedContents" : {
+      "non_null" : 23728,
+      "smallest" : "C",
+      "null" : 0,
+      "largest" : "T",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "P"
+      }, {
+        "count" : 18,
+        "item" : "C"
+      }, {
+        "count" : 17,
+        "item" : "T"
+      }, {
+        "count" : 16,
+        "item" : "R"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46286648,
+    "name" : "Value Percent",
+    "dataTypeName" : "percent",
+    "fieldName" : "value_percent",
+    "position" : 16,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 7783274,
+    "width" : 132,
+    "cachedContents" : {
+      "non_null" : 4243,
+      "smallest" : "0",
+      "sum" : "246934.57",
+      "null" : 19485,
+      "average" : "58.19810747112892",
+      "largest" : "169.4",
+      "top" : [ {
+        "count" : 20,
+        "item" : "100"
+      }, {
+        "count" : 19,
+        "item" : "100.0"
+      }, {
+        "count" : 18,
+        "item" : "0.8"
+      }, {
+        "count" : 17,
+        "item" : "0.3"
+      }, {
+        "count" : 16,
+        "item" : "0.4"
+      }, {
+        "count" : 15,
+        "item" : "0.2"
+      }, {
+        "count" : 14,
+        "item" : "0.0"
+      }, {
+        "count" : 13,
+        "item" : "0.1"
+      }, {
+        "count" : 12,
+        "item" : "99.99"
+      }, {
+        "count" : 11,
+        "item" : "98"
+      }, {
+        "count" : 10,
+        "item" : "80"
+      }, {
+        "count" : 9,
+        "item" : "85"
+      }, {
+        "count" : 8,
+        "item" : "3.6"
+      }, {
+        "count" : 7,
+        "item" : "99.9"
+      }, {
+        "count" : 6,
+        "item" : "96"
+      }, {
+        "count" : 5,
+        "item" : "95"
+      }, {
+        "count" : 4,
+        "item" : "86"
+      }, {
+        "count" : 3,
+        "item" : "79"
+      }, {
+        "count" : 2,
+        "item" : "81"
+      }, {
+        "count" : 1,
+        "item" : "60"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46286649,
+    "name" : "Value Number",
+    "dataTypeName" : "number",
+    "fieldName" : "value_number",
+    "position" : 17,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7783275,
+    "width" : 132,
+    "cachedContents" : {
+      "non_null" : 12917,
+      "smallest" : "0",
+      "sum" : "464728148.6100",
+      "null" : 10811,
+      "average" : "35978.02497561353",
+      "largest" : "22178000",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "0"
+      }, {
+        "count" : 18,
+        "item" : "5"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "3"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "10"
+      }, {
+        "count" : 13,
+        "item" : "2"
+      }, {
+        "count" : 12,
+        "item" : "7"
+      }, {
+        "count" : 11,
+        "item" : "15"
+      }, {
+        "count" : 10,
+        "item" : "8"
+      }, {
+        "count" : 9,
+        "item" : "9"
+      }, {
+        "count" : 8,
+        "item" : "12"
+      }, {
+        "count" : 7,
+        "item" : "13"
+      }, {
+        "count" : 6,
+        "item" : "30900"
+      }, {
+        "count" : 5,
+        "item" : "1360"
+      }, {
+        "count" : 4,
+        "item" : "0.03"
+      }, {
+        "count" : 3,
+        "item" : "0.35"
+      }, {
+        "count" : 2,
+        "item" : "77"
+      }, {
+        "count" : 1,
+        "item" : "85"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46286650,
+    "name" : "Value Currency",
+    "dataTypeName" : "money",
+    "fieldName" : "value_currency",
+    "position" : 18,
+    "renderTypeName" : "money",
+    "tableColumnId" : 7783276,
+    "width" : 141,
+    "cachedContents" : {
+      "non_null" : 369,
+      "smallest" : "0",
+      "sum" : "4155435944.14",
+      "null" : 23359,
+      "average" : "11261344.02205962",
+      "largest" : "523355872",
+      "top" : [ {
+        "count" : 20,
+        "item" : "158885250"
+      }, {
+        "count" : 19,
+        "item" : "0"
+      }, {
+        "count" : 18,
+        "item" : "12155"
+      }, {
+        "count" : 17,
+        "item" : "8115733"
+      }, {
+        "count" : 16,
+        "item" : "9443357"
+      }, {
+        "count" : 15,
+        "item" : "14231239"
+      }, {
+        "count" : 14,
+        "item" : "3141751"
+      }, {
+        "count" : 13,
+        "item" : "3414460"
+      }, {
+        "count" : 12,
+        "item" : "3447483"
+      }, {
+        "count" : 11,
+        "item" : "1148960"
+      }, {
+        "count" : 10,
+        "item" : "1158808"
+      }, {
+        "count" : 9,
+        "item" : "249525975"
+      }, {
+        "count" : 8,
+        "item" : "272167455"
+      }, {
+        "count" : 7,
+        "item" : "318428510"
+      }, {
+        "count" : 6,
+        "item" : "25394476"
+      }, {
+        "count" : 5,
+        "item" : "24140826"
+      }, {
+        "count" : 4,
+        "item" : "25482870"
+      }, {
+        "count" : 3,
+        "item" : "5.80"
+      }, {
+        "count" : 2,
+        "item" : "5.20"
+      }, {
+        "count" : 1,
+        "item" : "6.70"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46286651,
+    "name" : "Value Time",
+    "dataTypeName" : "text",
+    "fieldName" : "value_time",
+    "position" : 19,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7783277,
+    "width" : 121,
+    "cachedContents" : {
+      "non_null" : 135,
+      "smallest" : "0:15",
+      "null" : 23593,
+      "largest" : "N/A",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4:20"
+      }, {
+        "count" : 19,
+        "item" : "4:08"
+      }, {
+        "count" : 18,
+        "item" : "1:00"
+      }, {
+        "count" : 17,
+        "item" : "0:30"
+      }, {
+        "count" : 16,
+        "item" : "0:25"
+      }, {
+        "count" : 15,
+        "item" : "0:20"
+      }, {
+        "count" : 14,
+        "item" : "5:41"
+      }, {
+        "count" : 13,
+        "item" : "5:33"
+      }, {
+        "count" : 12,
+        "item" : "81:58"
+      }, {
+        "count" : 11,
+        "item" : "69:38"
+      }, {
+        "count" : 10,
+        "item" : "N/A"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46286652,
+    "name" : "Value Ratio",
+    "dataTypeName" : "text",
+    "fieldName" : "value_ratio",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7783278,
+    "width" : 140,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "3:1",
+      "null" : 23721,
+      "largest" : "3:1",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3:1"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "metadata_table", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "x5jh-tg6w",
+    "displayName" : "Hiko Naito",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/2839/1623/hiko_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/2839/1623/hiko_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/2839/1623/hiko_tiny.jpg",
+    "profileLastModified" : 1361831877,
+    "screenName" : "Hiko Naito",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ],
+    "flags" : [ "admin" ]
+  },
+  "flags" : [ "default" ]
+}

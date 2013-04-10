@@ -1,0 +1,230 @@
+{
+  "id" : "3955-c36a",
+  "name" : "New York City Health and Hospitals Corporation (HHC): HHC Options (common fees)",
+  "attribution" : "Health and Hospitals Corporation (HHC)",
+  "averageRating" : 0,
+  "category" : "Health",
+  "createdAt" : 1317407439,
+  "description" : "Through HHC Options, low and moderate-income HHC patients can get affordable healthcare.  Based on the Level determined by family size and income, this table shows some of the most common fees paid for healthcare services through HHC options.\r\nUpdate Frequency: As needed",
+  "displayType" : "table",
+  "downloadCount" : 18,
+  "numberOfComments" : 0,
+  "oid" : 337514,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318361098,
+  "publicationGroup" : 242185,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1317407443,
+  "rowsUpdatedBy" : "k2fz-tf56",
+  "signed" : false,
+  "tableId" : 242185,
+  "totalTimesRated" : 0,
+  "viewCount" : 157,
+  "viewLastModified" : 1363729376,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2909990,
+    "name" : "Service",
+    "dataTypeName" : "text",
+    "fieldName" : "service",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1540101,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 42,
+      "smallest" : "Ambulatory Surgery and MRI testing for adults and children",
+      "null" : 0,
+      "largest" : "Prescription Drugs or Pharmacy co-pays per prescription",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Clinic or emergency room visit for adults"
+      }, {
+        "count" : 19,
+        "item" : "Clinic or emergency room visit for children or pregnant women"
+      }, {
+        "count" : 18,
+        "item" : "Patient co-pays and deductibles"
+      }, {
+        "count" : 17,
+        "item" : "Prescription Drugs or Pharmacy co-pays per prescription"
+      }, {
+        "count" : 16,
+        "item" : "Ambulatory Surgery and MRI testing for adults and children"
+      }, {
+        "count" : 15,
+        "item" : "Hospital Stays, if your savings are less than $8,000."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2909991,
+    "name" : "HHC Options Reduced Fee Level",
+    "dataTypeName" : "number",
+    "fieldName" : "hhc_options_reduced_fee_level",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1540102,
+    "width" : 448,
+    "cachedContents" : {
+      "non_null" : 42,
+      "smallest" : "1",
+      "sum" : "168",
+      "null" : 0,
+      "average" : "4",
+      "largest" : "7",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2909992,
+    "name" : "Fee",
+    "dataTypeName" : "money",
+    "fieldName" : "fee",
+    "position" : 4,
+    "renderTypeName" : "money",
+    "tableColumnId" : 1540103,
+    "width" : 136,
+    "cachedContents" : {
+      "non_null" : 36,
+      "smallest" : "0",
+      "sum" : "13857",
+      "null" : 6,
+      "average" : "384.9166666666667",
+      "largest" : "5000",
+      "top" : [ {
+        "count" : 20,
+        "item" : "15"
+      }, {
+        "count" : 19,
+        "item" : "20"
+      }, {
+        "count" : 18,
+        "item" : "30"
+      }, {
+        "count" : 17,
+        "item" : "40"
+      }, {
+        "count" : 16,
+        "item" : "50"
+      }, {
+        "count" : 15,
+        "item" : "60"
+      }, {
+        "count" : 14,
+        "item" : "0"
+      }, {
+        "count" : 13,
+        "item" : "10"
+      }, {
+        "count" : 12,
+        "item" : "12"
+      }, {
+        "count" : 11,
+        "item" : "18"
+      }, {
+        "count" : 10,
+        "item" : "2"
+      }, {
+        "count" : 9,
+        "item" : "6"
+      }, {
+        "count" : 8,
+        "item" : "14"
+      }, {
+        "count" : 7,
+        "item" : "22"
+      }, {
+        "count" : 6,
+        "item" : "150"
+      }, {
+        "count" : 5,
+        "item" : "250"
+      }, {
+        "count" : 4,
+        "item" : "350"
+      }, {
+        "count" : 3,
+        "item" : "450"
+      }, {
+        "count" : 2,
+        "item" : "550"
+      }, {
+        "count" : 1,
+        "item" : "650"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "jobs and economic mobility", "health", "patient", "healthcare", "healthcare provider", "hospital", "income", "family affordable healthcare", "fees", "healthy living" ],
+  "flags" : [ "default" ]
+}

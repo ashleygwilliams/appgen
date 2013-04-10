@@ -1,0 +1,713 @@
+{
+  "id" : "5uug-f49n",
+  "name" : "Harbor Sampling Data",
+  "attribution" : "Department of Environmental Protection (DEP)",
+  "attributionLink" : "http://www.nyc.gov/html/dep/html/harborwater/harbor_water_sampling_results.shtml",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1359606492,
+  "description" : "Harbor water sampling information",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2395787,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359656913,
+  "publicationGroup" : 647334,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1359656750,
+  "rowsUpdatedBy" : "ya7g-926w",
+  "signed" : false,
+  "tableId" : 648718,
+  "totalTimesRated" : 0,
+  "viewCount" : 33,
+  "viewLastModified" : 1363712924,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 42281761,
+    "name" : "Site",
+    "dataTypeName" : "text",
+    "fieldName" : "site",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7417745,
+    "width" : 61,
+    "cachedContents" : {
+      "non_null" : 1938,
+      "smallest" : "AC1",
+      "null" : 0,
+      "largest" : "SP2",
+      "top" : [ {
+        "count" : 20,
+        "item" : "GB1"
+      }, {
+        "count" : 19,
+        "item" : "F5"
+      }, {
+        "count" : 18,
+        "item" : "J14"
+      }, {
+        "count" : 17,
+        "item" : "J16"
+      }, {
+        "count" : 16,
+        "item" : "HC1"
+      }, {
+        "count" : 15,
+        "item" : "HC2"
+      }, {
+        "count" : 14,
+        "item" : "SP1"
+      }, {
+        "count" : 13,
+        "item" : "K4"
+      }, {
+        "count" : 12,
+        "item" : "K5"
+      }, {
+        "count" : 11,
+        "item" : "K5A"
+      }, {
+        "count" : 10,
+        "item" : "K6"
+      }, {
+        "count" : 9,
+        "item" : "N6"
+      }, {
+        "count" : 8,
+        "item" : "N7"
+      }, {
+        "count" : 7,
+        "item" : "N8"
+      }, {
+        "count" : 6,
+        "item" : "NC0"
+      }, {
+        "count" : 5,
+        "item" : "NC1"
+      }, {
+        "count" : 4,
+        "item" : "NC2"
+      }, {
+        "count" : 3,
+        "item" : "NC3"
+      }, {
+        "count" : 2,
+        "item" : "BR5"
+      }, {
+        "count" : 1,
+        "item" : "E10"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 42281802,
+    "name" : "Date",
+    "dataTypeName" : "text",
+    "fieldName" : "date",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7417746,
+    "width" : 79,
+    "cachedContents" : {
+      "non_null" : 1938,
+      "smallest" : "01/02/2013",
+      "null" : 0,
+      "largest" : "12/20/2012",
+      "top" : [ {
+        "count" : 20,
+        "item" : "07/24/2012"
+      }, {
+        "count" : 19,
+        "item" : "07/16/2012"
+      }, {
+        "count" : 18,
+        "item" : "07/09/2012"
+      }, {
+        "count" : 17,
+        "item" : "07/05/2012"
+      }, {
+        "count" : 16,
+        "item" : "06/27/2012"
+      }, {
+        "count" : 15,
+        "item" : "06/25/2012"
+      }, {
+        "count" : 14,
+        "item" : "06/20/2012"
+      }, {
+        "count" : 13,
+        "item" : "06/18/2012"
+      }, {
+        "count" : 12,
+        "item" : "06/13/2012"
+      }, {
+        "count" : 11,
+        "item" : "06/12/2012"
+      }, {
+        "count" : 10,
+        "item" : "06/11/2012"
+      }, {
+        "count" : 9,
+        "item" : "06/06/2012"
+      }, {
+        "count" : 8,
+        "item" : "06/05/2012"
+      }, {
+        "count" : 7,
+        "item" : "06/04/2012"
+      }, {
+        "count" : 6,
+        "item" : "05/31/2012"
+      }, {
+        "count" : 5,
+        "item" : "05/30/2012"
+      }, {
+        "count" : 4,
+        "item" : "05/29/2012"
+      }, {
+        "count" : 3,
+        "item" : "04/04/2012"
+      }, {
+        "count" : 2,
+        "item" : "04/03/2012"
+      }, {
+        "count" : 1,
+        "item" : "04/02/2012"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 42281763,
+    "name" : "DO (mg/L) Top",
+    "dataTypeName" : "text",
+    "fieldName" : "do_mg_l_top",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7417747,
+    "width" : 129,
+    "cachedContents" : {
+      "non_null" : 1938,
+      "smallest" : "0.00",
+      "null" : 0,
+      "largest" : "NS",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NS"
+      }, {
+        "count" : 19,
+        "item" : "7.69"
+      }, {
+        "count" : 18,
+        "item" : "9.84"
+      }, {
+        "count" : 17,
+        "item" : "9.95"
+      }, {
+        "count" : 16,
+        "item" : "8.96"
+      }, {
+        "count" : 15,
+        "item" : "9.53"
+      }, {
+        "count" : 14,
+        "item" : "8.59"
+      }, {
+        "count" : 13,
+        "item" : "7.59"
+      }, {
+        "count" : 12,
+        "item" : "8.78"
+      }, {
+        "count" : 11,
+        "item" : "8.76"
+      }, {
+        "count" : 10,
+        "item" : "8.88"
+      }, {
+        "count" : 9,
+        "item" : "9.55"
+      }, {
+        "count" : 8,
+        "item" : "8.28"
+      }, {
+        "count" : 7,
+        "item" : "8.58"
+      }, {
+        "count" : 6,
+        "item" : "8.82"
+      }, {
+        "count" : 5,
+        "item" : "10.60"
+      }, {
+        "count" : 4,
+        "item" : "11.77"
+      }, {
+        "count" : 3,
+        "item" : "9.97"
+      }, {
+        "count" : 2,
+        "item" : "10.72"
+      }, {
+        "count" : 1,
+        "item" : "7.66"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 42281764,
+    "name" : "DO (mg/L) Bot",
+    "dataTypeName" : "text",
+    "fieldName" : "do_mg_l_bot",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7417748,
+    "width" : 130,
+    "cachedContents" : {
+      "non_null" : 1938,
+      "smallest" : "0.00",
+      "null" : 0,
+      "largest" : "NS",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NS"
+      }, {
+        "count" : 19,
+        "item" : "10.32"
+      }, {
+        "count" : 18,
+        "item" : "10.19"
+      }, {
+        "count" : 17,
+        "item" : "9.55"
+      }, {
+        "count" : 16,
+        "item" : "9.25"
+      }, {
+        "count" : 15,
+        "item" : "11.02"
+      }, {
+        "count" : 14,
+        "item" : "10.31"
+      }, {
+        "count" : 13,
+        "item" : "10.02"
+      }, {
+        "count" : 12,
+        "item" : "8.74"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 42281765,
+    "name" : "Fecal Coliform (#/100 mL) Top",
+    "dataTypeName" : "text",
+    "fieldName" : "fecal_coliform_100_ml_top",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7417749,
+    "width" : 223,
+    "cachedContents" : {
+      "non_null" : 1937,
+      "smallest" : "1",
+      "null" : 1,
+      "largest" : "NS",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NS"
+      }, {
+        "count" : 19,
+        "item" : "20000"
+      }, {
+        "count" : 18,
+        "item" : "1"
+      }, {
+        "count" : 17,
+        "item" : "11"
+      }, {
+        "count" : 16,
+        "item" : "36"
+      }, {
+        "count" : 15,
+        "item" : "3"
+      }, {
+        "count" : 14,
+        "item" : "4"
+      }, {
+        "count" : 13,
+        "item" : "5"
+      }, {
+        "count" : 12,
+        "item" : "6"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "13"
+      }, {
+        "count" : 9,
+        "item" : "9"
+      }, {
+        "count" : 8,
+        "item" : "15"
+      }, {
+        "count" : 7,
+        "item" : "25"
+      }, {
+        "count" : 6,
+        "item" : "28"
+      }, {
+        "count" : 5,
+        "item" : "7"
+      }, {
+        "count" : 4,
+        "item" : "12"
+      }, {
+        "count" : 3,
+        "item" : "14"
+      }, {
+        "count" : 2,
+        "item" : "102"
+      }, {
+        "count" : 1,
+        "item" : "212"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 42281766,
+    "name" : "Fecal Coliform (#/100 mL) Bot",
+    "dataTypeName" : "text",
+    "fieldName" : "fecal_coliform_100_ml_bot",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7417750,
+    "width" : 218,
+    "cachedContents" : {
+      "non_null" : 1938,
+      "smallest" : "100",
+      "null" : 0,
+      "largest" : "NS",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NS"
+      }, {
+        "count" : 19,
+        "item" : "200000"
+      }, {
+        "count" : 18,
+        "item" : "620"
+      }, {
+        "count" : 17,
+        "item" : "108"
+      }, {
+        "count" : 16,
+        "item" : "3"
+      }, {
+        "count" : 15,
+        "item" : "88"
+      }, {
+        "count" : 14,
+        "item" : "8"
+      }, {
+        "count" : 13,
+        "item" : "40"
+      }, {
+        "count" : 12,
+        "item" : "28"
+      }, {
+        "count" : 11,
+        "item" : "13"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 42281767,
+    "name" : "Enterococcus (#/100 mL) Top",
+    "dataTypeName" : "text",
+    "fieldName" : "enterococcus_100_ml_top",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7417751,
+    "width" : 216,
+    "cachedContents" : {
+      "non_null" : 1938,
+      "smallest" : "1",
+      "null" : 0,
+      "largest" : "NS",
+      "top" : [ {
+        "count" : 20,
+        "item" : "12"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "10"
+      }, {
+        "count" : 17,
+        "item" : "5"
+      }, {
+        "count" : 16,
+        "item" : "8"
+      }, {
+        "count" : 15,
+        "item" : "4"
+      }, {
+        "count" : 14,
+        "item" : "1"
+      }, {
+        "count" : 13,
+        "item" : "3"
+      }, {
+        "count" : 12,
+        "item" : "28"
+      }, {
+        "count" : 11,
+        "item" : "6"
+      }, {
+        "count" : 10,
+        "item" : "16"
+      }, {
+        "count" : 9,
+        "item" : "NS"
+      }, {
+        "count" : 8,
+        "item" : "20"
+      }, {
+        "count" : 7,
+        "item" : "14"
+      }, {
+        "count" : 6,
+        "item" : "2000"
+      }, {
+        "count" : 5,
+        "item" : "40"
+      }, {
+        "count" : 4,
+        "item" : "30"
+      }, {
+        "count" : 3,
+        "item" : "15"
+      }, {
+        "count" : 2,
+        "item" : "7"
+      }, {
+        "count" : 1,
+        "item" : "9"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 42281768,
+    "name" : "Enterococcus (#/100 mL) Bot",
+    "dataTypeName" : "text",
+    "fieldName" : "enterococcus_100_ml_bot",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7417752,
+    "width" : 213,
+    "cachedContents" : {
+      "non_null" : 1938,
+      "smallest" : "10",
+      "null" : 0,
+      "largest" : "NS",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NS"
+      }, {
+        "count" : 19,
+        "item" : "24"
+      }, {
+        "count" : 18,
+        "item" : "44"
+      }, {
+        "count" : 17,
+        "item" : "20"
+      }, {
+        "count" : 16,
+        "item" : "50"
+      }, {
+        "count" : 15,
+        "item" : "80"
+      }, {
+        "count" : 14,
+        "item" : "36"
+      }, {
+        "count" : 13,
+        "item" : "16"
+      }, {
+        "count" : 12,
+        "item" : "28"
+      }, {
+        "count" : 11,
+        "item" : "12"
+      }, {
+        "count" : 10,
+        "item" : "4"
+      }, {
+        "count" : 9,
+        "item" : "64"
+      }, {
+        "count" : 8,
+        "item" : "112"
+      }, {
+        "count" : 7,
+        "item" : "720"
+      }, {
+        "count" : 6,
+        "item" : "100"
+      }, {
+        "count" : 5,
+        "item" : "40"
+      }, {
+        "count" : 4,
+        "item" : "8"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 42281769,
+    "name" : "Transparency (Secchi) ft.",
+    "dataTypeName" : "text",
+    "fieldName" : "transparency_secchi_ft",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7417753,
+    "width" : 188,
+    "cachedContents" : {
+      "non_null" : 1938,
+      "smallest" : "0.5",
+      "null" : 0,
+      "largest" : "NS",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NS"
+      }, {
+        "count" : 19,
+        "item" : "2.5"
+      }, {
+        "count" : 18,
+        "item" : "3.0"
+      }, {
+        "count" : 17,
+        "item" : "5.5"
+      }, {
+        "count" : 16,
+        "item" : "5.0"
+      }, {
+        "count" : 15,
+        "item" : "3.5"
+      }, {
+        "count" : 14,
+        "item" : "4.0"
+      }, {
+        "count" : 13,
+        "item" : "7.5"
+      }, {
+        "count" : 12,
+        "item" : "4.5"
+      }, {
+        "count" : 11,
+        "item" : "6.0"
+      }, {
+        "count" : 10,
+        "item" : "2.0"
+      }, {
+        "count" : 9,
+        "item" : "1.5"
+      }, {
+        "count" : 8,
+        "item" : "1.0"
+      }, {
+        "count" : 7,
+        "item" : "7.0"
+      }, {
+        "count" : 6,
+        "item" : "6.5"
+      }, {
+        "count" : 5,
+        "item" : "8.0"
+      }, {
+        "count" : 4,
+        "item" : "9.0"
+      }, {
+        "count" : 3,
+        "item" : "10.0"
+      }, {
+        "count" : 2,
+        "item" : "8.5"
+      }, {
+        "count" : 1,
+        "item" : "9.5"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ya7g-926w",
+    "displayName" : "Aakash Dalwani",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1363663581,
+    "roleName" : "publisher",
+    "screenName" : "Aakash Dalwani",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ya7g-926w",
+    "displayName" : "Aakash Dalwani",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1363663581,
+    "roleName" : "publisher",
+    "screenName" : "Aakash Dalwani",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dep", "department of environmental protection", "environment", "water", "harbor", "sample", "sampling", "harbor sampling data", "healthy living" ],
+  "flags" : [ "default" ]
+}

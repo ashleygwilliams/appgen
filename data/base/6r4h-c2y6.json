@@ -1,0 +1,1547 @@
+{
+  "id" : "6r4h-c2y6",
+  "name" : "Sustainability Indicators (2012)",
+  "attribution" : "Mayor's Office of Long-Term Planning and Sustainability (OLTPS)",
+  "attributionLink" : "https://nycopendata.socrata.com/Environmental-Sustainability/Sustainability-Indicators-2012-/vnwz-ihnf",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1340992568,
+  "description" : "The sustainability indicators are used by the Mayor's Office of Long-Term Planning and Sustainability to track the progress of the PlaNYC program.",
+  "displayType" : "table",
+  "downloadCount" : 26,
+  "numberOfComments" : 0,
+  "oid" : 812921,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1340993005,
+  "publicationGroup" : 370695,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1340992910,
+  "rowsUpdatedBy" : "x539-akqs",
+  "signed" : false,
+  "tableId" : 370695,
+  "totalTimesRated" : 0,
+  "viewCount" : 149,
+  "viewLastModified" : 1360854936,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 12105902,
+    "name" : "Category",
+    "dataTypeName" : "text",
+    "fieldName" : "category",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318129,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 30,
+      "smallest" : "Air quality",
+      "null" : 0,
+      "largest" : "Waterways",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Housing and Neighborhoods"
+      }, {
+        "count" : 19,
+        "item" : "Parks and Public Space"
+      }, {
+        "count" : 18,
+        "item" : "Brownfields"
+      }, {
+        "count" : 17,
+        "item" : "Waterways"
+      }, {
+        "count" : 16,
+        "item" : "Water supply"
+      }, {
+        "count" : 15,
+        "item" : "Transportation"
+      }, {
+        "count" : 14,
+        "item" : "Energy"
+      }, {
+        "count" : 13,
+        "item" : "Air quality"
+      }, {
+        "count" : 12,
+        "item" : "Solid waste"
+      }, {
+        "count" : 11,
+        "item" : "Climate change"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12105903,
+    "name" : "ID",
+    "dataTypeName" : "text",
+    "fieldName" : "id",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318130,
+    "width" : 124,
+    "cachedContents" : {
+      "non_null" : 30,
+      "smallest" : "10a1",
+      "null" : 0,
+      "largest" : "9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1a1"
+      }, {
+        "count" : 19,
+        "item" : "1a2"
+      }, {
+        "count" : 18,
+        "item" : "1b1"
+      }, {
+        "count" : 17,
+        "item" : "1b2"
+      }, {
+        "count" : 16,
+        "item" : "1c1"
+      }, {
+        "count" : 15,
+        "item" : "1c2"
+      }, {
+        "count" : 14,
+        "item" : "2"
+      }, {
+        "count" : 13,
+        "item" : "3a1"
+      }, {
+        "count" : 12,
+        "item" : "3a2"
+      }, {
+        "count" : 11,
+        "item" : "4a"
+      }, {
+        "count" : 10,
+        "item" : "4b"
+      }, {
+        "count" : 9,
+        "item" : "5a"
+      }, {
+        "count" : 8,
+        "item" : "5b"
+      }, {
+        "count" : 7,
+        "item" : "6a1"
+      }, {
+        "count" : 6,
+        "item" : "6a2"
+      }, {
+        "count" : 5,
+        "item" : "6b"
+      }, {
+        "count" : 4,
+        "item" : "6c1"
+      }, {
+        "count" : 3,
+        "item" : "6c2"
+      }, {
+        "count" : 2,
+        "item" : "6c3"
+      }, {
+        "count" : 1,
+        "item" : "7a"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12105904,
+    "name" : "Metric",
+    "dataTypeName" : "text",
+    "fieldName" : "metric",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318131,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 30,
+      "smallest" : "% of bridges meeting state of good repair (FY)",
+      "null" : 0,
+      "largest" : "Water usage per capita (gallons per day) (3 yr rolling avg)",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Increase in new housing units since January 2007"
+      }, {
+        "count" : 19,
+        "item" : "Total units of housing in NYC"
+      }, {
+        "count" : 18,
+        "item" : "% of housing affordable to median-income NYC household"
+      }, {
+        "count" : 17,
+        "item" : "Vacancy rate of least expensive rental apartments"
+      }, {
+        "count" : 16,
+        "item" : "% of new units built within a 1/2 mile of transit"
+      }, {
+        "count" : 15,
+        "item" : "Residential building energy use per capita (source MMBTU) (3 yr rolling avg)"
+      }, {
+        "count" : 14,
+        "item" : "% of New Yorkers that live within a 1/4 mile of a park "
+      }, {
+        "count" : 13,
+        "item" : "Number of vacant tax lots presumed to be contaminated"
+      }, {
+        "count" : 12,
+        "item" : "Number of tax lots remediated in NYC annually through the Brownfield Cleanup Program"
+      }, {
+        "count" : 11,
+        "item" : "Fecal coliform rates in New York Harbor (cells/100mL) (5 yr rolling avg)"
+      }, {
+        "count" : 10,
+        "item" : "Dissolved oxygen rates in New York Harbor (mg/L) (5 yr rolling avg)"
+      }, {
+        "count" : 9,
+        "item" : "Number of drinking water analyses below maximum contaminant level"
+      }, {
+        "count" : 8,
+        "item" : "Water usage per capita (gallons per day) (3 yr rolling avg)"
+      }, {
+        "count" : 7,
+        "item" : "Sustainable transportation mode share (Manhattan CBD bound commute)"
+      }, {
+        "count" : 6,
+        "item" : "Change in transit volume minus change in auto traffic volume since 2007"
+      }, {
+        "count" : 5,
+        "item" : "Vehicle revenue miles (miles transit vehicles travel in revenue service)"
+      }, {
+        "count" : 4,
+        "item" : "% of bridges meeting state of good repair (FY)"
+      }, {
+        "count" : 3,
+        "item" : "% of roads meeting state of good repair (FY)"
+      }, {
+        "count" : 2,
+        "item" : "% of station components meeting a state of good repair"
+      }, {
+        "count" : 1,
+        "item" : "Greenhouse gas emissions per unit of electrical power (lbs CO2e/MWh)"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12105905,
+    "name" : "2030 target",
+    "dataTypeName" : "text",
+    "fieldName" : "target",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318132,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 30,
+      "smallest" : "~314,000",
+      "null" : 0,
+      "largest" : "Positive",
+      "top" : [ {
+        "count" : 20,
+        "item" : "~314,000"
+      }, {
+        "count" : 19,
+        "item" : "Increase"
+      }, {
+        "count" : 18,
+        "item" : "> 70%"
+      }, {
+        "count" : 17,
+        "item" : "Decrease"
+      }, {
+        "count" : 16,
+        "item" : "0.85"
+      }, {
+        "count" : 15,
+        "item" : "Decrease below 200"
+      }, {
+        "count" : 14,
+        "item" : "Increase above 5"
+      }, {
+        "count" : 13,
+        "item" : "100%"
+      }, {
+        "count" : 12,
+        "item" : "Positive"
+      }, {
+        "count" : 11,
+        "item" : "#1 (least)"
+      }, {
+        "count" : 10,
+        "item" : "75%"
+      }, {
+        "count" : 9,
+        "item" : "Down 30%"
+      }, {
+        "count" : 8,
+        "item" : "70"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12105906,
+    "name" : "Base data year",
+    "dataTypeName" : "text",
+    "fieldName" : "base_data_year",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318133,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 30,
+      "smallest" : "2005",
+      "null" : 0,
+      "largest" : "2009",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2006"
+      }, {
+        "count" : 19,
+        "item" : "2005"
+      }, {
+        "count" : 18,
+        "item" : "2008"
+      }, {
+        "count" : 17,
+        "item" : "2007"
+      }, {
+        "count" : 16,
+        "item" : "2009"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12105907,
+    "name" : "Most recent data year",
+    "dataTypeName" : "text",
+    "fieldName" : "most_recent_data_year",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318134,
+    "width" : 352,
+    "cachedContents" : {
+      "non_null" : 30,
+      "smallest" : "2010",
+      "null" : 0,
+      "largest" : "2011",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2011"
+      }, {
+        "count" : 19,
+        "item" : "2010"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12105908,
+    "name" : "Value in base year",
+    "dataTypeName" : "text",
+    "fieldName" : "value_in_base_year",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318135,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 30,
+      "smallest" : "* 147.60",
+      "null" : 0,
+      "largest" : "99.967%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "3,260,856"
+      }, {
+        "count" : 18,
+        "item" : "64.10%"
+      }, {
+        "count" : 17,
+        "item" : "0.98%"
+      }, {
+        "count" : 16,
+        "item" : "86.00%"
+      }, {
+        "count" : 15,
+        "item" : "50.55735022810682"
+      }, {
+        "count" : 14,
+        "item" : "70.0%"
+      }, {
+        "count" : 13,
+        "item" : "28.12"
+      }, {
+        "count" : 12,
+        "item" : "6.58"
+      }, {
+        "count" : 11,
+        "item" : "99.967%"
+      }, {
+        "count" : 10,
+        "item" : "132.78"
+      }, {
+        "count" : 9,
+        "item" : "73.5%"
+      }, {
+        "count" : 8,
+        "item" : "0.0%"
+      }, {
+        "count" : 7,
+        "item" : "* 892,954,616"
+      }, {
+        "count" : 6,
+        "item" : "0.41318124207858054"
+      }, {
+        "count" : 5,
+        "item" : "0.70289999999999997"
+      }, {
+        "count" : 4,
+        "item" : "0.63"
+      }, {
+        "count" : 3,
+        "item" : "789.53"
+      }, {
+        "count" : 2,
+        "item" : "0.00"
+      }, {
+        "count" : 1,
+        "item" : "122.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12105909,
+    "name" : "Value in most recent year",
+    "dataTypeName" : "text",
+    "fieldName" : "value_in_most_recent_year",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318136,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 30,
+      "smallest" : "* 146.91",
+      "null" : 0,
+      "largest" : "99.992%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "122,969"
+      }, {
+        "count" : 19,
+        "item" : "3,352,041"
+      }, {
+        "count" : 18,
+        "item" : "60.00%"
+      }, {
+        "count" : 17,
+        "item" : "1.04%"
+      }, {
+        "count" : 16,
+        "item" : "85.50%"
+      }, {
+        "count" : 15,
+        "item" : "49.335256918924813"
+      }, {
+        "count" : 14,
+        "item" : "75.6%"
+      }, {
+        "count" : 13,
+        "item" : "1500-2000"
+      }, {
+        "count" : 12,
+        "item" : "0"
+      }, {
+        "count" : 11,
+        "item" : "35.32"
+      }, {
+        "count" : 10,
+        "item" : "6.59"
+      }, {
+        "count" : 9,
+        "item" : "99.992%"
+      }, {
+        "count" : 8,
+        "item" : "123.57"
+      }, {
+        "count" : 7,
+        "item" : "73.6%"
+      }, {
+        "count" : 6,
+        "item" : "0.9%"
+      }, {
+        "count" : 5,
+        "item" : "* 924,589,268"
+      }, {
+        "count" : 4,
+        "item" : "0.40699999999999997"
+      }, {
+        "count" : 3,
+        "item" : "0.72299999999999998"
+      }, {
+        "count" : 2,
+        "item" : "0.68"
+      }, {
+        "count" : 1,
+        "item" : "696.90"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12105911,
+    "name" : "Change from base year (if applicable)",
+    "dataTypeName" : "text",
+    "fieldName" : "change_from_base_year_if_applicable",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318138,
+    "width" : 298,
+    "cachedContents" : {
+      "non_null" : 30,
+      "smallest" : "* (0.69)",
+      "null" : 0,
+      "largest" : "N/A",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N/A"
+      }, {
+        "count" : 19,
+        "item" : "91,185"
+      }, {
+        "count" : 18,
+        "item" : "-4.10%"
+      }, {
+        "count" : 17,
+        "item" : "0.06%"
+      }, {
+        "count" : 16,
+        "item" : "-0.5%"
+      }, {
+        "count" : 15,
+        "item" : "-1.2220933091820072"
+      }, {
+        "count" : 14,
+        "item" : "6%"
+      }, {
+        "count" : 13,
+        "item" : "0"
+      }, {
+        "count" : 12,
+        "item" : "* 7.20"
+      }, {
+        "count" : 11,
+        "item" : "1.0684000000001248E-2"
+      }, {
+        "count" : 10,
+        "item" : "0.03%"
+      }, {
+        "count" : 9,
+        "item" : "-9.2126052224067365"
+      }, {
+        "count" : 8,
+        "item" : "0.11%"
+      }, {
+        "count" : 7,
+        "item" : "* 31,634,652"
+      }, {
+        "count" : 6,
+        "item" : "-0.62%"
+      }, {
+        "count" : 5,
+        "item" : "2.0100000000000007E-2"
+      }, {
+        "count" : 4,
+        "item" : "5.0000000000000044E-2"
+      }, {
+        "count" : 3,
+        "item" : "* (92.63)"
+      }, {
+        "count" : 2,
+        "item" : "3.38"
+      }, {
+        "count" : 1,
+        "item" : "-31.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12105912,
+    "name" : "Arrow Direction",
+    "dataTypeName" : "text",
+    "fieldName" : "arrow_direction",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318139,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 29,
+      "smallest" : "Down",
+      "null" : 1,
+      "largest" : "Up",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Up"
+      }, {
+        "count" : 19,
+        "item" : "Down"
+      }, {
+        "count" : 18,
+        "item" : "Neutral"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12105913,
+    "name" : "Status for 2012 PlaNYC update",
+    "dataTypeName" : "text",
+    "fieldName" : "status_for_2012_planyc_update",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318140,
+    "width" : 448,
+    "cachedContents" : {
+      "non_null" : 30,
+      "smallest" : "Updated",
+      "null" : 0,
+      "largest" : "Updated",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Updated"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12105914,
+    "name" : "2000",
+    "dataTypeName" : "text",
+    "fieldName" : "_1",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318141,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "35%",
+      "null" : 25,
+      "largest" : "84%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "67.0%"
+      }, {
+        "count" : 19,
+        "item" : "789,590,854"
+      }, {
+        "count" : 18,
+        "item" : "35%"
+      }, {
+        "count" : 17,
+        "item" : "84%"
+      }, {
+        "count" : 16,
+        "item" : "61.68"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12105915,
+    "name" : "2001",
+    "dataTypeName" : "text",
+    "fieldName" : "_2",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318142,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "38%",
+      "null" : 25,
+      "largest" : "87.09",
+      "top" : [ {
+        "count" : 20,
+        "item" : "71.2%"
+      }, {
+        "count" : 19,
+        "item" : "805,257,180"
+      }, {
+        "count" : 18,
+        "item" : "38%"
+      }, {
+        "count" : 17,
+        "item" : "82%"
+      }, {
+        "count" : 16,
+        "item" : "87.09"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12105916,
+    "name" : "2002",
+    "dataTypeName" : "text",
+    "fieldName" : "_3",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318143,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 9,
+      "smallest" : "1.38%",
+      "null" : 21,
+      "largest" : "825,930,793",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3,208,587"
+      }, {
+        "count" : 19,
+        "item" : "76.10%"
+      }, {
+        "count" : 18,
+        "item" : "1.38%"
+      }, {
+        "count" : 17,
+        "item" : "68.9%"
+      }, {
+        "count" : 16,
+        "item" : "825,930,793"
+      }, {
+        "count" : 15,
+        "item" : "39%"
+      }, {
+        "count" : 14,
+        "item" : "82%"
+      }, {
+        "count" : 13,
+        "item" : "106.52"
+      }, {
+        "count" : 12,
+        "item" : "-8.6%"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12105917,
+    "name" : "2003",
+    "dataTypeName" : "text",
+    "fieldName" : "_4",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318144,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "0.2%",
+      "null" : 23,
+      "largest" : "827,210,454",
+      "top" : [ {
+        "count" : 20,
+        "item" : "67.4%"
+      }, {
+        "count" : 19,
+        "item" : "827,210,454"
+      }, {
+        "count" : 18,
+        "item" : "42%"
+      }, {
+        "count" : 17,
+        "item" : "80%"
+      }, {
+        "count" : 16,
+        "item" : "79.48"
+      }, {
+        "count" : 15,
+        "item" : "7"
+      }, {
+        "count" : 14,
+        "item" : "0.2%"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12105918,
+    "name" : "2004",
+    "dataTypeName" : "text",
+    "fieldName" : "_5",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318145,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 9,
+      "smallest" : "* 35.54",
+      "null" : 21,
+      "largest" : "847,940,459",
+      "top" : [ {
+        "count" : 20,
+        "item" : "* 35.54"
+      }, {
+        "count" : 19,
+        "item" : "* 6.56"
+      }, {
+        "count" : 18,
+        "item" : "68.2%"
+      }, {
+        "count" : 17,
+        "item" : "847,940,459"
+      }, {
+        "count" : 16,
+        "item" : "42%"
+      }, {
+        "count" : 15,
+        "item" : "74%"
+      }, {
+        "count" : 14,
+        "item" : "67.07"
+      }, {
+        "count" : 13,
+        "item" : "7"
+      }, {
+        "count" : 12,
+        "item" : "-4.5%"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12105919,
+    "name" : "2005",
+    "dataTypeName" : "text",
+    "fieldName" : "_6",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318146,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 17,
+      "smallest" : "* 33.98",
+      "null" : 13,
+      "largest" : "913.9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3,260,856"
+      }, {
+        "count" : 19,
+        "item" : "68.50%"
+      }, {
+        "count" : 18,
+        "item" : "1.91%"
+      }, {
+        "count" : 17,
+        "item" : "* 33.98"
+      }, {
+        "count" : 16,
+        "item" : "* 6.58"
+      }, {
+        "count" : 15,
+        "item" : "71.5%"
+      }, {
+        "count" : 14,
+        "item" : "845,173,236"
+      }, {
+        "count" : 13,
+        "item" : "42%"
+      }, {
+        "count" : 12,
+        "item" : "73%"
+      }, {
+        "count" : 11,
+        "item" : "913.9"
+      }, {
+        "count" : 10,
+        "item" : "91.83"
+      }, {
+        "count" : 9,
+        "item" : "7"
+      }, {
+        "count" : 8,
+        "item" : "0.5%"
+      }, {
+        "count" : 7,
+        "item" : "61,567,977"
+      }, {
+        "count" : 6,
+        "item" : "1"
+      }, {
+        "count" : 5,
+        "item" : "113.46"
+      }, {
+        "count" : 4,
+        "item" : "7.61"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12105920,
+    "name" : "2006",
+    "dataTypeName" : "text",
+    "fieldName" : "_7",
+    "position" : 18,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318147,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 14,
+      "smallest" : "* 32.06",
+      "null" : 16,
+      "largest" : "96.72",
+      "top" : [ {
+        "count" : 20,
+        "item" : "* 32.06"
+      }, {
+        "count" : 19,
+        "item" : "* 6.63"
+      }, {
+        "count" : 18,
+        "item" : "72.0%"
+      }, {
+        "count" : 17,
+        "item" : "871,603,207"
+      }, {
+        "count" : 16,
+        "item" : "42%"
+      }, {
+        "count" : 15,
+        "item" : "70%"
+      }, {
+        "count" : 14,
+        "item" : "795.0"
+      }, {
+        "count" : 13,
+        "item" : "105.70"
+      }, {
+        "count" : 12,
+        "item" : "7"
+      }, {
+        "count" : 11,
+        "item" : "-8.2%"
+      }, {
+        "count" : 10,
+        "item" : "55,523,967"
+      }, {
+        "count" : 9,
+        "item" : "0.90183192082655883"
+      }, {
+        "count" : 8,
+        "item" : "96.72"
+      }, {
+        "count" : 7,
+        "item" : "6.85"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12105921,
+    "name" : "2007",
+    "dataTypeName" : "text",
+    "fieldName" : "_8",
+    "position" : 19,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318148,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 21,
+      "smallest" : "* 26,382",
+      "null" : 9,
+      "largest" : "99.9669%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "* 26,382"
+      }, {
+        "count" : 19,
+        "item" : "86%"
+      }, {
+        "count" : 18,
+        "item" : "* 49.52"
+      }, {
+        "count" : 17,
+        "item" : "70.0%"
+      }, {
+        "count" : 16,
+        "item" : "* 28.12"
+      }, {
+        "count" : 15,
+        "item" : "* 6.58"
+      }, {
+        "count" : 14,
+        "item" : "99.9669%"
+      }, {
+        "count" : 13,
+        "item" : "132.78"
+      }, {
+        "count" : 12,
+        "item" : "73.5%"
+      }, {
+        "count" : 11,
+        "item" : "892,954,616"
+      }, {
+        "count" : 10,
+        "item" : "41%"
+      }, {
+        "count" : 9,
+        "item" : "70%"
+      }, {
+        "count" : 8,
+        "item" : "63%"
+      }, {
+        "count" : 7,
+        "item" : "789.5"
+      }, {
+        "count" : 6,
+        "item" : "122.00"
+      }, {
+        "count" : 5,
+        "item" : "6"
+      }, {
+        "count" : 4,
+        "item" : "1.1%"
+      }, {
+        "count" : 3,
+        "item" : "58,898,324"
+      }, {
+        "count" : 2,
+        "item" : "0.95663892666600847"
+      }, {
+        "count" : 1,
+        "item" : "98.99"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12105922,
+    "name" : "2008",
+    "dataTypeName" : "text",
+    "fieldName" : "_9",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318149,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 25,
+      "smallest" : "* 22.88",
+      "null" : 5,
+      "largest" : "99.9284%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "* 50,427"
+      }, {
+        "count" : 19,
+        "item" : "3,328,395"
+      }, {
+        "count" : 18,
+        "item" : "64.10%"
+      }, {
+        "count" : 17,
+        "item" : "0.98%"
+      }, {
+        "count" : 16,
+        "item" : "88%"
+      }, {
+        "count" : 15,
+        "item" : "* 50.56"
+      }, {
+        "count" : 14,
+        "item" : "* 22.88"
+      }, {
+        "count" : 13,
+        "item" : "* 6.61"
+      }, {
+        "count" : 12,
+        "item" : "99.9284%"
+      }, {
+        "count" : 11,
+        "item" : "130.98"
+      }, {
+        "count" : 10,
+        "item" : "75.3%"
+      }, {
+        "count" : 9,
+        "item" : "5.25%"
+      }, {
+        "count" : 8,
+        "item" : "927,917,724"
+      }, {
+        "count" : 7,
+        "item" : "42%"
+      }, {
+        "count" : 6,
+        "item" : "66%"
+      }, {
+        "count" : 5,
+        "item" : "63%"
+      }, {
+        "count" : 4,
+        "item" : "773.1"
+      }, {
+        "count" : 3,
+        "item" : "85.58"
+      }, {
+        "count" : 2,
+        "item" : "147.6"
+      }, {
+        "count" : 1,
+        "item" : "6"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12105923,
+    "name" : "2009",
+    "dataTypeName" : "text",
+    "fieldName" : "_10",
+    "position" : 21,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318150,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 23,
+      "smallest" : "* 19.22",
+      "null" : 7,
+      "largest" : "99.9789%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "* 74,879"
+      }, {
+        "count" : 19,
+        "item" : "88%"
+      }, {
+        "count" : 18,
+        "item" : "* 50.38"
+      }, {
+        "count" : 17,
+        "item" : "* 19.22"
+      }, {
+        "count" : 16,
+        "item" : "* 6.73"
+      }, {
+        "count" : 15,
+        "item" : "99.9789%"
+      }, {
+        "count" : 14,
+        "item" : "128.08"
+      }, {
+        "count" : 13,
+        "item" : "73.5%"
+      }, {
+        "count" : 12,
+        "item" : "2.33%"
+      }, {
+        "count" : 11,
+        "item" : "948,244,833"
+      }, {
+        "count" : 10,
+        "item" : "41%"
+      }, {
+        "count" : 9,
+        "item" : "72%"
+      }, {
+        "count" : 8,
+        "item" : "63%"
+      }, {
+        "count" : 7,
+        "item" : "703.9"
+      }, {
+        "count" : 6,
+        "item" : "69.72"
+      }, {
+        "count" : 5,
+        "item" : "147.8"
+      }, {
+        "count" : 4,
+        "item" : "7"
+      }, {
+        "count" : 3,
+        "item" : "-3.5%"
+      }, {
+        "count" : 2,
+        "item" : "48.9%"
+      }, {
+        "count" : 1,
+        "item" : "54,965,617"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12105924,
+    "name" : "2010",
+    "dataTypeName" : "text",
+    "fieldName" : "_11",
+    "position" : 22,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318151,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 24,
+      "smallest" : "* 21.06",
+      "null" : 6,
+      "largest" : "99.9951%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "* 98,924"
+      }, {
+        "count" : 19,
+        "item" : "78%"
+      }, {
+        "count" : 18,
+        "item" : "* 49.34"
+      }, {
+        "count" : 17,
+        "item" : "73.0%"
+      }, {
+        "count" : 16,
+        "item" : "1500-2000"
+      }, {
+        "count" : 15,
+        "item" : "0"
+      }, {
+        "count" : 14,
+        "item" : "* 21.06"
+      }, {
+        "count" : 13,
+        "item" : "* 6.71"
+      }, {
+        "count" : 12,
+        "item" : "99.9951%"
+      }, {
+        "count" : 11,
+        "item" : "124.67"
+      }, {
+        "count" : 10,
+        "item" : "73.6%"
+      }, {
+        "count" : 9,
+        "item" : "0.87%"
+      }, {
+        "count" : 8,
+        "item" : "924,589,268"
+      }, {
+        "count" : 7,
+        "item" : "72%"
+      }, {
+        "count" : 6,
+        "item" : "65%"
+      }, {
+        "count" : 5,
+        "item" : "696.9"
+      }, {
+        "count" : 4,
+        "item" : "146.9"
+      }, {
+        "count" : 3,
+        "item" : "7"
+      }, {
+        "count" : 2,
+        "item" : "-10.3%"
+      }, {
+        "count" : 1,
+        "item" : "48.4%"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12105925,
+    "name" : "2011",
+    "dataTypeName" : "text",
+    "fieldName" : "_12",
+    "position" : 23,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318152,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 17,
+      "smallest" : "* 122,969",
+      "null" : 13,
+      "largest" : "99.9920%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "* 122,969"
+      }, {
+        "count" : 19,
+        "item" : "3,352,041"
+      }, {
+        "count" : 18,
+        "item" : "60.00%"
+      }, {
+        "count" : 17,
+        "item" : "1.04%"
+      }, {
+        "count" : 16,
+        "item" : "86%"
+      }, {
+        "count" : 15,
+        "item" : "75.6%"
+      }, {
+        "count" : 14,
+        "item" : "1500-2000"
+      }, {
+        "count" : 13,
+        "item" : "0"
+      }, {
+        "count" : 12,
+        "item" : "* 35.32"
+      }, {
+        "count" : 11,
+        "item" : "* 6.59"
+      }, {
+        "count" : 10,
+        "item" : "99.9920%"
+      }, {
+        "count" : 9,
+        "item" : "123.57"
+      }, {
+        "count" : 8,
+        "item" : "41%"
+      }, {
+        "count" : 7,
+        "item" : "72%"
+      }, {
+        "count" : 6,
+        "item" : "68%"
+      }, {
+        "count" : 5,
+        "item" : "3.38"
+      }, {
+        "count" : 4,
+        "item" : "91"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12105926,
+    "name" : "2012",
+    "dataTypeName" : "text",
+    "fieldName" : "_13",
+    "position" : 24,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318153,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 30
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12105927,
+    "name" : "2013",
+    "dataTypeName" : "text",
+    "fieldName" : "_14",
+    "position" : 25,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318154,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 30
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12105928,
+    "name" : "Agency",
+    "dataTypeName" : "text",
+    "fieldName" : "agency",
+    "position" : 26,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318155,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 29,
+      "smallest" : "DCP",
+      "null" : 1,
+      "largest" : "OLTPS",
+      "top" : [ {
+        "count" : 20,
+        "item" : "DCP"
+      }, {
+        "count" : 19,
+        "item" : "HPD"
+      }, {
+        "count" : 18,
+        "item" : "OLTPS"
+      }, {
+        "count" : 17,
+        "item" : "DPR"
+      }, {
+        "count" : 16,
+        "item" : "OER"
+      }, {
+        "count" : 15,
+        "item" : "DEP"
+      }, {
+        "count" : 14,
+        "item" : "DOT"
+      }, {
+        "count" : 13,
+        "item" : "MTA"
+      }, {
+        "count" : 12,
+        "item" : "DOH"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12105929,
+    "name" : "Additional source 1",
+    "dataTypeName" : "text",
+    "fieldName" : "additional_source_1",
+    "position" : 27,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318156,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 10,
+      "smallest" : "CPR",
+      "null" : 20,
+      "largest" : "William Morris",
+      "top" : [ {
+        "count" : 20,
+        "item" : "David Barker"
+      }, {
+        "count" : 19,
+        "item" : "William Morris"
+      }, {
+        "count" : 18,
+        "item" : "http://www.nymtc.org/"
+      }, {
+        "count" : 17,
+        "item" : "Sustainable Streets Index"
+      }, {
+        "count" : 16,
+        "item" : "National Transportation Database"
+      }, {
+        "count" : 15,
+        "item" : "CPR"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12105930,
+    "name" : "Additional source 2",
+    "dataTypeName" : "text",
+    "fieldName" : "additional_source_2",
+    "position" : 28,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318157,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "DEP",
+      "null" : 22,
+      "largest" : "Hub Bound Travel",
+      "top" : [ {
+        "count" : 20,
+        "item" : "DPR"
+      }, {
+        "count" : 19,
+        "item" : "DEP"
+      }, {
+        "count" : 18,
+        "item" : "Hub Bound Travel"
+      }, {
+        "count" : 17,
+        "item" : "DOT"
+      }, {
+        "count" : 16,
+        "item" : "http://www.ntdprogram.gov/ntdprogram/data.htm"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12105931,
+    "name" : "Additional source 3",
+    "dataTypeName" : "text",
+    "fieldName" : "additional_source_3",
+    "position" : 29,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3318158,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 1,
+      "smallest" : "TS2.1",
+      "null" : 29,
+      "largest" : "TS2.1",
+      "top" : [ {
+        "count" : 20,
+        "item" : "TS2.1"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "x539-akqs",
+    "displayName" : "Andrew Nicklin",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/4798/2643/My_Photo_3_large.png",
+    "profileImageUrlMedium" : "/images/profile/4798/2643/My_Photo_3_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/4798/2643/My_Photo_3_tiny.png",
+    "profileLastModified" : 1336858132,
+    "roleName" : "administrator",
+    "screenName" : "Andrew Nicklin",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "sustainability", "oltps", "planyc" ],
+  "flags" : [ "default" ]
+}

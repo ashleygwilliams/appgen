@@ -1,0 +1,959 @@
+{
+  "id" : "fzv4-jan3",
+  "name" : "School Progress Reports - All Schools - 2006-07",
+  "attribution" : "Department of Education (DOE)",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1317933169,
+  "description" : "2006/07 Progress Report results for all schools (data as of 1/14/09)\r\n\r\nPeer indices are calculated differently depending on School Level.  Schools are only compared to other schools in the same School Level (e.g., Elementary, K-8, Middle, High)\r\n\r\n1) Elementary & K-8 - peer index is a value from 0-100.  We use a composite demographic statistic based on % ELL, % SpEd, % Title I free lunch, and % Black/Hispanic.  Higher values indicate student populations with higher need\r\n\r\n2) Middle & High - peer index is a value from 1.00-4.50.  For middle schools, we use the average 4th grade proficiency ratings in ELA and Math for all their students that have 4th grade test scores.  For high schools, we use the average 8th grade proficiency ratings in ELA and Math for all their students that have 8th grade test scores.  Lower values indicate student populations with higher need\r\n\r\n3) D84 / Charter Schools - the overall score does not include the results of the learning environment survey. \r\n\r\n4) Schools for Transfer Students - consists of schools with large populations of high school students transferring from NYC High Schools or from out of state/country.  No peer index value is assigned because this set of schools is its own peer group. The reports contain 3 categories with one additional credit section.  Unlike the HS Progress Report, the Environment Category is only composed of Survey Results.  Performance measures 6-year graduation rate and Progress captures student level improvements in attendance, credit accumulation and Regents passed.  The additional credit section rewards schools demonstrating exceptional achievement (11 credits or more earned per year) among overage/under-credit populations.",
+  "displayType" : "table",
+  "downloadCount" : 20,
+  "numberOfComments" : 0,
+  "oid" : 341247,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318355671,
+  "publicationGroup" : 243560,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1317933171,
+  "rowsUpdatedBy" : "rnig-m3uj",
+  "signed" : false,
+  "tableId" : 243560,
+  "totalTimesRated" : 0,
+  "viewCount" : 73,
+  "viewLastModified" : 1363698344,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2971074,
+    "name" : "DBN",
+    "dataTypeName" : "text",
+    "fieldName" : "dbn",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1557185,
+    "width" : 136,
+    "cachedContents" : {
+      "non_null" : 1262,
+      "smallest" : "01M015",
+      "null" : 0,
+      "largest" : "84X704",
+      "top" : [ {
+        "count" : 20,
+        "item" : "31R080"
+      }, {
+        "count" : 19,
+        "item" : "32K554"
+      }, {
+        "count" : 18,
+        "item" : "32K556"
+      }, {
+        "count" : 17,
+        "item" : "32K564"
+      }, {
+        "count" : 16,
+        "item" : "33K585"
+      }, {
+        "count" : 15,
+        "item" : "79K520"
+      }, {
+        "count" : 14,
+        "item" : "79K553"
+      }, {
+        "count" : 13,
+        "item" : "79K568"
+      }, {
+        "count" : 12,
+        "item" : "79K575"
+      }, {
+        "count" : 11,
+        "item" : "79M515"
+      }, {
+        "count" : 10,
+        "item" : "79M544"
+      }, {
+        "count" : 9,
+        "item" : "79M550"
+      }, {
+        "count" : 8,
+        "item" : "79M560"
+      }, {
+        "count" : 7,
+        "item" : "79M650"
+      }, {
+        "count" : 6,
+        "item" : "79Q540"
+      }, {
+        "count" : 5,
+        "item" : "79R470"
+      }, {
+        "count" : 4,
+        "item" : "79X480"
+      }, {
+        "count" : 3,
+        "item" : "79X560"
+      }, {
+        "count" : 2,
+        "item" : "84K355"
+      }, {
+        "count" : 1,
+        "item" : "84K356"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2971075,
+    "name" : "DISTRICT",
+    "dataTypeName" : "number",
+    "fieldName" : "district",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1557186,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 1262,
+      "smallest" : "1",
+      "sum" : "21823",
+      "null" : 0,
+      "average" : "17.29239302694136",
+      "largest" : "84",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "11"
+      }, {
+        "count" : 9,
+        "item" : "12"
+      }, {
+        "count" : 8,
+        "item" : "13"
+      }, {
+        "count" : 7,
+        "item" : "14"
+      }, {
+        "count" : 6,
+        "item" : "15"
+      }, {
+        "count" : 5,
+        "item" : "16"
+      }, {
+        "count" : 4,
+        "item" : "17"
+      }, {
+        "count" : 3,
+        "item" : "18"
+      }, {
+        "count" : 2,
+        "item" : "19"
+      }, {
+        "count" : 1,
+        "item" : "20"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2971076,
+    "name" : "SCHOOL",
+    "dataTypeName" : "text",
+    "fieldName" : "school",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1557187,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 1262,
+      "smallest" : "47 THE AMERICAN SIGN LANGUAGE AND ENGLISH DUAL LAN",
+      "null" : 0,
+      "largest" : "YOUNG WOMEN'S LEADERSHIP SCHOOL QUEENS",
+      "top" : [ {
+        "count" : 20,
+        "item" : "MICHAEL J. PETRIDES HIGH SCHOOL"
+      }, {
+        "count" : 19,
+        "item" : "ALL CITY LEADERSHIP SECONDARY SCHOOL"
+      }, {
+        "count" : 18,
+        "item" : "BUSHWICK LEADERS HIGH SCHOOL FOR ACADEMIC EXCELLEN"
+      }, {
+        "count" : 17,
+        "item" : "BUSHWICK COMMUNITY HIGH SCHOOL"
+      }, {
+        "count" : 16,
+        "item" : "BROOKLYN COMPREHENSIVE NIGHT HIGH SCHOOL"
+      }, {
+        "count" : 15,
+        "item" : "PACIFIC HIGH SCHOOL"
+      }, {
+        "count" : 14,
+        "item" : "BROOKLYN ACADEMY HIGH SCHOOL"
+      }, {
+        "count" : 13,
+        "item" : "BROWNSVILLE ACADEMY HIGH SCHOOL"
+      }, {
+        "count" : 12,
+        "item" : "BEDFORD STUYVESANT PREPARATORY HIGH SCHOOL"
+      }, {
+        "count" : 11,
+        "item" : "LOWER EAST SIDE PREPARATORY HIGH SCHOOL"
+      }, {
+        "count" : 10,
+        "item" : "INDEPENDENCE HIGH SCHOOL"
+      }, {
+        "count" : 9,
+        "item" : "LIBERTY HIGH SCHOOL ACADEMY FOR NEWCOMERS"
+      }, {
+        "count" : 8,
+        "item" : "CITY-AS-SCHOOL HIGH SCHOOL"
+      }, {
+        "count" : 7,
+        "item" : "CASCADES HIGH SCHOOL FOR TEACHING AND LEARNING"
+      }, {
+        "count" : 6,
+        "item" : "QUEENS ACADEMY HIGH SCHOOL"
+      }, {
+        "count" : 5,
+        "item" : "CONCORD HIGH SCHOOL"
+      }, {
+        "count" : 4,
+        "item" : "BRONX REGIONAL HIGH SCHOOL"
+      }, {
+        "count" : 3,
+        "item" : "BRONX ACADEMY HIGH SCHOOL"
+      }, {
+        "count" : 2,
+        "item" : "WILLIAMSBURG COLLEGIATE CHARTER SCHOOL"
+      }, {
+        "count" : 1,
+        "item" : "ACHIEVEMENT FIRST- CROWN HEIGHTS CHARTER SCHOOL"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2971077,
+    "name" : "SCHOOL SUPPORT ORGANIZATION/NETWORK",
+    "dataTypeName" : "text",
+    "fieldName" : "school_support_organization_network",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1557188,
+    "width" : 520,
+    "cachedContents" : {
+      "non_null" : 1262,
+      "smallest" : "AED1",
+      "null" : 0,
+      "largest" : "Replications1",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New Visions1"
+      }, {
+        "count" : 19,
+        "item" : "CLSO3"
+      }, {
+        "count" : 18,
+        "item" : "CLSO4"
+      }, {
+        "count" : 17,
+        "item" : "CLSO5"
+      }, {
+        "count" : 16,
+        "item" : "ESO22"
+      }, {
+        "count" : 15,
+        "item" : "ICI3"
+      }, {
+        "count" : 14,
+        "item" : "ICI1"
+      }, {
+        "count" : 13,
+        "item" : "ESO1"
+      }, {
+        "count" : 12,
+        "item" : "KNLSO1"
+      }, {
+        "count" : 11,
+        "item" : "ICI12"
+      }, {
+        "count" : 10,
+        "item" : "ICI13"
+      }, {
+        "count" : 9,
+        "item" : "ICI2"
+      }, {
+        "count" : 8,
+        "item" : "ICI6"
+      }, {
+        "count" : 7,
+        "item" : "ICI11"
+      }, {
+        "count" : 6,
+        "item" : "ICI14"
+      }, {
+        "count" : 5,
+        "item" : "ESO21"
+      }, {
+        "count" : 4,
+        "item" : "ICI20"
+      }, {
+        "count" : 3,
+        "item" : "KNLSO4"
+      }, {
+        "count" : 2,
+        "item" : "KNLSO5"
+      }, {
+        "count" : 1,
+        "item" : "KNLSO2"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2971078,
+    "name" : "PROGRESS REPORT TYPE",
+    "dataTypeName" : "text",
+    "fieldName" : "progress_report_type",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1557189,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 1262,
+      "smallest" : "ESMS",
+      "null" : 0,
+      "largest" : "HS",
+      "top" : [ {
+        "count" : 20,
+        "item" : "ESMS"
+      }, {
+        "count" : 19,
+        "item" : "HS"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2971079,
+    "name" : "SCHOOL LEVEL*",
+    "dataTypeName" : "text",
+    "fieldName" : "school_level_",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1557190,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 1262,
+      "smallest" : "Elementary School",
+      "null" : 0,
+      "largest" : "Transfer School",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Elementary School"
+      }, {
+        "count" : 19,
+        "item" : "K-8 School"
+      }, {
+        "count" : 18,
+        "item" : "Middle School"
+      }, {
+        "count" : 17,
+        "item" : "High School"
+      }, {
+        "count" : 16,
+        "item" : "Transfer School"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2971080,
+    "name" : "PEER INDEX*",
+    "dataTypeName" : "number",
+    "fieldName" : "peer_index_",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1557191,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 1239,
+      "smallest" : "1.72",
+      "sum" : "43275.914",
+      "null" : 23,
+      "average" : "34.92809846650525",
+      "largest" : "85.51",
+      "top" : [ {
+        "count" : 20,
+        "item" : "58.34"
+      }, {
+        "count" : 19,
+        "item" : "60.8"
+      }, {
+        "count" : 18,
+        "item" : "2.966"
+      }, {
+        "count" : 17,
+        "item" : "3.364"
+      }, {
+        "count" : 16,
+        "item" : "64.99"
+      }, {
+        "count" : 15,
+        "item" : "64.05"
+      }, {
+        "count" : 14,
+        "item" : "41.1"
+      }, {
+        "count" : 13,
+        "item" : "66.4"
+      }, {
+        "count" : 12,
+        "item" : "3.446"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2971081,
+    "name" : "GRADE",
+    "dataTypeName" : "text",
+    "fieldName" : "grade",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1557192,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 1262,
+      "smallest" : "A",
+      "null" : 0,
+      "largest" : "Under Review",
+      "top" : [ {
+        "count" : 20,
+        "item" : "B"
+      }, {
+        "count" : 19,
+        "item" : "C"
+      }, {
+        "count" : 18,
+        "item" : "A"
+      }, {
+        "count" : 17,
+        "item" : "D"
+      }, {
+        "count" : 16,
+        "item" : "F"
+      }, {
+        "count" : 15,
+        "item" : "Under Review"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2971082,
+    "name" : "OVERALL SCORE",
+    "dataTypeName" : "number",
+    "fieldName" : "overall_score",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1557193,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 1261,
+      "smallest" : "-0.447",
+      "sum" : "68193.397",
+      "null" : 1,
+      "average" : "54.07882394924663",
+      "largest" : "117.42",
+      "top" : [ {
+        "count" : 20,
+        "item" : "65.24"
+      }, {
+        "count" : 19,
+        "item" : "50.32"
+      }, {
+        "count" : 18,
+        "item" : "41.15"
+      }, {
+        "count" : 17,
+        "item" : "13.50"
+      }, {
+        "count" : 16,
+        "item" : "31.43"
+      }, {
+        "count" : 15,
+        "item" : "52.72"
+      }, {
+        "count" : 14,
+        "item" : "44.83"
+      }, {
+        "count" : 13,
+        "item" : "54.10"
+      }, {
+        "count" : 12,
+        "item" : "91.38"
+      }, {
+        "count" : 11,
+        "item" : "41.86"
+      }, {
+        "count" : 10,
+        "item" : "48.81"
+      }, {
+        "count" : 9,
+        "item" : "63.15"
+      }, {
+        "count" : 8,
+        "item" : "56.68"
+      }, {
+        "count" : 7,
+        "item" : "37.97"
+      }, {
+        "count" : 6,
+        "item" : "43.40"
+      }, {
+        "count" : 5,
+        "item" : "41.50"
+      }, {
+        "count" : 4,
+        "item" : "34.99"
+      }, {
+        "count" : 3,
+        "item" : "117.42"
+      }, {
+        "count" : 2,
+        "item" : "62.40"
+      }, {
+        "count" : 1,
+        "item" : "91.79"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2971083,
+    "name" : "ENVIRONMENT CATEGORY SCORE",
+    "dataTypeName" : "number",
+    "fieldName" : "environment_category_score",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1557194,
+    "width" : 412,
+    "cachedContents" : {
+      "non_null" : 1261,
+      "smallest" : "-0.141",
+      "sum" : "631.934",
+      "null" : 1,
+      "average" : "0.5011371927042030",
+      "largest" : "1.133",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.847"
+      }, {
+        "count" : 19,
+        "item" : "0.519"
+      }, {
+        "count" : 18,
+        "item" : "0.697"
+      }, {
+        "count" : 17,
+        "item" : "0.336"
+      }, {
+        "count" : 16,
+        "item" : "0.244"
+      }, {
+        "count" : 15,
+        "item" : "0.654"
+      }, {
+        "count" : 14,
+        "item" : "0.312"
+      }, {
+        "count" : 13,
+        "item" : "0.205"
+      }, {
+        "count" : 12,
+        "item" : "0.333"
+      }, {
+        "count" : 11,
+        "item" : "0.527"
+      }, {
+        "count" : 10,
+        "item" : "0.283"
+      }, {
+        "count" : 9,
+        "item" : "0.455"
+      }, {
+        "count" : 8,
+        "item" : "0.736"
+      }, {
+        "count" : 7,
+        "item" : "0.259"
+      }, {
+        "count" : 6,
+        "item" : "0.704"
+      }, {
+        "count" : 5,
+        "item" : "0.436"
+      }, {
+        "count" : 4,
+        "item" : "-0.019"
+      }, {
+        "count" : 3,
+        "item" : "0.952"
+      }, {
+        "count" : 2,
+        "item" : "1.016"
+      }, {
+        "count" : 1,
+        "item" : "1.115"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2971084,
+    "name" : "PERFORMANCE CATEGORY SCORE",
+    "dataTypeName" : "number",
+    "fieldName" : "performance_category_score",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1557195,
+    "width" : 412,
+    "cachedContents" : {
+      "non_null" : 1261,
+      "smallest" : "-0.109",
+      "sum" : "696.814",
+      "null" : 1,
+      "average" : "0.5525884218873910",
+      "largest" : "1.135",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.313"
+      }, {
+        "count" : 19,
+        "item" : "0.432"
+      }, {
+        "count" : 18,
+        "item" : "0.229"
+      }, {
+        "count" : 17,
+        "item" : "0.370"
+      }, {
+        "count" : 16,
+        "item" : "0.531"
+      }, {
+        "count" : 15,
+        "item" : "0.559"
+      }, {
+        "count" : 14,
+        "item" : "0.679"
+      }, {
+        "count" : 13,
+        "item" : "0.727"
+      }, {
+        "count" : 12,
+        "item" : "1.079"
+      }, {
+        "count" : 11,
+        "item" : "0.539"
+      }, {
+        "count" : 10,
+        "item" : "0.164"
+      }, {
+        "count" : 9,
+        "item" : "0.856"
+      }, {
+        "count" : 8,
+        "item" : "0.566"
+      }, {
+        "count" : 7,
+        "item" : "0.440"
+      }, {
+        "count" : 6,
+        "item" : "0.444"
+      }, {
+        "count" : 5,
+        "item" : "0.472"
+      }, {
+        "count" : 4,
+        "item" : "0.990"
+      }, {
+        "count" : 3,
+        "item" : "0.570"
+      }, {
+        "count" : 2,
+        "item" : "0.829"
+      }, {
+        "count" : 1,
+        "item" : "0.653"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2971085,
+    "name" : "PROGRESS CATEGORY SCORE",
+    "dataTypeName" : "number",
+    "fieldName" : "progress_category_score",
+    "position" : 12,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1557196,
+    "width" : 376,
+    "cachedContents" : {
+      "non_null" : 1261,
+      "smallest" : "-0.263",
+      "sum" : "632.975",
+      "null" : 1,
+      "average" : "0.5019627279936558",
+      "largest" : "1.281",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.536"
+      }, {
+        "count" : 19,
+        "item" : "0.463"
+      }, {
+        "count" : 18,
+        "item" : "0.420"
+      }, {
+        "count" : 17,
+        "item" : "-0.048"
+      }, {
+        "count" : 16,
+        "item" : "0.215"
+      }, {
+        "count" : 15,
+        "item" : "0.462"
+      }, {
+        "count" : 14,
+        "item" : "0.360"
+      }, {
+        "count" : 13,
+        "item" : "0.531"
+      }, {
+        "count" : 12,
+        "item" : "0.873"
+      }, {
+        "count" : 11,
+        "item" : "0.296"
+      }, {
+        "count" : 10,
+        "item" : "0.652"
+      }, {
+        "count" : 9,
+        "item" : "0.558"
+      }, {
+        "count" : 8,
+        "item" : "0.521"
+      }, {
+        "count" : 7,
+        "item" : "0.303"
+      }, {
+        "count" : 6,
+        "item" : "0.316"
+      }, {
+        "count" : 5,
+        "item" : "0.380"
+      }, {
+        "count" : 4,
+        "item" : "0.370"
+      }, {
+        "count" : 3,
+        "item" : "1.281"
+      }, {
+        "count" : 2,
+        "item" : "0.519"
+      }, {
+        "count" : 1,
+        "item" : "0.858"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2971086,
+    "name" : "ADDITIONAL CREDIT",
+    "dataTypeName" : "number",
+    "fieldName" : "additional_credit",
+    "position" : 13,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1557197,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 1261,
+      "smallest" : "0",
+      "sum" : "2993.00",
+      "null" : 1,
+      "average" : "2.373513084853291",
+      "largest" : "12",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3"
+      }, {
+        "count" : 19,
+        "item" : "1.5"
+      }, {
+        "count" : 18,
+        "item" : "0.75"
+      }, {
+        "count" : 17,
+        "item" : "0"
+      }, {
+        "count" : 16,
+        "item" : "2.25"
+      }, {
+        "count" : 15,
+        "item" : "8.25"
+      }, {
+        "count" : 14,
+        "item" : "4.5"
+      }, {
+        "count" : 13,
+        "item" : "6"
+      }, {
+        "count" : 12,
+        "item" : "3.75"
+      }, {
+        "count" : 11,
+        "item" : "9"
+      }, {
+        "count" : 10,
+        "item" : "12"
+      }, {
+        "count" : 9,
+        "item" : "8"
+      }, {
+        "count" : 8,
+        "item" : "9.75"
+      }, {
+        "count" : 7,
+        "item" : "5.25"
+      }, {
+        "count" : 6,
+        "item" : "7.5"
+      }, {
+        "count" : 5,
+        "item" : "6.75"
+      }, {
+        "count" : 4,
+        "item" : "10.5"
+      }, {
+        "count" : 3,
+        "item" : "1"
+      }, {
+        "count" : 2,
+        "item" : "4"
+      }, {
+        "count" : 1,
+        "item" : "2"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2971087,
+    "name" : "QUALITY REVIEW SCORE",
+    "dataTypeName" : "text",
+    "fieldName" : "quality_review_score",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1557198,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 1261,
+      "smallest" : "NA",
+      "null" : 1,
+      "largest" : "Well-Developed",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Undeveloped"
+      }, {
+        "count" : 19,
+        "item" : "Proficient"
+      }, {
+        "count" : 18,
+        "item" : "Well-Developed"
+      }, {
+        "count" : 17,
+        "item" : "NA"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Historical Data"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "rnig-m3uj",
+    "displayName" : "Jorge J.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/5083/4460/large-profile_large.png",
+    "profileImageUrlMedium" : "/images/profile/5083/4460/large-profile_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/5083/4460/large-profile_tiny.png",
+    "profileLastModified" : 1322859437,
+    "screenName" : "Jorge J."
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rnig-m3uj",
+    "displayName" : "Jorge J.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/5083/4460/large-profile_large.png",
+    "profileImageUrlMedium" : "/images/profile/5083/4460/large-profile_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/5083/4460/large-profile_tiny.png",
+    "profileLastModified" : 1322859437,
+    "screenName" : "Jorge J."
+  },
+  "tags" : [ "lifelong learning" ],
+  "flags" : [ "default" ]
+}

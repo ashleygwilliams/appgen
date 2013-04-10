@@ -1,0 +1,209 @@
+{
+  "id" : "7ub6-8ecn",
+  "name" : "CCRB: Average Days for the CCRB to Close Substantiated Cases Measured from Date of Incident 2005 – 2009",
+  "attribution" : "Civilian Complaint Review Board (CCRB)",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1316113482,
+  "description" : "Civilian Complaint Review Board (CCRB) complaint activity data, 2005-2009",
+  "displayType" : "table",
+  "downloadCount" : 26,
+  "numberOfComments" : 0,
+  "oid" : 333105,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1316113482,
+  "publicationGroup" : 240442,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1316113483,
+  "rowsUpdatedBy" : "k2fz-tf56",
+  "signed" : false,
+  "tableId" : 240442,
+  "totalTimesRated" : 0,
+  "viewCount" : 39,
+  "viewLastModified" : 1323272281,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2838710,
+    "name" : "Average Days for the CCRB to Close Substantiated Cases",
+    "dataTypeName" : "text",
+    "fieldName" : "average_days_for_the_ccrb_to_close_substantiated_cases",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1520067,
+    "width" : 700,
+    "cachedContents" : {
+      "non_null" : 1,
+      "smallest" : "Average Number of Days ",
+      "null" : 0,
+      "largest" : "Average Number of Days ",
+      "top" : [ {
+        "count" : 1,
+        "item" : "Average Number of Days "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2838711,
+    "name" : "2005",
+    "dataTypeName" : "number",
+    "fieldName" : "_2005",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1520068,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 1,
+      "smallest" : "322",
+      "sum" : "322",
+      "null" : 0,
+      "average" : "322",
+      "largest" : "322",
+      "top" : [ {
+        "count" : 1,
+        "item" : "322"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2838712,
+    "name" : "2006",
+    "dataTypeName" : "number",
+    "fieldName" : "_2006",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1520069,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 1,
+      "smallest" : "294",
+      "sum" : "294",
+      "null" : 0,
+      "average" : "294",
+      "largest" : "294",
+      "top" : [ {
+        "count" : 1,
+        "item" : "294"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2838713,
+    "name" : "2007",
+    "dataTypeName" : "number",
+    "fieldName" : "_2007",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1520070,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 1,
+      "smallest" : "311",
+      "sum" : "311",
+      "null" : 0,
+      "average" : "311",
+      "largest" : "311",
+      "top" : [ {
+        "count" : 1,
+        "item" : "311"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2838714,
+    "name" : "2008",
+    "dataTypeName" : "number",
+    "fieldName" : "_2008",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1520071,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 1,
+      "smallest" : "360",
+      "sum" : "360",
+      "null" : 0,
+      "average" : "360",
+      "largest" : "360",
+      "top" : [ {
+        "count" : 1,
+        "item" : "360"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2838715,
+    "name" : "2009",
+    "dataTypeName" : "number",
+    "fieldName" : "_2009",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1520072,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 1,
+      "smallest" : "401",
+      "sum" : "401",
+      "null" : 0,
+      "average" : "401",
+      "largest" : "401",
+      "top" : [ {
+        "count" : 1,
+        "item" : "401"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "complaint", "civilian", "review", "board", "activity", "ccrb", "civilian complaint review board", "2005", "2006", "2007", "2008", "2009", "complaint activity", "statistics" ],
+  "flags" : [ "default" ]
+}

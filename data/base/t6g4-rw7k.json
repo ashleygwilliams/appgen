@@ -1,0 +1,158 @@
+{
+  "id" : "t6g4-rw7k",
+  "name" : "Rate at which the CCRB made findings on the merits",
+  "attribution" : "Civilian Complaint Review Board (CCRB)",
+  "attributionLink" : "http://www.nyc.gov/html/ccrb/pdf/ccrbappendices2011.pdf",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1361828814,
+  "description" : "This table represents the rate at which CCRB made findings on the merits",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2642833,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361897705,
+  "publicationGroup" : 699531,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1361897643,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 701171,
+  "totalTimesRated" : 0,
+  "viewCount" : 14,
+  "viewLastModified" : 1361904923,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 47125698,
+    "name" : "Year",
+    "dataTypeName" : "text",
+    "fieldName" : "year",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159593,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "2009",
+      "null" : 0,
+      "largest" : "2011",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2009"
+      }, {
+        "count" : 19,
+        "item" : "2010"
+      }, {
+        "count" : 18,
+        "item" : "2011"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 47125699,
+    "name" : "Findings on the Merits",
+    "dataTypeName" : "text",
+    "fieldName" : "findings_on_the_merits",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159594,
+    "width" : 138,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "3287",
+      "null" : 0,
+      "largest" : "5356",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5356"
+      }, {
+        "count" : 19,
+        "item" : "4643"
+      }, {
+        "count" : 18,
+        "item" : "3287"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 47125700,
+    "name" : "No Findings on the Merits",
+    "dataTypeName" : "text",
+    "fieldName" : "no_findings_on_the_merits",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159595,
+    "width" : 144,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "3549",
+      "null" : 0,
+      "largest" : "4786",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4786"
+      }, {
+        "count" : 19,
+        "item" : "4245"
+      }, {
+        "count" : 18,
+        "item" : "3549"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "ccrb", "merits", "allegations" ],
+  "flags" : [ "default" ]
+}

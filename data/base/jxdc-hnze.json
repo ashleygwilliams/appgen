@@ -1,0 +1,407 @@
+{
+  "id" : "jxdc-hnze",
+  "name" : "Times Square Entertainment Venues",
+  "attribution" : "Times Square Alliance (TSA)",
+  "averageRating" : 0,
+  "category" : "Business and Economic",
+  "createdAt" : 1311713047,
+  "description" : "Directory of entertainment venues in the Times Square area\r\n\r\nUpdate Schedule: As required",
+  "displayType" : "table",
+  "downloadCount" : 218,
+  "numberOfComments" : 0,
+  "oid" : 343362,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318343180,
+  "publicationGroup" : 238818,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318343175,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 244721,
+  "totalTimesRated" : 0,
+  "viewCount" : 2283,
+  "viewLastModified" : 1319476717,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3007334,
+    "name" : "Company Name",
+    "dataTypeName" : "text",
+    "fieldName" : "company_name",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1501344,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 77,
+      "smallest" : "Al Hirschfeld Theater",
+      "null" : 0,
+      "largest" : "Winter Garden Theatre",
+      "top" : [ {
+        "count" : 1,
+        "item" : "Al Hirschfeld Theater"
+      }, {
+        "count" : 1,
+        "item" : "Circle In The Square Theatre"
+      }, {
+        "count" : 1,
+        "item" : "Richard Rodgers Theatre"
+      }, {
+        "count" : 1,
+        "item" : "Show World Center Inc."
+      }, {
+        "count" : 1,
+        "item" : "Freidman Theatre"
+      }, {
+        "count" : 1,
+        "item" : "Crown Art Gallery"
+      }, {
+        "count" : 1,
+        "item" : "Shubert Theatre"
+      }, {
+        "count" : 1,
+        "item" : "Marriott Marquis Theatre"
+      }, {
+        "count" : 1,
+        "item" : "Brooks Atkinson Theatre"
+      }, {
+        "count" : 1,
+        "item" : "Gershwin Theatre"
+      }, {
+        "count" : 1,
+        "item" : "Private Storefront"
+      }, {
+        "count" : 1,
+        "item" : "Lace 2"
+      }, {
+        "count" : 1,
+        "item" : "Eugene O'Neill Theatre"
+      }, {
+        "count" : 1,
+        "item" : "AMC Theatres"
+      }, {
+        "count" : 1,
+        "item" : "Town Hall"
+      }, {
+        "count" : 1,
+        "item" : "St. James Theatre"
+      }, {
+        "count" : 1,
+        "item" : "Don't Tell Mama"
+      }, {
+        "count" : 1,
+        "item" : "American Airlines Theatre"
+      }, {
+        "count" : 1,
+        "item" : "Lace"
+      }, {
+        "count" : 1,
+        "item" : "Hawthorne Amusement"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3007335,
+    "name" : "Subindustry",
+    "dataTypeName" : "text",
+    "fieldName" : "subindustry",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1501345,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 77,
+      "smallest" : "Attractions / Amusement",
+      "null" : 0,
+      "largest" : "Theater",
+      "top" : [ {
+        "count" : 47,
+        "item" : "Theater"
+      }, {
+        "count" : 9,
+        "item" : "Nightclub"
+      }, {
+        "count" : 6,
+        "item" : "Museums / Galleries"
+      }, {
+        "count" : 4,
+        "item" : "Movies"
+      }, {
+        "count" : 4,
+        "item" : "Live Music"
+      }, {
+        "count" : 4,
+        "item" : "Comedy Club"
+      }, {
+        "count" : 2,
+        "item" : "Attractions / Amusement"
+      }, {
+        "count" : 1,
+        "item" : "Lecture Hall"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3007336,
+    "name" : "Sub Subindustry",
+    "dataTypeName" : "text",
+    "fieldName" : "sub_subindustry",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1501346,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 47,
+      "smallest" : "Broadway - Non-League",
+      "null" : 30,
+      "largest" : "Off-Broadway",
+      "top" : [ {
+        "count" : 38,
+        "item" : "League"
+      }, {
+        "count" : 5,
+        "item" : "Off-Broadway"
+      }, {
+        "count" : 3,
+        "item" : "Broadway - Non-League"
+      }, {
+        "count" : 1,
+        "item" : "Nonprofit"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3007337,
+    "name" : "Phone",
+    "dataTypeName" : "text",
+    "fieldName" : "phone",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1501347,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 65,
+      "smallest" : "(212) 221-1211 \u000E",
+      "null" : 12,
+      "largest" : "646-619-8608",
+      "top" : [ {
+        "count" : 7,
+        "item" : "(212) 239-6200"
+      }, {
+        "count" : 2,
+        "item" : "(212) 840-8181"
+      }, {
+        "count" : 2,
+        "item" : "(212) 239-2820"
+      }, {
+        "count" : 2,
+        "item" : "212 239-6200"
+      }, {
+        "count" : 1,
+        "item" : "(212) 765-5047"
+      }, {
+        "count" : 1,
+        "item" : "(212) 997-1003"
+      }, {
+        "count" : 1,
+        "item" : "(212) 246-8140"
+      }, {
+        "count" : 1,
+        "item" : "(800) 272-9533"
+      }, {
+        "count" : 1,
+        "item" : "(212) 575-9200"
+      }, {
+        "count" : 1,
+        "item" : "(212) 944-9457"
+      }, {
+        "count" : 1,
+        "item" : "(212) 764-6969"
+      }, {
+        "count" : 1,
+        "item" : "212-757-0788"
+      }, {
+        "count" : 1,
+        "item" : "(212) 262-3030"
+      }, {
+        "count" : 1,
+        "item" : "2126268472"
+      }, {
+        "count" : 1,
+        "item" : "(212) 757-8255"
+      }, {
+        "count" : 1,
+        "item" : "(212) 575-5026"
+      }, {
+        "count" : 1,
+        "item" : "(212) 975-6644"
+      }, {
+        "count" : 1,
+        "item" : "(212) 840-7761"
+      }, {
+        "count" : 1,
+        "item" : "(212) 719-4099"
+      }, {
+        "count" : 1,
+        "item" : "(212) 869-0550"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3007338,
+    "name" : "Website",
+    "dataTypeName" : "text",
+    "fieldName" : "website",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1501348,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 37,
+      "smallest" : "http://americantheatrewing.org/",
+      "null" : 40,
+      "largest" : "www.thejamnyc.com",
+      "top" : [ {
+        "count" : 2,
+        "item" : "http://www.new42.org/duke/duke_home.aspx"
+      }, {
+        "count" : 1,
+        "item" : "www.thejamnyc.com"
+      }, {
+        "count" : 1,
+        "item" : "http://roselandballroom.com/"
+      }, {
+        "count" : 1,
+        "item" : "http://americantheatrewing.org/"
+      }, {
+        "count" : 1,
+        "item" : "http://thetimescenter.com/"
+      }, {
+        "count" : 1,
+        "item" : "www.sohogallery.com"
+      }, {
+        "count" : 1,
+        "item" : "http://roundabouttheatre.org/"
+      }, {
+        "count" : 1,
+        "item" : "www.minskofftheatre.com"
+      }, {
+        "count" : 1,
+        "item" : "www.cheetahnyc.com"
+      }, {
+        "count" : 1,
+        "item" : "http://nokiatheatrenyc.com/"
+      }, {
+        "count" : 1,
+        "item" : "http://www.marquistheatre.com/"
+      }, {
+        "count" : 1,
+        "item" : "http://www.brooksatkinsontheater.com/"
+      }, {
+        "count" : 1,
+        "item" : "http://www.newyorkcitytheatre.com/theaters/majestictheater/theater.php"
+      }, {
+        "count" : 1,
+        "item" : "http://www.newyorkcitytheatre.com/theaters/corttheater/theater.php"
+      }, {
+        "count" : 1,
+        "item" : "http://luntfontannetheatre.com/"
+      }, {
+        "count" : 1,
+        "item" : "http://www.neilsimontheatre.com/"
+      }, {
+        "count" : 1,
+        "item" : "http://www.mentertainment.com/clubs/ny/bare/bare-00.htm"
+      }, {
+        "count" : 1,
+        "item" : "http://www.richardrodgerstheatre.com/"
+      }, {
+        "count" : 1,
+        "item" : "http://www.wintergarden-theater.com/"
+      }, {
+        "count" : 1,
+        "item" : "http://www.sagetheater.us/"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3007339,
+    "name" : "Location 1",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 7,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1501349,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 1,
+      "smallest" : {
+        "human_address" : "{\"address\":\"261 47th St\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+      },
+      "null" : 76,
+      "largest" : {
+        "human_address" : "{\"address\":\"261 47th St\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+      },
+      "top" : [ {
+        "count" : 1,
+        "item" : {
+          "human_address" : "{\"address\":\"261 47th St\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "times square alliance", "times square", "crossroads", "crossroads of the world", "nyc", "new york city", "new york", "manhattan", "theater", "food", "screens", "pedestrian", "entertainment", "tourism" ],
+  "flags" : [ "default" ]
+}

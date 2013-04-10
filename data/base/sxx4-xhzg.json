@@ -1,0 +1,398 @@
+{
+  "id" : "sxx4-xhzg",
+  "name" : "Public Recycling Bins",
+  "attribution" : "Department of Sanitation (DSNY)",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1341003072,
+  "description" : "Locations of public recycling bins throughout NYC",
+  "displayType" : "table",
+  "downloadCount" : 65,
+  "numberOfComments" : 0,
+  "oid" : 813357,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1341003250,
+  "publicationGroup" : 370782,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1341003075,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 370782,
+  "totalTimesRated" : 0,
+  "viewCount" : 307,
+  "viewLastModified" : 1363704672,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 12112879,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3319537,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 545,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Brooklyn "
+      }, {
+        "count" : 17,
+        "item" : "Manhattan"
+      }, {
+        "count" : 16,
+        "item" : "Queens"
+      }, {
+        "count" : 15,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12112880,
+    "name" : "Site type",
+    "dataTypeName" : "text",
+    "fieldName" : "site_type",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3319538,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 545,
+      "smallest" : "Greenthumb",
+      "null" : 0,
+      "largest" : "Subproperty",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Subproperty"
+      }, {
+        "count" : 19,
+        "item" : "Outdoor"
+      }, {
+        "count" : 18,
+        "item" : "Outdoor "
+      }, {
+        "count" : 17,
+        "item" : "Greenthumb"
+      }, {
+        "count" : 16,
+        "item" : "Indoor"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12112881,
+    "name" : "Park/Site Name",
+    "dataTypeName" : "text",
+    "fieldName" : "park_site_name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3319539,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 545,
+      "smallest" : "100 Centre St",
+      "null" : 0,
+      "largest" : "World ice rink",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Hamilton Fish Recreation Center"
+      }, {
+        "count" : 19,
+        "item" : "Hudson River Park"
+      }, {
+        "count" : 18,
+        "item" : "Union Square "
+      }, {
+        "count" : 17,
+        "item" : "Alley Springfield, picnic and athletic"
+      }, {
+        "count" : 16,
+        "item" : "Flushing Meadows Corona Park"
+      }, {
+        "count" : 15,
+        "item" : "Forest Park"
+      }, {
+        "count" : 14,
+        "item" : "Hoffman Park"
+      }, {
+        "count" : 13,
+        "item" : "Juniper Valley Park"
+      }, {
+        "count" : 12,
+        "item" : "Kissena Park"
+      }, {
+        "count" : 11,
+        "item" : "Rockaway Beach "
+      }, {
+        "count" : 10,
+        "item" : "Roy Wilkens"
+      }, {
+        "count" : 9,
+        "item" : "Sunnyside Garden Park"
+      }, {
+        "count" : 8,
+        "item" : "Bloomingdale Playgound"
+      }, {
+        "count" : 7,
+        "item" : "Midland Beach"
+      }, {
+        "count" : 6,
+        "item" : "Staten Island Ferry Terminal"
+      }, {
+        "count" : 5,
+        "item" : "Walker Park"
+      }, {
+        "count" : 4,
+        "item" : "Willowbrook Park"
+      }, {
+        "count" : 3,
+        "item" : "Wolfe's Pond"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12112882,
+    "name" : "Address",
+    "dataTypeName" : "text",
+    "fieldName" : "address",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3319540,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 540,
+      "smallest" : "100 Centre St",
+      "null" : 5,
+      "largest" : "Woodhaven Blvd & Park Lane S",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Hudson River Park "
+      }, {
+        "count" : 19,
+        "item" : "East River Bikeway"
+      }, {
+        "count" : 18,
+        "item" : "Union Square Park"
+      }, {
+        "count" : 17,
+        "item" : "Alley Pond Park"
+      }, {
+        "count" : 16,
+        "item" : "Cunningham Park"
+      }, {
+        "count" : 15,
+        "item" : "Hoffman Park"
+      }, {
+        "count" : 14,
+        "item" : "Juniper Valley Park"
+      }, {
+        "count" : 13,
+        "item" : "McDonald Park"
+      }, {
+        "count" : 12,
+        "item" : "Flushing Meadows Corona Park"
+      }, {
+        "count" : 11,
+        "item" : "Southern Pkwy"
+      }, {
+        "count" : 10,
+        "item" : "Sunnyside Garden Park"
+      }, {
+        "count" : 9,
+        "item" : "Gen. Douglas Macarthur Park, Dongan Hills Ave"
+      }, {
+        "count" : 8,
+        "item" : "Bloomingdale Park "
+      }, {
+        "count" : 7,
+        "item" : "Cedar Grove Beach"
+      }, {
+        "count" : 6,
+        "item" : "Clove Lake Park"
+      }, {
+        "count" : 5,
+        "item" : "Silver Lake Park"
+      }, {
+        "count" : 4,
+        "item" : "Richmond Terrace"
+      }, {
+        "count" : 3,
+        "item" : "Hyatt Ave"
+      }, {
+        "count" : 2,
+        "item" : "Hylan Blvd"
+      }, {
+        "count" : 1,
+        "item" : "Delafield Pl & Bard Ave"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12112883,
+    "name" : "Latitude",
+    "dataTypeName" : "number",
+    "fieldName" : "latitude",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 3319541,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 544,
+      "smallest" : "40.505646",
+      "sum" : "22161.178320711100010",
+      "null" : 1,
+      "average" : "40.73746014836599",
+      "largest" : "40.911295000000003",
+      "top" : [ {
+        "count" : 20,
+        "item" : "40.642302999999998"
+      }, {
+        "count" : 19,
+        "item" : "40.505646"
+      }, {
+        "count" : 18,
+        "item" : "40.643799"
+      }, {
+        "count" : 17,
+        "item" : "40.642843"
+      }, {
+        "count" : 16,
+        "item" : "40.643449"
+      }, {
+        "count" : 15,
+        "item" : "40.643343"
+      }, {
+        "count" : 14,
+        "item" : "40.637121"
+      }, {
+        "count" : 13,
+        "item" : "40.603832"
+      }, {
+        "count" : 12,
+        "item" : "40.603828"
+      }, {
+        "count" : 11,
+        "item" : "40.517368"
+      }, {
+        "count" : 10,
+        "item" : "40.518652000000003"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 12112884,
+    "name" : "Longitude",
+    "dataTypeName" : "number",
+    "fieldName" : "longitude",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 3319542,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 544,
+      "smallest" : "-74.235477",
+      "sum" : "-40221.991091311099917",
+      "null" : 1,
+      "average" : "-73.93748362373364",
+      "largest" : "-73.734290999999999",
+      "top" : [ {
+        "count" : 20,
+        "item" : "-74.076549"
+      }, {
+        "count" : 19,
+        "item" : "-74.235477"
+      }, {
+        "count" : 18,
+        "item" : "-74.108845"
+      }, {
+        "count" : 17,
+        "item" : "-74.11032"
+      }, {
+        "count" : 16,
+        "item" : "-74.11046"
+      }, {
+        "count" : 15,
+        "item" : "-74.108641"
+      }, {
+        "count" : 14,
+        "item" : "-74.119287"
+      }, {
+        "count" : 13,
+        "item" : "-74.158697"
+      }, {
+        "count" : 12,
+        "item" : "-74.16125"
+      }, {
+        "count" : 11,
+        "item" : "-74.190913"
+      }, {
+        "count" : 10,
+        "item" : "-74.187309999999997"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "public recycling bins", "environmental sustainability", "green", "garbage", "sanitation", "dsny", "bins", "recycle", "dispose", "reduce", "reuse", "clean web" ],
+  "flags" : [ "default" ]
+}

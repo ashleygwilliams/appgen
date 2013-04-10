@@ -1,0 +1,521 @@
+{
+  "id" : "xnpc-vebg",
+  "name" : "Disposition Of Discourtesy Allegations 2007",
+  "attribution" : "Civilian Complaint Review Board (CCRB)",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1317248129,
+  "description" : "CCRB: Disposition of Discourtesy Allegations 2007",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "numberOfComments" : 0,
+  "oid" : 336432,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1317248180,
+  "publicationGroup" : 241836,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1317248130,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 241836,
+  "totalTimesRated" : 0,
+  "viewCount" : 14,
+  "viewLastModified" : 1318012689,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2889451,
+    "name" : "Type of Abuse of Authority Allegation",
+    "dataTypeName" : "text",
+    "fieldName" : "type_of_abuse_of_authority_allegation",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1535565,
+    "width" : 544,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "Action",
+      "null" : 0,
+      "largest" : "Word",
+      "top" : [ {
+        "count" : 1,
+        "item" : "Word"
+      }, {
+        "count" : 1,
+        "item" : "Action"
+      }, {
+        "count" : 1,
+        "item" : "Demeanor/tone"
+      }, {
+        "count" : 1,
+        "item" : "Total"
+      }, {
+        "count" : 1,
+        "item" : "Other"
+      }, {
+        "count" : 1,
+        "item" : "Gesture"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2889452,
+    "name" : "Substantiated Number",
+    "dataTypeName" : "number",
+    "fieldName" : "substantiated_number",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1535566,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "0",
+      "sum" : "78",
+      "null" : 0,
+      "average" : "13",
+      "largest" : "39",
+      "top" : [ {
+        "count" : 3,
+        "item" : "0"
+      }, {
+        "count" : 1,
+        "item" : "2"
+      }, {
+        "count" : 1,
+        "item" : "37"
+      }, {
+        "count" : 1,
+        "item" : "39"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2889453,
+    "name" : "Sunstantiated rate",
+    "dataTypeName" : "text",
+    "fieldName" : "sunstantiated_rate",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1535567,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "#DIV/0!",
+      "null" : 0,
+      "largest" : "2.90%",
+      "top" : [ {
+        "count" : 2,
+        "item" : "0.00%"
+      }, {
+        "count" : 1,
+        "item" : "2.30%"
+      }, {
+        "count" : 1,
+        "item" : "2.90%"
+      }, {
+        "count" : 1,
+        "item" : "#DIV/0!"
+      }, {
+        "count" : 1,
+        "item" : "2.40%"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2889454,
+    "name" : "Exonerated number",
+    "dataTypeName" : "number",
+    "fieldName" : "exonerated_number",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1535568,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "0",
+      "sum" : "222",
+      "null" : 0,
+      "average" : "37",
+      "largest" : "111",
+      "top" : [ {
+        "count" : 2,
+        "item" : "1"
+      }, {
+        "count" : 2,
+        "item" : "0"
+      }, {
+        "count" : 1,
+        "item" : "111"
+      }, {
+        "count" : 1,
+        "item" : "109"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2889455,
+    "name" : "Exonerated rate",
+    "dataTypeName" : "text",
+    "fieldName" : "exonerated_rate",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1535569,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "#DIV/0!",
+      "null" : 0,
+      "largest" : "9.10%",
+      "top" : [ {
+        "count" : 1,
+        "item" : "7.00%"
+      }, {
+        "count" : 1,
+        "item" : "#DIV/0!"
+      }, {
+        "count" : 1,
+        "item" : "1.40%"
+      }, {
+        "count" : 1,
+        "item" : "0.00%"
+      }, {
+        "count" : 1,
+        "item" : "9.10%"
+      }, {
+        "count" : 1,
+        "item" : "6.70%"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2889456,
+    "name" : "Unsubstantiated number",
+    "dataTypeName" : "number",
+    "fieldName" : "unsubstantiated_number",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1535570,
+    "width" : 364,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "0",
+      "sum" : "1486",
+      "null" : 0,
+      "average" : "247.6666666666667",
+      "largest" : "743",
+      "top" : [ {
+        "count" : 1,
+        "item" : "11"
+      }, {
+        "count" : 1,
+        "item" : "36"
+      }, {
+        "count" : 1,
+        "item" : "691"
+      }, {
+        "count" : 1,
+        "item" : "743"
+      }, {
+        "count" : 1,
+        "item" : "5"
+      }, {
+        "count" : 1,
+        "item" : "0"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2889457,
+    "name" : "Unsubstantiated rate",
+    "dataTypeName" : "text",
+    "fieldName" : "unsubstantiated_rate",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1535571,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "#DIV/0!",
+      "null" : 0,
+      "largest" : "52.40%",
+      "top" : [ {
+        "count" : 1,
+        "item" : "52.20%"
+      }, {
+        "count" : 1,
+        "item" : "45.50%"
+      }, {
+        "count" : 1,
+        "item" : "#DIV/0!"
+      }, {
+        "count" : 1,
+        "item" : "44.20%"
+      }, {
+        "count" : 1,
+        "item" : "44.60%"
+      }, {
+        "count" : 1,
+        "item" : "52.40%"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2889458,
+    "name" : "Unfounded number",
+    "dataTypeName" : "number",
+    "fieldName" : "unfounded_number",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1535572,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "0",
+      "sum" : "1050",
+      "null" : 0,
+      "average" : "175",
+      "largest" : "525",
+      "top" : [ {
+        "count" : 2,
+        "item" : "4"
+      }, {
+        "count" : 1,
+        "item" : "525"
+      }, {
+        "count" : 1,
+        "item" : "496"
+      }, {
+        "count" : 1,
+        "item" : "21"
+      }, {
+        "count" : 1,
+        "item" : "0"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2889459,
+    "name" : "Unfounded rate",
+    "dataTypeName" : "text",
+    "fieldName" : "unfounded_rate",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1535573,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "#DIV/0!",
+      "null" : 0,
+      "largest" : "36.40%",
+      "top" : [ {
+        "count" : 1,
+        "item" : "19.00%"
+      }, {
+        "count" : 1,
+        "item" : "31.50%"
+      }, {
+        "count" : 1,
+        "item" : "31.70%"
+      }, {
+        "count" : 1,
+        "item" : "#DIV/0!"
+      }, {
+        "count" : 1,
+        "item" : "30.40%"
+      }, {
+        "count" : 1,
+        "item" : "36.40%"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2889460,
+    "name" : "Officer Unidentified number",
+    "dataTypeName" : "number",
+    "fieldName" : "officer_unidentified_number",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1535574,
+    "width" : 424,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "0",
+      "sum" : "418",
+      "null" : 0,
+      "average" : "69.66666666666667",
+      "largest" : "209",
+      "top" : [ {
+        "count" : 1,
+        "item" : "6"
+      }, {
+        "count" : 1,
+        "item" : "209"
+      }, {
+        "count" : 1,
+        "item" : "8"
+      }, {
+        "count" : 1,
+        "item" : "1"
+      }, {
+        "count" : 1,
+        "item" : "0"
+      }, {
+        "count" : 1,
+        "item" : "194"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2889461,
+    "name" : "Officer Unidentified rate",
+    "dataTypeName" : "text",
+    "fieldName" : "officer_unidentified_rate",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1535575,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "#DIV/0!",
+      "null" : 0,
+      "largest" : "9.10%",
+      "top" : [ {
+        "count" : 1,
+        "item" : "#DIV/0!"
+      }, {
+        "count" : 1,
+        "item" : "9.10%"
+      }, {
+        "count" : 1,
+        "item" : "28.60%"
+      }, {
+        "count" : 1,
+        "item" : "12.60%"
+      }, {
+        "count" : 1,
+        "item" : "11.60%"
+      }, {
+        "count" : 1,
+        "item" : "12.40%"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2889462,
+    "name" : "Miscellaneous",
+    "dataTypeName" : "number",
+    "fieldName" : "miscellaneous",
+    "position" : 13,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1535576,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "0",
+      "sum" : "76",
+      "null" : 0,
+      "average" : "12.66666666666667",
+      "largest" : "38",
+      "top" : [ {
+        "count" : 3,
+        "item" : "0"
+      }, {
+        "count" : 1,
+        "item" : "38"
+      }, {
+        "count" : 1,
+        "item" : "1"
+      }, {
+        "count" : 1,
+        "item" : "37"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2889463,
+    "name" : "Miscellaneous rate",
+    "dataTypeName" : "text",
+    "fieldName" : "miscellaneous_rate",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1535577,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "#DIV/0!",
+      "null" : 0,
+      "largest" : "2.40%",
+      "top" : [ {
+        "count" : 2,
+        "item" : "0.00%"
+      }, {
+        "count" : 1,
+        "item" : "2.30%"
+      }, {
+        "count" : 1,
+        "item" : "#DIV/0!"
+      }, {
+        "count" : 1,
+        "item" : "1.40%"
+      }, {
+        "count" : 1,
+        "item" : "2.40%"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "complaint", "civilian", "review", "board", "activity", "ccrb", "civilian complaint review board", "2005", "2006", "2007", "2008", "2009", "complaint activity", "statistics", "disciplinary recommendation", "allegation", "misconduct" ],
+  "flags" : [ "default" ]
+}

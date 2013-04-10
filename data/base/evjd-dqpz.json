@@ -1,0 +1,3249 @@
+{
+  "id" : "evjd-dqpz",
+  "name" : "NYCHA Development Data Book",
+  "attribution" : "New York City Housing Authority (NYCHA)",
+  "attributionLink" : "http://www.nyc.gov/html/nycha/html/resources/development-data-book.shtml",
+  "averageRating" : 0,
+  "category" : "Facilities and Structures",
+  "createdAt" : 1364497855,
+  "description" : "It contains the main body of the “Development Data Book”(pages 01 to 61) as of December 17, 2012. The Development Data Book lists all of the Authority's Developments alphabetically and includes information on the development identification numbers, program and construction type, number of apartments and rental rooms, population, number of buildings and stories, street boundaries, and political districts.",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2999066,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1364581427,
+  "publicationGroup" : 761946,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1364581357,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 764100,
+  "totalTimesRated" : 0,
+  "viewCount" : 11,
+  "viewLastModified" : 1364581436,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 54058657,
+    "name" : "DATA AS OF",
+    "dataTypeName" : "text",
+    "description" : "Last date that the date was updated",
+    "fieldName" : "data_as_of",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008502,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 352,
+      "smallest" : "12/17/2012",
+      "null" : 0,
+      "largest" : "12/17/2012",
+      "top" : [ {
+        "count" : 20,
+        "item" : "12/17/2012"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058658,
+    "name" : "DEVELOPMENT",
+    "dataTypeName" : "text",
+    "description" : "The name of the housing development as listed in the Property Directory Database.",
+    "fieldName" : "development",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008503,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 352,
+      "smallest" : "1010 EAST 178TH STREET",
+      "null" : 0,
+      "largest" : "WYCKOFF GARDENS",
+      "top" : [ {
+        "count" : 20,
+        "item" : "WASHINGTON HEIGHTS REHAB PHASE III"
+      }, {
+        "count" : 19,
+        "item" : "WEST TREMONT AVENUE-SEDGWICK AVENUE AREA"
+      }, {
+        "count" : 18,
+        "item" : "WHITE"
+      }, {
+        "count" : 17,
+        "item" : "WHITMAN"
+      }, {
+        "count" : 16,
+        "item" : "WILLIAMS PLAZA"
+      }, {
+        "count" : 15,
+        "item" : "WILLIAMSBURG"
+      }, {
+        "count" : 14,
+        "item" : "WILSON"
+      }, {
+        "count" : 13,
+        "item" : "WISE TOWERS"
+      }, {
+        "count" : 12,
+        "item" : "WOODSIDE"
+      }, {
+        "count" : 11,
+        "item" : "WOODSON"
+      }, {
+        "count" : 10,
+        "item" : "WSUR (BROWNSTONES)"
+      }, {
+        "count" : 9,
+        "item" : "WSUR (SITE A) 120 WEST 94TH STREET"
+      }, {
+        "count" : 8,
+        "item" : "WSUR (SITE B) 74 WEST 92ND STREET"
+      }, {
+        "count" : 7,
+        "item" : "WSUR (SITE C) 589 AMSTERDAM AVENUE"
+      }, {
+        "count" : 6,
+        "item" : "WYCKOFF GARDENS"
+      }, {
+        "count" : 5,
+        "item" : "FRANKLIN AVENUE I CONVENTIONAL"
+      }, {
+        "count" : 4,
+        "item" : "FRANKLIN AVENUE III CONVENTIONAL"
+      }, {
+        "count" : 3,
+        "item" : "FRANKLIN AVENUE II CONVENTIONAL"
+      }, {
+        "count" : 2,
+        "item" : "WEST FARMS SQUARE CONVENTIONAL"
+      }, {
+        "count" : 1,
+        "item" : "MORRIS II"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058659,
+    "name" : "HUD AMP#",
+    "dataTypeName" : "text",
+    "description" : "The U.S. Department of Housing and Urban Development (HUD) identification number.",
+    "fieldName" : "hud_amp_",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008504,
+    "width" : 121,
+    "cachedContents" : {
+      "non_null" : 349,
+      "smallest" : "***",
+      "null" : 3,
+      "largest" : "NY005023770",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NY005012090"
+      }, {
+        "count" : 19,
+        "item" : "NY005013510"
+      }, {
+        "count" : 18,
+        "item" : "NY005013590"
+      }, {
+        "count" : 17,
+        "item" : "NY005012410"
+      }, {
+        "count" : 16,
+        "item" : "NY005011670"
+      }, {
+        "count" : 15,
+        "item" : "NY005013170"
+      }, {
+        "count" : 14,
+        "item" : "NY005013420"
+      }, {
+        "count" : 13,
+        "item" : "NY005010080"
+      }, {
+        "count" : 12,
+        "item" : "NY005012210"
+      }, {
+        "count" : 11,
+        "item" : "NY005010630"
+      }, {
+        "count" : 10,
+        "item" : "NY005012270"
+      }, {
+        "count" : 9,
+        "item" : "NY005012610"
+      }, {
+        "count" : 8,
+        "item" : "NY005011680"
+      }, {
+        "count" : 7,
+        "item" : "NY005011940"
+      }, {
+        "count" : 6,
+        "item" : "NY005010060"
+      }, {
+        "count" : 5,
+        "item" : "NY005010740"
+      }, {
+        "count" : 4,
+        "item" : "NY005000230"
+      }, {
+        "count" : 3,
+        "item" : "NY005010620"
+      }, {
+        "count" : 2,
+        "item" : "NY005013090"
+      }, {
+        "count" : 1,
+        "item" : "NY005010030"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058660,
+    "name" : "TDS#",
+    "dataTypeName" : "text",
+    "description" : "Tenant Data System # - The number used by numerous computer applications to identify NYCHA Developments.",
+    "fieldName" : "tds_",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008505,
+    "width" : 78,
+    "cachedContents" : {
+      "non_null" : 352,
+      "smallest" : "004, 079",
+      "null" : 0,
+      "largest" : "99",
+      "top" : [ {
+        "count" : 20,
+        "item" : "175"
+      }, {
+        "count" : 19,
+        "item" : "360"
+      }, {
+        "count" : 18,
+        "item" : "246"
+      }, {
+        "count" : 17,
+        "item" : "124"
+      }, {
+        "count" : 16,
+        "item" : "514"
+      }, {
+        "count" : 15,
+        "item" : "128"
+      }, {
+        "count" : 14,
+        "item" : "2"
+      }, {
+        "count" : 13,
+        "item" : "112"
+      }, {
+        "count" : 12,
+        "item" : "127"
+      }, {
+        "count" : 11,
+        "item" : "33"
+      }, {
+        "count" : 10,
+        "item" : "182"
+      }, {
+        "count" : 9,
+        "item" : "178"
+      }, {
+        "count" : 8,
+        "item" : "151"
+      }, {
+        "count" : 7,
+        "item" : "173"
+      }, {
+        "count" : 6,
+        "item" : "174"
+      }, {
+        "count" : 5,
+        "item" : "163"
+      }, {
+        "count" : 4,
+        "item" : "525"
+      }, {
+        "count" : 3,
+        "item" : "524"
+      }, {
+        "count" : 2,
+        "item" : "531"
+      }, {
+        "count" : 1,
+        "item" : "526"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058661,
+    "name" : "CONSOLIDATED TDS#",
+    "dataTypeName" : "text",
+    "description" : "Abbreviation for Consolidated Tenant Data System Numbers. (see TDS)",
+    "fieldName" : "consolidated_tds_",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008506,
+    "width" : 170,
+    "cachedContents" : {
+      "non_null" : 352,
+      "smallest" : "003, 309",
+      "null" : 0,
+      "largest" : "99",
+      "top" : [ {
+        "count" : 20,
+        "item" : "91"
+      }, {
+        "count" : 19,
+        "item" : "351"
+      }, {
+        "count" : 18,
+        "item" : "359"
+      }, {
+        "count" : 17,
+        "item" : "241"
+      }, {
+        "count" : 16,
+        "item" : "167"
+      }, {
+        "count" : 15,
+        "item" : "4"
+      }, {
+        "count" : 14,
+        "item" : "342"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "221"
+      }, {
+        "count" : 11,
+        "item" : "63"
+      }, {
+        "count" : 10,
+        "item" : "227"
+      }, {
+        "count" : 9,
+        "item" : "261"
+      }, {
+        "count" : 8,
+        "item" : "6"
+      }, {
+        "count" : 7,
+        "item" : "62"
+      }, {
+        "count" : 6,
+        "item" : "309"
+      }, {
+        "count" : 5,
+        "item" : "3"
+      }, {
+        "count" : 4,
+        "item" : "003, 309"
+      }, {
+        "count" : 3,
+        "item" : "141"
+      }, {
+        "count" : 2,
+        "item" : "31"
+      }, {
+        "count" : 1,
+        "item" : "13"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058662,
+    "name" : "DEVELOPMENT EDP#",
+    "dataTypeName" : "text",
+    "description" : "Electronic Data Processing # - Number used to identify individual NYCHA developments.",
+    "fieldName" : "development_edp_",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008507,
+    "width" : 174,
+    "cachedContents" : {
+      "non_null" : 351,
+      "smallest" : "200",
+      "null" : 1,
+      "largest" : "871",
+      "top" : [ {
+        "count" : 20,
+        "item" : "242"
+      }, {
+        "count" : 19,
+        "item" : "780"
+      }, {
+        "count" : 18,
+        "item" : "365"
+      }, {
+        "count" : 17,
+        "item" : "572"
+      }, {
+        "count" : 16,
+        "item" : "509"
+      }, {
+        "count" : 15,
+        "item" : "443"
+      }, {
+        "count" : 14,
+        "item" : "200"
+      }, {
+        "count" : 13,
+        "item" : "539"
+      }, {
+        "count" : 12,
+        "item" : "445"
+      }, {
+        "count" : 11,
+        "item" : "316"
+      }, {
+        "count" : 10,
+        "item" : "285"
+      }, {
+        "count" : 9,
+        "item" : "279"
+      }, {
+        "count" : 8,
+        "item" : "259"
+      }, {
+        "count" : 7,
+        "item" : "272"
+      }, {
+        "count" : 6,
+        "item" : "479"
+      }, {
+        "count" : 5,
+        "item" : "480"
+      }, {
+        "count" : 4,
+        "item" : "482"
+      }, {
+        "count" : 3,
+        "item" : "481"
+      }, {
+        "count" : 2,
+        "item" : "280"
+      }, {
+        "count" : 1,
+        "item" : "569"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058663,
+    "name" : "OPERATING EDP#",
+    "dataTypeName" : "text",
+    "description" : "Electronic Data Processing # - This number is used to identify the managing development in the consolidation.",
+    "fieldName" : "operating_edp_",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008508,
+    "width" : 156,
+    "cachedContents" : {
+      "non_null" : 351,
+      "smallest" : "200",
+      "null" : 1,
+      "largest" : "871",
+      "top" : [ {
+        "count" : 20,
+        "item" : "324"
+      }, {
+        "count" : 19,
+        "item" : "765"
+      }, {
+        "count" : 18,
+        "item" : "753"
+      }, {
+        "count" : 17,
+        "item" : "218"
+      }, {
+        "count" : 16,
+        "item" : "375"
+      }, {
+        "count" : 15,
+        "item" : "760"
+      }, {
+        "count" : 14,
+        "item" : "257"
+      }, {
+        "count" : 13,
+        "item" : "204"
+      }, {
+        "count" : 12,
+        "item" : "341"
+      }, {
+        "count" : 11,
+        "item" : "209"
+      }, {
+        "count" : 10,
+        "item" : "539"
+      }, {
+        "count" : 9,
+        "item" : "259"
+      }, {
+        "count" : 8,
+        "item" : "482"
+      }, {
+        "count" : 7,
+        "item" : "569"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058664,
+    "name" : "HUD #",
+    "dataTypeName" : "text",
+    "description" : "The U.S. Department of Housing and Urban Development (HUD) identification number.",
+    "fieldName" : "hud__",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008509,
+    "width" : 107,
+    "cachedContents" : {
+      "non_null" : 352,
+      "smallest" : "NY005001",
+      "null" : 0,
+      "largest" : "NY36-H110-033",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NY005040"
+      }, {
+        "count" : 19,
+        "item" : "NY005286"
+      }, {
+        "count" : 18,
+        "item" : "NY005180"
+      }, {
+        "count" : 17,
+        "item" : "NY005244E"
+      }, {
+        "count" : 16,
+        "item" : "NY005213A"
+      }, {
+        "count" : 15,
+        "item" : "NY005385"
+      }, {
+        "count" : 14,
+        "item" : "NY005041"
+      }, {
+        "count" : 13,
+        "item" : "NY005220J"
+      }, {
+        "count" : 12,
+        "item" : "NY005386"
+      }, {
+        "count" : 11,
+        "item" : "NY005114D"
+      }, {
+        "count" : 10,
+        "item" : "NY005084"
+      }, {
+        "count" : 9,
+        "item" : "NY005052K"
+      }, {
+        "count" : 8,
+        "item" : "NY005056"
+      }, {
+        "count" : 7,
+        "item" : "NY005074"
+      }, {
+        "count" : 6,
+        "item" : "NY005314"
+      }, {
+        "count" : 5,
+        "item" : "NY005348"
+      }, {
+        "count" : 4,
+        "item" : "NY005346"
+      }, {
+        "count" : 3,
+        "item" : "NY005318"
+      }, {
+        "count" : 2,
+        "item" : "NY005079"
+      }, {
+        "count" : 1,
+        "item" : "NY005244B"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058665,
+    "name" : "PROGRAM",
+    "dataTypeName" : "text",
+    "description" : "The development’s funding source including Federal, Mixed Finance, or Section 8 Housing Assistance Payment (HAP) agreement.",
+    "fieldName" : "program",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008510,
+    "width" : 110,
+    "cachedContents" : {
+      "non_null" : 352,
+      "smallest" : "FEDERAL",
+      "null" : 0,
+      "largest" : "SECTION 8",
+      "top" : [ {
+        "count" : 20,
+        "item" : "FEDERAL"
+      }, {
+        "count" : 19,
+        "item" : "MIXED FINANCE/LLC1"
+      }, {
+        "count" : 18,
+        "item" : "MIXED FINANCE/LLC2"
+      }, {
+        "count" : 17,
+        "item" : "SECTION 8"
+      }, {
+        "count" : 16,
+        "item" : "MHOP"
+      }, {
+        "count" : 15,
+        "item" : "MIXED FINANCE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058666,
+    "name" : "METHOD",
+    "dataTypeName" : "text",
+    "description" : "Conventional Method:\nThe Authority acquires the land and contracts for general construction, heating and ventilation, elevators, electrical, and plumbing work.\n\nTurnkey Method:\nThe developer buys the land, constructs the development and sells it to the Au",
+    "fieldName" : "method",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008511,
+    "width" : 125,
+    "cachedContents" : {
+      "non_null" : 352,
+      "smallest" : "CONVENTIONAL",
+      "null" : 0,
+      "largest" : "TURNKEY",
+      "top" : [ {
+        "count" : 20,
+        "item" : "CONVENTIONAL"
+      }, {
+        "count" : 19,
+        "item" : "TURNKEY"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058667,
+    "name" : "TYPE",
+    "dataTypeName" : "text",
+    "description" : "New Construction, Rehabilitation, New Construction or Rehabilitation for the Elderly.",
+    "fieldName" : "type",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008512,
+    "width" : 141,
+    "cachedContents" : {
+      "non_null" : 352,
+      "smallest" : "NEW CONST",
+      "null" : 0,
+      "largest" : "REHAB (ELD)",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NEW CONST (ELD)"
+      }, {
+        "count" : 19,
+        "item" : "REHAB"
+      }, {
+        "count" : 18,
+        "item" : "NEW CONST"
+      }, {
+        "count" : 17,
+        "item" : "REHAB (ELD)"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058668,
+    "name" : "NUMBER OF SECTION 8 TRANSITION APARTMENTS",
+    "dataTypeName" : "text",
+    "description" : "The total number of apartments transitioned to the Section 8 Program in the LLC1 and LLC2 developments.",
+    "fieldName" : "number_of_section_8_transition_apartments",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008513,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 21,
+      "smallest" : "124",
+      "null" : 331,
+      "largest" : "75",
+      "top" : [ {
+        "count" : 20,
+        "item" : "242"
+      }, {
+        "count" : 19,
+        "item" : "56"
+      }, {
+        "count" : 18,
+        "item" : "199"
+      }, {
+        "count" : 17,
+        "item" : "126"
+      }, {
+        "count" : 16,
+        "item" : "282"
+      }, {
+        "count" : 15,
+        "item" : "46"
+      }, {
+        "count" : 14,
+        "item" : "194"
+      }, {
+        "count" : 13,
+        "item" : "36"
+      }, {
+        "count" : 12,
+        "item" : "16"
+      }, {
+        "count" : 11,
+        "item" : "61"
+      }, {
+        "count" : 10,
+        "item" : "270"
+      }, {
+        "count" : 9,
+        "item" : "124"
+      }, {
+        "count" : 8,
+        "item" : "154"
+      }, {
+        "count" : 7,
+        "item" : "229"
+      }, {
+        "count" : 6,
+        "item" : "75"
+      }, {
+        "count" : 5,
+        "item" : "57"
+      }, {
+        "count" : 4,
+        "item" : "150"
+      }, {
+        "count" : 3,
+        "item" : "69"
+      }, {
+        "count" : 2,
+        "item" : "65"
+      }, {
+        "count" : 1,
+        "item" : "39"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058669,
+    "name" : "NUMBER OF CURRENT APARTMENTS",
+    "dataTypeName" : "text",
+    "description" : "The number of apartments available for occupancy in the development as per the January 1, 2012. Dwelling Unit Inventory which is used to track\nthe number of apartments on the rent roll. Units temporarily vacant and not permanently removed from the rent ro",
+    "fieldName" : "number_of_current_apartments",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008514,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 352,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "998",
+      "top" : [ {
+        "count" : 20,
+        "item" : "125"
+      }, {
+        "count" : 19,
+        "item" : "150"
+      }, {
+        "count" : 18,
+        "item" : "287"
+      }, {
+        "count" : 17,
+        "item" : "32"
+      }, {
+        "count" : 16,
+        "item" : "1,652"
+      }, {
+        "count" : 15,
+        "item" : "577"
+      }, {
+        "count" : 14,
+        "item" : "1,628"
+      }, {
+        "count" : 13,
+        "item" : "398"
+      }, {
+        "count" : 12,
+        "item" : "1,355"
+      }, {
+        "count" : 11,
+        "item" : "407"
+      }, {
+        "count" : 10,
+        "item" : "236"
+      }, {
+        "count" : 9,
+        "item" : "70"
+      }, {
+        "count" : 8,
+        "item" : "168"
+      }, {
+        "count" : 7,
+        "item" : "158"
+      }, {
+        "count" : 6,
+        "item" : "527"
+      }, {
+        "count" : 5,
+        "item" : "60"
+      }, {
+        "count" : 4,
+        "item" : "15"
+      }, {
+        "count" : 3,
+        "item" : "45"
+      }, {
+        "count" : 2,
+        "item" : "20"
+      }, {
+        "count" : 1,
+        "item" : "802"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058670,
+    "name" : "TOTAL NUMBER OF APARTMENTS",
+    "dataTypeName" : "text",
+    "description" : "The total number of apartments at the development including the Section 8 Transition apartments at the LLC1 and LLC2 developments.",
+    "fieldName" : "total_number_of_apartments",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008515,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 352,
+      "smallest" : "1,007",
+      "null" : 0,
+      "largest" : "998",
+      "top" : [ {
+        "count" : 20,
+        "item" : "150"
+      }, {
+        "count" : 19,
+        "item" : "125"
+      }, {
+        "count" : 18,
+        "item" : "200"
+      }, {
+        "count" : 17,
+        "item" : "32"
+      }, {
+        "count" : 16,
+        "item" : "577"
+      }, {
+        "count" : 15,
+        "item" : "1,630"
+      }, {
+        "count" : 14,
+        "item" : "398"
+      }, {
+        "count" : 13,
+        "item" : "399"
+      }, {
+        "count" : 12,
+        "item" : "1,357"
+      }, {
+        "count" : 11,
+        "item" : "407"
+      }, {
+        "count" : 10,
+        "item" : "236"
+      }, {
+        "count" : 9,
+        "item" : "70"
+      }, {
+        "count" : 8,
+        "item" : "168"
+      }, {
+        "count" : 7,
+        "item" : "158"
+      }, {
+        "count" : 6,
+        "item" : "529"
+      }, {
+        "count" : 5,
+        "item" : "61"
+      }, {
+        "count" : 4,
+        "item" : "15"
+      }, {
+        "count" : 3,
+        "item" : "45"
+      }, {
+        "count" : 2,
+        "item" : "20"
+      }, {
+        "count" : 1,
+        "item" : "802"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058671,
+    "name" : "NUMBER OF RENTAL ROOMS",
+    "dataTypeName" : "text",
+    "description" : "Rental room count per apartment is equal to 2 ½ plus the number of bedrooms. The number of rental rooms includes balconies and half-baths as half-rooms.",
+    "fieldName" : "number_of_rental_rooms",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008516,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 351,
+      "smallest" : "0",
+      "null" : 1,
+      "largest" : "996",
+      "top" : [ {
+        "count" : 20,
+        "item" : "689.5"
+      }, {
+        "count" : 19,
+        "item" : "485"
+      }, {
+        "count" : 18,
+        "item" : "736.5"
+      }, {
+        "count" : 17,
+        "item" : "7,825.00"
+      }, {
+        "count" : 16,
+        "item" : "2,652.50"
+      }, {
+        "count" : 15,
+        "item" : "6,532.00"
+      }, {
+        "count" : 14,
+        "item" : "2,225.00"
+      }, {
+        "count" : 13,
+        "item" : "1,744.00"
+      }, {
+        "count" : 12,
+        "item" : "6,322.50"
+      }, {
+        "count" : 11,
+        "item" : "1,419.50"
+      }, {
+        "count" : 10,
+        "item" : "784"
+      }, {
+        "count" : 9,
+        "item" : "307"
+      }, {
+        "count" : 8,
+        "item" : "735"
+      }, {
+        "count" : 7,
+        "item" : "690"
+      }, {
+        "count" : 6,
+        "item" : "2,430.50"
+      }, {
+        "count" : 5,
+        "item" : "264"
+      }, {
+        "count" : 4,
+        "item" : "65.5"
+      }, {
+        "count" : 3,
+        "item" : "196.5"
+      }, {
+        "count" : 2,
+        "item" : "85"
+      }, {
+        "count" : 1,
+        "item" : "3,765.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058672,
+    "name" : "AVG NO R/R PER APARTMENT",
+    "dataTypeName" : "text",
+    "description" : "The average number of rental rooms per apartment is the number of rental rooms divided by the number of current apartments. The\nSection 8 Apartments in the LLC1 & LLC2 Developments are included.",
+    "fieldName" : "avg_no_r_r_per_apartment",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008517,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 348,
+      "smallest" : "2.5",
+      "null" : 4,
+      "largest" : "6.2",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4.76"
+      }, {
+        "count" : 19,
+        "item" : "4.67"
+      }, {
+        "count" : 18,
+        "item" : "4.44"
+      }, {
+        "count" : 17,
+        "item" : "4.66"
+      }, {
+        "count" : 16,
+        "item" : "4.6"
+      }, {
+        "count" : 15,
+        "item" : "4.5"
+      }, {
+        "count" : 14,
+        "item" : "4.7"
+      }, {
+        "count" : 13,
+        "item" : "3.5"
+      }, {
+        "count" : 12,
+        "item" : "4.49"
+      }, {
+        "count" : 11,
+        "item" : "4.65"
+      }, {
+        "count" : 10,
+        "item" : "4.62"
+      }, {
+        "count" : 9,
+        "item" : "3.73"
+      }, {
+        "count" : 8,
+        "item" : "3.6"
+      }, {
+        "count" : 7,
+        "item" : "4.09"
+      }, {
+        "count" : 6,
+        "item" : "4.68"
+      }, {
+        "count" : 5,
+        "item" : "4.71"
+      }, {
+        "count" : 4,
+        "item" : "4.25"
+      }, {
+        "count" : 3,
+        "item" : "4.45"
+      }, {
+        "count" : 2,
+        "item" : "4.03"
+      }, {
+        "count" : 1,
+        "item" : "4.13"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058673,
+    "name" : "POPULATION SECTION 8 TRANSITION",
+    "dataTypeName" : "text",
+    "description" : "The number of persons living in the Section 8 Transition apartments in the LLC1 and LLC2 developments based on the January 1, 2012\nResident Data Files.",
+    "fieldName" : "population_section_8_transition",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008518,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 21,
+      "smallest" : "111",
+      "null" : 331,
+      "largest" : "89",
+      "top" : [ {
+        "count" : 20,
+        "item" : "689"
+      }, {
+        "count" : 19,
+        "item" : "111"
+      }, {
+        "count" : 18,
+        "item" : "376"
+      }, {
+        "count" : 17,
+        "item" : "350"
+      }, {
+        "count" : 16,
+        "item" : "886"
+      }, {
+        "count" : 15,
+        "item" : "137"
+      }, {
+        "count" : 14,
+        "item" : "452"
+      }, {
+        "count" : 13,
+        "item" : "89"
+      }, {
+        "count" : 12,
+        "item" : "39"
+      }, {
+        "count" : 11,
+        "item" : "175"
+      }, {
+        "count" : 10,
+        "item" : "812"
+      }, {
+        "count" : 9,
+        "item" : "360"
+      }, {
+        "count" : 8,
+        "item" : "361"
+      }, {
+        "count" : 7,
+        "item" : "655"
+      }, {
+        "count" : 6,
+        "item" : "185"
+      }, {
+        "count" : 5,
+        "item" : "167"
+      }, {
+        "count" : 4,
+        "item" : "416"
+      }, {
+        "count" : 3,
+        "item" : "154"
+      }, {
+        "count" : 2,
+        "item" : "232"
+      }, {
+        "count" : 1,
+        "item" : "117"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058674,
+    "name" : "POPULATION PUBLIC HOUSING",
+    "dataTypeName" : "text",
+    "description" : "The number of persons living in the public housing units in the LLC1 and LLC2 developments based on the January 1, 2012 Resident Data Files.\nThe residents living in the Section 8 Transition apartments in the LLC1and LLC2 developments are not included in t",
+    "fieldName" : "population_public_housing",
+    "position" : 18,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008519,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 349,
+      "smallest" : "1,003",
+      "null" : 3,
+      "largest" : "99",
+      "top" : [ {
+        "count" : 20,
+        "item" : "155"
+      }, {
+        "count" : 19,
+        "item" : "259"
+      }, {
+        "count" : 18,
+        "item" : "3,789"
+      }, {
+        "count" : 17,
+        "item" : "1,138"
+      }, {
+        "count" : 16,
+        "item" : "3,045"
+      }, {
+        "count" : 15,
+        "item" : "1,263"
+      }, {
+        "count" : 14,
+        "item" : "640"
+      }, {
+        "count" : 13,
+        "item" : "3,020"
+      }, {
+        "count" : 12,
+        "item" : "426"
+      }, {
+        "count" : 11,
+        "item" : "344"
+      }, {
+        "count" : 10,
+        "item" : "153"
+      }, {
+        "count" : 9,
+        "item" : "308"
+      }, {
+        "count" : 8,
+        "item" : "365"
+      }, {
+        "count" : 7,
+        "item" : "1,160"
+      }, {
+        "count" : 6,
+        "item" : "142"
+      }, {
+        "count" : 5,
+        "item" : "33"
+      }, {
+        "count" : 4,
+        "item" : "104"
+      }, {
+        "count" : 3,
+        "item" : "51"
+      }, {
+        "count" : 2,
+        "item" : "1,983"
+      }, {
+        "count" : 1,
+        "item" : "2,677"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058675,
+    "name" : "TOTAL POPULATION",
+    "dataTypeName" : "text",
+    "description" : "The total number of persons living at the development based on the January 1, 2012 Resident Data Files including the Section 8 Transition\napartments in the LLC1 and LLC2 developments.",
+    "fieldName" : "total_population",
+    "position" : 19,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008520,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 349,
+      "smallest" : "1,003",
+      "null" : 3,
+      "largest" : "99",
+      "top" : [ {
+        "count" : 20,
+        "item" : "155"
+      }, {
+        "count" : 19,
+        "item" : "259"
+      }, {
+        "count" : 18,
+        "item" : "3,789"
+      }, {
+        "count" : 17,
+        "item" : "1,255"
+      }, {
+        "count" : 16,
+        "item" : "3,045"
+      }, {
+        "count" : 15,
+        "item" : "1,263"
+      }, {
+        "count" : 14,
+        "item" : "784"
+      }, {
+        "count" : 13,
+        "item" : "3,020"
+      }, {
+        "count" : 12,
+        "item" : "426"
+      }, {
+        "count" : 11,
+        "item" : "344"
+      }, {
+        "count" : 10,
+        "item" : "153"
+      }, {
+        "count" : 9,
+        "item" : "308"
+      }, {
+        "count" : 8,
+        "item" : "365"
+      }, {
+        "count" : 7,
+        "item" : "1,160"
+      }, {
+        "count" : 6,
+        "item" : "142"
+      }, {
+        "count" : 5,
+        "item" : "33"
+      }, {
+        "count" : 4,
+        "item" : "104"
+      }, {
+        "count" : 3,
+        "item" : "51"
+      }, {
+        "count" : 2,
+        "item" : "1,983"
+      }, {
+        "count" : 1,
+        "item" : "2,677"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058676,
+    "name" : "NUMBER OF RESIDENTIAL BLDGS",
+    "dataTypeName" : "text",
+    "description" : "The number of residential buildings on the grounds that are used for dwelling units.",
+    "fieldName" : "number_of_residential_bldgs",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008521,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 352,
+      "smallest" : "1",
+      "null" : 0,
+      "largest" : "9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "8"
+      }, {
+        "count" : 18,
+        "item" : "15"
+      }, {
+        "count" : 17,
+        "item" : "21"
+      }, {
+        "count" : 16,
+        "item" : "50"
+      }, {
+        "count" : 15,
+        "item" : "5"
+      }, {
+        "count" : 14,
+        "item" : "11"
+      }, {
+        "count" : 13,
+        "item" : "14"
+      }, {
+        "count" : 12,
+        "item" : "16"
+      }, {
+        "count" : 11,
+        "item" : "13"
+      }, {
+        "count" : 10,
+        "item" : "39"
+      }, {
+        "count" : 9,
+        "item" : "3"
+      }, {
+        "count" : 8,
+        "item" : "23"
+      }, {
+        "count" : 7,
+        "item" : "4"
+      }, {
+        "count" : 6,
+        "item" : "10"
+      }, {
+        "count" : 5,
+        "item" : "17"
+      }, {
+        "count" : 4,
+        "item" : "7"
+      }, {
+        "count" : 3,
+        "item" : "18"
+      }, {
+        "count" : 2,
+        "item" : "30"
+      }, {
+        "count" : 1,
+        "item" : "9"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058677,
+    "name" : "NUMBER OF NON-RESIDENTIAL BLDGS",
+    "dataTypeName" : "text",
+    "description" : "The number of non-residential buildings at a development.",
+    "fieldName" : "number_of_non_residential_bldgs",
+    "position" : 21,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008522,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 352,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "4",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      }, {
+        "count" : 18,
+        "item" : "2"
+      }, {
+        "count" : 17,
+        "item" : "3"
+      }, {
+        "count" : 16,
+        "item" : "4"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058678,
+    "name" : "NUMBER OF STAIRHALLS",
+    "dataTypeName" : "text",
+    "description" : "The number of individual entrances in each Development.",
+    "fieldName" : "number_of_stairhalls",
+    "position" : 22,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008523,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 342,
+      "smallest" : "1",
+      "null" : 10,
+      "largest" : "97",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "8"
+      }, {
+        "count" : 18,
+        "item" : "30"
+      }, {
+        "count" : 17,
+        "item" : "5"
+      }, {
+        "count" : 16,
+        "item" : "2"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "13"
+      }, {
+        "count" : 13,
+        "item" : "10"
+      }, {
+        "count" : 12,
+        "item" : "15"
+      }, {
+        "count" : 11,
+        "item" : "25"
+      }, {
+        "count" : 10,
+        "item" : "12"
+      }, {
+        "count" : 9,
+        "item" : "7"
+      }, {
+        "count" : 8,
+        "item" : "35"
+      }, {
+        "count" : 7,
+        "item" : "17"
+      }, {
+        "count" : 6,
+        "item" : "3"
+      }, {
+        "count" : 5,
+        "item" : "27"
+      }, {
+        "count" : 4,
+        "item" : "46"
+      }, {
+        "count" : 3,
+        "item" : "19"
+      }, {
+        "count" : 2,
+        "item" : "28"
+      }, {
+        "count" : 1,
+        "item" : "33"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058679,
+    "name" : "NUMBER OF STORIES",
+    "dataTypeName" : "text",
+    "description" : "The number of floors in each building.",
+    "fieldName" : "number_of_stories",
+    "position" : 23,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008524,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 352,
+      "smallest" : "1",
+      "null" : 0,
+      "largest" : "9-Jul",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4"
+      }, {
+        "count" : 19,
+        "item" : "7"
+      }, {
+        "count" : 18,
+        "item" : "6"
+      }, {
+        "count" : 17,
+        "item" : "14"
+      }, {
+        "count" : 16,
+        "item" : "21"
+      }, {
+        "count" : 15,
+        "item" : "20"
+      }, {
+        "count" : 14,
+        "item" : "3"
+      }, {
+        "count" : 13,
+        "item" : "16"
+      }, {
+        "count" : 12,
+        "item" : "6-May"
+      }, {
+        "count" : 11,
+        "item" : "5"
+      }, {
+        "count" : 10,
+        "item" : "10"
+      }, {
+        "count" : 9,
+        "item" : "8"
+      }, {
+        "count" : 8,
+        "item" : "14-15"
+      }, {
+        "count" : 7,
+        "item" : "12"
+      }, {
+        "count" : 6,
+        "item" : "7-Mar"
+      }, {
+        "count" : 5,
+        "item" : "11"
+      }, {
+        "count" : 4,
+        "item" : "14-21"
+      }, {
+        "count" : 3,
+        "item" : "19"
+      }, {
+        "count" : 2,
+        "item" : "25-Oct"
+      }, {
+        "count" : 1,
+        "item" : "3/4/2006"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058680,
+    "name" : "TOTAL AREA SQ FT",
+    "dataTypeName" : "text",
+    "description" : "This number includes land acquired and developed as part of the development for a park or playground to be operated and maintained by the\nNYC Department of Parks. At State and City Developments, the park or playground is owned by the City of New York. At ",
+    "fieldName" : "total_area_sq_ft",
+    "position" : 24,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008525,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 352,
+      "smallest" : "1,016,895",
+      "null" : 0,
+      "largest" : "997,521",
+      "top" : [ {
+        "count" : 20,
+        "item" : "181,770"
+      }, {
+        "count" : 19,
+        "item" : "51,965"
+      }, {
+        "count" : 18,
+        "item" : "36,563"
+      }, {
+        "count" : 17,
+        "item" : "35,321"
+      }, {
+        "count" : 16,
+        "item" : "803,058"
+      }, {
+        "count" : 15,
+        "item" : "242,859"
+      }, {
+        "count" : 14,
+        "item" : "1,016,895"
+      }, {
+        "count" : 13,
+        "item" : "133,188"
+      }, {
+        "count" : 12,
+        "item" : "100,247"
+      }, {
+        "count" : 11,
+        "item" : "971,398"
+      }, {
+        "count" : 10,
+        "item" : "140,000"
+      }, {
+        "count" : 9,
+        "item" : "67,637"
+      }, {
+        "count" : 8,
+        "item" : "22,763"
+      }, {
+        "count" : 7,
+        "item" : "25,176"
+      }, {
+        "count" : 6,
+        "item" : "25,131"
+      }, {
+        "count" : 5,
+        "item" : "253,000"
+      }, {
+        "count" : 4,
+        "item" : "28,251"
+      }, {
+        "count" : 3,
+        "item" : "4,200"
+      }, {
+        "count" : 2,
+        "item" : "19,319"
+      }, {
+        "count" : 1,
+        "item" : "5,000"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058681,
+    "name" : "ACRES",
+    "dataTypeName" : "text",
+    "description" : "The land area of the development including buildings and grounds is shown in acres (one acre equals 43,560 square feet).",
+    "fieldName" : "acres",
+    "position" : 25,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008526,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 352,
+      "smallest" : "0.07",
+      "null" : 0,
+      "largest" : "9.58",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.2"
+      }, {
+        "count" : 19,
+        "item" : "1.19"
+      }, {
+        "count" : 18,
+        "item" : "0.84"
+      }, {
+        "count" : 17,
+        "item" : "0.81"
+      }, {
+        "count" : 16,
+        "item" : "18.44"
+      }, {
+        "count" : 15,
+        "item" : "5.58"
+      }, {
+        "count" : 14,
+        "item" : "23.34"
+      }, {
+        "count" : 13,
+        "item" : "3.06"
+      }, {
+        "count" : 12,
+        "item" : "2.3"
+      }, {
+        "count" : 11,
+        "item" : "22.3"
+      }, {
+        "count" : 10,
+        "item" : "3.21"
+      }, {
+        "count" : 9,
+        "item" : "1.55"
+      }, {
+        "count" : 8,
+        "item" : "0.52"
+      }, {
+        "count" : 7,
+        "item" : "0.58"
+      }, {
+        "count" : 6,
+        "item" : "5.81"
+      }, {
+        "count" : 5,
+        "item" : "0.65"
+      }, {
+        "count" : 4,
+        "item" : "0.1"
+      }, {
+        "count" : 3,
+        "item" : "0.44"
+      }, {
+        "count" : 2,
+        "item" : "0.11"
+      }, {
+        "count" : 1,
+        "item" : "8.24"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058682,
+    "name" : "NET DEV AREA SQ FT",
+    "dataTypeName" : "text",
+    "description" : "This is square feet at a development less the land set aside for a park or playground. For the majority of developments this figure is the same\nacreage.",
+    "fieldName" : "net_dev_area_sq_ft",
+    "position" : 26,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008527,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 352,
+      "smallest" : "1,036,600",
+      "null" : 0,
+      "largest" : "99,827",
+      "top" : [ {
+        "count" : 20,
+        "item" : "181,770"
+      }, {
+        "count" : 19,
+        "item" : "51,965"
+      }, {
+        "count" : 18,
+        "item" : "36,563"
+      }, {
+        "count" : 17,
+        "item" : "35,321"
+      }, {
+        "count" : 16,
+        "item" : "744,421"
+      }, {
+        "count" : 15,
+        "item" : "242,859"
+      }, {
+        "count" : 14,
+        "item" : "927,103"
+      }, {
+        "count" : 13,
+        "item" : "133,188"
+      }, {
+        "count" : 12,
+        "item" : "100,247"
+      }, {
+        "count" : 11,
+        "item" : "971,398"
+      }, {
+        "count" : 10,
+        "item" : "100,000"
+      }, {
+        "count" : 9,
+        "item" : "67,637"
+      }, {
+        "count" : 8,
+        "item" : "22,763"
+      }, {
+        "count" : 7,
+        "item" : "25,176"
+      }, {
+        "count" : 6,
+        "item" : "25,131"
+      }, {
+        "count" : 5,
+        "item" : "253,000"
+      }, {
+        "count" : 4,
+        "item" : "28,251"
+      }, {
+        "count" : 3,
+        "item" : "4,200"
+      }, {
+        "count" : 2,
+        "item" : "19,319"
+      }, {
+        "count" : 1,
+        "item" : "5,000"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058683,
+    "name" : "EXCLUDING PARK ACRES",
+    "dataTypeName" : "text",
+    "description" : "This is the number of acres at a development less the land set aside for a park or playground. For the majority of developments this figure is the\nsame as “acres”.",
+    "fieldName" : "excluding_park_acres",
+    "position" : 27,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008528,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 352,
+      "smallest" : "0.07",
+      "null" : 0,
+      "largest" : "9.57",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.2"
+      }, {
+        "count" : 19,
+        "item" : "1.19"
+      }, {
+        "count" : 18,
+        "item" : "0.84"
+      }, {
+        "count" : 17,
+        "item" : "0.81"
+      }, {
+        "count" : 16,
+        "item" : "17.09"
+      }, {
+        "count" : 15,
+        "item" : "5.58"
+      }, {
+        "count" : 14,
+        "item" : "21.28"
+      }, {
+        "count" : 13,
+        "item" : "3.06"
+      }, {
+        "count" : 12,
+        "item" : "2.3"
+      }, {
+        "count" : 11,
+        "item" : "22.3"
+      }, {
+        "count" : 10,
+        "item" : "1.55"
+      }, {
+        "count" : 9,
+        "item" : "0.52"
+      }, {
+        "count" : 8,
+        "item" : "0.58"
+      }, {
+        "count" : 7,
+        "item" : "5.81"
+      }, {
+        "count" : 6,
+        "item" : "0.65"
+      }, {
+        "count" : 5,
+        "item" : "0.1"
+      }, {
+        "count" : 4,
+        "item" : "0.44"
+      }, {
+        "count" : 3,
+        "item" : "0.11"
+      }, {
+        "count" : 2,
+        "item" : "7.2"
+      }, {
+        "count" : 1,
+        "item" : "12.24"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058684,
+    "name" : "BLDG COVERAGE SQ FT",
+    "dataTypeName" : "text",
+    "description" : "The total ground floor area of the building footprints of a development.",
+    "fieldName" : "bldg_coverage_sq_ft",
+    "position" : 28,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008529,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 341,
+      "smallest" : "1,599",
+      "null" : 11,
+      "largest" : "98,822",
+      "top" : [ {
+        "count" : 20,
+        "item" : "24,456"
+      }, {
+        "count" : 19,
+        "item" : "41,422"
+      }, {
+        "count" : 18,
+        "item" : "6,811"
+      }, {
+        "count" : 17,
+        "item" : "13,176"
+      }, {
+        "count" : 16,
+        "item" : "7,891"
+      }, {
+        "count" : 15,
+        "item" : "31,158"
+      }, {
+        "count" : 14,
+        "item" : "10,811"
+      }, {
+        "count" : 13,
+        "item" : "2,803"
+      }, {
+        "count" : 12,
+        "item" : "8,080"
+      }, {
+        "count" : 11,
+        "item" : "3,363"
+      }, {
+        "count" : 10,
+        "item" : "51,875"
+      }, {
+        "count" : 9,
+        "item" : "94,508"
+      }, {
+        "count" : 8,
+        "item" : "44,044"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058685,
+    "name" : "CUBAGE CU FT",
+    "dataTypeName" : "text",
+    "description" : "Cubic Space (height x length x width of residential buildings) in all the buildings at a development, expressed as cubic feet.",
+    "fieldName" : "cubage_cu_ft",
+    "position" : 29,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008530,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 340,
+      "smallest" : "1,011,839",
+      "null" : 12,
+      "largest" : "999,600",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2,308,080"
+      }, {
+        "count" : 19,
+        "item" : "613,400"
+      }, {
+        "count" : 18,
+        "item" : "1,575,535"
+      }, {
+        "count" : 17,
+        "item" : "1,363,220"
+      }, {
+        "count" : 16,
+        "item" : "4,724,612"
+      }, {
+        "count" : 15,
+        "item" : "649,812"
+      }, {
+        "count" : 14,
+        "item" : "150,400"
+      }, {
+        "count" : 13,
+        "item" : "508,109"
+      }, {
+        "count" : 12,
+        "item" : "202,892"
+      }, {
+        "count" : 11,
+        "item" : "7,162,265"
+      }, {
+        "count" : 10,
+        "item" : "10,999,163"
+      }, {
+        "count" : 9,
+        "item" : "6,568,578"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058686,
+    "name" : "BLDG COVERAGE %",
+    "dataTypeName" : "text",
+    "description" : "This is the building coverage, divided by a development’s total area in square feet. This figure is presented as a percentage.",
+    "fieldName" : "bldg_coverage__",
+    "position" : 30,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008531,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 341,
+      "smallest" : "10.10%",
+      "null" : 11,
+      "largest" : "9.80%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "17.50%"
+      }, {
+        "count" : 19,
+        "item" : "61.20%"
+      }, {
+        "count" : 18,
+        "item" : "29.90%"
+      }, {
+        "count" : 17,
+        "item" : "52.30%"
+      }, {
+        "count" : 16,
+        "item" : "31.40%"
+      }, {
+        "count" : 15,
+        "item" : "12.30%"
+      }, {
+        "count" : 14,
+        "item" : "38.30%"
+      }, {
+        "count" : 13,
+        "item" : "66.70%"
+      }, {
+        "count" : 12,
+        "item" : "41.80%"
+      }, {
+        "count" : 11,
+        "item" : "67.30%"
+      }, {
+        "count" : 10,
+        "item" : "14.50%"
+      }, {
+        "count" : 9,
+        "item" : "17.70%"
+      }, {
+        "count" : 8,
+        "item" : "10.60%"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058687,
+    "name" : "DENSITY",
+    "dataTypeName" : "text",
+    "description" : "Measure of development density as represented by the number of persons per acre.",
+    "fieldName" : "density",
+    "position" : 31,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008532,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 349,
+      "smallest" : "101",
+      "null" : 3,
+      "largest" : "99",
+      "top" : [ {
+        "count" : 20,
+        "item" : "185"
+      }, {
+        "count" : 19,
+        "item" : "320"
+      }, {
+        "count" : 18,
+        "item" : "205"
+      }, {
+        "count" : 17,
+        "item" : "225"
+      }, {
+        "count" : 16,
+        "item" : "130"
+      }, {
+        "count" : 15,
+        "item" : "413"
+      }, {
+        "count" : 14,
+        "item" : "341"
+      }, {
+        "count" : 13,
+        "item" : "135"
+      }, {
+        "count" : 12,
+        "item" : "133"
+      }, {
+        "count" : 11,
+        "item" : "222"
+      }, {
+        "count" : 10,
+        "item" : "294"
+      }, {
+        "count" : 9,
+        "item" : "531"
+      }, {
+        "count" : 8,
+        "item" : "629"
+      }, {
+        "count" : 7,
+        "item" : "200"
+      }, {
+        "count" : 6,
+        "item" : "218"
+      }, {
+        "count" : 5,
+        "item" : "330"
+      }, {
+        "count" : 4,
+        "item" : "236"
+      }, {
+        "count" : 3,
+        "item" : "464"
+      }, {
+        "count" : 2,
+        "item" : "241"
+      }, {
+        "count" : 1,
+        "item" : "219"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058688,
+    "name" : "DEVELOPMENT COST",
+    "dataTypeName" : "text",
+    "description" : "The sum of the land cost, construction cost and site improvement cost, including fees for architects and engineers at the time of\noriginal construction.",
+    "fieldName" : "development_cost",
+    "position" : 32,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008533,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 344,
+      "smallest" : "$1,096,000 ",
+      "null" : 8,
+      "largest" : "$996,698 ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "$13,063,992 "
+      }, {
+        "count" : 19,
+        "item" : "$7,162,000 "
+      }, {
+        "count" : 18,
+        "item" : "$7,774,000 "
+      }, {
+        "count" : 17,
+        "item" : "$13,777,000 "
+      }, {
+        "count" : 16,
+        "item" : "$8,225,987 "
+      }, {
+        "count" : 15,
+        "item" : "$4,190,975 "
+      }, {
+        "count" : 14,
+        "item" : "$7,228,361 "
+      }, {
+        "count" : 13,
+        "item" : "$10,130,155 "
+      }, {
+        "count" : 12,
+        "item" : "$5,015,464 "
+      }, {
+        "count" : 11,
+        "item" : "$1,189,930 "
+      }, {
+        "count" : 10,
+        "item" : "$3,401,250 "
+      }, {
+        "count" : 9,
+        "item" : "$1,558,811 "
+      }, {
+        "count" : 8,
+        "item" : "$15,391,181 "
+      }, {
+        "count" : 7,
+        "item" : "$22,701,754 "
+      }, {
+        "count" : 6,
+        "item" : "$14,739,246 "
+      }, {
+        "count" : 5,
+        "item" : "$12,020,098 "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058689,
+    "name" : "PER RENTAL ROOM",
+    "dataTypeName" : "text",
+    "description" : "Cost to develop the property divided by the number of rental rooms at the time of original construction.",
+    "fieldName" : "per_rental_room",
+    "position" : 33,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008534,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 344,
+      "smallest" : "$1,010 ",
+      "null" : 8,
+      "largest" : "$9,907 ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "$15,823 "
+      }, {
+        "count" : 19,
+        "item" : "$3,219 "
+      }, {
+        "count" : 18,
+        "item" : "$4,441 "
+      }, {
+        "count" : 17,
+        "item" : "$2,251 "
+      }, {
+        "count" : 16,
+        "item" : "$5,785 "
+      }, {
+        "count" : 15,
+        "item" : "$4,936 "
+      }, {
+        "count" : 14,
+        "item" : "$4,167 "
+      }, {
+        "count" : 13,
+        "item" : "$4,149 "
+      }, {
+        "count" : 12,
+        "item" : "$17,629 "
+      }, {
+        "count" : 11,
+        "item" : "$18,167 "
+      }, {
+        "count" : 10,
+        "item" : "$17,309 "
+      }, {
+        "count" : 9,
+        "item" : "$18,339 "
+      }, {
+        "count" : 8,
+        "item" : "$4,008 "
+      }, {
+        "count" : 7,
+        "item" : "$3,933 "
+      }, {
+        "count" : 6,
+        "item" : "$4,277 "
+      }, {
+        "count" : 5,
+        "item" : "$51,149 "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058690,
+    "name" : "AVG MONTHLY GROSS RENT",
+    "dataTypeName" : "text",
+    "description" : "This is the average gross monthly rent of the households in each development as of January 1, 2012. The average tenant share of rent for the\nSection 8 households in the LLC1 & LLC2 Developments is included.",
+    "fieldName" : "avg_monthly_gross_rent",
+    "position" : 34,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008535,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 349,
+      "smallest" : "$235 ",
+      "null" : 3,
+      "largest" : "$907 ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "$456 "
+      }, {
+        "count" : 19,
+        "item" : "$465 "
+      }, {
+        "count" : 18,
+        "item" : "$424 "
+      }, {
+        "count" : 17,
+        "item" : "$373 "
+      }, {
+        "count" : 16,
+        "item" : "$407 "
+      }, {
+        "count" : 15,
+        "item" : "$530 "
+      }, {
+        "count" : 14,
+        "item" : "$432 "
+      }, {
+        "count" : 13,
+        "item" : "$481 "
+      }, {
+        "count" : 12,
+        "item" : "$277 "
+      }, {
+        "count" : 11,
+        "item" : "$406 "
+      }, {
+        "count" : 10,
+        "item" : "$505 "
+      }, {
+        "count" : 9,
+        "item" : "$441 "
+      }, {
+        "count" : 8,
+        "item" : "$431 "
+      }, {
+        "count" : 7,
+        "item" : "$473 "
+      }, {
+        "count" : 6,
+        "item" : "$419 "
+      }, {
+        "count" : 5,
+        "item" : "$447 "
+      }, {
+        "count" : 4,
+        "item" : "$410 "
+      }, {
+        "count" : 3,
+        "item" : "$436 "
+      }, {
+        "count" : 2,
+        "item" : "$451 "
+      }, {
+        "count" : 1,
+        "item" : "$486 "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058691,
+    "name" : "LOCATION STREET A",
+    "dataTypeName" : "text",
+    "description" : "For NYCHA developments that fit into a relatively neat rectangular block or two, these fields should be the four\nborder streets (north, south, east and west) of the Development. For developments that are spread over some distance such as West Farms\nRoad R",
+    "fieldName" : "location_street_a",
+    "position" : 35,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008536,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 352,
+      "smallest" : "108TH ST",
+      "null" : 0,
+      "largest" : "YORK ST",
+      "top" : [ {
+        "count" : 20,
+        "item" : "SUTTER AVE"
+      }, {
+        "count" : 19,
+        "item" : "W 90TH ST"
+      }, {
+        "count" : 18,
+        "item" : "DUMONT AVE"
+      }, {
+        "count" : 17,
+        "item" : "PARK AVE"
+      }, {
+        "count" : 16,
+        "item" : "FDR DRIVE"
+      }, {
+        "count" : 15,
+        "item" : "E 104TH ST"
+      }, {
+        "count" : 14,
+        "item" : "W 176TH ST"
+      }, {
+        "count" : 13,
+        "item" : "W 156TH ST"
+      }, {
+        "count" : 12,
+        "item" : "CASTLETON AVE"
+      }, {
+        "count" : 11,
+        "item" : "W 89TH & 90TH STS"
+      }, {
+        "count" : 10,
+        "item" : "120 W 94TH ST"
+      }, {
+        "count" : 9,
+        "item" : "74 W 92ND ST"
+      }, {
+        "count" : 8,
+        "item" : "589 AMSTERDAM AVE"
+      }, {
+        "count" : 7,
+        "item" : "THIRD AVE"
+      }, {
+        "count" : 6,
+        "item" : "E 169TH ST"
+      }, {
+        "count" : 5,
+        "item" : "FRANKLIN AVE"
+      }, {
+        "count" : 4,
+        "item" : "E 167TH ST"
+      }, {
+        "count" : 3,
+        "item" : "W 104TH ST"
+      }, {
+        "count" : 2,
+        "item" : "PROSPECT AVENUE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058692,
+    "name" : "LOCATION STREET B",
+    "dataTypeName" : "text",
+    "description" : "For NYCHA developments that fit into a relatively neat rectangular block or two, these fields should be the four\nborder streets (north, south, east and west) of the Development. For developments that are spread over some distance such as West Farms\nRoad R",
+    "fieldName" : "location_street_b",
+    "position" : 36,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008537,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 348,
+      "smallest" : "14 BROOKLYN",
+      "null" : 4,
+      "largest" : "WORTMAN AVE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "AVENUE D"
+      }, {
+        "count" : 19,
+        "item" : "AMSTERDAM AVE"
+      }, {
+        "count" : 18,
+        "item" : "PROSPECT AVE"
+      }, {
+        "count" : 17,
+        "item" : "PARK AVE"
+      }, {
+        "count" : 16,
+        "item" : "POWELL ST"
+      }, {
+        "count" : 15,
+        "item" : "SECOND AVE"
+      }, {
+        "count" : 14,
+        "item" : "BROADWAY"
+      }, {
+        "count" : 13,
+        "item" : "FRANKLIN AVE"
+      }, {
+        "count" : 12,
+        "item" : "E 170TH ST"
+      }, {
+        "count" : 11,
+        "item" : "LONGFELLOW AVE"
+      }, {
+        "count" : 10,
+        "item" : "E 171ST ST"
+      }, {
+        "count" : 9,
+        "item" : "MANHATTAN AVE"
+      }, {
+        "count" : 8,
+        "item" : "COLUMBUS AVE"
+      }, {
+        "count" : 7,
+        "item" : "UNION AVENUE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058693,
+    "name" : "LOCATION STREET C",
+    "dataTypeName" : "text",
+    "description" : "For NYCHA developments that fit into a relatively neat rectangular block or two, these fields should be the four\nborder streets (north, south, east and west) of the Development. For developments that are spread over some distance such as West Farms\nRoad R",
+    "fieldName" : "location_street_c",
+    "position" : 37,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008538,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 337,
+      "smallest" : "116TH AVE",
+      "null" : 15,
+      "largest" : "WYTHE AVE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "AMSTERDAM AVE"
+      }, {
+        "count" : 19,
+        "item" : "LENOX AVE"
+      }, {
+        "count" : 18,
+        "item" : "MYRTLE AVE"
+      }, {
+        "count" : 17,
+        "item" : "W 177TH ST"
+      }, {
+        "count" : 16,
+        "item" : "WEST FARMS RD"
+      }, {
+        "count" : 15,
+        "item" : "COLUMBUS AVE"
+      }, {
+        "count" : 14,
+        "item" : "E 170TH ST"
+      }, {
+        "count" : 13,
+        "item" : "W 100TH ST"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058694,
+    "name" : "LOCATION STREET D",
+    "dataTypeName" : "text",
+    "description" : "For NYCHA developments that fit into a relatively neat rectangular block or two, these fields should be the four\nborder streets (north, south, east and west) of the Development. For developments that are spread over some distance such as West Farms\nRoad R",
+    "fieldName" : "location_street_d",
+    "position" : 38,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008539,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 278,
+      "smallest" : "109TH AVE",
+      "null" : 74,
+      "largest" : "YATES AVE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "PARK AVE"
+      }, {
+        "count" : 19,
+        "item" : "LEXINGTON AVE"
+      }, {
+        "count" : 18,
+        "item" : "RALPH AVE"
+      }, {
+        "count" : 17,
+        "item" : "UNION AVE"
+      }, {
+        "count" : 16,
+        "item" : "FLATLANDS AVE"
+      }, {
+        "count" : 15,
+        "item" : "JACKSON ST"
+      }, {
+        "count" : 14,
+        "item" : "FDR DRIVE"
+      }, {
+        "count" : 13,
+        "item" : "E HOUSTON ST"
+      }, {
+        "count" : 12,
+        "item" : "THIRD AVE"
+      }, {
+        "count" : 11,
+        "item" : "AUDUBON AVE"
+      }, {
+        "count" : 10,
+        "item" : "W 164TH,165TH STS"
+      }, {
+        "count" : 9,
+        "item" : "AMSTERDAM AVE"
+      }, {
+        "count" : 8,
+        "item" : "WEBSTER AVE"
+      }, {
+        "count" : 7,
+        "item" : "TROY AVE"
+      }, {
+        "count" : 6,
+        "item" : "BROADWAY"
+      }, {
+        "count" : 5,
+        "item" : "LONGFELLOW AVE"
+      }, {
+        "count" : 4,
+        "item" : "SEDGWICK AVE"
+      }, {
+        "count" : 3,
+        "item" : "SAINT EDWARDS ST"
+      }, {
+        "count" : 2,
+        "item" : "MARCY AVE"
+      }, {
+        "count" : 1,
+        "item" : "SCHOLES ST"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058695,
+    "name" : "BOROUGH",
+    "dataTypeName" : "text",
+    "description" : "Bronx, Brooklyn, Manhattan, Queens, or Staten Island.",
+    "fieldName" : "borough",
+    "position" : 39,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008540,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 342,
+      "smallest" : "BRONX",
+      "null" : 10,
+      "largest" : "STATEN ISLAND",
+      "top" : [ {
+        "count" : 20,
+        "item" : "MANHATTAN"
+      }, {
+        "count" : 19,
+        "item" : "BROOKLYN"
+      }, {
+        "count" : 18,
+        "item" : "BRONX"
+      }, {
+        "count" : 17,
+        "item" : "QUEENS"
+      }, {
+        "count" : 16,
+        "item" : "STATEN ISLAND"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058696,
+    "name" : "COMMUNITY DISTIRCT",
+    "dataTypeName" : "text",
+    "description" : "Community District Number",
+    "fieldName" : "community_distirct",
+    "position" : 40,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008541,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 342,
+      "smallest" : "1",
+      "null" : 10,
+      "largest" : "9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11"
+      }, {
+        "count" : 19,
+        "item" : "8"
+      }, {
+        "count" : 18,
+        "item" : "5"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "13"
+      }, {
+        "count" : 15,
+        "item" : "12"
+      }, {
+        "count" : 14,
+        "item" : "1"
+      }, {
+        "count" : 13,
+        "item" : "3"
+      }, {
+        "count" : 12,
+        "item" : "7"
+      }, {
+        "count" : 11,
+        "item" : "6"
+      }, {
+        "count" : 10,
+        "item" : "18"
+      }, {
+        "count" : 9,
+        "item" : "14"
+      }, {
+        "count" : 8,
+        "item" : "9"
+      }, {
+        "count" : 7,
+        "item" : "2"
+      }, {
+        "count" : 6,
+        "item" : "16"
+      }, {
+        "count" : 5,
+        "item" : "10"
+      }, {
+        "count" : 4,
+        "item" : "8, 16"
+      }, {
+        "count" : 3,
+        "item" : "17"
+      }, {
+        "count" : 2,
+        "item" : "1, 4"
+      }, {
+        "count" : 1,
+        "item" : "3, 4"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058697,
+    "name" : "US CONGRESSIONAL DISTRICT",
+    "dataTypeName" : "text",
+    "description" : "Congressional District Number",
+    "fieldName" : "us_congressional_district",
+    "position" : 41,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008542,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 342,
+      "smallest" : "10",
+      "null" : 10,
+      "largest" : "9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "13"
+      }, {
+        "count" : 19,
+        "item" : "8, 9"
+      }, {
+        "count" : 18,
+        "item" : "8"
+      }, {
+        "count" : 17,
+        "item" : "15"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "12"
+      }, {
+        "count" : 14,
+        "item" : "10"
+      }, {
+        "count" : 13,
+        "item" : "6"
+      }, {
+        "count" : 12,
+        "item" : "16"
+      }, {
+        "count" : 11,
+        "item" : "7"
+      }, {
+        "count" : 10,
+        "item" : "11"
+      }, {
+        "count" : 9,
+        "item" : "14"
+      }, {
+        "count" : 8,
+        "item" : "9"
+      }, {
+        "count" : 7,
+        "item" : "7, 8"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058698,
+    "name" : "NY STATE SENATE DISTRICT",
+    "dataTypeName" : "text",
+    "description" : "New York State Senate District Number",
+    "fieldName" : "ny_state_senate_district",
+    "position" : 42,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008543,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 342,
+      "smallest" : "10",
+      "null" : 10,
+      "largest" : "36",
+      "top" : [ {
+        "count" : 20,
+        "item" : "29"
+      }, {
+        "count" : 19,
+        "item" : "20, 25"
+      }, {
+        "count" : 18,
+        "item" : "18, 19"
+      }, {
+        "count" : 17,
+        "item" : "32"
+      }, {
+        "count" : 16,
+        "item" : "23"
+      }, {
+        "count" : 15,
+        "item" : "14"
+      }, {
+        "count" : 14,
+        "item" : "18"
+      }, {
+        "count" : 13,
+        "item" : "30"
+      }, {
+        "count" : 12,
+        "item" : "19"
+      }, {
+        "count" : 11,
+        "item" : "26"
+      }, {
+        "count" : 10,
+        "item" : "16"
+      }, {
+        "count" : 9,
+        "item" : "33"
+      }, {
+        "count" : 8,
+        "item" : "31"
+      }, {
+        "count" : 7,
+        "item" : "36"
+      }, {
+        "count" : 6,
+        "item" : "10"
+      }, {
+        "count" : 5,
+        "item" : "10, 14"
+      }, {
+        "count" : 4,
+        "item" : "24"
+      }, {
+        "count" : 3,
+        "item" : "11"
+      }, {
+        "count" : 2,
+        "item" : "34"
+      }, {
+        "count" : 1,
+        "item" : "25"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058699,
+    "name" : "NY STATE ASSEMBLY DISTRICT",
+    "dataTypeName" : "text",
+    "description" : "New York State Assembly District Number",
+    "fieldName" : "ny_state_assembly_district",
+    "position" : 43,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008544,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 342,
+      "smallest" : "27",
+      "null" : 10,
+      "largest" : "87",
+      "top" : [ {
+        "count" : 20,
+        "item" : "68"
+      }, {
+        "count" : 19,
+        "item" : "60"
+      }, {
+        "count" : 18,
+        "item" : "77"
+      }, {
+        "count" : 17,
+        "item" : "46"
+      }, {
+        "count" : 16,
+        "item" : "50"
+      }, {
+        "count" : 15,
+        "item" : "79"
+      }, {
+        "count" : 14,
+        "item" : "69"
+      }, {
+        "count" : 13,
+        "item" : "55"
+      }, {
+        "count" : 12,
+        "item" : "74"
+      }, {
+        "count" : 11,
+        "item" : "71"
+      }, {
+        "count" : 10,
+        "item" : "83"
+      }, {
+        "count" : 9,
+        "item" : "31"
+      }, {
+        "count" : 8,
+        "item" : "86"
+      }, {
+        "count" : 7,
+        "item" : "54"
+      }, {
+        "count" : 6,
+        "item" : "84"
+      }, {
+        "count" : 5,
+        "item" : "53"
+      }, {
+        "count" : 4,
+        "item" : "85"
+      }, {
+        "count" : 3,
+        "item" : "75"
+      }, {
+        "count" : 2,
+        "item" : "70"
+      }, {
+        "count" : 1,
+        "item" : "56"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058700,
+    "name" : "NY CITY COUNCIL DISTRICT",
+    "dataTypeName" : "text",
+    "description" : "New York City Council District Number",
+    "fieldName" : "ny_city_council_district",
+    "position" : 44,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008545,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 342,
+      "smallest" : "01, 02",
+      "null" : 10,
+      "largest" : "9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8"
+      }, {
+        "count" : 19,
+        "item" : "41"
+      }, {
+        "count" : 18,
+        "item" : "42"
+      }, {
+        "count" : 17,
+        "item" : "16"
+      }, {
+        "count" : 16,
+        "item" : "47"
+      }, {
+        "count" : 15,
+        "item" : "34"
+      }, {
+        "count" : 14,
+        "item" : "17"
+      }, {
+        "count" : 13,
+        "item" : "6"
+      }, {
+        "count" : 12,
+        "item" : "37"
+      }, {
+        "count" : 11,
+        "item" : "2"
+      }, {
+        "count" : 10,
+        "item" : "14"
+      }, {
+        "count" : 9,
+        "item" : "7"
+      }, {
+        "count" : 8,
+        "item" : "12"
+      }, {
+        "count" : 7,
+        "item" : "31"
+      }, {
+        "count" : 6,
+        "item" : "36"
+      }, {
+        "count" : 5,
+        "item" : "20"
+      }, {
+        "count" : 4,
+        "item" : "13"
+      }, {
+        "count" : 3,
+        "item" : "18"
+      }, {
+        "count" : 2,
+        "item" : "15"
+      }, {
+        "count" : 1,
+        "item" : "49"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058701,
+    "name" : "COMPLETION DATE",
+    "dataTypeName" : "text",
+    "description" : "The Initial Occupancy Completion Date: The date when the development was at least 95% occupied.",
+    "fieldName" : "completion_date",
+    "position" : 45,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008546,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 350,
+      "smallest" : "1/1/1981",
+      "null" : 2,
+      "largest" : "9/4/1986",
+      "top" : [ {
+        "count" : 20,
+        "item" : "7/31/1973"
+      }, {
+        "count" : 19,
+        "item" : "1/31/1964"
+      }, {
+        "count" : 18,
+        "item" : "6/30/1961"
+      }, {
+        "count" : 17,
+        "item" : "11/30/1987"
+      }, {
+        "count" : 16,
+        "item" : "4/30/1964"
+      }, {
+        "count" : 15,
+        "item" : "9/30/1965"
+      }, {
+        "count" : 14,
+        "item" : "12/31/1966"
+      }, {
+        "count" : 13,
+        "item" : "8/31/1994"
+      }, {
+        "count" : 12,
+        "item" : "6/30/1994"
+      }, {
+        "count" : 11,
+        "item" : "8/31/1965"
+      }, {
+        "count" : 10,
+        "item" : "9/25/1958"
+      }, {
+        "count" : 9,
+        "item" : "5/24/2005"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058702,
+    "name" : "FEDERALIZED DEVELOPMENT",
+    "dataTypeName" : "text",
+    "description" : "A development transferred from the City or State Program. The book has a list of developments that were transferred after construction was\ncompleted from either the City or State Program to the Federal Program. These developments are managed and operated ",
+    "fieldName" : "federalized_development",
+    "position" : 46,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008547,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 66,
+      "smallest" : "1968/08/29-FED TRAN",
+      "null" : 286,
+      "largest" : "1995/07/13-PTA",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1978/07/01-ATP 3"
+      }, {
+        "count" : 19,
+        "item" : "1995/07/13-PTA"
+      }, {
+        "count" : 18,
+        "item" : "1972/06/29-FED TRAN"
+      }, {
+        "count" : 17,
+        "item" : "1980/10/01-ATP 7"
+      }, {
+        "count" : 16,
+        "item" : "1977/07/01-ATP 1"
+      }, {
+        "count" : 15,
+        "item" : "1979/08/01-ATP 4"
+      }, {
+        "count" : 14,
+        "item" : "1980/07/01-ATP 5"
+      }, {
+        "count" : 13,
+        "item" : "1980/07/01-ATP 6"
+      }, {
+        "count" : 12,
+        "item" : "1978/02/01-ATP 2"
+      }, {
+        "count" : 11,
+        "item" : "1968/08/29-FED TRAN"
+      }, {
+        "count" : 10,
+        "item" : "1971/06/29-FED TRAN"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058703,
+    "name" : "SENIOR DEVELOPMENT",
+    "dataTypeName" : "text",
+    "description" : "A senior development where all residents are senior, aged 62 or older, is denoted as \"Exclusively\". A development where only some buildings\nare designated for senior residents is denoted as \"Partially\". A list of these developments is also included on pag",
+    "fieldName" : "senior_development",
+    "position" : 47,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008548,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 56,
+      "smallest" : "EXCLUSIVELY",
+      "null" : 296,
+      "largest" : "PARTIALLY",
+      "top" : [ {
+        "count" : 20,
+        "item" : "EXCLUSIVELY"
+      }, {
+        "count" : 19,
+        "item" : "PARTIALLY"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058704,
+    "name" : "ELECTRICITY PAID BY RESIDENTS",
+    "dataTypeName" : "text",
+    "description" : "A \"Yes\" indicates developments where residents pay for their electricity.",
+    "fieldName" : "electricity_paid_by_residents",
+    "position" : 48,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008549,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 97,
+      "smallest" : "YES",
+      "null" : 255,
+      "largest" : "YES",
+      "top" : [ {
+        "count" : 20,
+        "item" : "YES"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058705,
+    "name" : "PRIVATE MANAGEMENT",
+    "dataTypeName" : "text",
+    "description" : "A \"Yes\" indicates Developments managed by a private management company. A list of these developments is also included on page 133 of this\nbook.",
+    "fieldName" : "private_management",
+    "position" : 49,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008550,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 29,
+      "smallest" : "YES",
+      "null" : 323,
+      "largest" : "YES",
+      "top" : [ {
+        "count" : 20,
+        "item" : "YES"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "nycha", "nyc housing", "developments", "programs", "statistics", "locations" ],
+  "flags" : [ "default" ]
+}

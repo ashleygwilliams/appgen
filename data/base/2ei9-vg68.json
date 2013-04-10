@@ -1,0 +1,173 @@
+{
+  "id" : "2ei9-vg68",
+  "name" : "NYCHA Application Priority Codes",
+  "attribution" : "New York City Housing Authority (NYCHA)",
+  "attributionLink" : "http://www.nyc.gov/html/nycha/html/assistance/need_based.shtml",
+  "averageRating" : 0,
+  "category" : "Construction and Housing",
+  "createdAt" : 1364497876,
+  "description" : "Priority codes assigned to applicants by NYCHA",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2999049,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1364581108,
+  "publicationGroup" : 761956,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1364581088,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 764094,
+  "totalTimesRated" : 0,
+  "viewCount" : 9,
+  "viewLastModified" : 1364581115,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 54058444,
+    "name" : "Priority Code",
+    "dataTypeName" : "text",
+    "description" : "NYCHA code used to identify the priority of the application",
+    "fieldName" : "priority_code",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008554,
+    "width" : 117,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "N-0",
+      "null" : 0,
+      "largest" : "N-8",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N-0"
+      }, {
+        "count" : 19,
+        "item" : "N-1"
+      }, {
+        "count" : 18,
+        "item" : "N-3"
+      }, {
+        "count" : 17,
+        "item" : "N-4"
+      }, {
+        "count" : 16,
+        "item" : "N-8"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058445,
+    "name" : "Title",
+    "dataTypeName" : "text",
+    "description" : "Label for the priority code",
+    "fieldName" : "title",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008555,
+    "width" : 310,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "City Agency Referrals",
+      "null" : 0,
+      "largest" : "Victims of Domestic Violence and Intimidated Witnesses",
+      "top" : [ {
+        "count" : 20,
+        "item" : "City Agency Referrals"
+      }, {
+        "count" : 19,
+        "item" : "Victims of Domestic Violence and Intimidated Witnesses"
+      }, {
+        "count" : 18,
+        "item" : "Government-Ordered Vacate"
+      }, {
+        "count" : 17,
+        "item" : "Residing in Sub-Standard Conditions or Rent Hardship"
+      }, {
+        "count" : 16,
+        "item" : "No Need-Based Preference"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54058446,
+    "name" : "Description",
+    "dataTypeName" : "text",
+    "description" : "Description of reasoning used for the priority code",
+    "fieldName" : "description",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9008556,
+    "width" : 738,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "Applicants living in housing declared uninhabitable by the New York City Department of Housing Preservation and Development (HPD), or another government agency, or already displaced due to a government order and not living in standard permanent replacement housing or applicants about to be displaced by a government order from a site to be used for a public housing project or public improvement. These applications must be referred directly to the New York Housing Authority by the responsible City Agency.",
+      "null" : 0,
+      "largest" : "Families who do not qualify for a Need Based Preference and are not now renting either a New York City Housing Authority public housing or Section 8 apartment.\n\nFamilies who do not live, work or have a commitment for a job in New York City.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Applicants who are referred to the Housing Authority by the New York City Department of Homeless Services (“DHS”), or by the HIV/AIDS Services Administration (“HASA”), or by the New York City Department of Housing Preservation and Development (“HPD”), or by the Administration for Children's Services (“ACS”), pursuant to an agreement with the Housing Authority. These families must be referred by the City Agency directly to the New York City Housing Authority.\n\nApplicants about to be discharged from a hospital operated by the New York City Health and Hospitals Corporation (“HHC”), who would become homeless upon discharge and who are referred to the Housing Authority by HHC. These families must be referred by the City Agency directly to the New York City Housing Authority."
+      }, {
+        "count" : 19,
+        "item" : "Applicants who have suffered serious or repeated abuse from a family member or a person with whom they had, or continue to have, an intimate relationship, and as a result of the abuse the victim suffered actual physical injury or the threat of injury, and the victim: (a) will continue to suffer abuse if he or she continues to live in the current residence, or (b) has left the residence due to the abuse and is not living in standard permanent replacement housing. Victims of domestic violence will not be offered an apartment near the residence which they resided at the time of the abuse, and such applicants in Staten Island may not select Staten Island.\n\nTo qualify for this priority, the applicant must provide documentation. Please see the documentation requirements below.\nVictim of Domestic Violence - Documentation Requirements (in PDF)\nVictim of Domestic Violence - Inpatient Hospital Letter (if applicable) (in PDF)\n\nApplicants with a family member cooperating in a criminal investigation/prosecution, where a member of the household has been threatened by a defendant or by a person associated with a defendant. Intimidated Witness applicants will not be offered an apartment near the residence in which they resided at the time of the incident, and such applicants in Staten Island may not select Staten Island. To qualify for this priority, the applicant must be referred directly to the Housing Authority from the District Attorney’s Office.\n\n"
+      }, {
+        "count" : 18,
+        "item" : "Applicants living in housing declared uninhabitable by the New York City Department of Housing Preservation and Development (HPD), or another government agency, or already displaced due to a government order and not living in standard permanent replacement housing or applicants about to be displaced by a government order from a site to be used for a public housing project or public improvement. These applications must be referred directly to the New York Housing Authority by the responsible City Agency."
+      }, {
+        "count" : 17,
+        "item" : "Families who are homeless, involuntarily displaced, living in substandard housing, doubled-up or overcrowded in private housing, paying more than 50% of family gross income for rent, or legally doubled-up and overcrowded in NYCHA public housing.\n\nVerification of these priorities will either be requested or confirmed during the eligibility processing of the application."
+      }, {
+        "count" : 16,
+        "item" : "Families who do not qualify for a Need Based Preference and are not now renting either a New York City Housing Authority public housing or Section 8 apartment.\n\nFamilies who do not live, work or have a commitment for a job in New York City."
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "nycha", "nyc housing", "public housing", "application", "subsidized housing" ],
+  "flags" : [ "default" ]
+}

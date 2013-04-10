@@ -1,0 +1,654 @@
+{
+  "id" : "cw8b-zbc3",
+  "name" : "TLC Vehicle Insurance",
+  "attribution" : "Taxi and Limousine Commission (TLC)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1314389387,
+  "description" : "Spreadsheet of all TLC vehicle insurance",
+  "displayType" : "table",
+  "downloadCount" : 242,
+  "numberOfComments" : 0,
+  "oid" : 332105,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1314389387,
+  "publicationGroup" : 239848,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1314389409,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 239848,
+  "totalTimesRated" : 0,
+  "viewCount" : 398,
+  "viewLastModified" : 1318009576,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2824397,
+    "name" : "TLC_License_Type",
+    "dataTypeName" : "text",
+    "fieldName" : "tlc_license_type",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1512386,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 55861,
+      "smallest" : "TLC_License_Type",
+      "null" : 0,
+      "largest" : "TLCVAN",
+      "top" : [ {
+        "count" : 39927,
+        "item" : "TLCCAR"
+      }, {
+        "count" : 13227,
+        "item" : "TLCMED"
+      }, {
+        "count" : 2303,
+        "item" : "TLCPAR"
+      }, {
+        "count" : 286,
+        "item" : "TLCVAN"
+      }, {
+        "count" : 117,
+        "item" : "TLCSBV"
+      }, {
+        "count" : 1,
+        "item" : "TLC_License_Type"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2824398,
+    "name" : "TLC_License_Number",
+    "dataTypeName" : "text",
+    "fieldName" : "tlc_license_number",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1512387,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 55861,
+      "smallest" : "1A10   ",
+      "null" : 0,
+      "largest" : "V99905 ",
+      "top" : [ {
+        "count" : 2,
+        "item" : "1D33   "
+      }, {
+        "count" : 1,
+        "item" : "F56742 "
+      }, {
+        "count" : 1,
+        "item" : "5017012"
+      }, {
+        "count" : 1,
+        "item" : "C11034 "
+      }, {
+        "count" : 1,
+        "item" : "5325243"
+      }, {
+        "count" : 1,
+        "item" : "5294593"
+      }, {
+        "count" : 1,
+        "item" : "6G43   "
+      }, {
+        "count" : 1,
+        "item" : "5198940"
+      }, {
+        "count" : 1,
+        "item" : "5052735"
+      }, {
+        "count" : 1,
+        "item" : "7L79   "
+      }, {
+        "count" : 1,
+        "item" : "5302784"
+      }, {
+        "count" : 1,
+        "item" : "3D69   "
+      }, {
+        "count" : 1,
+        "item" : "5215251"
+      }, {
+        "count" : 1,
+        "item" : "5030201"
+      }, {
+        "count" : 1,
+        "item" : "5237221"
+      }, {
+        "count" : 1,
+        "item" : "5293244"
+      }, {
+        "count" : 1,
+        "item" : "5220770"
+      }, {
+        "count" : 1,
+        "item" : "5090384"
+      }, {
+        "count" : 1,
+        "item" : "7C67   "
+      }, {
+        "count" : 1,
+        "item" : "5164389"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2824399,
+    "name" : "DMV_Plate",
+    "dataTypeName" : "text",
+    "fieldName" : "dmv_plate",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1512388,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 55861,
+      "smallest" : "_2W22-B   ",
+      "null" : 0,
+      "largest" : "ZEUUUS    ",
+      "top" : [ {
+        "count" : 2,
+        "item" : "OL9046G   "
+      }, {
+        "count" : 2,
+        "item" : "T489274C  "
+      }, {
+        "count" : 2,
+        "item" : "OL6381G   "
+      }, {
+        "count" : 2,
+        "item" : "4Y59-D    "
+      }, {
+        "count" : 2,
+        "item" : "2V38-A    "
+      }, {
+        "count" : 2,
+        "item" : "T497955C  "
+      }, {
+        "count" : 2,
+        "item" : "5H89-A    "
+      }, {
+        "count" : 2,
+        "item" : "ELITE194  "
+      }, {
+        "count" : 2,
+        "item" : "OL3684G   "
+      }, {
+        "count" : 2,
+        "item" : "1A26-A    "
+      }, {
+        "count" : 2,
+        "item" : "OL9930F   "
+      }, {
+        "count" : 2,
+        "item" : "OL4524G   "
+      }, {
+        "count" : 2,
+        "item" : "OL9973F   "
+      }, {
+        "count" : 2,
+        "item" : "OL3191G   "
+      }, {
+        "count" : 2,
+        "item" : "3M49-B    "
+      }, {
+        "count" : 2,
+        "item" : "OL6380G   "
+      }, {
+        "count" : 2,
+        "item" : "MMEN185   "
+      }, {
+        "count" : 2,
+        "item" : "OL6765G   "
+      }, {
+        "count" : 2,
+        "item" : "7B38-A    "
+      }, {
+        "count" : 2,
+        "item" : "OL1565G   "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2824400,
+    "name" : "VIN",
+    "dataTypeName" : "text",
+    "fieldName" : "vin",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1512389,
+    "width" : 136,
+    "cachedContents" : {
+      "non_null" : 55861,
+      "smallest" : "0000000000NY68155             ",
+      "null" : 0,
+      "largest" : "WVGBC77L94D079221             ",
+      "top" : [ {
+        "count" : 4,
+        "item" : "4T3ZF13C3XU168397             "
+      }, {
+        "count" : 3,
+        "item" : "1L1FM81WX3Y637349             "
+      }, {
+        "count" : 3,
+        "item" : "1LNHM81W31Y739693             "
+      }, {
+        "count" : 3,
+        "item" : "4T3ZF13C72U474687             "
+      }, {
+        "count" : 3,
+        "item" : "1LNHM82W8YY863208             "
+      }, {
+        "count" : 3,
+        "item" : "1LNHM84W56Y614729             "
+      }, {
+        "count" : 3,
+        "item" : "1LNHM84WX2Y611108             "
+      }, {
+        "count" : 3,
+        "item" : "1LNHM81W34Y632745             "
+      }, {
+        "count" : 3,
+        "item" : "1LNHM81W7YY938143             "
+      }, {
+        "count" : 3,
+        "item" : "2LNHM84W38X646114             "
+      }, {
+        "count" : 3,
+        "item" : "1LNHM81W43Y673884             "
+      }, {
+        "count" : 3,
+        "item" : "1LNLM82W9TY714745             "
+      }, {
+        "count" : 3,
+        "item" : "2FAFP71W0YX179886             "
+      }, {
+        "count" : 3,
+        "item" : "2FALP71W4VX224066             "
+      }, {
+        "count" : 3,
+        "item" : "2FAFP71W32X156979             "
+      }, {
+        "count" : 3,
+        "item" : "1LNHM81W64Y665741             "
+      }, {
+        "count" : 3,
+        "item" : "JTEEW44A782012897             "
+      }, {
+        "count" : 3,
+        "item" : "1LNHM84W53Y643496             "
+      }, {
+        "count" : 3,
+        "item" : "1LNFM82W5WY734282             "
+      }, {
+        "count" : 3,
+        "item" : "1LNHM82W4YY870432             "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2824401,
+    "name" : "Automobile_Insurance_Code",
+    "dataTypeName" : "number",
+    "fieldName" : "automobile_insurance_code",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1512390,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 55834,
+      "smallest" : "1",
+      "sum" : "15731427",
+      "null" : 27,
+      "average" : "281.7535372711968",
+      "largest" : "999",
+      "top" : [ {
+        "count" : 20356,
+        "item" : "36"
+      }, {
+        "count" : 10480,
+        "item" : "326"
+      }, {
+        "count" : 5422,
+        "item" : "303"
+      }, {
+        "count" : 4736,
+        "item" : "644"
+      }, {
+        "count" : 2756,
+        "item" : "665"
+      }, {
+        "count" : 2207,
+        "item" : "339"
+      }, {
+        "count" : 1565,
+        "item" : "631"
+      }, {
+        "count" : 1169,
+        "item" : "706"
+      }, {
+        "count" : 1006,
+        "item" : "389"
+      }, {
+        "count" : 957,
+        "item" : "473"
+      }, {
+        "count" : 642,
+        "item" : "347"
+      }, {
+        "count" : 542,
+        "item" : "404"
+      }, {
+        "count" : 391,
+        "item" : "999"
+      }, {
+        "count" : 364,
+        "item" : "24"
+      }, {
+        "count" : 250,
+        "item" : "59"
+      }, {
+        "count" : 245,
+        "item" : "233"
+      }, {
+        "count" : 189,
+        "item" : "360"
+      }, {
+        "count" : 186,
+        "item" : "7"
+      }, {
+        "count" : 164,
+        "item" : "135"
+      }, {
+        "count" : 164,
+        "item" : "379"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2824402,
+    "name" : "Automobile_Insurance_Policy_Number",
+    "dataTypeName" : "text",
+    "fieldName" : "automobile_insurance_policy_number",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1512391,
+    "width" : 508,
+    "cachedContents" : {
+      "non_null" : 55861,
+      "smallest" : "                    ",
+      "null" : 0,
+      "largest" : "YL38L-A200189       ",
+      "top" : [ {
+        "count" : 237,
+        "item" : "CA5456358           "
+      }, {
+        "count" : 186,
+        "item" : "CAP611278           "
+      }, {
+        "count" : 153,
+        "item" : "BAP4020174-00       "
+      }, {
+        "count" : 137,
+        "item" : "BA159706#3          "
+      }, {
+        "count" : 134,
+        "item" : "BA162334-1          "
+      }, {
+        "count" : 114,
+        "item" : "CAP610297           "
+      }, {
+        "count" : 95,
+        "item" : "02UUNQB9853         "
+      }, {
+        "count" : 94,
+        "item" : "S-905-3739          "
+      }, {
+        "count" : 94,
+        "item" : "CAP610190           "
+      }, {
+        "count" : 90,
+        "item" : "BA159706-3          "
+      }, {
+        "count" : 81,
+        "item" : "WPP1002008          "
+      }, {
+        "count" : 76,
+        "item" : "CAP609102           "
+      }, {
+        "count" : 74,
+        "item" : "CAP605738           "
+      }, {
+        "count" : 70,
+        "item" : "CAP612205           "
+      }, {
+        "count" : 67,
+        "item" : "CAP608189           "
+      }, {
+        "count" : 65,
+        "item" : "CAP612203           "
+      }, {
+        "count" : 61,
+        "item" : "BA158509#5          "
+      }, {
+        "count" : 59,
+        "item" : "CAO0216802          "
+      }, {
+        "count" : 58,
+        "item" : "CAP608461           "
+      }, {
+        "count" : 55,
+        "item" : "WPP100205002        "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2824403,
+    "name" : "Vehicle_Owner_Name",
+    "dataTypeName" : "text",
+    "fieldName" : "vehicle_owner_name",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1512392,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 55861,
+      "smallest" : ".ASTILLO,JESUS                                              ",
+      "null" : 0,
+      "largest" : "ZYZ AUTO REPAIR INC.                                        ",
+      "top" : [ {
+        "count" : 290,
+        "item" : "EXEC U CAR LIMOUSINE INC                                    "
+      }, {
+        "count" : 260,
+        "item" : "NYLL MANAGEMENT LTD                                         "
+      }, {
+        "count" : 181,
+        "item" : "AMERICAN UNITED TRANSPORTATION INC                          "
+      }, {
+        "count" : 164,
+        "item" : "BOSTON COACH                                                "
+      }, {
+        "count" : 90,
+        "item" : "EXCLUSIVE AMBULETTE SERVICE INC                             "
+      }, {
+        "count" : 89,
+        "item" : "ORANGE TRANSPORTATION SERVICES INC                          "
+      }, {
+        "count" : 84,
+        "item" : "GREAT AMBULETTE SERVICE INC                                 "
+      }, {
+        "count" : 81,
+        "item" : "JAMES A LEASING INC                                         "
+      }, {
+        "count" : 78,
+        "item" : "COMMONWEALTH WORLDWIDE CHAUFF TRANS OF NY LLC               "
+      }, {
+        "count" : 78,
+        "item" : "S R M MANAGEMENT CORP                                       "
+      }, {
+        "count" : 78,
+        "item" : "FUTA TRANSPORTATION                                         "
+      }, {
+        "count" : 77,
+        "item" : "ADOM RENTAL TRANSPORTATION INC                              "
+      }, {
+        "count" : 74,
+        "item" : "SINAI VAN SERVICE INC                                       "
+      }, {
+        "count" : 68,
+        "item" : "E & N CAR SERVICE                                           "
+      }, {
+        "count" : 66,
+        "item" : "ESPERANZA MANAGEMENT CORP                                   "
+      }, {
+        "count" : 66,
+        "item" : "MARJOS AUTO CORP                                            "
+      }, {
+        "count" : 64,
+        "item" : "SERVICE PRO ENTERPRISES INC                                 "
+      }, {
+        "count" : 64,
+        "item" : "LONDON TOWNCARS INC                                         "
+      }, {
+        "count" : 64,
+        "item" : "AMERICAN UNITED TRANPORTATION II INC                        "
+      }, {
+        "count" : 61,
+        "item" : "OAK POND TRANSPORTATION INC                                 "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2824404,
+    "name" : "Affiliated_Base_or_Taxi_Agent_or_Fleet_License_Number",
+    "dataTypeName" : "number",
+    "fieldName" : "affiliated_base_or_taxi_agent_or_fleet_license_number",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1512393,
+    "width" : 700,
+    "cachedContents" : {
+      "non_null" : 13318,
+      "smallest" : "0",
+      "sum" : "2906785",
+      "null" : 42543,
+      "average" : "218.2598738549332",
+      "largest" : "999",
+      "top" : [ {
+        "count" : 3532,
+        "item" : "0"
+      }, {
+        "count" : 1260,
+        "item" : "999"
+      }, {
+        "count" : 962,
+        "item" : "202"
+      }, {
+        "count" : 364,
+        "item" : "234"
+      }, {
+        "count" : 353,
+        "item" : "224"
+      }, {
+        "count" : 338,
+        "item" : "13"
+      }, {
+        "count" : 322,
+        "item" : "259"
+      }, {
+        "count" : 299,
+        "item" : "201"
+      }, {
+        "count" : 299,
+        "item" : "253"
+      }, {
+        "count" : 282,
+        "item" : "10"
+      }, {
+        "count" : 258,
+        "item" : "319"
+      }, {
+        "count" : 251,
+        "item" : "312"
+      }, {
+        "count" : 240,
+        "item" : "282"
+      }, {
+        "count" : 235,
+        "item" : "307"
+      }, {
+        "count" : 235,
+        "item" : "213"
+      }, {
+        "count" : 214,
+        "item" : "222"
+      }, {
+        "count" : 203,
+        "item" : "14"
+      }, {
+        "count" : 174,
+        "item" : "20"
+      }, {
+        "count" : 172,
+        "item" : "225"
+      }, {
+        "count" : 169,
+        "item" : "102"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "transportation", "insure", "insurance", "vehicle", "car", "automobile", "truck", "taxi", "limousine" ],
+  "flags" : [ "default" ]
+}

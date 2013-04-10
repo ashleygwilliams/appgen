@@ -1,0 +1,323 @@
+{
+  "id" : "ia2d-e54m",
+  "name" : "Water Consumption In The New York City",
+  "attribution" : "Department of Environmental Protection (DEP)",
+  "attributionLink" : "http://www.nyc.gov/html/dep/html/drinking_water/droughthist.shtml",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1359591698,
+  "description" : "A brief history of water consumption in the New York City Water Supply System (Based on New York City Census population)",
+  "displayType" : "table",
+  "downloadCount" : 2,
+  "numberOfComments" : 0,
+  "oid" : 2395774,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359656516,
+  "publicationGroup" : 647012,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1359656452,
+  "rowsUpdatedBy" : "ya7g-926w",
+  "signed" : false,
+  "tableId" : 648708,
+  "totalTimesRated" : 0,
+  "viewCount" : 94,
+  "viewLastModified" : 1363712724,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 42281598,
+    "name" : "Year",
+    "dataTypeName" : "number",
+    "fieldName" : "year",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7413123,
+    "width" : 68,
+    "cachedContents" : {
+      "non_null" : 31,
+      "smallest" : "1979",
+      "sum" : "61814",
+      "null" : 0,
+      "average" : "1994",
+      "largest" : "2009",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2009"
+      }, {
+        "count" : 19,
+        "item" : "2008"
+      }, {
+        "count" : 18,
+        "item" : "2007"
+      }, {
+        "count" : 17,
+        "item" : "2006"
+      }, {
+        "count" : 16,
+        "item" : "2005"
+      }, {
+        "count" : 15,
+        "item" : "2004"
+      }, {
+        "count" : 14,
+        "item" : "2003"
+      }, {
+        "count" : 13,
+        "item" : "2002"
+      }, {
+        "count" : 12,
+        "item" : "2001"
+      }, {
+        "count" : 11,
+        "item" : "2000"
+      }, {
+        "count" : 10,
+        "item" : "1999"
+      }, {
+        "count" : 9,
+        "item" : "1998"
+      }, {
+        "count" : 8,
+        "item" : "1997"
+      }, {
+        "count" : 7,
+        "item" : "1996"
+      }, {
+        "count" : 6,
+        "item" : "1995"
+      }, {
+        "count" : 5,
+        "item" : "1994"
+      }, {
+        "count" : 4,
+        "item" : "1993"
+      }, {
+        "count" : 3,
+        "item" : "1992"
+      }, {
+        "count" : 2,
+        "item" : "1991"
+      }, {
+        "count" : 1,
+        "item" : "1990"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "center",
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 42281599,
+    "name" : "NYC Consumption(Million gallons per day)",
+    "dataTypeName" : "number",
+    "fieldName" : "nyc_consumption_million_gallons_per_day",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7413124,
+    "width" : 285,
+    "cachedContents" : {
+      "non_null" : 31,
+      "smallest" : "1007.2",
+      "sum" : "40041.4",
+      "null" : 0,
+      "average" : "1291.658064516129",
+      "largest" : "1512.4",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1007.2"
+      }, {
+        "count" : 19,
+        "item" : "1082.9"
+      }, {
+        "count" : 18,
+        "item" : "1113.9"
+      }, {
+        "count" : 17,
+        "item" : "1068.7"
+      }, {
+        "count" : 16,
+        "item" : "1107.4"
+      }, {
+        "count" : 15,
+        "item" : "1099.5"
+      }, {
+        "count" : 14,
+        "item" : "1093.7"
+      }, {
+        "count" : 13,
+        "item" : "1135.6"
+      }, {
+        "count" : 12,
+        "item" : "1184.0"
+      }, {
+        "count" : 11,
+        "item" : "1240.4"
+      }, {
+        "count" : 10,
+        "item" : "1237.2"
+      }, {
+        "count" : 9,
+        "item" : "1219.5"
+      }, {
+        "count" : 8,
+        "item" : "1205.5"
+      }, {
+        "count" : 7,
+        "item" : "1297.9"
+      }, {
+        "count" : 6,
+        "item" : "1325.7"
+      }, {
+        "count" : 5,
+        "item" : "1357.7"
+      }, {
+        "count" : 4,
+        "item" : "1368.5"
+      }, {
+        "count" : 3,
+        "item" : "1368.6"
+      }, {
+        "count" : 2,
+        "item" : "1496.3"
+      }, {
+        "count" : 1,
+        "item" : "1423.8"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "center",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 42281600,
+    "name" : "Per Capita(Gallons per person per day)",
+    "dataTypeName" : "number",
+    "fieldName" : "per_capita_gallons_per_person_per_day",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7413125,
+    "width" : 263,
+    "cachedContents" : {
+      "non_null" : 31,
+      "smallest" : "125.8",
+      "sum" : "5383.1",
+      "null" : 0,
+      "average" : "173.6483870967742",
+      "largest" : "208.3",
+      "top" : [ {
+        "count" : 20,
+        "item" : "125.8"
+      }, {
+        "count" : 19,
+        "item" : "135.2"
+      }, {
+        "count" : 18,
+        "item" : "139.1"
+      }, {
+        "count" : 17,
+        "item" : "133.5"
+      }, {
+        "count" : 16,
+        "item" : "138.3"
+      }, {
+        "count" : 15,
+        "item" : "137.3"
+      }, {
+        "count" : 14,
+        "item" : "136.6"
+      }, {
+        "count" : 13,
+        "item" : "141.8"
+      }, {
+        "count" : 12,
+        "item" : "154.6"
+      }, {
+        "count" : 11,
+        "item" : "169.4"
+      }, {
+        "count" : 10,
+        "item" : "168.9"
+      }, {
+        "count" : 9,
+        "item" : "166.5"
+      }, {
+        "count" : 8,
+        "item" : "164.6"
+      }, {
+        "count" : 7,
+        "item" : "177.2"
+      }, {
+        "count" : 6,
+        "item" : "181.0"
+      }, {
+        "count" : 5,
+        "item" : "185.4"
+      }, {
+        "count" : 4,
+        "item" : "186.9"
+      }, {
+        "count" : 3,
+        "item" : "204.1"
+      }, {
+        "count" : 2,
+        "item" : "201.3"
+      }, {
+        "count" : 1,
+        "item" : "198.2"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "center",
+      "noCommas" : "false"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ya7g-926w",
+    "displayName" : "Aakash Dalwani",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1363663581,
+    "roleName" : "publisher",
+    "screenName" : "Aakash Dalwani",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ya7g-926w",
+    "displayName" : "Aakash Dalwani",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1363663581,
+    "roleName" : "publisher",
+    "screenName" : "Aakash Dalwani",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dep", "department of environmental protection", "environment", "water", "consumption", "water consumption", "water consumption in the new york city", "healthy living" ],
+  "flags" : [ "default" ]
+}

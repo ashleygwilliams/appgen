@@ -1,0 +1,365 @@
+{
+  "id" : "ijru-c88e",
+  "name" : "Hose Nozzle And Sprayer Survey",
+  "attribution" : "Department of Environmental Protection (DEP)",
+  "attributionLink" : "http://www.nyc.gov/html/dep/html/ways_to_save_water/nozzles_wide.shtm",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1359728956,
+  "description" : "List of hose nozzles and sprayers that meet the requirements during a drought emergency.",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "numberOfComments" : 0,
+  "oid" : 2402855,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359729278,
+  "publicationGroup" : 650594,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1359728960,
+  "rowsUpdatedBy" : "ya7g-926w",
+  "signed" : false,
+  "tableId" : 650594,
+  "totalTimesRated" : 0,
+  "viewCount" : 13,
+  "viewLastModified" : 1363713020,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 42413947,
+    "name" : "Manufacturer ",
+    "dataTypeName" : "text",
+    "fieldName" : "manufacturer",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7466274,
+    "width" : 117,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "Nelson",
+      "null" : 0,
+      "largest" : "Rain Bird",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Nelson"
+      }, {
+        "count" : 19,
+        "item" : "Niagara"
+      }, {
+        "count" : 18,
+        "item" : "Orbit"
+      }, {
+        "count" : 17,
+        "item" : "Rain Bird"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42413948,
+    "name" : "Model",
+    "dataTypeName" : "text",
+    "fieldName" : "model",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7466275,
+    "width" : 206,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "E-Z Squeeze",
+      "null" : 0,
+      "largest" : "Zinc -Sprayer w/ Grip ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "E-Z Squeeze"
+      }, {
+        "count" : 19,
+        "item" : "Metal Sprayer"
+      }, {
+        "count" : 18,
+        "item" : "Plastic - Flow Control Pistol Nozzle"
+      }, {
+        "count" : 17,
+        "item" : "Plastic Spray Nozzle"
+      }, {
+        "count" : 16,
+        "item" : "Metal - 7 Pattern Turret  Pistol Nozzle "
+      }, {
+        "count" : 15,
+        "item" : "Pistol Grip Metal"
+      }, {
+        "count" : 14,
+        "item" : "Zinc -Sprayer w/ Grip "
+      }, {
+        "count" : 13,
+        "item" : "Set & Forget"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42413949,
+    "name" : "Cost",
+    "dataTypeName" : "money",
+    "fieldName" : "cost",
+    "position" : 3,
+    "renderTypeName" : "money",
+    "tableColumnId" : 7466276,
+    "width" : 71,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "3.29",
+      "sum" : "47.14",
+      "null" : 0,
+      "average" : "5.8925",
+      "largest" : "7.96",
+      "top" : [ {
+        "count" : 20,
+        "item" : "7.96"
+      }, {
+        "count" : 19,
+        "item" : "5.97"
+      }, {
+        "count" : 18,
+        "item" : "5.99"
+      }, {
+        "count" : 17,
+        "item" : "6.00"
+      }, {
+        "count" : 16,
+        "item" : "6.97"
+      }, {
+        "count" : 15,
+        "item" : "3.29"
+      }, {
+        "count" : 14,
+        "item" : "4.97"
+      } ]
+    },
+    "format" : {
+      "humane" : "false",
+      "align" : "center",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 42413950,
+    "name" : "Minimum Flow Rate (gpm)",
+    "dataTypeName" : "number",
+    "fieldName" : "minimum_flow_rate_gpm",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7466277,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "0.18",
+      "sum" : "5.76",
+      "null" : 0,
+      "average" : "0.72",
+      "largest" : "1.50",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1.00"
+      }, {
+        "count" : 19,
+        "item" : "0.40"
+      }, {
+        "count" : 18,
+        "item" : "1.50"
+      }, {
+        "count" : 17,
+        "item" : "0.28"
+      }, {
+        "count" : 16,
+        "item" : "0.18"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "precision" : "2",
+      "align" : "center",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 42413951,
+    "name" : "Minimum Flow P.S.I.",
+    "dataTypeName" : "number",
+    "fieldName" : "minimum_flow_p_s_i",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7466278,
+    "width" : 163,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "52",
+      "sum" : "416",
+      "null" : 0,
+      "average" : "52",
+      "largest" : "52",
+      "top" : [ {
+        "count" : 20,
+        "item" : "52"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "center",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 42413952,
+    "name" : "Maximum Flow Rate (gpm)",
+    "dataTypeName" : "number",
+    "fieldName" : "maximum_flow_rate_gpm",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7466279,
+    "width" : 198,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "3.00",
+      "sum" : "33.25",
+      "null" : 0,
+      "average" : "4.15625",
+      "largest" : "5.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3.25"
+      }, {
+        "count" : 19,
+        "item" : "5.00"
+      }, {
+        "count" : 18,
+        "item" : "3.50"
+      }, {
+        "count" : 17,
+        "item" : "3.00"
+      }, {
+        "count" : 16,
+        "item" : "4.50"
+      }, {
+        "count" : 15,
+        "item" : "4.00"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "precision" : "2",
+      "align" : "center",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 42413953,
+    "name" : "Maximum Flow P.S.I.",
+    "dataTypeName" : "number",
+    "fieldName" : "maximum_flow_p_s_i",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7466280,
+    "width" : 167,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "52",
+      "sum" : "416",
+      "null" : 0,
+      "average" : "52",
+      "largest" : "52",
+      "top" : [ {
+        "count" : 20,
+        "item" : "52"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "center",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 42413954,
+    "name" : "Spray Patterns Available",
+    "dataTypeName" : "text",
+    "fieldName" : "spray_patterns_available",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7466281,
+    "width" : 192,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "Adjustable Flow Control ",
+      "null" : 0,
+      "largest" : "Three Patterns",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Adjustable Flow Control "
+      }, {
+        "count" : 19,
+        "item" : "Four  Patterns "
+      }, {
+        "count" : 18,
+        "item" : "Adjustable Spray Pattern"
+      }, {
+        "count" : 17,
+        "item" : "Six  settings "
+      }, {
+        "count" : 16,
+        "item" : "Seven Patterns"
+      }, {
+        "count" : 15,
+        "item" : "Fine Mist to Heavy Stream"
+      }, {
+        "count" : 14,
+        "item" : "Fine Mist to Heavy Stream "
+      }, {
+        "count" : 13,
+        "item" : "Three Patterns"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ya7g-926w",
+    "displayName" : "Aakash Dalwani",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1363663581,
+    "roleName" : "publisher",
+    "screenName" : "Aakash Dalwani",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ya7g-926w",
+    "displayName" : "Aakash Dalwani",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1363663581,
+    "roleName" : "publisher",
+    "screenName" : "Aakash Dalwani",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dep", "department of environmental protection", "environment", "hose nozzle", "sprayer", "drought", "emergency", "hose nozzle and sprayer survey", "healthy living" ],
+  "flags" : [ "default" ]
+}

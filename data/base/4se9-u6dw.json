@@ -1,0 +1,291 @@
+{
+  "id" : "4se9-u6dw",
+  "name" : "Medicaid coverage for children and pregnant women (Income levels)",
+  "attribution" : "Human Resources Administration (HRA)",
+  "attributionLink" : "http://www.nyc.gov/html/hia/html/public_insurance/children.shtml",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1363717341,
+  "description" : "This table represents details of Medicaid (coverage for children). Medicaid (coverage for children)  is available for many children in working families. Most children who are eligible for Medicaid (coverage for children) do receive their medical care through a health plan, and visit doctors and hospitals that accept that health plan. While ones application is being processed, Medicaid (coverage for children) may provide up to 90 days of retroactive coverage for unpaid medical bills, if eligible during those 90 days",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2882398,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363726644,
+  "publicationGroup" : 743093,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1363726480,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 743507,
+  "totalTimesRated" : 0,
+  "viewCount" : 9,
+  "viewLastModified" : 1363726693,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 51691171,
+    "name" : "Age Categories for Children",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "age_categories_for_children",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757495,
+    "width" : 361,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "Childern 19 - 20 years old",
+      "null" : 0,
+      "largest" : "Pregnant Women Full Coverage",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Children under 1 year Old; Pregnant Women Pernitial Coverage Only"
+      }, {
+        "count" : 19,
+        "item" : "Children 1 - 18 years old"
+      }, {
+        "count" : 18,
+        "item" : "Childern 19 - 20 years old"
+      }, {
+        "count" : 17,
+        "item" : "Pregnant Women Full Coverage"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51691172,
+    "name" : "Family Size (1 ind.)\nMonthly Income",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "family_size__1_ind___monthly_income",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757496,
+    "width" : 201,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "-",
+      "null" : 0,
+      "largest" : "792",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1862"
+      }, {
+        "count" : 19,
+        "item" : "1239"
+      }, {
+        "count" : 18,
+        "item" : "792"
+      }, {
+        "count" : 17,
+        "item" : "-"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51691173,
+    "name" : "Family Size (2 nos.)\nMonthly Income",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "family_size__2_nos___monthly_income",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757497,
+    "width" : 202,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "1159",
+      "null" : 0,
+      "largest" : "2522",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2522"
+      }, {
+        "count" : 19,
+        "item" : "1667"
+      }, {
+        "count" : 18,
+        "item" : "1159"
+      }, {
+        "count" : 17,
+        "item" : "1261"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51691174,
+    "name" : "Family Size (3 nos.)\nMonthly Income",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "family_size__3_nos___monthly_income",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757498,
+    "width" : 201,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "1333",
+      "null" : 0,
+      "largest" : "3182",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3182"
+      }, {
+        "count" : 19,
+        "item" : "2116"
+      }, {
+        "count" : 18,
+        "item" : "1333"
+      }, {
+        "count" : 17,
+        "item" : "1591"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51691175,
+    "name" : "Family Size (4 nos.)\nMonthly Income",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "family_size__4_nos___monthly_income",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757499,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "1506",
+      "null" : 0,
+      "largest" : "3842",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3842"
+      }, {
+        "count" : 19,
+        "item" : "2555"
+      }, {
+        "count" : 18,
+        "item" : "1506"
+      }, {
+        "count" : 17,
+        "item" : "1921"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51691176,
+    "name" : "Family Size (5 nos.)\nMonthly Income",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "family_size__5_nos___monthly_income",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757500,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "1680",
+      "null" : 0,
+      "largest" : "4502",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4502"
+      }, {
+        "count" : 19,
+        "item" : "2994"
+      }, {
+        "count" : 18,
+        "item" : "1680"
+      }, {
+        "count" : 17,
+        "item" : "2251"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51691177,
+    "name" : "Each Additional Person Add",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "each_additional_person_add",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757501,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "174",
+      "null" : 0,
+      "largest" : "660",
+      "top" : [ {
+        "count" : 20,
+        "item" : "660"
+      }, {
+        "count" : 19,
+        "item" : "439"
+      }, {
+        "count" : 18,
+        "item" : "174"
+      }, {
+        "count" : 17,
+        "item" : "330"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "jobs and economic mobility", "human resources administration", "hra", "pregnant", "woman", "income" ],
+  "flags" : [ "default" ]
+}

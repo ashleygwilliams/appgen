@@ -1,0 +1,238 @@
+{
+  "id" : "5t4n-d72c",
+  "name" : "Directory Of Homeless Population By Year",
+  "attribution" : "Department of Homeless Services (DHS)",
+  "attributionLink" : "http://www.nyc.gov/html/dhs/downloads/pdf/hope_2012_presentation_web.pdf",
+  "averageRating" : 0,
+  "category" : "Social Services",
+  "createdAt" : 1359642175,
+  "description" : "Table of homeless population by Year (for years 2009 through 2012)",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "numberOfComments" : 0,
+  "oid" : 2394038,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359642401,
+  "publicationGroup" : 648281,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1359642177,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 648281,
+  "totalTimesRated" : 0,
+  "viewCount" : 38,
+  "viewLastModified" : 1359643179,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 42245737,
+    "name" : "Year",
+    "dataTypeName" : "number",
+    "fieldName" : "year",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7432825,
+    "width" : 121,
+    "cachedContents" : {
+      "non_null" : 32,
+      "smallest" : "2009",
+      "sum" : "64336",
+      "null" : 0,
+      "average" : "2010.5",
+      "largest" : "2012",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2009"
+      }, {
+        "count" : 19,
+        "item" : "2010"
+      }, {
+        "count" : 18,
+        "item" : "2011"
+      }, {
+        "count" : 17,
+        "item" : "2012"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 42245738,
+    "name" : "Area",
+    "dataTypeName" : "text",
+    "fieldName" : "area",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7432826,
+    "width" : 182,
+    "cachedContents" : {
+      "non_null" : 32,
+      "smallest" : "Subways ",
+      "null" : 0,
+      "largest" : "Total Unsheltered Individuals ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Surface Area - Manhattan "
+      }, {
+        "count" : 19,
+        "item" : "Surface Area - Bronx "
+      }, {
+        "count" : 18,
+        "item" : "Surface Area - Brooklyn "
+      }, {
+        "count" : 17,
+        "item" : "Surface Area - Queens "
+      }, {
+        "count" : 16,
+        "item" : "Surface Area - Staten Island "
+      }, {
+        "count" : 15,
+        "item" : "Surface Total "
+      }, {
+        "count" : 14,
+        "item" : "Subways "
+      }, {
+        "count" : 13,
+        "item" : "Total Unsheltered Individuals "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42245739,
+    "name" : "Homeless Estimates",
+    "dataTypeName" : "number",
+    "fieldName" : "homeless_estimates",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7432827,
+    "width" : 198,
+    "cachedContents" : {
+      "non_null" : 32,
+      "smallest" : "86",
+      "sum" : "29093",
+      "null" : 0,
+      "average" : "909.15625",
+      "largest" : "3262",
+      "top" : [ {
+        "count" : 20,
+        "item" : "777"
+      }, {
+        "count" : 19,
+        "item" : "164"
+      }, {
+        "count" : 18,
+        "item" : "200"
+      }, {
+        "count" : 17,
+        "item" : "98"
+      }, {
+        "count" : 16,
+        "item" : "121"
+      }, {
+        "count" : 15,
+        "item" : "1360"
+      }, {
+        "count" : 14,
+        "item" : "968"
+      }, {
+        "count" : 13,
+        "item" : "2328"
+      }, {
+        "count" : 12,
+        "item" : "1145"
+      }, {
+        "count" : 11,
+        "item" : "174"
+      }, {
+        "count" : 10,
+        "item" : "428"
+      }, {
+        "count" : 9,
+        "item" : "112"
+      }, {
+        "count" : 8,
+        "item" : "175"
+      }, {
+        "count" : 7,
+        "item" : "2034"
+      }, {
+        "count" : 6,
+        "item" : "1077"
+      }, {
+        "count" : 5,
+        "item" : "3111"
+      }, {
+        "count" : 4,
+        "item" : "786"
+      }, {
+        "count" : 3,
+        "item" : "115"
+      }, {
+        "count" : 2,
+        "item" : "242"
+      }, {
+        "count" : 1,
+        "item" : "102"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+    "orderBys" : [ {
+      "ascending" : false,
+      "expression" : {
+        "columnId" : 42245737,
+        "type" : "column"
+      }
+    } ]
+  },
+  "rights" : [ "read" ],
+  "sortBys" : [ {
+    "id" : 0,
+    "viewColumnId" : 42245737
+  } ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dhs", "homeless", "comparison", "population" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,389 @@
+{
+  "id" : "pi4j-9c8t",
+  "name" : "Substantiated Officers Rank",
+  "attribution" : "Civilian Complaint Review Board (CCRB)",
+  "attributionLink" : "http://www.nyc.gov/html/ccrb/pdf/ccrbappendices2011.pdf",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1361828843,
+  "description" : "This chat displays the rank of Police Officers against whom Allegations were Substantiated",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2642227,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361893753,
+  "publicationGroup" : 699535,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1361893429,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 701050,
+  "totalTimesRated" : 0,
+  "viewCount" : 27,
+  "viewLastModified" : 1361904448,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 47115513,
+    "name" : "Year ",
+    "dataTypeName" : "text",
+    "fieldName" : "year",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159607,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "2009",
+      "null" : 0,
+      "largest" : "2011",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2009"
+      }, {
+        "count" : 19,
+        "item" : "2010"
+      }, {
+        "count" : 18,
+        "item" : "2011"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 47115647,
+    "name" : "Police Officer ",
+    "dataTypeName" : "text",
+    "fieldName" : "police_officer",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159608,
+    "width" : 72,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "138",
+      "null" : 0,
+      "largest" : "263",
+      "top" : [ {
+        "count" : 20,
+        "item" : "200"
+      }, {
+        "count" : 19,
+        "item" : "263"
+      }, {
+        "count" : 18,
+        "item" : "138"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47115650,
+    "name" : "Detective 1 ",
+    "dataTypeName" : "text",
+    "fieldName" : "detective_1",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159609,
+    "width" : 60,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "11",
+      "null" : 0,
+      "largest" : "30",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11"
+      }, {
+        "count" : 19,
+        "item" : "30"
+      }, {
+        "count" : 18,
+        "item" : "20"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47115652,
+    "name" : "Detective 2",
+    "dataTypeName" : "text",
+    "fieldName" : "detective_2",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159610,
+    "width" : 60,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "2",
+      "null" : 0,
+      "largest" : "3",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47115664,
+    "name" : "Detective 3",
+    "dataTypeName" : "text",
+    "fieldName" : "detective_3",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159611,
+    "width" : 59,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "0",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47115677,
+    "name" : "Detective specialist ",
+    "dataTypeName" : "text",
+    "fieldName" : "detective_specialist",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159612,
+    "width" : 107,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "2",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "0"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47115679,
+    "name" : "Sergeant ",
+    "dataTypeName" : "text",
+    "fieldName" : "sergeant",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159613,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "42",
+      "null" : 0,
+      "largest" : "59",
+      "top" : [ {
+        "count" : 20,
+        "item" : "50"
+      }, {
+        "count" : 19,
+        "item" : "59"
+      }, {
+        "count" : 18,
+        "item" : "42"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47115681,
+    "name" : "Lieutenant ",
+    "dataTypeName" : "text",
+    "fieldName" : "lieutenant",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159614,
+    "width" : 61,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "11",
+      "null" : 0,
+      "largest" : "9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11"
+      }, {
+        "count" : 19,
+        "item" : "9"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47115683,
+    "name" : "Lieutenant commander detective",
+    "dataTypeName" : "text",
+    "fieldName" : "lieutenant_commander_detective",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159615,
+    "width" : 181,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "2",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "1"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47115685,
+    "name" : "Captain",
+    "dataTypeName" : "text",
+    "fieldName" : "captain",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159616,
+    "width" : 64,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "4",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "4"
+      }, {
+        "count" : 18,
+        "item" : "1"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47115686,
+    "name" : "Deputy Inspector/Inspector ",
+    "dataTypeName" : "text",
+    "fieldName" : "deputy_inspector_inspector",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159617,
+    "width" : 171,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "1",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47115688,
+    "name" : "Other ranks",
+    "dataTypeName" : "text",
+    "fieldName" : "other_ranks",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159618,
+    "width" : 112,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "0",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "ccrb", "allegations", "substantiated", "populations", "rank" ],
+  "flags" : [ "default" ]
+}

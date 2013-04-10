@@ -1,0 +1,161 @@
+{
+  "id" : "hve5-8z68",
+  "name" : "Inmate Stabbing. Slashing Incidents",
+  "attribution" : "Department of Correction (DOC)",
+  "averageRating" : 0,
+  "category" : "Statistics",
+  "createdAt" : 1317945537,
+  "description" : "Inmate stabbing/slashing incidents*\n\n*  Inmate Stabbing/Slashing Incidents: The number of incidents involving a stabbing and/or slashing. Though rare, a single incident may involve multiple stabbing and/or slashing inmate victims.",
+  "displayType" : "table",
+  "downloadCount" : 23,
+  "numberOfComments" : 0,
+  "oid" : 341396,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1317945629,
+  "publicationGroup" : 243616,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1317945538,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 243616,
+  "totalTimesRated" : 0,
+  "viewCount" : 472,
+  "viewLastModified" : 1318362268,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2973014,
+    "name" : "Fiscal Year",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1557747,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 10,
+      "smallest" : "2001",
+      "sum" : "20055",
+      "null" : 1,
+      "average" : "2005.5",
+      "largest" : "2010",
+      "top" : [ {
+        "count" : 1,
+        "item" : "2002"
+      }, {
+        "count" : 1,
+        "item" : "2010"
+      }, {
+        "count" : 1,
+        "item" : "2005"
+      }, {
+        "count" : 1,
+        "item" : "2008"
+      }, {
+        "count" : 1,
+        "item" : "2003"
+      }, {
+        "count" : 1,
+        "item" : "2007"
+      }, {
+        "count" : 1,
+        "item" : "2004"
+      }, {
+        "count" : 1,
+        "item" : "2006"
+      }, {
+        "count" : 1,
+        "item" : "2001"
+      }, {
+        "count" : 1,
+        "item" : "2009"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 2973015,
+    "name" : "Number of Incidents",
+    "dataTypeName" : "number",
+    "fieldName" : "number_of_incidents",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1557748,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 10,
+      "smallest" : "19",
+      "sum" : "341",
+      "null" : 1,
+      "average" : "34.1",
+      "largest" : "54",
+      "top" : [ {
+        "count" : 2,
+        "item" : "40"
+      }, {
+        "count" : 2,
+        "item" : "37"
+      }, {
+        "count" : 1,
+        "item" : "34"
+      }, {
+        "count" : 1,
+        "item" : "29"
+      }, {
+        "count" : 1,
+        "item" : "54"
+      }, {
+        "count" : 1,
+        "item" : "19"
+      }, {
+        "count" : 1,
+        "item" : "21"
+      }, {
+        "count" : 1,
+        "item" : "30"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "corrections", "jail", "prison", "inmate", "facility", "rikers", "population", "arrest" ],
+  "flags" : [ "default" ]
+}

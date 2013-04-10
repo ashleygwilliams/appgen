@@ -1,0 +1,623 @@
+{
+  "id" : "xi7c-iiu2",
+  "name" : "New York City Population By Community Districts",
+  "attribution" : "Department of City Planning (DCP)",
+  "attributionLink" : "http://www.nyc.gov/html/dcp/html/census/demo_tables_2010.shtml",
+  "averageRating" : 0,
+  "category" : "Statistics",
+  "createdAt" : 1361381378,
+  "description" : "New York City Population By Community Districts",
+  "displayType" : "table",
+  "downloadCount" : 10,
+  "numberOfComments" : 0,
+  "oid" : 2575668,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361381525,
+  "publicationGroup" : 689118,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1361381381,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 689118,
+  "totalTimesRated" : 0,
+  "viewCount" : 41,
+  "viewLastModified" : 1361381635,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 45880687,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8016995,
+    "width" : 87,
+    "cachedContents" : {
+      "non_null" : 59,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Manhattan"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45880690,
+    "name" : "CD Number",
+    "dataTypeName" : "number",
+    "fieldName" : "cd_number",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8016998,
+    "width" : 68,
+    "cachedContents" : {
+      "non_null" : 59,
+      "smallest" : "1",
+      "sum" : "438",
+      "null" : 0,
+      "average" : "7.423728813559322",
+      "largest" : "18",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "11"
+      }, {
+        "count" : 9,
+        "item" : "12"
+      }, {
+        "count" : 8,
+        "item" : "13"
+      }, {
+        "count" : 7,
+        "item" : "14"
+      }, {
+        "count" : 6,
+        "item" : "15"
+      }, {
+        "count" : 5,
+        "item" : "16"
+      }, {
+        "count" : 4,
+        "item" : "17"
+      }, {
+        "count" : 3,
+        "item" : "18"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45880692,
+    "name" : "CD Name",
+    "dataTypeName" : "text",
+    "fieldName" : "cd_name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8017000,
+    "width" : 262,
+    "cachedContents" : {
+      "non_null" : 59,
+      "smallest" : "Astoria, Long Island City",
+      "null" : 0,
+      "largest" : "Woodhaven, Richmond Hill",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Washington Heights, Inwood"
+      }, {
+        "count" : 19,
+        "item" : "Astoria, Long Island City"
+      }, {
+        "count" : 18,
+        "item" : "Sunnyside, Woodside"
+      }, {
+        "count" : 17,
+        "item" : "Jackson Heights, North Corona"
+      }, {
+        "count" : 16,
+        "item" : "Elmhurst, South Corona"
+      }, {
+        "count" : 15,
+        "item" : "Ridgewood, Glendale, Maspeth"
+      }, {
+        "count" : 14,
+        "item" : "Forest Hills, Rego Park"
+      }, {
+        "count" : 13,
+        "item" : "Flushing, Bay Terrace"
+      }, {
+        "count" : 12,
+        "item" : "Fresh Meadows, Briarwood"
+      }, {
+        "count" : 11,
+        "item" : "Woodhaven, Richmond Hill"
+      }, {
+        "count" : 10,
+        "item" : "Ozone Park, Howard Beach"
+      }, {
+        "count" : 9,
+        "item" : "Bayside, Douglaston, Little Neck"
+      }, {
+        "count" : 8,
+        "item" : "Jamaica, St. Albans, Hollis"
+      }, {
+        "count" : 7,
+        "item" : "Queens Village, Rosedale"
+      }, {
+        "count" : 6,
+        "item" : "The Rockaways, Broad Channel"
+      }, {
+        "count" : 5,
+        "item" : "Stapleton, Port Richmond"
+      }, {
+        "count" : 4,
+        "item" : "New Springville, South Beach"
+      }, {
+        "count" : 3,
+        "item" : "Tottenville, Woodrow, Great Kills"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45880693,
+    "name" : "1970 Population",
+    "dataTypeName" : "number",
+    "fieldName" : "_1970_population",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8017001,
+    "width" : 88,
+    "cachedContents" : {
+      "non_null" : 59,
+      "smallest" : "7706",
+      "sum" : "7893261",
+      "null" : 0,
+      "average" : "133784.0847457627",
+      "largest" : "212422",
+      "top" : [ {
+        "count" : 20,
+        "item" : "180561"
+      }, {
+        "count" : 19,
+        "item" : "185925"
+      }, {
+        "count" : 18,
+        "item" : "95073"
+      }, {
+        "count" : 17,
+        "item" : "123635"
+      }, {
+        "count" : 16,
+        "item" : "108233"
+      }, {
+        "count" : 15,
+        "item" : "161022"
+      }, {
+        "count" : 14,
+        "item" : "120429"
+      }, {
+        "count" : 13,
+        "item" : "207589"
+      }, {
+        "count" : 12,
+        "item" : "142468"
+      }, {
+        "count" : 11,
+        "item" : "110367"
+      }, {
+        "count" : 10,
+        "item" : "113857"
+      }, {
+        "count" : 9,
+        "item" : "127883"
+      }, {
+        "count" : 8,
+        "item" : "206639"
+      }, {
+        "count" : 7,
+        "item" : "184647"
+      }, {
+        "count" : 6,
+        "item" : "98228"
+      }, {
+        "count" : 5,
+        "item" : "135875"
+      }, {
+        "count" : 4,
+        "item" : "85985"
+      }, {
+        "count" : 3,
+        "item" : "72815"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45880694,
+    "name" : "1980 Population",
+    "dataTypeName" : "number",
+    "fieldName" : "_1980_population",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8017002,
+    "width" : 90,
+    "cachedContents" : {
+      "non_null" : 59,
+      "smallest" : "15918",
+      "sum" : "7070725",
+      "null" : 0,
+      "average" : "119842.7966101695",
+      "largest" : "206669",
+      "top" : [ {
+        "count" : 20,
+        "item" : "179941"
+      }, {
+        "count" : 19,
+        "item" : "185198"
+      }, {
+        "count" : 18,
+        "item" : "88927"
+      }, {
+        "count" : 17,
+        "item" : "122090"
+      }, {
+        "count" : 16,
+        "item" : "118430"
+      }, {
+        "count" : 15,
+        "item" : "150142"
+      }, {
+        "count" : 14,
+        "item" : "112245"
+      }, {
+        "count" : 13,
+        "item" : "204785"
+      }, {
+        "count" : 12,
+        "item" : "125312"
+      }, {
+        "count" : 11,
+        "item" : "109505"
+      }, {
+        "count" : 10,
+        "item" : "105651"
+      }, {
+        "count" : 9,
+        "item" : "110963"
+      }, {
+        "count" : 8,
+        "item" : "189383"
+      }, {
+        "count" : 7,
+        "item" : "173178"
+      }, {
+        "count" : 6,
+        "item" : "100592"
+      }, {
+        "count" : 5,
+        "item" : "138489"
+      }, {
+        "count" : 4,
+        "item" : "105128"
+      }, {
+        "count" : 3,
+        "item" : "108249"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45880695,
+    "name" : "1990 Population",
+    "dataTypeName" : "number",
+    "fieldName" : "_1990_population",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8017003,
+    "width" : 93,
+    "cachedContents" : {
+      "non_null" : 59,
+      "smallest" : "25366",
+      "sum" : "7322091",
+      "null" : 0,
+      "average" : "124103.2372881356",
+      "largest" : "220508",
+      "top" : [ {
+        "count" : 20,
+        "item" : "198192"
+      }, {
+        "count" : 19,
+        "item" : "188549"
+      }, {
+        "count" : 18,
+        "item" : "94845"
+      }, {
+        "count" : 17,
+        "item" : "128924"
+      }, {
+        "count" : 16,
+        "item" : "137023"
+      }, {
+        "count" : 15,
+        "item" : "149126"
+      }, {
+        "count" : 14,
+        "item" : "106996"
+      }, {
+        "count" : 13,
+        "item" : "220508"
+      }, {
+        "count" : 12,
+        "item" : "132101"
+      }, {
+        "count" : 11,
+        "item" : "112151"
+      }, {
+        "count" : 10,
+        "item" : "107768"
+      }, {
+        "count" : 9,
+        "item" : "108056"
+      }, {
+        "count" : 8,
+        "item" : "201293"
+      }, {
+        "count" : 7,
+        "item" : "177535"
+      }, {
+        "count" : 6,
+        "item" : "100596"
+      }, {
+        "count" : 5,
+        "item" : "137806"
+      }, {
+        "count" : 4,
+        "item" : "113944"
+      }, {
+        "count" : 3,
+        "item" : "126956"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45880696,
+    "name" : "2000 Population",
+    "dataTypeName" : "number",
+    "fieldName" : "_2000_population",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8017004,
+    "width" : 95,
+    "cachedContents" : {
+      "non_null" : 59,
+      "smallest" : "34420",
+      "sum" : "8005208",
+      "null" : 0,
+      "average" : "135681.4915254237",
+      "largest" : "242952",
+      "top" : [ {
+        "count" : 20,
+        "item" : "208414"
+      }, {
+        "count" : 19,
+        "item" : "211220"
+      }, {
+        "count" : 18,
+        "item" : "109920"
+      }, {
+        "count" : 17,
+        "item" : "169083"
+      }, {
+        "count" : 16,
+        "item" : "167005"
+      }, {
+        "count" : 15,
+        "item" : "165911"
+      }, {
+        "count" : 14,
+        "item" : "115967"
+      }, {
+        "count" : 13,
+        "item" : "242952"
+      }, {
+        "count" : 12,
+        "item" : "146594"
+      }, {
+        "count" : 11,
+        "item" : "141608"
+      }, {
+        "count" : 10,
+        "item" : "127274"
+      }, {
+        "count" : 9,
+        "item" : "116404"
+      }, {
+        "count" : 8,
+        "item" : "223602"
+      }, {
+        "count" : 7,
+        "item" : "196284"
+      }, {
+        "count" : 6,
+        "item" : "106686"
+      }, {
+        "count" : 5,
+        "item" : "162609"
+      }, {
+        "count" : 4,
+        "item" : "127071"
+      }, {
+        "count" : 3,
+        "item" : "152908"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45880697,
+    "name" : "2010 Population",
+    "dataTypeName" : "number",
+    "fieldName" : "_2010_population",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8017005,
+    "width" : 90,
+    "cachedContents" : {
+      "non_null" : 59,
+      "smallest" : "51673",
+      "sum" : "8171680",
+      "null" : 0,
+      "average" : "138503.0508474576",
+      "largest" : "247354",
+      "top" : [ {
+        "count" : 20,
+        "item" : "190020"
+      }, {
+        "count" : 19,
+        "item" : "191105"
+      }, {
+        "count" : 18,
+        "item" : "113200"
+      }, {
+        "count" : 17,
+        "item" : "171576"
+      }, {
+        "count" : 16,
+        "item" : "172598"
+      }, {
+        "count" : 15,
+        "item" : "169190"
+      }, {
+        "count" : 14,
+        "item" : "113257"
+      }, {
+        "count" : 13,
+        "item" : "247354"
+      }, {
+        "count" : 12,
+        "item" : "151107"
+      }, {
+        "count" : 11,
+        "item" : "143317"
+      }, {
+        "count" : 10,
+        "item" : "122396"
+      }, {
+        "count" : 9,
+        "item" : "116431"
+      }, {
+        "count" : 8,
+        "item" : "225919"
+      }, {
+        "count" : 7,
+        "item" : "188593"
+      }, {
+        "count" : 6,
+        "item" : "114978"
+      }, {
+        "count" : 5,
+        "item" : "175756"
+      }, {
+        "count" : 4,
+        "item" : "132003"
+      }, {
+        "count" : 3,
+        "item" : "160209"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dcp", "city", "planning", "population", "growth", "community", "district" ],
+  "flags" : [ "default" ]
+}

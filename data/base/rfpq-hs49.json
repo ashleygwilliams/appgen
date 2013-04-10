@@ -1,0 +1,313 @@
+{
+  "id" : "rfpq-hs49",
+  "name" : "School Attendance And Enrollment By District - 2010-11",
+  "attribution" : "Department of Education (DOE)",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1317938618,
+  "description" : "2010- 11 Attendance & Enrollment (Unaudited) by District as of December 31, 2010\r\n\r\nCharter Schools, Community-Based Organizations (Pre-K), Home Instruction, and Hospital Schools are not included.\r\nAttendance averages based on each districts associated data.",
+  "displayType" : "table",
+  "downloadCount" : 35,
+  "numberOfComments" : 0,
+  "oid" : 341321,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318355613,
+  "publicationGroup" : 243593,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1317938623,
+  "rowsUpdatedBy" : "rnig-m3uj",
+  "signed" : false,
+  "tableId" : 243593,
+  "totalTimesRated" : 0,
+  "viewCount" : 215,
+  "viewLastModified" : 1363698052,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2971998,
+    "name" : "District",
+    "dataTypeName" : "text",
+    "fieldName" : "district",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1557574,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 35,
+      "smallest" : "ALTERNATIVE HIGH SCHOOLS",
+      "null" : 0,
+      "largest" : "SPECIAL ED DISTRICT 75",
+      "top" : [ {
+        "count" : 20,
+        "item" : "DISTRICT 01"
+      }, {
+        "count" : 19,
+        "item" : "DISTRICT 02"
+      }, {
+        "count" : 18,
+        "item" : "DISTRICT 03"
+      }, {
+        "count" : 17,
+        "item" : "DISTRICT 04"
+      }, {
+        "count" : 16,
+        "item" : "DISTRICT 05"
+      }, {
+        "count" : 15,
+        "item" : "DISTRICT 06"
+      }, {
+        "count" : 14,
+        "item" : "DISTRICT 07"
+      }, {
+        "count" : 13,
+        "item" : "DISTRICT 08"
+      }, {
+        "count" : 12,
+        "item" : "DISTRICT 09"
+      }, {
+        "count" : 11,
+        "item" : "DISTRICT 10"
+      }, {
+        "count" : 10,
+        "item" : "DISTRICT 11"
+      }, {
+        "count" : 9,
+        "item" : "DISTRICT 12"
+      }, {
+        "count" : 8,
+        "item" : "DISTRICT 13"
+      }, {
+        "count" : 7,
+        "item" : "DISTRICT 14"
+      }, {
+        "count" : 6,
+        "item" : "DISTRICT 15"
+      }, {
+        "count" : 5,
+        "item" : "DISTRICT 16"
+      }, {
+        "count" : 4,
+        "item" : "DISTRICT 17"
+      }, {
+        "count" : 3,
+        "item" : "DISTRICT 18"
+      }, {
+        "count" : 2,
+        "item" : "DISTRICT 19"
+      }, {
+        "count" : 1,
+        "item" : "DISTRICT 20"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2971999,
+    "name" : "YTD % Attendance (Avg)",
+    "dataTypeName" : "percent",
+    "fieldName" : "ytd_attendance_avg_",
+    "position" : 3,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1557575,
+    "width" : 364,
+    "cachedContents" : {
+      "non_null" : 35,
+      "smallest" : "63.81",
+      "sum" : "3117.43",
+      "null" : 0,
+      "average" : "89.06942857142857",
+      "largest" : "93.34",
+      "top" : [ {
+        "count" : 20,
+        "item" : "91.18"
+      }, {
+        "count" : 19,
+        "item" : "89.01"
+      }, {
+        "count" : 18,
+        "item" : "89.28"
+      }, {
+        "count" : 17,
+        "item" : "91.13"
+      }, {
+        "count" : 16,
+        "item" : "89.08"
+      }, {
+        "count" : 15,
+        "item" : "91.34"
+      }, {
+        "count" : 14,
+        "item" : "86.75"
+      }, {
+        "count" : 13,
+        "item" : "87.15"
+      }, {
+        "count" : 12,
+        "item" : "89.27"
+      }, {
+        "count" : 11,
+        "item" : "88.92"
+      }, {
+        "count" : 10,
+        "item" : "89.84"
+      }, {
+        "count" : 9,
+        "item" : "87.33"
+      }, {
+        "count" : 8,
+        "item" : "89.56"
+      }, {
+        "count" : 7,
+        "item" : "89.41"
+      }, {
+        "count" : 6,
+        "item" : "91.27"
+      }, {
+        "count" : 5,
+        "item" : "85.55"
+      }, {
+        "count" : 4,
+        "item" : "89.67"
+      }, {
+        "count" : 3,
+        "item" : "89.83"
+      }, {
+        "count" : 2,
+        "item" : "87.81"
+      }, {
+        "count" : 1,
+        "item" : "92.77"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2972000,
+    "name" : "YTD Enrollment (Avg)",
+    "dataTypeName" : "number",
+    "fieldName" : "ytd_enrollment_avg_",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1557576,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 35,
+      "smallest" : "7288",
+      "sum" : "2004926",
+      "null" : 0,
+      "average" : "57283.6",
+      "largest" : "1002463",
+      "top" : [ {
+        "count" : 20,
+        "item" : "12367"
+      }, {
+        "count" : 19,
+        "item" : "60823"
+      }, {
+        "count" : 18,
+        "item" : "21962"
+      }, {
+        "count" : 17,
+        "item" : "14252"
+      }, {
+        "count" : 16,
+        "item" : "13170"
+      }, {
+        "count" : 15,
+        "item" : "25733"
+      }, {
+        "count" : 14,
+        "item" : "19717"
+      }, {
+        "count" : 13,
+        "item" : "31625"
+      }, {
+        "count" : 12,
+        "item" : "34518"
+      }, {
+        "count" : 11,
+        "item" : "56757"
+      }, {
+        "count" : 10,
+        "item" : "38230"
+      }, {
+        "count" : 9,
+        "item" : "23118"
+      }, {
+        "count" : 8,
+        "item" : "22785"
+      }, {
+        "count" : 7,
+        "item" : "20181"
+      }, {
+        "count" : 6,
+        "item" : "26786"
+      }, {
+        "count" : 5,
+        "item" : "10196"
+      }, {
+        "count" : 4,
+        "item" : "26551"
+      }, {
+        "count" : 3,
+        "item" : "18641"
+      }, {
+        "count" : 2,
+        "item" : "25632"
+      }, {
+        "count" : 1,
+        "item" : "44214"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Historical Data"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "rnig-m3uj",
+    "displayName" : "Jorge J.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/5083/4460/large-profile_large.png",
+    "profileImageUrlMedium" : "/images/profile/5083/4460/large-profile_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/5083/4460/large-profile_tiny.png",
+    "profileLastModified" : 1322859437,
+    "screenName" : "Jorge J."
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rnig-m3uj",
+    "displayName" : "Jorge J.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/5083/4460/large-profile_large.png",
+    "profileImageUrlMedium" : "/images/profile/5083/4460/large-profile_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/5083/4460/large-profile_tiny.png",
+    "profileLastModified" : 1322859437,
+    "screenName" : "Jorge J."
+  },
+  "tags" : [ "lifelong learning" ],
+  "flags" : [ "default" ]
+}

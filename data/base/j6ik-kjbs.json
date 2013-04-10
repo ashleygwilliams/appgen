@@ -1,0 +1,282 @@
+{
+  "id" : "j6ik-kjbs",
+  "name" : "Directory Of Tennis Courts With Online Registration",
+  "attribution" : "Department of Parks and Recreation (DPR)",
+  "attributionLink" : "https://www.nycgovparks.org/tennisreservation/",
+  "averageRating" : 0,
+  "category" : "Parks and Recreation",
+  "createdAt" : 1359042102,
+  "description" : "List of Tennis Courts with the facility of registering online",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "numberOfComments" : 0,
+  "oid" : 2327271,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359042322,
+  "publicationGroup" : 633648,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1359042104,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 633648,
+  "totalTimesRated" : 0,
+  "viewCount" : 29,
+  "viewLastModified" : 1363711397,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 40907755,
+    "name" : "Location",
+    "dataTypeName" : "text",
+    "fieldName" : "location",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7210716,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 12,
+      "smallest" : "Alley Pond Park, Queens",
+      "null" : 0,
+      "largest" : "Riverside Park (96th), Manhattan",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Alley Pond Park, Queens"
+      }, {
+        "count" : 19,
+        "item" : "Bensonhurst Park, Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Central Park, Manhattan"
+      }, {
+        "count" : 17,
+        "item" : "Cunningham Park, Queens"
+      }, {
+        "count" : 16,
+        "item" : "East River Park, Manhattan"
+      }, {
+        "count" : 15,
+        "item" : "Flushing Meadows Corona Park, Queens"
+      }, {
+        "count" : 14,
+        "item" : "McCarren Park, Brooklyn"
+      }, {
+        "count" : 13,
+        "item" : "Mill Pond Park, Bronx"
+      }, {
+        "count" : 12,
+        "item" : "Prospect Park, Brooklyn"
+      }, {
+        "count" : 11,
+        "item" : "Randall's Island Park, Manhattan"
+      }, {
+        "count" : 10,
+        "item" : "Riverside Park (119th), Manhattan"
+      }, {
+        "count" : 9,
+        "item" : "Riverside Park (96th), Manhattan"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40907756,
+    "name" : "Reservation Courts",
+    "dataTypeName" : "number",
+    "fieldName" : "reservation_courts",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7210717,
+    "width" : 151,
+    "cachedContents" : {
+      "non_null" : 12,
+      "smallest" : "2",
+      "sum" : "35",
+      "null" : 0,
+      "average" : "2.916666666666667",
+      "largest" : "4",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40907757,
+    "name" : "Walk-on Courts",
+    "dataTypeName" : "number",
+    "fieldName" : "walk_on_courts",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7210718,
+    "width" : 156,
+    "cachedContents" : {
+      "non_null" : 12,
+      "smallest" : "7",
+      "sum" : "153",
+      "null" : 0,
+      "average" : "12.75",
+      "largest" : "26",
+      "top" : [ {
+        "count" : 20,
+        "item" : "16"
+      }, {
+        "count" : 19,
+        "item" : "8"
+      }, {
+        "count" : 18,
+        "item" : "26"
+      }, {
+        "count" : 17,
+        "item" : "20"
+      }, {
+        "count" : 16,
+        "item" : "12"
+      }, {
+        "count" : 15,
+        "item" : "11"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "10"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40907758,
+    "name" : "First Reservation",
+    "dataTypeName" : "text",
+    "fieldName" : "first_reservation",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7210719,
+    "width" : 216,
+    "cachedContents" : {
+      "non_null" : 12,
+      "smallest" : "11-Apr",
+      "null" : 0,
+      "largest" : "8-May",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8-May"
+      }, {
+        "count" : 19,
+        "item" : "1-May"
+      }, {
+        "count" : 18,
+        "item" : "7-Apr"
+      }, {
+        "count" : 17,
+        "item" : "15-Apr"
+      }, {
+        "count" : 16,
+        "item" : "19-May"
+      }, {
+        "count" : 15,
+        "item" : "11-Apr"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40907759,
+    "name" : "Last Reservation",
+    "dataTypeName" : "text",
+    "fieldName" : "last_reservation",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7210720,
+    "width" : 178,
+    "cachedContents" : {
+      "non_null" : 12,
+      "smallest" : "15-Oct",
+      "null" : 0,
+      "largest" : "9-Oct",
+      "top" : [ {
+        "count" : 20,
+        "item" : "9-Oct"
+      }, {
+        "count" : 19,
+        "item" : "8-Oct"
+      }, {
+        "count" : 18,
+        "item" : "4-Nov"
+      }, {
+        "count" : 17,
+        "item" : "30-Sep"
+      }, {
+        "count" : 16,
+        "item" : "30-Oct"
+      }, {
+        "count" : 15,
+        "item" : "28-Oct"
+      }, {
+        "count" : 14,
+        "item" : "7-Oct"
+      }, {
+        "count" : 13,
+        "item" : "15-Oct"
+      }, {
+        "count" : 12,
+        "item" : "17-Nov"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dpr", "recreation", "park", "tennis", "online", "registration", "healthy living" ],
+  "flags" : [ "default" ]
+}

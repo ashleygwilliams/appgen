@@ -1,0 +1,454 @@
+{
+  "id" : "59t5-r7nb",
+  "name" : "FOIL Report - Trade Waste All Approved or Denied",
+  "attribution" : "Business Integrity Commission (BIC)",
+  "averageRating" : 0,
+  "category" : "Other",
+  "createdAt" : 1362583027,
+  "description" : "Approved carting, Self-Haulers, Construction & Demolition companies names, addresses and contact number \r\nDenied carting companies names, addresses and contact number",
+  "downloadCount" : 5,
+  "numberOfComments" : 0,
+  "oid" : 2730577,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362583086,
+  "publicationGroup" : 717664,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1362583085,
+  "rowsUpdatedBy" : "ci6y-i73t",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 717666,
+  "totalTimesRated" : 0,
+  "viewCount" : 4,
+  "viewLastModified" : 1362585256,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 48789009,
+    "name" : "TYPE",
+    "dataTypeName" : "text",
+    "fieldName" : "type",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8400808,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 2174,
+      "smallest" : "CL.1",
+      "null" : 0,
+      "largest" : "LICENSE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "LICENSE"
+      }, {
+        "count" : 19,
+        "item" : "CL.2-EXEMPT"
+      }, {
+        "count" : 18,
+        "item" : "CL.2-BROKER"
+      }, {
+        "count" : 17,
+        "item" : "CL.1"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789010,
+    "name" : "APPROVAL STATUS",
+    "dataTypeName" : "text",
+    "fieldName" : "approval_status",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8400809,
+    "width" : 300,
+    "cachedContents" : {
+      "non_null" : 2174,
+      "smallest" : "APPROVED",
+      "null" : 0,
+      "largest" : "DENIED",
+      "top" : [ {
+        "count" : 20,
+        "item" : "APPROVED"
+      }, {
+        "count" : 19,
+        "item" : "DENIED"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789011,
+    "name" : "TRADE NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "trade_name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8400810,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 2153,
+      "smallest" : "168 MOVERS CORP.",
+      "null" : 21,
+      "largest" : "ZHN CONTRACTING CORP.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "YANKEE CARTING CORP."
+      }, {
+        "count" : 19,
+        "item" : "YCC & ASSOCIATES INC."
+      }, {
+        "count" : 18,
+        "item" : "YELLOWSTONE CONTRACTORS CORP."
+      }, {
+        "count" : 17,
+        "item" : "YOILY'S SERVICES INC"
+      }, {
+        "count" : 16,
+        "item" : "YONG YU TRADE WASTE"
+      }, {
+        "count" : 15,
+        "item" : "YORK CITY RECYCLE CORP."
+      }, {
+        "count" : 14,
+        "item" : "YU HUA CONSTRUCTION CORP."
+      }, {
+        "count" : 13,
+        "item" : "Z & K RENOVATION CORP."
+      }, {
+        "count" : 12,
+        "item" : "Z & Z  SERVICES INC."
+      }, {
+        "count" : 11,
+        "item" : "DBA: N.B. CONSTRUCTION COMPANY"
+      }, {
+        "count" : 10,
+        "item" : "ZAIM CONTRACTOR CORP."
+      }, {
+        "count" : 9,
+        "item" : "ZANGO TRUCKING INC."
+      }, {
+        "count" : 8,
+        "item" : "ZANO INDUSTRIES, INC."
+      }, {
+        "count" : 7,
+        "item" : "ZELIA TRUCKING INC."
+      }, {
+        "count" : 6,
+        "item" : "ZENG JIAN LI D/B/A J.L.RESTURANT SUPPLIES COMPANY"
+      }, {
+        "count" : 5,
+        "item" : "ZERO BELOW CONSTRUCTION MANAGEMENT SERVICES"
+      }, {
+        "count" : 4,
+        "item" : "ZEUS WASTE MANAGEMENT, INC."
+      }, {
+        "count" : 3,
+        "item" : "ZEV ELECTRIC CORP."
+      }, {
+        "count" : 2,
+        "item" : "ZEV ELECTRICAL CORP."
+      }, {
+        "count" : 1,
+        "item" : "ZHN CONTRACTING CORP."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789012,
+    "name" : "BUS NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "bus_name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8400812,
+    "width" : 320,
+    "cachedContents" : {
+      "non_null" : 2174,
+      "smallest" : "154-21 CORP. d/b/a D & D CONTRACTING",
+      "null" : 0,
+      "largest" : "ZORIA CONSTRUCTION NY INC.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "ZORIA CONSTRUCTION NY INC."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789013,
+    "name" : "MAILING OFFICE",
+    "dataTypeName" : "text",
+    "fieldName" : "mailing_office",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8400814,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 2174,
+      "smallest" : "100-02 ATLANTIC AVENUE",
+      "null" : 0,
+      "largest" : "PO BOX 970",
+      "top" : [ {
+        "count" : 20,
+        "item" : "54 PEARL STREET"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789014,
+    "name" : "MAIL CITY",
+    "dataTypeName" : "text",
+    "fieldName" : "mail_city",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8400818,
+    "width" : 360,
+    "cachedContents" : {
+      "non_null" : 2174,
+      "smallest" : "AKBERTSON",
+      "null" : 0,
+      "largest" : "YORKTOWN HGTS",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BROOKLYN"
+      }, {
+        "count" : 19,
+        "item" : "WHITESTONE"
+      }, {
+        "count" : 18,
+        "item" : "BRONX"
+      }, {
+        "count" : 17,
+        "item" : "STATEN ISLAND"
+      }, {
+        "count" : 16,
+        "item" : "FLUSHING"
+      }, {
+        "count" : 15,
+        "item" : "MASPETH"
+      }, {
+        "count" : 14,
+        "item" : "JAMAICA"
+      }, {
+        "count" : 13,
+        "item" : "INWOOD"
+      }, {
+        "count" : 12,
+        "item" : "NEW YORK"
+      }, {
+        "count" : 11,
+        "item" : "NEW ROCHELLE"
+      }, {
+        "count" : 10,
+        "item" : "YONKERS"
+      }, {
+        "count" : 9,
+        "item" : "COLLEGE POINT"
+      }, {
+        "count" : 8,
+        "item" : "LONG ISLAND CITY"
+      }, {
+        "count" : 7,
+        "item" : "NEWARK"
+      }, {
+        "count" : 6,
+        "item" : "ASTORIA"
+      }, {
+        "count" : 5,
+        "item" : "WEST ISLIP"
+      }, {
+        "count" : 4,
+        "item" : "SECAUCUS"
+      }, {
+        "count" : 3,
+        "item" : "EASTCHESTER"
+      }, {
+        "count" : 2,
+        "item" : "OLD BRIDGE"
+      }, {
+        "count" : 1,
+        "item" : "FAR ROCKAWAY"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789015,
+    "name" : "State",
+    "dataTypeName" : "text",
+    "fieldName" : "state",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8400819,
+    "width" : 250,
+    "cachedContents" : {
+      "non_null" : 2174,
+      "smallest" : "AL",
+      "null" : 0,
+      "largest" : "VA",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NY"
+      }, {
+        "count" : 19,
+        "item" : "NJ"
+      }, {
+        "count" : 18,
+        "item" : "PA"
+      }, {
+        "count" : 17,
+        "item" : "IL"
+      }, {
+        "count" : 16,
+        "item" : "CT"
+      }, {
+        "count" : 15,
+        "item" : "N Y"
+      }, {
+        "count" : 14,
+        "item" : "VA"
+      }, {
+        "count" : 13,
+        "item" : "TX"
+      }, {
+        "count" : 12,
+        "item" : "AL"
+      }, {
+        "count" : 11,
+        "item" : "CA"
+      }, {
+        "count" : 10,
+        "item" : "GA"
+      }, {
+        "count" : 9,
+        "item" : "TN"
+      }, {
+        "count" : 8,
+        "item" : "NC"
+      }, {
+        "count" : 7,
+        "item" : "AZ"
+      }, {
+        "count" : 6,
+        "item" : "MA"
+      }, {
+        "count" : 5,
+        "item" : "MN"
+      }, {
+        "count" : 4,
+        "item" : "ON"
+      }, {
+        "count" : 3,
+        "item" : "FL"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48789016,
+    "name" : "Zip",
+    "dataTypeName" : "text",
+    "fieldName" : "zip",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8400822,
+    "width" : 150,
+    "cachedContents" : {
+      "non_null" : 2173,
+      "smallest" : "10001",
+      "null" : 1,
+      "largest" : "92780",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11357"
+      }, {
+        "count" : 19,
+        "item" : "11378"
+      }, {
+        "count" : 18,
+        "item" : "10314"
+      }, {
+        "count" : 17,
+        "item" : "11096"
+      }, {
+        "count" : 16,
+        "item" : "10306"
+      }, {
+        "count" : 15,
+        "item" : "11222"
+      }, {
+        "count" : 14,
+        "item" : "11237"
+      }, {
+        "count" : 13,
+        "item" : "10710"
+      }, {
+        "count" : 12,
+        "item" : "11204"
+      }, {
+        "count" : 11,
+        "item" : "11356"
+      }, {
+        "count" : 10,
+        "item" : "11355"
+      }, {
+        "count" : 9,
+        "item" : "11551"
+      }, {
+        "count" : 8,
+        "item" : "11201"
+      }, {
+        "count" : 7,
+        "item" : "11206"
+      }, {
+        "count" : 6,
+        "item" : "11003"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Bimonthly "
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ci6y-i73t",
+    "displayName" : "Harish Pathria",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358262517,
+    "roleName" : "publisher",
+    "screenName" : "Harish Pathria",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ci6y-i73t",
+    "displayName" : "Harish Pathria",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358262517,
+    "roleName" : "publisher",
+    "screenName" : "Harish Pathria",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "wholesale", "market", "fulton", "fish", "gansevoort", "hunts point", "terminal", "produce" ],
+  "flags" : [ "default" ]
+}

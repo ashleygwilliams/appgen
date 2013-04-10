@@ -1,0 +1,420 @@
+{
+  "id" : "itfs-ms3e",
+  "name" : "AP (College Board) 2010 School Level Results",
+  "attribution" : "Department of Education (DOE)",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1317925529,
+  "description" : "New York City school level College Board AP results for 2010.  \r\n\r\nRecords with 5 or fewer students are suppressed. \r\n\r\nStudents are linked to schools by identifying which school they attend when registering for a College Board exam. A student is only included in a school’s report if he/she self-reports being enrolled at that school. \r\n\r\nData collected and processed by the College Board.",
+  "displayType" : "table",
+  "downloadCount" : 65,
+  "numberOfComments" : 0,
+  "oid" : 341163,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318357495,
+  "publicationGroup" : 243517,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1317925530,
+  "rowsUpdatedBy" : "rnig-m3uj",
+  "signed" : false,
+  "tableId" : 243517,
+  "totalTimesRated" : 0,
+  "viewCount" : 257,
+  "viewLastModified" : 1363698032,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2970045,
+    "name" : "DBN",
+    "dataTypeName" : "text",
+    "fieldName" : "dbn",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1556801,
+    "width" : 136,
+    "cachedContents" : {
+      "non_null" : 258,
+      "smallest" : "01M448",
+      "null" : 0,
+      "largest" : "32K556",
+      "top" : [ {
+        "count" : 20,
+        "item" : "31R080"
+      }, {
+        "count" : 19,
+        "item" : "31R440"
+      }, {
+        "count" : 18,
+        "item" : "31R445"
+      }, {
+        "count" : 17,
+        "item" : "31R450"
+      }, {
+        "count" : 16,
+        "item" : "31R455"
+      }, {
+        "count" : 15,
+        "item" : "31R460"
+      }, {
+        "count" : 14,
+        "item" : "31R600"
+      }, {
+        "count" : 13,
+        "item" : "31R605"
+      }, {
+        "count" : 12,
+        "item" : "32K545"
+      }, {
+        "count" : 11,
+        "item" : "32K552"
+      }, {
+        "count" : 10,
+        "item" : "32K554"
+      }, {
+        "count" : 9,
+        "item" : "32K556"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2970046,
+    "name" : "SchoolName",
+    "dataTypeName" : "text",
+    "fieldName" : "schoolname",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1556802,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 258,
+      "smallest" : "ABRAHAM LINCOLN HS",
+      "null" : 0,
+      "largest" : "Young  Women's Leadership School, Queens",
+      "top" : [ {
+        "count" : 20,
+        "item" : "PS 080 MICHAEL J. PETRIDES"
+      }, {
+        "count" : 19,
+        "item" : "NEW DORP HS"
+      }, {
+        "count" : 18,
+        "item" : "PORT RICHMOND HS"
+      }, {
+        "count" : 17,
+        "item" : "CURTIS HS"
+      }, {
+        "count" : 16,
+        "item" : "TOTTENVILLE HS"
+      }, {
+        "count" : 15,
+        "item" : "SUSAN E. WAGNER HS"
+      }, {
+        "count" : 14,
+        "item" : "RAPLH MCKEE VHS"
+      }, {
+        "count" : 13,
+        "item" : "STATEN ISLAND TECHNICAL HS"
+      }, {
+        "count" : 12,
+        "item" : "EBC-HS FOR PUB SERVICE (BUSH)"
+      }, {
+        "count" : 11,
+        "item" : "Academy of Urban Planning"
+      }, {
+        "count" : 10,
+        "item" : "All City Leadership Secondary School"
+      }, {
+        "count" : 9,
+        "item" : "Bushwick Leaders High School for Academic Excellen"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2970047,
+    "name" : "AP Test Takers ",
+    "dataTypeName" : "number",
+    "fieldName" : "ap_test_takers_",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1556803,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 233,
+      "smallest" : "6",
+      "sum" : "27699",
+      "null" : 25,
+      "average" : "118.8798283261803",
+      "largest" : "2117",
+      "top" : [ {
+        "count" : 20,
+        "item" : "21"
+      }, {
+        "count" : 19,
+        "item" : "31"
+      }, {
+        "count" : 18,
+        "item" : "46"
+      }, {
+        "count" : 17,
+        "item" : "22"
+      }, {
+        "count" : 16,
+        "item" : "19"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "15"
+      }, {
+        "count" : 13,
+        "item" : "29"
+      }, {
+        "count" : 12,
+        "item" : "14"
+      }, {
+        "count" : 11,
+        "item" : "40"
+      }, {
+        "count" : 10,
+        "item" : "243"
+      }, {
+        "count" : 9,
+        "item" : "406"
+      }, {
+        "count" : 8,
+        "item" : "108"
+      }, {
+        "count" : 7,
+        "item" : "51"
+      }, {
+        "count" : 6,
+        "item" : "119"
+      }, {
+        "count" : 5,
+        "item" : "101"
+      }, {
+        "count" : 4,
+        "item" : "162"
+      }, {
+        "count" : 3,
+        "item" : "96"
+      }, {
+        "count" : 2,
+        "item" : "194"
+      }, {
+        "count" : 1,
+        "item" : "247"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2970048,
+    "name" : "Total Exams Taken",
+    "dataTypeName" : "number",
+    "fieldName" : "total_exams_taken",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1556804,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 233,
+      "smallest" : "6",
+      "sum" : "42064",
+      "null" : 25,
+      "average" : "180.5321888412017",
+      "largest" : "3692",
+      "top" : [ {
+        "count" : 20,
+        "item" : "27"
+      }, {
+        "count" : 19,
+        "item" : "37"
+      }, {
+        "count" : 18,
+        "item" : "48"
+      }, {
+        "count" : 17,
+        "item" : "34"
+      }, {
+        "count" : 16,
+        "item" : "6"
+      }, {
+        "count" : 15,
+        "item" : "15"
+      }, {
+        "count" : 14,
+        "item" : "71"
+      }, {
+        "count" : 13,
+        "item" : "21"
+      }, {
+        "count" : 12,
+        "item" : "43"
+      }, {
+        "count" : 11,
+        "item" : "31"
+      }, {
+        "count" : 10,
+        "item" : "330"
+      }, {
+        "count" : 9,
+        "item" : "805"
+      }, {
+        "count" : 8,
+        "item" : "136"
+      }, {
+        "count" : 7,
+        "item" : "74"
+      }, {
+        "count" : 6,
+        "item" : "163"
+      }, {
+        "count" : 5,
+        "item" : "170"
+      }, {
+        "count" : 4,
+        "item" : "243"
+      }, {
+        "count" : 3,
+        "item" : "118"
+      }, {
+        "count" : 2,
+        "item" : "304"
+      }, {
+        "count" : 1,
+        "item" : "295"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2970049,
+    "name" : "Number of Exams with scores 3 4 or 5",
+    "dataTypeName" : "number",
+    "fieldName" : "number_of_exams_with_scores_3_4_or_5",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1556805,
+    "width" : 532,
+    "cachedContents" : {
+      "non_null" : 151,
+      "smallest" : "6",
+      "sum" : "21686",
+      "null" : 107,
+      "average" : "143.6158940397351",
+      "largest" : "2687",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10"
+      }, {
+        "count" : 19,
+        "item" : "29"
+      }, {
+        "count" : 18,
+        "item" : "6"
+      }, {
+        "count" : 17,
+        "item" : "7"
+      }, {
+        "count" : 16,
+        "item" : "9"
+      }, {
+        "count" : 15,
+        "item" : "27"
+      }, {
+        "count" : 14,
+        "item" : "8"
+      }, {
+        "count" : 13,
+        "item" : "13"
+      }, {
+        "count" : 12,
+        "item" : "12"
+      }, {
+        "count" : 11,
+        "item" : "18"
+      }, {
+        "count" : 10,
+        "item" : "57"
+      }, {
+        "count" : 9,
+        "item" : "119"
+      }, {
+        "count" : 8,
+        "item" : "66"
+      }, {
+        "count" : 7,
+        "item" : "62"
+      }, {
+        "count" : 6,
+        "item" : "76"
+      }, {
+        "count" : 5,
+        "item" : "90"
+      }, {
+        "count" : 4,
+        "item" : "206"
+      }, {
+        "count" : 3,
+        "item" : "175"
+      }, {
+        "count" : 2,
+        "item" : "809"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Historical Data"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "rnig-m3uj",
+    "displayName" : "Jorge J.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/5083/4460/large-profile_large.png",
+    "profileImageUrlMedium" : "/images/profile/5083/4460/large-profile_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/5083/4460/large-profile_tiny.png",
+    "profileLastModified" : 1322859437,
+    "screenName" : "Jorge J."
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rnig-m3uj",
+    "displayName" : "Jorge J.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/5083/4460/large-profile_large.png",
+    "profileImageUrlMedium" : "/images/profile/5083/4460/large-profile_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/5083/4460/large-profile_tiny.png",
+    "profileLastModified" : 1322859437,
+    "screenName" : "Jorge J."
+  },
+  "tags" : [ "lifelong learning" ],
+  "flags" : [ "default" ]
+}

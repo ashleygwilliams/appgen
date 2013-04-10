@@ -1,0 +1,859 @@
+{
+  "id" : "432v-a7hc",
+  "name" : "Population Of Selected Asian Race Subgroups In New York City By Borough",
+  "attribution" : "Department of City Planning (DCP)",
+  "attributionLink" : "http://www.nyc.gov/html/dcp/html/census/demo_tables_2010.shtml",
+  "averageRating" : 0,
+  "category" : "Statistics",
+  "createdAt" : 1361460024,
+  "description" : "Population details of selected Asian Race Subgroups in New York City by Borough",
+  "displayType" : "table",
+  "downloadCount" : 1,
+  "numberOfComments" : 0,
+  "oid" : 2587271,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361460463,
+  "publicationGroup" : 691351,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1361460254,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 691351,
+  "totalTimesRated" : 0,
+  "viewCount" : 9,
+  "viewLastModified" : 1361460474,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 46103425,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8047752,
+    "width" : 76,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "  Bronx",
+      "null" : 0,
+      "largest" : "  Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "  Bronx"
+      }, {
+        "count" : 19,
+        "item" : "  Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "  Manhattan"
+      }, {
+        "count" : 17,
+        "item" : "  Queens"
+      }, {
+        "count" : 16,
+        "item" : "  Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46103426,
+    "name" : "Year",
+    "dataTypeName" : "text",
+    "fieldName" : "year",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8047753,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "2010",
+      "null" : 0,
+      "largest" : "2010",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2010"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46103427,
+    "name" : "Total Asian Only",
+    "dataTypeName" : "number",
+    "fieldName" : "total_asian_only",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8047754,
+    "width" : 88,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "35164",
+      "sum" : "1038388",
+      "null" : 0,
+      "average" : "207677.6",
+      "largest" : "511787",
+      "top" : [ {
+        "count" : 20,
+        "item" : "49609"
+      }, {
+        "count" : 19,
+        "item" : "262276"
+      }, {
+        "count" : 18,
+        "item" : "179552"
+      }, {
+        "count" : 17,
+        "item" : "511787"
+      }, {
+        "count" : 16,
+        "item" : "35164"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46103428,
+    "name" : "Total Asian - Indian",
+    "dataTypeName" : "number",
+    "fieldName" : "total_asian_indian",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8047755,
+    "width" : 108,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "6793",
+      "sum" : "192209",
+      "null" : 0,
+      "average" : "38441.8",
+      "largest" : "117550",
+      "top" : [ {
+        "count" : 20,
+        "item" : "15865"
+      }, {
+        "count" : 19,
+        "item" : "26144"
+      }, {
+        "count" : 18,
+        "item" : "25857"
+      }, {
+        "count" : 17,
+        "item" : "117550"
+      }, {
+        "count" : 16,
+        "item" : "6793"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46103429,
+    "name" : "Total Asian - Bangladeshi",
+    "dataTypeName" : "number",
+    "fieldName" : "total_asian_bangladeshi",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8047756,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "360",
+      "sum" : "53174",
+      "null" : 0,
+      "average" : "10634.8",
+      "largest" : "33152",
+      "top" : [ {
+        "count" : 20,
+        "item" : "7323"
+      }, {
+        "count" : 19,
+        "item" : "10667"
+      }, {
+        "count" : 18,
+        "item" : "1672"
+      }, {
+        "count" : 17,
+        "item" : "33152"
+      }, {
+        "count" : 16,
+        "item" : "360"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46103430,
+    "name" : "Total Asian - Bhutanese",
+    "dataTypeName" : "number",
+    "fieldName" : "total_asian_bhutanese",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8047757,
+    "width" : 135,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "0",
+      "sum" : "345",
+      "null" : 0,
+      "average" : "69",
+      "largest" : "240",
+      "top" : [ {
+        "count" : 20,
+        "item" : "74"
+      }, {
+        "count" : 19,
+        "item" : "5"
+      }, {
+        "count" : 18,
+        "item" : "26"
+      }, {
+        "count" : 17,
+        "item" : "240"
+      }, {
+        "count" : 16,
+        "item" : "0"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46103431,
+    "name" : "Total Asian - Burmese ",
+    "dataTypeName" : "number",
+    "fieldName" : "total_asian_burmese",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8047758,
+    "width" : 128,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "71",
+      "sum" : "3614",
+      "null" : 0,
+      "average" : "722.8",
+      "largest" : "2132",
+      "top" : [ {
+        "count" : 20,
+        "item" : "71"
+      }, {
+        "count" : 19,
+        "item" : "1055"
+      }, {
+        "count" : 18,
+        "item" : "240"
+      }, {
+        "count" : 17,
+        "item" : "2132"
+      }, {
+        "count" : 16,
+        "item" : "116"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46103432,
+    "name" : "Total Asian - Cambodian",
+    "dataTypeName" : "number",
+    "fieldName" : "total_asian_cambodian",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8047759,
+    "width" : 141,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "100",
+      "sum" : "2166",
+      "null" : 0,
+      "average" : "433.2",
+      "largest" : "1055",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1055"
+      }, {
+        "count" : 19,
+        "item" : "613"
+      }, {
+        "count" : 18,
+        "item" : "168"
+      }, {
+        "count" : 17,
+        "item" : "230"
+      }, {
+        "count" : 16,
+        "item" : "100"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46103433,
+    "name" : "Total Asian - Chinese and Taiwanese",
+    "dataTypeName" : "number",
+    "fieldName" : "total_asian_chinese_and_taiwanese",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8047760,
+    "width" : 205,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "6742",
+      "sum" : "486463",
+      "null" : 0,
+      "average" : "97292.6",
+      "largest" : "199469",
+      "top" : [ {
+        "count" : 20,
+        "item" : "6742"
+      }, {
+        "count" : 19,
+        "item" : "172071"
+      }, {
+        "count" : 18,
+        "item" : "94877"
+      }, {
+        "count" : 17,
+        "item" : "199469"
+      }, {
+        "count" : 16,
+        "item" : "13304"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46103434,
+    "name" : "Total Asian - Filipino",
+    "dataTypeName" : "number",
+    "fieldName" : "total_asian_filipino",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8047761,
+    "width" : 114,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "5224",
+      "sum" : "67292",
+      "null" : 0,
+      "average" : "13458.4",
+      "largest" : "38163",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5576"
+      }, {
+        "count" : 19,
+        "item" : "7930"
+      }, {
+        "count" : 18,
+        "item" : "10399"
+      }, {
+        "count" : 17,
+        "item" : "38163"
+      }, {
+        "count" : 16,
+        "item" : "5224"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46103435,
+    "name" : "Total Asian - Hmong",
+    "dataTypeName" : "number",
+    "fieldName" : "total_asian_hmong",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8047762,
+    "width" : 116,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "1",
+      "sum" : "59",
+      "null" : 0,
+      "average" : "11.8",
+      "largest" : "24",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "14"
+      }, {
+        "count" : 18,
+        "item" : "16"
+      }, {
+        "count" : 17,
+        "item" : "24"
+      }, {
+        "count" : 16,
+        "item" : "4"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46103436,
+    "name" : " Total Asian - Indonesian",
+    "dataTypeName" : "number",
+    "fieldName" : "total_asian_indonesian",
+    "position" : 12,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8047763,
+    "width" : 137,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "22",
+      "sum" : "3785",
+      "null" : 0,
+      "average" : "757",
+      "largest" : "2860",
+      "top" : [ {
+        "count" : 20,
+        "item" : "50"
+      }, {
+        "count" : 19,
+        "item" : "383"
+      }, {
+        "count" : 18,
+        "item" : "470"
+      }, {
+        "count" : 17,
+        "item" : "2860"
+      }, {
+        "count" : 16,
+        "item" : "22"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46103437,
+    "name" : "Total Asian - Japanese",
+    "dataTypeName" : "number",
+    "fieldName" : "total_asian_japanese",
+    "position" : 13,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8047764,
+    "width" : 130,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "201",
+      "sum" : "24277",
+      "null" : 0,
+      "average" : "4855.4",
+      "largest" : "13201",
+      "top" : [ {
+        "count" : 20,
+        "item" : "562"
+      }, {
+        "count" : 19,
+        "item" : "3938"
+      }, {
+        "count" : 18,
+        "item" : "13201"
+      }, {
+        "count" : 17,
+        "item" : "6375"
+      }, {
+        "count" : 16,
+        "item" : "201"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46103438,
+    "name" : "Total Asian - Korean",
+    "dataTypeName" : "number",
+    "fieldName" : "total_asian_korean",
+    "position" : 14,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8047765,
+    "width" : 113,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "2840",
+      "sum" : "96741",
+      "null" : 0,
+      "average" : "19348.2",
+      "largest" : "64107",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2840"
+      }, {
+        "count" : 19,
+        "item" : "6904"
+      }, {
+        "count" : 18,
+        "item" : "19683"
+      }, {
+        "count" : 17,
+        "item" : "64107"
+      }, {
+        "count" : 16,
+        "item" : "3207"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46103439,
+    "name" : "Total Asian - Laotian",
+    "dataTypeName" : "number",
+    "fieldName" : "total_asian_laotian",
+    "position" : 15,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8047766,
+    "width" : 113,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "13",
+      "sum" : "440",
+      "null" : 0,
+      "average" : "88",
+      "largest" : "137",
+      "top" : [ {
+        "count" : 20,
+        "item" : "99"
+      }, {
+        "count" : 19,
+        "item" : "82"
+      }, {
+        "count" : 18,
+        "item" : "109"
+      }, {
+        "count" : 17,
+        "item" : "137"
+      }, {
+        "count" : 16,
+        "item" : "13"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46103440,
+    "name" : "Total Asian - Malaysian",
+    "dataTypeName" : "number",
+    "fieldName" : "total_asian_malaysian",
+    "position" : 16,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8047767,
+    "width" : 135,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "11",
+      "sum" : "2100",
+      "null" : 0,
+      "average" : "420",
+      "largest" : "1029",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11"
+      }, {
+        "count" : 19,
+        "item" : "478"
+      }, {
+        "count" : 18,
+        "item" : "524"
+      }, {
+        "count" : 17,
+        "item" : "1029"
+      }, {
+        "count" : 16,
+        "item" : "58"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46103441,
+    "name" : "Total Asian - Nepalese",
+    "dataTypeName" : "number",
+    "fieldName" : "total_asian_nepalese",
+    "position" : 17,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8047768,
+    "width" : 123,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "27",
+      "sum" : "5681",
+      "null" : 0,
+      "average" : "1136.2",
+      "largest" : "4930",
+      "top" : [ {
+        "count" : 20,
+        "item" : "129"
+      }, {
+        "count" : 19,
+        "item" : "355"
+      }, {
+        "count" : 18,
+        "item" : "240"
+      }, {
+        "count" : 17,
+        "item" : "4930"
+      }, {
+        "count" : 16,
+        "item" : "27"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46103442,
+    "name" : "Total Asian - Pakistani",
+    "dataTypeName" : "number",
+    "fieldName" : "total_asian_pakistani",
+    "position" : 18,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8047769,
+    "width" : 128,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "2399",
+      "sum" : "41887",
+      "null" : 0,
+      "average" : "8377.4",
+      "largest" : "18296",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2399"
+      }, {
+        "count" : 19,
+        "item" : "18296"
+      }, {
+        "count" : 18,
+        "item" : "2482"
+      }, {
+        "count" : 17,
+        "item" : "16215"
+      }, {
+        "count" : 16,
+        "item" : "2495"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46103443,
+    "name" : "Total Asian - Sri Lankan",
+    "dataTypeName" : "number",
+    "fieldName" : "total_asian_sri_lankan",
+    "position" : 19,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8047770,
+    "width" : 134,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "174",
+      "sum" : "3696",
+      "null" : 0,
+      "average" : "739.2",
+      "largest" : "1560",
+      "top" : [ {
+        "count" : 20,
+        "item" : "174"
+      }, {
+        "count" : 19,
+        "item" : "219"
+      }, {
+        "count" : 18,
+        "item" : "450"
+      }, {
+        "count" : 17,
+        "item" : "1293"
+      }, {
+        "count" : 16,
+        "item" : "1560"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46103444,
+    "name" : "Total Asian - Thai",
+    "dataTypeName" : "number",
+    "fieldName" : "total_asian_thai",
+    "position" : 20,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8047771,
+    "width" : 102,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "135",
+      "sum" : "6056",
+      "null" : 0,
+      "average" : "1211.2",
+      "largest" : "3677",
+      "top" : [ {
+        "count" : 20,
+        "item" : "326"
+      }, {
+        "count" : 19,
+        "item" : "636"
+      }, {
+        "count" : 18,
+        "item" : "1282"
+      }, {
+        "count" : 17,
+        "item" : "3677"
+      }, {
+        "count" : 16,
+        "item" : "135"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46103445,
+    "name" : "Total Asian - Vietnamese",
+    "dataTypeName" : "number",
+    "fieldName" : "total_asian_vietnamese",
+    "position" : 21,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8047772,
+    "width" : 139,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "468",
+      "sum" : "13387",
+      "null" : 0,
+      "average" : "2677.4",
+      "largest" : "3944",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3215"
+      }, {
+        "count" : 19,
+        "item" : "3944"
+      }, {
+        "count" : 18,
+        "item" : "2194"
+      }, {
+        "count" : 17,
+        "item" : "3566"
+      }, {
+        "count" : 16,
+        "item" : "468"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46103446,
+    "name" : "Other Asian and Persons of Two or More Asian Categories",
+    "dataTypeName" : "number",
+    "fieldName" : "other_asian_and_persons_of_two_or_more_asian_categories",
+    "position" : 22,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8047773,
+    "width" : 169,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "1077",
+      "sum" : "35016",
+      "null" : 0,
+      "average" : "7003.2",
+      "largest" : "16638",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3097"
+      }, {
+        "count" : 19,
+        "item" : "8542"
+      }, {
+        "count" : 18,
+        "item" : "5662"
+      }, {
+        "count" : 17,
+        "item" : "16638"
+      }, {
+        "count" : 16,
+        "item" : "1077"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46103447,
+    "name" : "Asian in Combination with Another Race",
+    "dataTypeName" : "number",
+    "fieldName" : "asian_in_combination_with_another_race",
+    "position" : 23,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8047774,
+    "width" : 288,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "3592",
+      "sum" : "96531",
+      "null" : 0,
+      "average" : "19306.2",
+      "largest" : "41080",
+      "top" : [ {
+        "count" : 20,
+        "item" : "9476"
+      }, {
+        "count" : 19,
+        "item" : "22213"
+      }, {
+        "count" : 18,
+        "item" : "20170"
+      }, {
+        "count" : 17,
+        "item" : "41080"
+      }, {
+        "count" : 16,
+        "item" : "3592"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dcp", "city", "planning", "population", "growth", "race", "asian", "borough" ],
+  "flags" : [ "default" ]
+}

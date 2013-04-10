@@ -1,0 +1,340 @@
+{
+  "id" : "js82-9nvz",
+  "name" : "Complaints per Uniformed Officer",
+  "attribution" : "Civilian Complaint Review Board (CCRB)",
+  "attributionLink" : "http://www.nyc.gov/html/ccrb/pdf/ccrbappendices2011.pdf",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1361828524,
+  "description" : "This table represents complaints per uniformed officer",
+  "displayType" : "table",
+  "downloadCount" : 6,
+  "numberOfComments" : 0,
+  "oid" : 2643733,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361907073,
+  "publicationGroup" : 699515,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1361906953,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 701396,
+  "totalTimesRated" : 0,
+  "viewCount" : 18,
+  "viewLastModified" : 1361910596,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 47138804,
+    "name" : "Year",
+    "dataTypeName" : "text",
+    "fieldName" : "year",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159443,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 51,
+      "smallest" : "2009",
+      "null" : 0,
+      "largest" : "2011",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2009"
+      }, {
+        "count" : 19,
+        "item" : "2010"
+      }, {
+        "count" : 18,
+        "item" : "2011"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 47138805,
+    "name" : "Ranking",
+    "dataTypeName" : "text",
+    "fieldName" : "ranking",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159444,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 51,
+      "smallest" : "1",
+      "null" : 0,
+      "largest" : "9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "11"
+      }, {
+        "count" : 9,
+        "item" : "12"
+      }, {
+        "count" : 8,
+        "item" : "13"
+      }, {
+        "count" : 7,
+        "item" : "14"
+      }, {
+        "count" : 6,
+        "item" : "15"
+      }, {
+        "count" : 5,
+        "item" : "16"
+      }, {
+        "count" : 4,
+        "item" : "17"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 47138806,
+    "name" : "Precinct / Command",
+    "dataTypeName" : "text",
+    "fieldName" : "precinct_command",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159445,
+    "width" : 219,
+    "cachedContents" : {
+      "non_null" : 51,
+      "smallest" : "Deputy Commissioners and Misc. Units",
+      "null" : 0,
+      "largest" : "Transit Bureau",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Patrol Borough Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Patrol Borough Brooklyn North"
+      }, {
+        "count" : 18,
+        "item" : "Patrol Borough Brooklyn South"
+      }, {
+        "count" : 17,
+        "item" : "Organized Crime Control Bureau"
+      }, {
+        "count" : 16,
+        "item" : "Patrol Borough Queens South"
+      }, {
+        "count" : 15,
+        "item" : "Housing Bureau"
+      }, {
+        "count" : 14,
+        "item" : "Patrol Borough Manhattan North"
+      }, {
+        "count" : 13,
+        "item" : "Patrol Borough Staten Island"
+      }, {
+        "count" : 12,
+        "item" : "Patrol Borough Manhattan South"
+      }, {
+        "count" : 11,
+        "item" : "Patrol Borough Queens North"
+      }, {
+        "count" : 10,
+        "item" : "Traffic Control Division"
+      }, {
+        "count" : 9,
+        "item" : "Transit Bureau"
+      }, {
+        "count" : 8,
+        "item" : "Detective Bureau"
+      }, {
+        "count" : 7,
+        "item" : "Special Operations Division"
+      }, {
+        "count" : 6,
+        "item" : "Other Bureaus"
+      }, {
+        "count" : 5,
+        "item" : "Other Patrol Services Bureau Commands"
+      }, {
+        "count" : 4,
+        "item" : "Deputy Commissioners and Misc. Units"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 47138807,
+    "name" : "Complaints Count",
+    "dataTypeName" : "text",
+    "fieldName" : "complaints_count",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159446,
+    "width" : 102,
+    "cachedContents" : {
+      "non_null" : 51,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "887",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3"
+      }, {
+        "count" : 19,
+        "item" : "243"
+      }, {
+        "count" : 18,
+        "item" : "211"
+      }, {
+        "count" : 17,
+        "item" : "60"
+      }, {
+        "count" : 16,
+        "item" : "175"
+      }, {
+        "count" : 15,
+        "item" : "160"
+      }, {
+        "count" : 14,
+        "item" : "21"
+      }, {
+        "count" : 13,
+        "item" : "45"
+      }, {
+        "count" : 12,
+        "item" : "50"
+      }, {
+        "count" : 11,
+        "item" : "0"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47138808,
+    "name" : "Number Of Subject Officers",
+    "dataTypeName" : "text",
+    "fieldName" : "number_of_subject_officers",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159447,
+    "width" : 151,
+    "cachedContents" : {
+      "non_null" : 51,
+      "smallest" : "1649",
+      "null" : 0,
+      "largest" : "941",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2251"
+      }, {
+        "count" : 19,
+        "item" : "1921"
+      }, {
+        "count" : 18,
+        "item" : "1713"
+      }, {
+        "count" : 17,
+        "item" : "589"
+      }, {
+        "count" : 16,
+        "item" : "2351"
+      }, {
+        "count" : 15,
+        "item" : "3005"
+      }, {
+        "count" : 14,
+        "item" : "779"
+      }, {
+        "count" : 13,
+        "item" : "2129"
+      }, {
+        "count" : 12,
+        "item" : "4037"
+      }, {
+        "count" : 11,
+        "item" : "186"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "ccrb", "command", "rankings", "complaints" ],
+  "flags" : [ "default" ]
+}

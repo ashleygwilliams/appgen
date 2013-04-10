@@ -1,0 +1,2028 @@
+{
+  "id" : "77d2-9ebr",
+  "name" : "Congress District Breakdowns",
+  "attribution" : "Department of Youth and Community Development (DYCD)",
+  "averageRating" : 0,
+  "createdAt" : 1311776025,
+  "description" : "Demographic statistics broken down by congress districts",
+  "displayType" : "table",
+  "downloadCount" : 26,
+  "numberOfComments" : 0,
+  "oid" : 342278,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318116145,
+  "publicationGroup" : 238851,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318116142,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 244133,
+  "totalTimesRated" : 0,
+  "viewCount" : 41,
+  "viewLastModified" : 1363703888,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2989122,
+    "name" : "JURISDICTION NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "jurisdiction_name",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1501899,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "Federal Congressional District 05 - NY",
+      "null" : 0,
+      "largest" : "Federal Congressional District 17 - NY",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Federal Congressional District 05 - NY"
+      }, {
+        "count" : 19,
+        "item" : "Federal Congressional District 06 - NY"
+      }, {
+        "count" : 18,
+        "item" : "Federal Congressional District 07 - NY"
+      }, {
+        "count" : 17,
+        "item" : "Federal Congressional District 08 - NY"
+      }, {
+        "count" : 16,
+        "item" : "Federal Congressional District 09 - NY"
+      }, {
+        "count" : 15,
+        "item" : "Federal Congressional District 10 - NY"
+      }, {
+        "count" : 14,
+        "item" : "Federal Congressional District 11 - NY"
+      }, {
+        "count" : 13,
+        "item" : "Federal Congressional District 12 - NY"
+      }, {
+        "count" : 12,
+        "item" : "Federal Congressional District 13 - NY"
+      }, {
+        "count" : 11,
+        "item" : "Federal Congressional District 14 - NY"
+      }, {
+        "count" : 10,
+        "item" : "Federal Congressional District 15 - NY"
+      }, {
+        "count" : 9,
+        "item" : "Federal Congressional District 16 - NY"
+      }, {
+        "count" : 8,
+        "item" : "Federal Congressional District 17 - NY"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989123,
+    "name" : "COUNT PARTICIPANTS",
+    "dataTypeName" : "number",
+    "fieldName" : "count_participants",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501900,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "5",
+      "sum" : "2103",
+      "null" : 0,
+      "average" : "161.7692307692308",
+      "largest" : "618",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5"
+      }, {
+        "count" : 19,
+        "item" : "48"
+      }, {
+        "count" : 18,
+        "item" : "113"
+      }, {
+        "count" : 17,
+        "item" : "618"
+      }, {
+        "count" : 16,
+        "item" : "150"
+      }, {
+        "count" : 15,
+        "item" : "86"
+      }, {
+        "count" : 14,
+        "item" : "389"
+      }, {
+        "count" : 13,
+        "item" : "53"
+      }, {
+        "count" : 12,
+        "item" : "41"
+      }, {
+        "count" : 11,
+        "item" : "21"
+      }, {
+        "count" : 10,
+        "item" : "72"
+      }, {
+        "count" : 9,
+        "item" : "270"
+      }, {
+        "count" : 8,
+        "item" : "237"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989124,
+    "name" : "COUNT FEMALE",
+    "dataTypeName" : "number",
+    "fieldName" : "count_female",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501901,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "2",
+      "sum" : "1332",
+      "null" : 0,
+      "average" : "102.4615384615385",
+      "largest" : "384",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2"
+      }, {
+        "count" : 19,
+        "item" : "16"
+      }, {
+        "count" : 18,
+        "item" : "73"
+      }, {
+        "count" : 17,
+        "item" : "384"
+      }, {
+        "count" : 16,
+        "item" : "83"
+      }, {
+        "count" : 15,
+        "item" : "69"
+      }, {
+        "count" : 14,
+        "item" : "305"
+      }, {
+        "count" : 13,
+        "item" : "26"
+      }, {
+        "count" : 12,
+        "item" : "22"
+      }, {
+        "count" : 11,
+        "item" : "13"
+      }, {
+        "count" : 10,
+        "item" : "42"
+      }, {
+        "count" : 9,
+        "item" : "151"
+      }, {
+        "count" : 8,
+        "item" : "146"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989125,
+    "name" : "PERCENT FEMALE",
+    "dataTypeName" : "number",
+    "fieldName" : "percent_female",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501902,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0.33",
+      "sum" : "7.54",
+      "null" : 0,
+      "average" : "0.58",
+      "largest" : "0.8",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.4"
+      }, {
+        "count" : 19,
+        "item" : "0.33"
+      }, {
+        "count" : 18,
+        "item" : "0.65"
+      }, {
+        "count" : 17,
+        "item" : "0.62"
+      }, {
+        "count" : 16,
+        "item" : "0.55"
+      }, {
+        "count" : 15,
+        "item" : "0.8"
+      }, {
+        "count" : 14,
+        "item" : "0.78"
+      }, {
+        "count" : 13,
+        "item" : "0.49"
+      }, {
+        "count" : 12,
+        "item" : "0.54"
+      }, {
+        "count" : 11,
+        "item" : "0.58"
+      }, {
+        "count" : 10,
+        "item" : "0.56"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989126,
+    "name" : "COUNT MALE",
+    "dataTypeName" : "number",
+    "fieldName" : "count_male",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501903,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "3",
+      "sum" : "771",
+      "null" : 0,
+      "average" : "59.30769230769231",
+      "largest" : "234",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3"
+      }, {
+        "count" : 19,
+        "item" : "32"
+      }, {
+        "count" : 18,
+        "item" : "40"
+      }, {
+        "count" : 17,
+        "item" : "234"
+      }, {
+        "count" : 16,
+        "item" : "67"
+      }, {
+        "count" : 15,
+        "item" : "17"
+      }, {
+        "count" : 14,
+        "item" : "84"
+      }, {
+        "count" : 13,
+        "item" : "27"
+      }, {
+        "count" : 12,
+        "item" : "19"
+      }, {
+        "count" : 11,
+        "item" : "8"
+      }, {
+        "count" : 10,
+        "item" : "30"
+      }, {
+        "count" : 9,
+        "item" : "119"
+      }, {
+        "count" : 8,
+        "item" : "91"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989127,
+    "name" : "PERCENT MALE",
+    "dataTypeName" : "number",
+    "fieldName" : "percent_male",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501904,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0.2",
+      "sum" : "5.46",
+      "null" : 0,
+      "average" : "0.42",
+      "largest" : "0.67",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.6"
+      }, {
+        "count" : 19,
+        "item" : "0.67"
+      }, {
+        "count" : 18,
+        "item" : "0.35"
+      }, {
+        "count" : 17,
+        "item" : "0.38"
+      }, {
+        "count" : 16,
+        "item" : "0.45"
+      }, {
+        "count" : 15,
+        "item" : "0.2"
+      }, {
+        "count" : 14,
+        "item" : "0.22"
+      }, {
+        "count" : 13,
+        "item" : "0.51"
+      }, {
+        "count" : 12,
+        "item" : "0.46"
+      }, {
+        "count" : 11,
+        "item" : "0.42"
+      }, {
+        "count" : 10,
+        "item" : "0.44"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989128,
+    "name" : "COUNT GENDER UNKNOWN",
+    "dataTypeName" : "number",
+    "fieldName" : "count_gender_unknown",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501905,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0",
+      "sum" : "0",
+      "null" : 0,
+      "average" : "0",
+      "largest" : "0",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989129,
+    "name" : "PERCENT GENDER UNKNOWN",
+    "dataTypeName" : "number",
+    "fieldName" : "percent_gender_unknown",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501906,
+    "width" : 364,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0",
+      "sum" : "0",
+      "null" : 0,
+      "average" : "0",
+      "largest" : "0",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989130,
+    "name" : "COUNT GENDER TOTAL",
+    "dataTypeName" : "number",
+    "fieldName" : "count_gender_total",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501907,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "5",
+      "sum" : "2103",
+      "null" : 0,
+      "average" : "161.7692307692308",
+      "largest" : "618",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5"
+      }, {
+        "count" : 19,
+        "item" : "48"
+      }, {
+        "count" : 18,
+        "item" : "113"
+      }, {
+        "count" : 17,
+        "item" : "618"
+      }, {
+        "count" : 16,
+        "item" : "150"
+      }, {
+        "count" : 15,
+        "item" : "86"
+      }, {
+        "count" : 14,
+        "item" : "389"
+      }, {
+        "count" : 13,
+        "item" : "53"
+      }, {
+        "count" : 12,
+        "item" : "41"
+      }, {
+        "count" : 11,
+        "item" : "21"
+      }, {
+        "count" : 10,
+        "item" : "72"
+      }, {
+        "count" : 9,
+        "item" : "270"
+      }, {
+        "count" : 8,
+        "item" : "237"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989131,
+    "name" : "PERCENT GENDER TOTAL",
+    "dataTypeName" : "number",
+    "fieldName" : "percent_gender_total",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501908,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "100",
+      "sum" : "1300",
+      "null" : 0,
+      "average" : "100",
+      "largest" : "100",
+      "top" : [ {
+        "count" : 20,
+        "item" : "100"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989132,
+    "name" : "COUNT PACIFIC ISLANDER",
+    "dataTypeName" : "number",
+    "fieldName" : "count_pacific_islander",
+    "position" : 12,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501909,
+    "width" : 364,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0",
+      "sum" : "2",
+      "null" : 0,
+      "average" : "0.1538461538461538",
+      "largest" : "1",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989133,
+    "name" : "PERCENT PACIFIC ISLANDER",
+    "dataTypeName" : "number",
+    "fieldName" : "percent_pacific_islander",
+    "position" : 13,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501910,
+    "width" : 388,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0",
+      "sum" : "0.01",
+      "null" : 0,
+      "average" : "0.0007692307692307692",
+      "largest" : "0.01",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "0.01"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989134,
+    "name" : "COUNT HISPANIC LATINO",
+    "dataTypeName" : "number",
+    "fieldName" : "count_hispanic_latino",
+    "position" : 14,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501911,
+    "width" : 352,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0",
+      "sum" : "398",
+      "null" : 0,
+      "average" : "30.61538461538462",
+      "largest" : "122",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2"
+      }, {
+        "count" : 19,
+        "item" : "51"
+      }, {
+        "count" : 18,
+        "item" : "12"
+      }, {
+        "count" : 17,
+        "item" : "9"
+      }, {
+        "count" : 16,
+        "item" : "3"
+      }, {
+        "count" : 15,
+        "item" : "0"
+      }, {
+        "count" : 14,
+        "item" : "32"
+      }, {
+        "count" : 13,
+        "item" : "122"
+      }, {
+        "count" : 12,
+        "item" : "110"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989135,
+    "name" : "PERCENT HISPANIC LATINO",
+    "dataTypeName" : "number",
+    "fieldName" : "percent_hispanic_latino",
+    "position" : 15,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501912,
+    "width" : 376,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0",
+      "sum" : "2.60",
+      "null" : 0,
+      "average" : "0.20",
+      "largest" : "0.46",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.4"
+      }, {
+        "count" : 19,
+        "item" : "0.04"
+      }, {
+        "count" : 18,
+        "item" : "0.45"
+      }, {
+        "count" : 17,
+        "item" : "0.08"
+      }, {
+        "count" : 16,
+        "item" : "0.02"
+      }, {
+        "count" : 15,
+        "item" : "0.06"
+      }, {
+        "count" : 14,
+        "item" : "0"
+      }, {
+        "count" : 13,
+        "item" : "0.1"
+      }, {
+        "count" : 12,
+        "item" : "0.44"
+      }, {
+        "count" : 11,
+        "item" : "0.46"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989136,
+    "name" : "COUNT AMERICAN INDIAN",
+    "dataTypeName" : "number",
+    "fieldName" : "count_american_indian",
+    "position" : 16,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501913,
+    "width" : 352,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0",
+      "sum" : "3",
+      "null" : 0,
+      "average" : "0.2307692307692308",
+      "largest" : "1",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989137,
+    "name" : "PERCENT AMERICAN INDIAN",
+    "dataTypeName" : "number",
+    "fieldName" : "percent_american_indian",
+    "position" : 17,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501914,
+    "width" : 376,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0",
+      "sum" : "0.01",
+      "null" : 0,
+      "average" : "0.0007692307692307692",
+      "largest" : "0.01",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "0.01"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989138,
+    "name" : "COUNT ASIAN NON HISPANIC",
+    "dataTypeName" : "number",
+    "fieldName" : "count_asian_non_hispanic",
+    "position" : 18,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501915,
+    "width" : 388,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0",
+      "sum" : "112",
+      "null" : 0,
+      "average" : "8.615384615384615",
+      "largest" : "32",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "0"
+      }, {
+        "count" : 18,
+        "item" : "2"
+      }, {
+        "count" : 17,
+        "item" : "30"
+      }, {
+        "count" : 16,
+        "item" : "7"
+      }, {
+        "count" : 15,
+        "item" : "8"
+      }, {
+        "count" : 14,
+        "item" : "32"
+      }, {
+        "count" : 13,
+        "item" : "5"
+      }, {
+        "count" : 12,
+        "item" : "16"
+      }, {
+        "count" : 11,
+        "item" : "3"
+      }, {
+        "count" : 10,
+        "item" : "4"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989139,
+    "name" : "PERCENT ASIAN NON HISPANIC",
+    "dataTypeName" : "number",
+    "fieldName" : "percent_asian_non_hispanic",
+    "position" : 19,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501916,
+    "width" : 412,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0",
+      "sum" : "1.90",
+      "null" : 0,
+      "average" : "0.1461538461538462",
+      "largest" : "0.76",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.2"
+      }, {
+        "count" : 19,
+        "item" : "0"
+      }, {
+        "count" : 18,
+        "item" : "0.02"
+      }, {
+        "count" : 17,
+        "item" : "0.05"
+      }, {
+        "count" : 16,
+        "item" : "0.01"
+      }, {
+        "count" : 15,
+        "item" : "0.6"
+      }, {
+        "count" : 14,
+        "item" : "0.12"
+      }, {
+        "count" : 13,
+        "item" : "0.76"
+      }, {
+        "count" : 12,
+        "item" : "0.04"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989140,
+    "name" : "COUNT WHITE NON HISPANIC",
+    "dataTypeName" : "number",
+    "fieldName" : "count_white_non_hispanic",
+    "position" : 20,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501917,
+    "width" : 388,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0",
+      "sum" : "992",
+      "null" : 0,
+      "average" : "76.30769230769231",
+      "largest" : "407",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "37"
+      }, {
+        "count" : 18,
+        "item" : "9"
+      }, {
+        "count" : 17,
+        "item" : "407"
+      }, {
+        "count" : 16,
+        "item" : "111"
+      }, {
+        "count" : 15,
+        "item" : "68"
+      }, {
+        "count" : 14,
+        "item" : "312"
+      }, {
+        "count" : 13,
+        "item" : "11"
+      }, {
+        "count" : 12,
+        "item" : "34"
+      }, {
+        "count" : 11,
+        "item" : "3"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989141,
+    "name" : "PERCENT WHITE NON HISPANIC",
+    "dataTypeName" : "number",
+    "fieldName" : "percent_white_non_hispanic",
+    "position" : 21,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501918,
+    "width" : 412,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0",
+      "sum" : "4.89",
+      "null" : 0,
+      "average" : "0.3761538461538462",
+      "largest" : "0.83",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "0.77"
+      }, {
+        "count" : 18,
+        "item" : "0.08"
+      }, {
+        "count" : 17,
+        "item" : "0.66"
+      }, {
+        "count" : 16,
+        "item" : "0.74"
+      }, {
+        "count" : 15,
+        "item" : "0.79"
+      }, {
+        "count" : 14,
+        "item" : "0.8"
+      }, {
+        "count" : 13,
+        "item" : "0.21"
+      }, {
+        "count" : 12,
+        "item" : "0.83"
+      }, {
+        "count" : 11,
+        "item" : "0.01"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989142,
+    "name" : "COUNT BLACK NON HISPANIC",
+    "dataTypeName" : "number",
+    "fieldName" : "count_black_non_hispanic",
+    "position" : 22,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501919,
+    "width" : 388,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "1",
+      "sum" : "477",
+      "null" : 0,
+      "average" : "36.69230769230769",
+      "largest" : "124",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "6"
+      }, {
+        "count" : 18,
+        "item" : "42"
+      }, {
+        "count" : 17,
+        "item" : "100"
+      }, {
+        "count" : 16,
+        "item" : "13"
+      }, {
+        "count" : 15,
+        "item" : "7"
+      }, {
+        "count" : 14,
+        "item" : "29"
+      }, {
+        "count" : 13,
+        "item" : "5"
+      }, {
+        "count" : 12,
+        "item" : "2"
+      }, {
+        "count" : 11,
+        "item" : "33"
+      }, {
+        "count" : 10,
+        "item" : "124"
+      }, {
+        "count" : 9,
+        "item" : "114"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989143,
+    "name" : "PERCENT BLACK NON HISPANIC",
+    "dataTypeName" : "number",
+    "fieldName" : "percent_black_non_hispanic",
+    "position" : 23,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501920,
+    "width" : 412,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0.02",
+      "sum" : "2.71",
+      "null" : 0,
+      "average" : "0.2084615384615385",
+      "largest" : "0.48",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.2"
+      }, {
+        "count" : 19,
+        "item" : "0.13"
+      }, {
+        "count" : 18,
+        "item" : "0.37"
+      }, {
+        "count" : 17,
+        "item" : "0.16"
+      }, {
+        "count" : 16,
+        "item" : "0.09"
+      }, {
+        "count" : 15,
+        "item" : "0.08"
+      }, {
+        "count" : 14,
+        "item" : "0.07"
+      }, {
+        "count" : 13,
+        "item" : "0.02"
+      }, {
+        "count" : 12,
+        "item" : "0.1"
+      }, {
+        "count" : 11,
+        "item" : "0.46"
+      }, {
+        "count" : 10,
+        "item" : "0.48"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989144,
+    "name" : "COUNT OTHER ETHNICITY",
+    "dataTypeName" : "number",
+    "fieldName" : "count_other_ethnicity",
+    "position" : 24,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501921,
+    "width" : 352,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "1",
+      "sum" : "107",
+      "null" : 0,
+      "average" : "8.230769230769231",
+      "largest" : "28",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "6"
+      }, {
+        "count" : 17,
+        "item" : "28"
+      }, {
+        "count" : 16,
+        "item" : "8"
+      }, {
+        "count" : 15,
+        "item" : "26"
+      }, {
+        "count" : 14,
+        "item" : "4"
+      }, {
+        "count" : 13,
+        "item" : "17"
+      }, {
+        "count" : 12,
+        "item" : "5"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989145,
+    "name" : "PERCENT OTHER ETHNICITY",
+    "dataTypeName" : "number",
+    "fieldName" : "percent_other_ethnicity",
+    "position" : 25,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501922,
+    "width" : 376,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0.02",
+      "sum" : "0.79",
+      "null" : 0,
+      "average" : "0.06076923076923077",
+      "largest" : "0.2",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.2"
+      }, {
+        "count" : 19,
+        "item" : "0.04"
+      }, {
+        "count" : 18,
+        "item" : "0.05"
+      }, {
+        "count" : 17,
+        "item" : "0.09"
+      }, {
+        "count" : 16,
+        "item" : "0.07"
+      }, {
+        "count" : 15,
+        "item" : "0.02"
+      }, {
+        "count" : 14,
+        "item" : "0.06"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989146,
+    "name" : "COUNT ETHNICITY UNKNOWN",
+    "dataTypeName" : "number",
+    "fieldName" : "count_ethnicity_unknown",
+    "position" : 26,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501923,
+    "width" : 376,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0",
+      "sum" : "12",
+      "null" : 0,
+      "average" : "0.9230769230769231",
+      "largest" : "5",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      }, {
+        "count" : 18,
+        "item" : "2"
+      }, {
+        "count" : 17,
+        "item" : "5"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989147,
+    "name" : "PERCENT ETHNICITY UNKNOWN",
+    "dataTypeName" : "number",
+    "fieldName" : "percent_ethnicity_unknown",
+    "position" : 27,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501924,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0",
+      "sum" : "0.06",
+      "null" : 0,
+      "average" : "0.004615384615384615",
+      "largest" : "0.02",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "0.02"
+      }, {
+        "count" : 18,
+        "item" : "0.01"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989148,
+    "name" : "COUNT ETHNICITY TOTAL",
+    "dataTypeName" : "number",
+    "fieldName" : "count_ethnicity_total",
+    "position" : 28,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501925,
+    "width" : 352,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "5",
+      "sum" : "2103",
+      "null" : 0,
+      "average" : "161.7692307692308",
+      "largest" : "618",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5"
+      }, {
+        "count" : 19,
+        "item" : "48"
+      }, {
+        "count" : 18,
+        "item" : "113"
+      }, {
+        "count" : 17,
+        "item" : "618"
+      }, {
+        "count" : 16,
+        "item" : "150"
+      }, {
+        "count" : 15,
+        "item" : "86"
+      }, {
+        "count" : 14,
+        "item" : "389"
+      }, {
+        "count" : 13,
+        "item" : "53"
+      }, {
+        "count" : 12,
+        "item" : "41"
+      }, {
+        "count" : 11,
+        "item" : "21"
+      }, {
+        "count" : 10,
+        "item" : "72"
+      }, {
+        "count" : 9,
+        "item" : "270"
+      }, {
+        "count" : 8,
+        "item" : "237"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989149,
+    "name" : "PERCENT ETHNICITY TOTAL",
+    "dataTypeName" : "number",
+    "fieldName" : "percent_ethnicity_total",
+    "position" : 29,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501926,
+    "width" : 376,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "99",
+      "sum" : "1295",
+      "null" : 0,
+      "average" : "99.61538461538462",
+      "largest" : "100",
+      "top" : [ {
+        "count" : 20,
+        "item" : "100"
+      }, {
+        "count" : 19,
+        "item" : "99"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989150,
+    "name" : "COUNT PERMANENT RESIDENT ALIEN",
+    "dataTypeName" : "number",
+    "fieldName" : "count_permanent_resident_alien",
+    "position" : 30,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501927,
+    "width" : 460,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "1",
+      "sum" : "89",
+      "null" : 0,
+      "average" : "6.846153846153846",
+      "largest" : "17",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      }, {
+        "count" : 18,
+        "item" : "7"
+      }, {
+        "count" : 17,
+        "item" : "15"
+      }, {
+        "count" : 16,
+        "item" : "11"
+      }, {
+        "count" : 15,
+        "item" : "4"
+      }, {
+        "count" : 14,
+        "item" : "5"
+      }, {
+        "count" : 13,
+        "item" : "17"
+      }, {
+        "count" : 12,
+        "item" : "14"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989151,
+    "name" : "PERCENT PERMANENT RESIDENT ALIEN",
+    "dataTypeName" : "number",
+    "fieldName" : "percent_permanent_resident_alien",
+    "position" : 31,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501928,
+    "width" : 484,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0.01",
+      "sum" : "1.24",
+      "null" : 0,
+      "average" : "0.09538461538461538",
+      "largest" : "0.6",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.6"
+      }, {
+        "count" : 19,
+        "item" : "0.02"
+      }, {
+        "count" : 18,
+        "item" : "0.06"
+      }, {
+        "count" : 17,
+        "item" : "0.05"
+      }, {
+        "count" : 16,
+        "item" : "0.01"
+      }, {
+        "count" : 15,
+        "item" : "0.03"
+      }, {
+        "count" : 14,
+        "item" : "0.1"
+      }, {
+        "count" : 13,
+        "item" : "0.14"
+      }, {
+        "count" : 12,
+        "item" : "0.07"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989152,
+    "name" : "COUNT US CITIZEN",
+    "dataTypeName" : "number",
+    "fieldName" : "count_us_citizen",
+    "position" : 32,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501929,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "2",
+      "sum" : "2004",
+      "null" : 0,
+      "average" : "154.1538461538462",
+      "largest" : "599",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2"
+      }, {
+        "count" : 19,
+        "item" : "47"
+      }, {
+        "count" : 18,
+        "item" : "105"
+      }, {
+        "count" : 17,
+        "item" : "599"
+      }, {
+        "count" : 16,
+        "item" : "143"
+      }, {
+        "count" : 15,
+        "item" : "85"
+      }, {
+        "count" : 14,
+        "item" : "378"
+      }, {
+        "count" : 13,
+        "item" : "52"
+      }, {
+        "count" : 12,
+        "item" : "37"
+      }, {
+        "count" : 11,
+        "item" : "18"
+      }, {
+        "count" : 10,
+        "item" : "67"
+      }, {
+        "count" : 9,
+        "item" : "252"
+      }, {
+        "count" : 8,
+        "item" : "219"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989153,
+    "name" : "PERCENT US CITIZEN",
+    "dataTypeName" : "number",
+    "fieldName" : "percent_us_citizen",
+    "position" : 33,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501930,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0.4",
+      "sum" : "11.71",
+      "null" : 0,
+      "average" : "0.9007692307692308",
+      "largest" : "0.99",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.4"
+      }, {
+        "count" : 19,
+        "item" : "0.98"
+      }, {
+        "count" : 18,
+        "item" : "0.93"
+      }, {
+        "count" : 17,
+        "item" : "0.97"
+      }, {
+        "count" : 16,
+        "item" : "0.95"
+      }, {
+        "count" : 15,
+        "item" : "0.99"
+      }, {
+        "count" : 14,
+        "item" : "0.9"
+      }, {
+        "count" : 13,
+        "item" : "0.86"
+      }, {
+        "count" : 12,
+        "item" : "0.92"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989154,
+    "name" : "COUNT OTHER CITIZEN STATUS",
+    "dataTypeName" : "number",
+    "fieldName" : "count_other_citizen_status",
+    "position" : 34,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501931,
+    "width" : 412,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0",
+      "sum" : "10",
+      "null" : 0,
+      "average" : "0.7692307692307692",
+      "largest" : "4",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      }, {
+        "count" : 18,
+        "item" : "4"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989155,
+    "name" : "PERCENT OTHER CITIZEN STATUS",
+    "dataTypeName" : "number",
+    "fieldName" : "percent_other_citizen_status",
+    "position" : 35,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501932,
+    "width" : 436,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0",
+      "sum" : "0.04",
+      "null" : 0,
+      "average" : "0.003076923076923077",
+      "largest" : "0.02",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "0.01"
+      }, {
+        "count" : 18,
+        "item" : "0.02"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989156,
+    "name" : "COUNT CITIZEN STATUS UNKNOWN",
+    "dataTypeName" : "number",
+    "fieldName" : "count_citizen_status_unknown",
+    "position" : 36,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501933,
+    "width" : 436,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0",
+      "sum" : "0",
+      "null" : 0,
+      "average" : "0",
+      "largest" : "0",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989157,
+    "name" : "PERCENT CITIZEN STATUS UNKNOWN",
+    "dataTypeName" : "number",
+    "fieldName" : "percent_citizen_status_unknown",
+    "position" : 37,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501934,
+    "width" : 460,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0",
+      "sum" : "0",
+      "null" : 0,
+      "average" : "0",
+      "largest" : "0",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989158,
+    "name" : "COUNT CITIZEN STATUS TOTAL",
+    "dataTypeName" : "number",
+    "fieldName" : "count_citizen_status_total",
+    "position" : 38,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501935,
+    "width" : 412,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "5",
+      "sum" : "2103",
+      "null" : 0,
+      "average" : "161.7692307692308",
+      "largest" : "618",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5"
+      }, {
+        "count" : 19,
+        "item" : "48"
+      }, {
+        "count" : 18,
+        "item" : "113"
+      }, {
+        "count" : 17,
+        "item" : "618"
+      }, {
+        "count" : 16,
+        "item" : "150"
+      }, {
+        "count" : 15,
+        "item" : "86"
+      }, {
+        "count" : 14,
+        "item" : "389"
+      }, {
+        "count" : 13,
+        "item" : "53"
+      }, {
+        "count" : 12,
+        "item" : "41"
+      }, {
+        "count" : 11,
+        "item" : "21"
+      }, {
+        "count" : 10,
+        "item" : "72"
+      }, {
+        "count" : 9,
+        "item" : "270"
+      }, {
+        "count" : 8,
+        "item" : "237"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989159,
+    "name" : "PERCENT CITIZEN STATUS TOTAL",
+    "dataTypeName" : "number",
+    "fieldName" : "percent_citizen_status_total",
+    "position" : 39,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501936,
+    "width" : 436,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "99",
+      "sum" : "1299",
+      "null" : 0,
+      "average" : "99.92307692307692",
+      "largest" : "100",
+      "top" : [ {
+        "count" : 20,
+        "item" : "100"
+      }, {
+        "count" : 19,
+        "item" : "99"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989160,
+    "name" : "COUNT RECEIVES PUBLIC ASSISTANCE",
+    "dataTypeName" : "number",
+    "fieldName" : "count_receives_public_assistance",
+    "position" : 40,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501937,
+    "width" : 484,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0",
+      "sum" : "660",
+      "null" : 0,
+      "average" : "50.76923076923077",
+      "largest" : "247",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "6"
+      }, {
+        "count" : 18,
+        "item" : "46"
+      }, {
+        "count" : 17,
+        "item" : "247"
+      }, {
+        "count" : 16,
+        "item" : "21"
+      }, {
+        "count" : 15,
+        "item" : "36"
+      }, {
+        "count" : 14,
+        "item" : "97"
+      }, {
+        "count" : 13,
+        "item" : "10"
+      }, {
+        "count" : 12,
+        "item" : "5"
+      }, {
+        "count" : 11,
+        "item" : "3"
+      }, {
+        "count" : 10,
+        "item" : "24"
+      }, {
+        "count" : 9,
+        "item" : "95"
+      }, {
+        "count" : 8,
+        "item" : "70"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989161,
+    "name" : "PERCENT RECEIVES PUBLIC ASSISTANCE",
+    "dataTypeName" : "number",
+    "fieldName" : "percent_receives_public_assistance",
+    "position" : 41,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501938,
+    "width" : 508,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0",
+      "sum" : "3.18",
+      "null" : 0,
+      "average" : "0.2446153846153846",
+      "largest" : "0.42",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "0.13"
+      }, {
+        "count" : 18,
+        "item" : "0.41"
+      }, {
+        "count" : 17,
+        "item" : "0.4"
+      }, {
+        "count" : 16,
+        "item" : "0.14"
+      }, {
+        "count" : 15,
+        "item" : "0.42"
+      }, {
+        "count" : 14,
+        "item" : "0.25"
+      }, {
+        "count" : 13,
+        "item" : "0.19"
+      }, {
+        "count" : 12,
+        "item" : "0.12"
+      }, {
+        "count" : 11,
+        "item" : "0.33"
+      }, {
+        "count" : 10,
+        "item" : "0.35"
+      }, {
+        "count" : 9,
+        "item" : "0.3"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989162,
+    "name" : "COUNT NRECEIVES PUBLIC ASSISTANCE",
+    "dataTypeName" : "number",
+    "fieldName" : "count_nreceives_public_assistance",
+    "position" : 42,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501939,
+    "width" : 496,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "5",
+      "sum" : "1443",
+      "null" : 0,
+      "average" : "111",
+      "largest" : "371",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5"
+      }, {
+        "count" : 19,
+        "item" : "42"
+      }, {
+        "count" : 18,
+        "item" : "67"
+      }, {
+        "count" : 17,
+        "item" : "371"
+      }, {
+        "count" : 16,
+        "item" : "129"
+      }, {
+        "count" : 15,
+        "item" : "50"
+      }, {
+        "count" : 14,
+        "item" : "292"
+      }, {
+        "count" : 13,
+        "item" : "43"
+      }, {
+        "count" : 12,
+        "item" : "36"
+      }, {
+        "count" : 11,
+        "item" : "18"
+      }, {
+        "count" : 10,
+        "item" : "48"
+      }, {
+        "count" : 9,
+        "item" : "175"
+      }, {
+        "count" : 8,
+        "item" : "167"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989163,
+    "name" : "PERCENT NRECEIVES PUBLIC ASSISTANCE",
+    "dataTypeName" : "number",
+    "fieldName" : "percent_nreceives_public_assistance",
+    "position" : 43,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501940,
+    "width" : 520,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0.58",
+      "sum" : "9.83",
+      "null" : 0,
+      "average" : "0.7561538461538462",
+      "largest" : "1",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "0.88"
+      }, {
+        "count" : 18,
+        "item" : "0.59"
+      }, {
+        "count" : 17,
+        "item" : "0.6"
+      }, {
+        "count" : 16,
+        "item" : "0.86"
+      }, {
+        "count" : 15,
+        "item" : "0.58"
+      }, {
+        "count" : 14,
+        "item" : "0.75"
+      }, {
+        "count" : 13,
+        "item" : "0.81"
+      }, {
+        "count" : 12,
+        "item" : "0.67"
+      }, {
+        "count" : 11,
+        "item" : "0.65"
+      }, {
+        "count" : 10,
+        "item" : "0.7"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989164,
+    "name" : "COUNT PUBLIC ASSISTANCE UNKNOWN",
+    "dataTypeName" : "number",
+    "fieldName" : "count_public_assistance_unknown",
+    "position" : 44,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501941,
+    "width" : 472,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0",
+      "sum" : "0",
+      "null" : 0,
+      "average" : "0",
+      "largest" : "0",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989165,
+    "name" : "PERCENT PUBLIC ASSISTANCE UNKNOWN",
+    "dataTypeName" : "number",
+    "fieldName" : "percent_public_assistance_unknown",
+    "position" : 45,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501942,
+    "width" : 496,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "0",
+      "sum" : "0",
+      "null" : 0,
+      "average" : "0",
+      "largest" : "0",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989166,
+    "name" : "COUNT PUBLIC ASSISTANCE TOTAL",
+    "dataTypeName" : "number",
+    "fieldName" : "count_public_assistance_total",
+    "position" : 46,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501943,
+    "width" : 448,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "5",
+      "sum" : "2103",
+      "null" : 0,
+      "average" : "161.7692307692308",
+      "largest" : "618",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5"
+      }, {
+        "count" : 19,
+        "item" : "48"
+      }, {
+        "count" : 18,
+        "item" : "113"
+      }, {
+        "count" : 17,
+        "item" : "618"
+      }, {
+        "count" : 16,
+        "item" : "150"
+      }, {
+        "count" : 15,
+        "item" : "86"
+      }, {
+        "count" : 14,
+        "item" : "389"
+      }, {
+        "count" : 13,
+        "item" : "53"
+      }, {
+        "count" : 12,
+        "item" : "41"
+      }, {
+        "count" : 11,
+        "item" : "21"
+      }, {
+        "count" : 10,
+        "item" : "72"
+      }, {
+        "count" : 9,
+        "item" : "270"
+      }, {
+        "count" : 8,
+        "item" : "237"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989167,
+    "name" : "PERCENT PUBLIC ASSISTANCE TOTAL",
+    "dataTypeName" : "number",
+    "fieldName" : "percent_public_assistance_total",
+    "position" : 47,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1501944,
+    "width" : 472,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "100",
+      "sum" : "1300",
+      "null" : 0,
+      "average" : "100",
+      "largest" : "100",
+      "top" : [ {
+        "count" : 20,
+        "item" : "100"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "boundary", "district", "congress", "community", "demography", "demographic", "statistic", "youth", "development", "lifelong learning" ],
+  "flags" : [ "default" ]
+}

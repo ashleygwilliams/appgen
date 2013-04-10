@@ -1,0 +1,236 @@
+{
+  "id" : "bkkc-kns3",
+  "name" : "Directory of Hurricane Category Descriptions",
+  "attribution" : "Office of Emergency Management (OEM)",
+  "attributionLink" : "http://www.nyc.gov/html/oem/downloads/pdf/hazard_mitigation/section_3f_coastal_storm_hazard_analysis.pdf",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1361907866,
+  "description" : "List of different categories of Hurricanes and the damage description according to Saffir-Simpson scale",
+  "displayType" : "table",
+  "downloadCount" : 1,
+  "numberOfComments" : 0,
+  "oid" : 2644165,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361910787,
+  "publicationGroup" : 701425,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1361910754,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 701550,
+  "totalTimesRated" : 0,
+  "viewCount" : 13,
+  "viewLastModified" : 1361910805,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 47144282,
+    "name" : "Category",
+    "dataTypeName" : "text",
+    "fieldName" : "category",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8185593,
+    "width" : 90,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "1",
+      "null" : 0,
+      "largest" : "5",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47144283,
+    "name" : "Storm Surge (ft)",
+    "dataTypeName" : "text",
+    "fieldName" : "storm_surge_ft",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8185594,
+    "width" : 132,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "13.0–16.6",
+      "null" : 0,
+      "largest" : "Not predicted",
+      "top" : [ {
+        "count" : 20,
+        "item" : "6.1–10.5"
+      }, {
+        "count" : 19,
+        "item" : "13.0–16.6"
+      }, {
+        "count" : 18,
+        "item" : "14.8–25"
+      }, {
+        "count" : 17,
+        "item" : "24.6–31.3"
+      }, {
+        "count" : 16,
+        "item" : "Not predicted"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47144284,
+    "name" : "Winds (mph)",
+    "dataTypeName" : "text",
+    "fieldName" : "winds_mph",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8185595,
+    "width" : 113,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : ">155",
+      "null" : 0,
+      "largest" : "96–110",
+      "top" : [ {
+        "count" : 20,
+        "item" : "74–95"
+      }, {
+        "count" : 19,
+        "item" : "96–110"
+      }, {
+        "count" : 18,
+        "item" : "111–130"
+      }, {
+        "count" : 17,
+        "item" : "131–155"
+      }, {
+        "count" : 16,
+        "item" : ">155"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47144285,
+    "name" : "Damage",
+    "dataTypeName" : "text",
+    "fieldName" : "damage",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8185596,
+    "width" : 109,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "Catastrophic",
+      "null" : 0,
+      "largest" : "Moderate- Severe",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Moderate"
+      }, {
+        "count" : 19,
+        "item" : "Moderate- Severe"
+      }, {
+        "count" : 18,
+        "item" : "Extensive"
+      }, {
+        "count" : 17,
+        "item" : "Extreme"
+      }, {
+        "count" : 16,
+        "item" : "Catastrophic"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47144286,
+    "name" : "Damage Description",
+    "dataTypeName" : "text",
+    "fieldName" : "damage_description",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8185597,
+    "width" : 713,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "Complete roof failure on many residences and industrial buildings. Some complete building and utility failures.  Severe, extensive window and door damage. Major damage to lower floors of all structures close to shore.",
+      "null" : 0,
+      "largest" : "Some structural damage to residences and utility buildings.  Foliage blown off trees and large trees blown down. Structures close to the coast will have structural damage by floating debris.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Damage primarily to trees and unanchored homes. Some damage to poorly constructed signs. Coastal road flooding."
+      }, {
+        "count" : 19,
+        "item" : "Some roofing material, door,  and window damage to buildings. Considerable damage to shrubbery and trees. Flooding of low-lying areas."
+      }, {
+        "count" : 18,
+        "item" : "Some structural damage to residences and utility buildings.  Foliage blown off trees and large trees blown down. Structures close to the coast will have structural damage by floating debris."
+      }, {
+        "count" : 17,
+        "item" : "Curtainwall failures with utilities and roof structures on residential buildings. Shrubs, trees, and signs all blown down. Extensive damage to doors and windows. Major damage to lower floors of structures near the shore."
+      }, {
+        "count" : 16,
+        "item" : "Complete roof failure on many residences and industrial buildings. Some complete building and utility failures.  Severe, extensive window and door damage. Major damage to lower floors of all structures close to shore."
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "oem", "emergency", "management", "services", "hurricane", "category", "saffir-simpson scale" ],
+  "flags" : [ "default" ]
+}

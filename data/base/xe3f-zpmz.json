@@ -1,0 +1,562 @@
+{
+  "id" : "xe3f-zpmz",
+  "name" : "Stalled Construction Sites",
+  "attribution" : "Department of Buildings (DOB)",
+  "averageRating" : 0,
+  "category" : "Construction and Housing",
+  "createdAt" : 1362586581,
+  "description" : "an overview of sites across the five boroughs where construction activity has come to an abrupt halt.  Now updated daily on NYC Open Data from April 10, 2013 onward.  Prior weekly reports are archived at DOB and are not available on NYC Open Data.",
+  "downloadCount" : 1,
+  "numberOfComments" : 0,
+  "oid" : 2731140,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362586603,
+  "publicationGroup" : 717822,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1362586597,
+  "rowsUpdatedBy" : "ci6y-i73t",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 717823,
+  "totalTimesRated" : 0,
+  "viewCount" : 26,
+  "viewLastModified" : 1363705337,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 48797141,
+    "name" : "Borough Name",
+    "dataTypeName" : "text",
+    "fieldName" : "borough_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402736,
+    "width" : 240,
+    "cachedContents" : {
+      "non_null" : 673,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 19,
+        "item" : "Manhattan"
+      }, {
+        "count" : 18,
+        "item" : "Bronx"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797142,
+    "name" : "Community Board",
+    "dataTypeName" : "text",
+    "fieldName" : "community_board",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402737,
+    "width" : 300,
+    "cachedContents" : {
+      "non_null" : 673,
+      "smallest" : "101",
+      "null" : 0,
+      "largest" : "503",
+      "top" : [ {
+        "count" : 20,
+        "item" : "301"
+      }, {
+        "count" : 19,
+        "item" : "302"
+      }, {
+        "count" : 18,
+        "item" : "304"
+      }, {
+        "count" : 17,
+        "item" : "307"
+      }, {
+        "count" : 16,
+        "item" : "318"
+      }, {
+        "count" : 15,
+        "item" : "303"
+      }, {
+        "count" : 14,
+        "item" : "311"
+      }, {
+        "count" : 13,
+        "item" : "309"
+      }, {
+        "count" : 12,
+        "item" : "315"
+      }, {
+        "count" : 11,
+        "item" : "308"
+      }, {
+        "count" : 10,
+        "item" : "312"
+      }, {
+        "count" : 9,
+        "item" : "306"
+      }, {
+        "count" : 8,
+        "item" : "314"
+      }, {
+        "count" : 7,
+        "item" : "106"
+      }, {
+        "count" : 6,
+        "item" : "111"
+      }, {
+        "count" : 5,
+        "item" : "110"
+      }, {
+        "count" : 4,
+        "item" : "104"
+      }, {
+        "count" : 3,
+        "item" : "103"
+      }, {
+        "count" : 2,
+        "item" : "105"
+      }, {
+        "count" : 1,
+        "item" : "101"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797143,
+    "name" : "BIN",
+    "dataTypeName" : "text",
+    "fieldName" : "bin",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402738,
+    "width" : 150,
+    "cachedContents" : {
+      "non_null" : 673,
+      "smallest" : "1001056",
+      "null" : 0,
+      "largest" : "5863683",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5151396"
+      }, {
+        "count" : 19,
+        "item" : "4864428"
+      }, {
+        "count" : 18,
+        "item" : "4860592"
+      }, {
+        "count" : 17,
+        "item" : "4262425"
+      }, {
+        "count" : 16,
+        "item" : "4815582"
+      }, {
+        "count" : 15,
+        "item" : "4098725"
+      }, {
+        "count" : 14,
+        "item" : "4863329"
+      }, {
+        "count" : 13,
+        "item" : "4860626"
+      }, {
+        "count" : 12,
+        "item" : "4539005"
+      }, {
+        "count" : 11,
+        "item" : "4864230"
+      }, {
+        "count" : 10,
+        "item" : "4117178"
+      }, {
+        "count" : 9,
+        "item" : "4169867"
+      }, {
+        "count" : 8,
+        "item" : "4863308"
+      }, {
+        "count" : 7,
+        "item" : "4223878"
+      }, {
+        "count" : 6,
+        "item" : "4082963"
+      }, {
+        "count" : 5,
+        "item" : "4854577"
+      }, {
+        "count" : 4,
+        "item" : "4089636"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797144,
+    "name" : "House Number",
+    "dataTypeName" : "text",
+    "fieldName" : "house_number",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402739,
+    "width" : 240,
+    "cachedContents" : {
+      "non_null" : 673,
+      "smallest" : "1           ",
+      "null" : 0,
+      "largest" : "99-39       ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "81-05       "
+      }, {
+        "count" : 19,
+        "item" : "24-51       "
+      }, {
+        "count" : 18,
+        "item" : "813         "
+      }, {
+        "count" : 17,
+        "item" : "130-33      "
+      }, {
+        "count" : 16,
+        "item" : "147-36      "
+      }, {
+        "count" : 15,
+        "item" : "141-11      "
+      }, {
+        "count" : 14,
+        "item" : "29-07       "
+      }, {
+        "count" : 13,
+        "item" : "714         "
+      }, {
+        "count" : 12,
+        "item" : "107-29      "
+      }, {
+        "count" : 11,
+        "item" : "108-06      "
+      }, {
+        "count" : 10,
+        "item" : "140-17      "
+      }, {
+        "count" : 9,
+        "item" : "38-02       "
+      }, {
+        "count" : 8,
+        "item" : "94-31       "
+      }, {
+        "count" : 7,
+        "item" : "87-01       "
+      }, {
+        "count" : 6,
+        "item" : "1864        "
+      }, {
+        "count" : 5,
+        "item" : "70-25       "
+      }, {
+        "count" : 4,
+        "item" : "69-09       "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797145,
+    "name" : "Street Name",
+    "dataTypeName" : "text",
+    "fieldName" : "street_name",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402740,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 673,
+      "smallest" : "101 AVENUE                      ",
+      "null" : 0,
+      "largest" : "WYTHE AVENUE                    ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "SEAGIRT AVENUE                  "
+      }, {
+        "count" : 19,
+        "item" : "BROAD STREET                    "
+      }, {
+        "count" : 18,
+        "item" : "BUTLER PLACE                    "
+      }, {
+        "count" : 17,
+        "item" : "BEDELL STREET                   "
+      }, {
+        "count" : 16,
+        "item" : "RICHMOND ROAD                   "
+      }, {
+        "count" : 15,
+        "item" : "VAN DUZER STREET                "
+      }, {
+        "count" : 14,
+        "item" : "BUEL AVENUE                     "
+      }, {
+        "count" : 13,
+        "item" : "BAY STREET                      "
+      }, {
+        "count" : 12,
+        "item" : "RICHMOND AVENUE                 "
+      }, {
+        "count" : 11,
+        "item" : "VETERANS ROAD WEST              "
+      }, {
+        "count" : 10,
+        "item" : "FOREST HILL ROAD                "
+      }, {
+        "count" : 9,
+        "item" : "VICTORY BOULEVARD               "
+      }, {
+        "count" : 8,
+        "item" : "HEBERTON AVENUE                 "
+      }, {
+        "count" : 7,
+        "item" : "TARGEE STREET                   "
+      }, {
+        "count" : 6,
+        "item" : "ARDEN AVENUE                    "
+      }, {
+        "count" : 5,
+        "item" : "GOLLER PLACE                    "
+      }, {
+        "count" : 4,
+        "item" : "ANNFIELD COURT                  "
+      }, {
+        "count" : 3,
+        "item" : "ALLENDALE STREET                "
+      }, {
+        "count" : 2,
+        "item" : "BEACH CHANNEL DRIVE             "
+      }, {
+        "count" : 1,
+        "item" : "231 STREET                      "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797146,
+    "name" : "Complaint Number",
+    "dataTypeName" : "text",
+    "fieldName" : "complaint_number",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402741,
+    "width" : 320,
+    "cachedContents" : {
+      "non_null" : 673,
+      "smallest" : "1252597",
+      "null" : 0,
+      "largest" : "5102723",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4402713"
+      }, {
+        "count" : 19,
+        "item" : "4395295"
+      }, {
+        "count" : 18,
+        "item" : "4507273"
+      }, {
+        "count" : 17,
+        "item" : "4402544"
+      }, {
+        "count" : 16,
+        "item" : "4512837"
+      }, {
+        "count" : 15,
+        "item" : "4397820"
+      }, {
+        "count" : 14,
+        "item" : "4428701"
+      }, {
+        "count" : 13,
+        "item" : "4506895"
+      }, {
+        "count" : 12,
+        "item" : "4521333"
+      }, {
+        "count" : 11,
+        "item" : "4402446"
+      }, {
+        "count" : 10,
+        "item" : "4508320"
+      }, {
+        "count" : 9,
+        "item" : "4473043"
+      }, {
+        "count" : 8,
+        "item" : "4402750"
+      }, {
+        "count" : 7,
+        "item" : "4407777"
+      }, {
+        "count" : 6,
+        "item" : "4415511"
+      }, {
+        "count" : 5,
+        "item" : "4499750"
+      }, {
+        "count" : 4,
+        "item" : "4482559"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797147,
+    "name" : "Date Complaint Received",
+    "dataTypeName" : "text",
+    "fieldName" : "date_complaint_received",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402742,
+    "width" : 230,
+    "cachedContents" : {
+      "non_null" : 673,
+      "smallest" : "2009-03-31 00:00:00",
+      "null" : 0,
+      "largest" : "2013-02-26 00:00:00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2012-04-30 00:00:00"
+      }, {
+        "count" : 19,
+        "item" : "2012-02-27 00:00:00"
+      }, {
+        "count" : 18,
+        "item" : "2009-06-16 00:00:00"
+      }, {
+        "count" : 17,
+        "item" : "2009-06-17 00:00:00"
+      }, {
+        "count" : 16,
+        "item" : "2012-03-21 00:00:00"
+      }, {
+        "count" : 15,
+        "item" : "2009-04-02 00:00:00"
+      }, {
+        "count" : 14,
+        "item" : "2009-07-27 00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2009-06-02 00:00:00"
+      }, {
+        "count" : 12,
+        "item" : "2012-02-09 00:00:00"
+      }, {
+        "count" : 11,
+        "item" : "2009-09-16 00:00:00"
+      }, {
+        "count" : 10,
+        "item" : "2009-06-03 00:00:00"
+      }, {
+        "count" : 9,
+        "item" : "2010-04-09 00:00:00"
+      }, {
+        "count" : 8,
+        "item" : "2012-10-10 00:00:00"
+      }, {
+        "count" : 7,
+        "item" : "2010-04-20 00:00:00"
+      }, {
+        "count" : 6,
+        "item" : "2010-01-27 00:00:00"
+      }, {
+        "count" : 5,
+        "item" : "2010-01-19 00:00:00"
+      }, {
+        "count" : 4,
+        "item" : "2009-05-29 00:00:00"
+      }, {
+        "count" : 3,
+        "item" : "2012-08-20 00:00:00"
+      }, {
+        "count" : 2,
+        "item" : "2012-07-13 00:00:00"
+      }, {
+        "count" : 1,
+        "item" : "2012-02-14 00:00:00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797148,
+    "name" : "DOBRunDate",
+    "dataTypeName" : "text",
+    "fieldName" : "dobrundate",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402743,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 673,
+      "smallest" : "2013-02-27 00:00:00",
+      "null" : 0,
+      "largest" : "2013-02-27 00:00:00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2013-02-27 00:00:00"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Daily"
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ci6y-i73t",
+    "displayName" : "Harish Pathria",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358262517,
+    "roleName" : "publisher",
+    "screenName" : "Harish Pathria",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ci6y-i73t",
+    "displayName" : "Harish Pathria",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358262517,
+    "roleName" : "publisher",
+    "screenName" : "Harish Pathria",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dob", "stalled construction sites", "clean web" ],
+  "flags" : [ "default" ]
+}

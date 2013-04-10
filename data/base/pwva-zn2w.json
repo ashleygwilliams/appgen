@@ -1,0 +1,3992 @@
+{
+  "id" : "pwva-zn2w",
+  "name" : "Energy Usage From DCAS Buildings",
+  "attribution" : "Department of Citywide Administrative Services (DCAS)",
+  "averageRating" : 0,
+  "category" : "Statistics",
+  "createdAt" : 1346953708,
+  "description" : "Energy data from a select portfolio of City-owned buildings (DCAS)",
+  "displayType" : "table",
+  "downloadCount" : 7,
+  "numberOfComments" : 0,
+  "oid" : 1049274,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1346953940,
+  "publicationGroup" : 419800,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1346953723,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 419800,
+  "totalTimesRated" : 0,
+  "viewCount" : 55,
+  "viewLastModified" : 1346955570,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 17220521,
+    "name" : "Energy Type",
+    "dataTypeName" : "text",
+    "fieldName" : "energy_type",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4056653,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "Electricity Demand (KW)",
+      "null" : 8,
+      "largest" : "Total Usage (mmBTUs)",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Electricity Demand (KW)"
+      }, {
+        "count" : 19,
+        "item" : "Electricity Usage (KWH)"
+      }, {
+        "count" : 18,
+        "item" : "Steam (mlbs)"
+      }, {
+        "count" : 17,
+        "item" : "Total Usage (mmBTUs)"
+      }, {
+        "count" : 16,
+        "item" : "Gas (Therms)"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220522,
+    "name" : "-",
+    "dataTypeName" : "number",
+    "fieldName" : "_1",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056654,
+    "width" : 112,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "12385832.19",
+      "null" : 8,
+      "average" : "110587.7874107143",
+      "largest" : "1611200.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "36.30"
+      }, {
+        "count" : 18,
+        "item" : "2384.00"
+      }, {
+        "count" : 17,
+        "item" : "2102.00"
+      }, {
+        "count" : 16,
+        "item" : "218.34"
+      }, {
+        "count" : 15,
+        "item" : "146.00"
+      }, {
+        "count" : 14,
+        "item" : "49600.00"
+      }, {
+        "count" : 13,
+        "item" : "169.28"
+      }, {
+        "count" : 12,
+        "item" : "348.00"
+      }, {
+        "count" : 11,
+        "item" : "85200.00"
+      }, {
+        "count" : 10,
+        "item" : "182.00"
+      }, {
+        "count" : 9,
+        "item" : "308.99"
+      }, {
+        "count" : 8,
+        "item" : "1500.00"
+      }, {
+        "count" : 7,
+        "item" : "571400.00"
+      }, {
+        "count" : 6,
+        "item" : "19594.00"
+      }, {
+        "count" : 5,
+        "item" : "3909.57"
+      }, {
+        "count" : 4,
+        "item" : "1152.00"
+      }, {
+        "count" : 3,
+        "item" : "472800.00"
+      }, {
+        "count" : 2,
+        "item" : "1613.65"
+      }, {
+        "count" : 1,
+        "item" : "384.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220523,
+    "name" : "_",
+    "dataTypeName" : "number",
+    "fieldName" : "_2",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056655,
+    "width" : 112,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "-162.00",
+      "sum" : "11539552.99",
+      "null" : 8,
+      "average" : "103031.723125",
+      "largest" : "1572800.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "34.10"
+      }, {
+        "count" : 18,
+        "item" : "7176.00"
+      }, {
+        "count" : 17,
+        "item" : "43.00"
+      }, {
+        "count" : 16,
+        "item" : "28.79"
+      }, {
+        "count" : 15,
+        "item" : "146.00"
+      }, {
+        "count" : 14,
+        "item" : "49600.00"
+      }, {
+        "count" : 13,
+        "item" : "169.28"
+      }, {
+        "count" : 12,
+        "item" : "312.00"
+      }, {
+        "count" : 11,
+        "item" : "72000.00"
+      }, {
+        "count" : 10,
+        "item" : "214.00"
+      }, {
+        "count" : 9,
+        "item" : "267.13"
+      }, {
+        "count" : 8,
+        "item" : "1394.00"
+      }, {
+        "count" : 7,
+        "item" : "463600.00"
+      }, {
+        "count" : 6,
+        "item" : "-162.00"
+      }, {
+        "count" : 5,
+        "item" : "1566.05"
+      }, {
+        "count" : 4,
+        "item" : "1160.00"
+      }, {
+        "count" : 3,
+        "item" : "432000.00"
+      }, {
+        "count" : 2,
+        "item" : "32.00"
+      }, {
+        "count" : 1,
+        "item" : "1477.60"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220524,
+    "name" : "FY 2009Jul-2008",
+    "dataTypeName" : "number",
+    "fieldName" : "fy_2009jul_2008",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056656,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "10945216.05",
+      "null" : 8,
+      "average" : "97725.14330357143",
+      "largest" : "1411200.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "3347.43"
+      }, {
+        "count" : 18,
+        "item" : "33.30"
+      }, {
+        "count" : 17,
+        "item" : "4916.00"
+      }, {
+        "count" : 16,
+        "item" : "103.00"
+      }, {
+        "count" : 15,
+        "item" : "27.08"
+      }, {
+        "count" : 14,
+        "item" : "146.00"
+      }, {
+        "count" : 13,
+        "item" : "48000.00"
+      }, {
+        "count" : 12,
+        "item" : "163.82"
+      }, {
+        "count" : 11,
+        "item" : "324.00"
+      }, {
+        "count" : 10,
+        "item" : "66000.00"
+      }, {
+        "count" : 9,
+        "item" : "238.00"
+      }, {
+        "count" : 8,
+        "item" : "249.06"
+      }, {
+        "count" : 7,
+        "item" : "1376.00"
+      }, {
+        "count" : 6,
+        "item" : "450800.00"
+      }, {
+        "count" : 5,
+        "item" : "1538.57"
+      }, {
+        "count" : 4,
+        "item" : "1160.00"
+      }, {
+        "count" : 3,
+        "item" : "420000.00"
+      }, {
+        "count" : 2,
+        "item" : "1433.45"
+      }, {
+        "count" : 1,
+        "item" : "396.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220525,
+    "name" : "Aug-2008",
+    "dataTypeName" : "number",
+    "fieldName" : "aug_2008",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056657,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "8880817.25",
+      "null" : 8,
+      "average" : "79293.01116071429",
+      "largest" : "1268800.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "35828.00"
+      }, {
+        "count" : 19,
+        "item" : "4522.05"
+      }, {
+        "count" : 18,
+        "item" : "33.80"
+      }, {
+        "count" : 17,
+        "item" : "2746.00"
+      }, {
+        "count" : 16,
+        "item" : "4872.00"
+      }, {
+        "count" : 15,
+        "item" : "496.57"
+      }, {
+        "count" : 14,
+        "item" : "146.00"
+      }, {
+        "count" : 13,
+        "item" : "49600.00"
+      }, {
+        "count" : 12,
+        "item" : "0.00"
+      }, {
+        "count" : 11,
+        "item" : "169.28"
+      }, {
+        "count" : 10,
+        "item" : "276.00"
+      }, {
+        "count" : 9,
+        "item" : "43200.00"
+      }, {
+        "count" : 8,
+        "item" : "681.00"
+      }, {
+        "count" : 7,
+        "item" : "215.54"
+      }, {
+        "count" : 6,
+        "item" : "1036.00"
+      }, {
+        "count" : 5,
+        "item" : "321600.00"
+      }, {
+        "count" : 4,
+        "item" : "3727.00"
+      }, {
+        "count" : 3,
+        "item" : "1470.31"
+      }, {
+        "count" : 2,
+        "item" : "992.00"
+      }, {
+        "count" : 1,
+        "item" : "350400.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220526,
+    "name" : "Sep-2008",
+    "dataTypeName" : "number",
+    "fieldName" : "sep_2008",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056658,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "8403146.28",
+      "null" : 8,
+      "average" : "75028.09178571429",
+      "largest" : "1260800.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "89216.00"
+      }, {
+        "count" : 19,
+        "item" : "9814.43"
+      }, {
+        "count" : 18,
+        "item" : "15.80"
+      }, {
+        "count" : 17,
+        "item" : "220.00"
+      }, {
+        "count" : 16,
+        "item" : "20946.00"
+      }, {
+        "count" : 15,
+        "item" : "2095.35"
+      }, {
+        "count" : 14,
+        "item" : "146.00"
+      }, {
+        "count" : 13,
+        "item" : "49600.00"
+      }, {
+        "count" : 12,
+        "item" : "0.00"
+      }, {
+        "count" : 11,
+        "item" : "169.28"
+      }, {
+        "count" : 10,
+        "item" : "120.00"
+      }, {
+        "count" : 9,
+        "item" : "26400.00"
+      }, {
+        "count" : 8,
+        "item" : "4074.00"
+      }, {
+        "count" : 7,
+        "item" : "497.50"
+      }, {
+        "count" : 6,
+        "item" : "556.00"
+      }, {
+        "count" : 5,
+        "item" : "224000.00"
+      }, {
+        "count" : 4,
+        "item" : "18510.00"
+      }, {
+        "count" : 3,
+        "item" : "2615.51"
+      }, {
+        "count" : 2,
+        "item" : "902.00"
+      }, {
+        "count" : 1,
+        "item" : "297600.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220527,
+    "name" : "Oct-2008",
+    "dataTypeName" : "number",
+    "fieldName" : "oct_2008",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056659,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "8437104.09",
+      "null" : 8,
+      "average" : "75331.28651785714",
+      "largest" : "1328000.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "27205.00"
+      }, {
+        "count" : 18,
+        "item" : "2720.79"
+      }, {
+        "count" : 17,
+        "item" : "146.00"
+      }, {
+        "count" : 16,
+        "item" : "53000.00"
+      }, {
+        "count" : 15,
+        "item" : "1033.00"
+      }, {
+        "count" : 14,
+        "item" : "284.19"
+      }, {
+        "count" : 13,
+        "item" : "120.00"
+      }, {
+        "count" : 12,
+        "item" : "31200.00"
+      }, {
+        "count" : 11,
+        "item" : "10083.00"
+      }, {
+        "count" : 10,
+        "item" : "1114.78"
+      }, {
+        "count" : 9,
+        "item" : "562.00"
+      }, {
+        "count" : 8,
+        "item" : "262600.00"
+      }, {
+        "count" : 7,
+        "item" : "32634.00"
+      }, {
+        "count" : 6,
+        "item" : "4159.65"
+      }, {
+        "count" : 5,
+        "item" : "902.00"
+      }, {
+        "count" : 4,
+        "item" : "352800.00"
+      }, {
+        "count" : 3,
+        "item" : "17121.00"
+      }, {
+        "count" : 2,
+        "item" : "2916.20"
+      }, {
+        "count" : 1,
+        "item" : "360.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220528,
+    "name" : "Nov-2008",
+    "dataTypeName" : "number",
+    "fieldName" : "nov_2008",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056660,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "9141817.50",
+      "null" : 8,
+      "average" : "81623.37053571429",
+      "largest" : "1343200.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "127482.00"
+      }, {
+        "count" : 19,
+        "item" : "13665.61"
+      }, {
+        "count" : 18,
+        "item" : "0.00"
+      }, {
+        "count" : 17,
+        "item" : "29062.00"
+      }, {
+        "count" : 16,
+        "item" : "2906.20"
+      }, {
+        "count" : 15,
+        "item" : "146.00"
+      }, {
+        "count" : 14,
+        "item" : "53000.00"
+      }, {
+        "count" : 13,
+        "item" : "180.89"
+      }, {
+        "count" : 12,
+        "item" : "120.00"
+      }, {
+        "count" : 11,
+        "item" : "27600.00"
+      }, {
+        "count" : 10,
+        "item" : "9676.00"
+      }, {
+        "count" : 9,
+        "item" : "1061.80"
+      }, {
+        "count" : 8,
+        "item" : "546.00"
+      }, {
+        "count" : 7,
+        "item" : "261400.00"
+      }, {
+        "count" : 6,
+        "item" : "40451.00"
+      }, {
+        "count" : 5,
+        "item" : "4937.25"
+      }, {
+        "count" : 4,
+        "item" : "902.00"
+      }, {
+        "count" : 3,
+        "item" : "355200.00"
+      }, {
+        "count" : 2,
+        "item" : "19804.00"
+      }, {
+        "count" : 1,
+        "item" : "3192.69"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220529,
+    "name" : "Dec-2008",
+    "dataTypeName" : "number",
+    "fieldName" : "dec_2008",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056661,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "8420040.21",
+      "null" : 8,
+      "average" : "75178.93044642857",
+      "largest" : "1217600.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "126205.00"
+      }, {
+        "count" : 19,
+        "item" : "13453.26"
+      }, {
+        "count" : 18,
+        "item" : "0.00"
+      }, {
+        "count" : 17,
+        "item" : "23449.00"
+      }, {
+        "count" : 16,
+        "item" : "2344.90"
+      }, {
+        "count" : 15,
+        "item" : "146.00"
+      }, {
+        "count" : 14,
+        "item" : "48000.00"
+      }, {
+        "count" : 13,
+        "item" : "2998.00"
+      }, {
+        "count" : 12,
+        "item" : "463.62"
+      }, {
+        "count" : 11,
+        "item" : "120.00"
+      }, {
+        "count" : 10,
+        "item" : "25200.00"
+      }, {
+        "count" : 9,
+        "item" : "11061.00"
+      }, {
+        "count" : 8,
+        "item" : "1192.11"
+      }, {
+        "count" : 7,
+        "item" : "542.00"
+      }, {
+        "count" : 6,
+        "item" : "237600.00"
+      }, {
+        "count" : 5,
+        "item" : "35232.00"
+      }, {
+        "count" : 4,
+        "item" : "4334.12"
+      }, {
+        "count" : 3,
+        "item" : "742.00"
+      }, {
+        "count" : 2,
+        "item" : "314400.00"
+      }, {
+        "count" : 1,
+        "item" : "18043.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220530,
+    "name" : "Jan-2009",
+    "dataTypeName" : "number",
+    "fieldName" : "jan_2009",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056662,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "8320585.30",
+      "null" : 8,
+      "average" : "74290.94017857143",
+      "largest" : "1236000.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "99698.00"
+      }, {
+        "count" : 19,
+        "item" : "10840.79"
+      }, {
+        "count" : 18,
+        "item" : "0.00"
+      }, {
+        "count" : 17,
+        "item" : "20812.00"
+      }, {
+        "count" : 16,
+        "item" : "2081.20"
+      }, {
+        "count" : 15,
+        "item" : "146.00"
+      }, {
+        "count" : 14,
+        "item" : "54600.00"
+      }, {
+        "count" : 13,
+        "item" : "186.35"
+      }, {
+        "count" : 12,
+        "item" : "120.00"
+      }, {
+        "count" : 11,
+        "item" : "30000.00"
+      }, {
+        "count" : 10,
+        "item" : "9343.00"
+      }, {
+        "count" : 9,
+        "item" : "1036.69"
+      }, {
+        "count" : 8,
+        "item" : "550.00"
+      }, {
+        "count" : 7,
+        "item" : "229200.00"
+      }, {
+        "count" : 6,
+        "item" : "24892.00"
+      }, {
+        "count" : 5,
+        "item" : "3271.45"
+      }, {
+        "count" : 4,
+        "item" : "726.00"
+      }, {
+        "count" : 3,
+        "item" : "312000.00"
+      }, {
+        "count" : 2,
+        "item" : "13350.00"
+      }, {
+        "count" : 1,
+        "item" : "2399.85"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220531,
+    "name" : "Feb-2009",
+    "dataTypeName" : "number",
+    "fieldName" : "feb_2009",
+    "position" : 12,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056663,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "7526880.40",
+      "null" : 8,
+      "average" : "67204.28928571429",
+      "largest" : "1200800.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "9511.00"
+      }, {
+        "count" : 18,
+        "item" : "13343.00"
+      }, {
+        "count" : 17,
+        "item" : "1334.30"
+      }, {
+        "count" : 16,
+        "item" : "146.00"
+      }, {
+        "count" : 15,
+        "item" : "46200.00"
+      }, {
+        "count" : 14,
+        "item" : "11359.00"
+      }, {
+        "count" : 13,
+        "item" : "1293.58"
+      }, {
+        "count" : 12,
+        "item" : "120.00"
+      }, {
+        "count" : 11,
+        "item" : "27600.00"
+      }, {
+        "count" : 10,
+        "item" : "4599.00"
+      }, {
+        "count" : 9,
+        "item" : "554.10"
+      }, {
+        "count" : 8,
+        "item" : "682.00"
+      }, {
+        "count" : 7,
+        "item" : "220200.00"
+      }, {
+        "count" : 6,
+        "item" : "10968.00"
+      }, {
+        "count" : 5,
+        "item" : "1848.34"
+      }, {
+        "count" : 4,
+        "item" : "988.00"
+      }, {
+        "count" : 3,
+        "item" : "328800.00"
+      }, {
+        "count" : 2,
+        "item" : "8247.00"
+      }, {
+        "count" : 1,
+        "item" : "1946.88"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220532,
+    "name" : "Mar-2009",
+    "dataTypeName" : "number",
+    "fieldName" : "mar_2009",
+    "position" : 13,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056664,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "8441255.06",
+      "null" : 8,
+      "average" : "75368.34875",
+      "largest" : "1312000.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "3904.24"
+      }, {
+        "count" : 18,
+        "item" : "18.22"
+      }, {
+        "count" : 17,
+        "item" : "498.00"
+      }, {
+        "count" : 16,
+        "item" : "206.00"
+      }, {
+        "count" : 15,
+        "item" : "22.30"
+      }, {
+        "count" : 14,
+        "item" : "146.00"
+      }, {
+        "count" : 13,
+        "item" : "49600.00"
+      }, {
+        "count" : 12,
+        "item" : "169.28"
+      }, {
+        "count" : 11,
+        "item" : "264.00"
+      }, {
+        "count" : 10,
+        "item" : "44400.00"
+      }, {
+        "count" : 9,
+        "item" : "163.00"
+      }, {
+        "count" : 8,
+        "item" : "167.84"
+      }, {
+        "count" : 7,
+        "item" : "1230.00"
+      }, {
+        "count" : 6,
+        "item" : "345400.00"
+      }, {
+        "count" : 5,
+        "item" : "3259.00"
+      }, {
+        "count" : 4,
+        "item" : "1504.74"
+      }, {
+        "count" : 3,
+        "item" : "1054.00"
+      }, {
+        "count" : 2,
+        "item" : "348000.00"
+      }, {
+        "count" : 1,
+        "item" : "2889.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220533,
+    "name" : "Apr-2009",
+    "dataTypeName" : "number",
+    "fieldName" : "apr_2009",
+    "position" : 14,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056665,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "8867237.74",
+      "null" : 8,
+      "average" : "79171.76553571429",
+      "largest" : "1352000.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "3073.96"
+      }, {
+        "count" : 18,
+        "item" : "26.12"
+      }, {
+        "count" : 17,
+        "item" : "3504.00"
+      }, {
+        "count" : 16,
+        "item" : "49.00"
+      }, {
+        "count" : 15,
+        "item" : "16.86"
+      }, {
+        "count" : 14,
+        "item" : "146.00"
+      }, {
+        "count" : 13,
+        "item" : "47400.00"
+      }, {
+        "count" : 12,
+        "item" : "637.00"
+      }, {
+        "count" : 11,
+        "item" : "225.47"
+      }, {
+        "count" : 10,
+        "item" : "276.00"
+      }, {
+        "count" : 9,
+        "item" : "51600.00"
+      }, {
+        "count" : 8,
+        "item" : "206.00"
+      }, {
+        "count" : 7,
+        "item" : "196.71"
+      }, {
+        "count" : 6,
+        "item" : "1342.00"
+      }, {
+        "count" : 5,
+        "item" : "375000.00"
+      }, {
+        "count" : 4,
+        "item" : "3012.00"
+      }, {
+        "count" : 3,
+        "item" : "1581.06"
+      }, {
+        "count" : 2,
+        "item" : "1040.00"
+      }, {
+        "count" : 1,
+        "item" : "357600.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220534,
+    "name" : "May-2009",
+    "dataTypeName" : "number",
+    "fieldName" : "may_2009",
+    "position" : 15,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056666,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "10582524.03",
+      "null" : 8,
+      "average" : "94486.82169642857",
+      "largest" : "1637600.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "32.74"
+      }, {
+        "count" : 18,
+        "item" : "128.00"
+      }, {
+        "count" : 17,
+        "item" : "63800.00"
+      }, {
+        "count" : 16,
+        "item" : "217.75"
+      }, {
+        "count" : 15,
+        "item" : "300.00"
+      }, {
+        "count" : 14,
+        "item" : "64800.00"
+      }, {
+        "count" : 13,
+        "item" : "121.00"
+      }, {
+        "count" : 12,
+        "item" : "233.26"
+      }, {
+        "count" : 11,
+        "item" : "1376.00"
+      }, {
+        "count" : 10,
+        "item" : "465200.00"
+      }, {
+        "count" : 9,
+        "item" : "3471.00"
+      }, {
+        "count" : 8,
+        "item" : "1934.81"
+      }, {
+        "count" : 7,
+        "item" : "1198.00"
+      }, {
+        "count" : 6,
+        "item" : "444000.00"
+      }, {
+        "count" : 5,
+        "item" : "1515.36"
+      }, {
+        "count" : 4,
+        "item" : "408.00"
+      }, {
+        "count" : 3,
+        "item" : "248400.00"
+      }, {
+        "count" : 2,
+        "item" : "2115.00"
+      }, {
+        "count" : 1,
+        "item" : "1059.28"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220535,
+    "name" : "Jun-2009",
+    "dataTypeName" : "number",
+    "fieldName" : "jun_2009",
+    "position" : 16,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056667,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "10789786.09",
+      "null" : 8,
+      "average" : "96337.37580357143",
+      "largest" : "1596800.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "142.00"
+      }, {
+        "count" : 18,
+        "item" : "69200.00"
+      }, {
+        "count" : 17,
+        "item" : "9.00"
+      }, {
+        "count" : 16,
+        "item" : "237.08"
+      }, {
+        "count" : 15,
+        "item" : "312.00"
+      }, {
+        "count" : 14,
+        "item" : "86400.00"
+      }, {
+        "count" : 13,
+        "item" : "166.00"
+      }, {
+        "count" : 12,
+        "item" : "311.48"
+      }, {
+        "count" : 11,
+        "item" : "1410.00"
+      }, {
+        "count" : 10,
+        "item" : "497600.00"
+      }, {
+        "count" : 9,
+        "item" : "4184.00"
+      }, {
+        "count" : 8,
+        "item" : "2116.69"
+      }, {
+        "count" : 7,
+        "item" : "1226.00"
+      }, {
+        "count" : 6,
+        "item" : "436800.00"
+      }, {
+        "count" : 5,
+        "item" : "52.00"
+      }, {
+        "count" : 4,
+        "item" : "1495.99"
+      }, {
+        "count" : 3,
+        "item" : "408.00"
+      }, {
+        "count" : 2,
+        "item" : "218400.00"
+      }, {
+        "count" : 1,
+        "item" : "745.39"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220536,
+    "name" : "FY 2010Jul-2009",
+    "dataTypeName" : "number",
+    "fieldName" : "fy_2010jul_2009",
+    "position" : 17,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056668,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "9304686.90",
+      "null" : 8,
+      "average" : "83077.56160714286",
+      "largest" : "1416800.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "2280.00"
+      }, {
+        "count" : 18,
+        "item" : "239.23"
+      }, {
+        "count" : 17,
+        "item" : "130.00"
+      }, {
+        "count" : 16,
+        "item" : "51600.00"
+      }, {
+        "count" : 15,
+        "item" : "176.11"
+      }, {
+        "count" : 14,
+        "item" : "276.00"
+      }, {
+        "count" : 13,
+        "item" : "52800.00"
+      }, {
+        "count" : 12,
+        "item" : "115.00"
+      }, {
+        "count" : 11,
+        "item" : "191.70"
+      }, {
+        "count" : 10,
+        "item" : "1350.00"
+      }, {
+        "count" : 9,
+        "item" : "366200.00"
+      }, {
+        "count" : 8,
+        "item" : "4367.00"
+      }, {
+        "count" : 7,
+        "item" : "1686.53"
+      }, {
+        "count" : 6,
+        "item" : "1116.00"
+      }, {
+        "count" : 5,
+        "item" : "405600.00"
+      }, {
+        "count" : 4,
+        "item" : "1384.30"
+      }, {
+        "count" : 3,
+        "item" : "396.00"
+      }, {
+        "count" : 2,
+        "item" : "216000.00"
+      }, {
+        "count" : 1,
+        "item" : "10418.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220537,
+    "name" : "Aug-2009",
+    "dataTypeName" : "number",
+    "fieldName" : "aug_2009",
+    "position" : 18,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056669,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "8571401.80",
+      "null" : 8,
+      "average" : "76530.37321428571",
+      "largest" : "1324800.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "309.00"
+      }, {
+        "count" : 18,
+        "item" : "5298.00"
+      }, {
+        "count" : 17,
+        "item" : "530.85"
+      }, {
+        "count" : 16,
+        "item" : "116.00"
+      }, {
+        "count" : 15,
+        "item" : "46600.00"
+      }, {
+        "count" : 14,
+        "item" : "159.04"
+      }, {
+        "count" : 13,
+        "item" : "276.00"
+      }, {
+        "count" : 12,
+        "item" : "44400.00"
+      }, {
+        "count" : 11,
+        "item" : "1748.00"
+      }, {
+        "count" : 10,
+        "item" : "326.34"
+      }, {
+        "count" : 9,
+        "item" : "1232.00"
+      }, {
+        "count" : 8,
+        "item" : "295000.00"
+      }, {
+        "count" : 7,
+        "item" : "6275.00"
+      }, {
+        "count" : 6,
+        "item" : "1634.33"
+      }, {
+        "count" : 5,
+        "item" : "868.00"
+      }, {
+        "count" : 4,
+        "item" : "360000.00"
+      }, {
+        "count" : 3,
+        "item" : "4627.00"
+      }, {
+        "count" : 2,
+        "item" : "1691.37"
+      }, {
+        "count" : 1,
+        "item" : "396.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220538,
+    "name" : "Sep-2009",
+    "dataTypeName" : "number",
+    "fieldName" : "sep_2009",
+    "position" : 19,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056670,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "7289428.56",
+      "null" : 8,
+      "average" : "65084.18357142857",
+      "largest" : "1178400.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "106.00"
+      }, {
+        "count" : 18,
+        "item" : "10862.00"
+      }, {
+        "count" : 17,
+        "item" : "1086.56"
+      }, {
+        "count" : 16,
+        "item" : "96.00"
+      }, {
+        "count" : 15,
+        "item" : "42000.00"
+      }, {
+        "count" : 14,
+        "item" : "143.34"
+      }, {
+        "count" : 13,
+        "item" : "108.00"
+      }, {
+        "count" : 12,
+        "item" : "26400.00"
+      }, {
+        "count" : 11,
+        "item" : "3582.00"
+      }, {
+        "count" : 10,
+        "item" : "448.30"
+      }, {
+        "count" : 9,
+        "item" : "702.00"
+      }, {
+        "count" : 8,
+        "item" : "220200.00"
+      }, {
+        "count" : 7,
+        "item" : "9341.00"
+      }, {
+        "count" : 6,
+        "item" : "1685.64"
+      }, {
+        "count" : 5,
+        "item" : "868.00"
+      }, {
+        "count" : 4,
+        "item" : "350400.00"
+      }, {
+        "count" : 3,
+        "item" : "5609.00"
+      }, {
+        "count" : 2,
+        "item" : "1756.80"
+      }, {
+        "count" : 1,
+        "item" : "384.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220539,
+    "name" : "Oct-2009",
+    "dataTypeName" : "number",
+    "fieldName" : "oct_2009",
+    "position" : 20,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056671,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "8414222.50",
+      "null" : 8,
+      "average" : "75126.98660714286",
+      "largest" : "1355200.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "2878.40"
+      }, {
+        "count" : 18,
+        "item" : "96.00"
+      }, {
+        "count" : 17,
+        "item" : "43000.00"
+      }, {
+        "count" : 16,
+        "item" : "1057.00"
+      }, {
+        "count" : 15,
+        "item" : "252.46"
+      }, {
+        "count" : 14,
+        "item" : "108.00"
+      }, {
+        "count" : 13,
+        "item" : "28800.00"
+      }, {
+        "count" : 12,
+        "item" : "10597.00"
+      }, {
+        "count" : 11,
+        "item" : "1157.99"
+      }, {
+        "count" : 10,
+        "item" : "556.00"
+      }, {
+        "count" : 9,
+        "item" : "230400.00"
+      }, {
+        "count" : 8,
+        "item" : "29700.00"
+      }, {
+        "count" : 7,
+        "item" : "3756.35"
+      }, {
+        "count" : 6,
+        "item" : "733.44"
+      }, {
+        "count" : 5,
+        "item" : "325600.00"
+      }, {
+        "count" : 4,
+        "item" : "17812.00"
+      }, {
+        "count" : 3,
+        "item" : "2892.46"
+      }, {
+        "count" : 2,
+        "item" : "384.00"
+      }, {
+        "count" : 1,
+        "item" : "786.35"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220540,
+    "name" : "Nov-2009",
+    "dataTypeName" : "number",
+    "fieldName" : "nov_2009",
+    "position" : 21,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056672,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "7238860.36",
+      "null" : 8,
+      "average" : "64632.68178571429",
+      "largest" : "1202400.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "10.00"
+      }, {
+        "count" : 18,
+        "item" : "31074.00"
+      }, {
+        "count" : 17,
+        "item" : "3107.43"
+      }, {
+        "count" : 16,
+        "item" : "96.00"
+      }, {
+        "count" : 15,
+        "item" : "42800.00"
+      }, {
+        "count" : 14,
+        "item" : "146.08"
+      }, {
+        "count" : 13,
+        "item" : "108.00"
+      }, {
+        "count" : 12,
+        "item" : "26400.00"
+      }, {
+        "count" : 11,
+        "item" : "9421.00"
+      }, {
+        "count" : 10,
+        "item" : "1032.20"
+      }, {
+        "count" : 9,
+        "item" : "754.00"
+      }, {
+        "count" : 8,
+        "item" : "263800.00"
+      }, {
+        "count" : 7,
+        "item" : "34964.00"
+      }, {
+        "count" : 6,
+        "item" : "4396.74"
+      }, {
+        "count" : 5,
+        "item" : "733.44"
+      }, {
+        "count" : 4,
+        "item" : "260800.00"
+      }, {
+        "count" : 3,
+        "item" : "20166.00"
+      }, {
+        "count" : 2,
+        "item" : "2906.70"
+      }, {
+        "count" : 1,
+        "item" : "372.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220541,
+    "name" : "Dec-2009",
+    "dataTypeName" : "number",
+    "fieldName" : "dec_2009",
+    "position" : 22,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056673,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "8125573.74",
+      "null" : 8,
+      "average" : "72549.76553571429",
+      "largest" : "1284000.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "8.00"
+      }, {
+        "count" : 18,
+        "item" : "33426.00"
+      }, {
+        "count" : 17,
+        "item" : "3342.63"
+      }, {
+        "count" : 16,
+        "item" : "96.00"
+      }, {
+        "count" : 15,
+        "item" : "43800.00"
+      }, {
+        "count" : 14,
+        "item" : "6772.00"
+      }, {
+        "count" : 13,
+        "item" : "826.69"
+      }, {
+        "count" : 12,
+        "item" : "120.00"
+      }, {
+        "count" : 11,
+        "item" : "28800.00"
+      }, {
+        "count" : 10,
+        "item" : "11813.00"
+      }, {
+        "count" : 9,
+        "item" : "1279.59"
+      }, {
+        "count" : 8,
+        "item" : "754.08"
+      }, {
+        "count" : 7,
+        "item" : "248000.00"
+      }, {
+        "count" : 6,
+        "item" : "38944.00"
+      }, {
+        "count" : 5,
+        "item" : "4740.82"
+      }, {
+        "count" : 4,
+        "item" : "977.28"
+      }, {
+        "count" : 3,
+        "item" : "340800.00"
+      }, {
+        "count" : 2,
+        "item" : "20936.00"
+      }, {
+        "count" : 1,
+        "item" : "3256.74"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220542,
+    "name" : "Jan-2010",
+    "dataTypeName" : "number",
+    "fieldName" : "jan_2010",
+    "position" : 23,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056674,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "7098105.66",
+      "null" : 8,
+      "average" : "63375.94339285714",
+      "largest" : "1173600.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "1411.30"
+      }, {
+        "count" : 18,
+        "item" : "92.00"
+      }, {
+        "count" : 17,
+        "item" : "40600.00"
+      }, {
+        "count" : 16,
+        "item" : "138.57"
+      }, {
+        "count" : 15,
+        "item" : "108.00"
+      }, {
+        "count" : 14,
+        "item" : "28800.00"
+      }, {
+        "count" : 13,
+        "item" : "5591.00"
+      }, {
+        "count" : 12,
+        "item" : "657.39"
+      }, {
+        "count" : 11,
+        "item" : "754.08"
+      }, {
+        "count" : 10,
+        "item" : "203600.00"
+      }, {
+        "count" : 9,
+        "item" : "15093.00"
+      }, {
+        "count" : 8,
+        "item" : "2204.18"
+      }, {
+        "count" : 7,
+        "item" : "977.28"
+      }, {
+        "count" : 6,
+        "item" : "300000.00"
+      }, {
+        "count" : 5,
+        "item" : "9678.00"
+      }, {
+        "count" : 4,
+        "item" : "1991.69"
+      }, {
+        "count" : 3,
+        "item" : "372.00"
+      }, {
+        "count" : 2,
+        "item" : "202800.00"
+      }, {
+        "count" : 1,
+        "item" : "31516.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220543,
+    "name" : "Feb-2010",
+    "dataTypeName" : "number",
+    "fieldName" : "feb_2010",
+    "position" : 24,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056675,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "7273808.90",
+      "null" : 8,
+      "average" : "64944.72232142857",
+      "largest" : "1196800.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "70.00"
+      }, {
+        "count" : 18,
+        "item" : "5530.00"
+      }, {
+        "count" : 17,
+        "item" : "553.24"
+      }, {
+        "count" : 16,
+        "item" : "126.00"
+      }, {
+        "count" : 15,
+        "item" : "41000.00"
+      }, {
+        "count" : 14,
+        "item" : "4214.00"
+      }, {
+        "count" : 13,
+        "item" : "561.33"
+      }, {
+        "count" : 12,
+        "item" : "252.00"
+      }, {
+        "count" : 11,
+        "item" : "30000.00"
+      }, {
+        "count" : 10,
+        "item" : "2717.00"
+      }, {
+        "count" : 9,
+        "item" : "374.09"
+      }, {
+        "count" : 8,
+        "item" : "1372.32"
+      }, {
+        "count" : 7,
+        "item" : "244800.00"
+      }, {
+        "count" : 6,
+        "item" : "7204.00"
+      }, {
+        "count" : 5,
+        "item" : "1555.90"
+      }, {
+        "count" : 4,
+        "item" : "977.28"
+      }, {
+        "count" : 3,
+        "item" : "292800.00"
+      }, {
+        "count" : 2,
+        "item" : "3553.00"
+      }, {
+        "count" : 1,
+        "item" : "1354.62"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220544,
+    "name" : "Mar-2010",
+    "dataTypeName" : "number",
+    "fieldName" : "mar_2010",
+    "position" : 25,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056676,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "7664991.85",
+      "null" : 8,
+      "average" : "68437.42723214286",
+      "largest" : "1224000.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "812.00"
+      }, {
+        "count" : 18,
+        "item" : "2759.00"
+      }, {
+        "count" : 17,
+        "item" : "278.67"
+      }, {
+        "count" : 16,
+        "item" : "114.00"
+      }, {
+        "count" : 15,
+        "item" : "35600.00"
+      }, {
+        "count" : 14,
+        "item" : "13.00"
+      }, {
+        "count" : 13,
+        "item" : "122.80"
+      }, {
+        "count" : 12,
+        "item" : "276.00"
+      }, {
+        "count" : 11,
+        "item" : "42000.00"
+      }, {
+        "count" : 10,
+        "item" : "990.00"
+      }, {
+        "count" : 9,
+        "item" : "242.34"
+      }, {
+        "count" : 8,
+        "item" : "1372.32"
+      }, {
+        "count" : 7,
+        "item" : "245600.00"
+      }, {
+        "count" : 6,
+        "item" : "7138.00"
+      }, {
+        "count" : 5,
+        "item" : "1552.03"
+      }, {
+        "count" : 4,
+        "item" : "1049.76"
+      }, {
+        "count" : 3,
+        "item" : "327200.00"
+      }, {
+        "count" : 2,
+        "item" : "1781.00"
+      }, {
+        "count" : 1,
+        "item" : "1294.82"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220545,
+    "name" : "Apr-2010",
+    "dataTypeName" : "number",
+    "fieldName" : "apr_2010",
+    "position" : 26,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056677,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "9758086.87",
+      "null" : 8,
+      "average" : "87125.775625",
+      "largest" : "1473600.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "3010.00"
+      }, {
+        "count" : 18,
+        "item" : "106.00"
+      }, {
+        "count" : 17,
+        "item" : "20.87"
+      }, {
+        "count" : 16,
+        "item" : "134.00"
+      }, {
+        "count" : 15,
+        "item" : "66600.00"
+      }, {
+        "count" : 14,
+        "item" : "9.00"
+      }, {
+        "count" : 13,
+        "item" : "228.20"
+      }, {
+        "count" : 12,
+        "item" : "300.00"
+      }, {
+        "count" : 11,
+        "item" : "64800.00"
+      }, {
+        "count" : 10,
+        "item" : "246.00"
+      }, {
+        "count" : 9,
+        "item" : "245.76"
+      }, {
+        "count" : 8,
+        "item" : "1399.68"
+      }, {
+        "count" : 7,
+        "item" : "406400.00"
+      }, {
+        "count" : 6,
+        "item" : "655.00"
+      }, {
+        "count" : 5,
+        "item" : "1452.53"
+      }, {
+        "count" : 4,
+        "item" : "1239.36"
+      }, {
+        "count" : 3,
+        "item" : "407200.00"
+      }, {
+        "count" : 2,
+        "item" : "42.00"
+      }, {
+        "count" : 1,
+        "item" : "1393.96"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220546,
+    "name" : "May-2010",
+    "dataTypeName" : "number",
+    "fieldName" : "may_2010",
+    "position" : 27,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056678,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "11492613.33",
+      "null" : 8,
+      "average" : "102612.6190178571",
+      "largest" : "1609600.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "262400.00"
+      }, {
+        "count" : 19,
+        "item" : "0.00"
+      }, {
+        "count" : 18,
+        "item" : "26.87"
+      }, {
+        "count" : 17,
+        "item" : "178.00"
+      }, {
+        "count" : 16,
+        "item" : "86000.00"
+      }, {
+        "count" : 15,
+        "item" : "293.52"
+      }, {
+        "count" : 14,
+        "item" : "336.00"
+      }, {
+        "count" : 13,
+        "item" : "76800.00"
+      }, {
+        "count" : 12,
+        "item" : "210.00"
+      }, {
+        "count" : 11,
+        "item" : "283.12"
+      }, {
+        "count" : 10,
+        "item" : "1476.00"
+      }, {
+        "count" : 9,
+        "item" : "510000.00"
+      }, {
+        "count" : 8,
+        "item" : "113.00"
+      }, {
+        "count" : 7,
+        "item" : "1751.91"
+      }, {
+        "count" : 6,
+        "item" : "1284.48"
+      }, {
+        "count" : 5,
+        "item" : "506400.00"
+      }, {
+        "count" : 4,
+        "item" : "647.00"
+      }, {
+        "count" : 3,
+        "item" : "1793.03"
+      }, {
+        "count" : 2,
+        "item" : "396.00"
+      }, {
+        "count" : 1,
+        "item" : "247200.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220547,
+    "name" : "Jun-2010",
+    "dataTypeName" : "number",
+    "fieldName" : "jun_2010",
+    "position" : 28,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056679,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "10539985.53",
+      "null" : 8,
+      "average" : "94107.01366071429",
+      "largest" : "1726400.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "533.00"
+      }, {
+        "count" : 18,
+        "item" : "97.96"
+      }, {
+        "count" : 17,
+        "item" : "170.00"
+      }, {
+        "count" : 16,
+        "item" : "69200.00"
+      }, {
+        "count" : 15,
+        "item" : "236.18"
+      }, {
+        "count" : 14,
+        "item" : "312.00"
+      }, {
+        "count" : 13,
+        "item" : "73200.00"
+      }, {
+        "count" : 12,
+        "item" : "209.00"
+      }, {
+        "count" : 11,
+        "item" : "270.73"
+      }, {
+        "count" : 10,
+        "item" : "1415.04"
+      }, {
+        "count" : 9,
+        "item" : "478000.00"
+      }, {
+        "count" : 8,
+        "item" : "177.00"
+      }, {
+        "count" : 7,
+        "item" : "1649.10"
+      }, {
+        "count" : 6,
+        "item" : "1283.52"
+      }, {
+        "count" : 5,
+        "item" : "439200.00"
+      }, {
+        "count" : 4,
+        "item" : "1498.98"
+      }, {
+        "count" : 3,
+        "item" : "396.00"
+      }, {
+        "count" : 2,
+        "item" : "216000.00"
+      }, {
+        "count" : 1,
+        "item" : "4755.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220548,
+    "name" : "FY 2011Jul-2010",
+    "dataTypeName" : "number",
+    "fieldName" : "fy_2011jul_2010",
+    "position" : 29,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056680,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "9966301.08",
+      "null" : 8,
+      "average" : "88984.83107142857",
+      "largest" : "1658400.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "215.00"
+      }, {
+        "count" : 18,
+        "item" : "53.24"
+      }, {
+        "count" : 17,
+        "item" : "146.00"
+      }, {
+        "count" : 16,
+        "item" : "59800.00"
+      }, {
+        "count" : 15,
+        "item" : "204.10"
+      }, {
+        "count" : 14,
+        "item" : "312.00"
+      }, {
+        "count" : 13,
+        "item" : "61200.00"
+      }, {
+        "count" : 12,
+        "item" : "241.00"
+      }, {
+        "count" : 11,
+        "item" : "232.97"
+      }, {
+        "count" : 10,
+        "item" : "1378.56"
+      }, {
+        "count" : 9,
+        "item" : "411200.00"
+      }, {
+        "count" : 8,
+        "item" : "5056.00"
+      }, {
+        "count" : 7,
+        "item" : "1909.01"
+      }, {
+        "count" : 6,
+        "item" : "1317.12"
+      }, {
+        "count" : 5,
+        "item" : "397600.00"
+      }, {
+        "count" : 4,
+        "item" : "1357.00"
+      }, {
+        "count" : 3,
+        "item" : "396.00"
+      }, {
+        "count" : 2,
+        "item" : "224400.00"
+      }, {
+        "count" : 1,
+        "item" : "4244.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220549,
+    "name" : "Aug-2010",
+    "dataTypeName" : "number",
+    "fieldName" : "aug_2010",
+    "position" : 30,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056681,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "8226597.36",
+      "null" : 8,
+      "average" : "73451.76214285714",
+      "largest" : "1236800.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "3122.00"
+      }, {
+        "count" : 18,
+        "item" : "333.24"
+      }, {
+        "count" : 17,
+        "item" : "142.00"
+      }, {
+        "count" : 16,
+        "item" : "48200.00"
+      }, {
+        "count" : 15,
+        "item" : "2.00"
+      }, {
+        "count" : 14,
+        "item" : "164.71"
+      }, {
+        "count" : 13,
+        "item" : "300.00"
+      }, {
+        "count" : 12,
+        "item" : "46800.00"
+      }, {
+        "count" : 11,
+        "item" : "676.00"
+      }, {
+        "count" : 10,
+        "item" : "227.33"
+      }, {
+        "count" : 9,
+        "item" : "1399.20"
+      }, {
+        "count" : 8,
+        "item" : "322400.00"
+      }, {
+        "count" : 7,
+        "item" : "11899.00"
+      }, {
+        "count" : 6,
+        "item" : "2290.24"
+      }, {
+        "count" : 5,
+        "item" : "1062.72"
+      }, {
+        "count" : 4,
+        "item" : "324800.00"
+      }, {
+        "count" : 3,
+        "item" : "719.00"
+      }, {
+        "count" : 2,
+        "item" : "1180.43"
+      }, {
+        "count" : 1,
+        "item" : "396.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220550,
+    "name" : "Sep-2010",
+    "dataTypeName" : "number",
+    "fieldName" : "sep_2010",
+    "position" : 31,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056682,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "7153253.30",
+      "null" : 8,
+      "average" : "63868.33303571429",
+      "largest" : "1204000.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "1039.00"
+      }, {
+        "count" : 18,
+        "item" : "15983.00"
+      }, {
+        "count" : 17,
+        "item" : "1601.85"
+      }, {
+        "count" : 16,
+        "item" : "132.00"
+      }, {
+        "count" : 15,
+        "item" : "40800.00"
+      }, {
+        "count" : 14,
+        "item" : "143.00"
+      }, {
+        "count" : 13,
+        "item" : "153.55"
+      }, {
+        "count" : 12,
+        "item" : "180.00"
+      }, {
+        "count" : 11,
+        "item" : "28800.00"
+      }, {
+        "count" : 10,
+        "item" : "3883.00"
+      }, {
+        "count" : 9,
+        "item" : "486.59"
+      }, {
+        "count" : 8,
+        "item" : "880.08"
+      }, {
+        "count" : 7,
+        "item" : "238400.00"
+      }, {
+        "count" : 6,
+        "item" : "11174.00"
+      }, {
+        "count" : 5,
+        "item" : "1931.05"
+      }, {
+        "count" : 4,
+        "item" : "943.68"
+      }, {
+        "count" : 3,
+        "item" : "312000.00"
+      }, {
+        "count" : 2,
+        "item" : "5554.00"
+      }, {
+        "count" : 1,
+        "item" : "1620.25"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220551,
+    "name" : "Oct-2010",
+    "dataTypeName" : "number",
+    "fieldName" : "oct_2010",
+    "position" : 32,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056683,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "8275721.02",
+      "null" : 8,
+      "average" : "73890.36625",
+      "largest" : "1396800.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "111.00"
+      }, {
+        "count" : 18,
+        "item" : "37444.00"
+      }, {
+        "count" : 17,
+        "item" : "3744.78"
+      }, {
+        "count" : 16,
+        "item" : "96.00"
+      }, {
+        "count" : 15,
+        "item" : "46000.00"
+      }, {
+        "count" : 14,
+        "item" : "1432.00"
+      }, {
+        "count" : 13,
+        "item" : "300.20"
+      }, {
+        "count" : 12,
+        "item" : "108.00"
+      }, {
+        "count" : 11,
+        "item" : "30000.00"
+      }, {
+        "count" : 10,
+        "item" : "10687.00"
+      }, {
+        "count" : 9,
+        "item" : "1171.09"
+      }, {
+        "count" : 8,
+        "item" : "550.32"
+      }, {
+        "count" : 7,
+        "item" : "232400.00"
+      }, {
+        "count" : 6,
+        "item" : "36712.00"
+      }, {
+        "count" : 5,
+        "item" : "4464.37"
+      }, {
+        "count" : 4,
+        "item" : "740.64"
+      }, {
+        "count" : 3,
+        "item" : "354400.00"
+      }, {
+        "count" : 2,
+        "item" : "16133.00"
+      }, {
+        "count" : 1,
+        "item" : "2822.86"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220552,
+    "name" : "Nov-2010",
+    "dataTypeName" : "number",
+    "fieldName" : "nov_2010",
+    "position" : 33,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056684,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "7790120.27",
+      "null" : 8,
+      "average" : "69554.64526785714",
+      "largest" : "1200800.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "2161.60"
+      }, {
+        "count" : 18,
+        "item" : "88.00"
+      }, {
+        "count" : 17,
+        "item" : "40600.00"
+      }, {
+        "count" : 16,
+        "item" : "3313.00"
+      }, {
+        "count" : 15,
+        "item" : "469.87"
+      }, {
+        "count" : 14,
+        "item" : "120.00"
+      }, {
+        "count" : 13,
+        "item" : "25200.00"
+      }, {
+        "count" : 12,
+        "item" : "13221.00"
+      }, {
+        "count" : 11,
+        "item" : "1408.11"
+      }, {
+        "count" : 10,
+        "item" : "545.04"
+      }, {
+        "count" : 9,
+        "item" : "228000.00"
+      }, {
+        "count" : 8,
+        "item" : "50116.00"
+      }, {
+        "count" : 7,
+        "item" : "5789.76"
+      }, {
+        "count" : 6,
+        "item" : "747.36"
+      }, {
+        "count" : 5,
+        "item" : "314400.00"
+      }, {
+        "count" : 4,
+        "item" : "22564.00"
+      }, {
+        "count" : 3,
+        "item" : "3329.44"
+      }, {
+        "count" : 2,
+        "item" : "396.00"
+      }, {
+        "count" : 1,
+        "item" : "192000.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220553,
+    "name" : "Dec-2010",
+    "dataTypeName" : "number",
+    "fieldName" : "dec_2010",
+    "position" : 34,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056685,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "7953050.39",
+      "null" : 8,
+      "average" : "71009.37848214286",
+      "largest" : "1254400.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "3477.20"
+      }, {
+        "count" : 18,
+        "item" : "90.00"
+      }, {
+        "count" : 17,
+        "item" : "41800.00"
+      }, {
+        "count" : 16,
+        "item" : "3795.00"
+      }, {
+        "count" : 15,
+        "item" : "522.16"
+      }, {
+        "count" : 14,
+        "item" : "108.00"
+      }, {
+        "count" : 13,
+        "item" : "26400.00"
+      }, {
+        "count" : 12,
+        "item" : "12621.00"
+      }, {
+        "count" : 11,
+        "item" : "1352.20"
+      }, {
+        "count" : 10,
+        "item" : "531.12"
+      }, {
+        "count" : 9,
+        "item" : "252800.00"
+      }, {
+        "count" : 8,
+        "item" : "37541.00"
+      }, {
+        "count" : 7,
+        "item" : "4616.90"
+      }, {
+        "count" : 6,
+        "item" : "738.72"
+      }, {
+        "count" : 5,
+        "item" : "320000.00"
+      }, {
+        "count" : 4,
+        "item" : "18464.00"
+      }, {
+        "count" : 3,
+        "item" : "2938.55"
+      }, {
+        "count" : 2,
+        "item" : "396.00"
+      }, {
+        "count" : 1,
+        "item" : "205200.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220554,
+    "name" : "Jan-2011",
+    "dataTypeName" : "number",
+    "fieldName" : "jan_2011",
+    "position" : 35,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056686,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "7239875.37",
+      "null" : 8,
+      "average" : "64641.744375",
+      "largest" : "1147200.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "3399.10"
+      }, {
+        "count" : 18,
+        "item" : "130.00"
+      }, {
+        "count" : 17,
+        "item" : "43200.00"
+      }, {
+        "count" : 16,
+        "item" : "3045.00"
+      }, {
+        "count" : 15,
+        "item" : "451.94"
+      }, {
+        "count" : 14,
+        "item" : "96.00"
+      }, {
+        "count" : 13,
+        "item" : "26400.00"
+      }, {
+        "count" : 12,
+        "item" : "5608.00"
+      }, {
+        "count" : 11,
+        "item" : "650.90"
+      }, {
+        "count" : 10,
+        "item" : "536.40"
+      }, {
+        "count" : 9,
+        "item" : "226400.00"
+      }, {
+        "count" : 8,
+        "item" : "23450.00"
+      }, {
+        "count" : 7,
+        "item" : "3117.70"
+      }, {
+        "count" : 6,
+        "item" : "709.92"
+      }, {
+        "count" : 5,
+        "item" : "277600.00"
+      }, {
+        "count" : 4,
+        "item" : "12520.00"
+      }, {
+        "count" : 3,
+        "item" : "2199.44"
+      }, {
+        "count" : 2,
+        "item" : "396.00"
+      }, {
+        "count" : 1,
+        "item" : "205200.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220555,
+    "name" : "Feb-2011",
+    "dataTypeName" : "number",
+    "fieldName" : "feb_2011",
+    "position" : 36,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056687,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "6898634.16",
+      "null" : 8,
+      "average" : "61594.94785714286",
+      "largest" : "1131200.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "1.00"
+      }, {
+        "count" : 18,
+        "item" : "22630.00"
+      }, {
+        "count" : 17,
+        "item" : "2263.00"
+      }, {
+        "count" : 16,
+        "item" : "130.00"
+      }, {
+        "count" : 15,
+        "item" : "39000.00"
+      }, {
+        "count" : 14,
+        "item" : "1844.00"
+      }, {
+        "count" : 13,
+        "item" : "317.51"
+      }, {
+        "count" : 12,
+        "item" : "96.00"
+      }, {
+        "count" : 11,
+        "item" : "24000.00"
+      }, {
+        "count" : 10,
+        "item" : "8941.00"
+      }, {
+        "count" : 9,
+        "item" : "976.01"
+      }, {
+        "count" : 8,
+        "item" : "532.08"
+      }, {
+        "count" : 7,
+        "item" : "208000.00"
+      }, {
+        "count" : 6,
+        "item" : "16428.00"
+      }, {
+        "count" : 5,
+        "item" : "2352.70"
+      }, {
+        "count" : 4,
+        "item" : "922.56"
+      }, {
+        "count" : 3,
+        "item" : "284800.00"
+      }, {
+        "count" : 2,
+        "item" : "10380.00"
+      }, {
+        "count" : 1,
+        "item" : "2010.01"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220556,
+    "name" : "Mar-2011",
+    "dataTypeName" : "number",
+    "fieldName" : "mar_2011",
+    "position" : 37,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056688,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "7099684.52",
+      "null" : 8,
+      "average" : "63390.04035714286",
+      "largest" : "1191200.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "7513.00"
+      }, {
+        "count" : 18,
+        "item" : "753.82"
+      }, {
+        "count" : 17,
+        "item" : "130.00"
+      }, {
+        "count" : 16,
+        "item" : "40800.00"
+      }, {
+        "count" : 15,
+        "item" : "815.00"
+      }, {
+        "count" : 14,
+        "item" : "220.75"
+      }, {
+        "count" : 13,
+        "item" : "216.00"
+      }, {
+        "count" : 12,
+        "item" : "27600.00"
+      }, {
+        "count" : 11,
+        "item" : "267.00"
+      }, {
+        "count" : 10,
+        "item" : "120.90"
+      }, {
+        "count" : 9,
+        "item" : "1100.40"
+      }, {
+        "count" : 8,
+        "item" : "233200.00"
+      }, {
+        "count" : 7,
+        "item" : "1780.00"
+      }, {
+        "count" : 6,
+        "item" : "973.90"
+      }, {
+        "count" : 5,
+        "item" : "996.48"
+      }, {
+        "count" : 4,
+        "item" : "303200.00"
+      }, {
+        "count" : 3,
+        "item" : "1864.00"
+      }, {
+        "count" : 2,
+        "item" : "1221.21"
+      }, {
+        "count" : 1,
+        "item" : "372.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220557,
+    "name" : "Apr-2011",
+    "dataTypeName" : "number",
+    "fieldName" : "apr_2011",
+    "position" : 38,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056689,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "9445917.89",
+      "null" : 8,
+      "average" : "84338.55258928571",
+      "largest" : "1537600.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "41.87"
+      }, {
+        "count" : 18,
+        "item" : "162.00"
+      }, {
+        "count" : 17,
+        "item" : "67000.00"
+      }, {
+        "count" : 16,
+        "item" : "228.67"
+      }, {
+        "count" : 15,
+        "item" : "300.00"
+      }, {
+        "count" : 14,
+        "item" : "57600.00"
+      }, {
+        "count" : 13,
+        "item" : "236.00"
+      }, {
+        "count" : 12,
+        "item" : "220.19"
+      }, {
+        "count" : 11,
+        "item" : "1529.76"
+      }, {
+        "count" : 10,
+        "item" : "385600.00"
+      }, {
+        "count" : 9,
+        "item" : "291.00"
+      }, {
+        "count" : 8,
+        "item" : "1345.14"
+      }, {
+        "count" : 7,
+        "item" : "1282.08"
+      }, {
+        "count" : 6,
+        "item" : "358400.00"
+      }, {
+        "count" : 5,
+        "item" : "341.00"
+      }, {
+        "count" : 4,
+        "item" : "1257.31"
+      }, {
+        "count" : 3,
+        "item" : "372.00"
+      }, {
+        "count" : 2,
+        "item" : "213600.00"
+      }, {
+        "count" : 1,
+        "item" : "6313.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220558,
+    "name" : "May-2011",
+    "dataTypeName" : "number",
+    "fieldName" : "may_2011",
+    "position" : 39,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056690,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "10288775.95",
+      "null" : 8,
+      "average" : "91864.07098214286",
+      "largest" : "1617600.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "203.00"
+      }, {
+        "count" : 18,
+        "item" : "43.26"
+      }, {
+        "count" : 17,
+        "item" : "176.00"
+      }, {
+        "count" : 16,
+        "item" : "75000.00"
+      }, {
+        "count" : 15,
+        "item" : "255.97"
+      }, {
+        "count" : 14,
+        "item" : "300.00"
+      }, {
+        "count" : 13,
+        "item" : "72000.00"
+      }, {
+        "count" : 12,
+        "item" : "196.00"
+      }, {
+        "count" : 11,
+        "item" : "265.33"
+      }, {
+        "count" : 10,
+        "item" : "1538.40"
+      }, {
+        "count" : 9,
+        "item" : "450000.00"
+      }, {
+        "count" : 8,
+        "item" : "537.00"
+      }, {
+        "count" : 7,
+        "item" : "1589.54"
+      }, {
+        "count" : 6,
+        "item" : "1305.60"
+      }, {
+        "count" : 5,
+        "item" : "414400.00"
+      }, {
+        "count" : 4,
+        "item" : "239.00"
+      }, {
+        "count" : 3,
+        "item" : "1438.23"
+      }, {
+        "count" : 2,
+        "item" : "396.00"
+      }, {
+        "count" : 1,
+        "item" : "218400.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220559,
+    "name" : "Jun-2011",
+    "dataTypeName" : "number",
+    "fieldName" : "jun_2011",
+    "position" : 40,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056691,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "9379077.52",
+      "null" : 8,
+      "average" : "83741.76357142857",
+      "largest" : "1403200.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "198.00"
+      }, {
+        "count" : 18,
+        "item" : "53.17"
+      }, {
+        "count" : 17,
+        "item" : "152.00"
+      }, {
+        "count" : 16,
+        "item" : "67800.00"
+      }, {
+        "count" : 15,
+        "item" : "231.40"
+      }, {
+        "count" : 14,
+        "item" : "300.00"
+      }, {
+        "count" : 13,
+        "item" : "79200.00"
+      }, {
+        "count" : 12,
+        "item" : "226.00"
+      }, {
+        "count" : 11,
+        "item" : "292.91"
+      }, {
+        "count" : 10,
+        "item" : "1382.88"
+      }, {
+        "count" : 9,
+        "item" : "397600.00"
+      }, {
+        "count" : 8,
+        "item" : "16524.00"
+      }, {
+        "count" : 7,
+        "item" : "3009.40"
+      }, {
+        "count" : 6,
+        "item" : "1288.80"
+      }, {
+        "count" : 5,
+        "item" : "341600.00"
+      }, {
+        "count" : 4,
+        "item" : "200.00"
+      }, {
+        "count" : 3,
+        "item" : "1185.87"
+      }, {
+        "count" : 2,
+        "item" : "396.00"
+      }, {
+        "count" : 1,
+        "item" : "205200.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220560,
+    "name" : "FY 2012Jul-2011",
+    "dataTypeName" : "number",
+    "fieldName" : "fy_2012jul_2011",
+    "position" : 41,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056692,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "9018391.28",
+      "null" : 8,
+      "average" : "80521.35071428571",
+      "largest" : "1474400.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "616.00"
+      }, {
+        "count" : 18,
+        "item" : "87.25"
+      }, {
+        "count" : 17,
+        "item" : "142.00"
+      }, {
+        "count" : 16,
+        "item" : "60200.00"
+      }, {
+        "count" : 15,
+        "item" : "205.46"
+      }, {
+        "count" : 14,
+        "item" : "264.00"
+      }, {
+        "count" : 13,
+        "item" : "63600.00"
+      }, {
+        "count" : 12,
+        "item" : "239.00"
+      }, {
+        "count" : 11,
+        "item" : "240.96"
+      }, {
+        "count" : 10,
+        "item" : "1193.28"
+      }, {
+        "count" : 9,
+        "item" : "375600.00"
+      }, {
+        "count" : 8,
+        "item" : "18269.00"
+      }, {
+        "count" : 7,
+        "item" : "3108.81"
+      }, {
+        "count" : 6,
+        "item" : "1210.08"
+      }, {
+        "count" : 5,
+        "item" : "350400.00"
+      }, {
+        "count" : 4,
+        "item" : "200.00"
+      }, {
+        "count" : 3,
+        "item" : "1215.90"
+      }, {
+        "count" : 2,
+        "item" : "408.00"
+      }, {
+        "count" : 1,
+        "item" : "238800.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220561,
+    "name" : "Aug-2011",
+    "dataTypeName" : "number",
+    "fieldName" : "aug_2011",
+    "position" : 42,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056693,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "7619627.75",
+      "null" : 8,
+      "average" : "68032.390625",
+      "largest" : "1198400.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "5727.00"
+      }, {
+        "count" : 18,
+        "item" : "3140.00"
+      }, {
+        "count" : 17,
+        "item" : "333.55"
+      }, {
+        "count" : 16,
+        "item" : "128.00"
+      }, {
+        "count" : 15,
+        "item" : "44400.00"
+      }, {
+        "count" : 14,
+        "item" : "151.54"
+      }, {
+        "count" : 13,
+        "item" : "264.00"
+      }, {
+        "count" : 12,
+        "item" : "42000.00"
+      }, {
+        "count" : 11,
+        "item" : "227.00"
+      }, {
+        "count" : 10,
+        "item" : "166.04"
+      }, {
+        "count" : 9,
+        "item" : "1181.52"
+      }, {
+        "count" : 8,
+        "item" : "289200.00"
+      }, {
+        "count" : 7,
+        "item" : "8919.00"
+      }, {
+        "count" : 6,
+        "item" : "1878.93"
+      }, {
+        "count" : 5,
+        "item" : "1041.12"
+      }, {
+        "count" : 4,
+        "item" : "338400.00"
+      }, {
+        "count" : 3,
+        "item" : "241.00"
+      }, {
+        "count" : 2,
+        "item" : "1179.05"
+      }, {
+        "count" : 1,
+        "item" : "396.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220562,
+    "name" : "Sep-2011",
+    "dataTypeName" : "number",
+    "fieldName" : "sep_2011",
+    "position" : 43,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056694,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "7164125.65",
+      "null" : 8,
+      "average" : "63965.40758928571",
+      "largest" : "1261600.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "399.00"
+      }, {
+        "count" : 18,
+        "item" : "20475.00"
+      }, {
+        "count" : 17,
+        "item" : "2048.86"
+      }, {
+        "count" : 16,
+        "item" : "102.00"
+      }, {
+        "count" : 15,
+        "item" : "43800.00"
+      }, {
+        "count" : 14,
+        "item" : "12.00"
+      }, {
+        "count" : 13,
+        "item" : "150.69"
+      }, {
+        "count" : 12,
+        "item" : "108.00"
+      }, {
+        "count" : 11,
+        "item" : "26400.00"
+      }, {
+        "count" : 10,
+        "item" : "5735.00"
+      }, {
+        "count" : 9,
+        "item" : "663.60"
+      }, {
+        "count" : 8,
+        "item" : "671.04"
+      }, {
+        "count" : 7,
+        "item" : "196000.00"
+      }, {
+        "count" : 6,
+        "item" : "10262.00"
+      }, {
+        "count" : 5,
+        "item" : "1695.14"
+      }, {
+        "count" : 4,
+        "item" : "942.72"
+      }, {
+        "count" : 3,
+        "item" : "307200.00"
+      }, {
+        "count" : 2,
+        "item" : "4607.00"
+      }, {
+        "count" : 1,
+        "item" : "1509.16"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220563,
+    "name" : "Oct-2011",
+    "dataTypeName" : "number",
+    "fieldName" : "oct_2011",
+    "position" : 44,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056695,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "6971240.97",
+      "null" : 8,
+      "average" : "62243.22294642857",
+      "largest" : "1137600.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "164.00"
+      }, {
+        "count" : 18,
+        "item" : "24850.00"
+      }, {
+        "count" : 17,
+        "item" : "2485.56"
+      }, {
+        "count" : 16,
+        "item" : "90.00"
+      }, {
+        "count" : 15,
+        "item" : "37200.00"
+      }, {
+        "count" : 14,
+        "item" : "962.00"
+      }, {
+        "count" : 13,
+        "item" : "223.16"
+      }, {
+        "count" : 12,
+        "item" : "96.00"
+      }, {
+        "count" : 11,
+        "item" : "20400.00"
+      }, {
+        "count" : 10,
+        "item" : "6052.00"
+      }, {
+        "count" : 9,
+        "item" : "674.82"
+      }, {
+        "count" : 8,
+        "item" : "533.04"
+      }, {
+        "count" : 7,
+        "item" : "210800.00"
+      }, {
+        "count" : 6,
+        "item" : "16664.00"
+      }, {
+        "count" : 5,
+        "item" : "2385.85"
+      }, {
+        "count" : 4,
+        "item" : "974.40"
+      }, {
+        "count" : 3,
+        "item" : "293600.00"
+      }, {
+        "count" : 2,
+        "item" : "8182.00"
+      }, {
+        "count" : 1,
+        "item" : "1820.25"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220564,
+    "name" : "Nov-2011",
+    "dataTypeName" : "number",
+    "fieldName" : "nov_2011",
+    "position" : 45,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056696,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "7119603.65",
+      "null" : 8,
+      "average" : "63567.88973214286",
+      "largest" : "1174400.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "5.00"
+      }, {
+        "count" : 18,
+        "item" : "33621.00"
+      }, {
+        "count" : 17,
+        "item" : "3362.12"
+      }, {
+        "count" : 16,
+        "item" : "88.00"
+      }, {
+        "count" : 15,
+        "item" : "39600.00"
+      }, {
+        "count" : 14,
+        "item" : "1393.00"
+      }, {
+        "count" : 13,
+        "item" : "274.45"
+      }, {
+        "count" : 12,
+        "item" : "120.00"
+      }, {
+        "count" : 11,
+        "item" : "25200.00"
+      }, {
+        "count" : 10,
+        "item" : "11897.00"
+      }, {
+        "count" : 9,
+        "item" : "1275.71"
+      }, {
+        "count" : 8,
+        "item" : "227200.00"
+      }, {
+        "count" : 7,
+        "item" : "31496.00"
+      }, {
+        "count" : 6,
+        "item" : "3925.03"
+      }, {
+        "count" : 5,
+        "item" : "765.12"
+      }, {
+        "count" : 4,
+        "item" : "277600.00"
+      }, {
+        "count" : 3,
+        "item" : "15852.00"
+      }, {
+        "count" : 2,
+        "item" : "2532.64"
+      }, {
+        "count" : 1,
+        "item" : "372.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220565,
+    "name" : "Dec-2011",
+    "dataTypeName" : "number",
+    "fieldName" : "dec_2011",
+    "position" : 46,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056697,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "7333405.67",
+      "null" : 8,
+      "average" : "65476.83633928571",
+      "largest" : "1220800.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "2523.50"
+      }, {
+        "count" : 18,
+        "item" : "90.00"
+      }, {
+        "count" : 17,
+        "item" : "41000.00"
+      }, {
+        "count" : 16,
+        "item" : "2918.00"
+      }, {
+        "count" : 15,
+        "item" : "431.73"
+      }, {
+        "count" : 14,
+        "item" : "108.00"
+      }, {
+        "count" : 13,
+        "item" : "28800.00"
+      }, {
+        "count" : 12,
+        "item" : "6620.00"
+      }, {
+        "count" : 11,
+        "item" : "760.29"
+      }, {
+        "count" : 10,
+        "item" : "506.64"
+      }, {
+        "count" : 9,
+        "item" : "218000.00"
+      }, {
+        "count" : 8,
+        "item" : "20591.00"
+      }, {
+        "count" : 7,
+        "item" : "2803.13"
+      }, {
+        "count" : 6,
+        "item" : "712.80"
+      }, {
+        "count" : 5,
+        "item" : "315200.00"
+      }, {
+        "count" : 4,
+        "item" : "14056.00"
+      }, {
+        "count" : 3,
+        "item" : "2481.37"
+      }, {
+        "count" : 2,
+        "item" : "348.00"
+      }, {
+        "count" : 1,
+        "item" : "210000.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220566,
+    "name" : "Jan-2012",
+    "dataTypeName" : "number",
+    "fieldName" : "jan_2012",
+    "position" : 47,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056698,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "6611523.06",
+      "null" : 8,
+      "average" : "59031.45589285714",
+      "largest" : "1128800.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "121600.00"
+      }, {
+        "count" : 19,
+        "item" : "0.00"
+      }, {
+        "count" : 18,
+        "item" : "130.00"
+      }, {
+        "count" : 17,
+        "item" : "39400.00"
+      }, {
+        "count" : 16,
+        "item" : "2398.00"
+      }, {
+        "count" : 15,
+        "item" : "374.27"
+      }, {
+        "count" : 14,
+        "item" : "108.00"
+      }, {
+        "count" : 13,
+        "item" : "21600.00"
+      }, {
+        "count" : 12,
+        "item" : "5761.00"
+      }, {
+        "count" : 11,
+        "item" : "649.82"
+      }, {
+        "count" : 10,
+        "item" : "502.56"
+      }, {
+        "count" : 9,
+        "item" : "196000.00"
+      }, {
+        "count" : 8,
+        "item" : "16893.00"
+      }, {
+        "count" : 7,
+        "item" : "2358.24"
+      }, {
+        "count" : 6,
+        "item" : "712.80"
+      }, {
+        "count" : 5,
+        "item" : "292000.00"
+      }, {
+        "count" : 4,
+        "item" : "9498.00"
+      }, {
+        "count" : 3,
+        "item" : "1946.39"
+      }, {
+        "count" : 2,
+        "item" : "360.00"
+      }, {
+        "count" : 1,
+        "item" : "188400.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220567,
+    "name" : "Feb-2012",
+    "dataTypeName" : "number",
+    "fieldName" : "feb_2012",
+    "position" : 48,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056699,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "6522066.72",
+      "null" : 8,
+      "average" : "58232.73857142857",
+      "largest" : "1109600.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "138.00"
+      }, {
+        "count" : 18,
+        "item" : "8991.00"
+      }, {
+        "count" : 17,
+        "item" : "899.57"
+      }, {
+        "count" : 16,
+        "item" : "136.00"
+      }, {
+        "count" : 15,
+        "item" : "32200.00"
+      }, {
+        "count" : 14,
+        "item" : "1156.00"
+      }, {
+        "count" : 13,
+        "item" : "225.50"
+      }, {
+        "count" : 12,
+        "item" : "240.00"
+      }, {
+        "count" : 11,
+        "item" : "26400.00"
+      }, {
+        "count" : 10,
+        "item" : "3412.00"
+      }, {
+        "count" : 9,
+        "item" : "431.30"
+      }, {
+        "count" : 8,
+        "item" : "750.00"
+      }, {
+        "count" : 7,
+        "item" : "205600.00"
+      }, {
+        "count" : 6,
+        "item" : "8406.00"
+      }, {
+        "count" : 5,
+        "item" : "1542.31"
+      }, {
+        "count" : 4,
+        "item" : "981.60"
+      }, {
+        "count" : 3,
+        "item" : "276000.00"
+      }, {
+        "count" : 2,
+        "item" : "5865.00"
+      }, {
+        "count" : 1,
+        "item" : "1528.48"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220568,
+    "name" : "Mar-2012",
+    "dataTypeName" : "number",
+    "fieldName" : "mar_2012",
+    "position" : 49,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056700,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "6890940.13",
+      "null" : 8,
+      "average" : "61526.25116071429",
+      "largest" : "1126400.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "264.00"
+      }, {
+        "count" : 18,
+        "item" : "4167.00"
+      }, {
+        "count" : 17,
+        "item" : "417.60"
+      }, {
+        "count" : 16,
+        "item" : "130.00"
+      }, {
+        "count" : 15,
+        "item" : "32200.00"
+      }, {
+        "count" : 14,
+        "item" : "327.00"
+      }, {
+        "count" : 13,
+        "item" : "142.60"
+      }, {
+        "count" : 12,
+        "item" : "240.00"
+      }, {
+        "count" : 11,
+        "item" : "36000.00"
+      }, {
+        "count" : 10,
+        "item" : "1078.00"
+      }, {
+        "count" : 9,
+        "item" : "230.67"
+      }, {
+        "count" : 8,
+        "item" : "1226.64"
+      }, {
+        "count" : 7,
+        "item" : "255600.00"
+      }, {
+        "count" : 6,
+        "item" : "7770.00"
+      }, {
+        "count" : 5,
+        "item" : "1649.36"
+      }, {
+        "count" : 4,
+        "item" : "972.48"
+      }, {
+        "count" : 3,
+        "item" : "292000.00"
+      }, {
+        "count" : 2,
+        "item" : "1998.00"
+      }, {
+        "count" : 1,
+        "item" : "1196.39"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220569,
+    "name" : "Apr-2012",
+    "dataTypeName" : "number",
+    "fieldName" : "apr_2012",
+    "position" : 50,
+    "renderTypeName" : "number",
+    "tableColumnId" : 4056701,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 112,
+      "smallest" : "0.00",
+      "sum" : "8549911.17",
+      "null" : 8,
+      "average" : "76338.49258928571",
+      "largest" : "1392800.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "2303.00"
+      }, {
+        "count" : 18,
+        "item" : "23.00"
+      }, {
+        "count" : 17,
+        "item" : "10.16"
+      }, {
+        "count" : 16,
+        "item" : "162.00"
+      }, {
+        "count" : 15,
+        "item" : "67000.00"
+      }, {
+        "count" : 14,
+        "item" : "127.00"
+      }, {
+        "count" : 13,
+        "item" : "241.37"
+      }, {
+        "count" : 12,
+        "item" : "300.00"
+      }, {
+        "count" : 11,
+        "item" : "57600.00"
+      }, {
+        "count" : 10,
+        "item" : "213.00"
+      }, {
+        "count" : 9,
+        "item" : "217.89"
+      }, {
+        "count" : 8,
+        "item" : "1226.64"
+      }, {
+        "count" : 7,
+        "item" : "255600.00"
+      }, {
+        "count" : 6,
+        "item" : "1095.00"
+      }, {
+        "count" : 5,
+        "item" : "981.86"
+      }, {
+        "count" : 4,
+        "item" : "1275.36"
+      }, {
+        "count" : 3,
+        "item" : "368000.00"
+      }, {
+        "count" : 2,
+        "item" : "273.00"
+      }, {
+        "count" : 1,
+        "item" : "1283.27"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220570,
+    "name" : "May-2012",
+    "dataTypeName" : "text",
+    "fieldName" : "may_2012",
+    "position" : 51,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4056702,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 120
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220571,
+    "name" : "Jun-2012",
+    "dataTypeName" : "text",
+    "fieldName" : "jun_2012",
+    "position" : 52,
+    "renderTypeName" : "text",
+    "tableColumnId" : 4056703,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 120
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17220572,
+    "name" : "Location 1",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 53,
+    "renderTypeName" : "location",
+    "tableColumnId" : 4056704,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 120
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "energy usage from dcas buildings", "electricity", "steam", "data", "building", "btu", "watts", "heat", "oil", "dcas" ],
+  "flags" : [ "default" ]
+}

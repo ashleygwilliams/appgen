@@ -1,0 +1,759 @@
+{
+  "id" : "4kse-vfnd",
+  "name" : "English Language Arts (ELA) Test Results by Grade 2006-2011 - Boro - All Students",
+  "attribution" : "Department of Education (DOE)",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1317844639,
+  "description" : "New York City Results on the New York State English Language Arts (ELA) Tests, Grades 3 - 8\r\nNotes:\r\nAs of 2006, the New York State Education Department expanded the ELA and mathematics testing programs to Grades 3-8. Previously, state tests were administered in Grades 4 and 8 and citywide tests were administered in Grades 3, 5, 6, and 7.\r\nStarting in 2010, NYSED changed the scale score required to meet each of the proficiency levels, increasing the number of questions students needed to answer correctly to meet proficiency.\r\nIn 2007, the New York State Education Department updated its testing policy for English Language Learners: ELLs in an English Language School System for more than one year are required to take the ELA exam. Previously, ELLs in an English Language School System for less than 3 years were exempt from taking the ELA exam.",
+  "displayType" : "table",
+  "downloadCount" : 16,
+  "numberOfComments" : 0,
+  "oid" : 340504,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318353270,
+  "publicationGroup" : 243263,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1317844641,
+  "rowsUpdatedBy" : "rnig-m3uj",
+  "signed" : false,
+  "tableId" : 243263,
+  "totalTimesRated" : 0,
+  "viewCount" : 16,
+  "viewLastModified" : 1363700814,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2959212,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1553741,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 210,
+      "smallest" : "BRONX",
+      "null" : 0,
+      "largest" : "STATEN ISLAND",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BRONX"
+      }, {
+        "count" : 19,
+        "item" : "BROOKLYN"
+      }, {
+        "count" : 18,
+        "item" : "MANHATTAN"
+      }, {
+        "count" : 17,
+        "item" : "QUEENS"
+      }, {
+        "count" : 16,
+        "item" : "STATEN ISLAND"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2959213,
+    "name" : "Grade",
+    "dataTypeName" : "text",
+    "fieldName" : "grade",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1553742,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 210,
+      "smallest" : "3",
+      "null" : 0,
+      "largest" : "All Grades",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3"
+      }, {
+        "count" : 19,
+        "item" : "4"
+      }, {
+        "count" : 18,
+        "item" : "5"
+      }, {
+        "count" : 17,
+        "item" : "6"
+      }, {
+        "count" : 16,
+        "item" : "7"
+      }, {
+        "count" : 15,
+        "item" : "8"
+      }, {
+        "count" : 14,
+        "item" : "All Grades"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2959214,
+    "name" : "Year",
+    "dataTypeName" : "text",
+    "fieldName" : "year",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1553743,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 210,
+      "smallest" : "2006",
+      "null" : 0,
+      "largest" : "2011",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2006"
+      }, {
+        "count" : 19,
+        "item" : "2007"
+      }, {
+        "count" : 18,
+        "item" : "2008"
+      }, {
+        "count" : 17,
+        "item" : "2009"
+      }, {
+        "count" : 16,
+        "item" : "2010"
+      }, {
+        "count" : 15,
+        "item" : "2011"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2959215,
+    "name" : "Category",
+    "dataTypeName" : "text",
+    "fieldName" : "category",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1553744,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 210,
+      "smallest" : "All Students",
+      "null" : 0,
+      "largest" : "All Students",
+      "top" : [ {
+        "count" : 20,
+        "item" : "All Students"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2959216,
+    "name" : "Number Tested",
+    "dataTypeName" : "number",
+    "fieldName" : "number_tested",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1553745,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 210,
+      "smallest" : "3992",
+      "sum" : "4985574",
+      "null" : 0,
+      "average" : "23740.82857142857",
+      "largest" : "135447",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4297"
+      }, {
+        "count" : 19,
+        "item" : "25666"
+      }, {
+        "count" : 18,
+        "item" : "25943"
+      }, {
+        "count" : 17,
+        "item" : "26160"
+      }, {
+        "count" : 16,
+        "item" : "26389"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2959217,
+    "name" : "Mean Scale Score",
+    "dataTypeName" : "number",
+    "fieldName" : "mean_scale_score",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1553746,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 210,
+      "smallest" : "630",
+      "sum" : "138061",
+      "null" : 0,
+      "average" : "657.4333333333333",
+      "largest" : "674",
+      "top" : [ {
+        "count" : 20,
+        "item" : "650"
+      }, {
+        "count" : 19,
+        "item" : "645"
+      }, {
+        "count" : 18,
+        "item" : "649"
+      }, {
+        "count" : 17,
+        "item" : "655"
+      }, {
+        "count" : 16,
+        "item" : "657"
+      }, {
+        "count" : 15,
+        "item" : "654"
+      }, {
+        "count" : 14,
+        "item" : "647"
+      }, {
+        "count" : 13,
+        "item" : "644"
+      }, {
+        "count" : 12,
+        "item" : "658"
+      }, {
+        "count" : 11,
+        "item" : "660"
+      }, {
+        "count" : 10,
+        "item" : "642"
+      }, {
+        "count" : 9,
+        "item" : "652"
+      }, {
+        "count" : 8,
+        "item" : "662"
+      }, {
+        "count" : 7,
+        "item" : "661"
+      }, {
+        "count" : 6,
+        "item" : "637"
+      }, {
+        "count" : 5,
+        "item" : "643"
+      }, {
+        "count" : 4,
+        "item" : "653"
+      }, {
+        "count" : 3,
+        "item" : "632"
+      }, {
+        "count" : 2,
+        "item" : "635"
+      }, {
+        "count" : 1,
+        "item" : "630"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2959218,
+    "name" : "Level 1 #",
+    "dataTypeName" : "number",
+    "fieldName" : "level_1_1",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1553747,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 210,
+      "smallest" : "11",
+      "sum" : "474824",
+      "null" : 0,
+      "average" : "2261.066666666667",
+      "largest" : "19913",
+      "top" : [ {
+        "count" : 20,
+        "item" : "262"
+      }, {
+        "count" : 19,
+        "item" : "398"
+      }, {
+        "count" : 18,
+        "item" : "572"
+      }, {
+        "count" : 17,
+        "item" : "3022"
+      }, {
+        "count" : 16,
+        "item" : "2603"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2959219,
+    "name" : "Level 1 %",
+    "dataTypeName" : "percent",
+    "fieldName" : "level_1_2",
+    "position" : 9,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1553748,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 210,
+      "smallest" : "0.1",
+      "sum" : "1947.5",
+      "null" : 0,
+      "average" : "9.273809523809524",
+      "largest" : "24.9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11.1"
+      }, {
+        "count" : 19,
+        "item" : "2.5"
+      }, {
+        "count" : 18,
+        "item" : "13.5"
+      }, {
+        "count" : 17,
+        "item" : "7.4"
+      }, {
+        "count" : 16,
+        "item" : "5.9"
+      }, {
+        "count" : 15,
+        "item" : "1.8"
+      }, {
+        "count" : 14,
+        "item" : "6.7"
+      }, {
+        "count" : 13,
+        "item" : "12.6"
+      }, {
+        "count" : 12,
+        "item" : "6.5"
+      }, {
+        "count" : 11,
+        "item" : "7.1"
+      }, {
+        "count" : 10,
+        "item" : "8.4"
+      }, {
+        "count" : 9,
+        "item" : "4.8"
+      }, {
+        "count" : 8,
+        "item" : "9.6"
+      }, {
+        "count" : 7,
+        "item" : "8.2"
+      }, {
+        "count" : 6,
+        "item" : "5.3"
+      }, {
+        "count" : 5,
+        "item" : "4.0"
+      }, {
+        "count" : 4,
+        "item" : "1.9"
+      }, {
+        "count" : 3,
+        "item" : "0.4"
+      }, {
+        "count" : 2,
+        "item" : "10.8"
+      }, {
+        "count" : 1,
+        "item" : "8.6"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2959220,
+    "name" : "Level 2 #",
+    "dataTypeName" : "number",
+    "fieldName" : "level_2_1",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1553749,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 210,
+      "smallest" : "745",
+      "sum" : "1895748",
+      "null" : 0,
+      "average" : "9027.371428571429",
+      "largest" : "55337",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1035"
+      }, {
+        "count" : 19,
+        "item" : "7476"
+      }, {
+        "count" : 18,
+        "item" : "5796"
+      }, {
+        "count" : 17,
+        "item" : "10249"
+      }, {
+        "count" : 16,
+        "item" : "10181"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2959221,
+    "name" : "Level 2 %",
+    "dataTypeName" : "percent",
+    "fieldName" : "level_2_2",
+    "position" : 11,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1553750,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 210,
+      "smallest" : "17.2",
+      "sum" : "7816.1",
+      "null" : 0,
+      "average" : "37.21952380952381",
+      "largest" : "61.8",
+      "top" : [ {
+        "count" : 20,
+        "item" : "37.0"
+      }, {
+        "count" : 19,
+        "item" : "35.6"
+      }, {
+        "count" : 18,
+        "item" : "22.3"
+      }, {
+        "count" : 17,
+        "item" : "39.2"
+      }, {
+        "count" : 16,
+        "item" : "38.6"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2959222,
+    "name" : "Level 3 #",
+    "dataTypeName" : "number",
+    "fieldName" : "level_3_1",
+    "position" : 12,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1553751,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 210,
+      "smallest" : "1598",
+      "sum" : "2362196",
+      "null" : 0,
+      "average" : "11248.55238095238",
+      "largest" : "80814",
+      "top" : [ {
+        "count" : 20,
+        "item" : "14412"
+      }, {
+        "count" : 19,
+        "item" : "15706"
+      }, {
+        "count" : 18,
+        "item" : "17672"
+      }, {
+        "count" : 17,
+        "item" : "10650"
+      }, {
+        "count" : 16,
+        "item" : "12814"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2959223,
+    "name" : "Level 3 %",
+    "dataTypeName" : "percent",
+    "fieldName" : "level_3_2",
+    "position" : 13,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1553752,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 210,
+      "smallest" : "21.6",
+      "sum" : "10115.3",
+      "null" : 0,
+      "average" : "48.16809523809524",
+      "largest" : "73.8",
+      "top" : [ {
+        "count" : 20,
+        "item" : "55.8"
+      }, {
+        "count" : 19,
+        "item" : "61.2"
+      }, {
+        "count" : 18,
+        "item" : "68.1"
+      }, {
+        "count" : 17,
+        "item" : "40.7"
+      }, {
+        "count" : 16,
+        "item" : "48.6"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2959224,
+    "name" : "Level 4 #",
+    "dataTypeName" : "number",
+    "fieldName" : "level_4_1",
+    "position" : 14,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1553753,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 210,
+      "smallest" : "36",
+      "sum" : "252806",
+      "null" : 0,
+      "average" : "1203.838095238095",
+      "largest" : "11039",
+      "top" : [ {
+        "count" : 20,
+        "item" : "257"
+      }, {
+        "count" : 19,
+        "item" : "297"
+      }, {
+        "count" : 18,
+        "item" : "1903"
+      }, {
+        "count" : 17,
+        "item" : "2239"
+      }, {
+        "count" : 16,
+        "item" : "791"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2959225,
+    "name" : "Level 4 %",
+    "dataTypeName" : "percent",
+    "fieldName" : "level_4_2",
+    "position" : 15,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1553754,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 210,
+      "smallest" : "0.2",
+      "sum" : "1120.6",
+      "null" : 0,
+      "average" : "5.336190476190476",
+      "largest" : "16.8",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5.7"
+      }, {
+        "count" : 19,
+        "item" : "8.3"
+      }, {
+        "count" : 18,
+        "item" : "9.7"
+      }, {
+        "count" : 17,
+        "item" : "6.2"
+      }, {
+        "count" : 16,
+        "item" : "10.0"
+      }, {
+        "count" : 15,
+        "item" : "3.9"
+      }, {
+        "count" : 14,
+        "item" : "6.5"
+      }, {
+        "count" : 13,
+        "item" : "6.0"
+      }, {
+        "count" : 12,
+        "item" : "7.2"
+      }, {
+        "count" : 11,
+        "item" : "5.9"
+      }, {
+        "count" : 10,
+        "item" : "4.3"
+      }, {
+        "count" : 9,
+        "item" : "3.2"
+      }, {
+        "count" : 8,
+        "item" : "12.2"
+      }, {
+        "count" : 7,
+        "item" : "6.6"
+      }, {
+        "count" : 6,
+        "item" : "13.1"
+      }, {
+        "count" : 5,
+        "item" : "4.2"
+      }, {
+        "count" : 4,
+        "item" : "11.0"
+      }, {
+        "count" : 3,
+        "item" : "6.9"
+      }, {
+        "count" : 2,
+        "item" : "3.4"
+      }, {
+        "count" : 1,
+        "item" : "7.0"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2959226,
+    "name" : "Level 3+4 #",
+    "dataTypeName" : "number",
+    "fieldName" : "level_3_4_1",
+    "position" : 16,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1553755,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 210,
+      "smallest" : "1797",
+      "sum" : "2615002",
+      "null" : 0,
+      "average" : "12452.39047619048",
+      "largest" : "88262",
+      "top" : [ {
+        "count" : 20,
+        "item" : "15932"
+      }, {
+        "count" : 19,
+        "item" : "17165"
+      }, {
+        "count" : 18,
+        "item" : "19575"
+      }, {
+        "count" : 17,
+        "item" : "12889"
+      }, {
+        "count" : 16,
+        "item" : "13605"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2959227,
+    "name" : "Level 3+4 %",
+    "dataTypeName" : "percent",
+    "fieldName" : "level_3_4_2",
+    "position" : 17,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1553756,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 210,
+      "smallest" : "22.0",
+      "sum" : "11236.1",
+      "null" : 0,
+      "average" : "53.50523809523810",
+      "largest" : "82.4",
+      "top" : [ {
+        "count" : 20,
+        "item" : "61.7"
+      }, {
+        "count" : 19,
+        "item" : "66.9"
+      }, {
+        "count" : 18,
+        "item" : "75.5"
+      }, {
+        "count" : 17,
+        "item" : "49.3"
+      }, {
+        "count" : 16,
+        "item" : "51.6"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Historical Data"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "rnig-m3uj",
+    "displayName" : "Jorge J.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/5083/4460/large-profile_large.png",
+    "profileImageUrlMedium" : "/images/profile/5083/4460/large-profile_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/5083/4460/large-profile_tiny.png",
+    "profileLastModified" : 1322859437,
+    "screenName" : "Jorge J."
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rnig-m3uj",
+    "displayName" : "Jorge J.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/5083/4460/large-profile_large.png",
+    "profileImageUrlMedium" : "/images/profile/5083/4460/large-profile_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/5083/4460/large-profile_tiny.png",
+    "profileLastModified" : 1322859437,
+    "screenName" : "Jorge J."
+  },
+  "tags" : [ "lifelong learning" ],
+  "flags" : [ "default" ]
+}

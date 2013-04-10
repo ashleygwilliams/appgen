@@ -1,0 +1,445 @@
+{
+  "id" : "miqs-rvtb",
+  "name" : "Projected Median Age By Borough 2000-2030",
+  "attribution" : "Department of City Planning (DCP)",
+  "averageRating" : 0,
+  "category" : "Statistics",
+  "createdAt" : 1319564403,
+  "description" : "Median Age of the population of New York City in total and by Borough: unadjusted decennial census data from 1950-2000 and projected figures from 2010-2030.",
+  "displayType" : "table",
+  "downloadCount" : 11,
+  "numberOfComments" : 0,
+  "oid" : 353614,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1319564573,
+  "publicationGroup" : 248168,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1319564552,
+  "rowsUpdatedBy" : "rnig-m3uj",
+  "signed" : false,
+  "tableId" : 248168,
+  "totalTimesRated" : 0,
+  "viewCount" : 100,
+  "viewLastModified" : 1319564573,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3247984,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1625264,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "   Bronx",
+      "null" : 0,
+      "largest" : "   Staten Island",
+      "top" : [ {
+        "count" : 1,
+        "item" : "   Manhattan"
+      }, {
+        "count" : 1,
+        "item" : "   Bronx"
+      }, {
+        "count" : 1,
+        "item" : "   Brooklyn"
+      }, {
+        "count" : 1,
+        "item" : "   Queens"
+      }, {
+        "count" : 1,
+        "item" : "   Staten Island"
+      }, {
+        "count" : 1,
+        "item" : "New York City (all boroughs)"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3247985,
+    "name" : "1950",
+    "dataTypeName" : "number",
+    "fieldName" : "_1",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625265,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "31.9",
+      "sum" : "204.9",
+      "null" : 0,
+      "average" : "34.15",
+      "largest" : "36.6",
+      "top" : [ {
+        "count" : 2,
+        "item" : "34.4"
+      }, {
+        "count" : 1,
+        "item" : "36.6"
+      }, {
+        "count" : 1,
+        "item" : "31.9"
+      }, {
+        "count" : 1,
+        "item" : "34.5"
+      }, {
+        "count" : 1,
+        "item" : "33.1"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3247986,
+    "name" : "1960",
+    "dataTypeName" : "number",
+    "fieldName" : "_2",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625266,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "31.5",
+      "sum" : "207.800000000000003",
+      "null" : 0,
+      "average" : "34.63333333333333",
+      "largest" : "37.6",
+      "top" : [ {
+        "count" : 1,
+        "item" : "35.700000000000003"
+      }, {
+        "count" : 1,
+        "item" : "35.1"
+      }, {
+        "count" : 1,
+        "item" : "33.5"
+      }, {
+        "count" : 1,
+        "item" : "31.5"
+      }, {
+        "count" : 1,
+        "item" : "34.4"
+      }, {
+        "count" : 1,
+        "item" : "37.6"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3247987,
+    "name" : "1970",
+    "dataTypeName" : "number",
+    "fieldName" : "_3",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625267,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "28.2",
+      "sum" : "191.2",
+      "null" : 0,
+      "average" : "31.86666666666667",
+      "largest" : "35.5",
+      "top" : [ {
+        "count" : 1,
+        "item" : "32.4"
+      }, {
+        "count" : 1,
+        "item" : "28.2"
+      }, {
+        "count" : 1,
+        "item" : "35.4"
+      }, {
+        "count" : 1,
+        "item" : "29.6"
+      }, {
+        "count" : 1,
+        "item" : "30.1"
+      }, {
+        "count" : 1,
+        "item" : "35.5"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3247988,
+    "name" : "1980",
+    "dataTypeName" : "number",
+    "fieldName" : "_4",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625268,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "30.3",
+      "sum" : "194.000000000000003",
+      "null" : 0,
+      "average" : "32.33333333333333",
+      "largest" : "34.9",
+      "top" : [ {
+        "count" : 1,
+        "item" : "34.6"
+      }, {
+        "count" : 1,
+        "item" : "30.8"
+      }, {
+        "count" : 1,
+        "item" : "30.7"
+      }, {
+        "count" : 1,
+        "item" : "34.9"
+      }, {
+        "count" : 1,
+        "item" : "32.700000000000003"
+      }, {
+        "count" : 1,
+        "item" : "30.3"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3247989,
+    "name" : "1990",
+    "dataTypeName" : "number",
+    "fieldName" : "_5",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625269,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "30.9",
+      "sum" : "201.300000000000000",
+      "null" : 0,
+      "average" : "33.55000000000000",
+      "largest" : "35.9",
+      "top" : [ {
+        "count" : 1,
+        "item" : "35.200000000000003"
+      }, {
+        "count" : 1,
+        "item" : "33.700000000000003"
+      }, {
+        "count" : 1,
+        "item" : "32.299999999999997"
+      }, {
+        "count" : 1,
+        "item" : "33.299999999999997"
+      }, {
+        "count" : 1,
+        "item" : "30.9"
+      }, {
+        "count" : 1,
+        "item" : "35.9"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3247990,
+    "name" : "2000",
+    "dataTypeName" : "number",
+    "fieldName" : "_6",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625270,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "31.2",
+      "sum" : "205.700000000000000",
+      "null" : 0,
+      "average" : "34.28333333333333",
+      "largest" : "36",
+      "top" : [ {
+        "count" : 1,
+        "item" : "36"
+      }, {
+        "count" : 1,
+        "item" : "34.200000000000003"
+      }, {
+        "count" : 1,
+        "item" : "35.4"
+      }, {
+        "count" : 1,
+        "item" : "35.799999999999997"
+      }, {
+        "count" : 1,
+        "item" : "31.2"
+      }, {
+        "count" : 1,
+        "item" : "33.1"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3247991,
+    "name" : "2010",
+    "dataTypeName" : "number",
+    "fieldName" : "_7",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625271,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "31.5",
+      "sum" : "213.000000000000000",
+      "null" : 0,
+      "average" : "35.50000000000000",
+      "largest" : "38",
+      "top" : [ {
+        "count" : 1,
+        "item" : "37.700000000000003"
+      }, {
+        "count" : 1,
+        "item" : "38"
+      }, {
+        "count" : 1,
+        "item" : "34.299999999999997"
+      }, {
+        "count" : 1,
+        "item" : "36.200000000000003"
+      }, {
+        "count" : 1,
+        "item" : "35.299999999999997"
+      }, {
+        "count" : 1,
+        "item" : "31.5"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3247992,
+    "name" : "2020",
+    "dataTypeName" : "number",
+    "fieldName" : "_8",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625272,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "31.7",
+      "sum" : "216.100000000000000",
+      "null" : 0,
+      "average" : "36.01666666666667",
+      "largest" : "38.5",
+      "top" : [ {
+        "count" : 1,
+        "item" : "35.200000000000003"
+      }, {
+        "count" : 1,
+        "item" : "35.799999999999997"
+      }, {
+        "count" : 1,
+        "item" : "36.5"
+      }, {
+        "count" : 1,
+        "item" : "31.7"
+      }, {
+        "count" : 1,
+        "item" : "38.4"
+      }, {
+        "count" : 1,
+        "item" : "38.5"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3247993,
+    "name" : "2030",
+    "dataTypeName" : "number",
+    "fieldName" : "_9",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1625273,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "33.299999999999997",
+      "sum" : "224.799999999999997",
+      "null" : 0,
+      "average" : "37.46666666666667",
+      "largest" : "39.700000000000003",
+      "top" : [ {
+        "count" : 1,
+        "item" : "37.4"
+      }, {
+        "count" : 1,
+        "item" : "37.799999999999997"
+      }, {
+        "count" : 1,
+        "item" : "33.299999999999997"
+      }, {
+        "count" : 1,
+        "item" : "39.700000000000003"
+      }, {
+        "count" : 1,
+        "item" : "39.5"
+      }, {
+        "count" : 1,
+        "item" : "37.1"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Historical Data"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "rnig-m3uj",
+    "displayName" : "Jorge J.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/5083/4460/large-profile_large.png",
+    "profileImageUrlMedium" : "/images/profile/5083/4460/large-profile_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/5083/4460/large-profile_tiny.png",
+    "profileLastModified" : 1322859437,
+    "screenName" : "Jorge J."
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rnig-m3uj",
+    "displayName" : "Jorge J.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/5083/4460/large-profile_large.png",
+    "profileImageUrlMedium" : "/images/profile/5083/4460/large-profile_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/5083/4460/large-profile_tiny.png",
+    "profileLastModified" : 1322859437,
+    "screenName" : "Jorge J."
+  },
+  "flags" : [ "default" ]
+}

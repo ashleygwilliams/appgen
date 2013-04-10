@@ -1,0 +1,245 @@
+{
+  "id" : "2enn-s52j",
+  "name" : "Adult family health plus levels",
+  "attribution" : "Human Resources Administration (HRA)",
+  "attributionLink" : "http://www.nyc.gov/html/hia/html/public_insurance/adults.shtml",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1363716443,
+  "description" : "This table represents details of Family Health Plus insurance program. Family Health Plus is a public health insurance program for adults between the ages of 19 and 64 who do not have health insurance - either on their own or through their employers - but have incomes too high to qualify for Medicaid.  The Family Health Plus Premium Assistance Program is available to help eligible lower-income employees and their families participate in their employer’s health insurance plan.",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2882507,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363727171,
+  "publicationGroup" : 743053,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1363727090,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 743524,
+  "totalTimesRated" : 0,
+  "viewCount" : 5,
+  "viewLastModified" : 1363727179,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 51693532,
+    "name" : "Family Size",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "family_size",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8756771,
+    "width" : 249,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "1",
+      "null" : 0,
+      "largest" : "Single Adult and 19 - 20 Years Old\nliving alone ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Single Adult and 19 - 20 Years Old\nliving alone "
+      }, {
+        "count" : 19,
+        "item" : "Couples with No Childrens"
+      }, {
+        "count" : 18,
+        "item" : "1"
+      }, {
+        "count" : 17,
+        "item" : "2"
+      }, {
+        "count" : 16,
+        "item" : "3"
+      }, {
+        "count" : 15,
+        "item" : "4"
+      }, {
+        "count" : 14,
+        "item" : "5"
+      }, {
+        "count" : 13,
+        "item" : "For each additional person add"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51693533,
+    "name" : "Yearly Income ($)",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "yearly_income",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8756772,
+    "width" : 94,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "11172",
+      "null" : 0,
+      "largest" : "5940",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11172"
+      }, {
+        "count" : 19,
+        "item" : "15132"
+      }, {
+        "count" : 18,
+        "item" : "16764"
+      }, {
+        "count" : 17,
+        "item" : "22704"
+      }, {
+        "count" : 16,
+        "item" : "28644"
+      }, {
+        "count" : 15,
+        "item" : "34584"
+      }, {
+        "count" : 14,
+        "item" : "40524"
+      }, {
+        "count" : 13,
+        "item" : "5940"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 51693534,
+    "name" : "Monthly Income ($)",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "monthly_income",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8756773,
+    "width" : 105,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "1261",
+      "null" : 0,
+      "largest" : "931",
+      "top" : [ {
+        "count" : 20,
+        "item" : "931"
+      }, {
+        "count" : 19,
+        "item" : "1261"
+      }, {
+        "count" : 18,
+        "item" : "1397"
+      }, {
+        "count" : 17,
+        "item" : "1892"
+      }, {
+        "count" : 16,
+        "item" : "2387"
+      }, {
+        "count" : 15,
+        "item" : "2882"
+      }, {
+        "count" : 14,
+        "item" : "3377"
+      }, {
+        "count" : 13,
+        "item" : "495"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 51693535,
+    "name" : "Weekly Income ($)",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "weekly_income",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8756774,
+    "width" : 105,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "114",
+      "null" : 0,
+      "largest" : "779",
+      "top" : [ {
+        "count" : 20,
+        "item" : "215"
+      }, {
+        "count" : 19,
+        "item" : "291"
+      }, {
+        "count" : 18,
+        "item" : "322"
+      }, {
+        "count" : 17,
+        "item" : "437"
+      }, {
+        "count" : 16,
+        "item" : "551"
+      }, {
+        "count" : 15,
+        "item" : "665"
+      }, {
+        "count" : 14,
+        "item" : "779"
+      }, {
+        "count" : 13,
+        "item" : "114"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "jobs and economic mobility", "human resources administration", "hra", "health", "plus", "adult" ],
+  "flags" : [ "default" ]
+}

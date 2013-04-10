@@ -1,0 +1,304 @@
+{
+  "id" : "svyi-maaj",
+  "name" : "Minority and Women-Owned  Business Enterprise Statistics",
+  "attribution" : "Law Department (LAW)",
+  "attributionLink" : "http://www.nyc.gov/html/law/html/opportunities/opportunities.shtml",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1360103376,
+  "description" : "New York City's \"MWBE\" program, enacted by the City Council and signed by the Mayor as Local Law 129 of 2005, is designed to promote government contracting opportunities for businesses owned by minorities and women. Our \"Emerging Business Enterprise\" program, enacted by the City Council and signed by the Mayor as Local Law 12 of 2006, is designed to promote such opportunities for businesses owned by persons who are \"socially and economically disadvantaged.\" Together, the programs establish the following Citywide goals for contracts and subcontracts in amounts under $1 million.",
+  "displayType" : "table",
+  "downloadCount" : 4,
+  "numberOfComments" : 0,
+  "oid" : 2442040,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1360104046,
+  "publicationGroup" : 659683,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1360104015,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 659699,
+  "totalTimesRated" : 0,
+  "viewCount" : 60,
+  "viewLastModified" : 1360944195,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 43173549,
+    "name" : "MWBE Type",
+    "dataTypeName" : "text",
+    "fieldName" : "mwbe_type",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7600153,
+    "width" : 133,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "Asian American",
+      "null" : 0,
+      "largest" : "Hispanic American",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Black American"
+      }, {
+        "count" : 19,
+        "item" : "Asian American"
+      }, {
+        "count" : 18,
+        "item" : "Hispanic American"
+      }, {
+        "count" : 17,
+        "item" : "Caucasian Female"
+      }, {
+        "count" : 16,
+        "item" : "Emerging Business"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 43173553,
+    "name" : "Prime Contracts - Professional Services",
+    "dataTypeName" : "text",
+    "fieldName" : "prime_contracts_professional_services",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7600154,
+    "width" : 233,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "16.50%",
+      "null" : 0,
+      "largest" : "No goal",
+      "top" : [ {
+        "count" : 20,
+        "item" : "9%"
+      }, {
+        "count" : 19,
+        "item" : "No goal"
+      }, {
+        "count" : 18,
+        "item" : "5%"
+      }, {
+        "count" : 17,
+        "item" : "16.50%"
+      }, {
+        "count" : 16,
+        "item" : "6%"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 43173556,
+    "name" : "Prime Contracts - Standard Services",
+    "dataTypeName" : "text",
+    "fieldName" : "prime_contracts_standard_services",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7600155,
+    "width" : 210,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "10.45%",
+      "null" : 0,
+      "largest" : "No goal",
+      "top" : [ {
+        "count" : 20,
+        "item" : "9.23%"
+      }, {
+        "count" : 19,
+        "item" : "No goal"
+      }, {
+        "count" : 18,
+        "item" : "5.14%"
+      }, {
+        "count" : 17,
+        "item" : "10.45%"
+      }, {
+        "count" : 16,
+        "item" : "6%"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 43173559,
+    "name" : "Prime Contracts - Goods",
+    "dataTypeName" : "text",
+    "fieldName" : "prime_contracts_goods",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7600156,
+    "width" : 147,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "17.87%",
+      "null" : 0,
+      "largest" : "7.47%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "7.47%"
+      }, {
+        "count" : 19,
+        "item" : "5.29%"
+      }, {
+        "count" : 18,
+        "item" : "4.99%"
+      }, {
+        "count" : 17,
+        "item" : "17.87%"
+      }, {
+        "count" : 16,
+        "item" : "6%"
+      } ]
+    },
+    "format" : {
+      "align" : "right",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 43173561,
+    "name" : "Prime Contracts - Construction",
+    "dataTypeName" : "text",
+    "fieldName" : "prime_contracts_construction",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7600157,
+    "width" : 178,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "12.63%",
+      "null" : 0,
+      "largest" : "No goal",
+      "top" : [ {
+        "count" : 20,
+        "item" : "12.63%"
+      }, {
+        "count" : 19,
+        "item" : "No goal"
+      }, {
+        "count" : 18,
+        "item" : "9.06%"
+      }, {
+        "count" : 17,
+        "item" : "6%"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 43173563,
+    "name" : "Subcontracts - Professional Services",
+    "dataTypeName" : "text",
+    "fieldName" : "subcontracts_professional_services",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7600158,
+    "width" : 251,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "16.50%",
+      "null" : 0,
+      "largest" : "No goal",
+      "top" : [ {
+        "count" : 20,
+        "item" : "9%"
+      }, {
+        "count" : 19,
+        "item" : "No goal"
+      }, {
+        "count" : 18,
+        "item" : "5%"
+      }, {
+        "count" : 17,
+        "item" : "16.50%"
+      }, {
+        "count" : 16,
+        "item" : "6%"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 43173564,
+    "name" : "Subcontracts - Construction",
+    "dataTypeName" : "text",
+    "fieldName" : "subcontracts_construction",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7600159,
+    "width" : 204,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "6%",
+      "null" : 0,
+      "largest" : "No goal",
+      "top" : [ {
+        "count" : 20,
+        "item" : "9%"
+      }, {
+        "count" : 19,
+        "item" : "9.47%"
+      }, {
+        "count" : 18,
+        "item" : "9.06%"
+      }, {
+        "count" : 17,
+        "item" : "No goal"
+      }, {
+        "count" : 16,
+        "item" : "6%"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "law", "justice", "legislation", "lawyer" ],
+  "flags" : [ "default" ]
+}

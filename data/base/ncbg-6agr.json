@@ -1,0 +1,227 @@
+{
+  "id" : "ncbg-6agr",
+  "name" : "DOF Parking Violation Codes",
+  "attribution" : "Department of Finance (DOF)",
+  "attributionLink" : "http://www.nyc.gov/html/dof/html/parking/violation_codes.shtml",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1358348218,
+  "description" : "This dataset defines the parking violation codes in New York City and lists the fines. Each fine amount includes a $15 New York State Criminal Justice surcharge.",
+  "displayType" : "table",
+  "downloadCount" : 12,
+  "numberOfComments" : 0,
+  "oid" : 2252771,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1358356235,
+  "publicationGroup" : 617923,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1358356116,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 618112,
+  "totalTimesRated" : 0,
+  "viewCount" : 110,
+  "viewLastModified" : 1361463945,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 39448049,
+    "name" : "CODE",
+    "dataTypeName" : "text",
+    "fieldName" : "code",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 6973912,
+    "width" : 82,
+    "cachedContents" : {
+      "non_null" : 84,
+      "smallest" : "04",
+      "null" : 0,
+      "largest" : "99",
+      "top" : [ {
+        "count" : 20,
+        "item" : "98"
+      }, {
+        "count" : 19,
+        "item" : "99"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 39448050,
+    "name" : "DEFINITION",
+    "dataTypeName" : "text",
+    "fieldName" : "definition",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 6973913,
+    "width" : 610,
+    "cachedContents" : {
+      "non_null" : 84,
+      "smallest" : "\"Feeding Meter\" -- parking in a metered space for a consecutive period of time longer than allowed, whether or not an additional coin or coins are deposited or another method of payment is used.",
+      "null" : 0,
+      "largest" : "Vehicles photographed going through a red light at an intersection",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Standing or parking in front of a public or private driveway. The owner or renter of a lot accessed by a private driveway may park a passenger vehicle registered to him / her at that address in front of the driveway provided the lot does not contain more than 2 dwelling units and that parking does not violate any other rule or restriction."
+      }, {
+        "count" : 19,
+        "item" : "All other parking, standing or stopping violations."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 39448051,
+    "name" : "Manhattan  96th St. & below",
+    "dataTypeName" : "text",
+    "fieldName" : "manhattan_96th_st_below",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 6973914,
+    "width" : 222,
+    "cachedContents" : {
+      "non_null" : 84,
+      "smallest" : "$115 ",
+      "null" : 0,
+      "largest" : "vary",
+      "top" : [ {
+        "count" : 20,
+        "item" : "$115 "
+      }, {
+        "count" : 19,
+        "item" : "1st Offense - $265\n2nd Offense - $515"
+      }, {
+        "count" : 18,
+        "item" : "$50  "
+      }, {
+        "count" : 17,
+        "item" : "$115 "
+      }, {
+        "count" : 16,
+        "item" : "$95 "
+      }, {
+        "count" : 15,
+        "item" : "$65 "
+      }, {
+        "count" : 14,
+        "item" : "$60 "
+      }, {
+        "count" : 13,
+        "item" : "$180 "
+      }, {
+        "count" : 12,
+        "item" : "$165 "
+      }, {
+        "count" : 11,
+        "item" : "100\n(Regular Tow, plus violation fine)"
+      }, {
+        "count" : 10,
+        "item" : "vary"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 39448052,
+    "name" : "All Other Areas",
+    "dataTypeName" : "text",
+    "fieldName" : "all_other_areas",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 6973915,
+    "width" : 214,
+    "cachedContents" : {
+      "non_null" : 83,
+      "smallest" : "$115 ",
+      "null" : 1,
+      "largest" : "vary",
+      "top" : [ {
+        "count" : 20,
+        "item" : "$115 "
+      }, {
+        "count" : 19,
+        "item" : "2nd Offense - $265\n2nd Offense - $515"
+      }, {
+        "count" : 18,
+        "item" : "$50  "
+      }, {
+        "count" : 17,
+        "item" : "$95 "
+      }, {
+        "count" : 16,
+        "item" : "$60 "
+      }, {
+        "count" : 15,
+        "item" : "$45 "
+      }, {
+        "count" : 14,
+        "item" : "$180 "
+      }, {
+        "count" : 13,
+        "item" : "$35 "
+      }, {
+        "count" : 12,
+        "item" : "$65 "
+      }, {
+        "count" : 11,
+        "item" : "$165 "
+      }, {
+        "count" : 10,
+        "item" : "$200 (Heavy Tow, plus violation fine)"
+      }, {
+        "count" : 9,
+        "item" : "vary"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dof", "parking", "violation", "code", "fine" ],
+  "flags" : [ "default" ]
+}

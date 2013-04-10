@@ -1,0 +1,167 @@
+{
+  "id" : "hm7r-w4y9",
+  "name" : "DOC Visitor Arrests",
+  "attribution" : "Department of Correction (DOC)",
+  "averageRating" : 0,
+  "category" : "Statistics",
+  "createdAt" : 1317946607,
+  "description" : "Visitor arrests by fiscal year",
+  "displayType" : "table",
+  "downloadCount" : 19,
+  "numberOfComments" : 0,
+  "oid" : 341406,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1317946678,
+  "publicationGroup" : 243624,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1317946665,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 243626,
+  "totalTimesRated" : 0,
+  "viewCount" : 119,
+  "viewLastModified" : 1318362212,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2973073,
+    "name" : "Fiscal Year",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1557804,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 10,
+      "smallest" : "2001",
+      "sum" : "20055",
+      "null" : 0,
+      "average" : "2005.5",
+      "largest" : "2010",
+      "top" : [ {
+        "count" : 1,
+        "item" : "2002"
+      }, {
+        "count" : 1,
+        "item" : "2010"
+      }, {
+        "count" : 1,
+        "item" : "2005"
+      }, {
+        "count" : 1,
+        "item" : "2008"
+      }, {
+        "count" : 1,
+        "item" : "2003"
+      }, {
+        "count" : 1,
+        "item" : "2007"
+      }, {
+        "count" : 1,
+        "item" : "2004"
+      }, {
+        "count" : 1,
+        "item" : "2006"
+      }, {
+        "count" : 1,
+        "item" : "2001"
+      }, {
+        "count" : 1,
+        "item" : "2009"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 2973074,
+    "name" : "Number of Arrests",
+    "dataTypeName" : "number",
+    "fieldName" : "number_of_arrests",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1557805,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 10,
+      "smallest" : "201",
+      "sum" : "3143",
+      "null" : 0,
+      "average" : "314.3",
+      "largest" : "392",
+      "top" : [ {
+        "count" : 1,
+        "item" : "341"
+      }, {
+        "count" : 1,
+        "item" : "264"
+      }, {
+        "count" : 1,
+        "item" : "367"
+      }, {
+        "count" : 1,
+        "item" : "392"
+      }, {
+        "count" : 1,
+        "item" : "295"
+      }, {
+        "count" : 1,
+        "item" : "313"
+      }, {
+        "count" : 1,
+        "item" : "318"
+      }, {
+        "count" : 1,
+        "item" : "360"
+      }, {
+        "count" : 1,
+        "item" : "292"
+      }, {
+        "count" : 1,
+        "item" : "201"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "corrections", "jail", "prison", "inmate", "facility", "rikers", "population", "visitor", "arrest" ],
+  "flags" : [ "default" ]
+}

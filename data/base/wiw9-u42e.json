@@ -1,0 +1,153 @@
+{
+  "id" : "wiw9-u42e",
+  "name" : "Directory Of Business Improvement Districts",
+  "attribution" : "Department of Small Business Services (SBS)",
+  "attributionLink" : "http://www.nyc.gov/html/sbs/html/neighborhood_development/bid_directory.shtml?show=all",
+  "averageRating" : 0,
+  "createdAt" : 1362578668,
+  "description" : "This is the list of all the Business Improvement Districts in New York City",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2730124,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362578867,
+  "publicationGroup" : 717526,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1362578673,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 717526,
+  "totalTimesRated" : 0,
+  "viewCount" : 15,
+  "viewLastModified" : 1362582748,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 48782557,
+    "name" : "Name of Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "name_of_borough",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8399016,
+    "width" : 105,
+    "cachedContents" : {
+      "non_null" : 54,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Manhattan",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Manhattan"
+      }, {
+        "count" : 18,
+        "item" : "Brooklyn"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48782585,
+    "name" : "Name of BID",
+    "dataTypeName" : "text",
+    "fieldName" : "name_of_bid",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8399017,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 54,
+      "smallest" : "125th Street",
+      "null" : 0,
+      "largest" : "White Plains Road",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Flatbush-Nostrand Junction"
+      }, {
+        "count" : 19,
+        "item" : "Fulton Area Business (FAB) Alliance"
+      }, {
+        "count" : 18,
+        "item" : "Fulton Mall Improvement Association"
+      }, {
+        "count" : 17,
+        "item" : "Graham Avenue"
+      }, {
+        "count" : 16,
+        "item" : "Grand Street"
+      }, {
+        "count" : 15,
+        "item" : "Kings Highway"
+      }, {
+        "count" : 14,
+        "item" : "MetroTech"
+      }, {
+        "count" : 13,
+        "item" : "Montague Street"
+      }, {
+        "count" : 12,
+        "item" : "Myrtle Avenue Brooklyn Partnership"
+      }, {
+        "count" : 11,
+        "item" : "North Flatbush"
+      }, {
+        "count" : 10,
+        "item" : "Park Slope 5th Avenue"
+      }, {
+        "count" : 9,
+        "item" : "Pitkin Avenue"
+      }, {
+        "count" : 8,
+        "item" : "Sunset Park"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "department of small business services", "sbs", "bid", "business", "district" ],
+  "flags" : [ "default" ]
+}

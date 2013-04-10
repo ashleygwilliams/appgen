@@ -1,0 +1,225 @@
+{
+  "id" : "ye26-g8nx",
+  "name" : "City Tax Revenue Financial Plan",
+  "attribution" : "Office of the Mayor (OTM)",
+  "attributionLink" : "http://www.nyc.gov/html/omb/downloads/pdf/sum1_13.pdf",
+  "averageRating" : 0,
+  "category" : "Finances",
+  "createdAt" : 1360791419,
+  "description" : "The table presents records of the source for City Tax Revenue generated from the year 2013 thro 2017.",
+  "displayType" : "table",
+  "downloadCount" : 3,
+  "numberOfComments" : 0,
+  "oid" : 2515381,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1360791679,
+  "publicationGroup" : 675744,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1360791422,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 675744,
+  "totalTimesRated" : 0,
+  "viewCount" : 14,
+  "viewLastModified" : 1360943862,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 44643921,
+    "name" : "Year \\ Tax Type ",
+    "dataTypeName" : "text",
+    "fieldName" : "tax_type_year",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7829024,
+    "width" : 142,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "FY 2012 ($ in Millions) ",
+      "null" : 0,
+      "largest" : "FY 2017f ($ in Millions)",
+      "top" : [ {
+        "count" : 20,
+        "item" : "FY 2012 ($ in Millions) "
+      }, {
+        "count" : 19,
+        "item" : "FY 2013f ($ in Millions)"
+      }, {
+        "count" : 18,
+        "item" : "FY 2014f ($ in Millions)"
+      }, {
+        "count" : 17,
+        "item" : "FY 2015f ($ in Millions)"
+      }, {
+        "count" : 16,
+        "item" : "FY 2016f ($ in Millions)"
+      }, {
+        "count" : 15,
+        "item" : "FY 2017f ($ in Millions)"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 44643922,
+    "name" : "Property Tax",
+    "dataTypeName" : "number",
+    "fieldName" : "property_tax",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7829025,
+    "width" : 73,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "17945",
+      "sum" : "118901",
+      "null" : 0,
+      "average" : "19816.83333333333",
+      "largest" : "21870",
+      "top" : [ {
+        "count" : 20,
+        "item" : "17945"
+      }, {
+        "count" : 19,
+        "item" : "18440"
+      }, {
+        "count" : 18,
+        "item" : "19365"
+      }, {
+        "count" : 17,
+        "item" : "20176"
+      }, {
+        "count" : 16,
+        "item" : "21105"
+      }, {
+        "count" : 15,
+        "item" : "21870"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44643923,
+    "name" : "Economically Sensitive Taxes",
+    "dataTypeName" : "number",
+    "fieldName" : "economically_sensitive_taxes",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7829026,
+    "width" : 177,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "24166",
+      "sum" : "161374",
+      "null" : 0,
+      "average" : "26895.66666666667",
+      "largest" : "29724",
+      "top" : [ {
+        "count" : 20,
+        "item" : "24166"
+      }, {
+        "count" : 19,
+        "item" : "25631"
+      }, {
+        "count" : 18,
+        "item" : "26077"
+      }, {
+        "count" : 17,
+        "item" : "27348"
+      }, {
+        "count" : 16,
+        "item" : "28428"
+      }, {
+        "count" : 15,
+        "item" : "29724"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44643924,
+    "name" : "Non-Tax Revenue",
+    "dataTypeName" : "number",
+    "fieldName" : "non_tax_revenue",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7829027,
+    "width" : 97,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "4794",
+      "sum" : "30530",
+      "null" : 0,
+      "average" : "5088.333333333333",
+      "largest" : "5438",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5438"
+      }, {
+        "count" : 19,
+        "item" : "4794"
+      }, {
+        "count" : 18,
+        "item" : "5252"
+      }, {
+        "count" : 17,
+        "item" : "5132"
+      }, {
+        "count" : 16,
+        "item" : "5084"
+      }, {
+        "count" : 15,
+        "item" : "4830"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "revenue", "tax", "financial plan", "city tax", "property tax" ],
+  "flags" : [ "default" ]
+}

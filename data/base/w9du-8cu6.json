@@ -1,0 +1,998 @@
+{
+  "id" : "w9du-8cu6",
+  "name" : "Hispanic Population By Selected Subgroups By Borough",
+  "attribution" : "Department of City Planning (DCP)",
+  "averageRating" : 0,
+  "category" : "Statistics",
+  "createdAt" : 1361398369,
+  "description" : "Population details of selected Hispanic groups in New York City Boroughs",
+  "displayType" : "table",
+  "downloadCount" : 1,
+  "numberOfComments" : 0,
+  "oid" : 2577895,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361398712,
+  "publicationGroup" : 689655,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1361398379,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 689655,
+  "totalTimesRated" : 0,
+  "viewCount" : 13,
+  "viewLastModified" : 1361398722,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 45926206,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8023341,
+    "width" : 84,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Manhattan"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45926207,
+    "name" : "Census Year",
+    "dataTypeName" : "text",
+    "fieldName" : "census_year",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8023342,
+    "width" : 79,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "2010",
+      "null" : 0,
+      "largest" : "2010",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2010"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45926208,
+    "name" : "Mexican",
+    "dataTypeName" : "number",
+    "fieldName" : "mexican",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8023343,
+    "width" : 53,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "18684",
+      "sum" : "319263",
+      "null" : 0,
+      "average" : "63852.6",
+      "largest" : "94585",
+      "top" : [ {
+        "count" : 20,
+        "item" : "71194"
+      }, {
+        "count" : 19,
+        "item" : "94585"
+      }, {
+        "count" : 18,
+        "item" : "41965"
+      }, {
+        "count" : 17,
+        "item" : "92835"
+      }, {
+        "count" : 16,
+        "item" : "18684"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45926209,
+    "name" : "Puerto Rican",
+    "dataTypeName" : "number",
+    "fieldName" : "puerto_rican",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8023344,
+    "width" : 74,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "37517",
+      "sum" : "723621",
+      "null" : 0,
+      "average" : "144724.2",
+      "largest" : "298921",
+      "top" : [ {
+        "count" : 20,
+        "item" : "298921"
+      }, {
+        "count" : 19,
+        "item" : "176528"
+      }, {
+        "count" : 18,
+        "item" : "107774"
+      }, {
+        "count" : 17,
+        "item" : "102881"
+      }, {
+        "count" : 16,
+        "item" : "37517"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45926210,
+    "name" : "Cuban",
+    "dataTypeName" : "number",
+    "fieldName" : "cuban",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8023345,
+    "width" : 78,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "1831",
+      "sum" : "40840",
+      "null" : 0,
+      "average" : "8168",
+      "largest" : "11623",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8785"
+      }, {
+        "count" : 19,
+        "item" : "7581"
+      }, {
+        "count" : 18,
+        "item" : "11623"
+      }, {
+        "count" : 17,
+        "item" : "11020"
+      }, {
+        "count" : 16,
+        "item" : "1831"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45926211,
+    "name" : "Dominican Republic",
+    "dataTypeName" : "number",
+    "fieldName" : "dominican_republic",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8023346,
+    "width" : 111,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "4918",
+      "sum" : "576701",
+      "null" : 0,
+      "average" : "115340.2",
+      "largest" : "240987",
+      "top" : [ {
+        "count" : 20,
+        "item" : "240987"
+      }, {
+        "count" : 19,
+        "item" : "86764"
+      }, {
+        "count" : 18,
+        "item" : "155971"
+      }, {
+        "count" : 17,
+        "item" : "88061"
+      }, {
+        "count" : 16,
+        "item" : "4918"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45926212,
+    "name" : "Central American - CostaRican",
+    "dataTypeName" : "number",
+    "fieldName" : "central_american_costarican",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8023347,
+    "width" : 127,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "266",
+      "sum" : "6673",
+      "null" : 0,
+      "average" : "1334.6",
+      "largest" : "2576",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1095"
+      }, {
+        "count" : 19,
+        "item" : "2576"
+      }, {
+        "count" : 18,
+        "item" : "987"
+      }, {
+        "count" : 17,
+        "item" : "1749"
+      }, {
+        "count" : 16,
+        "item" : "266"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45926214,
+    "name" : " Central American - Honduran",
+    "dataTypeName" : "number",
+    "fieldName" : "central_american_honduran",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8023349,
+    "width" : 140,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "1735",
+      "sum" : "42400",
+      "null" : 0,
+      "average" : "8480",
+      "largest" : "17990",
+      "top" : [ {
+        "count" : 20,
+        "item" : "17990"
+      }, {
+        "count" : 19,
+        "item" : "10071"
+      }, {
+        "count" : 18,
+        "item" : "4058"
+      }, {
+        "count" : 17,
+        "item" : "8546"
+      }, {
+        "count" : 16,
+        "item" : "1735"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45926213,
+    "name" : " Central American - Guatemalan",
+    "dataTypeName" : "number",
+    "fieldName" : "central_american_guatemalan",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8023348,
+    "width" : 114,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "864",
+      "sum" : "30420",
+      "null" : 0,
+      "average" : "6084",
+      "largest" : "13700",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4645"
+      }, {
+        "count" : 19,
+        "item" : "9160"
+      }, {
+        "count" : 18,
+        "item" : "2051"
+      }, {
+        "count" : 17,
+        "item" : "13700"
+      }, {
+        "count" : 16,
+        "item" : "864"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45926215,
+    "name" : " Central American -  Nicaraguan",
+    "dataTypeName" : "number",
+    "fieldName" : "central_american_nicaraguan",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8023350,
+    "width" : 101,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "199",
+      "sum" : "9346",
+      "null" : 0,
+      "average" : "1869.2",
+      "largest" : "2842",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2342"
+      }, {
+        "count" : 19,
+        "item" : "2407"
+      }, {
+        "count" : 18,
+        "item" : "1556"
+      }, {
+        "count" : 17,
+        "item" : "2842"
+      }, {
+        "count" : 16,
+        "item" : "199"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45926216,
+    "name" : "  Central American - Panamanian",
+    "dataTypeName" : "number",
+    "fieldName" : "central_american_panamanian",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8023351,
+    "width" : 107,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "607",
+      "sum" : "22353",
+      "null" : 0,
+      "average" : "4470.6",
+      "largest" : "13681",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2372"
+      }, {
+        "count" : 19,
+        "item" : "13681"
+      }, {
+        "count" : 18,
+        "item" : "1716"
+      }, {
+        "count" : 17,
+        "item" : "3977"
+      }, {
+        "count" : 16,
+        "item" : "607"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45926217,
+    "name" : "  Central American - Salvadoran",
+    "dataTypeName" : "number",
+    "fieldName" : "central_american_salvadoran",
+    "position" : 12,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8023352,
+    "width" : 133,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "592",
+      "sum" : "38559",
+      "null" : 0,
+      "average" : "7711.8",
+      "largest" : "21342",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5469"
+      }, {
+        "count" : 19,
+        "item" : "7737"
+      }, {
+        "count" : 18,
+        "item" : "3419"
+      }, {
+        "count" : 17,
+        "item" : "21342"
+      }, {
+        "count" : 16,
+        "item" : "592"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45926218,
+    "name" : " Other Central American",
+    "dataTypeName" : "number",
+    "fieldName" : "other_central_american",
+    "position" : 13,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8023353,
+    "width" : 159,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "47",
+      "sum" : "1627",
+      "null" : 0,
+      "average" : "325.4",
+      "largest" : "579",
+      "top" : [ {
+        "count" : 20,
+        "item" : "579"
+      }, {
+        "count" : 19,
+        "item" : "487"
+      }, {
+        "count" : 18,
+        "item" : "161"
+      }, {
+        "count" : 17,
+        "item" : "353"
+      }, {
+        "count" : 16,
+        "item" : "47"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45926219,
+    "name" : "South American - Argentinean",
+    "dataTypeName" : "number",
+    "fieldName" : "south_american_argentinean",
+    "position" : 14,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8023354,
+    "width" : 151,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "608",
+      "sum" : "15169",
+      "null" : 0,
+      "average" : "3033.8",
+      "largest" : "6345",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1117"
+      }, {
+        "count" : 19,
+        "item" : "2760"
+      }, {
+        "count" : 18,
+        "item" : "4339"
+      }, {
+        "count" : 17,
+        "item" : "6345"
+      }, {
+        "count" : 16,
+        "item" : "608"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45926220,
+    "name" : " South American - Bolivian",
+    "dataTypeName" : "number",
+    "fieldName" : "south_american_bolivian",
+    "position" : 15,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8023355,
+    "width" : 186,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "161",
+      "sum" : "4488",
+      "null" : 0,
+      "average" : "897.6",
+      "largest" : "3268",
+      "top" : [ {
+        "count" : 20,
+        "item" : "227"
+      }, {
+        "count" : 19,
+        "item" : "310"
+      }, {
+        "count" : 18,
+        "item" : "522"
+      }, {
+        "count" : 17,
+        "item" : "3268"
+      }, {
+        "count" : 16,
+        "item" : "161"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45926221,
+    "name" : "South American - Chilean",
+    "dataTypeName" : "number",
+    "fieldName" : "south_american_chilean",
+    "position" : 16,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8023356,
+    "width" : 143,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "346",
+      "sum" : "7026",
+      "null" : 0,
+      "average" : "1405.2",
+      "largest" : "3184",
+      "top" : [ {
+        "count" : 20,
+        "item" : "646"
+      }, {
+        "count" : 19,
+        "item" : "1026"
+      }, {
+        "count" : 18,
+        "item" : "1824"
+      }, {
+        "count" : 17,
+        "item" : "3184"
+      }, {
+        "count" : 16,
+        "item" : "346"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45926222,
+    "name" : "South American - Colombian",
+    "dataTypeName" : "number",
+    "fieldName" : "south_american_colombian",
+    "position" : 17,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8023357,
+    "width" : 162,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "2526",
+      "sum" : "94723",
+      "null" : 0,
+      "average" : "18944.6",
+      "largest" : "70290",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4635"
+      }, {
+        "count" : 19,
+        "item" : "8861"
+      }, {
+        "count" : 18,
+        "item" : "8411"
+      }, {
+        "count" : 17,
+        "item" : "70290"
+      }, {
+        "count" : 16,
+        "item" : "2526"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45926223,
+    "name" : "South American - Ecuadorian",
+    "dataTypeName" : "number",
+    "fieldName" : "south_american_ecuadorian",
+    "position" : 18,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8023358,
+    "width" : 167,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "2675",
+      "sum" : "167209",
+      "null" : 0,
+      "average" : "33441.8",
+      "largest" : "98512",
+      "top" : [ {
+        "count" : 20,
+        "item" : "23206"
+      }, {
+        "count" : 19,
+        "item" : "28684"
+      }, {
+        "count" : 18,
+        "item" : "14132"
+      }, {
+        "count" : 17,
+        "item" : "98512"
+      }, {
+        "count" : 16,
+        "item" : "2675"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45926224,
+    "name" : "South American - Paraguayan",
+    "dataTypeName" : "number",
+    "fieldName" : "south_american_paraguayan",
+    "position" : 19,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8023359,
+    "width" : 176,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "38",
+      "sum" : "3534",
+      "null" : 0,
+      "average" : "706.8",
+      "largest" : "2775",
+      "top" : [ {
+        "count" : 20,
+        "item" : "223"
+      }, {
+        "count" : 19,
+        "item" : "230"
+      }, {
+        "count" : 18,
+        "item" : "268"
+      }, {
+        "count" : 17,
+        "item" : "2775"
+      }, {
+        "count" : 16,
+        "item" : "38"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45926225,
+    "name" : "South American - Peruvian",
+    "dataTypeName" : "number",
+    "fieldName" : "south_american_peruvian",
+    "position" : 20,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8023360,
+    "width" : 153,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "1462",
+      "sum" : "36018",
+      "null" : 0,
+      "average" : "7203.6",
+      "largest" : "22886",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3596"
+      }, {
+        "count" : 19,
+        "item" : "4222"
+      }, {
+        "count" : 18,
+        "item" : "3852"
+      }, {
+        "count" : 17,
+        "item" : "22886"
+      }, {
+        "count" : 16,
+        "item" : "1462"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45926226,
+    "name" : " South American - Uruguayan",
+    "dataTypeName" : "number",
+    "fieldName" : "south_american_uruguayan",
+    "position" : 21,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8023361,
+    "width" : 169,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "76",
+      "sum" : "3004",
+      "null" : 0,
+      "average" : "600.8",
+      "largest" : "1743",
+      "top" : [ {
+        "count" : 20,
+        "item" : "148"
+      }, {
+        "count" : 19,
+        "item" : "488"
+      }, {
+        "count" : 18,
+        "item" : "549"
+      }, {
+        "count" : 17,
+        "item" : "1743"
+      }, {
+        "count" : 16,
+        "item" : "76"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45926227,
+    "name" : "South American - Venezuelan",
+    "dataTypeName" : "number",
+    "fieldName" : "south_american_venezuelan",
+    "position" : 22,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8023362,
+    "width" : 166,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "254",
+      "sum" : "9619",
+      "null" : 0,
+      "average" : "1923.8",
+      "largest" : "3580",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1296"
+      }, {
+        "count" : 19,
+        "item" : "1916"
+      }, {
+        "count" : 18,
+        "item" : "2573"
+      }, {
+        "count" : 17,
+        "item" : "3580"
+      }, {
+        "count" : 16,
+        "item" : "254"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45926228,
+    "name" : " Other South American",
+    "dataTypeName" : "number",
+    "fieldName" : "other_south_american",
+    "position" : 23,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8023363,
+    "width" : 130,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "86",
+      "sum" : "2678",
+      "null" : 0,
+      "average" : "535.6",
+      "largest" : "1439",
+      "top" : [ {
+        "count" : 20,
+        "item" : "369"
+      }, {
+        "count" : 19,
+        "item" : "506"
+      }, {
+        "count" : 18,
+        "item" : "278"
+      }, {
+        "count" : 17,
+        "item" : "1439"
+      }, {
+        "count" : 16,
+        "item" : "86"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45926229,
+    "name" : " Other Hispanic - Other Spaniard",
+    "dataTypeName" : "number",
+    "fieldName" : "other_hispanic_other_spaniard",
+    "position" : 24,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8023364,
+    "width" : 187,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "1333",
+      "sum" : "17793",
+      "null" : 0,
+      "average" : "3558.6",
+      "largest" : "5629",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2097"
+      }, {
+        "count" : 19,
+        "item" : "3249"
+      }, {
+        "count" : 18,
+        "item" : "5629"
+      }, {
+        "count" : 17,
+        "item" : "5485"
+      }, {
+        "count" : 16,
+        "item" : "1333"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45926230,
+    "name" : " Other Hispanic - Spanish",
+    "dataTypeName" : "number",
+    "fieldName" : "other_hispanic_spanish",
+    "position" : 25,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8023365,
+    "width" : 149,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "781",
+      "sum" : "11935",
+      "null" : 0,
+      "average" : "2387",
+      "largest" : "4265",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1635"
+      }, {
+        "count" : 19,
+        "item" : "2933"
+      }, {
+        "count" : 18,
+        "item" : "2321"
+      }, {
+        "count" : 17,
+        "item" : "4265"
+      }, {
+        "count" : 16,
+        "item" : "781"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45926231,
+    "name" : " Other Hispanic - Spanish American",
+    "dataTypeName" : "number",
+    "fieldName" : "other_hispanic_spanish_american",
+    "position" : 26,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8023366,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "23",
+      "sum" : "1110",
+      "null" : 0,
+      "average" : "222",
+      "largest" : "453",
+      "top" : [ {
+        "count" : 20,
+        "item" : "221"
+      }, {
+        "count" : 19,
+        "item" : "280"
+      }, {
+        "count" : 18,
+        "item" : "133"
+      }, {
+        "count" : 17,
+        "item" : "453"
+      }, {
+        "count" : 16,
+        "item" : "23"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45926232,
+    "name" : " All Other Hispanic or Latino",
+    "dataTypeName" : "number",
+    "fieldName" : "all_other_hispanic_or_latino",
+    "position" : 27,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8023367,
+    "width" : 214,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "3422",
+      "sum" : "149967",
+      "null" : 0,
+      "average" : "29993.4",
+      "largest" : "47618",
+      "top" : [ {
+        "count" : 20,
+        "item" : "47618"
+      }, {
+        "count" : 19,
+        "item" : "29243"
+      }, {
+        "count" : 18,
+        "item" : "27465"
+      }, {
+        "count" : 17,
+        "item" : "42219"
+      }, {
+        "count" : 16,
+        "item" : "3422"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dcp", "city", "planning", "population", "growth", "race", "hispanic", "borough" ],
+  "flags" : [ "default" ]
+}

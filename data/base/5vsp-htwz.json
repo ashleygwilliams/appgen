@@ -1,0 +1,163 @@
+{
+  "id" : "5vsp-htwz",
+  "name" : "FDNY Certificate Of Fitness Rules Codes",
+  "attribution" : "Fire Department of New York City (FDNY)",
+  "attributionLink" : "http://www.nyc.gov/html/fdny/pdf/firecode/certificate_of_fitness.pdf",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1359649145,
+  "description" : "Rules and Codes required for Certificate of Fitness - FDNY",
+  "displayType" : "table",
+  "downloadCount" : 10,
+  "numberOfComments" : 0,
+  "oid" : 2395106,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359649354,
+  "publicationGroup" : 648524,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1359649147,
+  "rowsUpdatedBy" : "syvn-4vgv",
+  "signed" : false,
+  "tableId" : 648524,
+  "totalTimesRated" : 0,
+  "viewCount" : 47,
+  "viewLastModified" : 1360620631,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 42270948,
+    "name" : "Type of Material, Operation or Facility",
+    "dataTypeName" : "text",
+    "fieldName" : "type_of_material_operation_or_facility",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7436012,
+    "width" : 843,
+    "cachedContents" : {
+      "non_null" : 87,
+      "smallest" : "Aerosol storage, handling and use",
+      "null" : 0,
+      "largest" : "Yard hydrant system inspection, testing and other maintenance",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Oxidizer storage, handling and use"
+      }, {
+        "count" : 19,
+        "item" : "Pyrophoric material storage, handling and use"
+      }, {
+        "count" : 18,
+        "item" : "Pyroxylin plastics storage, handling and use"
+      }, {
+        "count" : 17,
+        "item" : "Unstable (reactive) material storage, handling and use"
+      }, {
+        "count" : 16,
+        "item" : "Water-reactive solid and liquid storage, handling and use"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42270949,
+    "name" : "Supervision Type",
+    "dataTypeName" : "text",
+    "fieldName" : "supervision_type",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7436013,
+    "width" : 107,
+    "cachedContents" : {
+      "non_null" : 87,
+      "smallest" : "General",
+      "null" : 0,
+      "largest" : "Personal/General",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Personal"
+      }, {
+        "count" : 19,
+        "item" : "Personal/General"
+      }, {
+        "count" : 18,
+        "item" : "General"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42270950,
+    "name" : "Fire Code /Rule Section",
+    "dataTypeName" : "text",
+    "fieldName" : "fire_code_rule_section",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7436014,
+    "width" : 194,
+    "cachedContents" : {
+      "non_null" : 87,
+      "smallest" : "FC1110.6",
+      "null" : 0,
+      "largest" : "R907-01(e)(2)",
+      "top" : [ {
+        "count" : 20,
+        "item" : "FC2201.7"
+      }, {
+        "count" : 19,
+        "item" : "FC3301.5.1"
+      }, {
+        "count" : 18,
+        "item" : "FC4201.5"
+      }, {
+        "count" : 17,
+        "item" : "FC4301.5"
+      }, {
+        "count" : 16,
+        "item" : "FC4401.5"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "syvn-4vgv",
+    "displayName" : "Sudhir Vasudeva",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360686446,
+    "screenName" : "Sudhir Vasudeva"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "syvn-4vgv",
+    "displayName" : "Sudhir Vasudeva",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360686446,
+    "screenName" : "Sudhir Vasudeva"
+  },
+  "tags" : [ "fdny", "fire department", "safety", "fire safety", "fire code", "fire rule", "certificate of fitness", "cof" ],
+  "flags" : [ "default" ]
+}

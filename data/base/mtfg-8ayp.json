@@ -1,0 +1,1100 @@
+{
+  "id" : "mtfg-8ayp",
+  "name" : "CCRB: Disposition Of Abuse Of Authority Allegations 2005 - 2009",
+  "attribution" : "Civilian Complaint Review Board (CCRB)",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1317158033,
+  "description" : "Disposition Of Abuse Of Authority Allegations 2005 - 2009",
+  "displayType" : "table",
+  "downloadCount" : 12,
+  "numberOfComments" : 0,
+  "oid" : 335855,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1317158304,
+  "publicationGroup" : 241622,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1317158035,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 241622,
+  "totalTimesRated" : 0,
+  "viewCount" : 27,
+  "viewLastModified" : 1318010543,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2880236,
+    "name" : "Type of Abuse of Authority Allegation",
+    "dataTypeName" : "text",
+    "fieldName" : "type_of_abuse_of_authority_allegation",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1532935,
+    "width" : 544,
+    "cachedContents" : {
+      "non_null" : 31,
+      "smallest" : "*** The CCRB began to capture the allegation \"refusal to show search warrant\" on April 1, 2004.",
+      "null" : 0,
+      "largest" : "Vehicle stop",
+      "top" : [ {
+        "count" : 1,
+        "item" : "Refusal to process complaint"
+      }, {
+        "count" : 1,
+        "item" : "Vehicle search"
+      }, {
+        "count" : 1,
+        "item" : "Premises entered or searched"
+      }, {
+        "count" : 1,
+        "item" : "Retaliatory summons"
+      }, {
+        "count" : 1,
+        "item" : "Improper dissemination of medical info"
+      }, {
+        "count" : 1,
+        "item" : "Question "
+      }, {
+        "count" : 1,
+        "item" : "Threat to notify ACS"
+      }, {
+        "count" : 1,
+        "item" : "Vehicle stop"
+      }, {
+        "count" : 1,
+        "item" : "* Beginning in 2005, the CCRB captured \"frisk\" and \"search\" as distinct allegations."
+      }, {
+        "count" : 1,
+        "item" : "Gun drawn"
+      }, {
+        "count" : 1,
+        "item" : "Strip search"
+      }, {
+        "count" : 1,
+        "item" : "Property seized"
+      }, {
+        "count" : 1,
+        "item" : "Question and/or stop**"
+      }, {
+        "count" : 1,
+        "item" : "Threat of force"
+      }, {
+        "count" : 1,
+        "item" : "Type of Abuse of Authority Allegation"
+      }, {
+        "count" : 1,
+        "item" : "Retaliatory arrest"
+      }, {
+        "count" : 1,
+        "item" : "Refusal to show search warrant***"
+      }, {
+        "count" : 1,
+        "item" : "Stop"
+      }, {
+        "count" : 1,
+        "item" : "Search"
+      }, {
+        "count" : 1,
+        "item" : "Total"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2880237,
+    "name" : "Substantiated Number",
+    "dataTypeName" : "number",
+    "fieldName" : "substantiated_number",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1532936,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 27,
+      "smallest" : "1",
+      "sum" : "4000",
+      "null" : 4,
+      "average" : "148.1481481481481",
+      "largest" : "2000",
+      "top" : [ {
+        "count" : 2,
+        "item" : "25"
+      }, {
+        "count" : 2,
+        "item" : "74"
+      }, {
+        "count" : 1,
+        "item" : "2"
+      }, {
+        "count" : 1,
+        "item" : "131"
+      }, {
+        "count" : 1,
+        "item" : "40"
+      }, {
+        "count" : 1,
+        "item" : "35"
+      }, {
+        "count" : 1,
+        "item" : "1"
+      }, {
+        "count" : 1,
+        "item" : "69"
+      }, {
+        "count" : 1,
+        "item" : "95"
+      }, {
+        "count" : 1,
+        "item" : "4"
+      }, {
+        "count" : 1,
+        "item" : "213"
+      }, {
+        "count" : 1,
+        "item" : "2000"
+      }, {
+        "count" : 1,
+        "item" : "200"
+      }, {
+        "count" : 1,
+        "item" : "3"
+      }, {
+        "count" : 1,
+        "item" : "46"
+      }, {
+        "count" : 1,
+        "item" : "54"
+      }, {
+        "count" : 1,
+        "item" : "31"
+      }, {
+        "count" : 1,
+        "item" : "5"
+      }, {
+        "count" : 1,
+        "item" : "64"
+      }, {
+        "count" : 1,
+        "item" : "167"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2880238,
+    "name" : "Substantiated RateRate",
+    "dataTypeName" : "percent",
+    "fieldName" : "substantiated_raterate",
+    "position" : 4,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1532937,
+    "width" : 364,
+    "cachedContents" : {
+      "non_null" : 27,
+      "smallest" : "1.10",
+      "sum" : "266.60",
+      "null" : 4,
+      "average" : "9.874074074074074",
+      "largest" : "50.00",
+      "top" : [ {
+        "count" : 2,
+        "item" : "1.60"
+      }, {
+        "count" : 1,
+        "item" : "13.80"
+      }, {
+        "count" : 1,
+        "item" : "12.10"
+      }, {
+        "count" : 1,
+        "item" : "1.40"
+      }, {
+        "count" : 1,
+        "item" : "1.10"
+      }, {
+        "count" : 1,
+        "item" : "13.50"
+      }, {
+        "count" : 1,
+        "item" : "7.90"
+      }, {
+        "count" : 1,
+        "item" : "3.50"
+      }, {
+        "count" : 1,
+        "item" : "8.40"
+      }, {
+        "count" : 1,
+        "item" : "3.00"
+      }, {
+        "count" : 1,
+        "item" : "9.00"
+      }, {
+        "count" : 1,
+        "item" : "27.30"
+      }, {
+        "count" : 1,
+        "item" : "5.10"
+      }, {
+        "count" : 1,
+        "item" : "2.80"
+      }, {
+        "count" : 1,
+        "item" : "7.00"
+      }, {
+        "count" : 1,
+        "item" : "10.80"
+      }, {
+        "count" : 1,
+        "item" : "4.40"
+      }, {
+        "count" : 1,
+        "item" : "7.50"
+      }, {
+        "count" : 1,
+        "item" : "5.70"
+      }, {
+        "count" : 1,
+        "item" : "8.30"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2880239,
+    "name" : "Number Exonerated",
+    "dataTypeName" : "number",
+    "fieldName" : "number_exonerated",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1532938,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 27,
+      "smallest" : "0",
+      "sum" : "21290",
+      "null" : 4,
+      "average" : "788.5185185185185",
+      "largest" : "10645",
+      "top" : [ {
+        "count" : 1,
+        "item" : "548"
+      }, {
+        "count" : 1,
+        "item" : "78"
+      }, {
+        "count" : 1,
+        "item" : "69"
+      }, {
+        "count" : 1,
+        "item" : "747"
+      }, {
+        "count" : 1,
+        "item" : "121"
+      }, {
+        "count" : 1,
+        "item" : "129"
+      }, {
+        "count" : 1,
+        "item" : "794"
+      }, {
+        "count" : 1,
+        "item" : "13"
+      }, {
+        "count" : 1,
+        "item" : "22"
+      }, {
+        "count" : 1,
+        "item" : "197"
+      }, {
+        "count" : 1,
+        "item" : "289"
+      }, {
+        "count" : 1,
+        "item" : "90"
+      }, {
+        "count" : 1,
+        "item" : "870"
+      }, {
+        "count" : 1,
+        "item" : "312"
+      }, {
+        "count" : 1,
+        "item" : "1231"
+      }, {
+        "count" : 1,
+        "item" : "222"
+      }, {
+        "count" : 1,
+        "item" : "75"
+      }, {
+        "count" : 1,
+        "item" : "209"
+      }, {
+        "count" : 1,
+        "item" : "232"
+      }, {
+        "count" : 1,
+        "item" : "10645"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2880240,
+    "name" : "Exoneration Rate",
+    "dataTypeName" : "percent",
+    "fieldName" : "exoneration_rate",
+    "position" : 6,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1532939,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 27,
+      "smallest" : "0.00",
+      "sum" : "956.50",
+      "null" : 4,
+      "average" : "35.42592592592593",
+      "largest" : "70.10",
+      "top" : [ {
+        "count" : 2,
+        "item" : "42.40"
+      }, {
+        "count" : 1,
+        "item" : "48.60"
+      }, {
+        "count" : 1,
+        "item" : "40.10"
+      }, {
+        "count" : 1,
+        "item" : "31.60"
+      }, {
+        "count" : 1,
+        "item" : "39.80"
+      }, {
+        "count" : 1,
+        "item" : "2.70"
+      }, {
+        "count" : 1,
+        "item" : "65.40"
+      }, {
+        "count" : 1,
+        "item" : "46.60"
+      }, {
+        "count" : 1,
+        "item" : "31.70"
+      }, {
+        "count" : 1,
+        "item" : "25.50"
+      }, {
+        "count" : 1,
+        "item" : "7.70"
+      }, {
+        "count" : 1,
+        "item" : "11.10"
+      }, {
+        "count" : 1,
+        "item" : "40.80"
+      }, {
+        "count" : 1,
+        "item" : "23.20"
+      }, {
+        "count" : 1,
+        "item" : "65.30"
+      }, {
+        "count" : 1,
+        "item" : "70.10"
+      }, {
+        "count" : 1,
+        "item" : "51.90"
+      }, {
+        "count" : 1,
+        "item" : "61.20"
+      }, {
+        "count" : 1,
+        "item" : "32.40"
+      }, {
+        "count" : 1,
+        "item" : "53.20"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2880241,
+    "name" : "Unsubstaniated Number",
+    "dataTypeName" : "number",
+    "fieldName" : "unsubstaniated_number",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1532940,
+    "width" : 352,
+    "cachedContents" : {
+      "non_null" : 27,
+      "smallest" : "0",
+      "sum" : "15848",
+      "null" : 4,
+      "average" : "586.9629629629630",
+      "largest" : "7924",
+      "top" : [ {
+        "count" : 1,
+        "item" : "1241"
+      }, {
+        "count" : 1,
+        "item" : "714"
+      }, {
+        "count" : 1,
+        "item" : "245"
+      }, {
+        "count" : 1,
+        "item" : "58"
+      }, {
+        "count" : 1,
+        "item" : "434"
+      }, {
+        "count" : 1,
+        "item" : "103"
+      }, {
+        "count" : 1,
+        "item" : "78"
+      }, {
+        "count" : 1,
+        "item" : "216"
+      }, {
+        "count" : 1,
+        "item" : "72"
+      }, {
+        "count" : 1,
+        "item" : "1032"
+      }, {
+        "count" : 1,
+        "item" : "391"
+      }, {
+        "count" : 1,
+        "item" : "309"
+      }, {
+        "count" : 1,
+        "item" : "419"
+      }, {
+        "count" : 1,
+        "item" : "75"
+      }, {
+        "count" : 1,
+        "item" : "468"
+      }, {
+        "count" : 1,
+        "item" : "7924"
+      }, {
+        "count" : 1,
+        "item" : "77"
+      }, {
+        "count" : 1,
+        "item" : "127"
+      }, {
+        "count" : 1,
+        "item" : "463"
+      }, {
+        "count" : 1,
+        "item" : "120"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2880242,
+    "name" : "Rate unsubstantiated",
+    "dataTypeName" : "percent",
+    "fieldName" : "rate_unsubstantiated",
+    "position" : 8,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1532941,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 27,
+      "smallest" : "0.00",
+      "sum" : "789.70",
+      "null" : 4,
+      "average" : "29.24814814814815",
+      "largest" : "49.20",
+      "top" : [ {
+        "count" : 2,
+        "item" : "29.60"
+      }, {
+        "count" : 1,
+        "item" : "23.40"
+      }, {
+        "count" : 1,
+        "item" : "28.20"
+      }, {
+        "count" : 1,
+        "item" : "14.60"
+      }, {
+        "count" : 1,
+        "item" : "43.70"
+      }, {
+        "count" : 1,
+        "item" : "27.30"
+      }, {
+        "count" : 1,
+        "item" : "49.00"
+      }, {
+        "count" : 1,
+        "item" : "16.30"
+      }, {
+        "count" : 1,
+        "item" : "26.90"
+      }, {
+        "count" : 1,
+        "item" : "15.90"
+      }, {
+        "count" : 1,
+        "item" : "22.00"
+      }, {
+        "count" : 1,
+        "item" : "33.90"
+      }, {
+        "count" : 1,
+        "item" : "27.40"
+      }, {
+        "count" : 1,
+        "item" : "37.80"
+      }, {
+        "count" : 1,
+        "item" : "29.70"
+      }, {
+        "count" : 1,
+        "item" : "36.40"
+      }, {
+        "count" : 1,
+        "item" : "28.60"
+      }, {
+        "count" : 1,
+        "item" : "44.30"
+      }, {
+        "count" : 1,
+        "item" : "17.20"
+      }, {
+        "count" : 1,
+        "item" : "21.70"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2880243,
+    "name" : "Unfounded Number",
+    "dataTypeName" : "number",
+    "fieldName" : "unfounded_number",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1532942,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 27,
+      "smallest" : "0",
+      "sum" : "6114",
+      "null" : 4,
+      "average" : "226.4444444444444",
+      "largest" : "3057",
+      "top" : [ {
+        "count" : 2,
+        "item" : "7"
+      }, {
+        "count" : 1,
+        "item" : "1"
+      }, {
+        "count" : 1,
+        "item" : "19"
+      }, {
+        "count" : 1,
+        "item" : "539"
+      }, {
+        "count" : 1,
+        "item" : "43"
+      }, {
+        "count" : 1,
+        "item" : "325"
+      }, {
+        "count" : 1,
+        "item" : "90"
+      }, {
+        "count" : 1,
+        "item" : "72"
+      }, {
+        "count" : 1,
+        "item" : "200"
+      }, {
+        "count" : 1,
+        "item" : "256"
+      }, {
+        "count" : 1,
+        "item" : "51"
+      }, {
+        "count" : 1,
+        "item" : "62"
+      }, {
+        "count" : 1,
+        "item" : "21"
+      }, {
+        "count" : 1,
+        "item" : "33"
+      }, {
+        "count" : 1,
+        "item" : "226"
+      }, {
+        "count" : 1,
+        "item" : "23"
+      }, {
+        "count" : 1,
+        "item" : "41"
+      }, {
+        "count" : 1,
+        "item" : "18"
+      }, {
+        "count" : 1,
+        "item" : "157"
+      }, {
+        "count" : 1,
+        "item" : "657"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2880244,
+    "name" : "Rate unfounded",
+    "dataTypeName" : "percent",
+    "fieldName" : "rate_unfounded",
+    "position" : 10,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1532943,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 27,
+      "smallest" : "0.00",
+      "sum" : "329.90",
+      "null" : 4,
+      "average" : "12.21851851851852",
+      "largest" : "44.80",
+      "top" : [ {
+        "count" : 2,
+        "item" : "0.50"
+      }, {
+        "count" : 1,
+        "item" : "3.60"
+      }, {
+        "count" : 1,
+        "item" : "3.20"
+      }, {
+        "count" : 1,
+        "item" : "1.70"
+      }, {
+        "count" : 1,
+        "item" : "14.30"
+      }, {
+        "count" : 1,
+        "item" : "26.10"
+      }, {
+        "count" : 1,
+        "item" : "10.30"
+      }, {
+        "count" : 1,
+        "item" : "44.80"
+      }, {
+        "count" : 1,
+        "item" : "1.50"
+      }, {
+        "count" : 1,
+        "item" : "8.50"
+      }, {
+        "count" : 1,
+        "item" : "6.60"
+      }, {
+        "count" : 1,
+        "item" : "5.20"
+      }, {
+        "count" : 1,
+        "item" : "30.40"
+      }, {
+        "count" : 1,
+        "item" : "1.60"
+      }, {
+        "count" : 1,
+        "item" : "20.10"
+      }, {
+        "count" : 1,
+        "item" : "7.50"
+      }, {
+        "count" : 1,
+        "item" : "12.90"
+      }, {
+        "count" : 1,
+        "item" : "10.90"
+      }, {
+        "count" : 1,
+        "item" : "17.20"
+      }, {
+        "count" : 1,
+        "item" : "0.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2880245,
+    "name" : "Number that were Officer unidentified",
+    "dataTypeName" : "number",
+    "fieldName" : "number_that_were_officer_unidentified",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1532944,
+    "width" : 544,
+    "cachedContents" : {
+      "non_null" : 27,
+      "smallest" : "0",
+      "sum" : "5108",
+      "null" : 4,
+      "average" : "189.1851851851852",
+      "largest" : "2554",
+      "top" : [ {
+        "count" : 2,
+        "item" : "30"
+      }, {
+        "count" : 1,
+        "item" : "1"
+      }, {
+        "count" : 1,
+        "item" : "58"
+      }, {
+        "count" : 1,
+        "item" : "19"
+      }, {
+        "count" : 1,
+        "item" : "108"
+      }, {
+        "count" : 1,
+        "item" : "325"
+      }, {
+        "count" : 1,
+        "item" : "4"
+      }, {
+        "count" : 1,
+        "item" : "213"
+      }, {
+        "count" : 1,
+        "item" : "38"
+      }, {
+        "count" : 1,
+        "item" : "106"
+      }, {
+        "count" : 1,
+        "item" : "305"
+      }, {
+        "count" : 1,
+        "item" : "56"
+      }, {
+        "count" : 1,
+        "item" : "51"
+      }, {
+        "count" : 1,
+        "item" : "2554"
+      }, {
+        "count" : 1,
+        "item" : "135"
+      }, {
+        "count" : 1,
+        "item" : "115"
+      }, {
+        "count" : 1,
+        "item" : "222"
+      }, {
+        "count" : 1,
+        "item" : "24"
+      }, {
+        "count" : 1,
+        "item" : "33"
+      }, {
+        "count" : 1,
+        "item" : "39"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2880246,
+    "name" : "Rate (Officer unidentified)",
+    "dataTypeName" : "percent",
+    "fieldName" : "rate_officer_unidentified_",
+    "position" : 12,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1532945,
+    "width" : 424,
+    "cachedContents" : {
+      "non_null" : 27,
+      "smallest" : "0.00",
+      "sum" : "298.80",
+      "null" : 4,
+      "average" : "11.06666666666667",
+      "largest" : "50.00",
+      "top" : [ {
+        "count" : 2,
+        "item" : "9.60"
+      }, {
+        "count" : 1,
+        "item" : "13.80"
+      }, {
+        "count" : 1,
+        "item" : "12.10"
+      }, {
+        "count" : 1,
+        "item" : "8.20"
+      }, {
+        "count" : 1,
+        "item" : "7.90"
+      }, {
+        "count" : 1,
+        "item" : "2.00"
+      }, {
+        "count" : 1,
+        "item" : "6.90"
+      }, {
+        "count" : 1,
+        "item" : "10.00"
+      }, {
+        "count" : 1,
+        "item" : "9.00"
+      }, {
+        "count" : 1,
+        "item" : "6.40"
+      }, {
+        "count" : 1,
+        "item" : "7.60"
+      }, {
+        "count" : 1,
+        "item" : "16.20"
+      }, {
+        "count" : 1,
+        "item" : "15.50"
+      }, {
+        "count" : 1,
+        "item" : "12.50"
+      }, {
+        "count" : 1,
+        "item" : "7.00"
+      }, {
+        "count" : 1,
+        "item" : "4.40"
+      }, {
+        "count" : 1,
+        "item" : "7.80"
+      }, {
+        "count" : 1,
+        "item" : "19.50"
+      }, {
+        "count" : 1,
+        "item" : "50.00"
+      }, {
+        "count" : 1,
+        "item" : "0.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2880247,
+    "name" : "Miscellaneous Number",
+    "dataTypeName" : "number",
+    "fieldName" : "miscellaneous_number",
+    "position" : 13,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1532946,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 27,
+      "smallest" : "0",
+      "sum" : "1116",
+      "null" : 4,
+      "average" : "41.33333333333333",
+      "largest" : "558",
+      "top" : [ {
+        "count" : 3,
+        "item" : "10"
+      }, {
+        "count" : 2,
+        "item" : "45"
+      }, {
+        "count" : 2,
+        "item" : "29"
+      }, {
+        "count" : 2,
+        "item" : "6"
+      }, {
+        "count" : 2,
+        "item" : "4"
+      }, {
+        "count" : 2,
+        "item" : "8"
+      }, {
+        "count" : 1,
+        "item" : "16"
+      }, {
+        "count" : 1,
+        "item" : "50"
+      }, {
+        "count" : 1,
+        "item" : "33"
+      }, {
+        "count" : 1,
+        "item" : "1"
+      }, {
+        "count" : 1,
+        "item" : "35"
+      }, {
+        "count" : 1,
+        "item" : "5"
+      }, {
+        "count" : 1,
+        "item" : "9"
+      }, {
+        "count" : 1,
+        "item" : "34"
+      }, {
+        "count" : 1,
+        "item" : "27"
+      }, {
+        "count" : 1,
+        "item" : "13"
+      }, {
+        "count" : 1,
+        "item" : "558"
+      }, {
+        "count" : 1,
+        "item" : "66"
+      }, {
+        "count" : 1,
+        "item" : "55"
+      }, {
+        "count" : 1,
+        "item" : "0"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2880248,
+    "name" : "Miscellaneous Rate",
+    "dataTypeName" : "percent",
+    "fieldName" : "miscellaneous_rate",
+    "position" : 14,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1532947,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 27,
+      "smallest" : "0.00",
+      "sum" : "58.80",
+      "null" : 4,
+      "average" : "2.177777777777778",
+      "largest" : "4.10",
+      "top" : [ {
+        "count" : 4,
+        "item" : "2.10"
+      }, {
+        "count" : 3,
+        "item" : "1.80"
+      }, {
+        "count" : 2,
+        "item" : "2.20"
+      }, {
+        "count" : 2,
+        "item" : "1.70"
+      }, {
+        "count" : 2,
+        "item" : "2.00"
+      }, {
+        "count" : 2,
+        "item" : "1.60"
+      }, {
+        "count" : 1,
+        "item" : "2.50"
+      }, {
+        "count" : 1,
+        "item" : "3.50"
+      }, {
+        "count" : 1,
+        "item" : "3.90"
+      }, {
+        "count" : 1,
+        "item" : "4.10"
+      }, {
+        "count" : 1,
+        "item" : "2.70"
+      }, {
+        "count" : 1,
+        "item" : "3.00"
+      }, {
+        "count" : 1,
+        "item" : "1.30"
+      }, {
+        "count" : 1,
+        "item" : "0.00"
+      }, {
+        "count" : 1,
+        "item" : "0.50"
+      }, {
+        "count" : 1,
+        "item" : "2.90"
+      }, {
+        "count" : 1,
+        "item" : "1.90"
+      }, {
+        "count" : 1,
+        "item" : "3.70"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "complaint", "civilian", "review", "board", "activity", "ccrb", "civilian complaint review board", "2005", "2006", "2007", "2008", "2009", "complaint activity", "statistics", "disciplinary recommendation", "allegation", "misconduct" ],
+  "flags" : [ "default" ]
+}

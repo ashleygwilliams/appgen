@@ -1,0 +1,501 @@
+{
+  "id" : "vi6e-zw9u",
+  "name" : "DOB License Fees",
+  "attribution" : "Department of Buildings (DOB)",
+  "averageRating" : 0,
+  "category" : "Business and Economic",
+  "createdAt" : 1314988362,
+  "description" : "List of fees charged for licenses issued by DOB",
+  "displayType" : "table",
+  "downloadCount" : 42,
+  "numberOfComments" : 0,
+  "oid" : 341948,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318034849,
+  "publicationGroup" : 240052,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318034796,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 243939,
+  "totalTimesRated" : 0,
+  "viewCount" : 307,
+  "viewLastModified" : 1363704984,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2982910,
+    "name" : "License Type",
+    "dataTypeName" : "text",
+    "fieldName" : "license_type",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1514659,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 27,
+      "smallest" : "Concrete Test Lab",
+      "null" : 0,
+      "largest" : "Welder",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Master Plumber"
+      }, {
+        "count" : 19,
+        "item" : "Plumber, Cert. Only"
+      }, {
+        "count" : 18,
+        "item" : "Master Fire Suppression"
+      }, {
+        "count" : 17,
+        "item" : "Fire Suppression, Cert. only"
+      }, {
+        "count" : 16,
+        "item" : "Journeyman Plumber/Fire"
+      }, {
+        "count" : 15,
+        "item" : "Master Sign Hangar"
+      }, {
+        "count" : 14,
+        "item" : "Special Sign Hangar"
+      }, {
+        "count" : 13,
+        "item" : "Master Rigger"
+      }, {
+        "count" : 12,
+        "item" : "Special Rigger"
+      }, {
+        "count" : 11,
+        "item" : "Welder"
+      }, {
+        "count" : 10,
+        "item" : "Hoist Machine Operator / Cherrypicker"
+      }, {
+        "count" : 9,
+        "item" : "Site Safety Manager"
+      }, {
+        "count" : 8,
+        "item" : "Site Safety Coordinator"
+      }, {
+        "count" : 7,
+        "item" : "Oil Burner Installer"
+      }, {
+        "count" : 6,
+        "item" : "Construction Superintendent"
+      }, {
+        "count" : 5,
+        "item" : "Engineer, Stationary/Portable"
+      }, {
+        "count" : 4,
+        "item" : "Tower Crane Rigger"
+      }, {
+        "count" : 3,
+        "item" : "Elevator Agency Director"
+      }, {
+        "count" : 2,
+        "item" : "Elevator Inspector"
+      }, {
+        "count" : 1,
+        "item" : "Concrete Test Lab"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2982911,
+    "name" : "License Term",
+    "dataTypeName" : "text",
+    "fieldName" : "license_term",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1514660,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 25,
+      "smallest" : "1 year",
+      "null" : 2,
+      "largest" : "No Expiration",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3 years"
+      }, {
+        "count" : 19,
+        "item" : "No Expiration"
+      }, {
+        "count" : 18,
+        "item" : "1 year"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2982912,
+    "name" : "Original",
+    "dataTypeName" : "number",
+    "fieldName" : "original",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1514661,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 23,
+      "smallest" : "10",
+      "sum" : "3355",
+      "null" : 4,
+      "average" : "145.8695652173913",
+      "largest" : "310",
+      "top" : [ {
+        "count" : 20,
+        "item" : "200"
+      }, {
+        "count" : 19,
+        "item" : "50"
+      }, {
+        "count" : 18,
+        "item" : "100"
+      }, {
+        "count" : 17,
+        "item" : "10"
+      }, {
+        "count" : 16,
+        "item" : "300"
+      }, {
+        "count" : 15,
+        "item" : "25"
+      }, {
+        "count" : 14,
+        "item" : "150"
+      }, {
+        "count" : 13,
+        "item" : "310"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2982913,
+    "name" : "Renewal",
+    "dataTypeName" : "number",
+    "fieldName" : "renewal",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1514662,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 22,
+      "smallest" : "5",
+      "sum" : "2055",
+      "null" : 5,
+      "average" : "93.40909090909091",
+      "largest" : "240",
+      "top" : [ {
+        "count" : 20,
+        "item" : "150"
+      }, {
+        "count" : 19,
+        "item" : "75"
+      }, {
+        "count" : 18,
+        "item" : "5"
+      }, {
+        "count" : 17,
+        "item" : "50"
+      }, {
+        "count" : 16,
+        "item" : "15"
+      }, {
+        "count" : 15,
+        "item" : "60"
+      }, {
+        "count" : 14,
+        "item" : "240"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2982914,
+    "name" : "Late Fee",
+    "dataTypeName" : "text",
+    "fieldName" : "late_fee",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1514663,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 25,
+      "smallest" : "10",
+      "null" : 2,
+      "largest" : "Up to 30 days late $50,  From 31 days to five years late - add an extra $100 for each year or partial year",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Up to 30 days late $50,  From 31 days to five years late - add an extra $100 for each year or partial year"
+      }, {
+        "count" : 19,
+        "item" : "N/A"
+      }, {
+        "count" : 18,
+        "item" : "50"
+      }, {
+        "count" : 17,
+        "item" : "5"
+      }, {
+        "count" : 16,
+        "item" : "Class A 50,  Class B 50,  Class C 50"
+      }, {
+        "count" : 15,
+        "item" : "10"
+      }, {
+        "count" : 14,
+        "item" : "310"
+      }, {
+        "count" : 13,
+        "item" : "50 per endorsement"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2982915,
+    "name" : "Reissue",
+    "dataTypeName" : "number",
+    "fieldName" : "reissue",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1514664,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 24,
+      "smallest" : "5",
+      "sum" : "1640",
+      "null" : 3,
+      "average" : "68.33333333333333",
+      "largest" : "310",
+      "top" : [ {
+        "count" : 20,
+        "item" : "50"
+      }, {
+        "count" : 19,
+        "item" : "5"
+      }, {
+        "count" : 18,
+        "item" : "15"
+      }, {
+        "count" : 17,
+        "item" : "310"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2982916,
+    "name" : "Original Seal",
+    "dataTypeName" : "text",
+    "fieldName" : "original_seal",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1514665,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 25,
+      "smallest" : "100",
+      "null" : 2,
+      "largest" : "N/A",
+      "top" : [ {
+        "count" : 20,
+        "item" : "50"
+      }, {
+        "count" : 19,
+        "item" : "N/A"
+      }, {
+        "count" : 18,
+        "item" : "100"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2982917,
+    "name" : "Original Plate",
+    "dataTypeName" : "text",
+    "fieldName" : "original_plate",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1514666,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 25,
+      "smallest" : "75",
+      "null" : 2,
+      "largest" : "N/A",
+      "top" : [ {
+        "count" : 20,
+        "item" : "75"
+      }, {
+        "count" : 19,
+        "item" : "N/A"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2982918,
+    "name" : "Plate & Seal Renewal",
+    "dataTypeName" : "text",
+    "fieldName" : "plate_seal_renewal",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1514667,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 24,
+      "smallest" : "175",
+      "null" : 3,
+      "largest" : "N/A",
+      "top" : [ {
+        "count" : 20,
+        "item" : "175"
+      }, {
+        "count" : 19,
+        "item" : "N/A"
+      }, {
+        "count" : 18,
+        "item" : "25 (seal only)"
+      }, {
+        "count" : 17,
+        "item" : "30 (seal only)"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2982919,
+    "name" : "Replacement Seal",
+    "dataTypeName" : "text",
+    "fieldName" : "replacement_seal",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1514668,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 24,
+      "smallest" : "50",
+      "null" : 3,
+      "largest" : "N/A",
+      "top" : [ {
+        "count" : 20,
+        "item" : "75"
+      }, {
+        "count" : 19,
+        "item" : "N/A"
+      }, {
+        "count" : 18,
+        "item" : "50"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2982920,
+    "name" : "Replacement Plate",
+    "dataTypeName" : "text",
+    "fieldName" : "replacement_plate",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1514669,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 24,
+      "smallest" : "100",
+      "null" : 3,
+      "largest" : "N/A",
+      "top" : [ {
+        "count" : 20,
+        "item" : "100"
+      }, {
+        "count" : 19,
+        "item" : "N/A"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2982921,
+    "name" : "Certificate",
+    "dataTypeName" : "text",
+    "fieldName" : "certificate",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1514670,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 25,
+      "smallest" : "5 each copy",
+      "null" : 2,
+      "largest" : "N/A",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N/A"
+      }, {
+        "count" : 19,
+        "item" : "5 each copy"
+      }, {
+        "count" : 18,
+        "item" : "5 replacement license for Port. Eng."
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "F6FE9DB5-D048-40C3-A908-96DDD0BD4428",
+      "name" : "DOB_Metadata_001.doc",
+      "filename" : "DOB_Metadata_001.doc"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "license", "property", "building", "fee", "clean web" ],
+  "flags" : [ "default" ]
+}

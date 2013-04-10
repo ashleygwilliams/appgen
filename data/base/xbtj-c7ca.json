@@ -1,0 +1,736 @@
+{
+  "id" : "xbtj-c7ca",
+  "name" : "NYC Parking Facilities",
+  "attribution" : "Department of Consumer Affairs (DCA)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1311974171,
+  "description" : "A list of all parking facilities in New York City",
+  "displayType" : "table",
+  "downloadCount" : 239,
+  "numberOfComments" : 0,
+  "oid" : 330688,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1311974171,
+  "publicationGroup" : 239011,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1313895287,
+  "rowsUpdatedBy" : "4f6h-73aa",
+  "signed" : false,
+  "tableId" : 239011,
+  "totalTimesRated" : 0,
+  "viewCount" : 1015,
+  "viewLastModified" : 1362088712,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2803418,
+    "name" : "Facility Type",
+    "dataTypeName" : "text",
+    "fieldName" : "facility_type",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1503095,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 1912,
+      "smallest" : "Garage - Parking Lot Combo",
+      "null" : 0,
+      "largest" : "Parking Lot",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Garage - Parking Lot Combo"
+      }, {
+        "count" : 19,
+        "item" : "Parking Garage"
+      }, {
+        "count" : 18,
+        "item" : "Parking Lot"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2803507,
+    "name" : "License Number",
+    "dataTypeName" : "text",
+    "fieldName" : "license_number",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1503104,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 1912,
+      "smallest" : "1000450",
+      "null" : 0,
+      "largest" : "999985",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1204269"
+      }, {
+        "count" : 19,
+        "item" : "1209226"
+      }, {
+        "count" : 18,
+        "item" : "1213656"
+      }, {
+        "count" : 17,
+        "item" : "1213660"
+      }, {
+        "count" : 16,
+        "item" : "1235312"
+      }, {
+        "count" : 15,
+        "item" : "1240692"
+      }, {
+        "count" : 14,
+        "item" : "1250694"
+      }, {
+        "count" : 13,
+        "item" : "1251057"
+      }, {
+        "count" : 12,
+        "item" : "1258489"
+      }, {
+        "count" : 11,
+        "item" : "1262747"
+      }, {
+        "count" : 10,
+        "item" : "1268783"
+      }, {
+        "count" : 9,
+        "item" : "1270806"
+      }, {
+        "count" : 8,
+        "item" : "1283185"
+      }, {
+        "count" : 7,
+        "item" : "1283555"
+      }, {
+        "count" : 6,
+        "item" : "1284361"
+      }, {
+        "count" : 5,
+        "item" : "1308596"
+      }, {
+        "count" : 4,
+        "item" : "1309572"
+      }, {
+        "count" : 3,
+        "item" : "1316793"
+      }, {
+        "count" : 2,
+        "item" : "1318556"
+      }, {
+        "count" : 1,
+        "item" : "1330282"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 2803420,
+    "name" : "Entity Name",
+    "dataTypeName" : "text",
+    "fieldName" : "entity_name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1503097,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 1912,
+      "smallest" : "100 ML GARAGE CORP",
+      "null" : 0,
+      "largest" : "ZOOM CAR PARK INC",
+      "top" : [ {
+        "count" : 20,
+        "item" : "CENTRAL PARKING SYSTEM OF NEW YORK INC"
+      }, {
+        "count" : 19,
+        "item" : "CENTRAL PARKING SYSTEM OF NEW YORK, INC"
+      }, {
+        "count" : 18,
+        "item" : "CENTRAL PARKING SYSTEM OF NEW YORK, INC."
+      }, {
+        "count" : 17,
+        "item" : "EDISON NY PARKING LLC"
+      }, {
+        "count" : 16,
+        "item" : "PARK RIGHT, CORP"
+      }, {
+        "count" : 15,
+        "item" : "LPARK 1 LLC"
+      }, {
+        "count" : 14,
+        "item" : "CARLISLE PARKING LLC"
+      }, {
+        "count" : 13,
+        "item" : "F H PARKING LOT INC"
+      }, {
+        "count" : 12,
+        "item" : "79TH STREET, CORP"
+      }, {
+        "count" : 11,
+        "item" : "LAFAYETTE STREET PARKING, LLC"
+      }, {
+        "count" : 10,
+        "item" : "G & M PARKING LOT, INC."
+      }, {
+        "count" : 9,
+        "item" : "HERKERMER PARKING INC."
+      }, {
+        "count" : 8,
+        "item" : "NEW YORK SKYPORTS INC"
+      }, {
+        "count" : 7,
+        "item" : "PARADISE PARKING CORP"
+      }, {
+        "count" : 6,
+        "item" : "PARKING COMPANY OF AMERICA AIRPORTS, LLC"
+      }, {
+        "count" : 5,
+        "item" : "KINNEY PARKING SYSTEM, INC"
+      }, {
+        "count" : 4,
+        "item" : "SWEET MARY PARKING, CORP."
+      }, {
+        "count" : 3,
+        "item" : "PROPARK AMERICA NEW YORK, LLC"
+      }, {
+        "count" : 2,
+        "item" : "PROPARK AMERICA NEW YORK, LLC."
+      }, {
+        "count" : 1,
+        "item" : "STANDARD PARKING CORP."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2803421,
+    "name" : "Trade Name",
+    "dataTypeName" : "text",
+    "fieldName" : "trade_name",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1503098,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 235,
+      "smallest" : "108TH ST GARAGE",
+      "null" : 1677,
+      "largest" : "Y & H GARAGE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "GGMC"
+      }, {
+        "count" : 19,
+        "item" : "CENTRAL PARKING SYSTEM"
+      }, {
+        "count" : 18,
+        "item" : "MEYERS PARKING"
+      }, {
+        "count" : 17,
+        "item" : "IMPARK"
+      }, {
+        "count" : 16,
+        "item" : "C.G. PARKING"
+      }, {
+        "count" : 15,
+        "item" : "AVISTAR AIRPORT PARKING"
+      }, {
+        "count" : 14,
+        "item" : "M&M PARKING 11"
+      }, {
+        "count" : 13,
+        "item" : "EDB PARKING"
+      }, {
+        "count" : 12,
+        "item" : "CABRERA PARKING"
+      }, {
+        "count" : 11,
+        "item" : "SAFE PARKING 111"
+      }, {
+        "count" : 10,
+        "item" : "C.N.A. PARKING"
+      }, {
+        "count" : 9,
+        "item" : "BAUTISTA PARKING"
+      }, {
+        "count" : 8,
+        "item" : "J & R PARKING LOT"
+      }, {
+        "count" : 7,
+        "item" : "RUDY'S PARKING"
+      }, {
+        "count" : 6,
+        "item" : "GARRISON PARKING LOT & SALES, CO."
+      }, {
+        "count" : 5,
+        "item" : "ONE WAY 24 HOUR PARKING"
+      }, {
+        "count" : 4,
+        "item" : "PURE ROYALTY PARKING GARAGE"
+      }, {
+        "count" : 3,
+        "item" : "KO HYONG TRUCK PARKING"
+      }, {
+        "count" : 2,
+        "item" : "NEIGHBORHOOD PARKING FACILITY"
+      }, {
+        "count" : 1,
+        "item" : "IMPARK - SOUTHFIELD LOT"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2803422,
+    "name" : "Address",
+    "dataTypeName" : "location",
+    "fieldName" : "address",
+    "position" : 6,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1503099,
+    "width" : 381,
+    "cachedContents" : {
+      "non_null" : 1911,
+      "smallest" : {
+        "longitude" : "-74.00033293465881",
+        "latitude" : "40.76251544973604",
+        "human_address" : "{\"address\":\"0 12 AVE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10036\"}"
+      },
+      "null" : 1,
+      "largest" : {
+        "longitude" : "-73.82706856556183",
+        "latitude" : "40.874142343794176",
+        "human_address" : "{\"address\":\"999 CO-OP CITY BOULEVARD\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10475\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.92384136798472",
+          "latitude" : "40.82069640711353",
+          "human_address" : "{\"address\":\"296 GRAND\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10451\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.98292146163978",
+          "latitude" : "40.7103422107454",
+          "human_address" : "{\"address\":\"0 MARGINAL STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10038\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.75575331557039",
+          "latitude" : "40.73547283631498",
+          "human_address" : "{\"address\":\"0 PECK\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10038\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.86148084756303",
+          "latitude" : "40.72646491702238",
+          "human_address" : "{\"address\":\"93 30 HORACE HARDING EXPRESSWAY\",\"city\":\"REGO PARK\",\"state\":\"NY\",\"zip\":\"11374\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.9476419453016",
+          "latitude" : "40.63229592049121",
+          "human_address" : "{\"address\":\"2160 NOSTRAND AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11210\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.9187702054901",
+          "latitude" : "40.81814745019204",
+          "human_address" : "{\"address\":\"616 COURTLANDT AVENUE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10451\"}"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.93866902925225",
+          "latitude" : "40.74570244980828",
+          "human_address" : "{\"address\":\"49 20 VERNON BOULEVARD\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11101\"}"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.99688630375988",
+          "latitude" : "40.75025902143676",
+          "human_address" : "{\"address\":\"260 270 12 AVENUE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10001\"}"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.84628429608335",
+          "latitude" : "40.720707263029794",
+          "human_address" : "{\"address\":\"1420 1424 GATEWAY BOULEVARD\",\"city\":\"FAR ROCKAWAY\",\"state\":\"NY\",\"zip\":\"11375\"}"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.99688630375988",
+          "latitude" : "40.75025902143676",
+          "human_address" : "{\"address\":\"444 446 10 AVENUE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10001\"}"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.78637495254196",
+          "latitude" : "40.64722932617252",
+          "human_address" : "{\"address\":\"149 20 131 STREET\",\"city\":\"JAMAICA\",\"state\":\"NY\",\"zip\":\"11430\"}"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.84521617705947",
+          "latitude" : "40.84568771938698",
+          "human_address" : "{\"address\":\"1527 BLONDELL AVENUE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10461\"}"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.93866902925225",
+          "latitude" : "40.74570244980828",
+          "human_address" : "{\"address\":\"43 29 CRESCENT STREET\",\"city\":\"LONG ISLND CITY\",\"state\":\"NY\",\"zip\":\"11101\"}"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.90841062908645",
+          "latitude" : "40.828535508055445",
+          "human_address" : "{\"address\":\"1108 WASHINGTON AVENUE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10456\"}"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.95637513046132",
+          "latitude" : "40.77980127149341",
+          "human_address" : "{\"address\":\"118 86 STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10028\"}"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.93909809768377",
+          "latitude" : "40.843647786609324",
+          "human_address" : "{\"address\":\"4070 BROADWAY\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10032\"}"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-74.0054760373078",
+          "latitude" : "40.70580055686809",
+          "human_address" : "{\"address\":\"151 MAIDEN LANE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10038\"}"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.94927842305543",
+          "latitude" : "40.78810565807976",
+          "human_address" : "{\"address\":\"1559 LEXINGTON AVENUE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10029\"}"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.89723767232358",
+          "latitude" : "40.85362293744357",
+          "human_address" : "{\"address\":\"2160 WEBSTER AVENUE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10457\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-73.91033775424992",
+          "latitude" : "40.824606455499385",
+          "human_address" : "{\"address\":\"487 163 STREET\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10451\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 2803423,
+    "name" : "Address Zip Code",
+    "dataTypeName" : "number",
+    "fieldName" : "address_zip_code",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1503100,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 1910,
+      "smallest" : "100",
+      "sum" : "19756988",
+      "null" : 2,
+      "average" : "10343.97277486911",
+      "largest" : "11691",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10011"
+      }, {
+        "count" : 19,
+        "item" : "10016"
+      }, {
+        "count" : 18,
+        "item" : "10021"
+      }, {
+        "count" : 17,
+        "item" : "10036"
+      }, {
+        "count" : 16,
+        "item" : "10028"
+      }, {
+        "count" : 15,
+        "item" : "10128"
+      }, {
+        "count" : 14,
+        "item" : "10019"
+      }, {
+        "count" : 13,
+        "item" : "10022"
+      }, {
+        "count" : 12,
+        "item" : "10003"
+      }, {
+        "count" : 11,
+        "item" : "10001"
+      }, {
+        "count" : 10,
+        "item" : "11201"
+      }, {
+        "count" : 9,
+        "item" : "10018"
+      }, {
+        "count" : 8,
+        "item" : "10013"
+      }, {
+        "count" : 7,
+        "item" : "11101"
+      }, {
+        "count" : 6,
+        "item" : "10457"
+      }, {
+        "count" : 5,
+        "item" : "10017"
+      }, {
+        "count" : 4,
+        "item" : "10023"
+      }, {
+        "count" : 3,
+        "item" : "10462"
+      }, {
+        "count" : 2,
+        "item" : "11363"
+      }, {
+        "count" : 1,
+        "item" : "10006"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 2803509,
+    "name" : "Telephone Number",
+    "dataTypeName" : "text",
+    "fieldName" : "telephone_number",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1503105,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 1912,
+      "smallest" : "129966363",
+      "null" : 0,
+      "largest" : "9999999999",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2126869800"
+      }, {
+        "count" : 19,
+        "item" : "2126296602"
+      }, {
+        "count" : 18,
+        "item" : "2127367171"
+      }, {
+        "count" : 17,
+        "item" : "2129966363"
+      }, {
+        "count" : 16,
+        "item" : "2124903460"
+      }, {
+        "count" : 15,
+        "item" : "2125025490"
+      }, {
+        "count" : 14,
+        "item" : "2122216111"
+      }, {
+        "count" : 13,
+        "item" : "2128322066"
+      }, {
+        "count" : 12,
+        "item" : "2129299404"
+      }, {
+        "count" : 11,
+        "item" : "9144786300"
+      }, {
+        "count" : 10,
+        "item" : "7187882109"
+      }, {
+        "count" : 9,
+        "item" : "3472347529"
+      }, {
+        "count" : 8,
+        "item" : "9178466146"
+      }, {
+        "count" : 7,
+        "item" : "2122624771"
+      }, {
+        "count" : 6,
+        "item" : "6464047585"
+      }, {
+        "count" : 5,
+        "item" : "7185225111"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 2803425,
+    "name" : "Number of Spaces",
+    "dataTypeName" : "number",
+    "fieldName" : "number_of_spaces",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1503102,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 1912,
+      "smallest" : "1",
+      "sum" : "303939",
+      "null" : 0,
+      "average" : "158.9639121338912",
+      "largest" : "6640",
+      "top" : [ {
+        "count" : 20,
+        "item" : "150"
+      }, {
+        "count" : 19,
+        "item" : "100"
+      }, {
+        "count" : 18,
+        "item" : "25"
+      }, {
+        "count" : 17,
+        "item" : "50"
+      }, {
+        "count" : 16,
+        "item" : "75"
+      }, {
+        "count" : 15,
+        "item" : "40"
+      }, {
+        "count" : 14,
+        "item" : "60"
+      }, {
+        "count" : 13,
+        "item" : "105"
+      }, {
+        "count" : 12,
+        "item" : "58"
+      }, {
+        "count" : 11,
+        "item" : "42"
+      }, {
+        "count" : 10,
+        "item" : "89"
+      }, {
+        "count" : 9,
+        "item" : "225"
+      }, {
+        "count" : 8,
+        "item" : "30"
+      }, {
+        "count" : 7,
+        "item" : "184"
+      }, {
+        "count" : 6,
+        "item" : "9"
+      }, {
+        "count" : 5,
+        "item" : "18"
+      }, {
+        "count" : 4,
+        "item" : "80"
+      }, {
+        "count" : 3,
+        "item" : "302"
+      }, {
+        "count" : 2,
+        "item" : "88"
+      }, {
+        "count" : 1,
+        "item" : "20"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "parking facilities", "car", "automobile" ],
+  "flags" : [ "default" ]
+}

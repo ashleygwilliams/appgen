@@ -1,0 +1,572 @@
+{
+  "id" : "yts9-kmw9",
+  "name" : "NYPD Public Indicators",
+  "attribution" : "Mayor's Office of Operations (OPS)",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1314646093,
+  "description" : "NYPD crime statistics by precinct (CPR)",
+  "displayType" : "table",
+  "downloadCount" : 304,
+  "numberOfComments" : 0,
+  "oid" : 343539,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318370171,
+  "publicationGroup" : 239892,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318370166,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 244829,
+  "totalTimesRated" : 0,
+  "viewCount" : 1805,
+  "viewLastModified" : 1360856472,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3009700,
+    "name" : "Citywide Theme",
+    "dataTypeName" : "text",
+    "fieldName" : "citywide_theme",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513323,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 8364,
+      "smallest" : "Education",
+      "null" : 0,
+      "largest" : "Public Safety",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Public Safety"
+      }, {
+        "count" : 19,
+        "item" : "Education"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3009701,
+    "name" : "Agency Name",
+    "dataTypeName" : "text",
+    "fieldName" : "agency_name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513324,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 8364,
+      "smallest" : "New York City Police Department",
+      "null" : 0,
+      "largest" : "New York City Police Department",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New York City Police Department"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3009702,
+    "name" : "Agency",
+    "dataTypeName" : "text",
+    "fieldName" : "agency",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513325,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 8364,
+      "smallest" : "NYPD",
+      "null" : 0,
+      "largest" : "NYPD",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NYPD"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3009703,
+    "name" : "Indicator Name",
+    "dataTypeName" : "text",
+    "fieldName" : "indicator_name",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513326,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 8364,
+      "smallest" : "Average response time to all crimes in progress - Citywide (minutes)",
+      "null" : 0,
+      "largest" : "School safety - seven major crimes",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Average Response Time to crimes in progress - Critical (minutes)"
+      }, {
+        "count" : 19,
+        "item" : "Major felony crime"
+      }, {
+        "count" : 18,
+        "item" : "School safety - seven major crimes"
+      }, {
+        "count" : 17,
+        "item" : "Murder and non-negligent manslaughter *"
+      }, {
+        "count" : 16,
+        "item" : "Forcible rape *"
+      }, {
+        "count" : 15,
+        "item" : "Average response time to all crimes in progress - Citywide (minutes)"
+      }, {
+        "count" : 14,
+        "item" : "Robbery *"
+      }, {
+        "count" : 13,
+        "item" : "Felonious assault *"
+      }, {
+        "count" : 12,
+        "item" : "Burglary"
+      }, {
+        "count" : 11,
+        "item" : "Grand larceny"
+      }, {
+        "count" : 10,
+        "item" : "Grand larceny auto"
+      }, {
+        "count" : 9,
+        "item" : "Major felony crime in housing developments"
+      }, {
+        "count" : 8,
+        "item" : "Major felony crime in transit system"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3009704,
+    "name" : "Sub-Indicator",
+    "dataTypeName" : "text",
+    "fieldName" : "sub_indicator",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513327,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 8364,
+      "smallest" : "Average response time to all crimes in progress - Citywide (minutes)",
+      "null" : 0,
+      "largest" : "School safety - seven major crimes"
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3009705,
+    "name" : "Desired Direction",
+    "dataTypeName" : "text",
+    "fieldName" : "desired_direction",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513328,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 8364,
+      "smallest" : "Down",
+      "null" : 0,
+      "largest" : "Down",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Down"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3009706,
+    "name" : "Additive",
+    "dataTypeName" : "text",
+    "fieldName" : "additive",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513329,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 8364,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3009707,
+    "name" : "Reporting Period",
+    "dataTypeName" : "text",
+    "fieldName" : "reporting_period",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513330,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 8364,
+      "smallest" : "Fiscal Year",
+      "null" : 0,
+      "largest" : "School Year",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Fiscal Year"
+      }, {
+        "count" : 19,
+        "item" : "School Year"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3009708,
+    "name" : "Frequency",
+    "dataTypeName" : "text",
+    "fieldName" : "frequency",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513331,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 8364,
+      "smallest" : "Monthly",
+      "null" : 0,
+      "largest" : "PMMR/MMR",
+      "top" : [ {
+        "count" : 20,
+        "item" : "PMMR/MMR"
+      }, {
+        "count" : 19,
+        "item" : "Monthly"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3009709,
+    "name" : "Reporting Lag Time (Weeks)",
+    "dataTypeName" : "number",
+    "fieldName" : "reporting_lag_time_weeks_",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1513332,
+    "width" : 412,
+    "cachedContents" : {
+      "non_null" : 8364,
+      "smallest" : "2",
+      "sum" : "22344",
+      "null" : 0,
+      "average" : "2.671449067431851",
+      "largest" : "8",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3009710,
+    "name" : "MMR Indicator",
+    "dataTypeName" : "text",
+    "fieldName" : "mmr_indicator",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513333,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 8364,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3009711,
+    "name" : "Zero Tolerance",
+    "dataTypeName" : "text",
+    "fieldName" : "zero_tolerance",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513334,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 8364,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3009712,
+    "name" : "Month",
+    "dataTypeName" : "text",
+    "fieldName" : "month",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513335,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 8364,
+      "smallest" : "2010 / 07",
+      "null" : 0,
+      "largest" : "2011 / 06",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2010 / 07"
+      }, {
+        "count" : 19,
+        "item" : "2010 / 08"
+      }, {
+        "count" : 18,
+        "item" : "2010 / 09"
+      }, {
+        "count" : 17,
+        "item" : "2010 / 10"
+      }, {
+        "count" : 16,
+        "item" : "2010 / 11"
+      }, {
+        "count" : 15,
+        "item" : "2010 / 12"
+      }, {
+        "count" : 14,
+        "item" : "2011 / 01"
+      }, {
+        "count" : 13,
+        "item" : "2011 / 02"
+      }, {
+        "count" : 12,
+        "item" : "2011 / 03"
+      }, {
+        "count" : 11,
+        "item" : "2011 / 04"
+      }, {
+        "count" : 10,
+        "item" : "2011 / 05"
+      }, {
+        "count" : 9,
+        "item" : "2011 / 06"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3009713,
+    "name" : "Month Value",
+    "dataTypeName" : "text",
+    "fieldName" : "month_value",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513336,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "0",
+      "null" : 8346,
+      "largest" : "9647",
+      "top" : [ {
+        "count" : 20,
+        "item" : "105496"
+      }, {
+        "count" : 19,
+        "item" : "0"
+      }, {
+        "count" : 18,
+        "item" : "801"
+      }, {
+        "count" : 17,
+        "item" : "526"
+      }, {
+        "count" : 16,
+        "item" : "1138"
+      }, {
+        "count" : 15,
+        "item" : "8.35"
+      }, {
+        "count" : 14,
+        "item" : "8.44"
+      }, {
+        "count" : 13,
+        "item" : "19495"
+      }, {
+        "count" : 12,
+        "item" : "17743"
+      }, {
+        "count" : 11,
+        "item" : "18423"
+      }, {
+        "count" : 10,
+        "item" : "38193"
+      }, {
+        "count" : 9,
+        "item" : "9647"
+      }, {
+        "count" : 8,
+        "item" : "4406"
+      }, {
+        "count" : 7,
+        "item" : "2321"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3009714,
+    "name" : "YTD Value",
+    "dataTypeName" : "text",
+    "fieldName" : "ytd_value",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513337,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 7446,
+      "smallest" : "0",
+      "null" : 918,
+      "largest" : "999",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      }, {
+        "count" : 18,
+        "item" : "2"
+      }, {
+        "count" : 17,
+        "item" : "3"
+      }, {
+        "count" : 16,
+        "item" : "32"
+      }, {
+        "count" : 15,
+        "item" : "41"
+      }, {
+        "count" : 14,
+        "item" : "3964"
+      }, {
+        "count" : 13,
+        "item" : "4406"
+      }, {
+        "count" : 12,
+        "item" : "178"
+      }, {
+        "count" : 11,
+        "item" : "364"
+      }, {
+        "count" : 10,
+        "item" : "525"
+      }, {
+        "count" : 9,
+        "item" : "724"
+      }, {
+        "count" : 8,
+        "item" : "908"
+      }, {
+        "count" : 7,
+        "item" : "1148"
+      }, {
+        "count" : 6,
+        "item" : "1344"
+      }, {
+        "count" : 5,
+        "item" : "1514"
+      }, {
+        "count" : 4,
+        "item" : "1708"
+      }, {
+        "count" : 3,
+        "item" : "1894"
+      }, {
+        "count" : 2,
+        "item" : "2107"
+      }, {
+        "count" : 1,
+        "item" : "2321"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "mayor's office of operations", "operations", "ops", "public safety", "public", "safety", "cpr", "crime", "nypd", "police", "cop", "cops", "precinct", "new york" ],
+  "flags" : [ "default" ]
+}

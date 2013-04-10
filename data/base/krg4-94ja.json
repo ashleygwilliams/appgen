@@ -1,0 +1,248 @@
+{
+  "id" : "krg4-94ja",
+  "name" : "Birth Rate by Mother’s Birthplace (Top 10), 2007",
+  "attribution" : "Department of Health and Mental Hygiene (DOHMH)",
+  "averageRating" : 0,
+  "category" : "Health",
+  "createdAt" : 1318342357,
+  "description" : "Rate of birth's according to the mother's birthplace\r\n\r\nUpdate Schedule: As required",
+  "displayType" : "table",
+  "downloadCount" : 12,
+  "numberOfComments" : 0,
+  "oid" : 343456,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318357465,
+  "publicationGroup" : 244714,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318357445,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 244776,
+  "totalTimesRated" : 0,
+  "viewCount" : 64,
+  "viewLastModified" : 1363712457,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3008555,
+    "name" : "Mother's Birthplace (Top 10 Countries) ",
+    "dataTypeName" : "text",
+    "fieldName" : "mother_s_birthplace_top_10_countries_",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1571602,
+    "width" : 568,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "* U.S. includes Puerto Rico and other U.S. territories.",
+      "null" : 1,
+      "largest" : "† Denominator does not include those in Not stated/Unknown category. For variables with large numbers of Not Stated/Unknowns, interpret percents with caution.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "United States* "
+      }, {
+        "count" : 19,
+        "item" : "Mexico "
+      }, {
+        "count" : 18,
+        "item" : "China "
+      }, {
+        "count" : 17,
+        "item" : "Dominican Republic "
+      }, {
+        "count" : 16,
+        "item" : "Jamaica "
+      }, {
+        "count" : 15,
+        "item" : "Ecuador "
+      }, {
+        "count" : 14,
+        "item" : "Guyana "
+      }, {
+        "count" : 13,
+        "item" : "Trinidad and Tobago "
+      }, {
+        "count" : 12,
+        "item" : "Bangladesh "
+      }, {
+        "count" : 11,
+        "item" : "India "
+      }, {
+        "count" : 10,
+        "item" : "Other "
+      }, {
+        "count" : 9,
+        "item" : "Not stated/unknown "
+      }, {
+        "count" : 8,
+        "item" : "Notes:"
+      }, {
+        "count" : 7,
+        "item" : "Percent not calculated for Not Stated/Unknown category."
+      }, {
+        "count" : 6,
+        "item" : "* U.S. includes Puerto Rico and other U.S. territories."
+      }, {
+        "count" : 5,
+        "item" : "† Denominator does not include those in Not stated/Unknown category. For variables with large numbers of Not Stated/Unknowns, interpret percents with caution."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3008556,
+    "name" : "Total Reported ",
+    "dataTypeName" : "number",
+    "fieldName" : "total_reported_",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1571603,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 12,
+      "smallest" : "491",
+      "sum" : "128961",
+      "null" : 5,
+      "average" : "10746.75",
+      "largest" : "61466",
+      "top" : [ {
+        "count" : 20,
+        "item" : "61466"
+      }, {
+        "count" : 19,
+        "item" : "8225"
+      }, {
+        "count" : 18,
+        "item" : "7905"
+      }, {
+        "count" : 17,
+        "item" : "7620"
+      }, {
+        "count" : 16,
+        "item" : "3162"
+      }, {
+        "count" : 15,
+        "item" : "3060"
+      }, {
+        "count" : 14,
+        "item" : "2262"
+      }, {
+        "count" : 13,
+        "item" : "1867"
+      }, {
+        "count" : 12,
+        "item" : "1674"
+      }, {
+        "count" : 11,
+        "item" : "1615"
+      }, {
+        "count" : 10,
+        "item" : "29614"
+      }, {
+        "count" : 9,
+        "item" : "491"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3008557,
+    "name" : "Percent of Live Births",
+    "dataTypeName" : "percent",
+    "fieldName" : "percent_of_live_births_",
+    "position" : 4,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1571604,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 11,
+      "smallest" : "1.30",
+      "sum" : "100.20",
+      "null" : 6,
+      "average" : "9.109090909090909",
+      "largest" : "47.80",
+      "top" : [ {
+        "count" : 20,
+        "item" : "47.80"
+      }, {
+        "count" : 19,
+        "item" : "6.40"
+      }, {
+        "count" : 18,
+        "item" : "6.20"
+      }, {
+        "count" : 17,
+        "item" : "5.90"
+      }, {
+        "count" : 16,
+        "item" : "2.50"
+      }, {
+        "count" : 15,
+        "item" : "2.40"
+      }, {
+        "count" : 14,
+        "item" : "1.80"
+      }, {
+        "count" : 13,
+        "item" : "1.50"
+      }, {
+        "count" : 12,
+        "item" : "1.30"
+      }, {
+        "count" : 11,
+        "item" : "23.10"
+      } ]
+    },
+    "format" : {
+      "noCommas" : "false",
+      "align" : "right",
+      "view" : "percent_bar_and_text"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "birth", "labor", "birthplace", "mother", "mom", "baby", "healthy living" ],
+  "flags" : [ "default" ]
+}

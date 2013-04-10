@@ -1,0 +1,482 @@
+{
+  "id" : "kzmz-ivhb",
+  "name" : "DSNY's Refuse and Recycling Disposal Networks",
+  "attribution" : "Department of Sanitation (DSNY)",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1318286904,
+  "description" : "For each Community District, the name and address of the location where Refuse, Paper, and Metal/Glass/Plastic collected in that district are disposed of under normal operating circumstances.\r\nUpdate Schedule: As required",
+  "displayType" : "table",
+  "downloadCount" : 80,
+  "numberOfComments" : 0,
+  "oid" : 343003,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318286976,
+  "publicationGroup" : 244557,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318286909,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 244557,
+  "totalTimesRated" : 0,
+  "viewCount" : 276,
+  "viewLastModified" : 1363704694,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3000422,
+    "name" : "District",
+    "dataTypeName" : "text",
+    "fieldName" : "district",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1569799,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 180,
+      "smallest" : "BK01",
+      "null" : 0,
+      "largest" : "SI03",
+      "top" : [ {
+        "count" : 20,
+        "item" : "QN03"
+      }, {
+        "count" : 19,
+        "item" : "QN04"
+      }, {
+        "count" : 18,
+        "item" : "QN05"
+      }, {
+        "count" : 17,
+        "item" : "QN06"
+      }, {
+        "count" : 16,
+        "item" : "QN09"
+      }, {
+        "count" : 15,
+        "item" : "QN07"
+      }, {
+        "count" : 14,
+        "item" : "QN08"
+      }, {
+        "count" : 13,
+        "item" : "QN10"
+      }, {
+        "count" : 12,
+        "item" : "QN11"
+      }, {
+        "count" : 11,
+        "item" : "QN12"
+      }, {
+        "count" : 10,
+        "item" : "QN13"
+      }, {
+        "count" : 9,
+        "item" : "QN13A"
+      }, {
+        "count" : 8,
+        "item" : "QN14"
+      }, {
+        "count" : 7,
+        "item" : "SI01"
+      }, {
+        "count" : 6,
+        "item" : "SI02"
+      }, {
+        "count" : 5,
+        "item" : "SI03"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3000423,
+    "name" : "Material",
+    "dataTypeName" : "text",
+    "fieldName" : "material",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1569800,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 180,
+      "smallest" : "Met, Glass, Plastic",
+      "null" : 0,
+      "largest" : "Refuse",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Refuse"
+      }, {
+        "count" : 19,
+        "item" : "Paper"
+      }, {
+        "count" : 18,
+        "item" : "Met, Glass, Plastic"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3000424,
+    "name" : "Primary Disposal Facility",
+    "dataTypeName" : "text",
+    "fieldName" : "primary_disposal_facility",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1569801,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 180,
+      "smallest" : "BFI - Thames",
+      "null" : 0,
+      "largest" : "WS: Stanley",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Covanta - Essex"
+      }, {
+        "count" : 19,
+        "item" : "WM - Julia"
+      }, {
+        "count" : 18,
+        "item" : "Veoila - Totowa"
+      }, {
+        "count" : 17,
+        "item" : "WM-Harlem River"
+      }, {
+        "count" : 16,
+        "item" : "WM - Varick"
+      }, {
+        "count" : 15,
+        "item" : "IESI - Court"
+      }, {
+        "count" : 14,
+        "item" : "IESI - 50 st"
+      }, {
+        "count" : 13,
+        "item" : "BFI - Thames"
+      }, {
+        "count" : 12,
+        "item" : "IESI - 50 St"
+      }, {
+        "count" : 11,
+        "item" : "WS: Stanley"
+      }, {
+        "count" : 10,
+        "item" : "WM: Review"
+      }, {
+        "count" : 9,
+        "item" : "Veoila - Paterson"
+      }, {
+        "count" : 8,
+        "item" : "Veolia - Eastern"
+      }, {
+        "count" : 7,
+        "item" : "Tully"
+      }, {
+        "count" : 6,
+        "item" : "IESI Seneca"
+      }, {
+        "count" : 5,
+        "item" : "Covanta - Hempstead"
+      }, {
+        "count" : 4,
+        "item" : "SITS"
+      }, {
+        "count" : 3,
+        "item" : "Visy 59th St"
+      }, {
+        "count" : 2,
+        "item" : "Triboro Fibers"
+      }, {
+        "count" : 1,
+        "item" : "Paper Fibers"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3000425,
+    "name" : "Location",
+    "dataTypeName" : "text",
+    "fieldName" : "location",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1569802,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 180,
+      "smallest" : "105-115 Thames St Brooklyn, NY",
+      "null" : 0,
+      "largest" : "98 Lincoln Ave Bronx, NY",
+      "top" : [ {
+        "count" : 20,
+        "item" : "183 Raymond Blvd Newark, NJ"
+      }, {
+        "count" : 19,
+        "item" : "864 Julia St Elizabeth, NJ"
+      }, {
+        "count" : 18,
+        "item" : "301 Maltese Dr Totowa, NJ"
+      }, {
+        "count" : 17,
+        "item" : "98 Lincoln Ave Bronx, NY"
+      }, {
+        "count" : 16,
+        "item" : "215 Varick Ave Brooklyn, NY"
+      }, {
+        "count" : 15,
+        "item" : "577 Court St Brooklyn, NY"
+      }, {
+        "count" : 14,
+        "item" : "110 50th St Brooklyn, NY"
+      }, {
+        "count" : 13,
+        "item" : "105-115 Thames St Brooklyn, NY"
+      }, {
+        "count" : 12,
+        "item" : "941 Stanley Ave Brooklyn, NY"
+      }, {
+        "count" : 11,
+        "item" : "38-50 Review Ave Queens, NY"
+      }, {
+        "count" : 10,
+        "item" : "30-35 Fulton St Patterson, NJ"
+      }, {
+        "count" : 9,
+        "item" : "264 Broadway Jersey City, NJ"
+      }, {
+        "count" : 8,
+        "item" : "127-20 34th Ave Queens, NY"
+      }, {
+        "count" : 7,
+        "item" : "172-33 Douglas Avenue Jamaica, NY"
+      }, {
+        "count" : 6,
+        "item" : "600 Merchants Concourse Hempstead, LI"
+      }, {
+        "count" : 5,
+        "item" : "600 West Service Rd Staten Island, NY"
+      }, {
+        "count" : 4,
+        "item" : "59th St Pier NY, NY"
+      }, {
+        "count" : 3,
+        "item" : "891-899 East 135th St Bronx, NY"
+      }, {
+        "count" : 2,
+        "item" : "960 Bronx River Ave Bronx, NY"
+      }, {
+        "count" : 1,
+        "item" : "860 Humboldt St Brooklyn, NY"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3000426,
+    "name" : "X Coordinate",
+    "dataTypeName" : "number",
+    "fieldName" : "x_coordinate",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1569803,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 180,
+      "smallest" : "916196.7",
+      "sum" : "178700806.9",
+      "null" : 0,
+      "average" : "992782.2605555556",
+      "largest" : "1097466.2",
+      "top" : [ {
+        "count" : 20,
+        "item" : "949181.6"
+      }, {
+        "count" : 19,
+        "item" : "929373.8"
+      }, {
+        "count" : 18,
+        "item" : "916196.7"
+      }, {
+        "count" : 17,
+        "item" : "1003791.4"
+      }, {
+        "count" : 16,
+        "item" : "1003760.9"
+      }, {
+        "count" : 15,
+        "item" : "984101.6"
+      }, {
+        "count" : 14,
+        "item" : "978914.6"
+      }, {
+        "count" : 13,
+        "item" : "1004064"
+      }, {
+        "count" : 12,
+        "item" : "1018846.6"
+      }, {
+        "count" : 11,
+        "item" : "1001888.4"
+      }, {
+        "count" : 10,
+        "item" : "938097.2"
+      }, {
+        "count" : 9,
+        "item" : "962199.5"
+      }, {
+        "count" : 8,
+        "item" : "1028062.3"
+      }, {
+        "count" : 7,
+        "item" : "1043542.6"
+      }, {
+        "count" : 6,
+        "item" : "1097466.2"
+      }, {
+        "count" : 5,
+        "item" : "930584.1"
+      }, {
+        "count" : 4,
+        "item" : "986144.5"
+      }, {
+        "count" : 3,
+        "item" : "1009948"
+      }, {
+        "count" : 2,
+        "item" : "1017135.7"
+      }, {
+        "count" : 1,
+        "item" : "997954.3"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3000427,
+    "name" : "Y Coordinate",
+    "dataTypeName" : "number",
+    "fieldName" : "y_coordinate",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1569804,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 180,
+      "smallest" : "150593.9",
+      "sum" : "37317311.6",
+      "null" : 0,
+      "average" : "207318.3977777778",
+      "largest" : "275827.7",
+      "top" : [ {
+        "count" : 20,
+        "item" : "208290.4"
+      }, {
+        "count" : 19,
+        "item" : "182952.1"
+      }, {
+        "count" : 18,
+        "item" : "267631.5"
+      }, {
+        "count" : 17,
+        "item" : "233389.4"
+      }, {
+        "count" : 16,
+        "item" : "198902.3"
+      }, {
+        "count" : 15,
+        "item" : "184309.5"
+      }, {
+        "count" : 14,
+        "item" : "175996.6"
+      }, {
+        "count" : 13,
+        "item" : "196322.8"
+      }, {
+        "count" : 12,
+        "item" : "180925.3"
+      }, {
+        "count" : 11,
+        "item" : "205233.5"
+      }, {
+        "count" : 10,
+        "item" : "275827.7"
+      }, {
+        "count" : 9,
+        "item" : "207293.9"
+      }, {
+        "count" : 8,
+        "item" : "216368.6"
+      }, {
+        "count" : 7,
+        "item" : "196076.3"
+      }, {
+        "count" : 6,
+        "item" : "208568.3"
+      }, {
+        "count" : 5,
+        "item" : "150593.9"
+      }, {
+        "count" : 4,
+        "item" : "220690.8"
+      }, {
+        "count" : 3,
+        "item" : "232357.1"
+      }, {
+        "count" : 2,
+        "item" : "239685.1"
+      }, {
+        "count" : 1,
+        "item" : "205219.8"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "sanitation", "services", "community", "district", "refuse", "paper", "metal", "glass", "plastic", "recycle", "recycling", "clean web" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,493 @@
+{
+  "id" : "iyrc-jsee",
+  "name" : "Most Popular Baby Names By Race/Ethnicity",
+  "attribution" : "Department of Health and Mental Hygiene (DOHMH)",
+  "attributionLink" : "http://www.nyc.gov/html/doh/html/pr2011/pr034-11.shtml",
+  "averageRating" : 0,
+  "category" : "Statistics",
+  "createdAt" : 1362544592,
+  "description" : "List of New York City’s Most Popular Baby Names By Race/Ethnicity announced by Department of Health and Mental Hygiene (DOHMH)",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2724526,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362544825,
+  "publicationGroup" : 716629,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1362544595,
+  "rowsUpdatedBy" : "ya7g-926w",
+  "signed" : false,
+  "tableId" : 716629,
+  "totalTimesRated" : 0,
+  "viewCount" : 76,
+  "viewLastModified" : 1362592778,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 48660667,
+    "name" : "Year",
+    "dataTypeName" : "number",
+    "fieldName" : "year",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8385818,
+    "width" : 69,
+    "cachedContents" : {
+      "non_null" : 40,
+      "smallest" : "2009",
+      "sum" : "80380",
+      "null" : 0,
+      "average" : "2009.5",
+      "largest" : "2010",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2009"
+      }, {
+        "count" : 19,
+        "item" : "2010"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "center",
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 48660668,
+    "name" : "Gender",
+    "dataTypeName" : "text",
+    "fieldName" : "gender",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8385819,
+    "width" : 90,
+    "cachedContents" : {
+      "non_null" : 40,
+      "smallest" : "Boy",
+      "null" : 0,
+      "largest" : "Girl",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Girl"
+      }, {
+        "count" : 19,
+        "item" : "Boy"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 48660669,
+    "name" : "Rank",
+    "dataTypeName" : "number",
+    "fieldName" : "rank",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8385820,
+    "width" : 77,
+    "cachedContents" : {
+      "non_null" : 40,
+      "smallest" : "1",
+      "sum" : "220",
+      "null" : 0,
+      "average" : "5.5",
+      "largest" : "10",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "center",
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 48660670,
+    "name" : "Hispanic",
+    "dataTypeName" : "text",
+    "fieldName" : "hispanic",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8385821,
+    "width" : 98,
+    "cachedContents" : {
+      "non_null" : 40,
+      "smallest" : "Alexander",
+      "null" : 0,
+      "largest" : "Sophia",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Isabella"
+      }, {
+        "count" : 19,
+        "item" : "Mia"
+      }, {
+        "count" : 18,
+        "item" : "Ashley"
+      }, {
+        "count" : 17,
+        "item" : "Emily"
+      }, {
+        "count" : 16,
+        "item" : "Sophia"
+      }, {
+        "count" : 15,
+        "item" : "Brianna"
+      }, {
+        "count" : 14,
+        "item" : "Melanie"
+      }, {
+        "count" : 13,
+        "item" : "Samantha"
+      }, {
+        "count" : 12,
+        "item" : "Genesis"
+      }, {
+        "count" : 11,
+        "item" : "Kayla"
+      }, {
+        "count" : 10,
+        "item" : "Jayden"
+      }, {
+        "count" : 9,
+        "item" : "Justin"
+      }, {
+        "count" : 8,
+        "item" : "Angel"
+      }, {
+        "count" : 7,
+        "item" : "Christopher"
+      }, {
+        "count" : 6,
+        "item" : "Matthew"
+      }, {
+        "count" : 5,
+        "item" : "Alexander"
+      }, {
+        "count" : 4,
+        "item" : "Anthony"
+      }, {
+        "count" : 3,
+        "item" : "Daniel"
+      }, {
+        "count" : 2,
+        "item" : "Ethan"
+      }, {
+        "count" : 1,
+        "item" : "David"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48660671,
+    "name" : "Black",
+    "dataTypeName" : "text",
+    "fieldName" : "black",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8385822,
+    "width" : 98,
+    "cachedContents" : {
+      "non_null" : 40,
+      "smallest" : "Aaliyah",
+      "null" : 0,
+      "largest" : "Tyler",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Madison"
+      }, {
+        "count" : 19,
+        "item" : "Kayla"
+      }, {
+        "count" : 18,
+        "item" : "Nevaeh"
+      }, {
+        "count" : 17,
+        "item" : "Jada"
+      }, {
+        "count" : 16,
+        "item" : "Malia"
+      }, {
+        "count" : 15,
+        "item" : "Makayla"
+      }, {
+        "count" : 14,
+        "item" : "Aaliyah"
+      }, {
+        "count" : 13,
+        "item" : "London"
+      }, {
+        "count" : 12,
+        "item" : "Arianna/Brianna"
+      }, {
+        "count" : 11,
+        "item" : "Destiny"
+      }, {
+        "count" : 10,
+        "item" : "Jayden"
+      }, {
+        "count" : 9,
+        "item" : "Joshua"
+      }, {
+        "count" : 8,
+        "item" : "Elijah"
+      }, {
+        "count" : 7,
+        "item" : "Justin"
+      }, {
+        "count" : 6,
+        "item" : "Michael"
+      }, {
+        "count" : 5,
+        "item" : "Jeremiah"
+      }, {
+        "count" : 4,
+        "item" : "Ethan"
+      }, {
+        "count" : 3,
+        "item" : "Christian"
+      }, {
+        "count" : 2,
+        "item" : "Daniel"
+      }, {
+        "count" : 1,
+        "item" : "Josiah"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48660672,
+    "name" : "White",
+    "dataTypeName" : "text",
+    "fieldName" : "white",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8385823,
+    "width" : 147,
+    "cachedContents" : {
+      "non_null" : 40,
+      "smallest" : "Alexander",
+      "null" : 0,
+      "largest" : "Sophia",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Olivia"
+      }, {
+        "count" : 19,
+        "item" : "Sarah"
+      }, {
+        "count" : 18,
+        "item" : "Rachel"
+      }, {
+        "count" : 17,
+        "item" : "Leah"
+      }, {
+        "count" : 16,
+        "item" : "Esther"
+      }, {
+        "count" : 15,
+        "item" : "Emma/Sophia"
+      }, {
+        "count" : 14,
+        "item" : "Chana/Chaya/ Isabella"
+      }, {
+        "count" : 13,
+        "item" : "Ava"
+      }, {
+        "count" : 12,
+        "item" : "Julia"
+      }, {
+        "count" : 11,
+        "item" : "Emily"
+      }, {
+        "count" : 10,
+        "item" : "Michael"
+      }, {
+        "count" : 9,
+        "item" : "David"
+      }, {
+        "count" : 8,
+        "item" : "Daniel"
+      }, {
+        "count" : 7,
+        "item" : "Joseph"
+      }, {
+        "count" : 6,
+        "item" : "Jacob"
+      }, {
+        "count" : 5,
+        "item" : "Moshe"
+      }, {
+        "count" : 4,
+        "item" : "Jack"
+      }, {
+        "count" : 3,
+        "item" : "Benjamin"
+      }, {
+        "count" : 2,
+        "item" : "Samuel"
+      }, {
+        "count" : 1,
+        "item" : "James/Matthew"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48660673,
+    "name" : "Asian & Pacific Islander",
+    "dataTypeName" : "text",
+    "fieldName" : "asian_pacific_islander",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8385824,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 40,
+      "smallest" : "Angela",
+      "null" : 0,
+      "largest" : "Vivian",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Sophia"
+      }, {
+        "count" : 19,
+        "item" : "Emily"
+      }, {
+        "count" : 18,
+        "item" : "Chloe"
+      }, {
+        "count" : 17,
+        "item" : "Olivia"
+      }, {
+        "count" : 16,
+        "item" : "Tiffany"
+      }, {
+        "count" : 15,
+        "item" : "Fiona"
+      }, {
+        "count" : 14,
+        "item" : "Jessica"
+      }, {
+        "count" : 13,
+        "item" : "Vivian"
+      }, {
+        "count" : 12,
+        "item" : "Isabella"
+      }, {
+        "count" : 11,
+        "item" : "Nicole"
+      }, {
+        "count" : 10,
+        "item" : "Ryan"
+      }, {
+        "count" : 9,
+        "item" : "Ethan"
+      }, {
+        "count" : 8,
+        "item" : "Eric"
+      }, {
+        "count" : 7,
+        "item" : "Daniel"
+      }, {
+        "count" : 6,
+        "item" : "Kevin"
+      }, {
+        "count" : 5,
+        "item" : "Justin"
+      }, {
+        "count" : 4,
+        "item" : "Jayden"
+      }, {
+        "count" : 3,
+        "item" : "Lucas"
+      }, {
+        "count" : 2,
+        "item" : "Jason/Vincent"
+      }, {
+        "count" : 1,
+        "item" : "Matthew"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ya7g-926w",
+    "displayName" : "Aakash Dalwani",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1363663581,
+    "roleName" : "publisher",
+    "screenName" : "Aakash Dalwani",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ya7g-926w",
+    "displayName" : "Aakash Dalwani",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1363663581,
+    "roleName" : "publisher",
+    "screenName" : "Aakash Dalwani",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dohmh", "department of health and mental hygiene", "most popular baby names by race and ethnicity", "popular baby names" ],
+  "flags" : [ "default" ]
+}

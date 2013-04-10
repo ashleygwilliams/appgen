@@ -1,0 +1,276 @@
+{
+  "id" : "35f6-8qd2",
+  "name" : "Denied registrants in the wholesale markets",
+  "attribution" : "Business Integrity Commission (BIC)",
+  "averageRating" : 0,
+  "category" : "Business and Economic",
+  "createdAt" : 1318110838,
+  "description" : "Denied registrants in the wholesale markets",
+  "displayType" : "table",
+  "downloadCount" : 19,
+  "numberOfComments" : 0,
+  "oid" : 342223,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318110907,
+  "publicationGroup" : 244089,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1318110842,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 244089,
+  "totalTimesRated" : 0,
+  "viewCount" : 97,
+  "viewLastModified" : 1318110907,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2988545,
+    "name" : "MTYPE",
+    "dataTypeName" : "text",
+    "fieldName" : "mtype",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1563987,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "BMM",
+      "null" : 0,
+      "largest" : "HPP",
+      "top" : [ {
+        "count" : 3,
+        "item" : "HPP"
+      }, {
+        "count" : 3,
+        "item" : "FFM"
+      }, {
+        "count" : 1,
+        "item" : "BMM"
+      }, {
+        "count" : 1,
+        "item" : "HPA"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988546,
+    "name" : "CompName",
+    "dataTypeName" : "text",
+    "fieldName" : "compname",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1563988,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "AGRIPROCESOR",
+      "null" : 0,
+      "largest" : "RIVER PRODUCE CORP",
+      "top" : [ {
+        "count" : 1,
+        "item" : "C&S WHOLESALE PRODUCE, INC."
+      }, {
+        "count" : 1,
+        "item" : "FRANKIE BOY PRODUCE, CORP."
+      }, {
+        "count" : 1,
+        "item" : "AGRIPROCESOR"
+      }, {
+        "count" : 1,
+        "item" : "R AND S CIRCUS PRODUCE CORP."
+      }, {
+        "count" : 1,
+        "item" : "RIVER PRODUCE CORP"
+      }, {
+        "count" : 1,
+        "item" : "CARA SEAFOOD EXPRESS INC."
+      }, {
+        "count" : 1,
+        "item" : "CARAVENTE"
+      }, {
+        "count" : 1,
+        "item" : "AL TUNA INC."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988547,
+    "name" : "CompTel",
+    "dataTypeName" : "text",
+    "fieldName" : "comptel",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1563989,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "(718) 667-3254",
+      "null" : 0,
+      "largest" : "7188931313",
+      "top" : [ {
+        "count" : 1,
+        "item" : "(718) 667-3254"
+      }, {
+        "count" : 1,
+        "item" : "(917) 531-8444"
+      }, {
+        "count" : 1,
+        "item" : "(718) 861-7555"
+      }, {
+        "count" : 1,
+        "item" : "6312659137"
+      }, {
+        "count" : 1,
+        "item" : "7182737902"
+      }, {
+        "count" : 1,
+        "item" : "(718) 748-1721"
+      }, {
+        "count" : 1,
+        "item" : "7188931313"
+      }, {
+        "count" : 1,
+        "item" : "7186171355"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988548,
+    "name" : "Bullet",
+    "dataTypeName" : "text",
+    "fieldName" : "bullet",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1563990,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 8
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988549,
+    "name" : "Location 1",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 6,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1563991,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : {
+        "longitude" : -74.12515156751209,
+        "latitude" : 40.572667786535234,
+        "human_address" : "{\"address\":\"104 BISHOP STREET\",\"city\":\"STATEN ISLAND\",\"state\":\"NY\",\"zip\":\"10303\"}"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : -74.02266384442855,
+        "latitude" : 40.64706462390346,
+        "human_address" : "{\"address\":\"5600 FIRST AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11220\"}"
+      },
+      "top" : [ {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.88235636235618,
+          "latitude" : 40.810882923108466,
+          "human_address" : "{\"address\":\"106 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -74.02266384442855,
+          "latitude" : 40.64706462390346,
+          "human_address" : "{\"address\":\"5600 FIRST AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11220\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.88235636235618,
+          "latitude" : 40.810882923108466,
+          "human_address" : "{\"address\":\"329 HUNTS POINT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.8902389044123,
+          "latitude" : 40.81025185731271,
+          "human_address" : "{\"address\":\"531 TIFFANY AVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -74.12515156751209,
+          "latitude" : 40.572667786535234,
+          "human_address" : "{\"address\":\"104 BISHOP STREET\",\"city\":\"STATEN ISLAND\",\"state\":\"NY\",\"zip\":\"10303\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -74.00307186237649,
+          "latitude" : 40.70935929189784,
+          "human_address" : "{\"address\":\"33 34\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10038\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.88235636235618,
+          "latitude" : 40.810882923108466,
+          "human_address" : "{\"address\":\"258 259 NYC TERM MARKET HUNTS PT\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10474\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -74.10657393717747,
+          "latitude" : 40.56185101832085,
+          "human_address" : "{\"address\":\"210 MILTON AVENUE\",\"city\":\"STATEN ISLAND\",\"state\":\"NY\",\"zip\":\"10306\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "wholesale", "vendor", "market", "registration", "denied" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,225 @@
+{
+  "id" : "xsj9-inwv",
+  "name" : "Workforce 1 Introduction To Services Schedule",
+  "attribution" : "Department of Small Business Services",
+  "averageRating" : 0,
+  "category" : "Social Services",
+  "createdAt" : 1363727396,
+  "description" : "Listing of enrollment centers and schedule for those who would like to join Workforce 1.",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2882526,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363727910,
+  "publicationGroup" : 743533,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1363727399,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 743533,
+  "totalTimesRated" : 0,
+  "viewCount" : 5,
+  "viewLastModified" : 1363727910,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 51693914,
+    "name" : "Location",
+    "dataTypeName" : "text",
+    "fieldName" : "location",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8761266,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Manhattan"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51693915,
+    "name" : "Address",
+    "dataTypeName" : "text",
+    "fieldName" : "address",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8761267,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "1029 East 163rd Street, 3rd floor",
+      "null" : 0,
+      "largest" : "9 Bond Street, 5th floor",
+      "top" : [ {
+        "count" : 20,
+        "item" : "400 East Fordham Road"
+      }, {
+        "count" : 19,
+        "item" : "1029 East 163rd Street, 3rd floor"
+      }, {
+        "count" : 18,
+        "item" : "9 Bond Street, 5th floor"
+      }, {
+        "count" : 17,
+        "item" : "215 West 125th Street, 6th floor"
+      }, {
+        "count" : 16,
+        "item" : "168-25 Jamaica Avenue, 2nd floor"
+      }, {
+        "count" : 15,
+        "item" : "120 Stuyvesant Place, 3rd floor"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51693916,
+    "name" : "Schedule 1",
+    "dataTypeName" : "text",
+    "fieldName" : "schedule_1",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8761268,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "Monday, Thursday: 1PM",
+      "null" : 0,
+      "largest" : "Monday-Thursday: 9AM",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Monday - Thursday: 9AM"
+      }, {
+        "count" : 19,
+        "item" : "Monday, Wednesday: 9AM"
+      }, {
+        "count" : 18,
+        "item" : "Monday, Wednesday: 10AM"
+      }, {
+        "count" : 17,
+        "item" : "Monday-Thursday: 8:30AM"
+      }, {
+        "count" : 16,
+        "item" : "Monday, Thursday: 1PM"
+      }, {
+        "count" : 15,
+        "item" : "Monday-Thursday: 9AM"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51693917,
+    "name" : "Schedule 2",
+    "dataTypeName" : "text",
+    "fieldName" : "schedule_2",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8761269,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "Tuesday, Friday: 10AM",
+      "null" : 2,
+      "largest" : "Wednesday (Spanish) - 1:30PM",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Wednesday (Spanish) - 1:30PM"
+      }, {
+        "count" : 19,
+        "item" : "Tuesday, Thursday: 1PM"
+      }, {
+        "count" : 18,
+        "item" : "Wednesday (Spanish): 11AM"
+      }, {
+        "count" : 17,
+        "item" : "Tuesday, Friday: 10AM"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51693918,
+    "name" : "Schedule 3",
+    "dataTypeName" : "text",
+    "fieldName" : "schedule_3",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8761270,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 1,
+      "smallest" : "Wednesday: 5:30PM",
+      "null" : 5,
+      "largest" : "Wednesday: 5:30PM",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Wednesday: 5:30PM"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "workforce 1 introduction to services schedule", "sbs", "jobs and economic mobility" ],
+  "flags" : [ "default" ]
+}

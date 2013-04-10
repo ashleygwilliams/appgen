@@ -1,0 +1,304 @@
+{
+  "id" : "6qzy-b4x8",
+  "name" : "Total Housing Units By Occupancy Status And Tenure By Borough",
+  "attribution" : "Department of City Planning (DCP)",
+  "attributionLink" : "http://www.nyc.gov/html/dcp/pdf/census/census2010/pgrhc.pdf",
+  "averageRating" : 0,
+  "category" : "Construction and Housing",
+  "createdAt" : 1361386930,
+  "description" : "Details of Housing Unit numbers by Occupancy Status and Tenure in New York City Boroughs",
+  "displayType" : "table",
+  "downloadCount" : 2,
+  "numberOfComments" : 0,
+  "oid" : 2576307,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361387091,
+  "publicationGroup" : 689284,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1361386934,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 689284,
+  "totalTimesRated" : 0,
+  "viewCount" : 51,
+  "viewLastModified" : 1361387103,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 45890225,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8018970,
+    "width" : 80,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Manhattan"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45890226,
+    "name" : "Year",
+    "dataTypeName" : "number",
+    "fieldName" : "year",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8018971,
+    "width" : 69,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "2010",
+      "sum" : "10050",
+      "null" : 0,
+      "average" : "2010",
+      "largest" : "2010",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2010"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 45890227,
+    "name" : "Total Housing Units",
+    "dataTypeName" : "number",
+    "fieldName" : "total_housing_units",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8018972,
+    "width" : 119,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "176656",
+      "sum" : "3371062",
+      "null" : 0,
+      "average" : "674212.4",
+      "largest" : "1000293",
+      "top" : [ {
+        "count" : 20,
+        "item" : "511896"
+      }, {
+        "count" : 19,
+        "item" : "1000293"
+      }, {
+        "count" : 18,
+        "item" : "847090"
+      }, {
+        "count" : 17,
+        "item" : "835127"
+      }, {
+        "count" : 16,
+        "item" : "176656"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45890228,
+    "name" : "Owner Occupied",
+    "dataTypeName" : "number",
+    "fieldName" : "owner_occupied",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8018973,
+    "width" : 104,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "93101",
+      "sum" : "962892",
+      "null" : 0,
+      "average" : "192578.4",
+      "largest" : "335454",
+      "top" : [ {
+        "count" : 20,
+        "item" : "93101"
+      }, {
+        "count" : 19,
+        "item" : "254241"
+      }, {
+        "count" : 18,
+        "item" : "173961"
+      }, {
+        "count" : 17,
+        "item" : "335454"
+      }, {
+        "count" : 16,
+        "item" : "106135"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45890229,
+    "name" : "Renter Occupied",
+    "dataTypeName" : "number",
+    "fieldName" : "renter_occupied",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8018974,
+    "width" : 98,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "59381",
+      "sum" : "2146892",
+      "null" : 0,
+      "average" : "429378.4",
+      "largest" : "662615",
+      "top" : [ {
+        "count" : 20,
+        "item" : "390348"
+      }, {
+        "count" : 19,
+        "item" : "662615"
+      }, {
+        "count" : 18,
+        "item" : "589885"
+      }, {
+        "count" : 17,
+        "item" : "444663"
+      }, {
+        "count" : 16,
+        "item" : "59381"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45890230,
+    "name" : "Total Vacant Units",
+    "dataTypeName" : "number",
+    "fieldName" : "total_vacant_units",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8018975,
+    "width" : 142,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "11140",
+      "sum" : "261278",
+      "null" : 0,
+      "average" : "52255.6",
+      "largest" : "83437",
+      "top" : [ {
+        "count" : 20,
+        "item" : "28447"
+      }, {
+        "count" : 19,
+        "item" : "83437"
+      }, {
+        "count" : 18,
+        "item" : "83244"
+      }, {
+        "count" : 17,
+        "item" : "55010"
+      }, {
+        "count" : 16,
+        "item" : "11140"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45890231,
+    "name" : "Vacant Units for Seasonal, Recreational   or Occasional  Use",
+    "dataTypeName" : "number",
+    "fieldName" : "vacant_units_for_seasonal_recreational_or_occasional_use",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8018976,
+    "width" : 192,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "647",
+      "sum" : "39793",
+      "null" : 0,
+      "average" : "7958.6",
+      "largest" : "28184",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1196"
+      }, {
+        "count" : 19,
+        "item" : "3872"
+      }, {
+        "count" : 18,
+        "item" : "28184"
+      }, {
+        "count" : 17,
+        "item" : "5894"
+      }, {
+        "count" : 16,
+        "item" : "647"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dcp", "city", "planning", "population", "growth", "housing", "occupancy", "tenure" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,200 @@
+{
+  "id" : "qt67-786k",
+  "name" : "Medicaid buy in program income levels",
+  "attribution" : "Human Resources Administration (HRA)",
+  "attributionLink" : "http://www.nyc.gov/html/hia/html/public_insurance/buy_in.shtml",
+  "averageRating" : 0,
+  "category" : "Health",
+  "createdAt" : 1363713861,
+  "description" : "The Medicaid Buy-In Program for Working People with Disabilities offers people with disabilities who are working, and earning more than the allowable limits for regular Medicaid, the opportunity to keep their health care coverage through Medicaid. Eligibility requirements include certain criteria and income levels as listed here. This chart is only a guide. Individuals should see an enrollment counselor for eligibility screening. NOTE: Chart effective January 1, 2012; subject to annual income updates.",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2880748,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363714987,
+  "publicationGroup" : 742978,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1363714906,
+  "rowsUpdatedBy" : "ya7g-926w",
+  "signed" : false,
+  "tableId" : 743011,
+  "totalTimesRated" : 0,
+  "viewCount" : 3,
+  "viewLastModified" : 1363714999,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 51661678,
+    "name" : "Family Size",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "family_size",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8755885,
+    "width" : 115,
+    "cachedContents" : {
+      "non_null" : 2,
+      "smallest" : "1",
+      "null" : 0,
+      "largest" : "2",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 51661679,
+    "name" : "Yearly Income",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "yearly_income",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8755886,
+    "width" : 134,
+    "cachedContents" : {
+      "non_null" : 2,
+      "smallest" : "$27,936",
+      "null" : 0,
+      "largest" : "$37,836",
+      "top" : [ {
+        "count" : 20,
+        "item" : "$27,936"
+      }, {
+        "count" : 19,
+        "item" : "$37,836"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 51661680,
+    "name" : "Monthly Income",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "monthly_income",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8755887,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 2,
+      "smallest" : "$2,328",
+      "null" : 0,
+      "largest" : "$3,153",
+      "top" : [ {
+        "count" : 20,
+        "item" : "$2,328"
+      }, {
+        "count" : 19,
+        "item" : "$3,153"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 51661681,
+    "name" : "Weekly Income",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "weekly_income",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8755888,
+    "width" : 150,
+    "cachedContents" : {
+      "non_null" : 2,
+      "smallest" : "$537",
+      "null" : 0,
+      "largest" : "$728",
+      "top" : [ {
+        "count" : 20,
+        "item" : "$537"
+      }, {
+        "count" : 19,
+        "item" : "$728"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 51661682,
+    "name" : "Resource Level",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "resource_level",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8755889,
+    "width" : 142,
+    "cachedContents" : {
+      "non_null" : 2,
+      "smallest" : "$20,000",
+      "null" : 0,
+      "largest" : "$30,000",
+      "top" : [ {
+        "count" : 20,
+        "item" : "$20,000"
+      }, {
+        "count" : 19,
+        "item" : "$30,000"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ya7g-926w",
+    "displayName" : "Aakash Dalwani",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1363663581,
+    "roleName" : "publisher",
+    "screenName" : "Aakash Dalwani",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ya7g-926w",
+    "displayName" : "Aakash Dalwani",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1363663581,
+    "roleName" : "publisher",
+    "screenName" : "Aakash Dalwani",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "hra", "human resources administration", "jobs and economic mobility", "medicaid buy in program income levels" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,566 @@
+{
+  "id" : "7ujc-hpzg",
+  "name" : "Distribution of Force Allegations",
+  "attribution" : "Civilian Complaint Review Board (CCRB)",
+  "attributionLink" : "http://www.nyc.gov/html/ccrb/pdf/ccrbappendices2011.pdf",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1361903211,
+  "description" : "This  table represents the distribution of force allegations",
+  "displayType" : "table",
+  "downloadCount" : 10,
+  "numberOfComments" : 0,
+  "oid" : 2643482,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361904333,
+  "publicationGroup" : 701299,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1361904308,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 701326,
+  "totalTimesRated" : 0,
+  "viewCount" : 15,
+  "viewLastModified" : 1361904415,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 47134678,
+    "name" : "Year",
+    "dataTypeName" : "text",
+    "fieldName" : "year",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8183956,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "2009",
+      "null" : 0,
+      "largest" : "2011",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2009"
+      }, {
+        "count" : 19,
+        "item" : "2010"
+      }, {
+        "count" : 18,
+        "item" : "2011"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 47134679,
+    "name" : "Animal",
+    "dataTypeName" : "text",
+    "fieldName" : "animal",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8183957,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "5",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "5"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47134680,
+    "name" : "Chokehold",
+    "dataTypeName" : "text",
+    "fieldName" : "chokehold",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8183958,
+    "width" : 65,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "186",
+      "null" : 0,
+      "largest" : "244",
+      "top" : [ {
+        "count" : 20,
+        "item" : "244"
+      }, {
+        "count" : 19,
+        "item" : "215"
+      }, {
+        "count" : 18,
+        "item" : "186"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47134681,
+    "name" : "Flashlight as club",
+    "dataTypeName" : "text",
+    "fieldName" : "flashlight_as_club",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8183959,
+    "width" : 95,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "11",
+      "null" : 0,
+      "largest" : "20",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11"
+      }, {
+        "count" : 19,
+        "item" : "20"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47134682,
+    "name" : "Gun as club",
+    "dataTypeName" : "text",
+    "fieldName" : "gun_as_club",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8183960,
+    "width" : 62,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "25",
+      "null" : 0,
+      "largest" : "36",
+      "top" : [ {
+        "count" : 20,
+        "item" : "33"
+      }, {
+        "count" : 19,
+        "item" : "25"
+      }, {
+        "count" : 18,
+        "item" : "36"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47134683,
+    "name" : "Gun fired",
+    "dataTypeName" : "text",
+    "fieldName" : "gun_fired",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8183961,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "17",
+      "null" : 0,
+      "largest" : "24",
+      "top" : [ {
+        "count" : 20,
+        "item" : "24"
+      }, {
+        "count" : 19,
+        "item" : "17"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47134684,
+    "name" : "Gun pointed",
+    "dataTypeName" : "text",
+    "fieldName" : "gun_pointed",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8183962,
+    "width" : 64,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "302",
+      "null" : 0,
+      "largest" : "318",
+      "top" : [ {
+        "count" : 20,
+        "item" : "313"
+      }, {
+        "count" : 19,
+        "item" : "302"
+      }, {
+        "count" : 18,
+        "item" : "318"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47134685,
+    "name" : "Handcuffs too tight",
+    "dataTypeName" : "text",
+    "fieldName" : "handcuffs_too_tight",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8183963,
+    "width" : 103,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "44",
+      "null" : 0,
+      "largest" : "71",
+      "top" : [ {
+        "count" : 20,
+        "item" : "71"
+      }, {
+        "count" : 19,
+        "item" : "44"
+      }, {
+        "count" : 18,
+        "item" : "56"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47134686,
+    "name" : "Hit against inanimate object",
+    "dataTypeName" : "text",
+    "fieldName" : "hit_against_inanimate_object",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8183964,
+    "width" : 157,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "137",
+      "null" : 0,
+      "largest" : "183",
+      "top" : [ {
+        "count" : 20,
+        "item" : "183"
+      }, {
+        "count" : 19,
+        "item" : "137"
+      }, {
+        "count" : 18,
+        "item" : "182"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47134687,
+    "name" : "Nightstick as club (incl asp & baton)",
+    "dataTypeName" : "text",
+    "fieldName" : "nightstick_as_club_incl_asp_baton",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8183965,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "300",
+      "null" : 0,
+      "largest" : "364",
+      "top" : [ {
+        "count" : 20,
+        "item" : "364"
+      }, {
+        "count" : 19,
+        "item" : "306"
+      }, {
+        "count" : 18,
+        "item" : "300"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47134688,
+    "name" : "Nonlethal restraining device",
+    "dataTypeName" : "text",
+    "fieldName" : "nonlethal_restraining_device",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8183966,
+    "width" : 157,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "25",
+      "null" : 0,
+      "largest" : "31",
+      "top" : [ {
+        "count" : 20,
+        "item" : "30"
+      }, {
+        "count" : 19,
+        "item" : "31"
+      }, {
+        "count" : 18,
+        "item" : "25"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47134689,
+    "name" : "Other blunt instrument as club",
+    "dataTypeName" : "text",
+    "fieldName" : "other_blunt_instrument_as_club",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8183967,
+    "width" : 163,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "45",
+      "null" : 0,
+      "largest" : "66",
+      "top" : [ {
+        "count" : 20,
+        "item" : "54"
+      }, {
+        "count" : 19,
+        "item" : "45"
+      }, {
+        "count" : 18,
+        "item" : "66"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47134690,
+    "name" : "Pepper spray",
+    "dataTypeName" : "text",
+    "fieldName" : "pepper_spray",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8183968,
+    "width" : 74,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "287",
+      "null" : 0,
+      "largest" : "342",
+      "top" : [ {
+        "count" : 20,
+        "item" : "342"
+      }, {
+        "count" : 19,
+        "item" : "287"
+      }, {
+        "count" : 18,
+        "item" : "319"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47134691,
+    "name" : "Physical force",
+    "dataTypeName" : "text",
+    "fieldName" : "physical_force",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8183969,
+    "width" : 77,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "3660",
+      "null" : 0,
+      "largest" : "4612",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4612"
+      }, {
+        "count" : 19,
+        "item" : "3787"
+      }, {
+        "count" : 18,
+        "item" : "3660"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47134692,
+    "name" : "Police shield",
+    "dataTypeName" : "text",
+    "fieldName" : "police_shield",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8183970,
+    "width" : 68,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "15",
+      "null" : 0,
+      "largest" : "8",
+      "top" : [ {
+        "count" : 20,
+        "item" : "15"
+      }, {
+        "count" : 19,
+        "item" : "8"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47134693,
+    "name" : "Radio as Club",
+    "dataTypeName" : "text",
+    "fieldName" : "radio_as_club",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8183971,
+    "width" : 78,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "26",
+      "null" : 0,
+      "largest" : "46",
+      "top" : [ {
+        "count" : 20,
+        "item" : "46"
+      }, {
+        "count" : 19,
+        "item" : "26"
+      }, {
+        "count" : 18,
+        "item" : "31"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47134694,
+    "name" : "Vehicle",
+    "dataTypeName" : "text",
+    "fieldName" : "vehicle",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8183972,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "26",
+      "null" : 0,
+      "largest" : "35",
+      "top" : [ {
+        "count" : 20,
+        "item" : "26"
+      }, {
+        "count" : 19,
+        "item" : "28"
+      }, {
+        "count" : 18,
+        "item" : "35"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47134695,
+    "name" : "Other form of Force",
+    "dataTypeName" : "text",
+    "fieldName" : "other_form_of_force",
+    "position" : 18,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8183973,
+    "width" : 106,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "19",
+      "null" : 0,
+      "largest" : "36",
+      "top" : [ {
+        "count" : 20,
+        "item" : "36"
+      }, {
+        "count" : 19,
+        "item" : "29"
+      }, {
+        "count" : 18,
+        "item" : "19"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "ccrb", "allegations", "distribution" ],
+  "flags" : [ "default" ]
+}

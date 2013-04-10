@@ -1,0 +1,835 @@
+{
+  "id" : "aht6-vxai",
+  "name" : "Open Article 7 Petitions",
+  "attribution" : "New York City Tax Commission (TAXCOMM)",
+  "attributionLink" : "http://www.nyc.gov/html/taxcomm/html/petitions/petitions.shtml",
+  "averageRating" : 0,
+  "category" : "Property",
+  "createdAt" : 1362167300,
+  "description" : "The information in the City's computer records with respect to open petitions challenging real property tax assessments pursuant to Article 7 of the Real Property Tax Law: contains the index number and year the petition was commenced, the name of the petitioner, the name of the attorney for the petitioner, and various note of issue codes.",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2836345,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363373468,
+  "publicationGroup" : 707821,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1363373336,
+  "rowsUpdatedBy" : "5fuc-pqz2",
+  "signed" : false,
+  "tableId" : 735502,
+  "totalTimesRated" : 0,
+  "viewCount" : 30,
+  "viewLastModified" : 1363373468,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 50802113,
+    "name" : "Borough Code",
+    "dataTypeName" : "number",
+    "description" : "Borough Code\nSignifies the Borough (1=Manhattan, 2=Bronx, 3=Brooklyn, 4=Queens, 5=Staten Island)",
+    "fieldName" : "borough_code",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8272220,
+    "width" : 137,
+    "cachedContents" : {
+      "non_null" : 193617,
+      "smallest" : "1",
+      "sum" : "445376",
+      "null" : 0,
+      "average" : "2.300293879153174",
+      "largest" : "5",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 50802114,
+    "name" : "Block Number",
+    "dataTypeName" : "number",
+    "description" : "Block\nBlock Number of the specified property",
+    "fieldName" : "block_number",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8272258,
+    "width" : 122,
+    "cachedContents" : {
+      "non_null" : 193617,
+      "smallest" : "1",
+      "sum" : "643845974",
+      "null" : 0,
+      "average" : "3325.358692676779",
+      "largest" : "82205",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1116"
+      }, {
+        "count" : 19,
+        "item" : "70200"
+      }, {
+        "count" : 18,
+        "item" : "2400"
+      }, {
+        "count" : 17,
+        "item" : "70123"
+      }, {
+        "count" : 16,
+        "item" : "13407"
+      }, {
+        "count" : 15,
+        "item" : "378"
+      }, {
+        "count" : 14,
+        "item" : "3341"
+      }, {
+        "count" : 13,
+        "item" : "3350"
+      }, {
+        "count" : 12,
+        "item" : "3380"
+      }, {
+        "count" : 11,
+        "item" : "13614"
+      }, {
+        "count" : 10,
+        "item" : "13895"
+      }, {
+        "count" : 9,
+        "item" : "394"
+      }, {
+        "count" : 8,
+        "item" : "457"
+      }, {
+        "count" : 7,
+        "item" : "462"
+      }, {
+        "count" : 6,
+        "item" : "487"
+      }, {
+        "count" : 5,
+        "item" : "493"
+      }, {
+        "count" : 4,
+        "item" : "500"
+      }, {
+        "count" : 3,
+        "item" : "3562"
+      }, {
+        "count" : 2,
+        "item" : "3574"
+      }, {
+        "count" : 1,
+        "item" : "3585"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 50802115,
+    "name" : "Lot Number",
+    "dataTypeName" : "number",
+    "description" : "Lot\nLot Number of the specified property",
+    "fieldName" : "lot_number",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8272259,
+    "width" : 117,
+    "cachedContents" : {
+      "non_null" : 193617,
+      "smallest" : "1",
+      "sum" : "32793599",
+      "null" : 0,
+      "average" : "169.3735519091815",
+      "largest" : "9999",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "6"
+      }, {
+        "count" : 18,
+        "item" : "1001"
+      }, {
+        "count" : 17,
+        "item" : "35"
+      }, {
+        "count" : 16,
+        "item" : "50"
+      }, {
+        "count" : 15,
+        "item" : "8"
+      }, {
+        "count" : 14,
+        "item" : "19"
+      }, {
+        "count" : 13,
+        "item" : "12"
+      }, {
+        "count" : 12,
+        "item" : "76"
+      }, {
+        "count" : 11,
+        "item" : "30"
+      }, {
+        "count" : 10,
+        "item" : "86"
+      }, {
+        "count" : 9,
+        "item" : "64"
+      }, {
+        "count" : 8,
+        "item" : "14"
+      }, {
+        "count" : 7,
+        "item" : "23"
+      }, {
+        "count" : 6,
+        "item" : "65"
+      }, {
+        "count" : 5,
+        "item" : "80"
+      }, {
+        "count" : 4,
+        "item" : "60"
+      }, {
+        "count" : 3,
+        "item" : "73"
+      }, {
+        "count" : 2,
+        "item" : "7"
+      }, {
+        "count" : 1,
+        "item" : "11"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 50802116,
+    "name" : "Condominium High Lot Number",
+    "dataTypeName" : "number",
+    "description" : "High Lot\nHigh Lot Number of the Condominium Petition",
+    "fieldName" : "condominium_high_lot_number",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8272260,
+    "width" : 239,
+    "cachedContents" : {
+      "non_null" : 193617,
+      "smallest" : "0",
+      "sum" : "19062255",
+      "null" : 0,
+      "average" : "98.45341576411162",
+      "largest" : "9117",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "1001"
+      }, {
+        "count" : 18,
+        "item" : "1002"
+      }, {
+        "count" : 17,
+        "item" : "1004"
+      }, {
+        "count" : 16,
+        "item" : "1027"
+      }, {
+        "count" : 15,
+        "item" : "1009"
+      }, {
+        "count" : 14,
+        "item" : "1050"
+      }, {
+        "count" : 13,
+        "item" : "1008"
+      }, {
+        "count" : 12,
+        "item" : "1035"
+      }, {
+        "count" : 11,
+        "item" : "1102"
+      }, {
+        "count" : 10,
+        "item" : "1024"
+      }, {
+        "count" : 9,
+        "item" : "1094"
+      }, {
+        "count" : 8,
+        "item" : "1066"
+      }, {
+        "count" : 7,
+        "item" : "1065"
+      }, {
+        "count" : 6,
+        "item" : "1278"
+      }, {
+        "count" : 5,
+        "item" : "3314"
+      }, {
+        "count" : 4,
+        "item" : "4031"
+      }, {
+        "count" : 3,
+        "item" : "2037"
+      }, {
+        "count" : 2,
+        "item" : "2071"
+      }, {
+        "count" : 1,
+        "item" : "2111"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 50802271,
+    "name" : "Petition Year",
+    "dataTypeName" : "number",
+    "description" : "Petition Year\nThe year the specified petition was filed",
+    "fieldName" : "petition_year",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8272270,
+    "width" : 120,
+    "cachedContents" : {
+      "non_null" : 193617,
+      "smallest" : "1970",
+      "sum" : "388608112",
+      "null" : 0,
+      "average" : "2007.097062757919",
+      "largest" : "2012",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2008"
+      }, {
+        "count" : 19,
+        "item" : "2009"
+      }, {
+        "count" : 18,
+        "item" : "2010"
+      }, {
+        "count" : 17,
+        "item" : "2011"
+      }, {
+        "count" : 16,
+        "item" : "2012"
+      }, {
+        "count" : 15,
+        "item" : "2000"
+      }, {
+        "count" : 14,
+        "item" : "2001"
+      }, {
+        "count" : 13,
+        "item" : "2002"
+      }, {
+        "count" : 12,
+        "item" : "2003"
+      }, {
+        "count" : 11,
+        "item" : "2004"
+      }, {
+        "count" : 10,
+        "item" : "2005"
+      }, {
+        "count" : 9,
+        "item" : "2006"
+      }, {
+        "count" : 8,
+        "item" : "2007"
+      }, {
+        "count" : 7,
+        "item" : "1999"
+      }, {
+        "count" : 6,
+        "item" : "1994"
+      }, {
+        "count" : 5,
+        "item" : "1995"
+      }, {
+        "count" : 4,
+        "item" : "1996"
+      }, {
+        "count" : 3,
+        "item" : "1997"
+      }, {
+        "count" : 2,
+        "item" : "1998"
+      }, {
+        "count" : 1,
+        "item" : "1984"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 50802118,
+    "name" : "Petition Index Number",
+    "dataTypeName" : "number",
+    "description" : "Index#\nPetition identifier",
+    "fieldName" : "petition_index_number",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8272295,
+    "width" : 171,
+    "cachedContents" : {
+      "non_null" : 193617,
+      "smallest" : "1",
+      "sum" : "58639449976",
+      "null" : 0,
+      "average" : "302863.1265642996",
+      "largest" : "805637",
+      "top" : [ {
+        "count" : 20,
+        "item" : "95383"
+      }, {
+        "count" : 19,
+        "item" : "95069"
+      }, {
+        "count" : 18,
+        "item" : "95106"
+      }, {
+        "count" : 17,
+        "item" : "95098"
+      }, {
+        "count" : 16,
+        "item" : "95437"
+      }, {
+        "count" : 15,
+        "item" : "8882"
+      }, {
+        "count" : 14,
+        "item" : "8771"
+      }, {
+        "count" : 13,
+        "item" : "95065"
+      }, {
+        "count" : 12,
+        "item" : "8883"
+      }, {
+        "count" : 11,
+        "item" : "8774"
+      }, {
+        "count" : 10,
+        "item" : "8666"
+      }, {
+        "count" : 9,
+        "item" : "8615"
+      }, {
+        "count" : 8,
+        "item" : "8658"
+      }, {
+        "count" : 7,
+        "item" : "90044"
+      }, {
+        "count" : 6,
+        "item" : "90033"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 50802119,
+    "name" : "Petitioner Name",
+    "dataTypeName" : "text",
+    "description" : "Petitioner Name\nName of the Petitioner - Owner of the specified property filing the specified petition",
+    "fieldName" : "petitioner_name",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8272296,
+    "width" : 237,
+    "cachedContents" : {
+      "non_null" : 193617,
+      "smallest" : ".291 CPW CONDOMINIUM     ",
+      "null" : 0,
+      "largest" : "ZWW VANDERBILT ASSOCIATES",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NATALIE LYNN LLC         "
+      }, {
+        "count" : 19,
+        "item" : "THE BROOKLYN UNION GAS CO"
+      }, {
+        "count" : 18,
+        "item" : "CON EDISON CO OF NY, INC "
+      }, {
+        "count" : 17,
+        "item" : "SEAGIS JFK LLC           "
+      }, {
+        "count" : 16,
+        "item" : "INDUSTRIAL ASSOCIATES    "
+      }, {
+        "count" : 15,
+        "item" : "BP AMERICA, INC.         "
+      }, {
+        "count" : 14,
+        "item" : "HUGUENOT PROPERTIES INC  "
+      }, {
+        "count" : 13,
+        "item" : "ROCKAWAY REALTY ASSOCIATE"
+      }, {
+        "count" : 12,
+        "item" : "JPMORGAN CHASE BANK      "
+      }, {
+        "count" : 11,
+        "item" : "FRANCHISE FOOD SERVICES, "
+      }, {
+        "count" : 10,
+        "item" : "AUTOZONE DEVELOPMENT CORP"
+      }, {
+        "count" : 9,
+        "item" : "SOVEREIGN BANK           "
+      }, {
+        "count" : 8,
+        "item" : "GRANT TERRACE CONDOMINIUM"
+      }, {
+        "count" : 7,
+        "item" : "145 LINCOLN AVENUE CONDOM"
+      }, {
+        "count" : 6,
+        "item" : "SALVATORE CALABRESE AND M"
+      }, {
+        "count" : 5,
+        "item" : "WHITE CASTLE SYSTEM INC. "
+      }, {
+        "count" : 4,
+        "item" : "LOUIS CANGIANO           "
+      }, {
+        "count" : 3,
+        "item" : "RONALD CATANIA           "
+      }, {
+        "count" : 2,
+        "item" : "RICHMOND 88 INC.         "
+      }, {
+        "count" : 1,
+        "item" : "HERBERT FERLEGER         "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 50802120,
+    "name" : "Attorney Identifier",
+    "dataTypeName" : "number",
+    "description" : "Attorney #\nAttroney Identifier assigned by the Tax Commission",
+    "fieldName" : "attorney_identifier",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8272328,
+    "width" : 156,
+    "cachedContents" : {
+      "non_null" : 193617,
+      "smallest" : "0",
+      "sum" : "20455182",
+      "null" : 0,
+      "average" : "105.6476549063357",
+      "largest" : "500",
+      "top" : [ {
+        "count" : 20,
+        "item" : "18"
+      }, {
+        "count" : 19,
+        "item" : "135"
+      }, {
+        "count" : 18,
+        "item" : "5"
+      }, {
+        "count" : 17,
+        "item" : "6"
+      }, {
+        "count" : 16,
+        "item" : "246"
+      }, {
+        "count" : 15,
+        "item" : "115"
+      }, {
+        "count" : 14,
+        "item" : "21"
+      }, {
+        "count" : 13,
+        "item" : "15"
+      }, {
+        "count" : 12,
+        "item" : "299"
+      }, {
+        "count" : 11,
+        "item" : "2"
+      }, {
+        "count" : 10,
+        "item" : "163"
+      }, {
+        "count" : 9,
+        "item" : "39"
+      }, {
+        "count" : 8,
+        "item" : "400"
+      }, {
+        "count" : 7,
+        "item" : "321"
+      }, {
+        "count" : 6,
+        "item" : "440"
+      }, {
+        "count" : 5,
+        "item" : "14"
+      }, {
+        "count" : 4,
+        "item" : "428"
+      }, {
+        "count" : 3,
+        "item" : "380"
+      }, {
+        "count" : 2,
+        "item" : "7"
+      }, {
+        "count" : 1,
+        "item" : "385"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 50802121,
+    "name" : "Attorney Name",
+    "dataTypeName" : "text",
+    "description" : "Attorney Name\nName of the Attroney filing the specified petition",
+    "fieldName" : "attorney_name",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8272329,
+    "width" : 227,
+    "cachedContents" : {
+      "non_null" : 193617,
+      "smallest" : "                         ",
+      "null" : 0,
+      "largest" : "XIANGAN GONG             ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "PODELL ROTHMAN           "
+      }, {
+        "count" : 19,
+        "item" : "MARCUS & POLLACK LLP     "
+      }, {
+        "count" : 18,
+        "item" : "BRANDT,STEINBERG & LEWIS "
+      }, {
+        "count" : 17,
+        "item" : "SHERMAN & GORDON PC      "
+      }, {
+        "count" : 16,
+        "item" : "JAY ARTHUR GOLDBERG, P.C."
+      }, {
+        "count" : 15,
+        "item" : "LAWRENCE J BERGER, P.C.  "
+      }, {
+        "count" : 14,
+        "item" : "SONNENSCHEIN SHERMAN &   "
+      }, {
+        "count" : 13,
+        "item" : "STROOCK STROOCK & LAVAN  "
+      }, {
+        "count" : 12,
+        "item" : "TUCHMAN,KATZ             "
+      }, {
+        "count" : 11,
+        "item" : "ERIC GRABINO,ESQ.        "
+      }, {
+        "count" : 10,
+        "item" : "SAMANTHA J GOLKIN, ESQ   "
+      }, {
+        "count" : 9,
+        "item" : "JEFFREY GOLKIN,ESQ.      "
+      }, {
+        "count" : 8,
+        "item" : "GOLDBERG WEPRIN FINKEL   "
+      }, {
+        "count" : 7,
+        "item" : "GOLDBERG WEPRIN & USTIN  "
+      }, {
+        "count" : 6,
+        "item" : "LINDEMANN  &  LINDEMANN P"
+      }, {
+        "count" : 5,
+        "item" : "PETER H & HUBERT J BRANDT"
+      }, {
+        "count" : 4,
+        "item" : "TUCHMAN KORNGOLD WEISS   "
+      }, {
+        "count" : 3,
+        "item" : "FRIDMAN SAKS LLP         "
+      }, {
+        "count" : 2,
+        "item" : "SILBERBERG & KLEIN LLP   "
+      }, {
+        "count" : 1,
+        "item" : "WINDELS MARX LANE        "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 50802122,
+    "name" : "Notice Of Issuance Code",
+    "dataTypeName" : "number",
+    "description" : "Notice of Issuance Codes\nNotice of issuance code is a concatenation of codes. The codes you may see are:\n1 - filing a certified statement of income and expenses with the Law Department;\n2 - filing a note of issue;\n3 - defective petition because the Tax Co",
+    "fieldName" : "notice_of_issuance_code",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8272339,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 193617,
+      "smallest" : "0",
+      "sum" : "34830461",
+      "null" : 0,
+      "average" : "179.8936095487483",
+      "largest" : "913",
+      "top" : [ {
+        "count" : 20,
+        "item" : "500"
+      }, {
+        "count" : 19,
+        "item" : "0"
+      }, {
+        "count" : 18,
+        "item" : "514"
+      }, {
+        "count" : 17,
+        "item" : "510"
+      }, {
+        "count" : 16,
+        "item" : "10"
+      }, {
+        "count" : 15,
+        "item" : "12"
+      }, {
+        "count" : 14,
+        "item" : "512"
+      }, {
+        "count" : 13,
+        "item" : "2"
+      }, {
+        "count" : 12,
+        "item" : "14"
+      }, {
+        "count" : 11,
+        "item" : "20"
+      }, {
+        "count" : 10,
+        "item" : "100"
+      }, {
+        "count" : 9,
+        "item" : "310"
+      }, {
+        "count" : 8,
+        "item" : "300"
+      }, {
+        "count" : 7,
+        "item" : "200"
+      }, {
+        "count" : 6,
+        "item" : "900"
+      }, {
+        "count" : 5,
+        "item" : "513"
+      }, {
+        "count" : 4,
+        "item" : "562"
+      }, {
+        "count" : 3,
+        "item" : "502"
+      }, {
+        "count" : 2,
+        "item" : "504"
+      }, {
+        "count" : 1,
+        "item" : "511"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Biannually "
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "new york city tax commission", "taxcomm", "open petition", "article 7" ],
+  "flags" : [ "default" ]
+}

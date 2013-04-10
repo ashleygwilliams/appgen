@@ -1,0 +1,133 @@
+{
+  "id" : "y4yc-78a4",
+  "name" : "Patient Population at World Trade Center (WTC) Environmental Health Center",
+  "attribution" : "Health and Hospitals Corporation (HHC)",
+  "averageRating" : 0,
+  "category" : "Health",
+  "createdAt" : 1317408059,
+  "description" : "HHC's WTC Environmental Health Center program, one of three Centers of Excellence in New York City, provides medical and mental healthcare to residents, students, workers, and passersby who may still be sick from 9/11.  This data shows the patient population of the program from 2008 to 2011.\r\nUpdate Frequency: As needed",
+  "displayType" : "table",
+  "downloadCount" : 17,
+  "numberOfComments" : 0,
+  "oid" : 337529,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318361176,
+  "publicationGroup" : 242200,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1317408076,
+  "rowsUpdatedBy" : "k2fz-tf56",
+  "signed" : false,
+  "tableId" : 242200,
+  "totalTimesRated" : 0,
+  "viewCount" : 72,
+  "viewLastModified" : 1363711952,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2910063,
+    "name" : "Year",
+    "dataTypeName" : "text",
+    "fieldName" : "year",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1540174,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "2008",
+      "null" : 0,
+      "largest" : "2011",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2008"
+      }, {
+        "count" : 19,
+        "item" : "2009"
+      }, {
+        "count" : 18,
+        "item" : "2010"
+      }, {
+        "count" : 17,
+        "item" : "2011"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2910064,
+    "name" : "Population",
+    "dataTypeName" : "text",
+    "fieldName" : "population",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1540175,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : " 2,300 ",
+      "null" : 0,
+      "largest" : " 5,340 ",
+      "top" : [ {
+        "count" : 20,
+        "item" : " 2,300 "
+      }, {
+        "count" : 19,
+        "item" : " 4,000 "
+      }, {
+        "count" : 18,
+        "item" : " 4,600 "
+      }, {
+        "count" : 17,
+        "item" : " 5,340 "
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "health", "patient", "world trade center", "wtc", "9/11", "healthy living" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,546 @@
+{
+  "id" : "2zez-gixy",
+  "name" : "Public Pay Telephone Wifi Metrics",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Statistics",
+  "createdAt" : 1354663925,
+  "description" : "This data represents monthly usage statistics from certain payphones which also serve as public WiFi hotspots throughout the city.",
+  "displayType" : "table",
+  "downloadCount" : 30,
+  "numberOfComments" : 0,
+  "oid" : 2185371,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1357688504,
+  "publicationGroup" : 537231,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1357688497,
+  "rowsUpdatedBy" : "x539-akqs",
+  "signed" : false,
+  "tableId" : 602791,
+  "totalTimesRated" : 0,
+  "viewCount" : 1573,
+  "viewLastModified" : 1360852411,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 38176313,
+    "name" : "Year",
+    "dataTypeName" : "number",
+    "fieldName" : "year",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 5797712,
+    "width" : 54,
+    "cachedContents" : {
+      "non_null" : 49,
+      "smallest" : "2012",
+      "sum" : "98588",
+      "null" : 0,
+      "average" : "2012",
+      "largest" : "2012",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2012"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 38176314,
+    "name" : "Month",
+    "dataTypeName" : "number",
+    "fieldName" : "month",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 5797713,
+    "width" : 66,
+    "cachedContents" : {
+      "non_null" : 49,
+      "smallest" : "7",
+      "sum" : "464",
+      "null" : 0,
+      "average" : "9.469387755102041",
+      "largest" : "12",
+      "top" : [ {
+        "count" : 20,
+        "item" : "7"
+      }, {
+        "count" : 19,
+        "item" : "8"
+      }, {
+        "count" : 18,
+        "item" : "9"
+      }, {
+        "count" : 17,
+        "item" : "10"
+      }, {
+        "count" : 16,
+        "item" : "11"
+      }, {
+        "count" : 15,
+        "item" : "12"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 38176315,
+    "name" : "Provider",
+    "dataTypeName" : "text",
+    "fieldName" : "provider",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 5878396,
+    "width" : 98,
+    "cachedContents" : {
+      "non_null" : 49,
+      "smallest" : "Telebeam",
+      "null" : 0,
+      "largest" : "Van Wagner",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Van Wagner"
+      }, {
+        "count" : 19,
+        "item" : "Telebeam"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 38176316,
+    "name" : "Location",
+    "dataTypeName" : "text",
+    "fieldName" : "location",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 5797714,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 49,
+      "smallest" : "2 Smith St, Brooklyn",
+      "null" : 0,
+      "largest" : "W Broadway & Spring St",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Broadway & W 58th St"
+      }, {
+        "count" : 19,
+        "item" : "W 95th & Broadway"
+      }, {
+        "count" : 18,
+        "item" : "W 48th St near Rockefeller Center"
+      }, {
+        "count" : 17,
+        "item" : "W Broadway & Spring St"
+      }, {
+        "count" : 16,
+        "item" : "2 Smith St, Brooklyn"
+      }, {
+        "count" : 15,
+        "item" : "Albee Square, Brooklyn"
+      }, {
+        "count" : 14,
+        "item" : "Richmond Ave & Amboy Rd, Staten Island"
+      }, {
+        "count" : 13,
+        "item" : "30-94 Steinway St, Astoria"
+      }, {
+        "count" : 12,
+        "item" : "TBD"
+      }, {
+        "count" : 11,
+        "item" : "SEC Broadway & W 58th St; Phone kiosk; New York; NY "
+      }, {
+        "count" : 10,
+        "item" : "W 48th St near Rockefeller Center; in Phone Kiosk; New York; NY "
+      }, {
+        "count" : 9,
+        "item" : "Phone Kiosk W Bway & Spring St; Phone Kiosk; New York; NY "
+      }, {
+        "count" : 8,
+        "item" : " Phone Kiosk @ Smith and Fulton St in Fulton Mall; Brooklyn; NY "
+      }, {
+        "count" : 7,
+        "item" : "Phone Kiosk Fulton St & Albee Square; Brooklyn; NY "
+      }, {
+        "count" : 6,
+        "item" : "Phone Kiosk near Burger King @ Richmond Ave & Amboy Rd;  Staten Island; NY "
+      }, {
+        "count" : 5,
+        "item" : "30-94 Steinway St; Phone Kiosk; Astoria; NY "
+      }, {
+        "count" : 4,
+        "item" : "931 Westchester Avenue; ; Bronx; NY "
+      }, {
+        "count" : 3,
+        "item" : "850 Longwood Avenue; ; Bronx; NY "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 38176317,
+    "name" : "System ID",
+    "dataTypeName" : "number",
+    "fieldName" : "system_id",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 5797715,
+    "width" : 69,
+    "cachedContents" : {
+      "non_null" : 49,
+      "smallest" : "9364",
+      "sum" : "1140756",
+      "null" : 0,
+      "average" : "23280.73469387755",
+      "largest" : "24337",
+      "top" : [ {
+        "count" : 20,
+        "item" : "20731"
+      }, {
+        "count" : 19,
+        "item" : "24329"
+      }, {
+        "count" : 18,
+        "item" : "24330"
+      }, {
+        "count" : 17,
+        "item" : "24331"
+      }, {
+        "count" : 16,
+        "item" : "24332"
+      }, {
+        "count" : 15,
+        "item" : "24334"
+      }, {
+        "count" : 14,
+        "item" : "24335"
+      }, {
+        "count" : 13,
+        "item" : "24336"
+      }, {
+        "count" : 12,
+        "item" : "24337"
+      }, {
+        "count" : 11,
+        "item" : "9364"
+      }, {
+        "count" : 10,
+        "item" : "9365"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 38176318,
+    "name" : "# of Sessions",
+    "dataTypeName" : "number",
+    "fieldName" : "sessions",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 5797716,
+    "width" : 91,
+    "cachedContents" : {
+      "non_null" : 49,
+      "smallest" : "0",
+      "sum" : "12436",
+      "null" : 0,
+      "average" : "253.7959183673469",
+      "largest" : "878",
+      "top" : [ {
+        "count" : 20,
+        "item" : "149"
+      }, {
+        "count" : 19,
+        "item" : "160"
+      }, {
+        "count" : 18,
+        "item" : "0"
+      }, {
+        "count" : 17,
+        "item" : "254"
+      }, {
+        "count" : 16,
+        "item" : "257"
+      }, {
+        "count" : 15,
+        "item" : "168"
+      }, {
+        "count" : 14,
+        "item" : "47"
+      }, {
+        "count" : 13,
+        "item" : "92"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "aggregate" : "sum",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 38176319,
+    "name" : "# of Users",
+    "dataTypeName" : "number",
+    "fieldName" : "users",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 5797717,
+    "width" : 64,
+    "cachedContents" : {
+      "non_null" : 49,
+      "smallest" : "0",
+      "sum" : "8633",
+      "null" : 0,
+      "average" : "176.1836734693878",
+      "largest" : "684",
+      "top" : [ {
+        "count" : 20,
+        "item" : "106"
+      }, {
+        "count" : 19,
+        "item" : "103"
+      }, {
+        "count" : 18,
+        "item" : "0"
+      }, {
+        "count" : 17,
+        "item" : "189"
+      }, {
+        "count" : 16,
+        "item" : "112"
+      }, {
+        "count" : 15,
+        "item" : "80"
+      }, {
+        "count" : 14,
+        "item" : "29"
+      }, {
+        "count" : 13,
+        "item" : "59"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "aggregate" : "sum",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 38176320,
+    "name" : "# of Minutes",
+    "dataTypeName" : "number",
+    "fieldName" : "minutes",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 5797718,
+    "width" : 76,
+    "cachedContents" : {
+      "non_null" : 49,
+      "smallest" : "0",
+      "sum" : "582576",
+      "null" : 0,
+      "average" : "11889.30612244898",
+      "largest" : "28773",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4765"
+      }, {
+        "count" : 19,
+        "item" : "8350"
+      }, {
+        "count" : 18,
+        "item" : "0"
+      }, {
+        "count" : 17,
+        "item" : "24043"
+      }, {
+        "count" : 16,
+        "item" : "17733"
+      }, {
+        "count" : 15,
+        "item" : "15768"
+      }, {
+        "count" : 14,
+        "item" : "1656"
+      }, {
+        "count" : 13,
+        "item" : "4865"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "aggregate" : "sum",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 38176321,
+    "name" : "MB Received",
+    "dataTypeName" : "number",
+    "fieldName" : "mb_received",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 5797719,
+    "width" : 86,
+    "cachedContents" : {
+      "non_null" : 49,
+      "smallest" : "0",
+      "sum" : "239160",
+      "null" : 0,
+      "average" : "4880.816326530612",
+      "largest" : "17749",
+      "top" : [ {
+        "count" : 20,
+        "item" : "948"
+      }, {
+        "count" : 19,
+        "item" : "2835"
+      }, {
+        "count" : 18,
+        "item" : "0"
+      }, {
+        "count" : 17,
+        "item" : "7376"
+      }, {
+        "count" : 16,
+        "item" : "6742"
+      }, {
+        "count" : 15,
+        "item" : "10747"
+      }, {
+        "count" : 14,
+        "item" : "284"
+      }, {
+        "count" : 13,
+        "item" : "7057"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "aggregate" : "sum",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 38176322,
+    "name" : "MB Sent",
+    "dataTypeName" : "number",
+    "fieldName" : "mb_sent",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 5797720,
+    "width" : 66,
+    "cachedContents" : {
+      "non_null" : 49,
+      "smallest" : "0",
+      "sum" : "22617",
+      "null" : 0,
+      "average" : "461.5714285714286",
+      "largest" : "1478",
+      "top" : [ {
+        "count" : 20,
+        "item" : "119"
+      }, {
+        "count" : 19,
+        "item" : "300"
+      }, {
+        "count" : 18,
+        "item" : "0"
+      }, {
+        "count" : 17,
+        "item" : "412"
+      }, {
+        "count" : 16,
+        "item" : "743"
+      }, {
+        "count" : 15,
+        "item" : "788"
+      }, {
+        "count" : 14,
+        "item" : "34"
+      }, {
+        "count" : 13,
+        "item" : "273"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "aggregate" : "sum",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "x539-akqs",
+    "displayName" : "Andrew Nicklin",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/4798/2643/My_Photo_3_large.png",
+    "profileImageUrlMedium" : "/images/profile/4798/2643/My_Photo_3_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/4798/2643/My_Photo_3_tiny.png",
+    "profileLastModified" : 1336858132,
+    "roleName" : "administrator",
+    "screenName" : "Andrew Nicklin",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+    "orderBys" : [ {
+      "ascending" : false,
+      "expression" : {
+        "columnId" : 38176314,
+        "type" : "column"
+      }
+    } ]
+  },
+  "rights" : [ "read" ],
+  "sortBys" : [ {
+    "id" : 0,
+    "viewColumnId" : 38176314
+  } ],
+  "tableAuthor" : {
+    "id" : "x539-akqs",
+    "displayName" : "Andrew Nicklin",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/4798/2643/My_Photo_3_large.png",
+    "profileImageUrlMedium" : "/images/profile/4798/2643/My_Photo_3_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/4798/2643/My_Photo_3_tiny.png",
+    "profileLastModified" : 1336858132,
+    "roleName" : "administrator",
+    "screenName" : "Andrew Nicklin",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "payphone", "wifi", "usage", "ppt", "public pay telephone", "hotspot" ],
+  "flags" : [ "default" ]
+}

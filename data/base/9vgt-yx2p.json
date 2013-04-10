@@ -1,0 +1,475 @@
+{
+  "id" : "9vgt-yx2p",
+  "name" : "Hydrostats",
+  "attribution" : "Department of Environmental Protection (DEP)",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1314742759,
+  "description" : "Reservoir areas and stream lengths",
+  "displayType" : "table",
+  "downloadCount" : 23,
+  "numberOfComments" : 0,
+  "oid" : 332257,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1314742759,
+  "publicationGroup" : 239960,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1314742759,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 239960,
+  "totalTimesRated" : 0,
+  "viewCount" : 114,
+  "viewLastModified" : 1363712663,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2826845,
+    "name" : "Basin",
+    "dataTypeName" : "text",
+    "fieldName" : "basin",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1514005,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 17,
+      "smallest" : "***Hydro features buffered include streams and rivers only (stream24 plus water24), and exlude reservoirs and lakes.",
+      "null" : 0,
+      "largest" : "WOH Total",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Basin"
+      }, {
+        "count" : 19,
+        "item" : "Ashokan"
+      }, {
+        "count" : 18,
+        "item" : "Cannonsville"
+      }, {
+        "count" : 17,
+        "item" : "Neversink"
+      }, {
+        "count" : 16,
+        "item" : "Pepacton"
+      }, {
+        "count" : 15,
+        "item" : "Rondout"
+      }, {
+        "count" : 14,
+        "item" : "Schoharie"
+      }, {
+        "count" : 13,
+        "item" : "WOH Total"
+      }, {
+        "count" : 12,
+        "item" : "Boyds Corner"
+      }, {
+        "count" : 11,
+        "item" : "Kensico"
+      }, {
+        "count" : 10,
+        "item" : "West Branch"
+      }, {
+        "count" : 9,
+        "item" : "EOH Total"
+      }, {
+        "count" : 8,
+        "item" : "Watershed Total"
+      }, {
+        "count" : 7,
+        "item" : "*CAT/DEL includes all WOH basins plus West Branch, Boyds Corner, and Kensico."
+      }, {
+        "count" : 6,
+        "item" : "**Includes streams and rivers only (stream24 plus NHD vectors for streampoly proxies)."
+      }, {
+        "count" : 5,
+        "item" : "***Hydro features buffered include streams and rivers only (stream24 plus water24), and exlude reservoirs and lakes."
+      }, {
+        "count" : 4,
+        "item" : "Catskill / Delaware* Land and Reservoir Areas and Stream** Length by Basin"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826846,
+    "name" : "Reservoir Acres",
+    "dataTypeName" : "number",
+    "fieldName" : "reservoir_acres",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1514006,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 12,
+      "smallest" : "222.3",
+      "sum" : "77946.6",
+      "null" : 5,
+      "average" : "6495.55",
+      "largest" : "25982.2",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8106.5"
+      }, {
+        "count" : 19,
+        "item" : "4712.7"
+      }, {
+        "count" : 18,
+        "item" : "1492.8"
+      }, {
+        "count" : 17,
+        "item" : "5193.7"
+      }, {
+        "count" : 16,
+        "item" : "2037.9"
+      }, {
+        "count" : 15,
+        "item" : "1144.8"
+      }, {
+        "count" : 14,
+        "item" : "22688.4"
+      }, {
+        "count" : 13,
+        "item" : "222.3"
+      }, {
+        "count" : 12,
+        "item" : "2069.2"
+      }, {
+        "count" : 11,
+        "item" : "1002.3"
+      }, {
+        "count" : 10,
+        "item" : "3293.8"
+      }, {
+        "count" : 9,
+        "item" : "25982.2"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826847,
+    "name" : "Basin Acres (land only)",
+    "dataTypeName" : "number",
+    "fieldName" : "basin_acres_land_only",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1514007,
+    "width" : 376,
+    "cachedContents" : {
+      "non_null" : 12,
+      "smallest" : "6406.3",
+      "sum" : "3070448.9",
+      "null" : 5,
+      "average" : "255870.7416666667",
+      "largest" : "1023482.9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "155299.0"
+      }, {
+        "count" : 19,
+        "item" : "286364.6"
+      }, {
+        "count" : 18,
+        "item" : "57409.4"
+      }, {
+        "count" : 17,
+        "item" : "232278.5"
+      }, {
+        "count" : 16,
+        "item" : "59001.1"
+      }, {
+        "count" : 15,
+        "item" : "200895.0"
+      }, {
+        "count" : 14,
+        "item" : "991247.5"
+      }, {
+        "count" : 13,
+        "item" : "14095.6"
+      }, {
+        "count" : 12,
+        "item" : "6406.3"
+      }, {
+        "count" : 11,
+        "item" : "11733.6"
+      }, {
+        "count" : 10,
+        "item" : "32235.4"
+      }, {
+        "count" : 9,
+        "item" : "1023482.9"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826848,
+    "name" : "Total Acres",
+    "dataTypeName" : "number",
+    "fieldName" : "total_acres",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1514008,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 12,
+      "smallest" : "8475.5",
+      "sum" : "3148395.7",
+      "null" : 5,
+      "average" : "262366.3083333333",
+      "largest" : "1049465.2",
+      "top" : [ {
+        "count" : 20,
+        "item" : "163405.5"
+      }, {
+        "count" : 19,
+        "item" : "291077.3"
+      }, {
+        "count" : 18,
+        "item" : "58902.2"
+      }, {
+        "count" : 17,
+        "item" : "237472.2"
+      }, {
+        "count" : 16,
+        "item" : "61039.0"
+      }, {
+        "count" : 15,
+        "item" : "202039.9"
+      }, {
+        "count" : 14,
+        "item" : "1013936.0"
+      }, {
+        "count" : 13,
+        "item" : "14317.8"
+      }, {
+        "count" : 12,
+        "item" : "8475.5"
+      }, {
+        "count" : 11,
+        "item" : "12735.9"
+      }, {
+        "count" : 10,
+        "item" : "35529.2"
+      }, {
+        "count" : 9,
+        "item" : "1049465.2"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826849,
+    "name" : "Reservoir Shoreline Miles",
+    "dataTypeName" : "number",
+    "fieldName" : "reservoir_shoreline_miles",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1514009,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 12,
+      "smallest" : "5.5",
+      "sum" : "804.9",
+      "null" : 5,
+      "average" : "67.075",
+      "largest" : "268.3",
+      "top" : [ {
+        "count" : 20,
+        "item" : "53.2"
+      }, {
+        "count" : 19,
+        "item" : "56.2"
+      }, {
+        "count" : 18,
+        "item" : "18.6"
+      }, {
+        "count" : 17,
+        "item" : "20.3"
+      }, {
+        "count" : 16,
+        "item" : "14.9"
+      }, {
+        "count" : 15,
+        "item" : "216.4"
+      }, {
+        "count" : 14,
+        "item" : "5.5"
+      }, {
+        "count" : 13,
+        "item" : "32.4"
+      }, {
+        "count" : 12,
+        "item" : "14.0"
+      }, {
+        "count" : 11,
+        "item" : "51.9"
+      }, {
+        "count" : 10,
+        "item" : "268.3"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826850,
+    "name" : "Stream Miles",
+    "dataTypeName" : "number",
+    "fieldName" : "stream_miles",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1514010,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 12,
+      "smallest" : "20.7",
+      "sum" : "9765.1",
+      "null" : 5,
+      "average" : "813.7583333333333",
+      "largest" : "3255.0",
+      "top" : [ {
+        "count" : 20,
+        "item" : "485.4"
+      }, {
+        "count" : 19,
+        "item" : "802.6"
+      }, {
+        "count" : 18,
+        "item" : "229.9"
+      }, {
+        "count" : 17,
+        "item" : "664.6"
+      }, {
+        "count" : 16,
+        "item" : "203.4"
+      }, {
+        "count" : 15,
+        "item" : "742.7"
+      }, {
+        "count" : 14,
+        "item" : "3128.6"
+      }, {
+        "count" : 13,
+        "item" : "51.3"
+      }, {
+        "count" : 12,
+        "item" : "20.7"
+      }, {
+        "count" : 11,
+        "item" : "54.4"
+      }, {
+        "count" : 10,
+        "item" : "126.5"
+      }, {
+        "count" : 9,
+        "item" : "3255.0"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2826851,
+    "name" : "100 ft. Riparian Buffer*** Acres",
+    "dataTypeName" : "number",
+    "fieldName" : "_100_ft_riparian_buffer_acres",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1514011,
+    "width" : 484,
+    "cachedContents" : {
+      "non_null" : 12,
+      "smallest" : "448.3",
+      "sum" : "228994.6",
+      "null" : 5,
+      "average" : "19082.88333333333",
+      "largest" : "76331.5",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11384.2"
+      }, {
+        "count" : 19,
+        "item" : "18782.6"
+      }, {
+        "count" : 18,
+        "item" : "5389.6"
+      }, {
+        "count" : 17,
+        "item" : "15711.4"
+      }, {
+        "count" : 16,
+        "item" : "4797.7"
+      }, {
+        "count" : 15,
+        "item" : "17371.9"
+      }, {
+        "count" : 14,
+        "item" : "73437.4"
+      }, {
+        "count" : 13,
+        "item" : "1187.7"
+      }, {
+        "count" : 12,
+        "item" : "448.3"
+      }, {
+        "count" : 11,
+        "item" : "1258.2"
+      }, {
+        "count" : 10,
+        "item" : "2894.1"
+      }, {
+        "count" : 9,
+        "item" : "76331.5"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "department of environmental protection", "dep", "environment", "water", "reservoir", "health", "ecosystem", "eco-system", "agua", "water system", "water supply", "nyc", "tap", "tap water", "conservation", "watershed", "dam", "coverage", "hydro", "hydrostats", "healthy living" ],
+  "flags" : [ "default" ]
+}

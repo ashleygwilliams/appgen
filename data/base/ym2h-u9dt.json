@@ -1,0 +1,514 @@
+{
+  "id" : "ym2h-u9dt",
+  "name" : "Brooklyn Public Library Catalog",
+  "attribution" : "Brooklyn Public Library (BPL)",
+  "averageRating" : 0,
+  "category" : "Library",
+  "createdAt" : 1317764570,
+  "description" : "Brooklyn Public Library Catalog, with Call #, Author, Title, Edition, Pub Info, Standard #.  Data delimiter is “|”.",
+  "displayType" : "table",
+  "downloadCount" : 642,
+  "numberOfComments" : 0,
+  "oid" : 339893,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1317766960,
+  "publicationGroup" : 243051,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1317766789,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 243051,
+  "totalTimesRated" : 0,
+  "viewCount" : 555,
+  "viewLastModified" : 1361281625,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2948398,
+    "name" : "CALL #(BIBLIO)",
+    "dataTypeName" : "text",
+    "fieldName" : "call_biblio_",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1550982,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 789025,
+      "smallest" : " ;\"NEIG 0910",
+      "null" : 35638,
+      "largest" : "ZUL 496 Z94 C",
+      "top" : [ {
+        "count" : 20,
+        "item" : "eAUDIO"
+      }, {
+        "count" : 19,
+        "item" : "DVD"
+      }, {
+        "count" : 18,
+        "item" : "eBOOK"
+      }, {
+        "count" : 17,
+        "item" : "DVD SPA"
+      }, {
+        "count" : 16,
+        "item" : "DVD CHI"
+      }, {
+        "count" : 15,
+        "item" : "DVD ARA"
+      }, {
+        "count" : 14,
+        "item" : "DVD RUS"
+      }, {
+        "count" : 13,
+        "item" : "AUDIO J FIC RIORDAN"
+      }, {
+        "count" : 12,
+        "item" : "HEB FIC RON"
+      }, {
+        "count" : 11,
+        "item" : "CHI J-E"
+      }, {
+        "count" : 10,
+        "item" : "AUDIO J FIC CABOT"
+      }, {
+        "count" : 9,
+        "item" : "AUDIO J FIC OSBORNE"
+      }, {
+        "count" : 8,
+        "item" : "AUDIO J FIC KEENE"
+      }, {
+        "count" : 7,
+        "item" : "FRE FIC WOODIWISS"
+      }, {
+        "count" : 6,
+        "item" : "RUS FIC NABOKOV"
+      }, {
+        "count" : 5,
+        "item" : "RUS 947.06 K"
+      }, {
+        "count" : 4,
+        "item" : "FRE FIC GRANGE"
+      }, {
+        "count" : 3,
+        "item" : "332.019 L"
+      }, {
+        "count" : 2,
+        "item" : "RUS FIC PARSONS"
+      }, {
+        "count" : 1,
+        "item" : "POL B JANOWSKA K"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2948399,
+    "name" : "AUTHOR",
+    "dataTypeName" : "text",
+    "fieldName" : "author",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1550983,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 691514,
+      "smallest" : ".38 Special (Musical group)",
+      "null" : 133149,
+      "largest" : "︠Z︡Holdak, Bohdan.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Brown, Felicity."
+      }, {
+        "count" : 19,
+        "item" : "880-01 Ron-Feder-ʻAmit, Galilah, 1949-"
+      }, {
+        "count" : 18,
+        "item" : "Dashner, James."
+      }, {
+        "count" : 17,
+        "item" : "Watson, Jude."
+      }, {
+        "count" : 16,
+        "item" : "Korman, Gordon."
+      }, {
+        "count" : 15,
+        "item" : "Lerangis, Peter."
+      }, {
+        "count" : 14,
+        "item" : "Carroll, Lewis."
+      }, {
+        "count" : 13,
+        "item" : "Cabot, Meg."
+      }, {
+        "count" : 12,
+        "item" : "Riordan, Rick."
+      }, {
+        "count" : 11,
+        "item" : "Keene, Carolyn."
+      }, {
+        "count" : 10,
+        "item" : "Park, Barbara."
+      }, {
+        "count" : 9,
+        "item" : "Osborne, Mary Pope."
+      }, {
+        "count" : 8,
+        "item" : "McKay, Hilary."
+      }, {
+        "count" : 7,
+        "item" : "Woodiwiss, Kathleen E."
+      }, {
+        "count" : 6,
+        "item" : "880-01 Kulikova, Galina."
+      }, {
+        "count" : 5,
+        "item" : "United States. Congress. House. Committee on Homeland Security. Subcommittee on Emerging Threats, Cybersecurity, and Science and Technology."
+      }, {
+        "count" : 4,
+        "item" : "880-01 Gorskiĭ, Stnislav."
+      }, {
+        "count" : 3,
+        "item" : "United States. Congress. House. Committee on Homeland Security. Subcommittee on Intelligence, Information Sharing, and Terrorism Risk Assessment."
+      }, {
+        "count" : 2,
+        "item" : "United States. Congress. House. Committee on Homeland Security."
+      }, {
+        "count" : 1,
+        "item" : "880-01 Ėrenburg, Irina (Irina Nikolaevna)"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2948400,
+    "name" : "TITLE",
+    "dataTypeName" : "text",
+    "fieldName" : "title",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1550984,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 824656,
+      "smallest" : "!Click song / John A. Williams.",
+      "null" : 7,
+      "largest" : "︡TSareub̆︠i︡tsa [videorecording] / kinostud︠i︡ia  Kurʹer , kinoko︠n︡tserna  Mosfilʹm    ︠s︡tsenariĭ A. Boro︠d︡ianskogo, K. Shakhnazarova   rezhisser, K. Shakhnazarov  pro︠d︡iusery, B. Brams, V. Dostalʹ.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "880-01 Tie chi tong ya Ji Xiaolan. III. Disc 5-8 [videorecording] / jian zhi Li Gang deng."
+      }, {
+        "count" : 19,
+        "item" : "DHS : the path forward : hearing before the Committee on Homeland Security, House of Representatives, One Hundred Eleventh Congress, first session, February 25, 2009."
+      }, {
+        "count" : 18,
+        "item" : "880-02 Gala i Ėl︠i︡uar : schastlivyĭ sopernik Salʹvadora Dali / Irina Ėrenburg."
+      }, {
+        "count" : 17,
+        "item" : "880-01 Kābārīyah [videorecording] = Cabaret / Taʼlīf Aḥmad ʻAbd Allāh   intāj Aḥmad al-Subkī   ikhrāj Sāmiḥ ʻAbd al-ʻAzīz."
+      }, {
+        "count" : 16,
+        "item" : "Les amants secrets / Virginia Henley   traduit de l'américain par Catherine Plasait."
+      }, {
+        "count" : 15,
+        "item" : "880-02 Blednyĭ ogonʹ / Vladimir Nabokov   [perevod Very Nabokovoĭ]."
+      }, {
+        "count" : 14,
+        "item" : "880-02 Laura i ee original : fragmenty romana / Vladimir Nabokov   [pervod s angliĭskogo Gennadi︠i︡a Barabtarlo   redaktor Andreĭ Babikov]."
+      }, {
+        "count" : 13,
+        "item" : "Steck-Vaughn préparation complète et officielle au GED canadien / conseiller à la rédaction, Jim Barlow."
+      }, {
+        "count" : 12,
+        "item" : "880-01 Tian can bian. Disc 1-4 [videorecording] = Reincarnated I / Ya zhou tian shi."
+      }, {
+        "count" : 11,
+        "item" : "La Révolution française pour les nuls / Alain-Jacques Czouz-Tornare."
+      }, {
+        "count" : 10,
+        "item" : "100% air cargo screening : can we secure America's skies? : hearing before the Subcommittee on Transportation Security and Infrastructure Protection of the Committee on Homeland Security, House of Representatives, One Hundred Eleventh Congress, first session, March 18, 2009."
+      }, {
+        "count" : 9,
+        "item" : "880-01 Tian can bian. Disc 5-8 [videorecording] = Reincarnated I / Ya zhou tian shi."
+      }, {
+        "count" : 8,
+        "item" : "880-01  Koronnye peremeny  -- dvor︠t︡sovye perevoroty, 1725-1782 gg. / sost. M.N.Smyr."
+      }, {
+        "count" : 7,
+        "item" : "La forêt des Mânes : roman / Jean-Christophe Grangé."
+      }, {
+        "count" : 6,
+        "item" : "Great expectations : the psychology of money / Henry Clay Lindgren."
+      }, {
+        "count" : 5,
+        "item" : "880-02 Semʹ︠i︡a / Toni Parsons   perevod s angliĭskogo M. Karasevoĭ."
+      }, {
+        "count" : 4,
+        "item" : "Krzyżówka / Anita Halina Janowska."
+      }, {
+        "count" : 3,
+        "item" : "Mes étoiles noires : de Lucy à Barack Obama / Lilian Thuram   avec la collaboration de Bernard Fillaire."
+      }, {
+        "count" : 2,
+        "item" : "880-01 Imperi︠i︡a Petra Velikogo, 1700-1725 gg. / [sost., G. Gri︠t︡senko]."
+      }, {
+        "count" : 1,
+        "item" : "880-02 Sosed po Lavrukhe : vospominani︠i︡a / Nadezhda Kozhevnikova."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2948401,
+    "name" : "EDITION",
+    "dataTypeName" : "text",
+    "fieldName" : "edition",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1550985,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 177411,
+      "smallest" : "!st Magic Carpet Books ed.",
+      "null" : 647252,
+      "largest" : "初版.\";\"Chu ban.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1st ed."
+      }, {
+        "count" : 19,
+        "item" : "2nd ed."
+      }, {
+        "count" : 18,
+        "item" : "Rev. ed."
+      }, {
+        "count" : 17,
+        "item" : "1st American ed."
+      }, {
+        "count" : 16,
+        "item" : "[1st ed.]"
+      }, {
+        "count" : 15,
+        "item" : "1st U.S. ed."
+      }, {
+        "count" : 14,
+        "item" : "880-03 Chu ban."
+      }, {
+        "count" : 13,
+        "item" : "880-03 Di 1 ban."
+      }, {
+        "count" : 12,
+        "item" : "3rd ed."
+      }, {
+        "count" : 11,
+        "item" : "Widescreen ed."
+      }, {
+        "count" : 10,
+        "item" : "1. ed."
+      }, {
+        "count" : 9,
+        "item" : "Wyd. 1."
+      }, {
+        "count" : 8,
+        "item" : "880-02 Di 1 ban."
+      }, {
+        "count" : 7,
+        "item" : "Large print ed."
+      }, {
+        "count" : 6,
+        "item" : "Unabridged."
+      }, {
+        "count" : 5,
+        "item" : "1st pbk. ed."
+      }, {
+        "count" : 4,
+        "item" : "880-04 Di 1 ban."
+      }, {
+        "count" : 3,
+        "item" : "Abridged."
+      }, {
+        "count" : 2,
+        "item" : "1st Aladdin Paperbacks ed."
+      }, {
+        "count" : 1,
+        "item" : "5th ed."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2948402,
+    "name" : "PUB INFO",
+    "dataTypeName" : "text",
+    "fieldName" : "pub_info",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1550986,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 823310,
+      "smallest" : ", NYNew York : Pocket Books, c2005.",
+      "null" : 1353,
+      "largest" : "︠I︡Uzhno-Sakhalinsk : Izd-vo  Nadezhda-1 , 1993.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "880-03 Taibei Shi : He ma wen hua, 2009."
+      }, {
+        "count" : 19,
+        "item" : "Random House Inc 2010"
+      }, {
+        "count" : 18,
+        "item" : "Kensington Pub Corp 2010"
+      }, {
+        "count" : 17,
+        "item" : "[United States] : Scholastic, 2009."
+      }, {
+        "count" : 16,
+        "item" : "[United States] : Scholastic, 2010."
+      }, {
+        "count" : 15,
+        "item" : "[United States] : Random House, Inc., Listening Library, 2007."
+      }, {
+        "count" : 14,
+        "item" : "[United States] : Brilliance Audio, Inc., 2010."
+      }, {
+        "count" : 13,
+        "item" : "Washington : U.S. G.P.O. : For sale by the Supt. of Docs., U.S. G.P.O., 2010."
+      }, {
+        "count" : 12,
+        "item" : "880-02 South San Francisco, CA : Tai sheng yu le gong si : distributed by TVBI, [2005?]"
+      }, {
+        "count" : 11,
+        "item" : "South San Francisco, CA : East Media Entertainment, [2009?]"
+      }, {
+        "count" : 10,
+        "item" : "880-02 Moskva : OLMA Media Grupp, 2010."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2948403,
+    "name" : "STANDARD #",
+    "dataTypeName" : "text",
+    "fieldName" : "standard_",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1550987,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 610113,
+      "smallest" : ": $10.95",
+      "null" : 214550,
+      "largest" : "zł40.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0792849019 : $14.99\";\"027616862815"
+      }, {
+        "count" : 19,
+        "item" : "1588177912 : $14.99\";\"031398833826"
+      }, {
+        "count" : 18,
+        "item" : "$26.99\";\"024543208389"
+      }, {
+        "count" : 17,
+        "item" : "$19.99\";\"024543263739"
+      }, {
+        "count" : 16,
+        "item" : "$19.99\";\"014381497229"
+      }, {
+        "count" : 15,
+        "item" : "0160852803\";\"9780160852800"
+      }, {
+        "count" : 14,
+        "item" : "$20.00"
+      }, {
+        "count" : 13,
+        "item" : "2290020974 (pbk.)\";\"9782290020975 (pbk.)"
+      }, {
+        "count" : 12,
+        "item" : "9785952446328 : $9.70\";\"5952446329 : $9.70"
+      }, {
+        "count" : 11,
+        "item" : "0160852242\";\"9780160852244"
+      }, {
+        "count" : 10,
+        "item" : "0160851963\";\"9780160851964"
+      }, {
+        "count" : 9,
+        "item" : "9785739023919 ( Olimp ) : $10.40\";\"5739023912 ( Olimp ) : $10.40\";\"9785271239939 ( Astrelʹ )\";\"5271239934 ( Astrelʹ )"
+      }, {
+        "count" : 8,
+        "item" : "2000002665076"
+      }, {
+        "count" : 7,
+        "item" : "2290009962 (pbk.)\";\"9782290009963 (pbk.)"
+      }, {
+        "count" : 6,
+        "item" : "9785998506901 : $7.50\";\"5998506901 : $7.50"
+      }, {
+        "count" : 5,
+        "item" : "599850657X\";\"9785998506574 : $9.10"
+      }, {
+        "count" : 4,
+        "item" : "0176462864 (pbk.)\";\"9780176462864 (pbk.)"
+      }, {
+        "count" : 3,
+        "item" : "$32.00"
+      }, {
+        "count" : 2,
+        "item" : "275400811X (pbk.)\";\"9782754008112 (pbk.)"
+      }, {
+        "count" : 1,
+        "item" : "0160852870\";\"9780160852879"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "library", "catalog", "catalogue", "brooklyn", "book", "author", "title", "edition", "publisher" ],
+  "flags" : [ "default" ]
+}

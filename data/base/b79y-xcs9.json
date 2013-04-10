@@ -1,0 +1,581 @@
+{
+  "id" : "b79y-xcs9",
+  "name" : "Wastewater Treatment Plants",
+  "attribution" : "Department of Environmental Protection (DEP)",
+  "attributionLink" : "http://www.nyc.gov/html/dep/html/wastewater/wwsystem-plants.shtml",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1359650710,
+  "description" : "Wastewater Treatment Plants",
+  "displayType" : "table",
+  "downloadCount" : 4,
+  "numberOfComments" : 0,
+  "oid" : 2395804,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359657347,
+  "publicationGroup" : 648566,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1359657252,
+  "rowsUpdatedBy" : "ya7g-926w",
+  "signed" : false,
+  "tableId" : 648728,
+  "totalTimesRated" : 0,
+  "viewCount" : 74,
+  "viewLastModified" : 1363712795,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 42281964,
+    "name" : "Wastewater Treatment Plant Name",
+    "dataTypeName" : "text",
+    "fieldName" : "wastewater_treatment_plant_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7436602,
+    "width" : 245,
+    "cachedContents" : {
+      "non_null" : 14,
+      "smallest" : "26th Ward WWTP",
+      "null" : 0,
+      "largest" : "Wards Island WWTP",
+      "top" : [ {
+        "count" : 20,
+        "item" : "26th Ward WWTP"
+      }, {
+        "count" : 19,
+        "item" : "Bowery Bay WWTP"
+      }, {
+        "count" : 18,
+        "item" : "Coney Island WWTP"
+      }, {
+        "count" : 17,
+        "item" : "Hunts Point WWTP"
+      }, {
+        "count" : 16,
+        "item" : "Jamaica WWTP"
+      }, {
+        "count" : 15,
+        "item" : "Newtown Creek WWTP"
+      }, {
+        "count" : 14,
+        "item" : "North River WWTP"
+      }, {
+        "count" : 13,
+        "item" : "Oakwood Beach WWTP"
+      }, {
+        "count" : 12,
+        "item" : "Rockaway WWTP"
+      }, {
+        "count" : 11,
+        "item" : "Owls Head WWTP"
+      }, {
+        "count" : 10,
+        "item" : "Wards Island WWTP"
+      }, {
+        "count" : 9,
+        "item" : "Tallman Island WWTP"
+      }, {
+        "count" : 8,
+        "item" : "Port Richmond WWTP"
+      }, {
+        "count" : 7,
+        "item" : "Red Hook WWTP"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42281965,
+    "name" : "Location",
+    "dataTypeName" : "text",
+    "fieldName" : "location",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7436603,
+    "width" : 98,
+    "cachedContents" : {
+      "non_null" : 14,
+      "smallest" : "East",
+      "null" : 0,
+      "largest" : "South",
+      "top" : [ {
+        "count" : 20,
+        "item" : "East"
+      }, {
+        "count" : 19,
+        "item" : "North"
+      }, {
+        "count" : 18,
+        "item" : "South"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 42281966,
+    "name" : "Plant in operation",
+    "dataTypeName" : "text",
+    "fieldName" : "plant_in_operation",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7436604,
+    "width" : 146,
+    "cachedContents" : {
+      "non_null" : 14,
+      "smallest" : "1903 / 1943",
+      "null" : 0,
+      "largest" : "1987",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1944"
+      }, {
+        "count" : 19,
+        "item" : "1939"
+      }, {
+        "count" : 18,
+        "item" : "1935"
+      }, {
+        "count" : 17,
+        "item" : "1952"
+      }, {
+        "count" : 16,
+        "item" : "1903 / 1943"
+      }, {
+        "count" : 15,
+        "item" : "1967"
+      }, {
+        "count" : 14,
+        "item" : "1986"
+      }, {
+        "count" : 13,
+        "item" : "1956"
+      }, {
+        "count" : 12,
+        "item" : "1937"
+      }, {
+        "count" : 11,
+        "item" : "1953"
+      }, {
+        "count" : 10,
+        "item" : "1987"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 42281967,
+    "name" : "Design Capacity",
+    "dataTypeName" : "text",
+    "fieldName" : "design_capacity",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7436605,
+    "width" : 149,
+    "cachedContents" : {
+      "non_null" : 14,
+      "smallest" : "100 MGD",
+      "null" : 0,
+      "largest" : "85 MGD",
+      "top" : [ {
+        "count" : 20,
+        "item" : "85 MGD"
+      }, {
+        "count" : 19,
+        "item" : "150 MGD"
+      }, {
+        "count" : 18,
+        "item" : "110 MGD"
+      }, {
+        "count" : 17,
+        "item" : "200 MGD"
+      }, {
+        "count" : 16,
+        "item" : "100 MGD"
+      }, {
+        "count" : 15,
+        "item" : "310 MGD"
+      }, {
+        "count" : 14,
+        "item" : "170 MGD"
+      }, {
+        "count" : 13,
+        "item" : "39.9 MGD"
+      }, {
+        "count" : 12,
+        "item" : "45 MGD"
+      }, {
+        "count" : 11,
+        "item" : "120 MGD"
+      }, {
+        "count" : 10,
+        "item" : "275 MGD"
+      }, {
+        "count" : 9,
+        "item" : "80 MGD"
+      }, {
+        "count" : 8,
+        "item" : "60 MGD"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 42281968,
+    "name" : "Dewatering",
+    "dataTypeName" : "text",
+    "fieldName" : "dewatering",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7436606,
+    "width" : 187,
+    "cachedContents" : {
+      "non_null" : 14,
+      "smallest" : "26th Ward",
+      "null" : 0,
+      "largest" : "Wards Island WWTP",
+      "top" : [ {
+        "count" : 20,
+        "item" : "26th Ward"
+      }, {
+        "count" : 19,
+        "item" : "Bowery Bay"
+      }, {
+        "count" : 18,
+        "item" : "Hunts Point"
+      }, {
+        "count" : 17,
+        "item" : "Jamaica WWTP"
+      }, {
+        "count" : 16,
+        "item" : "Hunts Point WWTP"
+      }, {
+        "count" : 15,
+        "item" : "Wards Island WWTP"
+      }, {
+        "count" : 14,
+        "item" : "Oakwood Beach WWTP"
+      }, {
+        "count" : 13,
+        "item" : "26th Ward WWTP"
+      }, {
+        "count" : 12,
+        "item" : "26th Ward / Wards Island WWTPs"
+      }, {
+        "count" : 11,
+        "item" : "Tallman Island WWTP"
+      }, {
+        "count" : 10,
+        "item" : "Red Hook WWTP"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42281969,
+    "name" : "Population Served",
+    "dataTypeName" : "number",
+    "fieldName" : "population_served",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7436607,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 14,
+      "smallest" : "90474",
+      "sum" : "7753505",
+      "null" : 0,
+      "average" : "553821.7857142857",
+      "largest" : "1068012",
+      "top" : [ {
+        "count" : 20,
+        "item" : "283428"
+      }, {
+        "count" : 19,
+        "item" : "848328"
+      }, {
+        "count" : 18,
+        "item" : "596326"
+      }, {
+        "count" : 17,
+        "item" : "684569"
+      }, {
+        "count" : 16,
+        "item" : "728123"
+      }, {
+        "count" : 15,
+        "item" : "1068012"
+      }, {
+        "count" : 14,
+        "item" : "588772"
+      }, {
+        "count" : 13,
+        "item" : "244918"
+      }, {
+        "count" : 12,
+        "item" : "90474"
+      }, {
+        "count" : 11,
+        "item" : "758007"
+      }, {
+        "count" : 10,
+        "item" : "1061558"
+      }, {
+        "count" : 9,
+        "item" : "410812"
+      }, {
+        "count" : 8,
+        "item" : "198128"
+      }, {
+        "count" : 7,
+        "item" : "192050"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "false",
+      "align" : "center"
+    }
+  }, {
+    "id" : 42281970,
+    "name" : "Receiving Waterbody",
+    "dataTypeName" : "text",
+    "fieldName" : "receiving_waterbody",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7436608,
+    "width" : 166,
+    "cachedContents" : {
+      "non_null" : 14,
+      "smallest" : "East River",
+      "null" : 0,
+      "largest" : "Upper New York Bay",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Jamaica Bay"
+      }, {
+        "count" : 19,
+        "item" : "Upper East River"
+      }, {
+        "count" : 18,
+        "item" : "East River"
+      }, {
+        "count" : 17,
+        "item" : "Hudson River"
+      }, {
+        "count" : 16,
+        "item" : "Lower New York Bay"
+      }, {
+        "count" : 15,
+        "item" : "Upper New York Bay"
+      }, {
+        "count" : 14,
+        "item" : "Kill Van Kull"
+      }, {
+        "count" : 13,
+        "item" : "Lower East River"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42281971,
+    "name" : "Drainage Area",
+    "dataTypeName" : "text",
+    "fieldName" : "drainage_area",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7436609,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 14,
+      "smallest" : "10,779 Acres, southern section of Staten Island",
+      "null" : 0,
+      "largest" : "9,665 Acres, northern section of Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5,907 Acres, eastern section of Brooklyn, near Jamaica Bay"
+      }, {
+        "count" : 19,
+        "item" : "15,203 Acres, northeast section of Queens"
+      }, {
+        "count" : 18,
+        "item" : "15,087 Acres, south and central Brooklyn"
+      }, {
+        "count" : 17,
+        "item" : "16,664 Acres, eastern section of the Bronx"
+      }, {
+        "count" : 16,
+        "item" : "25,313 Acres, southern section of Queens"
+      }, {
+        "count" : 15,
+        "item" : "15,656 Acres, south and eastern midtown sections of Manhattan, northeast section of Brooklyn and western section of Queens"
+      }, {
+        "count" : 14,
+        "item" : "6,030 Acres, west side of Manhattan above Bank Street"
+      }, {
+        "count" : 13,
+        "item" : "10,779 Acres, southern section of Staten Island"
+      }, {
+        "count" : 12,
+        "item" : "6,259 Acres, Rockaway Peninsula"
+      }, {
+        "count" : 11,
+        "item" : "12,947 Acres, western section of Brooklyn"
+      }, {
+        "count" : 10,
+        "item" : "12,056 Acres, western section of the Bronx and upper east side of Manhattan"
+      }, {
+        "count" : 9,
+        "item" : "16,860 Acres, northeast section of Queens"
+      }, {
+        "count" : 8,
+        "item" : "9,665 Acres, northern section of Staten Island"
+      }, {
+        "count" : 7,
+        "item" : "3,200 Acres, northwest section of Brooklyn and Governor's Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42281972,
+    "name" : "Plant Staff",
+    "dataTypeName" : "number",
+    "fieldName" : "plant_staff",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7436610,
+    "width" : 108,
+    "cachedContents" : {
+      "non_null" : 14,
+      "smallest" : "41",
+      "sum" : "1072",
+      "null" : 0,
+      "average" : "76.57142857142857",
+      "largest" : "118",
+      "top" : [ {
+        "count" : 20,
+        "item" : "93"
+      }, {
+        "count" : 19,
+        "item" : "81"
+      }, {
+        "count" : 18,
+        "item" : "69"
+      }, {
+        "count" : 17,
+        "item" : "108"
+      }, {
+        "count" : 16,
+        "item" : "66"
+      }, {
+        "count" : 15,
+        "item" : "88"
+      }, {
+        "count" : 14,
+        "item" : "109"
+      }, {
+        "count" : 13,
+        "item" : "59"
+      }, {
+        "count" : 12,
+        "item" : "41"
+      }, {
+        "count" : 11,
+        "item" : "68"
+      }, {
+        "count" : 10,
+        "item" : "118"
+      }, {
+        "count" : 9,
+        "item" : "71"
+      }, {
+        "count" : 8,
+        "item" : "46"
+      }, {
+        "count" : 7,
+        "item" : "55"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "false",
+      "align" : "center"
+    }
+  }, {
+    "id" : 42281973,
+    "name" : "Note",
+    "dataTypeName" : "text",
+    "fieldName" : "note",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7436611,
+    "width" : 453,
+    "cachedContents" : {
+      "non_null" : 1,
+      "smallest" : "First and only Wastewater Treatment Plant in NYC to have a public park built on top. (http://www.nyc.gov/html/dep/html/wastewater/northri.shtml)",
+      "null" : 13,
+      "largest" : "First and only Wastewater Treatment Plant in NYC to have a public park built on top. (http://www.nyc.gov/html/dep/html/wastewater/northri.shtml)",
+      "top" : [ {
+        "count" : 20,
+        "item" : "First and only Wastewater Treatment Plant in NYC to have a public park built on top. (http://www.nyc.gov/html/dep/html/wastewater/northri.shtml)"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      },
+      "active" : {
+        "page" : {
+          "id" : "7"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ya7g-926w",
+    "displayName" : "Aakash Dalwani",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1363663581,
+    "roleName" : "publisher",
+    "screenName" : "Aakash Dalwani",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ya7g-926w",
+    "displayName" : "Aakash Dalwani",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1363663581,
+    "roleName" : "publisher",
+    "screenName" : "Aakash Dalwani",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dep", "department of environmental protection", "environment", "wastewater", "treatment", "wastewater treatment plants", "healthy living" ],
+  "flags" : [ "default" ]
+}

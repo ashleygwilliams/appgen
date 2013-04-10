@@ -1,0 +1,537 @@
+{
+  "id" : "f7b6-v6v3",
+  "name" : "New York City Health and Hospitals Corporation (HHC) : Facilities",
+  "attribution" : "Health and Hospitals Corporation (HHC)",
+  "averageRating" : 0,
+  "category" : "Health",
+  "createdAt" : 1317406556,
+  "description" : "This is a list of the 11 acute care hospitals, four skilled nursing facilities, six large diagnostic and treatment centers and community-based clinics that make up the New York City Health and Hospitals Corporation, NYC's public hospital system. HHC is a $6.7 billion integrated healthcare delivery system which serves 1.3 million New Yorkers every year and more than 450,000 are uninsured. It provides medical, mental health and substance abuse services.\r\nUpdate Frequency: As needed",
+  "displayType" : "table",
+  "downloadCount" : 156,
+  "numberOfComments" : 0,
+  "oid" : 337504,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318354744,
+  "publicationGroup" : 242176,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1317406590,
+  "rowsUpdatedBy" : "k2fz-tf56",
+  "signed" : false,
+  "tableId" : 242176,
+  "totalTimesRated" : 0,
+  "viewCount" : 635,
+  "viewLastModified" : 1363711685,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2909883,
+    "name" : "Facility Type",
+    "dataTypeName" : "text",
+    "fieldName" : "facility_type",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1540040,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 78,
+      "smallest" : "Acute Care Hospital",
+      "null" : 0,
+      "largest" : "Nursing Home",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Acute Care Hospital"
+      }, {
+        "count" : 19,
+        "item" : "Nursing Home"
+      }, {
+        "count" : 18,
+        "item" : "Diagnostic & Treatment Center"
+      }, {
+        "count" : 17,
+        "item" : "Child Health Center"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2909884,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1540041,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 78,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Manhattan"
+      }, {
+        "count" : 19,
+        "item" : "Bronx"
+      }, {
+        "count" : 18,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2909885,
+    "name" : "Facility Name",
+    "dataTypeName" : "text",
+    "fieldName" : "facility_name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1540042,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 78,
+      "smallest" : "Baruch Houses Family Health Center",
+      "null" : 0,
+      "largest" : "Woodside Houses Child Health Clinic",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bellevue Hospital Center"
+      }, {
+        "count" : 19,
+        "item" : "Gouverneur Healthcare Services"
+      }, {
+        "count" : 18,
+        "item" : "Harlem Hospital Center"
+      }, {
+        "count" : 17,
+        "item" : "Metropolitan Hospital Center"
+      }, {
+        "count" : 16,
+        "item" : "Renaissance Health Care Network Diagnostic & Treatment Center"
+      }, {
+        "count" : 15,
+        "item" : "Jacobi Medical Center"
+      }, {
+        "count" : 14,
+        "item" : "Morrisania Diagnostic & Treatment Center"
+      }, {
+        "count" : 13,
+        "item" : "North Central Bronx Hospital"
+      }, {
+        "count" : 12,
+        "item" : "Segundo Ruiz Belvis Diagnostic & Treatment Center"
+      }, {
+        "count" : 11,
+        "item" : "Elmhurst Hospital Center"
+      }, {
+        "count" : 10,
+        "item" : "Woodside Houses Child Health Clinic"
+      }, {
+        "count" : 9,
+        "item" : "Queens Hospital Center"
+      }, {
+        "count" : 8,
+        "item" : "Parsons Communicare Clinic"
+      }, {
+        "count" : 7,
+        "item" : "Springfield Gardens Medical Center"
+      }, {
+        "count" : 6,
+        "item" : "South Queens Community Health Center"
+      }, {
+        "count" : 5,
+        "item" : "Cumberland Diagnostic & Treatment Center"
+      }, {
+        "count" : 4,
+        "item" : "Eleanor Roosevelt Houses Child Health Clinic"
+      }, {
+        "count" : 3,
+        "item" : "Fort Greene Child Health Clinic"
+      }, {
+        "count" : 2,
+        "item" : "Jonathan Williams Houses Child Health Clinic"
+      }, {
+        "count" : 1,
+        "item" : "Lafayette Houses Child Health Clinic"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2909886,
+    "name" : "Cross Streets",
+    "dataTypeName" : "text",
+    "fieldName" : "cross_streets",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1540043,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 27,
+      "smallest" : "between 104th St. & 106th St.",
+      "null" : 51,
+      "largest" : "W. 22nd St. & W. 23rd St.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "between Paulding Ave. & Hone Ave."
+      }, {
+        "count" : 19,
+        "item" : "corner of 175th St."
+      }, {
+        "count" : 18,
+        "item" : "corner of Webster Ave."
+      }, {
+        "count" : 17,
+        "item" : "between Morris Ave. & Courtlandt Ave."
+      }, {
+        "count" : 16,
+        "item" : "corner of Nagle Ave. and Dyckman St."
+      }, {
+        "count" : 15,
+        "item" : "between W. 143rd St. & W. 144th St."
+      }, {
+        "count" : 14,
+        "item" : "between A.C. Powell & F. Douglas Blvds."
+      }, {
+        "count" : 13,
+        "item" : "corner of Broadway"
+      }, {
+        "count" : 12,
+        "item" : "corner of Columbia St."
+      }, {
+        "count" : 11,
+        "item" : "corner of Catherine St."
+      }, {
+        "count" : 10,
+        "item" : "between 104th St. & 106th St."
+      }, {
+        "count" : 9,
+        "item" : "between 34th Ave. & 35th Ave."
+      }, {
+        "count" : 8,
+        "item" : "between Woodbine St. & Madison St."
+      }, {
+        "count" : 7,
+        "item" : "between Northern Blvd. & 50th St."
+      }, {
+        "count" : 6,
+        "item" : "between Jamaica Ave. & 90th Ave."
+      }, {
+        "count" : 5,
+        "item" : "between Lewis Ave. & Stuyvesant Ave."
+      }, {
+        "count" : 4,
+        "item" : "between DeKalb Ave. & Willoughby Ave."
+      }, {
+        "count" : 3,
+        "item" : "between Roebling Street & Division Ave."
+      }, {
+        "count" : 2,
+        "item" : "between Classon Ave. & Taffee Place"
+      }, {
+        "count" : 1,
+        "item" : "between Myrtle Ave. & Park Ave."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2909887,
+    "name" : "Phone",
+    "dataTypeName" : "text",
+    "fieldName" : "phone",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1540044,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 78,
+      "smallest" : "212-238-7000",
+      "null" : 0,
+      "largest" : "718-963-8000",
+      "top" : [ {
+        "count" : 20,
+        "item" : "212-562-4141"
+      }, {
+        "count" : 19,
+        "item" : "212-238-7000"
+      }, {
+        "count" : 18,
+        "item" : "212-939-1000"
+      }, {
+        "count" : 17,
+        "item" : "212-423-6262"
+      }, {
+        "count" : 16,
+        "item" : "718-918-5000"
+      }, {
+        "count" : 15,
+        "item" : "718-579-5000"
+      }, {
+        "count" : 14,
+        "item" : "718-960-2777"
+      }, {
+        "count" : 13,
+        "item" : "718-519-5000"
+      }, {
+        "count" : 12,
+        "item" : "718-579-4000"
+      }, {
+        "count" : 11,
+        "item" : "718-334-4000"
+      }, {
+        "count" : 10,
+        "item" : "212-932-6500"
+      }, {
+        "count" : 9,
+        "item" : "718-883-3000"
+      }, {
+        "count" : 8,
+        "item" : "718-334-6401"
+      }, {
+        "count" : 7,
+        "item" : "718-883-6800"
+      }, {
+        "count" : 6,
+        "item" : "718-883-6699"
+      }, {
+        "count" : 5,
+        "item" : "718-260-7500"
+      }, {
+        "count" : 4,
+        "item" : "718-452-1146"
+      }, {
+        "count" : 3,
+        "item" : "718-260-7500 ext. 7859"
+      }, {
+        "count" : 2,
+        "item" : "718-387-6407"
+      }, {
+        "count" : 1,
+        "item" : "718-638-8258"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2909888,
+    "name" : "Location 1",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 7,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1540045,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 78,
+      "smallest" : {
+        "longitude" : "-73.94999967494499",
+        "latitude" : "40.76197648622593",
+        "human_address" : "{\"address\":\"1 Main St Roosevelt Island\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10044\"}"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.94999967494499",
+        "latitude" : "40.76197648622593",
+        "human_address" : "{\"address\":\"900 Main Street Roosevelt Island\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10044\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.97657284664467",
+          "latitude" : "40.73962320748018",
+          "human_address" : "{\"address\":\"462 First Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10016\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.98759853472393",
+          "latitude" : "40.712841397447676",
+          "human_address" : "{\"address\":\"227 Madison Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10002\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.98013566050324",
+          "latitude" : "40.71636701786879",
+          "human_address" : "{\"address\":\"280 Delancey Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10002\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.9957194126485",
+          "latitude" : "40.72173569231745",
+          "human_address" : "{\"address\":\"34 Spring Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10012\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.99754221557811",
+          "latitude" : "40.71196972987868",
+          "human_address" : "{\"address\":\"60 Madison Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10038\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.97991662823794",
+          "latitude" : "40.72930119328952",
+          "human_address" : "{\"address\":\"540 13th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10009\"}"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.87835115518163",
+          "latitude" : "40.73871040256307",
+          "human_address" : "{\"address\":\"79 01\",\"city\":\"Elmhurst\",\"state\":\"NY\",\"zip\":\"11373\"}"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.85304068857687",
+          "latitude" : "40.749678220373596",
+          "human_address" : "{\"address\":\"104 04 Corona Avenue\",\"city\":\"Corona\",\"state\":\"NY\",\"zip\":\"11368\"}"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.88361254528269",
+          "latitude" : "40.75163073936716",
+          "human_address" : "{\"address\":\"34 33 Junction Boulevard\",\"city\":\"Jackson Heights\",\"state\":\"NY\",\"zip\":\"11372\"}"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.90543308996985",
+          "latitude" : "40.702949636007894",
+          "human_address" : "{\"address\":\"769 Onderdonk Avenue\",\"city\":\"Ridgewood\",\"state\":\"NY\",\"zip\":\"11385\"}"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.9048471440804",
+          "latitude" : "40.74519376448069",
+          "human_address" : "{\"address\":\"50 53 Newtown Road\",\"city\":\"Woodside\",\"state\":\"NY\",\"zip\":\"11377\"}"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.79282099978928",
+          "latitude" : "40.71311535449007",
+          "human_address" : "{\"address\":\"82 68 164th Street\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"11432\"}"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.79282099978928",
+          "latitude" : "40.71311535449007",
+          "human_address" : "{\"address\":\"90 37 Parsons Boulevard\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"11432\"}"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.75087393328533",
+          "latitude" : "40.66971118122609",
+          "human_address" : "{\"address\":\"134 64 Springfield Blvd\",\"city\":\"Springfield Gardens\",\"state\":\"NY\",\"zip\":\"11413\"}"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.77530690169215",
+          "latitude" : "40.6769452621142",
+          "human_address" : "{\"address\":\"114 02 Guy R Brewer Blvd\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"11434\"}"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.97623557216579",
+          "latitude" : "40.69514358466528",
+          "human_address" : "{\"address\":\"100 Portland Avenue\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11205\"}"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.93545687521755",
+          "latitude" : "40.693923715490335",
+          "human_address" : "{\"address\":\"388 Pulaski Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11206\"}"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.98241301998932",
+          "latitude" : "40.69205340232306",
+          "human_address" : "{\"address\":\"295 Flatbush Avenue Extension\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.95616582356922",
+          "latitude" : "40.7153676098287",
+          "human_address" : "{\"address\":\"118 Roebling Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11211\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-73.95978265948307",
+          "latitude" : "40.69036662899639",
+          "human_address" : "{\"address\":\"434 Dekalb Avenue\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11205\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "facility", "facilities", "health", "patient", "healthcare", "healthcare provider", "hospital", "medicare", "medicaid", "healthy living" ],
+  "flags" : [ "default" ]
+}

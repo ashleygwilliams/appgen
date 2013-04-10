@@ -1,0 +1,299 @@
+{
+  "id" : "yv2q-wxty",
+  "name" : "Number of Buildings Damaged from a Hurricane by Return Period",
+  "attribution" : "Office of Emergency Management (OEM)",
+  "attributionLink" : "http://www.nyc.gov/html/oem/downloads/pdf/hazard_mitigation/section_3f_coastal_storm_hazard_analysis.pdf",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1361907883,
+  "description" : "Number of Buildings damaged from a Hurricane by return period according to HAZUS-MH Calculation",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2644340,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361911883,
+  "publicationGroup" : 701429,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1361911668,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 701572,
+  "totalTimesRated" : 0,
+  "viewCount" : 21,
+  "viewLastModified" : 1361911895,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 47146763,
+    "name" : "Return Period\n(Years)",
+    "dataTypeName" : "text",
+    "fieldName" : "return_period_years",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8185611,
+    "width" : 121,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "1,000",
+      "null" : 0,
+      "largest" : "500",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10"
+      }, {
+        "count" : 19,
+        "item" : "20"
+      }, {
+        "count" : 18,
+        "item" : "50"
+      }, {
+        "count" : 17,
+        "item" : "100"
+      }, {
+        "count" : 16,
+        "item" : "200"
+      }, {
+        "count" : 15,
+        "item" : "500"
+      }, {
+        "count" : 14,
+        "item" : "1,000"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47146764,
+    "name" : "Minor\nDamage",
+    "dataTypeName" : "text",
+    "fieldName" : "minor_damage",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8185612,
+    "width" : 124,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "80043",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "2546"
+      }, {
+        "count" : 18,
+        "item" : "12473"
+      }, {
+        "count" : 17,
+        "item" : "39111"
+      }, {
+        "count" : 16,
+        "item" : "80043"
+      }, {
+        "count" : 15,
+        "item" : "175907"
+      }, {
+        "count" : 14,
+        "item" : "219682"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47146765,
+    "name" : "Moderate\nDamage",
+    "dataTypeName" : "text",
+    "fieldName" : "moderate_damage",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8185613,
+    "width" : 109,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "84",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "84"
+      }, {
+        "count" : 18,
+        "item" : "1729"
+      }, {
+        "count" : 17,
+        "item" : "11119"
+      }, {
+        "count" : 16,
+        "item" : "34514"
+      }, {
+        "count" : 15,
+        "item" : "110079"
+      }, {
+        "count" : 14,
+        "item" : "170640"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47146766,
+    "name" : "Severe\nDamage",
+    "dataTypeName" : "text",
+    "fieldName" : "severe_damage",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8185614,
+    "width" : 128,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "623",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "3"
+      }, {
+        "count" : 18,
+        "item" : "41"
+      }, {
+        "count" : 17,
+        "item" : "183"
+      }, {
+        "count" : 16,
+        "item" : "623"
+      }, {
+        "count" : 15,
+        "item" : "4966"
+      }, {
+        "count" : 14,
+        "item" : "12067"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47146767,
+    "name" : "Destruction\nDamage",
+    "dataTypeName" : "text",
+    "fieldName" : "destruction_damage",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8185615,
+    "width" : 161,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "52",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "3"
+      }, {
+        "count" : 18,
+        "item" : "52"
+      }, {
+        "count" : 17,
+        "item" : "1672"
+      }, {
+        "count" : 16,
+        "item" : "5090"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47146768,
+    "name" : "Total",
+    "dataTypeName" : "text",
+    "fieldName" : "total",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8185616,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "50416",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "2633"
+      }, {
+        "count" : 18,
+        "item" : "14242"
+      }, {
+        "count" : 17,
+        "item" : "50416"
+      }, {
+        "count" : 16,
+        "item" : "115233"
+      }, {
+        "count" : 15,
+        "item" : "292623"
+      }, {
+        "count" : 14,
+        "item" : "407480"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "oem", "emergency", "management", "services", "hurricane", "return period", "hazus-mh" ],
+  "flags" : [ "default" ]
+}

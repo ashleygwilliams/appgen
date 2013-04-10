@@ -1,0 +1,173 @@
+{
+  "id" : "9mhd-na2n",
+  "name" : "New York City Population By Boroughs",
+  "attribution" : "Department of City Planning (DCP)",
+  "attributionLink" : "http://www.nyc.gov/html/dcp/html/census/demo_tables_2010.shtml",
+  "averageRating" : 0,
+  "category" : "Statistics",
+  "createdAt" : 1361378624,
+  "description" : "New York City Population By Boroughs",
+  "displayType" : "table",
+  "downloadCount" : 3,
+  "numberOfComments" : 0,
+  "oid" : 2575388,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361378754,
+  "publicationGroup" : 689036,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1361378626,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 689036,
+  "totalTimesRated" : 0,
+  "viewCount" : 48,
+  "viewLastModified" : 1361378754,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 45877261,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8015984,
+    "width" : 115,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Manhattan"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45877262,
+    "name" : "2000 Population",
+    "dataTypeName" : "number",
+    "fieldName" : "_2000_population",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8015985,
+    "width" : 144,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "443728",
+      "sum" : "8008278",
+      "null" : 0,
+      "average" : "1601655.6",
+      "largest" : "2465326",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1332650"
+      }, {
+        "count" : 19,
+        "item" : "2465326"
+      }, {
+        "count" : 18,
+        "item" : "1537195"
+      }, {
+        "count" : 17,
+        "item" : "2229379"
+      }, {
+        "count" : 16,
+        "item" : "443728"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45877263,
+    "name" : "2010 Population",
+    "dataTypeName" : "number",
+    "fieldName" : "_2010_population",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8015986,
+    "width" : 139,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "468730",
+      "sum" : "8175133",
+      "null" : 0,
+      "average" : "1635026.6",
+      "largest" : "2504700",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1385108"
+      }, {
+        "count" : 19,
+        "item" : "2504700"
+      }, {
+        "count" : 18,
+        "item" : "1585873"
+      }, {
+        "count" : 17,
+        "item" : "2230722"
+      }, {
+        "count" : 16,
+        "item" : "468730"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dcp", "city", "planning", "population", "growth", "borough" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,678 @@
+{
+  "id" : "t9tf-aegg",
+  "name" : "Controllable Agency Expenses Financial Plan",
+  "attribution" : "Office of the Mayor (OTM)",
+  "attributionLink" : "http://www.nyc.gov/portal/site/nycgov/menuitem.c0935b9a57bb4ef3daf2f1c701c789a0/index.jsp?pageID=mayor_press_release&catID=1194&doc_name=http%3A%2F%2Fwww.nyc.gov%2Fhtml%2Fom%2Fhtml%2F2010b%2Fpr389-10.html&cc=unused1978&rc=1194&ndi=1",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1360791765,
+  "description" : "Financial plan representing Controllable Agency Expenses",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "numberOfComments" : 0,
+  "oid" : 2515578,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1360792078,
+  "publicationGroup" : 675751,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1360791771,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 675751,
+  "totalTimesRated" : 0,
+  "viewCount" : 9,
+  "viewLastModified" : 1360943819,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 44647670,
+    "name" : "Year",
+    "dataTypeName" : "text",
+    "fieldName" : "year",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7829119,
+    "width" : 54,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "FY 2012",
+      "null" : 0,
+      "largest" : "FY 2017",
+      "top" : [ {
+        "count" : 20,
+        "item" : "FY 2012"
+      }, {
+        "count" : 19,
+        "item" : "FY 2013"
+      }, {
+        "count" : 18,
+        "item" : "FY 2014"
+      }, {
+        "count" : 17,
+        "item" : "FY 2015"
+      }, {
+        "count" : 16,
+        "item" : "FY 2016"
+      }, {
+        "count" : 15,
+        "item" : "FY 2017"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44647671,
+    "name" : "Police Department ",
+    "dataTypeName" : "money",
+    "fieldName" : "police_department",
+    "position" : 2,
+    "renderTypeName" : "money",
+    "tableColumnId" : 7829120,
+    "width" : 105,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "4296.00",
+      "sum" : "25928.00",
+      "null" : 0,
+      "average" : "4321.333333333333",
+      "largest" : "4336.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4336.00"
+      }, {
+        "count" : 19,
+        "item" : "4296.00"
+      }, {
+        "count" : 18,
+        "item" : "4311.00"
+      }, {
+        "count" : 17,
+        "item" : "4327.00"
+      }, {
+        "count" : 16,
+        "item" : "4329.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44647672,
+    "name" : "Fire Department ",
+    "dataTypeName" : "money",
+    "fieldName" : "fire_department",
+    "position" : 3,
+    "renderTypeName" : "money",
+    "tableColumnId" : 7829121,
+    "width" : 89,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "1405.00",
+      "sum" : "8722.00",
+      "null" : 0,
+      "average" : "1453.666666666667",
+      "largest" : "1536.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1513.00"
+      }, {
+        "count" : 19,
+        "item" : "1536.00"
+      }, {
+        "count" : 18,
+        "item" : "1453.00"
+      }, {
+        "count" : 17,
+        "item" : "1408.00"
+      }, {
+        "count" : 16,
+        "item" : "1405.00"
+      }, {
+        "count" : 15,
+        "item" : "1407.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44647673,
+    "name" : "Department of Correction ",
+    "dataTypeName" : "money",
+    "fieldName" : "department_of_correction",
+    "position" : 4,
+    "renderTypeName" : "money",
+    "tableColumnId" : 7829122,
+    "width" : 145,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "1043.00",
+      "sum" : "6281.00",
+      "null" : 0,
+      "average" : "1046.833333333333",
+      "largest" : "1059.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1059.00"
+      }, {
+        "count" : 19,
+        "item" : "1043.00"
+      }, {
+        "count" : 18,
+        "item" : "1047.00"
+      }, {
+        "count" : 17,
+        "item" : "1044.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44647674,
+    "name" : "Sanitation Department ",
+    "dataTypeName" : "money",
+    "fieldName" : "sanitation_department",
+    "position" : 5,
+    "renderTypeName" : "money",
+    "tableColumnId" : 7829123,
+    "width" : 128,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "1242.00",
+      "sum" : "8318.00",
+      "null" : 0,
+      "average" : "1386.333333333333",
+      "largest" : "1447.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1242.00"
+      }, {
+        "count" : 19,
+        "item" : "1339.00"
+      }, {
+        "count" : 18,
+        "item" : "1400.00"
+      }, {
+        "count" : 17,
+        "item" : "1447.00"
+      }, {
+        "count" : 16,
+        "item" : "1445.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44647675,
+    "name" : "Social Services ",
+    "dataTypeName" : "money",
+    "fieldName" : "social_services",
+    "position" : 6,
+    "renderTypeName" : "money",
+    "tableColumnId" : 7829124,
+    "width" : 86,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "466.00",
+      "sum" : "2966.00",
+      "null" : 0,
+      "average" : "494.3333333333333",
+      "largest" : "534.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "466.00"
+      }, {
+        "count" : 19,
+        "item" : "534.00"
+      }, {
+        "count" : 18,
+        "item" : "488.00"
+      }, {
+        "count" : 17,
+        "item" : "501.00"
+      }, {
+        "count" : 16,
+        "item" : "490.00"
+      }, {
+        "count" : 15,
+        "item" : "487.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44647676,
+    "name" : "Children’s Services ",
+    "dataTypeName" : "money",
+    "fieldName" : "children_s_services",
+    "position" : 7,
+    "renderTypeName" : "money",
+    "tableColumnId" : 7829125,
+    "width" : 110,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "810.00",
+      "sum" : "4930.00",
+      "null" : 0,
+      "average" : "821.6666666666667",
+      "largest" : "848.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "848.00"
+      }, {
+        "count" : 19,
+        "item" : "842.00"
+      }, {
+        "count" : 18,
+        "item" : "810.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44647677,
+    "name" : "Homeless Services ",
+    "dataTypeName" : "money",
+    "fieldName" : "homeless_services",
+    "position" : 8,
+    "renderTypeName" : "money",
+    "tableColumnId" : 7829126,
+    "width" : 107,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "427.00",
+      "sum" : "2619.00",
+      "null" : 0,
+      "average" : "436.50",
+      "largest" : "456.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "427.00"
+      }, {
+        "count" : 19,
+        "item" : "456.00"
+      }, {
+        "count" : 18,
+        "item" : "437.00"
+      }, {
+        "count" : 17,
+        "item" : "433.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44647678,
+    "name" : "Health and Mental Hygiene ",
+    "dataTypeName" : "money",
+    "fieldName" : "health_and_mental_hygiene",
+    "position" : 9,
+    "renderTypeName" : "money",
+    "tableColumnId" : 7829127,
+    "width" : 149,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "569.00",
+      "sum" : "3505.00",
+      "null" : 0,
+      "average" : "584.1666666666667",
+      "largest" : "614.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "612.00"
+      }, {
+        "count" : 19,
+        "item" : "614.00"
+      }, {
+        "count" : 18,
+        "item" : "572.00"
+      }, {
+        "count" : 17,
+        "item" : "569.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44647679,
+    "name" : "HHC Subsidy ",
+    "dataTypeName" : "money",
+    "fieldName" : "hhc_subsidy",
+    "position" : 10,
+    "renderTypeName" : "money",
+    "tableColumnId" : 7829128,
+    "width" : 73,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "64.00",
+      "sum" : "403.00",
+      "null" : 0,
+      "average" : "67.16666666666667",
+      "largest" : "75.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "75.00"
+      }, {
+        "count" : 19,
+        "item" : "71.00"
+      }, {
+        "count" : 18,
+        "item" : "65.00"
+      }, {
+        "count" : 17,
+        "item" : "64.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44647680,
+    "name" : "Housing Preservation & Development ",
+    "dataTypeName" : "money",
+    "fieldName" : "housing_preservation_development",
+    "position" : 11,
+    "renderTypeName" : "money",
+    "tableColumnId" : 7829129,
+    "width" : 209,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "36.00",
+      "sum" : "293.00",
+      "null" : 0,
+      "average" : "48.83333333333333",
+      "largest" : "61.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "36.00"
+      }, {
+        "count" : 19,
+        "item" : "61.00"
+      }, {
+        "count" : 18,
+        "item" : "49.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44647681,
+    "name" : "Environmental Protection ",
+    "dataTypeName" : "money",
+    "fieldName" : "environmental_protection",
+    "position" : 12,
+    "renderTypeName" : "money",
+    "tableColumnId" : 7829130,
+    "width" : 139,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "943.00",
+      "sum" : "6111.00",
+      "null" : 0,
+      "average" : "1018.50",
+      "largest" : "1062.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "943.00"
+      }, {
+        "count" : 19,
+        "item" : "1062.00"
+      }, {
+        "count" : 18,
+        "item" : "1040.00"
+      }, {
+        "count" : 17,
+        "item" : "1024.00"
+      }, {
+        "count" : 16,
+        "item" : "1022.00"
+      }, {
+        "count" : 15,
+        "item" : "1020.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44647682,
+    "name" : "Finance",
+    "dataTypeName" : "money",
+    "fieldName" : "finance",
+    "position" : 13,
+    "renderTypeName" : "money",
+    "tableColumnId" : 7829131,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "217.00",
+      "sum" : "1322.00",
+      "null" : 0,
+      "average" : "220.3333333333333",
+      "largest" : "227.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "217.00"
+      }, {
+        "count" : 19,
+        "item" : "227.00"
+      }, {
+        "count" : 18,
+        "item" : "220.00"
+      }, {
+        "count" : 17,
+        "item" : "219.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44647683,
+    "name" : "Transportation ",
+    "dataTypeName" : "money",
+    "fieldName" : "transportation",
+    "position" : 14,
+    "renderTypeName" : "money",
+    "tableColumnId" : 7829132,
+    "width" : 75,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "416.00",
+      "sum" : "2625.00",
+      "null" : 0,
+      "average" : "437.50",
+      "largest" : "451.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "416.00"
+      }, {
+        "count" : 19,
+        "item" : "424.00"
+      }, {
+        "count" : 18,
+        "item" : "434.00"
+      }, {
+        "count" : 17,
+        "item" : "449.00"
+      }, {
+        "count" : 16,
+        "item" : "451.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44647684,
+    "name" : "Parks and Recreation ",
+    "dataTypeName" : "money",
+    "fieldName" : "parks_and_recreation",
+    "position" : 15,
+    "renderTypeName" : "money",
+    "tableColumnId" : 7829133,
+    "width" : 120,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "257.00",
+      "sum" : "1657.00",
+      "null" : 0,
+      "average" : "276.1666666666667",
+      "largest" : "283.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "257.00"
+      }, {
+        "count" : 19,
+        "item" : "268.00"
+      }, {
+        "count" : 18,
+        "item" : "283.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44647685,
+    "name" : "Department of Education",
+    "dataTypeName" : "money",
+    "fieldName" : "department_of_education",
+    "position" : 16,
+    "renderTypeName" : "money",
+    "tableColumnId" : 7829134,
+    "width" : 139,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "7080",
+      "sum" : "42792",
+      "null" : 0,
+      "average" : "7132",
+      "largest" : "7239",
+      "top" : [ {
+        "count" : 20,
+        "item" : "7143"
+      }, {
+        "count" : 19,
+        "item" : "7083"
+      }, {
+        "count" : 18,
+        "item" : "7080"
+      }, {
+        "count" : 17,
+        "item" : "7114"
+      }, {
+        "count" : 16,
+        "item" : "7133"
+      }, {
+        "count" : 15,
+        "item" : "7239"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44647686,
+    "name" : "CUNY ",
+    "dataTypeName" : "money",
+    "fieldName" : "cuny",
+    "position" : 17,
+    "renderTypeName" : "money",
+    "tableColumnId" : 7829135,
+    "width" : 55,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "546.00",
+      "sum" : "3337.00",
+      "null" : 0,
+      "average" : "556.1666666666667",
+      "largest" : "584.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "561.00"
+      }, {
+        "count" : 19,
+        "item" : "584.00"
+      }, {
+        "count" : 18,
+        "item" : "553.00"
+      }, {
+        "count" : 17,
+        "item" : "547.00"
+      }, {
+        "count" : 16,
+        "item" : "546.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44647687,
+    "name" : "Mayoralty",
+    "dataTypeName" : "money",
+    "fieldName" : "mayoralty",
+    "position" : 18,
+    "renderTypeName" : "money",
+    "tableColumnId" : 7829136,
+    "width" : 53,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "61.00",
+      "sum" : "377.00",
+      "null" : 0,
+      "average" : "62.83333333333333",
+      "largest" : "64.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "61.00"
+      }, {
+        "count" : 19,
+        "item" : "64.00"
+      }, {
+        "count" : 18,
+        "item" : "63.00"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "controllable", "expenses", "uniformed forces", "health and welfare", "elected officals" ],
+  "flags" : [ "default" ]
+}

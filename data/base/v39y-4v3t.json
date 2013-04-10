@@ -1,0 +1,614 @@
+{
+  "id" : "v39y-4v3t",
+  "name" : "Paratransit Vehicles",
+  "attribution" : "Taxi and Limousine Commission (TLC)",
+  "averageRating" : 0,
+  "createdAt" : 1314642276,
+  "description" : "Lists all TLC paratransit vehicles",
+  "displayType" : "table",
+  "downloadCount" : 50,
+  "numberOfComments" : 0,
+  "oid" : 343372,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318346786,
+  "publicationGroup" : 239886,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318346756,
+  "rowsUpdatedBy" : "rnig-m3uj",
+  "signed" : false,
+  "tableId" : 244729,
+  "totalTimesRated" : 0,
+  "viewCount" : 82,
+  "viewLastModified" : 1318346787,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3007432,
+    "name" : "Affiliated Base License Number",
+    "dataTypeName" : "text",
+    "fieldName" : "affiliated_base_license_number",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513061,
+    "width" : 460,
+    "cachedContents" : {
+      "non_null" : 2418,
+      "smallest" : "B90005",
+      "null" : 0,
+      "largest" : "B90696",
+      "top" : [ {
+        "count" : 111,
+        "item" : "B90122"
+      }, {
+        "count" : 98,
+        "item" : "B90640"
+      }, {
+        "count" : 74,
+        "item" : "B90363"
+      }, {
+        "count" : 72,
+        "item" : "B90596"
+      }, {
+        "count" : 63,
+        "item" : "B90584"
+      }, {
+        "count" : 58,
+        "item" : "B90553"
+      }, {
+        "count" : 49,
+        "item" : "B90140"
+      }, {
+        "count" : 44,
+        "item" : "B90677"
+      }, {
+        "count" : 44,
+        "item" : "B90663"
+      }, {
+        "count" : 39,
+        "item" : "B90583"
+      }, {
+        "count" : 32,
+        "item" : "B90581"
+      }, {
+        "count" : 31,
+        "item" : "B90335"
+      }, {
+        "count" : 30,
+        "item" : "B90162"
+      }, {
+        "count" : 30,
+        "item" : "B90610"
+      }, {
+        "count" : 29,
+        "item" : "B90588"
+      }, {
+        "count" : 28,
+        "item" : "B90090"
+      }, {
+        "count" : 28,
+        "item" : "B90681"
+      }, {
+        "count" : 27,
+        "item" : "B90098"
+      }, {
+        "count" : 27,
+        "item" : "B90058"
+      }, {
+        "count" : 26,
+        "item" : "B90419"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3007433,
+    "name" : "License Number",
+    "dataTypeName" : "number",
+    "fieldName" : "license_number",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1513062,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 2271,
+      "smallest" : "5000743",
+      "sum" : "12041917941",
+      "null" : 147,
+      "average" : "5302473.774108322",
+      "largest" : "5409302",
+      "top" : [ {
+        "count" : 1,
+        "item" : "5351904"
+      }, {
+        "count" : 1,
+        "item" : "5261110"
+      }, {
+        "count" : 1,
+        "item" : "5234418"
+      }, {
+        "count" : 1,
+        "item" : "5165113"
+      }, {
+        "count" : 1,
+        "item" : "5281560"
+      }, {
+        "count" : 1,
+        "item" : "5381407"
+      }, {
+        "count" : 1,
+        "item" : "5251403"
+      }, {
+        "count" : 1,
+        "item" : "5183700"
+      }, {
+        "count" : 1,
+        "item" : "5351317"
+      }, {
+        "count" : 1,
+        "item" : "5365076"
+      }, {
+        "count" : 1,
+        "item" : "5249459"
+      }, {
+        "count" : 1,
+        "item" : "5001787"
+      }, {
+        "count" : 1,
+        "item" : "5237566"
+      }, {
+        "count" : 1,
+        "item" : "5212894"
+      }, {
+        "count" : 1,
+        "item" : "5351988"
+      }, {
+        "count" : 1,
+        "item" : "5183853"
+      }, {
+        "count" : 1,
+        "item" : "5247255"
+      }, {
+        "count" : 1,
+        "item" : "5015372"
+      }, {
+        "count" : 1,
+        "item" : "5074503"
+      }, {
+        "count" : 1,
+        "item" : "5387653"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3007434,
+    "name" : "Name of Licensee",
+    "dataTypeName" : "text",
+    "fieldName" : "name_of_licensee",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513063,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 2418,
+      "smallest" : "ABBA LOCAL TRANSPORTATION INC",
+      "null" : 0,
+      "largest" : "ZHANG,YABIN",
+      "top" : [ {
+        "count" : 129,
+        "item" : "EXCLUSIVE AMBULETTE SERVICE INC"
+      }, {
+        "count" : 95,
+        "item" : "GREAT AMBULETTE SERVICE INC"
+      }, {
+        "count" : 76,
+        "item" : "SINAI VAN SERVICE INC"
+      }, {
+        "count" : 72,
+        "item" : "ORION TRANSPORTATION INC"
+      }, {
+        "count" : 62,
+        "item" : "SABE AMBULETTE SERVICE INC"
+      }, {
+        "count" : 58,
+        "item" : "NXK CORP"
+      }, {
+        "count" : 49,
+        "item" : "VEGA TRANSPORTATION CO INC"
+      }, {
+        "count" : 42,
+        "item" : "CITI COACH NYC INC"
+      }, {
+        "count" : 39,
+        "item" : "WESTCHESTER AMBULETTE SERVICE INC"
+      }, {
+        "count" : 37,
+        "item" : "MJJ SERVICE INC"
+      }, {
+        "count" : 32,
+        "item" : "ACT AMBULETTE INC"
+      }, {
+        "count" : 31,
+        "item" : "SINAI I INC"
+      }, {
+        "count" : 31,
+        "item" : "APPROVED TRANSPORTATION SERVICES INC"
+      }, {
+        "count" : 31,
+        "item" : "CHRISTIAN AMBULETTE INC"
+      }, {
+        "count" : 30,
+        "item" : "NORTH SHORE AMBULANCE & OXYGEN SERVICE INC"
+      }, {
+        "count" : 30,
+        "item" : "BARUKH MEDICAL TRANSPORTATION INC"
+      }, {
+        "count" : 28,
+        "item" : "DTS INC"
+      }, {
+        "count" : 28,
+        "item" : "SENIOR RIDE TRANSPORTATION LLC"
+      }, {
+        "count" : 27,
+        "item" : "HAPPY CARE AMBULETTE INC"
+      }, {
+        "count" : 27,
+        "item" : "AHAVA ACCESS INC"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3007435,
+    "name" : "License Type",
+    "dataTypeName" : "text",
+    "fieldName" : "license_type",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513064,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 2418,
+      "smallest" : "Paratransit Vehicle",
+      "null" : 0,
+      "largest" : "Paratransit Vehicle",
+      "top" : [ {
+        "count" : 2418,
+        "item" : "Paratransit Vehicle"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3007436,
+    "name" : "DMV License Plate",
+    "dataTypeName" : "text",
+    "fieldName" : "dmv_license_plate",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513065,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 2418,
+      "smallest" : "00000000",
+      "null" : 0,
+      "largest" : "T615050C",
+      "top" : [ {
+        "count" : 1,
+        "item" : "T495773C"
+      }, {
+        "count" : 1,
+        "item" : "T605168C"
+      }, {
+        "count" : 1,
+        "item" : "T612968C"
+      }, {
+        "count" : 1,
+        "item" : "T519377C"
+      }, {
+        "count" : 1,
+        "item" : "T602780C"
+      }, {
+        "count" : 1,
+        "item" : "T520344C"
+      }, {
+        "count" : 1,
+        "item" : "14879LV"
+      }, {
+        "count" : 1,
+        "item" : "T605493C"
+      }, {
+        "count" : 1,
+        "item" : "T612042C"
+      }, {
+        "count" : 1,
+        "item" : "T493880C"
+      }, {
+        "count" : 1,
+        "item" : "T502410C"
+      }, {
+        "count" : 1,
+        "item" : "74799LA"
+      }, {
+        "count" : 1,
+        "item" : "T514348C"
+      }, {
+        "count" : 1,
+        "item" : "T427929C"
+      }, {
+        "count" : 1,
+        "item" : "60531LA"
+      }, {
+        "count" : 1,
+        "item" : "T605826C"
+      }, {
+        "count" : 1,
+        "item" : "T425613C"
+      }, {
+        "count" : 1,
+        "item" : "T492393C"
+      }, {
+        "count" : 1,
+        "item" : "53407LA"
+      }, {
+        "count" : 1,
+        "item" : "T521126C"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3007437,
+    "name" : "VIN",
+    "dataTypeName" : "text",
+    "fieldName" : "vin",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1513066,
+    "width" : 136,
+    "cachedContents" : {
+      "non_null" : 2418,
+      "smallest" : "1A4GJ45R07B187632",
+      "null" : 0,
+      "largest" : "WDWPE845385261865",
+      "top" : [ {
+        "count" : 2,
+        "item" : "1FTNE24W98DA41832"
+      }, {
+        "count" : 2,
+        "item" : "2D4RN4DE5AR426671"
+      }, {
+        "count" : 1,
+        "item" : "1FTSS3EL1BDA81917"
+      }, {
+        "count" : 1,
+        "item" : "1FMRE11213HB64079"
+      }, {
+        "count" : 1,
+        "item" : "1FTNE24W38DB49248"
+      }, {
+        "count" : 1,
+        "item" : "1FTNE2EW8BDA62063"
+      }, {
+        "count" : 1,
+        "item" : "1FTNE2EW3BDA55358"
+      }, {
+        "count" : 1,
+        "item" : "1FTNE24W09DA85283"
+      }, {
+        "count" : 1,
+        "item" : "1FTNS24W28DB41103"
+      }, {
+        "count" : 1,
+        "item" : "1FTNE2EW9BDA61231"
+      }, {
+        "count" : 1,
+        "item" : "1FTNE24W49DA32019"
+      }, {
+        "count" : 1,
+        "item" : "1FTSS34L19DA39811"
+      }, {
+        "count" : 1,
+        "item" : "1FTNE2EW6ADA00336"
+      }, {
+        "count" : 1,
+        "item" : "1FTNE24W27DA63332"
+      }, {
+        "count" : 1,
+        "item" : "1FTNE24W07DB30736"
+      }, {
+        "count" : 1,
+        "item" : "1FTNE2EW1ADA43899"
+      }, {
+        "count" : 1,
+        "item" : "1FTNS24L33HB33468"
+      }, {
+        "count" : 1,
+        "item" : "1FBSS31L83HA73589"
+      }, {
+        "count" : 1,
+        "item" : "1FTNE2EW6ADA43901"
+      }, {
+        "count" : 1,
+        "item" : "1FBNE31L28DA99883"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3007438,
+    "name" : "Model Year",
+    "dataTypeName" : "number",
+    "fieldName" : "model_year",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1513067,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 2418,
+      "smallest" : "1999",
+      "sum" : "4854743",
+      "null" : 0,
+      "average" : "2007.751447477254",
+      "largest" : "2011",
+      "top" : [ {
+        "count" : 447,
+        "item" : "2008"
+      }, {
+        "count" : 374,
+        "item" : "2009"
+      }, {
+        "count" : 365,
+        "item" : "2010"
+      }, {
+        "count" : 301,
+        "item" : "2011"
+      }, {
+        "count" : 301,
+        "item" : "2006"
+      }, {
+        "count" : 205,
+        "item" : "2007"
+      }, {
+        "count" : 141,
+        "item" : "2005"
+      }, {
+        "count" : 134,
+        "item" : "2003"
+      }, {
+        "count" : 106,
+        "item" : "2004"
+      }, {
+        "count" : 26,
+        "item" : "2002"
+      }, {
+        "count" : 17,
+        "item" : "2001"
+      }, {
+        "count" : 1,
+        "item" : "1999"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3007439,
+    "name" : "License Expiration Date",
+    "dataTypeName" : "date",
+    "fieldName" : "license_expiration_date",
+    "position" : 9,
+    "renderTypeName" : "date",
+    "tableColumnId" : 1513068,
+    "width" : 376,
+    "cachedContents" : {
+      "non_null" : 2418,
+      "smallest" : 1314601200,
+      "null" : 0,
+      "largest" : 1383202800,
+      "top" : [ {
+        "count" : 23,
+        "item" : 1365058800
+      }, {
+        "count" : 20,
+        "item" : 1332572400
+      }, {
+        "count" : 18,
+        "item" : 1338793200
+      }, {
+        "count" : 17,
+        "item" : 1371106800
+      }, {
+        "count" : 17,
+        "item" : 1366009200
+      }, {
+        "count" : 16,
+        "item" : 1361779200
+      }, {
+        "count" : 16,
+        "item" : 1362384000
+      }, {
+        "count" : 15,
+        "item" : 1365318000
+      }, {
+        "count" : 15,
+        "item" : 1355990400
+      }, {
+        "count" : 15,
+        "item" : 1373266800
+      }, {
+        "count" : 15,
+        "item" : 1344236400
+      }, {
+        "count" : 15,
+        "item" : 1363330800
+      }, {
+        "count" : 15,
+        "item" : 1336201200
+      }, {
+        "count" : 15,
+        "item" : 1359705600
+      }, {
+        "count" : 14,
+        "item" : 1368774000
+      }, {
+        "count" : 14,
+        "item" : 1331881200
+      }, {
+        "count" : 14,
+        "item" : 1354521600
+      }, {
+        "count" : 13,
+        "item" : 1372575600
+      }, {
+        "count" : 13,
+        "item" : 1369983600
+      }, {
+        "count" : 13,
+        "item" : 1333177200
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "transportation", "taxi", "limousine", "vehicle", "paratransit", "transit", "van", "travel" ],
+  "flags" : [ "default" ]
+}

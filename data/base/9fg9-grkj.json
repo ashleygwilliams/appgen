@@ -1,0 +1,327 @@
+{
+  "id" : "9fg9-grkj",
+  "name" : "Current Fhv Drivers",
+  "attribution" : "Taxi and Limousine Commission (TLC)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1314390197,
+  "description" : "Spreadsheet of all TLC FHV drivers",
+  "displayType" : "table",
+  "downloadCount" : 275,
+  "numberOfComments" : 0,
+  "oid" : 431619,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1326486918,
+  "publicationGroup" : 239850,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1326486851,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 273245,
+  "totalTimesRated" : 0,
+  "viewCount" : 226,
+  "viewLastModified" : 1326486918,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 4631482,
+    "name" : "License Number",
+    "dataTypeName" : "number",
+    "fieldName" : "license_number",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1512404,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 51977,
+      "smallest" : "650508",
+      "sum" : "228136172121",
+      "null" : 0,
+      "average" : "4389175.445312350",
+      "largest" : "5421493",
+      "top" : [ {
+        "count" : 1,
+        "item" : "650508"
+      }, {
+        "count" : 1,
+        "item" : "650523"
+      }, {
+        "count" : 1,
+        "item" : "650524"
+      }, {
+        "count" : 1,
+        "item" : "650543"
+      }, {
+        "count" : 1,
+        "item" : "650560"
+      }, {
+        "count" : 1,
+        "item" : "650563"
+      }, {
+        "count" : 1,
+        "item" : "650567"
+      }, {
+        "count" : 1,
+        "item" : "650570"
+      }, {
+        "count" : 1,
+        "item" : "650580"
+      }, {
+        "count" : 1,
+        "item" : "650587"
+      }, {
+        "count" : 1,
+        "item" : "650592"
+      }, {
+        "count" : 1,
+        "item" : "650608"
+      }, {
+        "count" : 1,
+        "item" : "650611"
+      }, {
+        "count" : 1,
+        "item" : "650619"
+      }, {
+        "count" : 1,
+        "item" : "650620"
+      }, {
+        "count" : 1,
+        "item" : "650621"
+      }, {
+        "count" : 1,
+        "item" : "650631"
+      }, {
+        "count" : 1,
+        "item" : "650632"
+      }, {
+        "count" : 1,
+        "item" : "650636"
+      }, {
+        "count" : 1,
+        "item" : "650646"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 4631483,
+    "name" : "Name of Licensee",
+    "dataTypeName" : "text",
+    "fieldName" : "name_of_licensee",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1512405,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 51977,
+      "smallest" : "AAFOUALLAH,ZIAD",
+      "null" : 0,
+      "largest" : "ZWILINSKE,JOHN",
+      "top" : [ {
+        "count" : 21,
+        "item" : "SINGH,BALWINDER"
+      }, {
+        "count" : 21,
+        "item" : "SINGH,MANJIT"
+      }, {
+        "count" : 19,
+        "item" : "SINGH,AMARJIT"
+      }, {
+        "count" : 19,
+        "item" : "SINGH,JASWINDER"
+      }, {
+        "count" : 17,
+        "item" : "DIALLO,IBRAHIMA"
+      }, {
+        "count" : 17,
+        "item" : "RODRIGUEZ,JOSE,A"
+      }, {
+        "count" : 17,
+        "item" : "SINGH,PARAMJIT"
+      }, {
+        "count" : 16,
+        "item" : "SINGH,AVTAR"
+      }, {
+        "count" : 14,
+        "item" : "SINGH,AMRIK"
+      }, {
+        "count" : 14,
+        "item" : "SINGH,SUKHWINDER"
+      }, {
+        "count" : 13,
+        "item" : "DIALLO,BOUBACAR"
+      }, {
+        "count" : 13,
+        "item" : "DIALLO,MAMADOU"
+      }, {
+        "count" : 13,
+        "item" : "SINGH,JASWANT"
+      }, {
+        "count" : 13,
+        "item" : "SINGH,KULDIP"
+      }, {
+        "count" : 13,
+        "item" : "SINGH,RANJIT"
+      }, {
+        "count" : 13,
+        "item" : "SINGH,SATNAM"
+      }, {
+        "count" : 12,
+        "item" : "RODRIGUEZ,RAMON"
+      }, {
+        "count" : 12,
+        "item" : "SINGH,BALBIR"
+      }, {
+        "count" : 12,
+        "item" : "SINGH,JASPAL"
+      }, {
+        "count" : 12,
+        "item" : "SINGH,LAKHWINDER"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 4631484,
+    "name" : "License Expiration Date",
+    "dataTypeName" : "date",
+    "fieldName" : "license_expiration_date",
+    "position" : 4,
+    "renderTypeName" : "date",
+    "tableColumnId" : 1512406,
+    "width" : 376,
+    "cachedContents" : {
+      "non_null" : 51977,
+      "smallest" : 1326355200,
+      "null" : 0,
+      "largest" : 1391673600,
+      "top" : [ {
+        "count" : 268,
+        "item" : 1331967600
+      }, {
+        "count" : 217,
+        "item" : 1348902000
+      }, {
+        "count" : 210,
+        "item" : 1330416000
+      }, {
+        "count" : 203,
+        "item" : 1357718400
+      }, {
+        "count" : 190,
+        "item" : 1344754800
+      }, {
+        "count" : 180,
+        "item" : 1330588800
+      }, {
+        "count" : 179,
+        "item" : 1333177200
+      }, {
+        "count" : 176,
+        "item" : 1351753200
+      }, {
+        "count" : 171,
+        "item" : 1332486000
+      }, {
+        "count" : 171,
+        "item" : 1339657200
+      }, {
+        "count" : 171,
+        "item" : 1346310000
+      }, {
+        "count" : 170,
+        "item" : 1380438000
+      }, {
+        "count" : 169,
+        "item" : 1343977200
+      }, {
+        "count" : 166,
+        "item" : 1333090800
+      }, {
+        "count" : 163,
+        "item" : 1334732400
+      }, {
+        "count" : 163,
+        "item" : 1342076400
+      }, {
+        "count" : 163,
+        "item" : 1343890800
+      }, {
+        "count" : 163,
+        "item" : 1345273200
+      }, {
+        "count" : 160,
+        "item" : 1380524400
+      }, {
+        "count" : 159,
+        "item" : 1344322800
+      } ]
+    },
+    "format" : {
+      "align" : "left",
+      "view" : "date"
+    }
+  }, {
+    "id" : 4631485,
+    "name" : "License Type",
+    "dataTypeName" : "text",
+    "fieldName" : "license_type",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1512407,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 51977,
+      "smallest" : "For-Hire-Vehicle Driver",
+      "null" : 0,
+      "largest" : "For-Hire-Vehicle Driver",
+      "top" : [ {
+        "count" : 51977,
+        "item" : "For-Hire-Vehicle Driver"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "transportation", "taxi", "limousine", "drive", "driver", "fhv", "driving", "vehicle" ],
+  "flags" : [ "default" ]
+}

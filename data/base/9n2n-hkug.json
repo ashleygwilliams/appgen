@@ -1,0 +1,158 @@
+{
+  "id" : "9n2n-hkug",
+  "name" : "Directory of Tennis Permit Fees",
+  "attribution" : "Department of Parks and Recreation (DPR)",
+  "attributionLink" : "https://www.nycgovparks.org/permits/tennis-permits",
+  "averageRating" : 0,
+  "category" : "Parks and Recreation",
+  "createdAt" : 1359054216,
+  "description" : "Fee details for obtaining Tennis Permits",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2330211,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359054512,
+  "publicationGroup" : 633939,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1359054219,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 633939,
+  "totalTimesRated" : 0,
+  "viewCount" : 24,
+  "viewLastModified" : 1363711436,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 40986564,
+    "name" : "Age",
+    "dataTypeName" : "text",
+    "fieldName" : "age",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7214885,
+    "width" : 302,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "Adults (ages 18-61)",
+      "null" : 0,
+      "largest" : "Single-Play Tickets (all ages, no photograph needed)",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Adults (ages 18-61)"
+      }, {
+        "count" : 19,
+        "item" : "Senior Citizens (ages 62 and over)"
+      }, {
+        "count" : 18,
+        "item" : "Juniors (ages 17 and under)"
+      }, {
+        "count" : 17,
+        "item" : "Single-Play Tickets (all ages, no photograph needed)"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40986565,
+    "name" : "Fee",
+    "dataTypeName" : "text",
+    "fieldName" : "fee",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7214886,
+    "width" : 117,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "$10",
+      "null" : 0,
+      "largest" : "$200",
+      "top" : [ {
+        "count" : 20,
+        "item" : "$200"
+      }, {
+        "count" : 19,
+        "item" : "$20"
+      }, {
+        "count" : 18,
+        "item" : "$10"
+      }, {
+        "count" : 17,
+        "item" : "$15"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40986566,
+    "name" : "Duplicate Permit Fee",
+    "dataTypeName" : "text",
+    "fieldName" : "duplicate_permit_fee",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7214887,
+    "width" : 171,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "$15",
+      "null" : 1,
+      "largest" : "$6",
+      "top" : [ {
+        "count" : 20,
+        "item" : "$15"
+      }, {
+        "count" : 19,
+        "item" : "$6"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dpr", "recreation", "park", "tennis", "permit", "fee", "healthy living" ],
+  "flags" : [ "default" ]
+}

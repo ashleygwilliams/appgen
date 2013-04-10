@@ -1,0 +1,872 @@
+{
+  "id" : "crns-fw6u",
+  "name" : "Directory of NYCHA Community Facilities",
+  "attribution" : "New York City Housing Authority (NYCHA)",
+  "attributionLink" : "http://www.nyc.gov/html/nycha/html/ccschtml/communitycenters.shtml",
+  "averageRating" : 0,
+  "category" : "Social Services",
+  "createdAt" : 1364504463,
+  "description" : "Community Facilities (Centers) that are on NYCHA property with programs either sponsored by NYCHA or by a non-NYCHA entity. All programs are open to the public. The file contains development name, address, city, state, zipcode, telephone #, sponsoring organization and contact person. \r\n\r\nThis file is updated on a need basis.",
+  "displayType" : "table",
+  "downloadCount" : 4,
+  "numberOfComments" : 0,
+  "oid" : 2996708,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1364563147,
+  "publicationGroup" : 762454,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1364563069,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 763654,
+  "totalTimesRated" : 0,
+  "viewCount" : 21,
+  "viewLastModified" : 1364570520,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 54016775,
+    "name" : "TYPE",
+    "dataTypeName" : "text",
+    "description" : "Identifies program as NYCHA funded or Sponsored by outside partner organization",
+    "fieldName" : "type",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9010478,
+    "width" : 63,
+    "cachedContents" : {
+      "non_null" : 536,
+      "smallest" : "NYCHA",
+      "null" : 0,
+      "largest" : "SPONSORED",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NYCHA"
+      }, {
+        "count" : 19,
+        "item" : "SPONSORED"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54016776,
+    "name" : "FUNDING AGENCY",
+    "dataTypeName" : "text",
+    "description" : "Name of the agency funding the program",
+    "fieldName" : "funding_agency",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9010479,
+    "width" : 123,
+    "cachedContents" : {
+      "non_null" : 302,
+      "smallest" : "ACS",
+      "null" : 234,
+      "largest" : "Unfunded",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Other"
+      }, {
+        "count" : 19,
+        "item" : "DYCD"
+      }, {
+        "count" : 18,
+        "item" : "ACS"
+      }, {
+        "count" : 17,
+        "item" : "Unfunded"
+      }, {
+        "count" : 16,
+        "item" : "Discretionary"
+      }, {
+        "count" : 15,
+        "item" : "DFTA"
+      }, {
+        "count" : 14,
+        "item" : "other"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54016777,
+    "name" : "BOROUGH",
+    "dataTypeName" : "text",
+    "description" : "One of the five boroughs",
+    "fieldName" : "borough",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9010480,
+    "width" : 77,
+    "cachedContents" : {
+      "non_null" : 536,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Manhattan"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54016778,
+    "name" : "PROGRAM TYPE",
+    "dataTypeName" : "text",
+    "description" : "The primary service offered by the program",
+    "fieldName" : "program_type",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9010481,
+    "width" : 103,
+    "cachedContents" : {
+      "non_null" : 536,
+      "smallest" : "Adult Counseling Program",
+      "null" : 0,
+      "largest" : "Youth Chorus",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Closed"
+      }, {
+        "count" : 19,
+        "item" : "Community Center"
+      }, {
+        "count" : 18,
+        "item" : "Office Space"
+      }, {
+        "count" : 17,
+        "item" : "Senior Center"
+      }, {
+        "count" : 16,
+        "item" : "Storage"
+      }, {
+        "count" : 15,
+        "item" : "Senior Program"
+      }, {
+        "count" : 14,
+        "item" : "Day Care Center"
+      }, {
+        "count" : 13,
+        "item" : "Family  Assistance Program"
+      }, {
+        "count" : 12,
+        "item" : "Head Start Center"
+      }, {
+        "count" : 11,
+        "item" : "Health Clinic (Child)"
+      }, {
+        "count" : 10,
+        "item" : "IHAD Literacy"
+      }, {
+        "count" : 9,
+        "item" : "NORC"
+      }, {
+        "count" : 8,
+        "item" : "Afterschool"
+      }, {
+        "count" : 7,
+        "item" : "ATTAIN LAB"
+      }, {
+        "count" : 6,
+        "item" : "School"
+      }, {
+        "count" : 5,
+        "item" : "Health Clinic"
+      }, {
+        "count" : 4,
+        "item" : "Health Clinic (Mental)"
+      }, {
+        "count" : 3,
+        "item" : "Family Literacy Ctr."
+      }, {
+        "count" : 2,
+        "item" : "Referral Services"
+      }, {
+        "count" : 1,
+        "item" : "senior center"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54016779,
+    "name" : "COUNT AS",
+    "dataTypeName" : "text",
+    "description" : "Status of the program (pending, vacant) or category label of type of program",
+    "fieldName" : "count_as",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9010482,
+    "width" : 105,
+    "cachedContents" : {
+      "non_null" : 536,
+      "smallest" : "Community Center",
+      "null" : 0,
+      "largest" : "Vacant",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Pending"
+      }, {
+        "count" : 19,
+        "item" : "Vacant"
+      }, {
+        "count" : 18,
+        "item" : "Consolidated"
+      }, {
+        "count" : 17,
+        "item" : "Community Center"
+      }, {
+        "count" : 16,
+        "item" : "Misc."
+      }, {
+        "count" : 15,
+        "item" : "Senior Center"
+      }, {
+        "count" : 14,
+        "item" : "TA use"
+      }, {
+        "count" : 13,
+        "item" : "Pending-Job Plus"
+      }, {
+        "count" : 12,
+        "item" : "Shared space"
+      }, {
+        "count" : 11,
+        "item" : "Day Care"
+      }, {
+        "count" : 10,
+        "item" : "Head Start"
+      }, {
+        "count" : 9,
+        "item" : "Health Clinic"
+      }, {
+        "count" : 8,
+        "item" : "MISC."
+      }, {
+        "count" : 7,
+        "item" : "Senior center"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54016780,
+    "name" : "DEVELOPMENT",
+    "dataTypeName" : "text",
+    "description" : "NYC Housing Authority Development Name",
+    "fieldName" : "development",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9010483,
+    "width" : 159,
+    "cachedContents" : {
+      "non_null" : 536,
+      "smallest" : "1030 East 178th Street",
+      "null" : 0,
+      "largest" : "Wyckoff Gardens",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Drew Hamilton"
+      }, {
+        "count" : 19,
+        "item" : "Chelsea/Elliott"
+      }, {
+        "count" : 18,
+        "item" : "Wald"
+      }, {
+        "count" : 17,
+        "item" : "Washington"
+      }, {
+        "count" : 16,
+        "item" : "Baruch"
+      }, {
+        "count" : 15,
+        "item" : "East River"
+      }, {
+        "count" : 14,
+        "item" : "Jefferson"
+      }, {
+        "count" : 13,
+        "item" : "Smith"
+      }, {
+        "count" : 12,
+        "item" : "Grant"
+      }, {
+        "count" : 11,
+        "item" : "Queensbridge North"
+      }, {
+        "count" : 10,
+        "item" : "Forest Hills"
+      }, {
+        "count" : 9,
+        "item" : "Latimer Gardens"
+      }, {
+        "count" : 8,
+        "item" : "Pomonok"
+      }, {
+        "count" : 7,
+        "item" : "Ravenswood"
+      }, {
+        "count" : 6,
+        "item" : "Redfern"
+      }, {
+        "count" : 5,
+        "item" : "South Jamaica"
+      }, {
+        "count" : 4,
+        "item" : "Ocean Bay Apts/Oceanside"
+      }, {
+        "count" : 3,
+        "item" : "Woodside"
+      }, {
+        "count" : 2,
+        "item" : "Berry"
+      }, {
+        "count" : 1,
+        "item" : "Stapleton"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54016781,
+    "name" : "ADDRESS",
+    "dataTypeName" : "text",
+    "description" : "Street Address of facility where program takes place",
+    "fieldName" : "address",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9010484,
+    "width" : 161,
+    "cachedContents" : {
+      "non_null" : 536,
+      "smallest" : "1000 Rosedale Avenue",
+      "null" : 0,
+      "largest" : "99 Ft Washington Avenue",
+      "top" : [ {
+        "count" : 20,
+        "item" : "250 West 65th Street"
+      }, {
+        "count" : 19,
+        "item" : "415 East 93rd Street"
+      }, {
+        "count" : 18,
+        "item" : "50 Madison Street"
+      }, {
+        "count" : 17,
+        "item" : "1301 Amsterdam Avenue"
+      }, {
+        "count" : 16,
+        "item" : "109-04 160th Street"
+      }, {
+        "count" : 15,
+        "item" : "10-25 41st Avenue"
+      }, {
+        "count" : 14,
+        "item" : "116-55 Guy Brewer Blvd"
+      }, {
+        "count" : 13,
+        "item" : "133-16 Roosevelt Avenue"
+      }, {
+        "count" : 12,
+        "item" : "110-01 62nd Drive"
+      }, {
+        "count" : 11,
+        "item" : "82-10 Rkway Beach Blvd"
+      }, {
+        "count" : 10,
+        "item" : "338 Beach 56th Streeet"
+      }, {
+        "count" : 9,
+        "item" : "10-26 41st Avenue"
+      }, {
+        "count" : 8,
+        "item" : "14-66 Beach Channel Dr"
+      }, {
+        "count" : 7,
+        "item" : "108-17 159th Street"
+      }, {
+        "count" : 6,
+        "item" : "50-37 Broadway"
+      }, {
+        "count" : 5,
+        "item" : "35-32 21st Street"
+      }, {
+        "count" : 4,
+        "item" : "10-29 41st Avenue"
+      }, {
+        "count" : 3,
+        "item" : "50-53 Newtown Road"
+      }, {
+        "count" : 2,
+        "item" : "14-01 36 Avenue #1A"
+      }, {
+        "count" : 1,
+        "item" : "108-25 62nd Drive"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54016782,
+    "name" : "CITY",
+    "dataTypeName" : "text",
+    "description" : "City of the facility where the program takes place",
+    "fieldName" : "city",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9010485,
+    "width" : 79,
+    "cachedContents" : {
+      "non_null" : 536,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "New York"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54016783,
+    "name" : "STATE",
+    "dataTypeName" : "text",
+    "description" : "State of the facility where the program takes place",
+    "fieldName" : "state",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9010486,
+    "width" : 72,
+    "cachedContents" : {
+      "non_null" : 536,
+      "smallest" : "NY",
+      "null" : 0,
+      "largest" : "NY",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NY"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54016784,
+    "name" : "ZIP",
+    "dataTypeName" : "text",
+    "description" : "Zip Code of the facility where the program takes place",
+    "fieldName" : "zip",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9010487,
+    "width" : 54,
+    "cachedContents" : {
+      "non_null" : 536,
+      "smallest" : "10001",
+      "null" : 0,
+      "largest" : "N/A",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10456"
+      }, {
+        "count" : 19,
+        "item" : "10467"
+      }, {
+        "count" : 18,
+        "item" : "10473"
+      }, {
+        "count" : 17,
+        "item" : "11233"
+      }, {
+        "count" : 16,
+        "item" : "11212"
+      }, {
+        "count" : 15,
+        "item" : "11206"
+      }, {
+        "count" : 14,
+        "item" : "10029"
+      }, {
+        "count" : 13,
+        "item" : "10009"
+      }, {
+        "count" : 12,
+        "item" : "10454"
+      }, {
+        "count" : 11,
+        "item" : "10023"
+      }, {
+        "count" : 10,
+        "item" : "10030"
+      }, {
+        "count" : 9,
+        "item" : "10039"
+      }, {
+        "count" : 8,
+        "item" : "10001"
+      }, {
+        "count" : 7,
+        "item" : "10002"
+      }, {
+        "count" : 6,
+        "item" : "10027"
+      }, {
+        "count" : 5,
+        "item" : "10025"
+      }, {
+        "count" : 4,
+        "item" : "10038"
+      }, {
+        "count" : 3,
+        "item" : "10035"
+      }, {
+        "count" : 2,
+        "item" : "10032"
+      }, {
+        "count" : 1,
+        "item" : "11354"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54016785,
+    "name" : "TELEPHONE",
+    "dataTypeName" : "text",
+    "description" : "Telephone to the facility where the program takes place",
+    "fieldName" : "telephone",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9010488,
+    "width" : 89,
+    "cachedContents" : {
+      "non_null" : 471,
+      "smallest" : "((718) 471-0971",
+      "null" : 65,
+      "largest" : "NYCHA",
+      "top" : [ {
+        "count" : 20,
+        "item" : "(212) 349-3724"
+      }, {
+        "count" : 19,
+        "item" : "(212) 828-6144"
+      }, {
+        "count" : 18,
+        "item" : "(718) 592-5757"
+      }, {
+        "count" : 17,
+        "item" : "(718) 784-7447"
+      }, {
+        "count" : 16,
+        "item" : "(718) 932-6916"
+      }, {
+        "count" : 15,
+        "item" : "(718) 945-4246"
+      }, {
+        "count" : 14,
+        "item" : "(718) 592-5757 X254"
+      }, {
+        "count" : 13,
+        "item" : "(718) 979-4892"
+      }, {
+        "count" : 12,
+        "item" : "(718) 815-0689"
+      }, {
+        "count" : 11,
+        "item" : "(718) 981-0500"
+      }, {
+        "count" : 10,
+        "item" : "(718) 494-0400"
+      }, {
+        "count" : 9,
+        "item" : "(718) 987-7755"
+      }, {
+        "count" : 8,
+        "item" : "(718) 273-6808"
+      }, {
+        "count" : 7,
+        "item" : "(718) 448-5936"
+      }, {
+        "count" : 6,
+        "item" : "(718) 981-8828"
+      }, {
+        "count" : 5,
+        "item" : "(718) 698-7979"
+      }, {
+        "count" : 4,
+        "item" : "(718) 727-9763/9793"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54016786,
+    "name" : "SPONSOR",
+    "dataTypeName" : "text",
+    "description" : "Name of the organization administering the program",
+    "fieldName" : "sponsor",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9010489,
+    "width" : 76,
+    "cachedContents" : {
+      "non_null" : 536,
+      "smallest" : "Abyssinian Baptist Church",
+      "null" : 0,
+      "largest" : "YWCA - New York City",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NYCHA"
+      }, {
+        "count" : 19,
+        "item" : "East Side House Settlement"
+      }, {
+        "count" : 18,
+        "item" : "NYC Health & Hospital Corp"
+      }, {
+        "count" : 17,
+        "item" : "Alianza Dominicana, Inc."
+      }, {
+        "count" : 16,
+        "item" : "The Hudson Guild"
+      }, {
+        "count" : 15,
+        "item" : "Children's Aid Society, Inc."
+      }, {
+        "count" : 14,
+        "item" : "Henry Street Settlement, Inc."
+      }, {
+        "count" : 13,
+        "item" : "Union Settlement, Association"
+      }, {
+        "count" : 12,
+        "item" : "Hamilton-Madison House, Inc."
+      }, {
+        "count" : 11,
+        "item" : "Grand Street Settlement, Inc."
+      }, {
+        "count" : 10,
+        "item" : "I Have A Dream Foundation-NY"
+      }, {
+        "count" : 9,
+        "item" : "Lincoln Square Neighborhood Center, Inc."
+      }, {
+        "count" : 8,
+        "item" : "Queens Borough Public Library"
+      }, {
+        "count" : 7,
+        "item" : "Queens Community House, Inc."
+      }, {
+        "count" : 6,
+        "item" : "Jacob A. Riis Neighborhood Settlement, Inc."
+      }, {
+        "count" : 5,
+        "item" : "Police Athletic League, Inc."
+      }, {
+        "count" : 4,
+        "item" : "Bethel Mission Station Church, Inc."
+      }, {
+        "count" : 3,
+        "item" : "Jamaica Service Program for Older Adults"
+      }, {
+        "count" : 2,
+        "item" : "Self Help Community Services, Inc"
+      }, {
+        "count" : 1,
+        "item" : "HANAC, Inc."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54016787,
+    "name" : "DIRECTOR",
+    "dataTypeName" : "text",
+    "description" : "Name of the director responsible for the program at this facility",
+    "fieldName" : "director",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9010490,
+    "width" : 70,
+    "cachedContents" : {
+      "non_null" : 469,
+      "smallest" : "Abraham Jones",
+      "null" : 67,
+      "largest" : "Yvonne Feiger",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Karen Smith-Moore"
+      }, {
+        "count" : 19,
+        "item" : "William Newlin"
+      }, {
+        "count" : 18,
+        "item" : "Angela King"
+      }, {
+        "count" : 17,
+        "item" : "Robert Madison"
+      }, {
+        "count" : 16,
+        "item" : "Christina Sema"
+      }, {
+        "count" : 15,
+        "item" : "Matthew Ancona"
+      }, {
+        "count" : 14,
+        "item" : "Cornelia Taylor"
+      }, {
+        "count" : 13,
+        "item" : "Jason Treleaven"
+      }, {
+        "count" : 12,
+        "item" : "Anita Eshun"
+      }, {
+        "count" : 11,
+        "item" : "Dan Widensky"
+      }, {
+        "count" : 10,
+        "item" : "Debra Frederick"
+      }, {
+        "count" : 9,
+        "item" : "Janilee Yanny"
+      }, {
+        "count" : 8,
+        "item" : "Beryl Clark"
+      }, {
+        "count" : 7,
+        "item" : "Jamie Santoro"
+      }, {
+        "count" : 6,
+        "item" : "James Malandro"
+      }, {
+        "count" : 5,
+        "item" : "Glenda Martinez"
+      }, {
+        "count" : 4,
+        "item" : "Jeanne Agnello"
+      }, {
+        "count" : 3,
+        "item" : "June Hope"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54016788,
+    "name" : "MONTH",
+    "dataTypeName" : "text",
+    "description" : "Month of Data Collection",
+    "fieldName" : "month",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9010491,
+    "width" : 111,
+    "cachedContents" : {
+      "non_null" : 536,
+      "smallest" : "February",
+      "null" : 0,
+      "largest" : "February",
+      "top" : [ {
+        "count" : 20,
+        "item" : "February"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 54016789,
+    "name" : "YEAR",
+    "dataTypeName" : "text",
+    "description" : "Year of Data Collection",
+    "fieldName" : "year",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 9010492,
+    "width" : 178,
+    "cachedContents" : {
+      "non_null" : 536,
+      "smallest" : "2013",
+      "null" : 0,
+      "largest" : "2013",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2013"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Quarterly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "nycha", "nyc housing", "community center", "community facility", "senior center", "lunch program", "day care", "head start", "health clinic" ],
+  "flags" : [ "default" ]
+}

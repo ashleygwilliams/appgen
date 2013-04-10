@@ -1,0 +1,711 @@
+{
+  "id" : "mbd7-jfnc",
+  "name" : "DYCD after-school programs",
+  "attribution" : "Department of Youth and Community Development (DYCD)",
+  "averageRating" : 80,
+  "category" : "Education",
+  "createdAt" : 1314814825,
+  "description" : "After-school programs in New York City, organized by various categories and for various audiences.\r\nUpdate Frequency: Annually",
+  "displayType" : "table",
+  "downloadCount" : 147,
+  "numberOfComments" : 1,
+  "oid" : 332300,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1314814825,
+  "publicationGroup" : 239986,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1314814914,
+  "rowsUpdatedBy" : "k2fz-tf56",
+  "signed" : false,
+  "tableId" : 239986,
+  "totalTimesRated" : 1,
+  "viewCount" : 372,
+  "viewLastModified" : 1363712502,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2827318,
+    "name" : "PROGRAM TYPE",
+    "dataTypeName" : "text",
+    "fieldName" : "program_type",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1514201,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 1600,
+      "smallest" : "After-School Programs",
+      "null" : 0,
+      "largest" : "Runaway & Homeless Youth",
+      "top" : [ {
+        "count" : 20,
+        "item" : "PROGRAM TYPE"
+      }, {
+        "count" : 19,
+        "item" : "After-School Programs"
+      }, {
+        "count" : 18,
+        "item" : "After-School Programs,Jobs & Internships,Youth Employment"
+      }, {
+        "count" : 17,
+        "item" : "After-School Programs,Summer Program,Summer Camp"
+      }, {
+        "count" : 16,
+        "item" : "After-School Programs,Beacon,NYCHA Community Center"
+      }, {
+        "count" : 15,
+        "item" : "Reading & Writing,NDA Programs,Family Literacy"
+      }, {
+        "count" : 14,
+        "item" : "Reading & Writing,NDA Programs,English Language Program,ESOL,Family Literacy"
+      }, {
+        "count" : 13,
+        "item" : "Reading & Writing,NDA Programs,English Language Program,ESOL,Family Literacy,Adult Basic Education,ABE/GED"
+      }, {
+        "count" : 12,
+        "item" : "Reading & Writing,NDA Programs,English Language Program,Family Literacy,Adult Basic Education,ABE/GED"
+      }, {
+        "count" : 11,
+        "item" : "After-School Programs,NDA Programs,Youth Educational Support"
+      }, {
+        "count" : 10,
+        "item" : "Family Support,NDA Programs"
+      }, {
+        "count" : 9,
+        "item" : "NDA Programs,Immigration Services,Immigrant Support Services"
+      }, {
+        "count" : 8,
+        "item" : "After-School Programs,NDA Programs,Adolescent Literacy,Youth Educational Support"
+      }, {
+        "count" : 7,
+        "item" : "NDA Programs,Senior Programs,Older Adult Program"
+      }, {
+        "count" : 6,
+        "item" : "Immigration Services,Immigrant Support Services"
+      }, {
+        "count" : 5,
+        "item" : "Immigration Services,Immigrant Support Services,NDA Programs,NDA Immigrants"
+      }, {
+        "count" : 4,
+        "item" : "Jobs & Internships"
+      }, {
+        "count" : 3,
+        "item" : "Runaway & Homeless Youth"
+      }, {
+        "count" : 2,
+        "item" : "Jobs & Internships,Youth Employment"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2827319,
+    "name" : "PROGRAM",
+    "dataTypeName" : "text",
+    "fieldName" : "program",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1514202,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 1600,
+      "smallest" : "Adolescent Literacy",
+      "null" : 0,
+      "largest" : "Young Adult Internship Program",
+      "top" : [ {
+        "count" : 20,
+        "item" : "PROGRAM"
+      }, {
+        "count" : 19,
+        "item" : "Beacon"
+      }, {
+        "count" : 18,
+        "item" : "In-School Youth Employment (ISY)"
+      }, {
+        "count" : 17,
+        "item" : "Out of School Time"
+      }, {
+        "count" : 16,
+        "item" : "Out-of-School Youth Employment (OSY)"
+      }, {
+        "count" : 15,
+        "item" : "Teen Action Program"
+      }, {
+        "count" : 14,
+        "item" : "Beacon Satellite"
+      }, {
+        "count" : 13,
+        "item" : "Family Literacy"
+      }, {
+        "count" : 12,
+        "item" : "Adolescent Literacy"
+      }, {
+        "count" : 11,
+        "item" : " Adult Literacy"
+      }, {
+        "count" : 10,
+        "item" : " High-School Aged Youth"
+      }, {
+        "count" : 9,
+        "item" : "Housing"
+      }, {
+        "count" : 8,
+        "item" : " Housing"
+      }, {
+        "count" : 7,
+        "item" : " Immigrant"
+      }, {
+        "count" : 6,
+        "item" : " Middle School Youth"
+      }, {
+        "count" : 5,
+        "item" : "Healthy Families"
+      }, {
+        "count" : 4,
+        "item" : "Seniors"
+      }, {
+        "count" : 3,
+        "item" : "Fatherhood Initiative"
+      }, {
+        "count" : 2,
+        "item" : "Health Stat Initiative"
+      }, {
+        "count" : 1,
+        "item" : "Domestic Violence Program"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2827320,
+    "name" : "SITE NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "site_name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1514203,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 1600,
+      "smallest" : "04M435 MANHATTAN CENTER FOR SC",
+      "null" : 0,
+      "largest" : "YWCA of Queens",
+      "top" : [ {
+        "count" : 20,
+        "item" : "SCO Family of Services"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2827321,
+    "name" : "BOROUGH / COMMUNITY",
+    "dataTypeName" : "text",
+    "fieldName" : "borough_community",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1514204,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 1600,
+      "smallest" : "10463",
+      "null" : 0,
+      "largest" : "Woodside",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BOROUGH / COMMUNITY"
+      }, {
+        "count" : 19,
+        "item" : "Bronx"
+      }, {
+        "count" : 18,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 17,
+        "item" : "Brookyn"
+      }, {
+        "count" : 16,
+        "item" : "Manhattan"
+      }, {
+        "count" : 15,
+        "item" : "Queens"
+      }, {
+        "count" : 14,
+        "item" : "Staten Island"
+      }, {
+        "count" : 13,
+        "item" : "New York"
+      }, {
+        "count" : 12,
+        "item" : "Astoria"
+      }, {
+        "count" : 11,
+        "item" : "Corona"
+      }, {
+        "count" : 10,
+        "item" : "Long Island City"
+      }, {
+        "count" : 9,
+        "item" : "Flushing"
+      }, {
+        "count" : 8,
+        "item" : "Jackson Heights"
+      }, {
+        "count" : 7,
+        "item" : "Woodside"
+      }, {
+        "count" : 6,
+        "item" : "Jamaica"
+      }, {
+        "count" : 5,
+        "item" : "10463"
+      }, {
+        "count" : 4,
+        "item" : "New York "
+      }, {
+        "count" : 3,
+        "item" : "Manhattan,Bronx,Queens,Staten Island, Brooklyn"
+      }, {
+        "count" : 2,
+        "item" : "Forest Hills"
+      }, {
+        "count" : 1,
+        "item" : "Kew Gardens"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2827322,
+    "name" : "AGENCY",
+    "dataTypeName" : "text",
+    "fieldName" : "agency",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1514205,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 1600,
+      "smallest" : "68th Precinct Youth Council, Inc.",
+      "null" : 0,
+      "largest" : "Zeta Zeta Lambda Company, Inc.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New York Junior Tennis League"
+      }, {
+        "count" : 19,
+        "item" : "Sports and Arts In Schools Foundation, Inc."
+      }, {
+        "count" : 18,
+        "item" : "Make the Road New York"
+      }, {
+        "count" : 17,
+        "item" : "New York Legal Assistance Group (NYLAG)"
+      }, {
+        "count" : 16,
+        "item" : "The Legal Aid Society"
+      }, {
+        "count" : 15,
+        "item" : "SCO Family of Services"
+      }, {
+        "count" : 14,
+        "item" : "Southern Queens Park Association"
+      }, {
+        "count" : 13,
+        "item" : "St. Mary's Community Services, Inc."
+      }, {
+        "count" : 12,
+        "item" : "St. Nicholas Neighborhood Preservation Corporation"
+      }, {
+        "count" : 11,
+        "item" : "United Activities Unlimited, Inc."
+      }, {
+        "count" : 10,
+        "item" : "Vannguard Urban Improvement Association, Inc. - "
+      }, {
+        "count" : 9,
+        "item" : "Vannguard Urban Improvement Association, Inc. - Vulnerable Youth"
+      }, {
+        "count" : 8,
+        "item" : "Wildcat Service Corporation"
+      }, {
+        "count" : 7,
+        "item" : "Woodycrest Center For Human Development"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2827323,
+    "name" : "Contact Number",
+    "dataTypeName" : "text",
+    "fieldName" : "contact_number",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1514206,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 1598,
+      "smallest" : "(212) 222-3882",
+      "null" : 2,
+      "largest" : "Contact Number",
+      "top" : [ {
+        "count" : 20,
+        "item" : "(800) 624-8474"
+      }, {
+        "count" : 19,
+        "item" : "(718) 542-0006"
+      }, {
+        "count" : 18,
+        "item" : "212-306-3985"
+      }, {
+        "count" : 17,
+        "item" : "718-389-5306"
+      }, {
+        "count" : 16,
+        "item" : "718-389-5309"
+      }, {
+        "count" : 15,
+        "item" : "718-592-5757 "
+      }, {
+        "count" : 14,
+        "item" : "718-482-5340"
+      }, {
+        "count" : 13,
+        "item" : "718-270-6152"
+      }, {
+        "count" : 12,
+        "item" : "718-381-9653 "
+      }, {
+        "count" : 11,
+        "item" : "718-327-5300 "
+      }, {
+        "count" : 10,
+        "item" : "718-788-3500 "
+      }, {
+        "count" : 9,
+        "item" : "718-221-8880 "
+      }, {
+        "count" : 8,
+        "item" : "718-589-1510"
+      }, {
+        "count" : 7,
+        "item" : "718-292-3113"
+      }, {
+        "count" : 6,
+        "item" : "718-276-4630  x107"
+      }, {
+        "count" : 5,
+        "item" : "718-230-0827 "
+      }, {
+        "count" : 4,
+        "item" : "718-599-9224 "
+      }, {
+        "count" : 3,
+        "item" : "718-448-4834"
+      }, {
+        "count" : 2,
+        "item" : "718-453-3330 "
+      }, {
+        "count" : 1,
+        "item" : "718-453-3330"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2827324,
+    "name" : "Grade Level / Age Group ",
+    "dataTypeName" : "text",
+    "fieldName" : "grade_level_age_group",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1514207,
+    "width" : 388,
+    "cachedContents" : {
+      "non_null" : 1521,
+      "smallest" : "11+",
+      "null" : 79,
+      "largest" : "Seniors",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Grade Level / Age Group "
+      }, {
+        "count" : 19,
+        "item" : "6 and up"
+      }, {
+        "count" : 18,
+        "item" : "High School"
+      }, {
+        "count" : 17,
+        "item" : "Elementary"
+      }, {
+        "count" : 16,
+        "item" : "Elem/MS/HS"
+      }, {
+        "count" : 15,
+        "item" : "Middle School"
+      }, {
+        "count" : 14,
+        "item" : "Elem/MS"
+      }, {
+        "count" : 13,
+        "item" : "MS/HS"
+      }, {
+        "count" : 12,
+        "item" : "OST"
+      }, {
+        "count" : 11,
+        "item" : "16 to 21"
+      }, {
+        "count" : 10,
+        "item" : "13 to 21"
+      }, {
+        "count" : 9,
+        "item" : "A parent 16 Years Old or Older "
+      }, {
+        "count" : 8,
+        "item" : "grades 6 to 8"
+      }, {
+        "count" : 7,
+        "item" : "16+"
+      }, {
+        "count" : 6,
+        "item" : " High School"
+      }, {
+        "count" : 5,
+        "item" : "Adults"
+      }, {
+        "count" : 4,
+        "item" : "Seniors"
+      }, {
+        "count" : 3,
+        "item" : "16 to 24"
+      }, {
+        "count" : 2,
+        "item" : "All Ages"
+      }, {
+        "count" : 1,
+        "item" : "Adult"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2827325,
+    "name" : "Location 1",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 9,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1514208,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 1579,
+      "smallest" : {
+        "longitude" : "-73.95200031741886",
+        "latitude" : "40.79298338723134",
+        "human_address" : "{\"address\":\"1 104th Street\",\"city\":\"\",\"state\":\"\",\"zip\":\"10029\"}"
+      },
+      "null" : 21,
+      "largest" : {
+        "longitude" : "-73.9112816097151",
+        "latitude" : "40.87834957539748",
+        "human_address" : "{\"address\":\"Tibbett Avenue\",\"city\":\"\",\"state\":\"\",\"zip\":\"10463\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.90732282830548",
+          "latitude" : "40.656451255408264",
+          "human_address" : "{\"address\":\"985 Rockaway Ave\",\"city\":\"\",\"state\":\"\",\"zip\":\"11212\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.95561864336202",
+          "latitude" : "40.80669464442542",
+          "human_address" : "{\"address\":\"441 Manhattan Avenue\",\"city\":\"\",\"state\":\"\",\"zip\":\"10026\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.75923519834566",
+          "latitude" : "40.69812711747255",
+          "human_address" : "{\"address\":\"199 10 11th Ave\",\"city\":\"\",\"state\":\"\",\"zip\":\"11412\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.99401070079284",
+          "latitude" : "40.734434119371144",
+          "human_address" : "{\"address\":\"34 1 2 East 12th Street\",\"city\":\"\",\"state\":\"\",\"zip\":\"10003\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.84628429608335",
+          "latitude" : "40.720707263029794",
+          "human_address" : "{\"address\":\"108 25 62nd Drive\",\"city\":\"\",\"state\":\"\",\"zip\":\"11375\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.93866902925225",
+          "latitude" : "40.74570244980828",
+          "human_address" : "{\"address\":\"29 10 Thomson Avenue\",\"city\":\"Rm C\",\"state\":\"\",\"zip\":\"11101\"}"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.95102489963955",
+          "latitude" : "40.667224464013074",
+          "human_address" : "{\"address\":\"1155 Carroll Street\",\"city\":\"\",\"state\":\"\",\"zip\":\"11225\"}"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.91383248246076",
+          "latitude" : "40.69784030864716",
+          "human_address" : "{\"address\":\"1474 Gates Avenue\",\"city\":\"\",\"state\":\"\",\"zip\":\"11237\"}"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.7521789315517",
+          "latitude" : "40.6038795254241",
+          "human_address" : "{\"address\":\"1920 Mott Avenue\",\"city\":\"\",\"state\":\"\",\"zip\":\"11691\"}"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-74.0095131568878",
+          "latitude" : "40.6510383207887",
+          "human_address" : "{\"address\":\"345 43rd Street\",\"city\":\"\",\"state\":\"\",\"zip\":\"11232\"}"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.92913135988232",
+          "latitude" : "40.65845142217417",
+          "human_address" : "{\"address\":\"905 Winthrop Street\",\"city\":\"\",\"state\":\"\",\"zip\":\"11203\"}"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.89341802447647",
+          "latitude" : "40.82101228286123",
+          "human_address" : "{\"address\":\"997 163rd Street\",\"city\":\"\",\"state\":\"\",\"zip\":\"10459\"}"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.91641591148277",
+          "latitude" : "40.81594441525443",
+          "human_address" : "{\"address\":\"555 Bergen Avenue\",\"city\":\"\",\"state\":\"\",\"zip\":\"10455\"}"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.77530690169215",
+          "latitude" : "40.6769452621142",
+          "human_address" : "{\"address\":\"177 01 Baisley Boulevard\",\"city\":\"\",\"state\":\"\",\"zip\":\"11434\"}"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.96084829313692",
+          "latitude" : "40.692595753923804",
+          "human_address" : "{\"address\":\"230 Classon Avenue\",\"city\":\"\",\"state\":\"\",\"zip\":\"11205\"}"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.93973216278714",
+          "latitude" : "40.712157465495466",
+          "human_address" : "{\"address\":\"850 Grand Street\",\"city\":\"\",\"state\":\"\",\"zip\":\"11211\"}"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-74.09611291088208",
+          "latitude" : "40.62678550844453",
+          "human_address" : "{\"address\":\"221 Broadway\",\"city\":\"\",\"state\":\"\",\"zip\":\"10301\"}"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.94559613967623",
+          "latitude" : "40.681569834987634",
+          "human_address" : "{\"address\":\"141 Macon Street\",\"city\":\"\",\"state\":\"\",\"zip\":\"11216\"}"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.94926775090596",
+          "latitude" : "40.680758670876",
+          "human_address" : "{\"address\":\"613 619 Throop Avenue\",\"city\":\"\",\"state\":\"\",\"zip\":\"11216\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-73.89369212762725",
+          "latitude" : "40.84859421167427",
+          "human_address" : "{\"address\":\"560 179th Street\",\"city\":\"\",\"state\":\"\",\"zip\":\"10457\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "ratings" : {
+    "rating" : 80
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "jobs and economic mobility", "education", "services", "youth", "community", "development", "school", "child", "children", "lifelong learning" ],
+  "flags" : [ "default" ]
+}

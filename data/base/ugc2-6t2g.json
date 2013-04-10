@@ -1,0 +1,464 @@
+{
+  "id" : "ugc2-6t2g",
+  "name" : "DOF: Summary of Neighborhood Sales Citywide for Class 1-, 2- and 3-Family homes - 2008",
+  "attribution" : "Department of Finance (DOF)",
+  "averageRating" : 0,
+  "category" : "Finances",
+  "createdAt" : 1317839836,
+  "description" : "The Department of Finance (DOF) maintains records for all property sales in New York City, including sales of family homes in each borough. This list is a summary of all neighborhood sales for Class 1-, 2- and 3-Family homes Citywide in 2008.\r\n\r\nThis list includes all sales of 1-, 2-, and 3-Family Homes' from January 1st, 2008 to December 31, 2008, whose sale price is equal to or more than $150,000.  The Building Class Category for Sales is based on the Building Class at the time of the sale.",
+  "displayType" : "table",
+  "downloadCount" : 14,
+  "numberOfComments" : 0,
+  "oid" : 340374,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318358503,
+  "publicationGroup" : 243235,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1317839839,
+  "rowsUpdatedBy" : "k2fz-tf56",
+  "signed" : false,
+  "tableId" : 243235,
+  "totalTimesRated" : 0,
+  "viewCount" : 22,
+  "viewLastModified" : 1338404354,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2957315,
+    "name" : "BOROUGH",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1553456,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "1",
+      "null" : 0,
+      "largest" : "Citywide",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "Citywide"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2957316,
+    "name" : "BUILDING CLASS CATEGORY",
+    "dataTypeName" : "text",
+    "fieldName" : "building_class_category",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1553457,
+    "width" : 376,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "01 ONE FAMILY HOMES  ",
+      "null" : 0,
+      "largest" : "03 THREE FAMILY HOMES",
+      "top" : [ {
+        "count" : 20,
+        "item" : "01 ONE FAMILY HOMES  "
+      }, {
+        "count" : 19,
+        "item" : "02 TWO FAMILY HOMES  "
+      }, {
+        "count" : 18,
+        "item" : "03 THREE FAMILY HOMES"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2957317,
+    "name" : " NUMBER OF SALES ",
+    "dataTypeName" : "number",
+    "fieldName" : "_number_of_sales_",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1553458,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "28",
+      "sum" : "40956",
+      "null" : 0,
+      "average" : "2275.333333333333",
+      "largest" : "9720",
+      "top" : [ {
+        "count" : 20,
+        "item" : "68"
+      }, {
+        "count" : 19,
+        "item" : "61"
+      }, {
+        "count" : 18,
+        "item" : "42"
+      }, {
+        "count" : 17,
+        "item" : "606"
+      }, {
+        "count" : 16,
+        "item" : "906"
+      }, {
+        "count" : 15,
+        "item" : "469"
+      }, {
+        "count" : 14,
+        "item" : "1577"
+      }, {
+        "count" : 13,
+        "item" : "2906"
+      }, {
+        "count" : 12,
+        "item" : "1081"
+      }, {
+        "count" : 11,
+        "item" : "5078"
+      }, {
+        "count" : 10,
+        "item" : "3660"
+      }, {
+        "count" : 9,
+        "item" : "704"
+      }, {
+        "count" : 8,
+        "item" : "2391"
+      }, {
+        "count" : 7,
+        "item" : "901"
+      }, {
+        "count" : 6,
+        "item" : "28"
+      }, {
+        "count" : 5,
+        "item" : "9720"
+      }, {
+        "count" : 4,
+        "item" : "8434"
+      }, {
+        "count" : 3,
+        "item" : "2324"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2957318,
+    "name" : " MINIMUM SALE PRICE ",
+    "dataTypeName" : "number",
+    "fieldName" : "_minimum_sale_price_",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1553459,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "150000",
+      "sum" : "2960617",
+      "null" : 0,
+      "average" : "164478.7222222222",
+      "largest" : "331500",
+      "top" : [ {
+        "count" : 20,
+        "item" : "331500"
+      }, {
+        "count" : 19,
+        "item" : "200000"
+      }, {
+        "count" : 18,
+        "item" : "175000"
+      }, {
+        "count" : 17,
+        "item" : "150000"
+      }, {
+        "count" : 16,
+        "item" : "153000"
+      }, {
+        "count" : 15,
+        "item" : "151117"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2957319,
+    "name" : " AVERAGE SALE PRICE ",
+    "dataTypeName" : "number",
+    "fieldName" : "_average_sale_price_",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1553460,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "428614",
+      "sum" : "26089373",
+      "null" : 0,
+      "average" : "1449409.611111111",
+      "largest" : "8926012",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8926012"
+      }, {
+        "count" : 19,
+        "item" : "4671561"
+      }, {
+        "count" : 18,
+        "item" : "3868956"
+      }, {
+        "count" : 17,
+        "item" : "441962"
+      }, {
+        "count" : 16,
+        "item" : "482934"
+      }, {
+        "count" : 15,
+        "item" : "558828"
+      }, {
+        "count" : 14,
+        "item" : "642727"
+      }, {
+        "count" : 13,
+        "item" : "656988"
+      }, {
+        "count" : 12,
+        "item" : "733439"
+      }, {
+        "count" : 11,
+        "item" : "513661"
+      }, {
+        "count" : 10,
+        "item" : "579499"
+      }, {
+        "count" : 9,
+        "item" : "709228"
+      }, {
+        "count" : 8,
+        "item" : "429639"
+      }, {
+        "count" : 7,
+        "item" : "514656"
+      }, {
+        "count" : 6,
+        "item" : "428614"
+      }, {
+        "count" : 5,
+        "item" : "568314"
+      }, {
+        "count" : 4,
+        "item" : "618494"
+      }, {
+        "count" : 3,
+        "item" : "743861"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2957320,
+    "name" : " MEDIAN SALE PRICE ",
+    "dataTypeName" : "number",
+    "fieldName" : "_median_sale_price_",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1553461,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "391200",
+      "sum" : "20969204",
+      "null" : 0,
+      "average" : "1164955.777777778",
+      "largest" : "5414549",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5414549"
+      }, {
+        "count" : 19,
+        "item" : "4150000"
+      }, {
+        "count" : 18,
+        "item" : "3425000"
+      }, {
+        "count" : 17,
+        "item" : "391200"
+      }, {
+        "count" : 16,
+        "item" : "480000"
+      }, {
+        "count" : 15,
+        "item" : "575000"
+      }, {
+        "count" : 14,
+        "item" : "515000"
+      }, {
+        "count" : 13,
+        "item" : "600000"
+      }, {
+        "count" : 12,
+        "item" : "695000"
+      }, {
+        "count" : 11,
+        "item" : "465000"
+      }, {
+        "count" : 10,
+        "item" : "561900"
+      }, {
+        "count" : 9,
+        "item" : "720000"
+      }, {
+        "count" : 8,
+        "item" : "400000"
+      }, {
+        "count" : 7,
+        "item" : "490000"
+      }, {
+        "count" : 6,
+        "item" : "424374"
+      }, {
+        "count" : 5,
+        "item" : "445000"
+      }, {
+        "count" : 4,
+        "item" : "555500"
+      }, {
+        "count" : 3,
+        "item" : "661681"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2957321,
+    "name" : " MAXIMUM SALE PRICE ",
+    "dataTypeName" : "number",
+    "fieldName" : "_maximum_sale_price_",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1553462,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "713000",
+      "sum" : "210194984",
+      "null" : 0,
+      "average" : "11677499.11111111",
+      "largest" : "49000000",
+      "top" : [ {
+        "count" : 20,
+        "item" : "49000000"
+      }, {
+        "count" : 19,
+        "item" : "17000000"
+      }, {
+        "count" : 18,
+        "item" : "13500000"
+      }, {
+        "count" : 17,
+        "item" : "3956150"
+      }, {
+        "count" : 16,
+        "item" : "975000"
+      }, {
+        "count" : 15,
+        "item" : "1550000"
+      }, {
+        "count" : 14,
+        "item" : "8450000"
+      }, {
+        "count" : 13,
+        "item" : "10800000"
+      }, {
+        "count" : 12,
+        "item" : "3100000"
+      }, {
+        "count" : 11,
+        "item" : "5617500"
+      }, {
+        "count" : 10,
+        "item" : "2133334"
+      }, {
+        "count" : 9,
+        "item" : "7700000"
+      }, {
+        "count" : 8,
+        "item" : "713000"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Historical Data"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "D74E8604-28A7-47EB-9816-6A3AD4F1CFEE",
+      "name" : "Glossary_of_Terms_for_Property_Sales_Files.pdf",
+      "filename" : "Glossary_of_Terms_for_Property_Sales_Files.pdf"
+    }, {
+      "blobId" : "33B17F16-B9F1-4CD4-8331-F8AFAD9D9C4E",
+      "name" : "NYC_DOF_-_Building_Classifications__v1.1.pdf",
+      "filename" : "NYC_DOF_-_Building_Classifications__v1.1.pdf"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "department of finance", "finance", "dof", "property", "properties", "neighborhoods", "sales", "neighborhood sales", "homes", "family homes", "class-1", "class-2", "class-3", "borough", "citywide" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,1062 @@
+{
+  "id" : "nzjr-3966",
+  "name" : "NYC Civil Service Titles",
+  "attribution" : "Department of Citywide Administrative Services (DCAS)",
+  "averageRating" : 0,
+  "category" : "Business and Economic",
+  "createdAt" : 1311777764,
+  "description" : "List of civil service titles used by agencies throughout the City",
+  "displayType" : "table",
+  "downloadCount" : 209,
+  "numberOfComments" : 0,
+  "oid" : 342229,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318111578,
+  "publicationGroup" : 238859,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1318111553,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 244093,
+  "totalTimesRated" : 0,
+  "viewCount" : 1361,
+  "viewLastModified" : 1363267979,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2988692,
+    "name" : "TITLE",
+    "dataTypeName" : "text",
+    "fieldName" : "title",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502115,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 7712,
+      "smallest" : "00031",
+      "null" : 0,
+      "largest" : "TRVCF",
+      "top" : [ {
+        "count" : 99,
+        "item" : "10251"
+      }, {
+        "count" : 97,
+        "item" : "10252"
+      }, {
+        "count" : 56,
+        "item" : "70210"
+      }, {
+        "count" : 48,
+        "item" : "7021E"
+      }, {
+        "count" : 42,
+        "item" : "10124"
+      }, {
+        "count" : 42,
+        "item" : "92575"
+      }, {
+        "count" : 33,
+        "item" : "21744"
+      }, {
+        "count" : 33,
+        "item" : "13621"
+      }, {
+        "count" : 28,
+        "item" : "92570"
+      }, {
+        "count" : 28,
+        "item" : "30085"
+      }, {
+        "count" : 28,
+        "item" : "13632"
+      }, {
+        "count" : 27,
+        "item" : "06316"
+      }, {
+        "count" : 27,
+        "item" : "10229"
+      }, {
+        "count" : 24,
+        "item" : "04840"
+      }, {
+        "count" : 23,
+        "item" : "31715"
+      }, {
+        "count" : 22,
+        "item" : "13620"
+      }, {
+        "count" : 21,
+        "item" : "13611"
+      }, {
+        "count" : 21,
+        "item" : "91406"
+      }, {
+        "count" : 20,
+        "item" : "52700"
+      }, {
+        "count" : 20,
+        "item" : "22122"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988693,
+    "name" : "DESCR",
+    "dataTypeName" : "text",
+    "fieldName" : "descr",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502116,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 7712,
+      "smallest" : "*ACCOUNT CLERK",
+      "null" : 0,
+      "largest" : "YOUTH COORDINATOR (YOUTH SERVI",
+      "top" : [ {
+        "count" : 105,
+        "item" : "SECRETARY"
+      }, {
+        "count" : 99,
+        "item" : "CLERICAL ASSOCIATE"
+      }, {
+        "count" : 56,
+        "item" : "POLICE OFFICER (RECURRING NIGH"
+      }, {
+        "count" : 48,
+        "item" : "POLICE OFFICER, SPECIAL ASSIGN"
+      }, {
+        "count" : 42,
+        "item" : "TELECOMMUNICATIONS ASSOCIATE ("
+      }, {
+        "count" : 42,
+        "item" : "PRINCIPAL ADMINISTRATIVE ASSOC"
+      }, {
+        "count" : 42,
+        "item" : "SUPERVISOR OF MECHANICS(MECHAN"
+      }, {
+        "count" : 39,
+        "item" : "SCHOOL SECRETARY"
+      }, {
+        "count" : 37,
+        "item" : "BOARD OF EDUCATION"
+      }, {
+        "count" : 36,
+        "item" : "LEGAL SECRETARIAL ASSISTANT"
+      }, {
+        "count" : 33,
+        "item" : "COMPUTER ASSOC (OPERATIONS)"
+      }, {
+        "count" : 33,
+        "item" : "CITY RESEARCH SCIENTIST"
+      }, {
+        "count" : 30,
+        "item" : "CRIMINALIST"
+      }, {
+        "count" : 30,
+        "item" : "GUIDANCE COUNSELOR"
+      }, {
+        "count" : 28,
+        "item" : "SUPERVISOR OF MECHANICS (MOTOR"
+      }, {
+        "count" : 28,
+        "item" : "COMPUTER SPECIALIST (SOFTWARE)"
+      }, {
+        "count" : 28,
+        "item" : "*ATTORNEY AT LAW"
+      }, {
+        "count" : 27,
+        "item" : "INVESTIGATOR(DISCP)(ONLY FOR P"
+      }, {
+        "count" : 24,
+        "item" : "SIGN LANGUAGE INTERPRETER (NO"
+      }, {
+        "count" : 23,
+        "item" : "TRAFFIC CONTROL INSPECTOR"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988694,
+    "name" : "SFFX",
+    "dataTypeName" : "number",
+    "fieldName" : "sffx",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502117,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 7617,
+      "smallest" : "0",
+      "sum" : "17366",
+      "null" : 95,
+      "average" : "2.279900223184981",
+      "largest" : "98",
+      "top" : [ {
+        "count" : 4963,
+        "item" : "0"
+      }, {
+        "count" : 988,
+        "item" : "1"
+      }, {
+        "count" : 507,
+        "item" : "2"
+      }, {
+        "count" : 304,
+        "item" : "3"
+      }, {
+        "count" : 173,
+        "item" : "4"
+      }, {
+        "count" : 146,
+        "item" : "5"
+      }, {
+        "count" : 76,
+        "item" : "42"
+      }, {
+        "count" : 74,
+        "item" : "6"
+      }, {
+        "count" : 48,
+        "item" : "7"
+      }, {
+        "count" : 39,
+        "item" : "8"
+      }, {
+        "count" : 31,
+        "item" : "9"
+      }, {
+        "count" : 23,
+        "item" : "10"
+      }, {
+        "count" : 17,
+        "item" : "40"
+      }, {
+        "count" : 16,
+        "item" : "12"
+      }, {
+        "count" : 15,
+        "item" : "14"
+      }, {
+        "count" : 14,
+        "item" : "11"
+      }, {
+        "count" : 14,
+        "item" : "96"
+      }, {
+        "count" : 14,
+        "item" : "98"
+      }, {
+        "count" : 12,
+        "item" : "16"
+      }, {
+        "count" : 12,
+        "item" : "18"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988695,
+    "name" : "SFX DESCR",
+    "dataTypeName" : "text",
+    "fieldName" : "sfx_descr",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502118,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 7712,
+      "smallest" : "?RADIO AND TELEVISION OPERATOR",
+      "null" : 0,
+      "largest" : "YOUTH COORDINATOR (YOUTH SERVICES)",
+      "top" : [ {
+        "count" : 39,
+        "item" : "SCHOOL SECRETARY"
+      }, {
+        "count" : 37,
+        "item" : "BOARD OF EDUCATION"
+      }, {
+        "count" : 30,
+        "item" : "GUIDANCE COUNSELOR"
+      }, {
+        "count" : 19,
+        "item" : "NOT USED"
+      }, {
+        "count" : 18,
+        "item" : "THIS IS A MISTAKE"
+      }, {
+        "count" : 18,
+        "item" : "TEACHER REGULAR GRADES"
+      }, {
+        "count" : 17,
+        "item" : "TEACHER, REGULAR GRADES"
+      }, {
+        "count" : 16,
+        "item" : "TEACHER LIBRARY"
+      }, {
+        "count" : 14,
+        "item" : "LABORATORY SPECIALIST"
+      }, {
+        "count" : 12,
+        "item" : "ASSISTANT PRINCIPAL (ADMINIS)"
+      }, {
+        "count" : 12,
+        "item" : "TEACHER CLASSES FOR DEAF"
+      }, {
+        "count" : 11,
+        "item" : "TEACHER HEALTH CONSERV CLASS"
+      }, {
+        "count" : 11,
+        "item" : "SCHOOL PSYCHOLOGIST"
+      }, {
+        "count" : 10,
+        "item" : "CRIMINALIST (CWW-8 3/4 HR/DAY)"
+      }, {
+        "count" : 10,
+        "item" : "CRIMINALIST"
+      }, {
+        "count" : 10,
+        "item" : "CRIMINALIST (CWW-8 HR/DAY)"
+      }, {
+        "count" : 9,
+        "item" : "TEACHER BILINGUAL"
+      }, {
+        "count" : 9,
+        "item" : "SCHOOL SOCIAL WORKER"
+      }, {
+        "count" : 8,
+        "item" : "COMPUTER SPECIALIST (SOFTWARE)"
+      }, {
+        "count" : 8,
+        "item" : "TEACHER CLASSES FOR BLIND"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988696,
+    "name" : "STD HRS",
+    "dataTypeName" : "number",
+    "fieldName" : "std_hrs",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502119,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 7712,
+      "smallest" : "1",
+      "sum" : "275545",
+      "null" : 0,
+      "average" : "35.72938278008299",
+      "largest" : "60",
+      "top" : [ {
+        "count" : 6374,
+        "item" : "35"
+      }, {
+        "count" : 1098,
+        "item" : "40"
+      }, {
+        "count" : 159,
+        "item" : "38"
+      }, {
+        "count" : 36,
+        "item" : "32"
+      }, {
+        "count" : 11,
+        "item" : "31"
+      }, {
+        "count" : 9,
+        "item" : "20"
+      }, {
+        "count" : 6,
+        "item" : "42"
+      }, {
+        "count" : 4,
+        "item" : "60"
+      }, {
+        "count" : 2,
+        "item" : "45"
+      }, {
+        "count" : 2,
+        "item" : "29"
+      }, {
+        "count" : 2,
+        "item" : "1"
+      }, {
+        "count" : 2,
+        "item" : "22"
+      }, {
+        "count" : 2,
+        "item" : "7"
+      }, {
+        "count" : 1,
+        "item" : "25"
+      }, {
+        "count" : 1,
+        "item" : "28"
+      }, {
+        "count" : 1,
+        "item" : "4"
+      }, {
+        "count" : 1,
+        "item" : "26"
+      }, {
+        "count" : 1,
+        "item" : "37"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988697,
+    "name" : "ASG LVL",
+    "dataTypeName" : "number",
+    "fieldName" : "asg_lvl",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502120,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 7551,
+      "smallest" : "0",
+      "sum" : "4084",
+      "null" : 161,
+      "average" : "0.5408555158257184",
+      "largest" : "10",
+      "top" : [ {
+        "count" : 5470,
+        "item" : "0"
+      }, {
+        "count" : 773,
+        "item" : "2"
+      }, {
+        "count" : 767,
+        "item" : "1"
+      }, {
+        "count" : 402,
+        "item" : "3"
+      }, {
+        "count" : 135,
+        "item" : "4"
+      }, {
+        "count" : 3,
+        "item" : "5"
+      }, {
+        "count" : 1,
+        "item" : "10"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988698,
+    "name" : "JOBCODE",
+    "dataTypeName" : "number",
+    "fieldName" : "jobcode",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502121,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 7712,
+      "smallest" : "1",
+      "sum" : "38664667",
+      "null" : 0,
+      "average" : "5013.571965767635",
+      "largest" : "13289",
+      "top" : [ {
+        "count" : 1,
+        "item" : "4647"
+      }, {
+        "count" : 1,
+        "item" : "7999"
+      }, {
+        "count" : 1,
+        "item" : "2236"
+      }, {
+        "count" : 1,
+        "item" : "5102"
+      }, {
+        "count" : 1,
+        "item" : "2946"
+      }, {
+        "count" : 1,
+        "item" : "6200"
+      }, {
+        "count" : 1,
+        "item" : "1949"
+      }, {
+        "count" : 1,
+        "item" : "2012"
+      }, {
+        "count" : 1,
+        "item" : "6079"
+      }, {
+        "count" : 1,
+        "item" : "2952"
+      }, {
+        "count" : 1,
+        "item" : "7806"
+      }, {
+        "count" : 1,
+        "item" : "8058"
+      }, {
+        "count" : 1,
+        "item" : "11882"
+      }, {
+        "count" : 1,
+        "item" : "1109"
+      }, {
+        "count" : 1,
+        "item" : "4091"
+      }, {
+        "count" : 1,
+        "item" : "7507"
+      }, {
+        "count" : 1,
+        "item" : "6641"
+      }, {
+        "count" : 1,
+        "item" : "7230"
+      }, {
+        "count" : 1,
+        "item" : "3353"
+      }, {
+        "count" : 1,
+        "item" : "1918"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 2988699,
+    "name" : "UNION CD",
+    "dataTypeName" : "number",
+    "fieldName" : "union_cd",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502122,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 7712,
+      "smallest" : "0",
+      "sum" : "3824430",
+      "null" : 0,
+      "average" : "495.9063796680498",
+      "largest" : "999",
+      "top" : [ {
+        "count" : 1297,
+        "item" : "999"
+      }, {
+        "count" : 793,
+        "item" : "998"
+      }, {
+        "count" : 520,
+        "item" : "4"
+      }, {
+        "count" : 406,
+        "item" : "3"
+      }, {
+        "count" : 391,
+        "item" : "129"
+      }, {
+        "count" : 368,
+        "item" : "772"
+      }, {
+        "count" : 299,
+        "item" : "128"
+      }, {
+        "count" : 240,
+        "item" : "775"
+      }, {
+        "count" : 174,
+        "item" : "130"
+      }, {
+        "count" : 168,
+        "item" : "771"
+      }, {
+        "count" : 146,
+        "item" : "773"
+      }, {
+        "count" : 143,
+        "item" : "23"
+      }, {
+        "count" : 124,
+        "item" : "774"
+      }, {
+        "count" : 107,
+        "item" : "665"
+      }, {
+        "count" : 104,
+        "item" : "79"
+      }, {
+        "count" : 97,
+        "item" : "662"
+      }, {
+        "count" : 94,
+        "item" : "47"
+      }, {
+        "count" : 88,
+        "item" : "97"
+      }, {
+        "count" : 83,
+        "item" : "35"
+      }, {
+        "count" : 83,
+        "item" : "993"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988700,
+    "name" : "UNION DESCR",
+    "dataTypeName" : "text",
+    "fieldName" : "union_descr",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502123,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 7712,
+      "smallest" : "ACCOUNTING AND EDP TITLES DC37",
+      "null" : 0,
+      "largest" : "WIPERS (UNIFORMED) L333 UMD",
+      "top" : [ {
+        "count" : 1297,
+        "item" : "DELETED TITLES PER DOP"
+      }, {
+        "count" : 793,
+        "item" : "PENDING ASSIGNMENT TO CBU"
+      }, {
+        "count" : 520,
+        "item" : "ENGINEERS DC 37 L375 CSTG"
+      }, {
+        "count" : 406,
+        "item" : "SOCIAL SERVICE TITLES DC 37L37"
+      }, {
+        "count" : 391,
+        "item" : "ACCOUNTING AND EDP TITLES DC37"
+      }, {
+        "count" : 368,
+        "item" : "NON COMPETITIVE MANAGER"
+      }, {
+        "count" : 299,
+        "item" : "CLERICAL TITLES DC37"
+      }, {
+        "count" : 240,
+        "item" : "MGRL TEMP - PROP NC"
+      }, {
+        "count" : 174,
+        "item" : "HEALTH SERVICE TITLES DC37"
+      }, {
+        "count" : 168,
+        "item" : "COMPETITIVE MANAGER"
+      }, {
+        "count" : 146,
+        "item" : "EXEMPT MANAGER"
+      }, {
+        "count" : 143,
+        "item" : "PRINCIPAL ADMINISTRATIVE ASSOC"
+      }, {
+        "count" : 124,
+        "item" : "UNCLASSIFIED MANAGER"
+      }, {
+        "count" : 107,
+        "item" : "TEMPORARY OJ"
+      }, {
+        "count" : 104,
+        "item" : "POLICE OFFICERS PBA"
+      }, {
+        "count" : 97,
+        "item" : "NON COMPETITIVE OJ"
+      }, {
+        "count" : 94,
+        "item" : "SPECIAL OFFICERS L237 IBT"
+      }, {
+        "count" : 88,
+        "item" : "BUYERS L300 SEIU"
+      }, {
+        "count" : 83,
+        "item" : "DOCTORS COUNCIL CLINICIANS"
+      }, {
+        "count" : 70,
+        "item" : "STAFF ANALYSTS"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988701,
+    "name" : "BARG UNIT",
+    "dataTypeName" : "text",
+    "fieldName" : "barg_unit",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502124,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 7712,
+      "smallest" : "ADWA",
+      "null" : 0,
+      "largest" : "WDSU",
+      "top" : [ {
+        "count" : 3885,
+        "item" : "N/U"
+      }, {
+        "count" : 2193,
+        "item" : "DC37"
+      }, {
+        "count" : 280,
+        "item" : "IBT"
+      }, {
+        "count" : 207,
+        "item" : "SEIU"
+      }, {
+        "count" : 199,
+        "item" : "CWA"
+      }, {
+        "count" : 106,
+        "item" : "UFT"
+      }, {
+        "count" : 104,
+        "item" : "PBA"
+      }, {
+        "count" : 83,
+        "item" : "DRSC"
+      }, {
+        "count" : 81,
+        "item" : "IUOE"
+      }, {
+        "count" : 70,
+        "item" : "OSA"
+      }, {
+        "count" : 44,
+        "item" : "IBEW"
+      }, {
+        "count" : 43,
+        "item" : "CSA"
+      }, {
+        "count" : 36,
+        "item" : "DEA"
+      }, {
+        "count" : 35,
+        "item" : "NYNA"
+      }, {
+        "count" : 31,
+        "item" : "WDSU"
+      }, {
+        "count" : 26,
+        "item" : "IATS"
+      }, {
+        "count" : 24,
+        "item" : "PBDA"
+      }, {
+        "count" : 18,
+        "item" : "MEBA"
+      }, {
+        "count" : 18,
+        "item" : "ADWA"
+      }, {
+        "count" : 17,
+        "item" : "UMD"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988702,
+    "name" : "BARG DESCR",
+    "dataTypeName" : "text",
+    "fieldName" : "barg_descr",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502125,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 7712,
+      "smallest" : "Alliance ofTheatrical&StageEEs",
+      "null" : 0,
+      "largest" : "United Sanitation Workers",
+      "top" : [ {
+        "count" : 3885,
+        "item" : "Non-Union"
+      }, {
+        "count" : 2193,
+        "item" : "District Council 37"
+      }, {
+        "count" : 280,
+        "item" : "Intl Brotherhood of Teamsters"
+      }, {
+        "count" : 207,
+        "item" : "Service Employees Int'l Union"
+      }, {
+        "count" : 199,
+        "item" : "Communication Wrkrs of America"
+      }, {
+        "count" : 106,
+        "item" : "United Federation of Teachers"
+      }, {
+        "count" : 104,
+        "item" : "Patrolmen's Benevolent Assoc."
+      }, {
+        "count" : 83,
+        "item" : "Doctors Council Clinicians"
+      }, {
+        "count" : 81,
+        "item" : "Intl Union ofOpertg Engineers "
+      }, {
+        "count" : 70,
+        "item" : "Organization of Staff Analysts"
+      }, {
+        "count" : 44,
+        "item" : "Intl Brthd of Electrical Wrkrs"
+      }, {
+        "count" : 43,
+        "item" : "Council of School Supvs&Admins"
+      }, {
+        "count" : 36,
+        "item" : "Detectives EndowmentAssocation"
+      }, {
+        "count" : 35,
+        "item" : "New York State Nurses Assoc"
+      }, {
+        "count" : 31,
+        "item" : "Nat'l U/Hospital&Healthcare EE"
+      }, {
+        "count" : 26,
+        "item" : "Alliance ofTheatrical&StageEEs"
+      }, {
+        "count" : 24,
+        "item" : "Patrolmen's Bnvlnt Assoc of DA"
+      }, {
+        "count" : 18,
+        "item" : "Marine EngineersBeneficialAssn"
+      }, {
+        "count" : 18,
+        "item" : "Assistant Deputy Wardens Assoc"
+      }, {
+        "count" : 17,
+        "item" : "United Marine Division-L333ILA"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988705,
+    "name" : "MIN RATE",
+    "dataTypeName" : "money",
+    "fieldName" : "min_rate",
+    "position" : 13,
+    "renderTypeName" : "money",
+    "tableColumnId" : 1502126,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 7712,
+      "smallest" : "0",
+      "sum" : "333533612",
+      "null" : 0,
+      "average" : "43248.65300829876",
+      "largest" : "395700",
+      "top" : [ {
+        "count" : 1099,
+        "item" : "53373"
+      }, {
+        "count" : 884,
+        "item" : "0"
+      }, {
+        "count" : 463,
+        "item" : "46343"
+      }, {
+        "count" : 104,
+        "item" : "41975"
+      }, {
+        "count" : 103,
+        "item" : "33000"
+      }, {
+        "count" : 67,
+        "item" : "65698"
+      }, {
+        "count" : 64,
+        "item" : "55345"
+      }, {
+        "count" : 59,
+        "item" : "44558"
+      }, {
+        "count" : 53,
+        "item" : "28588"
+      }, {
+        "count" : 53,
+        "item" : "35285"
+      }, {
+        "count" : 45,
+        "item" : "58307"
+      }, {
+        "count" : 44,
+        "item" : "40224"
+      }, {
+        "count" : 38,
+        "item" : "38801"
+      }, {
+        "count" : 36,
+        "item" : "31852"
+      }, {
+        "count" : 35,
+        "item" : "49528"
+      }, {
+        "count" : 32,
+        "item" : "64424"
+      }, {
+        "count" : 30,
+        "item" : "44048"
+      }, {
+        "count" : 29,
+        "item" : "3000"
+      }, {
+        "count" : 27,
+        "item" : "87378"
+      }, {
+        "count" : 25,
+        "item" : "11"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 2988706,
+    "name" : "MAX RATE",
+    "dataTypeName" : "money",
+    "fieldName" : "max_rate",
+    "position" : 14,
+    "renderTypeName" : "money",
+    "tableColumnId" : 1502127,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 7712,
+      "smallest" : "0",
+      "sum" : "639315110",
+      "null" : 0,
+      "average" : "82898.74351659751",
+      "largest" : "250000",
+      "top" : [ {
+        "count" : 1095,
+        "item" : "212614"
+      }, {
+        "count" : 881,
+        "item" : "0"
+      }, {
+        "count" : 464,
+        "item" : "150148"
+      }, {
+        "count" : 112,
+        "item" : "76488"
+      }, {
+        "count" : 97,
+        "item" : "113500"
+      }, {
+        "count" : 65,
+        "item" : "82737"
+      }, {
+        "count" : 59,
+        "item" : "137387"
+      }, {
+        "count" : 58,
+        "item" : "72212"
+      }, {
+        "count" : 44,
+        "item" : "41263"
+      }, {
+        "count" : 41,
+        "item" : "49707"
+      }, {
+        "count" : 39,
+        "item" : "34624"
+      }, {
+        "count" : 38,
+        "item" : "52966"
+      }, {
+        "count" : 34,
+        "item" : "76924"
+      }, {
+        "count" : 31,
+        "item" : "103007"
+      }, {
+        "count" : 30,
+        "item" : "40274"
+      }, {
+        "count" : 27,
+        "item" : "88649"
+      }, {
+        "count" : 25,
+        "item" : "46566"
+      }, {
+        "count" : 24,
+        "item" : "92249"
+      }, {
+        "count" : 23,
+        "item" : "37"
+      }, {
+        "count" : 23,
+        "item" : "69211"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "FCD5D9C4-DF59-49B7-B8FB-17ED7A1277DD",
+      "name" : "Field_Descriptions.csv",
+      "filename" : "Field_Descriptions.csv"
+    } ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "civil", "service", "civil service", "title" ],
+  "flags" : [ "default" ]
+}

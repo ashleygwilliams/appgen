@@ -1,0 +1,1665 @@
+{
+  "id" : "x2hp-8ukt",
+  "name" : "Graduation Outcomes - Borough - Classes of 2005-2011 - Ethnicity",
+  "attribution" : "Department of Education (DOE)",
+  "attributionLink" : "http://schools.nyc.gov/NR/rdonlyres/F04F9067-BE45-450C-9F89-FEF6DE0229E9/0/Graduation_Rates_Public_Borough.xls",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1361413857,
+  "description" : "Latest available data and trends in graduation and dropout outcomes disaggregated by borough and ethnicity.",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2580390,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361413872,
+  "publicationGroup" : 690090,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1361413871,
+  "rowsUpdatedBy" : "ya7g-926w",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 690091,
+  "totalTimesRated" : 0,
+  "viewCount" : 4,
+  "viewLastModified" : 1363702333,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 45967755,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8027942,
+    "cachedContents" : {
+      "non_null" : 440,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Manhattan"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45967756,
+    "name" : "Cohort Year",
+    "dataTypeName" : "text",
+    "fieldName" : "cohort_year",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8027943,
+    "cachedContents" : {
+      "non_null" : 440,
+      "smallest" : "2001",
+      "null" : 0,
+      "largest" : "2007",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2001"
+      }, {
+        "count" : 19,
+        "item" : "2002"
+      }, {
+        "count" : 18,
+        "item" : "2003"
+      }, {
+        "count" : 17,
+        "item" : "2004"
+      }, {
+        "count" : 16,
+        "item" : "2005"
+      }, {
+        "count" : 15,
+        "item" : "2006"
+      }, {
+        "count" : 14,
+        "item" : "2007"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45967757,
+    "name" : "Cohort Category",
+    "dataTypeName" : "text",
+    "fieldName" : "cohort_category",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8027944,
+    "cachedContents" : {
+      "non_null" : 440,
+      "smallest" : "4 Year August",
+      "null" : 0,
+      "largest" : "6 Year",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4 Year  June"
+      }, {
+        "count" : 19,
+        "item" : "5 Year"
+      }, {
+        "count" : 18,
+        "item" : "6 Year"
+      }, {
+        "count" : 17,
+        "item" : "4 Year August"
+      }, {
+        "count" : 16,
+        "item" : "5 Year  June"
+      }, {
+        "count" : 15,
+        "item" : "5 Year August"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45967758,
+    "name" : "Demographic",
+    "dataTypeName" : "text",
+    "fieldName" : "demographic",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8027945,
+    "cachedContents" : {
+      "non_null" : 440,
+      "smallest" : "Asian",
+      "null" : 0,
+      "largest" : "White",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Asian"
+      }, {
+        "count" : 19,
+        "item" : "Black"
+      }, {
+        "count" : 18,
+        "item" : "Hispanic"
+      }, {
+        "count" : 17,
+        "item" : "White"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45967759,
+    "name" : "Total Cohort Num",
+    "dataTypeName" : "text",
+    "fieldName" : "total_cohort_num",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8027946,
+    "cachedContents" : {
+      "non_null" : 440,
+      "smallest" : "1,000",
+      "null" : 0,
+      "largest" : "932",
+      "top" : [ {
+        "count" : 20,
+        "item" : "333"
+      }, {
+        "count" : 19,
+        "item" : "319"
+      }, {
+        "count" : 18,
+        "item" : "362"
+      }, {
+        "count" : 17,
+        "item" : "368"
+      }, {
+        "count" : 16,
+        "item" : "621"
+      }, {
+        "count" : 15,
+        "item" : "686"
+      }, {
+        "count" : 14,
+        "item" : "731"
+      }, {
+        "count" : 13,
+        "item" : "604"
+      }, {
+        "count" : 12,
+        "item" : "760"
+      }, {
+        "count" : 11,
+        "item" : "915"
+      }, {
+        "count" : 10,
+        "item" : "906"
+      }, {
+        "count" : 9,
+        "item" : "1,000"
+      }, {
+        "count" : 8,
+        "item" : "2,304"
+      }, {
+        "count" : 7,
+        "item" : "2,389"
+      }, {
+        "count" : 6,
+        "item" : "2,336"
+      }, {
+        "count" : 5,
+        "item" : "2,368"
+      }, {
+        "count" : 4,
+        "item" : "2,390"
+      }, {
+        "count" : 3,
+        "item" : "2,388"
+      }, {
+        "count" : 2,
+        "item" : "2,461"
+      }, {
+        "count" : 1,
+        "item" : "2,478"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45967760,
+    "name" : "Total Grads Num",
+    "dataTypeName" : "text",
+    "fieldName" : "total_grads_num",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8027947,
+    "cachedContents" : {
+      "non_null" : 440,
+      "smallest" : "1,202",
+      "null" : 0,
+      "largest" : "773",
+      "top" : [ {
+        "count" : 20,
+        "item" : "404"
+      }, {
+        "count" : 19,
+        "item" : "378"
+      }, {
+        "count" : 18,
+        "item" : "410"
+      }, {
+        "count" : 17,
+        "item" : "445"
+      }, {
+        "count" : 16,
+        "item" : "349"
+      }, {
+        "count" : 15,
+        "item" : "429"
+      }, {
+        "count" : 14,
+        "item" : "479"
+      }, {
+        "count" : 13,
+        "item" : "609"
+      }, {
+        "count" : 12,
+        "item" : "1,700"
+      }, {
+        "count" : 11,
+        "item" : "1,835"
+      }, {
+        "count" : 10,
+        "item" : "1,842"
+      }, {
+        "count" : 9,
+        "item" : "1,768"
+      }, {
+        "count" : 8,
+        "item" : "1,904"
+      }, {
+        "count" : 7,
+        "item" : "1,933"
+      }, {
+        "count" : 6,
+        "item" : "1,726"
+      }, {
+        "count" : 5,
+        "item" : "1,858"
+      }, {
+        "count" : 4,
+        "item" : "1,891"
+      }, {
+        "count" : 3,
+        "item" : "1,686"
+      }, {
+        "count" : 2,
+        "item" : "1,837"
+      }, {
+        "count" : 1,
+        "item" : "1,862"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45967761,
+    "name" : "Total Grads Pct of cohort",
+    "dataTypeName" : "text",
+    "fieldName" : "total_grads_pct_of_cohort",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8027948,
+    "cachedContents" : {
+      "non_null" : 440,
+      "smallest" : "36.80%",
+      "null" : 0,
+      "largest" : "92.90%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "90.80%"
+      }, {
+        "count" : 19,
+        "item" : "51.70%"
+      }, {
+        "count" : 18,
+        "item" : "56.10%"
+      }, {
+        "count" : 17,
+        "item" : "62.30%"
+      }, {
+        "count" : 16,
+        "item" : "66.10%"
+      }, {
+        "count" : 15,
+        "item" : "67.00%"
+      }, {
+        "count" : 14,
+        "item" : "58.80%"
+      }, {
+        "count" : 13,
+        "item" : "60.90%"
+      }, {
+        "count" : 12,
+        "item" : "73.80%"
+      }, {
+        "count" : 11,
+        "item" : "79.60%"
+      }, {
+        "count" : 10,
+        "item" : "79.90%"
+      }, {
+        "count" : 9,
+        "item" : "74.00%"
+      }, {
+        "count" : 8,
+        "item" : "79.70%"
+      }, {
+        "count" : 7,
+        "item" : "80.90%"
+      }, {
+        "count" : 6,
+        "item" : "73.90%"
+      }, {
+        "count" : 5,
+        "item" : "79.50%"
+      }, {
+        "count" : 4,
+        "item" : "80.60%"
+      }, {
+        "count" : 3,
+        "item" : "75.20%"
+      }, {
+        "count" : 2,
+        "item" : "81.20%"
+      }, {
+        "count" : 1,
+        "item" : "78.30%"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45967762,
+    "name" : "Total Regents Num",
+    "dataTypeName" : "text",
+    "fieldName" : "total_regents_num",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8027949,
+    "cachedContents" : {
+      "non_null" : 440,
+      "smallest" : "1,038",
+      "null" : 0,
+      "largest" : "945",
+      "top" : [ {
+        "count" : 20,
+        "item" : "229"
+      }, {
+        "count" : 19,
+        "item" : "260"
+      }, {
+        "count" : 18,
+        "item" : "312"
+      }, {
+        "count" : 17,
+        "item" : "358"
+      }, {
+        "count" : 16,
+        "item" : "212"
+      }, {
+        "count" : 15,
+        "item" : "451"
+      }, {
+        "count" : 14,
+        "item" : "504"
+      }, {
+        "count" : 13,
+        "item" : "516"
+      }, {
+        "count" : 12,
+        "item" : "1,309"
+      }, {
+        "count" : 11,
+        "item" : "1,353"
+      }, {
+        "count" : 10,
+        "item" : "1,356"
+      }, {
+        "count" : 9,
+        "item" : "1,384"
+      }, {
+        "count" : 8,
+        "item" : "1,434"
+      }, {
+        "count" : 7,
+        "item" : "1,439"
+      }, {
+        "count" : 6,
+        "item" : "1,366"
+      }, {
+        "count" : 5,
+        "item" : "1,417"
+      }, {
+        "count" : 4,
+        "item" : "1,423"
+      }, {
+        "count" : 3,
+        "item" : "1,426"
+      }, {
+        "count" : 2,
+        "item" : "1,521"
+      }, {
+        "count" : 1,
+        "item" : "1,541"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45967763,
+    "name" : "Total Regents Pct of cohort",
+    "dataTypeName" : "text",
+    "fieldName" : "total_regents_pct_of_cohort",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8027950,
+    "cachedContents" : {
+      "non_null" : 440,
+      "smallest" : "17.30%",
+      "null" : 0,
+      "largest" : "86.60%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "37.10%"
+      }, {
+        "count" : 19,
+        "item" : "35.60%"
+      }, {
+        "count" : 18,
+        "item" : "37.60%"
+      }, {
+        "count" : 17,
+        "item" : "35.10%"
+      }, {
+        "count" : 16,
+        "item" : "39.10%"
+      }, {
+        "count" : 15,
+        "item" : "49.30%"
+      }, {
+        "count" : 14,
+        "item" : "50.40%"
+      }, {
+        "count" : 13,
+        "item" : "51.60%"
+      }, {
+        "count" : 12,
+        "item" : "56.80%"
+      }, {
+        "count" : 11,
+        "item" : "58.70%"
+      }, {
+        "count" : 10,
+        "item" : "58.90%"
+      }, {
+        "count" : 9,
+        "item" : "57.90%"
+      }, {
+        "count" : 8,
+        "item" : "60.00%"
+      }, {
+        "count" : 7,
+        "item" : "60.20%"
+      }, {
+        "count" : 6,
+        "item" : "58.50%"
+      }, {
+        "count" : 5,
+        "item" : "60.70%"
+      }, {
+        "count" : 4,
+        "item" : "60.60%"
+      }, {
+        "count" : 3,
+        "item" : "60.90%"
+      }, {
+        "count" : 2,
+        "item" : "61.60%"
+      }, {
+        "count" : 1,
+        "item" : "62.20%"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45967764,
+    "name" : "Total Regents Pct of grads",
+    "dataTypeName" : "text",
+    "fieldName" : "total_regents_pct_of_grads",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8027951,
+    "cachedContents" : {
+      "non_null" : 440,
+      "smallest" : "38.30%",
+      "null" : 0,
+      "largest" : "96.70%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "84.00%"
+      }, {
+        "count" : 19,
+        "item" : "61.60%"
+      }, {
+        "count" : 18,
+        "item" : "66.10%"
+      }, {
+        "count" : 17,
+        "item" : "62.30%"
+      }, {
+        "count" : 16,
+        "item" : "74.20%"
+      }, {
+        "count" : 15,
+        "item" : "73.60%"
+      }, {
+        "count" : 14,
+        "item" : "85.70%"
+      }, {
+        "count" : 13,
+        "item" : "84.70%"
+      }, {
+        "count" : 12,
+        "item" : "77.00%"
+      }, {
+        "count" : 11,
+        "item" : "73.70%"
+      }, {
+        "count" : 10,
+        "item" : "78.30%"
+      }, {
+        "count" : 9,
+        "item" : "75.30%"
+      }, {
+        "count" : 8,
+        "item" : "74.40%"
+      }, {
+        "count" : 7,
+        "item" : "79.10%"
+      }, {
+        "count" : 6,
+        "item" : "76.30%"
+      }, {
+        "count" : 5,
+        "item" : "81.00%"
+      }, {
+        "count" : 4,
+        "item" : "77.10%"
+      }, {
+        "count" : 3,
+        "item" : "76.60%"
+      }, {
+        "count" : 2,
+        "item" : "82.00%"
+      }, {
+        "count" : 1,
+        "item" : "81.40%"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45967765,
+    "name" : "Advanced Regents Num",
+    "dataTypeName" : "text",
+    "fieldName" : "advanced_regents_num",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8027952,
+    "cachedContents" : {
+      "non_null" : 440,
+      "smallest" : "1,004",
+      "null" : 0,
+      "largest" : "987",
+      "top" : [ {
+        "count" : 20,
+        "item" : "400"
+      }, {
+        "count" : 19,
+        "item" : "715"
+      }, {
+        "count" : 18,
+        "item" : "638"
+      }, {
+        "count" : 17,
+        "item" : "659"
+      }, {
+        "count" : 16,
+        "item" : "140"
+      }, {
+        "count" : 15,
+        "item" : "142"
+      }, {
+        "count" : 14,
+        "item" : "154"
+      }, {
+        "count" : 13,
+        "item" : "178"
+      }, {
+        "count" : 12,
+        "item" : "187"
+      }, {
+        "count" : 11,
+        "item" : "243"
+      }, {
+        "count" : 10,
+        "item" : "244"
+      }, {
+        "count" : 9,
+        "item" : "214"
+      }, {
+        "count" : 8,
+        "item" : "39"
+      }, {
+        "count" : 7,
+        "item" : "40"
+      }, {
+        "count" : 6,
+        "item" : "59"
+      }, {
+        "count" : 5,
+        "item" : "79"
+      }, {
+        "count" : 4,
+        "item" : "62"
+      }, {
+        "count" : 3,
+        "item" : "61"
+      }, {
+        "count" : 2,
+        "item" : "85"
+      }, {
+        "count" : 1,
+        "item" : "55"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45967766,
+    "name" : "Advanced Regents Pct of cohort",
+    "dataTypeName" : "text",
+    "fieldName" : "advanced_regents_pct_of_cohort",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8027953,
+    "cachedContents" : {
+      "non_null" : 440,
+      "smallest" : "10.00%",
+      "null" : 0,
+      "largest" : "9.90%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8.00%"
+      }, {
+        "count" : 19,
+        "item" : "7.90%"
+      }, {
+        "count" : 18,
+        "item" : "8.10%"
+      }, {
+        "count" : 17,
+        "item" : "7.80%"
+      }, {
+        "count" : 16,
+        "item" : "11.10%"
+      }, {
+        "count" : 15,
+        "item" : "11.20%"
+      }, {
+        "count" : 14,
+        "item" : "26.80%"
+      }, {
+        "count" : 13,
+        "item" : "27.40%"
+      }, {
+        "count" : 12,
+        "item" : "42.00%"
+      }, {
+        "count" : 11,
+        "item" : "48.40%"
+      }, {
+        "count" : 10,
+        "item" : "55.40%"
+      }, {
+        "count" : 9,
+        "item" : "54.80%"
+      }, {
+        "count" : 8,
+        "item" : "52.10%"
+      }, {
+        "count" : 7,
+        "item" : "6.40%"
+      }, {
+        "count" : 6,
+        "item" : "5.70%"
+      }, {
+        "count" : 5,
+        "item" : "10.80%"
+      }, {
+        "count" : 4,
+        "item" : "7.60%"
+      }, {
+        "count" : 3,
+        "item" : "11.00%"
+      }, {
+        "count" : 2,
+        "item" : "10.90%"
+      }, {
+        "count" : 1,
+        "item" : "6.70%"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45967767,
+    "name" : "Advanced Regents Pct of grads",
+    "dataTypeName" : "text",
+    "fieldName" : "advanced_regents_pct_of_grads",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8027954,
+    "cachedContents" : {
+      "non_null" : 440,
+      "smallest" : "10.00%",
+      "null" : 0,
+      "largest" : "9.90%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11.30%"
+      }, {
+        "count" : 19,
+        "item" : "11.70%"
+      }, {
+        "count" : 18,
+        "item" : "12.70%"
+      }, {
+        "count" : 17,
+        "item" : "20.20%"
+      }, {
+        "count" : 16,
+        "item" : "18.80%"
+      }, {
+        "count" : 15,
+        "item" : "18.60%"
+      }, {
+        "count" : 14,
+        "item" : "17.90%"
+      }, {
+        "count" : 13,
+        "item" : "17.40%"
+      }, {
+        "count" : 12,
+        "item" : "38.20%"
+      }, {
+        "count" : 11,
+        "item" : "35.60%"
+      }, {
+        "count" : 10,
+        "item" : "35.50%"
+      }, {
+        "count" : 9,
+        "item" : "33.00%"
+      }, {
+        "count" : 8,
+        "item" : "32.50%"
+      }, {
+        "count" : 7,
+        "item" : "34.00%"
+      }, {
+        "count" : 6,
+        "item" : "31.80%"
+      }, {
+        "count" : 5,
+        "item" : "31.30%"
+      }, {
+        "count" : 4,
+        "item" : "40.70%"
+      }, {
+        "count" : 3,
+        "item" : "37.60%"
+      }, {
+        "count" : 2,
+        "item" : "37.10%"
+      }, {
+        "count" : 1,
+        "item" : "38.50%"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45967768,
+    "name" : "Regents w/o Advanced Num",
+    "dataTypeName" : "text",
+    "fieldName" : "regents_w_o_advanced_num",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8027955,
+    "cachedContents" : {
+      "non_null" : 440,
+      "smallest" : "1,003",
+      "null" : 0,
+      "largest" : "997",
+      "top" : [ {
+        "count" : 20,
+        "item" : "87"
+      }, {
+        "count" : 19,
+        "item" : "200"
+      }, {
+        "count" : 18,
+        "item" : "227"
+      }, {
+        "count" : 17,
+        "item" : "258"
+      }, {
+        "count" : 16,
+        "item" : "163"
+      }, {
+        "count" : 15,
+        "item" : "337"
+      }, {
+        "count" : 14,
+        "item" : "399"
+      }, {
+        "count" : 13,
+        "item" : "410"
+      }, {
+        "count" : 12,
+        "item" : "659"
+      }, {
+        "count" : 11,
+        "item" : "699"
+      }, {
+        "count" : 10,
+        "item" : "702"
+      }, {
+        "count" : 9,
+        "item" : "756"
+      }, {
+        "count" : 8,
+        "item" : "805"
+      }, {
+        "count" : 7,
+        "item" : "810"
+      }, {
+        "count" : 6,
+        "item" : "780"
+      }, {
+        "count" : 5,
+        "item" : "826"
+      }, {
+        "count" : 4,
+        "item" : "832"
+      }, {
+        "count" : 3,
+        "item" : "679"
+      }, {
+        "count" : 2,
+        "item" : "727"
+      }, {
+        "count" : 1,
+        "item" : "736"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45967769,
+    "name" : "Regents w/o Advanced Pct of cohort",
+    "dataTypeName" : "text",
+    "fieldName" : "regents_w_o_advanced_pct_of_cohort",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8027956,
+    "cachedContents" : {
+      "non_null" : 440,
+      "smallest" : "11.60%",
+      "null" : 0,
+      "largest" : "48.00%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "32.60%"
+      }, {
+        "count" : 19,
+        "item" : "28.80%"
+      }, {
+        "count" : 18,
+        "item" : "26.80%"
+      }, {
+        "count" : 17,
+        "item" : "27.40%"
+      }, {
+        "count" : 16,
+        "item" : "29.80%"
+      }, {
+        "count" : 15,
+        "item" : "30.70%"
+      }, {
+        "count" : 14,
+        "item" : "27.00%"
+      }, {
+        "count" : 13,
+        "item" : "28.30%"
+      }, {
+        "count" : 12,
+        "item" : "30.30%"
+      }, {
+        "count" : 11,
+        "item" : "30.50%"
+      }, {
+        "count" : 10,
+        "item" : "31.60%"
+      }, {
+        "count" : 9,
+        "item" : "33.70%"
+      }, {
+        "count" : 8,
+        "item" : "33.90%"
+      }, {
+        "count" : 7,
+        "item" : "33.40%"
+      }, {
+        "count" : 6,
+        "item" : "35.40%"
+      }, {
+        "count" : 5,
+        "item" : "32.10%"
+      }, {
+        "count" : 4,
+        "item" : "34.00%"
+      }, {
+        "count" : 3,
+        "item" : "34.90%"
+      }, {
+        "count" : 2,
+        "item" : "35.80%"
+      }, {
+        "count" : 1,
+        "item" : "36.20%"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45967770,
+    "name" : "Regents w/o Advanced Pct of grads",
+    "dataTypeName" : "text",
+    "fieldName" : "regents_w_o_advanced_pct_of_grads",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8027957,
+    "cachedContents" : {
+      "non_null" : 440,
+      "smallest" : "17.10%",
+      "null" : 0,
+      "largest" : "72.30%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "44.40%"
+      }, {
+        "count" : 19,
+        "item" : "48.20%"
+      }, {
+        "count" : 18,
+        "item" : "52.90%"
+      }, {
+        "count" : 17,
+        "item" : "56.60%"
+      }, {
+        "count" : 16,
+        "item" : "55.40%"
+      }, {
+        "count" : 15,
+        "item" : "55.00%"
+      }, {
+        "count" : 14,
+        "item" : "67.90%"
+      }, {
+        "count" : 13,
+        "item" : "67.30%"
+      }, {
+        "count" : 12,
+        "item" : "38.80%"
+      }, {
+        "count" : 11,
+        "item" : "38.10%"
+      }, {
+        "count" : 10,
+        "item" : "42.80%"
+      }, {
+        "count" : 9,
+        "item" : "42.30%"
+      }, {
+        "count" : 8,
+        "item" : "41.90%"
+      }, {
+        "count" : 7,
+        "item" : "45.20%"
+      }, {
+        "count" : 6,
+        "item" : "44.50%"
+      }, {
+        "count" : 5,
+        "item" : "44.00%"
+      }, {
+        "count" : 4,
+        "item" : "40.30%"
+      }, {
+        "count" : 3,
+        "item" : "39.60%"
+      }, {
+        "count" : 2,
+        "item" : "39.50%"
+      }, {
+        "count" : 1,
+        "item" : "43.50%"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45967771,
+    "name" : "Local Num",
+    "dataTypeName" : "text",
+    "fieldName" : "local_num",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8027958,
+    "cachedContents" : {
+      "non_null" : 440,
+      "smallest" : "1,000",
+      "null" : 0,
+      "largest" : "993",
+      "top" : [ {
+        "count" : 20,
+        "item" : "32"
+      }, {
+        "count" : 19,
+        "item" : "122"
+      }, {
+        "count" : 18,
+        "item" : "186"
+      }, {
+        "count" : 17,
+        "item" : "121"
+      }, {
+        "count" : 16,
+        "item" : "156"
+      }, {
+        "count" : 15,
+        "item" : "162"
+      }, {
+        "count" : 14,
+        "item" : "84"
+      }, {
+        "count" : 13,
+        "item" : "93"
+      }, {
+        "count" : 12,
+        "item" : "391"
+      }, {
+        "count" : 11,
+        "item" : "485"
+      }, {
+        "count" : 10,
+        "item" : "492"
+      }, {
+        "count" : 9,
+        "item" : "384"
+      }, {
+        "count" : 8,
+        "item" : "477"
+      }, {
+        "count" : 7,
+        "item" : "501"
+      }, {
+        "count" : 6,
+        "item" : "360"
+      }, {
+        "count" : 5,
+        "item" : "441"
+      }, {
+        "count" : 4,
+        "item" : "468"
+      }, {
+        "count" : 3,
+        "item" : "320"
+      }, {
+        "count" : 2,
+        "item" : "420"
+      }, {
+        "count" : 1,
+        "item" : "436"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45967772,
+    "name" : "Local Pct of cohort",
+    "dataTypeName" : "text",
+    "fieldName" : "local_pct_of_cohort",
+    "position" : 18,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8027959,
+    "cachedContents" : {
+      "non_null" : 440,
+      "smallest" : "10.10%",
+      "null" : 0,
+      "largest" : "9.90%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "18.00%"
+      }, {
+        "count" : 19,
+        "item" : "10.60%"
+      }, {
+        "count" : 18,
+        "item" : "16.60%"
+      }, {
+        "count" : 17,
+        "item" : "14.10%"
+      }, {
+        "count" : 16,
+        "item" : "15.70%"
+      }, {
+        "count" : 15,
+        "item" : "8.40%"
+      }, {
+        "count" : 14,
+        "item" : "9.30%"
+      }, {
+        "count" : 13,
+        "item" : "17.00%"
+      }, {
+        "count" : 12,
+        "item" : "21.10%"
+      }, {
+        "count" : 11,
+        "item" : "21.40%"
+      }, {
+        "count" : 10,
+        "item" : "16.10%"
+      }, {
+        "count" : 9,
+        "item" : "20.00%"
+      }, {
+        "count" : 8,
+        "item" : "21.00%"
+      }, {
+        "count" : 7,
+        "item" : "15.40%"
+      }, {
+        "count" : 6,
+        "item" : "18.90%"
+      }, {
+        "count" : 5,
+        "item" : "19.90%"
+      }, {
+        "count" : 4,
+        "item" : "14.30%"
+      }, {
+        "count" : 3,
+        "item" : "18.30%"
+      }, {
+        "count" : 2,
+        "item" : "19.00%"
+      }, {
+        "count" : 1,
+        "item" : "14.90%"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45967773,
+    "name" : "Local Pct of grads",
+    "dataTypeName" : "text",
+    "fieldName" : "local_pct_of_grads",
+    "position" : 19,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8027960,
+    "cachedContents" : {
+      "non_null" : 440,
+      "smallest" : "10.00%",
+      "null" : 0,
+      "largest" : "9.90%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "16.00%"
+      }, {
+        "count" : 19,
+        "item" : "38.40%"
+      }, {
+        "count" : 18,
+        "item" : "33.90%"
+      }, {
+        "count" : 17,
+        "item" : "37.70%"
+      }, {
+        "count" : 16,
+        "item" : "25.80%"
+      }, {
+        "count" : 15,
+        "item" : "26.40%"
+      }, {
+        "count" : 14,
+        "item" : "14.30%"
+      }, {
+        "count" : 13,
+        "item" : "15.30%"
+      }, {
+        "count" : 12,
+        "item" : "23.00%"
+      }, {
+        "count" : 11,
+        "item" : "26.70%"
+      }, {
+        "count" : 10,
+        "item" : "21.70%"
+      }, {
+        "count" : 9,
+        "item" : "25.10%"
+      }, {
+        "count" : 8,
+        "item" : "25.90%"
+      }, {
+        "count" : 7,
+        "item" : "20.90%"
+      }, {
+        "count" : 6,
+        "item" : "23.70%"
+      }, {
+        "count" : 5,
+        "item" : "24.70%"
+      }, {
+        "count" : 4,
+        "item" : "19.00%"
+      }, {
+        "count" : 3,
+        "item" : "22.90%"
+      }, {
+        "count" : 2,
+        "item" : "23.40%"
+      }, {
+        "count" : 1,
+        "item" : "18.00%"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45967774,
+    "name" : "Still Enrolled Num",
+    "dataTypeName" : "text",
+    "fieldName" : "still_enrolled_num",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8027961,
+    "cachedContents" : {
+      "non_null" : 440,
+      "smallest" : "1,001",
+      "null" : 0,
+      "largest" : "99",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10"
+      }, {
+        "count" : 19,
+        "item" : "44"
+      }, {
+        "count" : 18,
+        "item" : "194"
+      }, {
+        "count" : 17,
+        "item" : "177"
+      }, {
+        "count" : 16,
+        "item" : "75"
+      }, {
+        "count" : 15,
+        "item" : "70"
+      }, {
+        "count" : 14,
+        "item" : "243"
+      }, {
+        "count" : 13,
+        "item" : "222"
+      }, {
+        "count" : 12,
+        "item" : "351"
+      }, {
+        "count" : 11,
+        "item" : "73"
+      }, {
+        "count" : 10,
+        "item" : "41"
+      }, {
+        "count" : 9,
+        "item" : "364"
+      }, {
+        "count" : 8,
+        "item" : "127"
+      }, {
+        "count" : 7,
+        "item" : "69"
+      }, {
+        "count" : 6,
+        "item" : "381"
+      }, {
+        "count" : 5,
+        "item" : "120"
+      }, {
+        "count" : 4,
+        "item" : "56"
+      }, {
+        "count" : 3,
+        "item" : "315"
+      }, {
+        "count" : 2,
+        "item" : "89"
+      }, {
+        "count" : 1,
+        "item" : "96"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45967775,
+    "name" : "Still Enrolled Pct of cohort",
+    "dataTypeName" : "text",
+    "fieldName" : "still_enrolled_pct_of_cohort",
+    "position" : 21,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8027962,
+    "cachedContents" : {
+      "non_null" : 440,
+      "smallest" : "1.00%",
+      "null" : 0,
+      "largest" : "9.80%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "14.20%"
+      }, {
+        "count" : 19,
+        "item" : "4.70%"
+      }, {
+        "count" : 18,
+        "item" : "21.40%"
+      }, {
+        "count" : 17,
+        "item" : "19.50%"
+      }, {
+        "count" : 16,
+        "item" : "8.20%"
+      }, {
+        "count" : 15,
+        "item" : "7.70%"
+      }, {
+        "count" : 14,
+        "item" : "24.30%"
+      }, {
+        "count" : 13,
+        "item" : "22.20%"
+      }, {
+        "count" : 12,
+        "item" : "15.20%"
+      }, {
+        "count" : 11,
+        "item" : "3.20%"
+      }, {
+        "count" : 10,
+        "item" : "1.80%"
+      }, {
+        "count" : 9,
+        "item" : "5.30%"
+      }, {
+        "count" : 8,
+        "item" : "2.90%"
+      }, {
+        "count" : 7,
+        "item" : "16.30%"
+      }, {
+        "count" : 6,
+        "item" : "5.10%"
+      }, {
+        "count" : 5,
+        "item" : "2.40%"
+      }, {
+        "count" : 4,
+        "item" : "14.00%"
+      }, {
+        "count" : 3,
+        "item" : "3.90%"
+      }, {
+        "count" : 2,
+        "item" : "4.20%"
+      }, {
+        "count" : 1,
+        "item" : "11.70%"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45967776,
+    "name" : "Dropped Out Num",
+    "dataTypeName" : "text",
+    "fieldName" : "dropped_out_num",
+    "position" : 22,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8027963,
+    "cachedContents" : {
+      "non_null" : 440,
+      "smallest" : "1,003",
+      "null" : 0,
+      "largest" : "993",
+      "top" : [ {
+        "count" : 20,
+        "item" : "19"
+      }, {
+        "count" : 19,
+        "item" : "6"
+      }, {
+        "count" : 18,
+        "item" : "13"
+      }, {
+        "count" : 17,
+        "item" : "159"
+      }, {
+        "count" : 16,
+        "item" : "87"
+      }, {
+        "count" : 15,
+        "item" : "104"
+      }, {
+        "count" : 14,
+        "item" : "156"
+      }, {
+        "count" : 13,
+        "item" : "171"
+      }, {
+        "count" : 12,
+        "item" : "127"
+      }, {
+        "count" : 11,
+        "item" : "116"
+      }, {
+        "count" : 10,
+        "item" : "349"
+      }, {
+        "count" : 9,
+        "item" : "187"
+      }, {
+        "count" : 8,
+        "item" : "266"
+      }, {
+        "count" : 7,
+        "item" : "294"
+      }, {
+        "count" : 6,
+        "item" : "268"
+      }, {
+        "count" : 5,
+        "item" : "167"
+      }, {
+        "count" : 4,
+        "item" : "237"
+      }, {
+        "count" : 3,
+        "item" : "252"
+      }, {
+        "count" : 2,
+        "item" : "139"
+      }, {
+        "count" : 1,
+        "item" : "211"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45967777,
+    "name" : "Dropped Out Pct of cohort",
+    "dataTypeName" : "text",
+    "fieldName" : "dropped_out_pct_of_cohort",
+    "position" : 23,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8027964,
+    "cachedContents" : {
+      "non_null" : 440,
+      "smallest" : "1.60%",
+      "null" : 0,
+      "largest" : "9.90%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "13.50%"
+      }, {
+        "count" : 19,
+        "item" : "10.50%"
+      }, {
+        "count" : 18,
+        "item" : "11.80%"
+      }, {
+        "count" : 17,
+        "item" : "8.10%"
+      }, {
+        "count" : 16,
+        "item" : "1.60%"
+      }, {
+        "count" : 15,
+        "item" : "21.80%"
+      }, {
+        "count" : 14,
+        "item" : "11.20%"
+      }, {
+        "count" : 13,
+        "item" : "19.30%"
+      }, {
+        "count" : 12,
+        "item" : "14.20%"
+      }, {
+        "count" : 11,
+        "item" : "13.90%"
+      }, {
+        "count" : 10,
+        "item" : "12.80%"
+      }, {
+        "count" : 9,
+        "item" : "11.10%"
+      }, {
+        "count" : 8,
+        "item" : "12.30%"
+      }, {
+        "count" : 7,
+        "item" : "7.30%"
+      }, {
+        "count" : 6,
+        "item" : "11.50%"
+      }, {
+        "count" : 5,
+        "item" : "12.50%"
+      }, {
+        "count" : 4,
+        "item" : "7.40%"
+      }, {
+        "count" : 3,
+        "item" : "10.30%"
+      }, {
+        "count" : 2,
+        "item" : "11.00%"
+      }, {
+        "count" : 1,
+        "item" : "5.90%"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ya7g-926w",
+    "displayName" : "Aakash Dalwani",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1363663581,
+    "roleName" : "publisher",
+    "screenName" : "Aakash Dalwani",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ya7g-926w",
+    "displayName" : "Aakash Dalwani",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1363663581,
+    "roleName" : "publisher",
+    "screenName" : "Aakash Dalwani",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "graduation outcome", "school", "borough", "ethnicity", "lifelong learning" ],
+  "flags" : [ "default" ]
+}

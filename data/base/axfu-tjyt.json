@@ -1,0 +1,990 @@
+{
+  "id" : "axfu-tjyt",
+  "name" : "Parking Facilities",
+  "attribution" : "Department of Consumer Affairs (DCA)",
+  "averageRating" : 0,
+  "category" : "Facilities and Structures",
+  "createdAt" : 1318027521,
+  "description" : "A list of parking facilities that have a current DCA license as of the run date.",
+  "displayType" : "table",
+  "downloadCount" : 376,
+  "numberOfComments" : 0,
+  "oid" : 341830,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318028815,
+  "publicationGroup" : 243914,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1318027939,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 243914,
+  "totalTimesRated" : 0,
+  "viewCount" : 557,
+  "viewLastModified" : 1318028815,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2980233,
+    "name" : "Facility Type",
+    "dataTypeName" : "text",
+    "fieldName" : "facility_type",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561354,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 1912,
+      "smallest" : "Garage - Parking Lot Combo",
+      "null" : 0,
+      "largest" : "Parking Lot",
+      "top" : [ {
+        "count" : 1221,
+        "item" : "Parking Garage"
+      }, {
+        "count" : 644,
+        "item" : "Parking Lot"
+      }, {
+        "count" : 47,
+        "item" : "Garage - Parking Lot Combo"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980234,
+    "name" : "License Number",
+    "dataTypeName" : "number",
+    "fieldName" : "license_number",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561355,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 1912,
+      "smallest" : "363056",
+      "sum" : "2042741446",
+      "null" : 0,
+      "average" : "1068379.417364017",
+      "largest" : "1361558",
+      "top" : [ {
+        "count" : 1,
+        "item" : "1344944"
+      }, {
+        "count" : 1,
+        "item" : "898031"
+      }, {
+        "count" : 1,
+        "item" : "1091563"
+      }, {
+        "count" : 1,
+        "item" : "1253416"
+      }, {
+        "count" : 1,
+        "item" : "901540"
+      }, {
+        "count" : 1,
+        "item" : "784363"
+      }, {
+        "count" : 1,
+        "item" : "1175732"
+      }, {
+        "count" : 1,
+        "item" : "469197"
+      }, {
+        "count" : 1,
+        "item" : "367230"
+      }, {
+        "count" : 1,
+        "item" : "1322421"
+      }, {
+        "count" : 1,
+        "item" : "1075136"
+      }, {
+        "count" : 1,
+        "item" : "811933"
+      }, {
+        "count" : 1,
+        "item" : "469824"
+      }, {
+        "count" : 1,
+        "item" : "1343233"
+      }, {
+        "count" : 1,
+        "item" : "1001165"
+      }, {
+        "count" : 1,
+        "item" : "1128977"
+      }, {
+        "count" : 1,
+        "item" : "1245066"
+      }, {
+        "count" : 1,
+        "item" : "1007334"
+      }, {
+        "count" : 1,
+        "item" : "1266227"
+      }, {
+        "count" : 1,
+        "item" : "1276761"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 2980235,
+    "name" : "Entity Name",
+    "dataTypeName" : "text",
+    "fieldName" : "entity_name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561356,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 1912,
+      "smallest" : "100 ML GARAGE CORP",
+      "null" : 0,
+      "largest" : "ZOOM CAR PARK INC",
+      "top" : [ {
+        "count" : 52,
+        "item" : "CENTRAL PARKING SYSTEM OF NEW YORK INC"
+      }, {
+        "count" : 49,
+        "item" : "CENTRAL PARKING SYSTEM OF NEW YORK, INC"
+      }, {
+        "count" : 41,
+        "item" : "CENTRAL PARKING SYSTEM OF NEW YORK, INC."
+      }, {
+        "count" : 25,
+        "item" : "STANDARD PARKING CORPORATION"
+      }, {
+        "count" : 19,
+        "item" : "KINNEY PARKING SYSTEM INC"
+      }, {
+        "count" : 13,
+        "item" : "EDISON NY PARKING LLC"
+      }, {
+        "count" : 8,
+        "item" : "KINNEY PARKING SYSTEM, INC"
+      }, {
+        "count" : 7,
+        "item" : "PARKING COMPANY OF AMERICA AIRPORTS, LLC"
+      }, {
+        "count" : 7,
+        "item" : "RIVERBAY CORP"
+      }, {
+        "count" : 6,
+        "item" : "IMPERIAL PARKING (U.S.) INC"
+      }, {
+        "count" : 6,
+        "item" : "IMPARK HSW LLC"
+      }, {
+        "count" : 6,
+        "item" : "PROPARK AMERICA NEW YORK, LLC"
+      }, {
+        "count" : 5,
+        "item" : "KINNEY PARKING SYSTEM INC."
+      }, {
+        "count" : 5,
+        "item" : "PROPARK AMERICA NEW YORK LLC"
+      }, {
+        "count" : 5,
+        "item" : "SYLVAN ELM GARAGE LLC"
+      }, {
+        "count" : 5,
+        "item" : "KINNEY PARKING SYSTEM, INC."
+      }, {
+        "count" : 4,
+        "item" : "THE HERTZ CORP"
+      }, {
+        "count" : 4,
+        "item" : "KINNEY SYSTEM INC"
+      }, {
+        "count" : 4,
+        "item" : "REX PARKING CORP"
+      }, {
+        "count" : 4,
+        "item" : "BRIAR HILL REALTY LLC"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980236,
+    "name" : "Camis Trade Name",
+    "dataTypeName" : "text",
+    "fieldName" : "camis_trade_name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561357,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 235,
+      "smallest" : "108TH ST GARAGE",
+      "null" : 1677,
+      "largest" : "Y & H GARAGE",
+      "top" : [ {
+        "count" : 37,
+        "item" : "GGMC"
+      }, {
+        "count" : 35,
+        "item" : "CENTRAL PARKING SYSTEM"
+      }, {
+        "count" : 6,
+        "item" : "MEYERS PARKING"
+      }, {
+        "count" : 6,
+        "item" : "IMPARK"
+      }, {
+        "count" : 4,
+        "item" : "AVISTAR AIRPORT PARKING"
+      }, {
+        "count" : 3,
+        "item" : "LAZ PARKING"
+      }, {
+        "count" : 2,
+        "item" : "C.G. PARKING"
+      }, {
+        "count" : 2,
+        "item" : "512 PARKING"
+      }, {
+        "count" : 1,
+        "item" : "MONTERAY GARAGE"
+      }, {
+        "count" : 1,
+        "item" : "P&A PARKING LOT"
+      }, {
+        "count" : 1,
+        "item" : "M&M PARKING 11"
+      }, {
+        "count" : 1,
+        "item" : "304_ASSOCIATES"
+      }, {
+        "count" : 1,
+        "item" : "210 INDIA PARKING"
+      }, {
+        "count" : 1,
+        "item" : "BRIDGE VIEW AUTO SERVICE CENTER INC"
+      }, {
+        "count" : 1,
+        "item" : "25-27 BEEKMAN ST    ASSOCIATES"
+      }, {
+        "count" : 1,
+        "item" : "J BETHON GARAGE"
+      }, {
+        "count" : 1,
+        "item" : "ANGELA MARIE CASTALDO"
+      }, {
+        "count" : 1,
+        "item" : "OLIANTHA GARAGE"
+      }, {
+        "count" : 1,
+        "item" : "CENTRY PARKING LLC"
+      }, {
+        "count" : 1,
+        "item" : "GOOD LUCK PARKING"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980237,
+    "name" : "Address Street Name",
+    "dataTypeName" : "text",
+    "fieldName" : "address_street_name",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561358,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 1912,
+      "smallest" : "104 STREET",
+      "null" : 0,
+      "largest" : "YORK AVENUE",
+      "top" : [ {
+        "count" : 46,
+        "item" : "BROADWAY"
+      }, {
+        "count" : 29,
+        "item" : "PARK AVENUE"
+      }, {
+        "count" : 28,
+        "item" : "JEROME AVENUE"
+      }, {
+        "count" : 23,
+        "item" : "10 AVENUE"
+      }, {
+        "count" : 19,
+        "item" : "5 AVENUE"
+      }, {
+        "count" : 19,
+        "item" : "QUEENS BOULEVARD"
+      }, {
+        "count" : 17,
+        "item" : "3 AVENUE"
+      }, {
+        "count" : 16,
+        "item" : "WEBSTER AVENUE"
+      }, {
+        "count" : 14,
+        "item" : "YORK AVENUE"
+      }, {
+        "count" : 14,
+        "item" : "2 AVENUE"
+      }, {
+        "count" : 12,
+        "item" : "EAST END AVENUE"
+      }, {
+        "count" : 12,
+        "item" : "WEST END AVENUE"
+      }, {
+        "count" : 11,
+        "item" : "EAST   80 STREET"
+      }, {
+        "count" : 11,
+        "item" : "11 AVENUE"
+      }, {
+        "count" : 11,
+        "item" : "WESTCHESTER AVENUE"
+      }, {
+        "count" : 9,
+        "item" : "EAST   70 STREET"
+      }, {
+        "count" : 9,
+        "item" : "GREENWICH STREET"
+      }, {
+        "count" : 9,
+        "item" : "EAST   86 STREET"
+      }, {
+        "count" : 9,
+        "item" : "MADISON AVENUE"
+      }, {
+        "count" : 9,
+        "item" : "6 AVENUE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980238,
+    "name" : "Street Address",
+    "dataTypeName" : "text",
+    "fieldName" : "street_address",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561359,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 1912,
+      "smallest" : "0 12 AVE",
+      "null" : 0,
+      "largest" : "N/A 23 STREET EAST RIVER DRIVE",
+      "top" : [ {
+        "count" : 3,
+        "item" : "0 MARGINAL STREET"
+      }, {
+        "count" : 2,
+        "item" : "234-240 WEST  148 STREET"
+      }, {
+        "count" : 2,
+        "item" : "1184 RIVER AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "222 EAST   40 STREET"
+      }, {
+        "count" : 2,
+        "item" : "2010 WESTCHESTER AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "2801 JEROME AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "0 12 AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "23 EAST RIVER DRIVE"
+      }, {
+        "count" : 2,
+        "item" : "151 MAIDEN LANE"
+      }, {
+        "count" : 2,
+        "item" : "1065 PARK AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "3795 10 AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "90 WASHINGTON STREET"
+      }, {
+        "count" : 2,
+        "item" : "600 WEST  246 STREET"
+      }, {
+        "count" : 2,
+        "item" : "246 EAST   35 STREET"
+      }, {
+        "count" : 2,
+        "item" : "350 EAST   82 STREET"
+      }, {
+        "count" : 2,
+        "item" : "333 EAST   38 STREET"
+      }, {
+        "count" : 2,
+        "item" : "35 EAST   38 STREET"
+      }, {
+        "count" : 2,
+        "item" : "1341 6 AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "250 WEST   43 STREET"
+      }, {
+        "count" : 2,
+        "item" : "630 WEST  246 STREET"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980239,
+    "name" : "Address Location",
+    "dataTypeName" : "text",
+    "fieldName" : "address_location",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561360,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 287,
+      "smallest" : "(626-644 FLATBUSH AVE)",
+      "null" : 1625,
+      "largest" : "WEST   42 STREET",
+      "top" : [ {
+        "count" : 3,
+        "item" : "WEST   42 STREET"
+      }, {
+        "count" : 2,
+        "item" : "AKA 133 DYCKMAN STREET"
+      }, {
+        "count" : 2,
+        "item" : "9"
+      }, {
+        "count" : 1,
+        "item" : "323 PACIFIC AVE"
+      }, {
+        "count" : 1,
+        "item" : "A/K/A/ SPRUCE STREET"
+      }, {
+        "count" : 1,
+        "item" : "433-35"
+      }, {
+        "count" : 1,
+        "item" : "145 WEST 40 ST"
+      }, {
+        "count" : 1,
+        "item" : "30-38 BOWERY"
+      }, {
+        "count" : 1,
+        "item" : "AKA 102-116 WEST END AVENUE"
+      }, {
+        "count" : 1,
+        "item" : "289"
+      }, {
+        "count" : 1,
+        "item" : "AKA 1652 BROADWAY, 200-206 W 52"
+      }, {
+        "count" : 1,
+        "item" : "AKA 99 W 95 ST"
+      }, {
+        "count" : 1,
+        "item" : "201-7 WEST 56 STREET"
+      }, {
+        "count" : 1,
+        "item" : "1/FL"
+      }, {
+        "count" : 1,
+        "item" : "1781 - 1795"
+      }, {
+        "count" : 1,
+        "item" : "848-862"
+      }, {
+        "count" : 1,
+        "item" : "520 WEST 112 STREET"
+      }, {
+        "count" : 1,
+        "item" : "AKA 1456 1 AVENUE"
+      }, {
+        "count" : 1,
+        "item" : "AKA 1 ASTOR PLAZA"
+      }, {
+        "count" : 1,
+        "item" : "384-388 8 AVENUE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980240,
+    "name" : "Address Zip Code",
+    "dataTypeName" : "number",
+    "fieldName" : "address_zip_code",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561361,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 1910,
+      "smallest" : "100",
+      "sum" : "19756988",
+      "null" : 2,
+      "average" : "10343.97277486911",
+      "largest" : "11691",
+      "top" : [ {
+        "count" : 126,
+        "item" : "10021"
+      }, {
+        "count" : 88,
+        "item" : "10019"
+      }, {
+        "count" : 74,
+        "item" : "10016"
+      }, {
+        "count" : 67,
+        "item" : "10001"
+      }, {
+        "count" : 64,
+        "item" : "10022"
+      }, {
+        "count" : 56,
+        "item" : "10036"
+      }, {
+        "count" : 56,
+        "item" : "11201"
+      }, {
+        "count" : 52,
+        "item" : "10028"
+      }, {
+        "count" : 48,
+        "item" : "10003"
+      }, {
+        "count" : 46,
+        "item" : "10128"
+      }, {
+        "count" : 45,
+        "item" : "10013"
+      }, {
+        "count" : 43,
+        "item" : "10011"
+      }, {
+        "count" : 37,
+        "item" : "10023"
+      }, {
+        "count" : 36,
+        "item" : "10017"
+      }, {
+        "count" : 36,
+        "item" : "10018"
+      }, {
+        "count" : 35,
+        "item" : "10010"
+      }, {
+        "count" : 30,
+        "item" : "10038"
+      }, {
+        "count" : 30,
+        "item" : "10025"
+      }, {
+        "count" : 30,
+        "item" : "10024"
+      }, {
+        "count" : 30,
+        "item" : "10451"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 2980241,
+    "name" : "Telephone Number",
+    "dataTypeName" : "number",
+    "fieldName" : "telephone_number",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561362,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 1911,
+      "smallest" : "129966363",
+      "sum" : "6962272758337",
+      "null" : 1,
+      "average" : "3643261516.659864",
+      "largest" : "9999999999",
+      "top" : [ {
+        "count" : 193,
+        "item" : "2126869800"
+      }, {
+        "count" : 106,
+        "item" : "2125025490"
+      }, {
+        "count" : 91,
+        "item" : "2127367171"
+      }, {
+        "count" : 56,
+        "item" : "2128322066"
+      }, {
+        "count" : 55,
+        "item" : "2126296602"
+      }, {
+        "count" : 48,
+        "item" : "2124903460"
+      }, {
+        "count" : 45,
+        "item" : "2122216111"
+      }, {
+        "count" : 42,
+        "item" : "2129966363"
+      }, {
+        "count" : 31,
+        "item" : "2128661000"
+      }, {
+        "count" : 30,
+        "item" : "2129378660"
+      }, {
+        "count" : 28,
+        "item" : "2123085959"
+      }, {
+        "count" : 25,
+        "item" : "2128887400"
+      }, {
+        "count" : 20,
+        "item" : "2129562280"
+      }, {
+        "count" : 16,
+        "item" : "2122493344"
+      }, {
+        "count" : 15,
+        "item" : "2127536116"
+      }, {
+        "count" : 15,
+        "item" : "2125755335"
+      }, {
+        "count" : 14,
+        "item" : "2125643199"
+      }, {
+        "count" : 13,
+        "item" : "2129299404"
+      }, {
+        "count" : 12,
+        "item" : "7185759440"
+      }, {
+        "count" : 11,
+        "item" : "2124636000"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "false",
+      "mask" : "###-###-####"
+    }
+  }, {
+    "id" : 2980242,
+    "name" : "Number of Spaces",
+    "dataTypeName" : "number",
+    "fieldName" : "number_of_spaces",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561363,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 1912,
+      "smallest" : "1",
+      "sum" : "303939",
+      "null" : 0,
+      "average" : "158.9639121338912",
+      "largest" : "6640",
+      "top" : [ {
+        "count" : 71,
+        "item" : "100"
+      }, {
+        "count" : 69,
+        "item" : "150"
+      }, {
+        "count" : 53,
+        "item" : "50"
+      }, {
+        "count" : 53,
+        "item" : "25"
+      }, {
+        "count" : 28,
+        "item" : "200"
+      }, {
+        "count" : 27,
+        "item" : "80"
+      }, {
+        "count" : 26,
+        "item" : "75"
+      }, {
+        "count" : 25,
+        "item" : "40"
+      }, {
+        "count" : 24,
+        "item" : "225"
+      }, {
+        "count" : 24,
+        "item" : "20"
+      }, {
+        "count" : 22,
+        "item" : "60"
+      }, {
+        "count" : 21,
+        "item" : "30"
+      }, {
+        "count" : 21,
+        "item" : "120"
+      }, {
+        "count" : 21,
+        "item" : "90"
+      }, {
+        "count" : 20,
+        "item" : "300"
+      }, {
+        "count" : 18,
+        "item" : "125"
+      }, {
+        "count" : 18,
+        "item" : "42"
+      }, {
+        "count" : 18,
+        "item" : "99"
+      }, {
+        "count" : 18,
+        "item" : "36"
+      }, {
+        "count" : 17,
+        "item" : "70"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980243,
+    "name" : "Location 1",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 11,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1561364,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 1911,
+      "smallest" : {
+        "longitude" : -74.00033293465881,
+        "latitude" : 40.76251544973604,
+        "human_address" : "{\"address\":\"0 12 AVE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10036\"}"
+      },
+      "null" : 1,
+      "largest" : {
+        "longitude" : -73.82706856556183,
+        "latitude" : 40.874142343794176,
+        "human_address" : "{\"address\":\"999 CO-OP CITY BOULEVARD\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10475\"}"
+      },
+      "top" : [ {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.96207661859317,
+          "latitude" : 40.77372882608772,
+          "human_address" : "{\"address\":\"900 PARK AVENUE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10021\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.98600366003453,
+          "latitude" : 40.71720385319203,
+          "human_address" : "{\"address\":\"118 CLINTON STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10002\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.9136846122522,
+          "latitude" : 40.88562728678762,
+          "human_address" : "{\"address\":\"3333 HENRY HUDSON PARKWAY\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10463\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.93866902925225,
+          "latitude" : 40.74570244980828,
+          "human_address" : "{\"address\":\"49 20 VERNON BOULEVARD\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11101\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.96581689882925,
+          "latitude" : 40.76861350549685,
+          "human_address" : "{\"address\":\"650 PARK AVENUE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10021\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.80979665579099,
+          "latitude" : 40.70119264912154,
+          "human_address" : "{\"address\":\"88 22 SUTPHIN BOULEVARD\",\"city\":\"JAMAICA\",\"state\":\"NY\",\"zip\":\"11435\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.91734934332494,
+          "latitude" : 40.84278630345719,
+          "human_address" : "{\"address\":\"1521 INWOOD AVENUE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10452\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.92394888271463,
+          "latitude" : 40.82332855791215,
+          "human_address" : "{\"address\":\"173 156 STREET\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10451\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.98702725981659,
+          "latitude" : 40.693867007560925,
+          "human_address" : "{\"address\":\"15 METROTECH CENTER\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.98660142433374,
+          "latitude" : 40.68842036262879,
+          "human_address" : "{\"address\":\"40574 HOYT STREET\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.98289845639863,
+          "latitude" : 40.73914078212147,
+          "human_address" : "{\"address\":\"111 115 E 24 STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10010\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -74.00124168420403,
+          "latitude" : 40.721465216306626,
+          "human_address" : "{\"address\":\"40 MERCER STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10013\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.98247899793581,
+          "latitude" : 40.69359469675679,
+          "human_address" : "{\"address\":\"166 MYRTLE AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.95399087048895,
+          "latitude" : 40.773779458153,
+          "human_address" : "{\"address\":\"305 80 STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10075\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.95400117940203,
+          "latitude" : 40.770315373046515,
+          "human_address" : "{\"address\":\"404 76 STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10021\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.98264494511174,
+          "latitude" : 40.7394586652736,
+          "human_address" : "{\"address\":\"200 24 STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10010\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.97392883987857,
+          "latitude" : 40.79556103770267,
+          "human_address" : "{\"address\":\"303 96TH STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10025\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.99889388115426,
+          "latitude" : 40.7422232484576,
+          "human_address" : "{\"address\":\"250 19 STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10011\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.99688630375988,
+          "latitude" : 40.75025902143676,
+          "human_address" : "{\"address\":\"340 348 WEST 31 STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10001\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.9142716861177,
+          "latitude" : 40.818669286226694,
+          "human_address" : "{\"address\":\"3000 3 AVENUE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10455\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+    "orderBys" : [ {
+      "ascending" : true,
+      "expression" : {
+        "columnId" : 2980234,
+        "type" : "column"
+      }
+    } ]
+  },
+  "rights" : [ "read" ],
+  "sortBys" : [ {
+    "id" : 0,
+    "viewColumnId" : 2980234,
+    "flags" : [ "asc" ]
+  } ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "parking", "license", "parking lot", "lot", "park" ],
+  "flags" : [ "default" ]
+}

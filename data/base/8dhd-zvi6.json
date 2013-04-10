@@ -1,0 +1,706 @@
+{
+  "id" : "8dhd-zvi6",
+  "name" : "2001 Campaign Payments",
+  "attribution" : "Campaign Finance Board (CFB)",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1315950830,
+  "description" : "A listing of public funds payments for candidates for City office during the 2001 election cycle",
+  "displayType" : "table",
+  "downloadCount" : 22,
+  "numberOfComments" : 0,
+  "oid" : 332950,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1315950830,
+  "publicationGroup" : 240370,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1315950833,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 240370,
+  "totalTimesRated" : 0,
+  "viewCount" : 17,
+  "viewLastModified" : 1318023252,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2836183,
+    "name" : "ELECTION",
+    "dataTypeName" : "number",
+    "fieldName" : "election",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518991,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 284,
+      "smallest" : "2001",
+      "sum" : "568284",
+      "null" : 1,
+      "average" : "2001",
+      "largest" : "2001",
+      "top" : [ {
+        "count" : 284,
+        "item" : "2001"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 2836184,
+    "name" : "CANDID",
+    "dataTypeName" : "text",
+    "fieldName" : "candid",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1518992,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 285,
+      "smallest" : "148",
+      "null" : 0,
+      "largest" : "YA",
+      "top" : [ {
+        "count" : 1,
+        "item" : "240"
+      }, {
+        "count" : 1,
+        "item" : "384"
+      }, {
+        "count" : 1,
+        "item" : "A3"
+      }, {
+        "count" : 1,
+        "item" : "427"
+      }, {
+        "count" : 1,
+        "item" : "264"
+      }, {
+        "count" : 1,
+        "item" : "503"
+      }, {
+        "count" : 1,
+        "item" : "267"
+      }, {
+        "count" : 1,
+        "item" : "286"
+      }, {
+        "count" : 1,
+        "item" : "285"
+      }, {
+        "count" : 1,
+        "item" : "487"
+      }, {
+        "count" : 1,
+        "item" : "530"
+      }, {
+        "count" : 1,
+        "item" : "263"
+      }, {
+        "count" : 1,
+        "item" : "CF"
+      }, {
+        "count" : 1,
+        "item" : "454"
+      }, {
+        "count" : 1,
+        "item" : "284"
+      }, {
+        "count" : 1,
+        "item" : "265"
+      }, {
+        "count" : 1,
+        "item" : "501"
+      }, {
+        "count" : 1,
+        "item" : "388"
+      }, {
+        "count" : 1,
+        "item" : "DE"
+      }, {
+        "count" : 1,
+        "item" : "A7"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2836185,
+    "name" : "CANDNAME",
+    "dataTypeName" : "text",
+    "fieldName" : "candname",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1518993,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 285,
+      "smallest" : "Aboulafia, Sandy",
+      "null" : 0,
+      "largest" : "Zett, Lori M",
+      "top" : [ {
+        "count" : 1,
+        "item" : "Chin, Rockwell J"
+      }, {
+        "count" : 1,
+        "item" : "Clarke, Amanda L"
+      }, {
+        "count" : 1,
+        "item" : "Sica, Philip T"
+      }, {
+        "count" : 1,
+        "item" : "Stewart, Kendall B"
+      }, {
+        "count" : 1,
+        "item" : "Addabbo, Joseph P"
+      }, {
+        "count" : 1,
+        "item" : "Eisland, June M"
+      }, {
+        "count" : 1,
+        "item" : "Kaufman, Jordan"
+      }, {
+        "count" : 1,
+        "item" : "Fullard, Henrietta"
+      }, {
+        "count" : 1,
+        "item" : "Bernace, Victor A"
+      }, {
+        "count" : 1,
+        "item" : "Greco, Jr., Rudolph E"
+      }, {
+        "count" : 1,
+        "item" : "Levy, Abraham"
+      }, {
+        "count" : 1,
+        "item" : "Colon, Willie"
+      }, {
+        "count" : 1,
+        "item" : "Gutnik, Oleg"
+      }, {
+        "count" : 1,
+        "item" : "Vogel, Mark H"
+      }, {
+        "count" : 1,
+        "item" : "Hughes, Michael B"
+      }, {
+        "count" : 1,
+        "item" : "O'Donovan, Jerome X"
+      }, {
+        "count" : 1,
+        "item" : "Van Bramer, James G"
+      }, {
+        "count" : 1,
+        "item" : "Cohn, Steven D"
+      }, {
+        "count" : 1,
+        "item" : "Scissura, Carlo A"
+      }, {
+        "count" : 1,
+        "item" : "Mandell, Linda"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2836186,
+    "name" : "OFFICECD",
+    "dataTypeName" : "number",
+    "fieldName" : "officecd",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518994,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 284,
+      "smallest" : "1",
+      "sum" : "1335",
+      "null" : 1,
+      "average" : "4.700704225352113",
+      "largest" : "5",
+      "top" : [ {
+        "count" : 245,
+        "item" : "5"
+      }, {
+        "count" : 20,
+        "item" : "4"
+      }, {
+        "count" : 10,
+        "item" : "1"
+      }, {
+        "count" : 7,
+        "item" : "2"
+      }, {
+        "count" : 2,
+        "item" : "3"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2836187,
+    "name" : "OFFICEBORO",
+    "dataTypeName" : "text",
+    "fieldName" : "officeboro",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1518995,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 21,
+      "smallest" : "K",
+      "null" : 264,
+      "largest" : "X",
+      "top" : [ {
+        "count" : 5,
+        "item" : "Q"
+      }, {
+        "count" : 4,
+        "item" : "S"
+      }, {
+        "count" : 4,
+        "item" : "K"
+      }, {
+        "count" : 4,
+        "item" : "X"
+      }, {
+        "count" : 3,
+        "item" : "M"
+      }, {
+        "count" : 1,
+        "item" : "OFFICEBORO"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2836188,
+    "name" : "OFFICEDIST",
+    "dataTypeName" : "number",
+    "fieldName" : "officedist",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518996,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 245,
+      "smallest" : "1",
+      "sum" : "6451",
+      "null" : 40,
+      "average" : "26.33061224489796",
+      "largest" : "51",
+      "top" : [ {
+        "count" : 10,
+        "item" : "7"
+      }, {
+        "count" : 9,
+        "item" : "20"
+      }, {
+        "count" : 9,
+        "item" : "40"
+      }, {
+        "count" : 8,
+        "item" : "35"
+      }, {
+        "count" : 8,
+        "item" : "6"
+      }, {
+        "count" : 8,
+        "item" : "47"
+      }, {
+        "count" : 8,
+        "item" : "10"
+      }, {
+        "count" : 8,
+        "item" : "28"
+      }, {
+        "count" : 8,
+        "item" : "31"
+      }, {
+        "count" : 8,
+        "item" : "37"
+      }, {
+        "count" : 7,
+        "item" : "1"
+      }, {
+        "count" : 7,
+        "item" : "39"
+      }, {
+        "count" : 6,
+        "item" : "32"
+      }, {
+        "count" : 6,
+        "item" : "22"
+      }, {
+        "count" : 6,
+        "item" : "42"
+      }, {
+        "count" : 6,
+        "item" : "26"
+      }, {
+        "count" : 6,
+        "item" : "45"
+      }, {
+        "count" : 6,
+        "item" : "19"
+      }, {
+        "count" : 6,
+        "item" : "27"
+      }, {
+        "count" : 5,
+        "item" : "11"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2836189,
+    "name" : "CANCLASS",
+    "dataTypeName" : "text",
+    "fieldName" : "canclass",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1518997,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 285,
+      "smallest" : "CANCLASS",
+      "null" : 0,
+      "largest" : "P",
+      "top" : [ {
+        "count" : 284,
+        "item" : "P"
+      }, {
+        "count" : 1,
+        "item" : "CANCLASS"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2836190,
+    "name" : "PRIMARYPAY",
+    "dataTypeName" : "number",
+    "fieldName" : "primarypay",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518998,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 284,
+      "smallest" : "0",
+      "sum" : "31877285.00",
+      "null" : 1,
+      "average" : "112243.9612676056",
+      "largest" : "2846148.00",
+      "top" : [ {
+        "count" : 107,
+        "item" : "0"
+      }, {
+        "count" : 61,
+        "item" : "75350.00"
+      }, {
+        "count" : 5,
+        "item" : "91333.00"
+      }, {
+        "count" : 2,
+        "item" : "74850.00"
+      }, {
+        "count" : 2,
+        "item" : "647350.00"
+      }, {
+        "count" : 1,
+        "item" : "51732.00"
+      }, {
+        "count" : 1,
+        "item" : "66304.00"
+      }, {
+        "count" : 1,
+        "item" : "19520.00"
+      }, {
+        "count" : 1,
+        "item" : "6732.00"
+      }, {
+        "count" : 1,
+        "item" : "1069324.00"
+      }, {
+        "count" : 1,
+        "item" : "51676.00"
+      }, {
+        "count" : 1,
+        "item" : "356723.00"
+      }, {
+        "count" : 1,
+        "item" : "2641247.00"
+      }, {
+        "count" : 1,
+        "item" : "73180.00"
+      }, {
+        "count" : 1,
+        "item" : "40280.00"
+      }, {
+        "count" : 1,
+        "item" : "605615.00"
+      }, {
+        "count" : 1,
+        "item" : "75040.00"
+      }, {
+        "count" : 1,
+        "item" : "47820.00"
+      }, {
+        "count" : 1,
+        "item" : "950692.00"
+      }, {
+        "count" : 1,
+        "item" : "58348.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2836191,
+    "name" : "GENERALPAY",
+    "dataTypeName" : "number",
+    "fieldName" : "generalpay",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1518999,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 284,
+      "smallest" : "0",
+      "sum" : "8166015.00",
+      "null" : 1,
+      "average" : "28753.57394366197",
+      "largest" : "976545.00",
+      "top" : [ {
+        "count" : 179,
+        "item" : "0"
+      }, {
+        "count" : 16,
+        "item" : "75350.00"
+      }, {
+        "count" : 2,
+        "item" : "75170.00"
+      }, {
+        "count" : 1,
+        "item" : "108740.00"
+      }, {
+        "count" : 1,
+        "item" : "19124.00"
+      }, {
+        "count" : 1,
+        "item" : "31704.00"
+      }, {
+        "count" : 1,
+        "item" : "47032.00"
+      }, {
+        "count" : 1,
+        "item" : "31912.00"
+      }, {
+        "count" : 1,
+        "item" : "17148.00"
+      }, {
+        "count" : 1,
+        "item" : "19900.00"
+      }, {
+        "count" : 1,
+        "item" : "65729.00"
+      }, {
+        "count" : 1,
+        "item" : "74450.00"
+      }, {
+        "count" : 1,
+        "item" : "35356.00"
+      }, {
+        "count" : 1,
+        "item" : "68332.00"
+      }, {
+        "count" : 1,
+        "item" : "46806.00"
+      }, {
+        "count" : 1,
+        "item" : "22104.00"
+      }, {
+        "count" : 1,
+        "item" : "56448.00"
+      }, {
+        "count" : 1,
+        "item" : "51640.00"
+      }, {
+        "count" : 1,
+        "item" : "201131.00"
+      }, {
+        "count" : 1,
+        "item" : "65704.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2836192,
+    "name" : "RUNOFFPAY",
+    "dataTypeName" : "number",
+    "fieldName" : "runoffpay",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1519000,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 284,
+      "smallest" : "0",
+      "sum" : "2208605.00",
+      "null" : 1,
+      "average" : "7776.778169014085",
+      "largest" : "711537.00",
+      "top" : [ {
+        "count" : 278,
+        "item" : "0"
+      }, {
+        "count" : 1,
+        "item" : "303270.00"
+      }, {
+        "count" : 1,
+        "item" : "711537.00"
+      }, {
+        "count" : 1,
+        "item" : "237673.00"
+      }, {
+        "count" : 1,
+        "item" : "267331.00"
+      }, {
+        "count" : 1,
+        "item" : "114407.00"
+      }, {
+        "count" : 1,
+        "item" : "574387.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2836193,
+    "name" : "TOTALPAY",
+    "dataTypeName" : "number",
+    "fieldName" : "totalpay",
+    "position" : 12,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1519001,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 284,
+      "smallest" : "0",
+      "sum" : "42251905.00",
+      "null" : 1,
+      "average" : "148774.3133802817",
+      "largest" : "4534230.00",
+      "top" : [ {
+        "count" : 79,
+        "item" : "0"
+      }, {
+        "count" : 31,
+        "item" : "75350.00"
+      }, {
+        "count" : 7,
+        "item" : "150700.00"
+      }, {
+        "count" : 2,
+        "item" : "150520.00"
+      }, {
+        "count" : 2,
+        "item" : "91333.00"
+      }, {
+        "count" : 2,
+        "item" : "647350.00"
+      }, {
+        "count" : 1,
+        "item" : "431802.00"
+      }, {
+        "count" : 1,
+        "item" : "19124.00"
+      }, {
+        "count" : 1,
+        "item" : "1096359.00"
+      }, {
+        "count" : 1,
+        "item" : "90908.00"
+      }, {
+        "count" : 1,
+        "item" : "66304.00"
+      }, {
+        "count" : 1,
+        "item" : "51732.00"
+      }, {
+        "count" : 1,
+        "item" : "148090.00"
+      }, {
+        "count" : 1,
+        "item" : "82082.00"
+      }, {
+        "count" : 1,
+        "item" : "108226.00"
+      }, {
+        "count" : 1,
+        "item" : "143682.00"
+      }, {
+        "count" : 1,
+        "item" : "90262.00"
+      }, {
+        "count" : 1,
+        "item" : "19520.00"
+      }, {
+        "count" : 1,
+        "item" : "51676.00"
+      }, {
+        "count" : 1,
+        "item" : "165783.00"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "finance", "campaign finance board", "cfb", "nyccfb", "campaign finance", "elections", "contributions", "politics", "campaign", "funding" ],
+  "flags" : [ "default" ]
+}

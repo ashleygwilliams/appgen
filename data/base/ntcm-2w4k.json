@@ -1,0 +1,330 @@
+{
+  "id" : "ntcm-2w4k",
+  "name" : "Directory Of Homebase Locations",
+  "attribution" : "Department of Homeless Services (DHS)",
+  "attributionLink" : "http://www.nyc.gov/html/dhs/downloads/pdf/homebase_map.pdf",
+  "averageRating" : 0,
+  "category" : "Social Services",
+  "createdAt" : 1359648065,
+  "description" : "Locations of Homebase (Homeless Prevention Network) offices",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2394977,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359648206,
+  "publicationGroup" : 648488,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1359648068,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 648488,
+  "totalTimesRated" : 0,
+  "viewCount" : 68,
+  "viewLastModified" : 1361463890,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 42268355,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7435604,
+    "width" : 119,
+    "cachedContents" : {
+      "non_null" : 15,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Manhattan"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42268356,
+    "name" : "Homebase Office",
+    "dataTypeName" : "text",
+    "fieldName" : "homebase_office",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7435605,
+    "width" : 201,
+    "cachedContents" : {
+      "non_null" : 15,
+      "smallest" : "BronxWorks",
+      "null" : 0,
+      "largest" : "RBSCC 3 - Brownsville",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BronxWorks"
+      }, {
+        "count" : 19,
+        "item" : "Catholic Charities 1"
+      }, {
+        "count" : 18,
+        "item" : "Catholic Charities 2"
+      }, {
+        "count" : 17,
+        "item" : "HELP 1"
+      }, {
+        "count" : 16,
+        "item" : "HELP 2"
+      }, {
+        "count" : 15,
+        "item" : "CAMBA 1"
+      }, {
+        "count" : 14,
+        "item" : "CAMBA 2"
+      }, {
+        "count" : 13,
+        "item" : "CAMBA 3 (Bed Study)"
+      }, {
+        "count" : 12,
+        "item" : "Catholic Charities - Brooklyn"
+      }, {
+        "count" : 11,
+        "item" : "RBSCC 1 - Bushwick"
+      }, {
+        "count" : 10,
+        "item" : "RBSCC 2 - Bushwick"
+      }, {
+        "count" : 9,
+        "item" : "RBSCC 3 - Brownsville"
+      }, {
+        "count" : 8,
+        "item" : "Palladia"
+      }, {
+        "count" : 7,
+        "item" : "Catholic Charities - Queens"
+      }, {
+        "count" : 6,
+        "item" : "CAMBA 4"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42268358,
+    "name" : "Address",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 3,
+    "renderTypeName" : "location",
+    "tableColumnId" : 7435607,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 15,
+      "smallest" : {
+        "human_address" : "{\"address\":\"1117 Eastern Parkway\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+      },
+      "null" : 0,
+      "largest" : {
+        "human_address" : "{\"address\":\"Will Open Oct 1\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "human_address" : "{\"address\":\"1130 Grand Concourse\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "human_address" : "{\"address\":\"2155 Blackrock Avenue\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "human_address" : "{\"address\":\"4377 Bronx Boulevard\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "human_address" : "{\"address\":\"775 Crotona Park North\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "human_address" : "{\"address\":\"1780 Grand Concourse, Lvl 1\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "human_address" : "{\"address\":\"1117 Eastern Parkway\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "human_address" : "{\"address\":\"2211 Church Avenue\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "human_address" : "{\"address\":\"Will Open Oct 1\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "human_address" : "{\"address\":\"3060 Fulton Street\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "human_address" : "{\"address\":\"92 Beaver Street\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "human_address" : "{\"address\":\"145 E 98th Street\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "human_address" : "{\"address\":\"1475 Myrtle Avenue\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "human_address" : "{\"address\":\"2276 3rd Avenue\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "human_address" : "{\"address\":\"87-80 Merrick Blvd\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "human_address" : "{\"address\":\"648 Bay Street\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      } ]
+    },
+    "format" : {
+      "align" : "left",
+      "view" : "address_coords"
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 42268357,
+    "name" : "Phone Number",
+    "dataTypeName" : "text",
+    "fieldName" : "phone_number",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7435606,
+    "width" : 166,
+    "cachedContents" : {
+      "non_null" : 14,
+      "smallest" : "347-226-4540",
+      "null" : 1,
+      "largest" : "929-234-3032",
+      "top" : [ {
+        "count" : 20,
+        "item" : "718-508-3100"
+      }, {
+        "count" : 19,
+        "item" : "718-414-1050"
+      }, {
+        "count" : 18,
+        "item" : "347-947-3920"
+      }, {
+        "count" : 17,
+        "item" : "718-299-8473"
+      }, {
+        "count" : 16,
+        "item" : "347-226-4540"
+      }, {
+        "count" : 15,
+        "item" : "718-622-7323"
+      }, {
+        "count" : 14,
+        "item" : "718-940-6311"
+      }, {
+        "count" : 13,
+        "item" : "929-234-3032"
+      }, {
+        "count" : 12,
+        "item" : "718-366-4300"
+      }, {
+        "count" : 11,
+        "item" : "917-819-3200"
+      }, {
+        "count" : 10,
+        "item" : "347-295-3738"
+      }, {
+        "count" : 9,
+        "item" : "917-492-1019"
+      }, {
+        "count" : 8,
+        "item" : "718-674-1000"
+      }, {
+        "count" : 7,
+        "item" : "718-282-6473"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dhs", "homeless", "service", "homebase", "location", "contact", "prevention", "office" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,575 @@
+{
+  "id" : "x84u-rirx",
+  "name" : "Jamica Center BID businesses",
+  "attribution" : "Jamaica Center BID",
+  "averageRating" : 0,
+  "category" : "Business and Economic",
+  "createdAt" : 1317923207,
+  "description" : "Directory of businesses in the Jamaica Center business district",
+  "displayType" : "table",
+  "downloadCount" : 209,
+  "numberOfComments" : 0,
+  "oid" : 341147,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1317923315,
+  "publicationGroup" : 243505,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1317923220,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 243505,
+  "totalTimesRated" : 0,
+  "viewCount" : 122,
+  "viewLastModified" : 1318366401,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2969881,
+    "name" : "Store",
+    "dataTypeName" : "text",
+    "fieldName" : "store",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1556682,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 292,
+      "smallest" : ".99 Dreams",
+      "null" : 0,
+      "largest" : "Zan Jewelry",
+      "top" : [ {
+        "count" : 4,
+        "item" : "Cookie's Dept. Store"
+      }, {
+        "count" : 4,
+        "item" : "Vacant"
+      }, {
+        "count" : 3,
+        "item" : "Payless Shoes"
+      }, {
+        "count" : 2,
+        "item" : "Pretty Girl"
+      }, {
+        "count" : 2,
+        "item" : "L.B. Gifts & Lamps Variety"
+      }, {
+        "count" : 2,
+        "item" : "Rainbow"
+      }, {
+        "count" : 2,
+        "item" : "Expo 2000"
+      }, {
+        "count" : 2,
+        "item" : "C.H. Martin"
+      }, {
+        "count" : 2,
+        "item" : "Conway"
+      }, {
+        "count" : 2,
+        "item" : "Family Court"
+      }, {
+        "count" : 2,
+        "item" : "Dunkin Donuts"
+      }, {
+        "count" : 2,
+        "item" : "Fabco Shoes"
+      }, {
+        "count" : 2,
+        "item" : "Unknown"
+      }, {
+        "count" : 2,
+        "item" : "Subway"
+      }, {
+        "count" : 2,
+        "item" : "No frontage on Jamaica Ave"
+      }, {
+        "count" : 2,
+        "item" : "McDonald's"
+      }, {
+        "count" : 1,
+        "item" : "Al Michael Footwear"
+      }, {
+        "count" : 1,
+        "item" : "J&A Nail Salon"
+      }, {
+        "count" : 1,
+        "item" : "Avenue Furniture"
+      }, {
+        "count" : 1,
+        "item" : "Urban Terrain "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2969882,
+    "name" : "Bus City",
+    "dataTypeName" : "text",
+    "fieldName" : "bus_city",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1556683,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 289,
+      "smallest" : "Jamaica",
+      "null" : 3,
+      "largest" : "Jamaica",
+      "top" : [ {
+        "count" : 289,
+        "item" : "Jamaica"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2969883,
+    "name" : "Bus Zip",
+    "dataTypeName" : "number",
+    "fieldName" : "bus_zip",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1556684,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 289,
+      "smallest" : "11432",
+      "sum" : "3304037",
+      "null" : 3,
+      "average" : "11432.65397923875",
+      "largest" : "11435",
+      "top" : [ {
+        "count" : 226,
+        "item" : "11432"
+      }, {
+        "count" : 63,
+        "item" : "11435"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 2969884,
+    "name" : "Year Opened",
+    "dataTypeName" : "text",
+    "fieldName" : "year_opened",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1556685,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "2009",
+      "null" : 288,
+      "largest" : "2010",
+      "top" : [ {
+        "count" : 2,
+        "item" : "2009"
+      }, {
+        "count" : 2,
+        "item" : "2010"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2969885,
+    "name" : "Business Size",
+    "dataTypeName" : "text",
+    "fieldName" : "business_size",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1556686,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 282,
+      "smallest" : "Government/Nonprofit/Religious",
+      "null" : 10,
+      "largest" : "Vacant",
+      "top" : [ {
+        "count" : 163,
+        "item" : "Mom and Pop"
+      }, {
+        "count" : 53,
+        "item" : "National"
+      }, {
+        "count" : 36,
+        "item" : "Regional"
+      }, {
+        "count" : 19,
+        "item" : "Vacant"
+      }, {
+        "count" : 10,
+        "item" : "Government/Nonprofit/Religious"
+      }, {
+        "count" : 1,
+        "item" : "Upper Floor Condo"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2969886,
+    "name" : "Category",
+    "dataTypeName" : "text",
+    "fieldName" : "category",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1556687,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 285,
+      "smallest" : "APPAREL",
+      "null" : 7,
+      "largest" : "WOMEN'S FASHION",
+      "top" : [ {
+        "count" : 35,
+        "item" : "FOOD & BEVERAGE"
+      }, {
+        "count" : 25,
+        "item" : "APPAREL/FOOTWEAR"
+      }, {
+        "count" : 25,
+        "item" : "WOMEN'S FASHION"
+      }, {
+        "count" : 21,
+        "item" : "ELECTRONICS/CELLULAR"
+      }, {
+        "count" : 19,
+        "item" : "VACANT"
+      }, {
+        "count" : 16,
+        "item" : "HOME & FURNISHINGS  "
+      }, {
+        "count" : 15,
+        "item" : "OTHER"
+      }, {
+        "count" : 13,
+        "item" : "HEALTH & BEAUTY"
+      }, {
+        "count" : 13,
+        "item" : "JEWELRY & ACCESSORIES "
+      }, {
+        "count" : 12,
+        "item" : "MEDICAL/DENTAL/OPTICAL"
+      }, {
+        "count" : 11,
+        "item" : "VARIETY"
+      }, {
+        "count" : 11,
+        "item" : "GOVERNMENT/CULTURAL/RELIGIOUS"
+      }, {
+        "count" : 11,
+        "item" : "VARIETY "
+      }, {
+        "count" : 11,
+        "item" : "HAIR & NAILS"
+      }, {
+        "count" : 10,
+        "item" : "FOOTWEAR"
+      }, {
+        "count" : 6,
+        "item" : "CHILDREN"
+      }, {
+        "count" : 5,
+        "item" : "SPECIALTY"
+      }, {
+        "count" : 5,
+        "item" : "BANKING"
+      }, {
+        "count" : 4,
+        "item" : "ENTERTAINMENT/EXERCISE"
+      }, {
+        "count" : 4,
+        "item" : "APPAREL"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2969887,
+    "name" : "Business Phone",
+    "dataTypeName" : "text",
+    "fieldName" : "business_phone",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1556688,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 242,
+      "smallest" : "(718) 206-0331",
+      "null" : 50,
+      "largest" : "Zane c: (914) 419-2201",
+      "top" : [ {
+        "count" : 2,
+        "item" : "(718) 297-4708/c: (347) 806-4588"
+      }, {
+        "count" : 2,
+        "item" : "718-657-7015"
+      }, {
+        "count" : 2,
+        "item" : "(718) 523-7704"
+      }, {
+        "count" : 2,
+        "item" : "718-739-3702"
+      }, {
+        "count" : 2,
+        "item" : "718-297-3999"
+      }, {
+        "count" : 2,
+        "item" : "718-657-9272"
+      }, {
+        "count" : 1,
+        "item" : "718-526-0175"
+      }, {
+        "count" : 1,
+        "item" : "718-588-3942 "
+      }, {
+        "count" : 1,
+        "item" : "(718) 297-4818"
+      }, {
+        "count" : 1,
+        "item" : "718-523-5101"
+      }, {
+        "count" : 1,
+        "item" : "(718) 262-9072/(718) 658-1537"
+      }, {
+        "count" : 1,
+        "item" : "(718) 297-7835"
+      }, {
+        "count" : 1,
+        "item" : "(718) 206-4420"
+      }, {
+        "count" : 1,
+        "item" : "1-800-841-4000"
+      }, {
+        "count" : 1,
+        "item" : "(718) 558-8757/(718) 558-8825"
+      }, {
+        "count" : 1,
+        "item" : "718-526-9690"
+      }, {
+        "count" : 1,
+        "item" : "718-558-5541"
+      }, {
+        "count" : 1,
+        "item" : "718-523-5931"
+      }, {
+        "count" : 1,
+        "item" : "718-739-4000"
+      }, {
+        "count" : 1,
+        "item" : "718-725-2836"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2969888,
+    "name" : "Location 1",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 9,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1556689,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 288,
+      "smallest" : {
+        "longitude" : -73.80443200013667,
+        "latitude" : 40.696147000083954,
+        "human_address" : "{\"address\":\"147 01 Jamaica Ave\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"\"}"
+      },
+      "null" : 4,
+      "largest" : {
+        "longitude" : -73.80443200013667,
+        "latitude" : 40.696147000083954,
+        "human_address" : "{\"address\":\"92 32 Union Hall Street\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"\"}"
+      },
+      "top" : [ {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.80443200013667,
+          "latitude" : 40.696147000083954,
+          "human_address" : "{\"address\":\"159 17 Jamaica Ave\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.80443200013667,
+          "latitude" : 40.696147000083954,
+          "human_address" : "{\"address\":\"164 10 Jamaica Ave\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.80443200013667,
+          "latitude" : 40.696147000083954,
+          "human_address" : "{\"address\":\"166 05 Jamaica Ave\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.80443200013667,
+          "latitude" : 40.696147000083954,
+          "human_address" : "{\"address\":\"162 01 Jamaica Ave\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.80443200013667,
+          "latitude" : 40.696147000083954,
+          "human_address" : "{\"address\":\"168 15 Jamaica Ave\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.80443200013667,
+          "latitude" : 40.696147000083954,
+          "human_address" : "{\"address\":\"162 24 Jamaica Ave\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.80443200013667,
+          "latitude" : 40.696147000083954,
+          "human_address" : "{\"address\":\"162 24 Jamaica Ave\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.80443200013667,
+          "latitude" : 40.696147000083954,
+          "human_address" : "{\"address\":\"166 10 Jamaica Ave\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.80443200013667,
+          "latitude" : 40.696147000083954,
+          "human_address" : "{\"address\":\"164 01 Jamaica Ave\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.80443200013667,
+          "latitude" : 40.696147000083954,
+          "human_address" : "{\"address\":\"164 01 Jamaica Ave\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.80443200013667,
+          "latitude" : 40.696147000083954,
+          "human_address" : "{\"address\":\"150 14 Jamaica Ave\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.80443200013667,
+          "latitude" : 40.696147000083954,
+          "human_address" : "{\"address\":\"166 22 Jamaica Ave\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.80443200013667,
+          "latitude" : 40.696147000083954,
+          "human_address" : "{\"address\":\"164 18 Jamaica Ave\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.80443200013667,
+          "latitude" : 40.696147000083954,
+          "human_address" : "{\"address\":\"163 11 Jamaica Ave\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.80443200013667,
+          "latitude" : 40.696147000083954,
+          "human_address" : "{\"address\":\"166 35 Jamaica Ave\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.80443200013667,
+          "latitude" : 40.696147000083954,
+          "human_address" : "{\"address\":\"166 36 Jamaica Ave\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.80443200013667,
+          "latitude" : 40.696147000083954,
+          "human_address" : "{\"address\":\"162 03 Jamaica Ave\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.80443200013667,
+          "latitude" : 40.696147000083954,
+          "human_address" : "{\"address\":\"162 03 Jamaica Ave\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.80443200013667,
+          "latitude" : 40.696147000083954,
+          "human_address" : "{\"address\":\"147 01 Jamaica Ave\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.80443200013667,
+          "latitude" : 40.696147000083954,
+          "human_address" : "{\"address\":\"163 34 Jamaica Ave\",\"city\":\"Jamaica\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "jamaica", "queens", "stores", "retail", "businesses", "directory" ],
+  "flags" : [ "default" ]
+}

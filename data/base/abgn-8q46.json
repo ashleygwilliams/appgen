@@ -1,0 +1,549 @@
+{
+  "id" : "abgn-8q46",
+  "name" : "2010-2011 Class Size - Citywide Summary",
+  "attribution" : "Department of Education (DOE)",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1318616213,
+  "description" : "This file shows citywide average class sizes, aggregated by grade and program type. For grades 5-9 (where available) and 9-12, the data are shown by program type and core course.\r\nBased on January 28, 2011 data.\r\n* Grade 9 Official Class data is included for 0K-09 schools. Core Course information for these sections is not reported.",
+  "displayType" : "table",
+  "downloadCount" : 44,
+  "numberOfComments" : 0,
+  "oid" : 345767,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318616286,
+  "publicationGroup" : 245759,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318616214,
+  "rowsUpdatedBy" : "rnig-m3uj",
+  "signed" : false,
+  "tableId" : 245759,
+  "totalTimesRated" : 0,
+  "viewCount" : 113,
+  "viewLastModified" : 1363698317,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3055930,
+    "name" : "GRADE ",
+    "dataTypeName" : "text",
+    "fieldName" : "grade_",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1585432,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 154,
+      "smallest" : "01",
+      "null" : 0,
+      "largest" : "MS Core",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0K"
+      }, {
+        "count" : 19,
+        "item" : "01"
+      }, {
+        "count" : 18,
+        "item" : "02"
+      }, {
+        "count" : 17,
+        "item" : "03"
+      }, {
+        "count" : 16,
+        "item" : "04"
+      }, {
+        "count" : 15,
+        "item" : "05"
+      }, {
+        "count" : 14,
+        "item" : "06"
+      }, {
+        "count" : 13,
+        "item" : "07"
+      }, {
+        "count" : 12,
+        "item" : "08"
+      }, {
+        "count" : 11,
+        "item" : "09"
+      }, {
+        "count" : 10,
+        "item" : "0K-09"
+      }, {
+        "count" : 9,
+        "item" : "MS Core"
+      }, {
+        "count" : 8,
+        "item" : "09-12"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3055931,
+    "name" : "PROGRAM TYPE",
+    "dataTypeName" : "text",
+    "fieldName" : "program_type",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1585433,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 154,
+      "smallest" : "CTT",
+      "null" : 0,
+      "largest" : "SPEC ED",
+      "top" : [ {
+        "count" : 20,
+        "item" : "GEN ED"
+      }, {
+        "count" : 19,
+        "item" : "CTT"
+      }, {
+        "count" : 18,
+        "item" : "G&T"
+      }, {
+        "count" : 17,
+        "item" : "SPEC ED"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3055932,
+    "name" : "CORE SUBJECT (MS CORE and 9-12 ONLY)",
+    "dataTypeName" : "text",
+    "fieldName" : "core_subject_ms_core_and_9_12_only_",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1585434,
+    "width" : 532,
+    "cachedContents" : {
+      "non_null" : 154,
+      "smallest" : "-",
+      "null" : 0,
+      "largest" : "SOCIAL STUDIES",
+      "top" : [ {
+        "count" : 20,
+        "item" : "-"
+      }, {
+        "count" : 19,
+        "item" : "ENGLISH"
+      }, {
+        "count" : 18,
+        "item" : "MATH"
+      }, {
+        "count" : 17,
+        "item" : "SCIENCE"
+      }, {
+        "count" : 16,
+        "item" : "SOCIAL STUDIES"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3055933,
+    "name" : "CORE COURSE (MS CORE and 9-12 ONLY)",
+    "dataTypeName" : "text",
+    "fieldName" : "core_course_ms_core_and_9_12_only_",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1585435,
+    "width" : 520,
+    "cachedContents" : {
+      "non_null" : 154,
+      "smallest" : "-",
+      "null" : 0,
+      "largest" : "US History & Government",
+      "top" : [ {
+        "count" : 20,
+        "item" : "-"
+      }, {
+        "count" : 19,
+        "item" : "MS English Core"
+      }, {
+        "count" : 18,
+        "item" : "MS Math Core"
+      }, {
+        "count" : 17,
+        "item" : "Integrated Algebra"
+      }, {
+        "count" : 16,
+        "item" : "Geometry"
+      }, {
+        "count" : 15,
+        "item" : "Trigonometry"
+      }, {
+        "count" : 14,
+        "item" : "Math A"
+      }, {
+        "count" : 13,
+        "item" : "Math B"
+      }, {
+        "count" : 12,
+        "item" : "Other Math"
+      }, {
+        "count" : 11,
+        "item" : "MS Science Core"
+      }, {
+        "count" : 10,
+        "item" : "Earth Science"
+      }, {
+        "count" : 9,
+        "item" : "Living Environment"
+      }, {
+        "count" : 8,
+        "item" : "Chemistry"
+      }, {
+        "count" : 7,
+        "item" : "Physics"
+      }, {
+        "count" : 6,
+        "item" : "Other Science"
+      }, {
+        "count" : 5,
+        "item" : "MS Social Studies Core"
+      }, {
+        "count" : 4,
+        "item" : "Global History & Geography"
+      }, {
+        "count" : 3,
+        "item" : "US History & Government"
+      }, {
+        "count" : 2,
+        "item" : "Economics"
+      }, {
+        "count" : 1,
+        "item" : "Participation in Government"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3055934,
+    "name" : "SERVICE CATEGORY(K-9* ONLY)",
+    "dataTypeName" : "text",
+    "fieldName" : "service_category_k_9_only_",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1585436,
+    "width" : 424,
+    "cachedContents" : {
+      "non_null" : 154,
+      "smallest" : "-",
+      "null" : 0,
+      "largest" : "8:1:1",
+      "top" : [ {
+        "count" : 20,
+        "item" : "-"
+      }, {
+        "count" : 19,
+        "item" : "12:1"
+      }, {
+        "count" : 18,
+        "item" : "12:1:1"
+      }, {
+        "count" : 17,
+        "item" : "15:1"
+      }, {
+        "count" : 16,
+        "item" : "6:1:1"
+      }, {
+        "count" : 15,
+        "item" : "8:1:1"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3055935,
+    "name" : "NUMBER OF STUDENTS / SEATS FILLED",
+    "dataTypeName" : "number",
+    "fieldName" : "number_of_students_seats_filled",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1585437,
+    "width" : 496,
+    "cachedContents" : {
+      "non_null" : 154,
+      "smallest" : "10",
+      "sum" : "2773185",
+      "null" : 0,
+      "average" : "18007.69480519481",
+      "largest" : "164919",
+      "top" : [ {
+        "count" : 20,
+        "item" : "21990"
+      }, {
+        "count" : 19,
+        "item" : "2879"
+      }, {
+        "count" : 18,
+        "item" : "1514"
+      }, {
+        "count" : 17,
+        "item" : "10653"
+      }, {
+        "count" : 16,
+        "item" : "23233"
+      }, {
+        "count" : 15,
+        "item" : "9775"
+      }, {
+        "count" : 14,
+        "item" : "857"
+      }, {
+        "count" : 13,
+        "item" : "3683"
+      }, {
+        "count" : 12,
+        "item" : "4289"
+      }, {
+        "count" : 11,
+        "item" : "2841"
+      }, {
+        "count" : 10,
+        "item" : "1901"
+      }, {
+        "count" : 9,
+        "item" : "1883"
+      }, {
+        "count" : 8,
+        "item" : "1189"
+      }, {
+        "count" : 7,
+        "item" : "1075"
+      }, {
+        "count" : 6,
+        "item" : "2053"
+      }, {
+        "count" : 5,
+        "item" : "4792"
+      }, {
+        "count" : 4,
+        "item" : "931"
+      }, {
+        "count" : 3,
+        "item" : "191"
+      }, {
+        "count" : 2,
+        "item" : "166"
+      }, {
+        "count" : 1,
+        "item" : "56"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3055936,
+    "name" : "NUMBER OF SECTIONS",
+    "dataTypeName" : "number",
+    "fieldName" : "number_of_sections",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1585438,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 154,
+      "smallest" : "1",
+      "sum" : "111905",
+      "null" : 0,
+      "average" : "726.6558441558442",
+      "largest" : "6207",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      }, {
+        "count" : 18,
+        "item" : "366"
+      }, {
+        "count" : 17,
+        "item" : "236"
+      }, {
+        "count" : 16,
+        "item" : "156"
+      }, {
+        "count" : 15,
+        "item" : "159"
+      }, {
+        "count" : 14,
+        "item" : "106"
+      }, {
+        "count" : 13,
+        "item" : "95"
+      }, {
+        "count" : 12,
+        "item" : "177"
+      }, {
+        "count" : 11,
+        "item" : "384"
+      }, {
+        "count" : 10,
+        "item" : "76"
+      }, {
+        "count" : 9,
+        "item" : "16"
+      }, {
+        "count" : 8,
+        "item" : "13"
+      }, {
+        "count" : 7,
+        "item" : "5"
+      }, {
+        "count" : 6,
+        "item" : "29"
+      }, {
+        "count" : 5,
+        "item" : "161"
+      }, {
+        "count" : 4,
+        "item" : "323"
+      }, {
+        "count" : 3,
+        "item" : "3"
+      }, {
+        "count" : 2,
+        "item" : "189"
+      }, {
+        "count" : 1,
+        "item" : "400"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3055937,
+    "name" : "AVERAGE CLASS SIZE",
+    "dataTypeName" : "number",
+    "fieldName" : "average_class_size",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1585439,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 154,
+      "smallest" : "5.0",
+      "sum" : "3306.5",
+      "null" : 0,
+      "average" : "21.47077922077922",
+      "largest" : "33.0",
+      "top" : [ {
+        "count" : 20,
+        "item" : "25.8"
+      }, {
+        "count" : 19,
+        "item" : "24.9"
+      }, {
+        "count" : 18,
+        "item" : "10.0"
+      }, {
+        "count" : 17,
+        "item" : "11.3"
+      }, {
+        "count" : 16,
+        "item" : "26.8"
+      }, {
+        "count" : 15,
+        "item" : "24.8"
+      }, {
+        "count" : 14,
+        "item" : "27.3"
+      }, {
+        "count" : 13,
+        "item" : "27.5"
+      }, {
+        "count" : 12,
+        "item" : "26.0"
+      }, {
+        "count" : 11,
+        "item" : "26.2"
+      }, {
+        "count" : 10,
+        "item" : "27.0"
+      }, {
+        "count" : 9,
+        "item" : "27.2"
+      }, {
+        "count" : 8,
+        "item" : "25.3"
+      }, {
+        "count" : 7,
+        "item" : "26.9"
+      }, {
+        "count" : 6,
+        "item" : "26.6"
+      }, {
+        "count" : 5,
+        "item" : "12.8"
+      }, {
+        "count" : 4,
+        "item" : "11.2"
+      }, {
+        "count" : 3,
+        "item" : "11.6"
+      }, {
+        "count" : 2,
+        "item" : "13.0"
+      }, {
+        "count" : 1,
+        "item" : "12.7"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Historical Data"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "rnig-m3uj",
+    "displayName" : "Jorge J.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/5083/4460/large-profile_large.png",
+    "profileImageUrlMedium" : "/images/profile/5083/4460/large-profile_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/5083/4460/large-profile_tiny.png",
+    "profileLastModified" : 1322859437,
+    "screenName" : "Jorge J."
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rnig-m3uj",
+    "displayName" : "Jorge J.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/5083/4460/large-profile_large.png",
+    "profileImageUrlMedium" : "/images/profile/5083/4460/large-profile_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/5083/4460/large-profile_tiny.png",
+    "profileLastModified" : 1322859437,
+    "screenName" : "Jorge J."
+  },
+  "tags" : [ "lifelong learning" ],
+  "flags" : [ "default" ]
+}

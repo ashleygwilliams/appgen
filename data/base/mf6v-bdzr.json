@@ -1,0 +1,328 @@
+{
+  "id" : "mf6v-bdzr",
+  "name" : "Current Commuter Van Drivers",
+  "attribution" : "Taxi and Limousine Commission (TLC)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1314391491,
+  "description" : "Spreadsheet of all TLC commuter van drivers",
+  "displayType" : "table",
+  "downloadCount" : 21,
+  "numberOfComments" : 0,
+  "oid" : 332108,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1314391491,
+  "publicationGroup" : 239851,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1314391495,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 239851,
+  "totalTimesRated" : 0,
+  "viewCount" : 74,
+  "viewLastModified" : 1318009622,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2824419,
+    "name" : "License Number",
+    "dataTypeName" : "number",
+    "fieldName" : "license_number",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1512408,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 300,
+      "smallest" : "650016",
+      "sum" : "1422919009",
+      "null" : 1,
+      "average" : "4743063.363333333",
+      "largest" : "5406476",
+      "top" : [ {
+        "count" : 1,
+        "item" : "940012"
+      }, {
+        "count" : 1,
+        "item" : "5379963"
+      }, {
+        "count" : 1,
+        "item" : "5338858"
+      }, {
+        "count" : 1,
+        "item" : "5203187"
+      }, {
+        "count" : 1,
+        "item" : "5379681"
+      }, {
+        "count" : 1,
+        "item" : "5361719"
+      }, {
+        "count" : 1,
+        "item" : "940112"
+      }, {
+        "count" : 1,
+        "item" : "5376353"
+      }, {
+        "count" : 1,
+        "item" : "5257025"
+      }, {
+        "count" : 1,
+        "item" : "5107978"
+      }, {
+        "count" : 1,
+        "item" : "5400501"
+      }, {
+        "count" : 1,
+        "item" : "5339535"
+      }, {
+        "count" : 1,
+        "item" : "5343058"
+      }, {
+        "count" : 1,
+        "item" : "5378307"
+      }, {
+        "count" : 1,
+        "item" : "5331727"
+      }, {
+        "count" : 1,
+        "item" : "650239"
+      }, {
+        "count" : 1,
+        "item" : "5314076"
+      }, {
+        "count" : 1,
+        "item" : "5142567"
+      }, {
+        "count" : 1,
+        "item" : "5339367"
+      }, {
+        "count" : 1,
+        "item" : "5344247"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2824420,
+    "name" : "Name of Licensee",
+    "dataTypeName" : "text",
+    "fieldName" : "name_of_licensee",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1512409,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 301,
+      "smallest" : "ABBOTT,VALLEN,S",
+      "null" : 0,
+      "largest" : "ZOU,YUNIN",
+      "top" : [ {
+        "count" : 2,
+        "item" : "CHEN,XI"
+      }, {
+        "count" : 1,
+        "item" : "HENRY,ANTHONY,G"
+      }, {
+        "count" : 1,
+        "item" : "LOPEZ,ODALIA,E"
+      }, {
+        "count" : 1,
+        "item" : "DURAN,DONIS,E"
+      }, {
+        "count" : 1,
+        "item" : "HAQQ,SULAIMAN,A"
+      }, {
+        "count" : 1,
+        "item" : "GILBERT,JOHN,C"
+      }, {
+        "count" : 1,
+        "item" : "WANG,DONG,PING"
+      }, {
+        "count" : 1,
+        "item" : "DEPASS,MORRIS,HUGH"
+      }, {
+        "count" : 1,
+        "item" : "LI,GUO,CHUN"
+      }, {
+        "count" : 1,
+        "item" : "REN,FUSHAN"
+      }, {
+        "count" : 1,
+        "item" : "COCCO,RUBEN,A"
+      }, {
+        "count" : 1,
+        "item" : "CHEN,ZHEN,CHAO"
+      }, {
+        "count" : 1,
+        "item" : "CHEN,ZAI,ZI"
+      }, {
+        "count" : 1,
+        "item" : "YU,GUANGYI"
+      }, {
+        "count" : 1,
+        "item" : "MITCHELL,BARZILLA,E"
+      }, {
+        "count" : 1,
+        "item" : "GREENLAND,CANUTE,L"
+      }, {
+        "count" : 1,
+        "item" : "CLARKE,ALANDO,M"
+      }, {
+        "count" : 1,
+        "item" : "PALMER,VERNON"
+      }, {
+        "count" : 1,
+        "item" : "TAYLOR,ERROL,L"
+      }, {
+        "count" : 1,
+        "item" : "CALLISTE,HILARY"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2824421,
+    "name" : "License Type",
+    "dataTypeName" : "text",
+    "fieldName" : "license_type",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1512410,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 301,
+      "smallest" : "Commuter Van Driver",
+      "null" : 0,
+      "largest" : "License Type",
+      "top" : [ {
+        "count" : 300,
+        "item" : "Commuter Van Driver"
+      }, {
+        "count" : 1,
+        "item" : "License Type"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2824422,
+    "name" : "License Expiration Date",
+    "dataTypeName" : "date",
+    "fieldName" : "license_expiration_date",
+    "position" : 5,
+    "renderTypeName" : "date",
+    "tableColumnId" : 1512411,
+    "width" : 376,
+    "cachedContents" : {
+      "non_null" : 300,
+      "smallest" : 1315033200,
+      "null" : 1,
+      "largest" : 1385193600,
+      "top" : [ {
+        "count" : 4,
+        "item" : 1318662000
+      }, {
+        "count" : 4,
+        "item" : 1319958000
+      }, {
+        "count" : 4,
+        "item" : 1348902000
+      }, {
+        "count" : 3,
+        "item" : 1381820400
+      }, {
+        "count" : 3,
+        "item" : 1331366400
+      }, {
+        "count" : 3,
+        "item" : 1317970800
+      }, {
+        "count" : 3,
+        "item" : 1360915200
+      }, {
+        "count" : 3,
+        "item" : 1367391600
+      }, {
+        "count" : 3,
+        "item" : 1351407600
+      }, {
+        "count" : 3,
+        "item" : 1364108400
+      }, {
+        "count" : 3,
+        "item" : 1327737600
+      }, {
+        "count" : 3,
+        "item" : 1351580400
+      }, {
+        "count" : 3,
+        "item" : 1348729200
+      }, {
+        "count" : 2,
+        "item" : 1335510000
+      }, {
+        "count" : 2,
+        "item" : 1362211200
+      }, {
+        "count" : 2,
+        "item" : 1340002800
+      }, {
+        "count" : 2,
+        "item" : 1374908400
+      }, {
+        "count" : 2,
+        "item" : 1334473200
+      }, {
+        "count" : 2,
+        "item" : 1367564400
+      }, {
+        "count" : 2,
+        "item" : 1352707200
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "transportation", "taxi", "limousine", "commuter", "van", "driver" ],
+  "flags" : [ "default" ]
+}

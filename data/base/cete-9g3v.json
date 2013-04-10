@@ -1,0 +1,221 @@
+{
+  "id" : "cete-9g3v",
+  "name" : "Directory Of DHS Contacts",
+  "attribution" : "Department of Homeless Services (DHS)",
+  "attributionLink" : "http://www.nyc.gov/html/dhs/html/contact/contact.shtml",
+  "averageRating" : 0,
+  "category" : "Social Services",
+  "createdAt" : 1359584772,
+  "description" : "Important Phone Numbers of DHS Departments",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2386758,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359585298,
+  "publicationGroup" : 646830,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1359584776,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 646830,
+  "totalTimesRated" : 0,
+  "viewCount" : 19,
+  "viewLastModified" : 1359585331,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 42104800,
+    "name" : "Department Name",
+    "dataTypeName" : "text",
+    "fieldName" : "department_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7410573,
+    "width" : 330,
+    "cachedContents" : {
+      "non_null" : 9,
+      "smallest" : "Community Relations & Government Affairs Unit",
+      "null" : 0,
+      "largest" : "Office of the Commissioner",
+      "top" : [ {
+        "count" : 20,
+        "item" : "DHS Main Number"
+      }, {
+        "count" : 19,
+        "item" : "Office of the Commissioner"
+      }, {
+        "count" : 18,
+        "item" : "Office of Client Advocacy"
+      }, {
+        "count" : 17,
+        "item" : "Office of Communications and External Affairs - Press Office"
+      }, {
+        "count" : 16,
+        "item" : "Community Relations & Government Affairs Unit"
+      }, {
+        "count" : 15,
+        "item" : "Office of Diversity & Equal Opportunity Affairs"
+      }, {
+        "count" : 14,
+        "item" : "Legal Affairs"
+      }, {
+        "count" : 13,
+        "item" : "Freedom of Information Law (FOIL) Requests"
+      }, {
+        "count" : 12,
+        "item" : "Kim Bruno, Records Access Officer"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42104801,
+    "name" : "Phone Number",
+    "dataTypeName" : "text",
+    "fieldName" : "phone_number",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7410574,
+    "width" : 130,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "(212) 361-7900",
+      "null" : 1,
+      "largest" : "1-800-994-6494",
+      "top" : [ {
+        "count" : 20,
+        "item" : "(212) 361-8000"
+      }, {
+        "count" : 19,
+        "item" : "1-800-994-6494"
+      }, {
+        "count" : 18,
+        "item" : "(212) 361-7973"
+      }, {
+        "count" : 17,
+        "item" : "(212) 361-7900"
+      }, {
+        "count" : 16,
+        "item" : "(212) 361-7914"
+      }, {
+        "count" : 15,
+        "item" : "(212) 361-7996"
+      }, {
+        "count" : 14,
+        "item" : "(212) 607-5236"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42104803,
+    "name" : "Location",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 3,
+    "renderTypeName" : "location",
+    "tableColumnId" : 7410576,
+    "width" : 281,
+    "cachedContents" : {
+      "non_null" : 9,
+      "smallest" : {
+        "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+      },
+      "null" : 0,
+      "largest" : {
+        "human_address" : "{\"address\":\"33 Beaver Street, 20th Floor New York, NY 10004\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "human_address" : "{\"address\":\"33 Beaver Street, 17th Floor New York, NY 10004\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "human_address" : "{\"address\":\"33 Beaver Street, 20th Floor New York, NY 10004\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      } ]
+    },
+    "format" : {
+      "align" : "left",
+      "view" : "address_coords"
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 42104802,
+    "name" : "Comments",
+    "dataTypeName" : "text",
+    "fieldName" : "comments",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7410575,
+    "width" : 429,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "For all other requests for information or documents, including subpoenas",
+      "null" : 6,
+      "largest" : "Please direct all Freedom of Information Law (FOIL) records requests to: Cynthia Stallard, FOIL Officer",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Please call the main number to be directed to the appropriate office."
+      }, {
+        "count" : 19,
+        "item" : "Please direct all Freedom of Information Law (FOIL) records requests to: Cynthia Stallard, FOIL Officer"
+      }, {
+        "count" : 18,
+        "item" : "For all other requests for information or documents, including subpoenas"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dhs", "contact", "phone", "department", "homeless" ],
+  "flags" : [ "default" ]
+}

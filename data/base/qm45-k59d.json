@@ -1,0 +1,324 @@
+{
+  "id" : "qm45-k59d",
+  "name" : "Birth Rate By Mother's Neighborhood Of Residence, 2007",
+  "attribution" : "Department of Health and Mental Hygiene (DOHMH)",
+  "averageRating" : 0,
+  "category" : "Health",
+  "createdAt" : 1318342256,
+  "description" : "Rate of birth's by mother's neighborhood of residence\r\n\r\nUpdate Schedule: As required",
+  "displayType" : "table",
+  "downloadCount" : 56,
+  "numberOfComments" : 0,
+  "oid" : 343458,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318357553,
+  "publicationGroup" : 244713,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318357526,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 244777,
+  "totalTimesRated" : 0,
+  "viewCount" : 294,
+  "viewLastModified" : 1363712187,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3008566,
+    "name" : "United Hospital Fund (UHF) Neighborhood of Mother's Residence ",
+    "dataTypeName" : "text",
+    "fieldName" : "united_hospital_fund_uhf_neighborhood_of_mother_s_residence_",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1571597,
+    "width" : 700,
+    "cachedContents" : {
+      "non_null" : 48,
+      "smallest" : "Bay Ridge/Bensonhurst ",
+      "null" : 0,
+      "largest" : "† Denominator does not include those in Not stated/Unknown category. ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "The Rockaway "
+      }, {
+        "count" : 19,
+        "item" : "Staten Island"
+      }, {
+        "count" : 18,
+        "item" : "Port Richmond "
+      }, {
+        "count" : 17,
+        "item" : "Stapleton/St. George "
+      }, {
+        "count" : 16,
+        "item" : "Mid-Island "
+      }, {
+        "count" : 15,
+        "item" : "South Beach "
+      }, {
+        "count" : 14,
+        "item" : "† Denominator does not include those in Not stated/Unknown category. "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3008567,
+    "name" : "Total Live Births ",
+    "dataTypeName" : "number",
+    "fieldName" : "total_live_births_",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1571598,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 42,
+      "smallest" : "560",
+      "sum" : "118013",
+      "null" : 6,
+      "average" : "2809.833333333333",
+      "largest" : "7597",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2085"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 3008568,
+    "name" : "Percent of Live Births ",
+    "dataTypeName" : "percent",
+    "fieldName" : "percent_of_live_births_",
+    "position" : 4,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1571599,
+    "width" : 412,
+    "cachedContents" : {
+      "non_null" : 42,
+      "smallest" : "0.50",
+      "sum" : "99.80",
+      "null" : 6,
+      "average" : "2.376190476190476",
+      "largest" : "6.40",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.90"
+      }, {
+        "count" : 19,
+        "item" : "1.90"
+      }, {
+        "count" : 18,
+        "item" : "3.60"
+      }, {
+        "count" : 17,
+        "item" : "3.30"
+      }, {
+        "count" : 16,
+        "item" : "2.10"
+      }, {
+        "count" : 15,
+        "item" : "2.00"
+      }, {
+        "count" : 14,
+        "item" : "2.90"
+      }, {
+        "count" : 13,
+        "item" : "4.30"
+      }, {
+        "count" : 12,
+        "item" : "2.60"
+      }, {
+        "count" : 11,
+        "item" : "3.00"
+      }, {
+        "count" : 10,
+        "item" : "5.80"
+      }, {
+        "count" : 9,
+        "item" : "4.10"
+      }, {
+        "count" : 8,
+        "item" : "2.20"
+      }, {
+        "count" : 7,
+        "item" : "3.20"
+      }, {
+        "count" : 6,
+        "item" : "3.10"
+      }, {
+        "count" : 5,
+        "item" : "1.40"
+      }, {
+        "count" : 4,
+        "item" : "2.50"
+      }, {
+        "count" : 3,
+        "item" : "2.40"
+      }, {
+        "count" : 2,
+        "item" : "1.10"
+      }, {
+        "count" : 1,
+        "item" : "0.80"
+      } ]
+    },
+    "format" : {
+      "noCommas" : "false",
+      "align" : "right",
+      "view" : "percent_bar_and_text"
+    }
+  }, {
+    "id" : 3008569,
+    "name" : "Birth Rate per 1,000 population ",
+    "dataTypeName" : "number",
+    "fieldName" : "birth_rate_per_1_000_population_",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1571600,
+    "width" : 484,
+    "cachedContents" : {
+      "non_null" : 42,
+      "smallest" : "6.3",
+      "sum" : "597.4000000000000023",
+      "null" : 6,
+      "average" : "14.22380952380952",
+      "largest" : "28.3",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11.8"
+      }, {
+        "count" : 19,
+        "item" : "11.9"
+      }, {
+        "count" : 18,
+        "item" : "16.5"
+      }, {
+        "count" : 17,
+        "item" : "13.4"
+      }, {
+        "count" : 16,
+        "item" : "18.8"
+      }, {
+        "count" : 15,
+        "item" : "19.100000000000001"
+      }, {
+        "count" : 14,
+        "item" : "18.3"
+      }, {
+        "count" : 13,
+        "item" : "15.7"
+      }, {
+        "count" : 12,
+        "item" : "16.100000000000001"
+      }, {
+        "count" : 11,
+        "item" : "17.5"
+      }, {
+        "count" : 10,
+        "item" : "28.3"
+      }, {
+        "count" : 9,
+        "item" : "20.2"
+      }, {
+        "count" : 8,
+        "item" : "15.4"
+      }, {
+        "count" : 7,
+        "item" : "12.9"
+      }, {
+        "count" : 6,
+        "item" : "12"
+      }, {
+        "count" : 5,
+        "item" : "11.6"
+      }, {
+        "count" : 4,
+        "item" : "14.2"
+      }, {
+        "count" : 3,
+        "item" : "16"
+      }, {
+        "count" : 2,
+        "item" : "15"
+      }, {
+        "count" : 1,
+        "item" : "12.4"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3008570,
+    "name" : "Fertility Rate per 1,000 women (15-44)",
+    "dataTypeName" : "number",
+    "fieldName" : "fertility_rate_per_1_000_women_15_44_",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1571601,
+    "width" : 556,
+    "cachedContents" : {
+      "non_null" : 42,
+      "smallest" : "32.200000000000003",
+      "sum" : "2622.900000000000003",
+      "null" : 6,
+      "average" : "62.45000000000000",
+      "largest" : "126.5",
+      "top" : [ {
+        "count" : 20,
+        "item" : "61.7"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "birth", "labor", "neighborhood", "2007", "healthy living" ],
+  "flags" : [ "default" ]
+}

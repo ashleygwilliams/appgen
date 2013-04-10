@@ -1,0 +1,604 @@
+{
+  "id" : "4nft-bihw",
+  "name" : "Assessment Actions",
+  "attribution" : "New York City Tax Commission (TAXCOMM)",
+  "attributionLink" : "http://www.nyc.gov/html/taxcomm/html/reductions/reductions.shtml",
+  "averageRating" : 0,
+  "category" : "Property",
+  "createdAt" : 1362168130,
+  "description" : "Actions on Applications in 2012 Reducing Assessments or Reclassifying Property. \r\n\r\nListed here are Tax Commission actions during 2012 reducing assessments or reclassifying property.\r\n\r\nKEY:  YR=Assessment year (11=2011/12; 12=2012/13); R=Reduction implemented by remission of taxes; B=Borough (1=Manhattan, 2=Bronx, 3=Brooklyn, 4=Queens, 5=Staten Island); TC=Tax Class or subclass.\r\n\r\nKEY:  YR=Assessment year (11=2011/12; 12=2012/13); R=Reduction implemented by remission of taxes; B=Borough (1=Manhattan, 2=Bronx, 3=Brooklyn, 4=Queens, 5=Staten Island); TC=Tax Class or subclass.",
+  "displayType" : "table",
+  "downloadCount" : 1,
+  "numberOfComments" : 0,
+  "oid" : 2836134,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363373015,
+  "publicationGroup" : 707842,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1363372750,
+  "rowsUpdatedBy" : "5fuc-pqz2",
+  "signed" : false,
+  "tableId" : 735467,
+  "totalTimesRated" : 0,
+  "viewCount" : 36,
+  "viewLastModified" : 1363373015,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 50799060,
+    "name" : "Borough Code",
+    "dataTypeName" : "number",
+    "description" : "Borough Code\nSignifies the Borough (1=Manhattan, 2=Bronx, 3=Brooklyn, 4=Queens, 5=Staten Island)",
+    "fieldName" : "borough_code",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8272462,
+    "width" : 125,
+    "cachedContents" : {
+      "non_null" : 9902,
+      "smallest" : "1",
+      "sum" : "20848",
+      "null" : 0,
+      "average" : "2.105433245808927",
+      "largest" : "5",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "5"
+      }, {
+        "count" : 16,
+        "item" : "2"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 50799824,
+    "name" : "Block Number",
+    "dataTypeName" : "number",
+    "description" : "Block\nBlock Number of the specified property",
+    "fieldName" : "block_number",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8272463,
+    "width" : 131,
+    "cachedContents" : {
+      "non_null" : 9902,
+      "smallest" : "4",
+      "sum" : "29202496",
+      "null" : 0,
+      "average" : "2949.151282569178",
+      "largest" : "82532",
+      "top" : [ {
+        "count" : 20,
+        "item" : "170"
+      }, {
+        "count" : 19,
+        "item" : "2361"
+      }, {
+        "count" : 18,
+        "item" : "2459"
+      }, {
+        "count" : 17,
+        "item" : "2556"
+      }, {
+        "count" : 16,
+        "item" : "2573"
+      }, {
+        "count" : 15,
+        "item" : "2602"
+      }, {
+        "count" : 14,
+        "item" : "2610"
+      }, {
+        "count" : 13,
+        "item" : "2611"
+      }, {
+        "count" : 12,
+        "item" : "2629"
+      }, {
+        "count" : 11,
+        "item" : "2630"
+      }, {
+        "count" : 10,
+        "item" : "2632"
+      }, {
+        "count" : 9,
+        "item" : "2662"
+      }, {
+        "count" : 8,
+        "item" : "2668"
+      }, {
+        "count" : 7,
+        "item" : "2681"
+      }, {
+        "count" : 6,
+        "item" : "2689"
+      }, {
+        "count" : 5,
+        "item" : "2690"
+      }, {
+        "count" : 4,
+        "item" : "2771"
+      }, {
+        "count" : 3,
+        "item" : "7469"
+      }, {
+        "count" : 2,
+        "item" : "7515"
+      }, {
+        "count" : 1,
+        "item" : "7528"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 50799825,
+    "name" : "Lot Number",
+    "dataTypeName" : "number",
+    "description" : "Lot\nLot Number of the specified property",
+    "fieldName" : "lot_number",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8272473,
+    "width" : 135,
+    "cachedContents" : {
+      "non_null" : 9902,
+      "smallest" : "1",
+      "sum" : "1829554",
+      "null" : 0,
+      "average" : "184.7661078569986",
+      "largest" : "9021",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "1001"
+      }, {
+        "count" : 18,
+        "item" : "1002"
+      }, {
+        "count" : 17,
+        "item" : "15"
+      }, {
+        "count" : 16,
+        "item" : "41"
+      }, {
+        "count" : 15,
+        "item" : "45"
+      }, {
+        "count" : 14,
+        "item" : "65"
+      }, {
+        "count" : 13,
+        "item" : "74"
+      }, {
+        "count" : 12,
+        "item" : "76"
+      }, {
+        "count" : 11,
+        "item" : "78"
+      }, {
+        "count" : 10,
+        "item" : "84"
+      }, {
+        "count" : 9,
+        "item" : "86"
+      }, {
+        "count" : 8,
+        "item" : "88"
+      }, {
+        "count" : 7,
+        "item" : "143"
+      }, {
+        "count" : 6,
+        "item" : "11"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 50799989,
+    "name" : "Tax Year",
+    "dataTypeName" : "number",
+    "description" : "Tax Year\nYear of the reduction applicability",
+    "fieldName" : "tax_year",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8272488,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 9902,
+      "smallest" : "2011",
+      "sum" : "19920317",
+      "null" : 0,
+      "average" : "2011.746818824480",
+      "largest" : "2012",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2012"
+      }, {
+        "count" : 19,
+        "item" : "2011"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 50799064,
+    "name" : "Remission Code",
+    "dataTypeName" : "text",
+    "description" : "Remission Code\nR indicates Remission",
+    "fieldName" : "remission_code",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8272499,
+    "width" : 137,
+    "cachedContents" : {
+      "non_null" : 9902,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "R",
+      "top" : [ {
+        "count" : 20,
+        "item" : "R"
+      }, {
+        "count" : 19,
+        "item" : " "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 50799065,
+    "name" : "Owner Name",
+    "dataTypeName" : "text",
+    "description" : "Owner Name\nName of the specified property's owner",
+    "fieldName" : "owner_name",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8272531,
+    "width" : 131,
+    "cachedContents" : {
+      "non_null" : 9902,
+      "smallest" : "                     ",
+      "null" : 0,
+      "largest" : "ZWIER, LISA          ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "                     "
+      }, {
+        "count" : 19,
+        "item" : "ANTHONY ALIZIO       "
+      }, {
+        "count" : 18,
+        "item" : "MJC ENTERPRISES I, LL"
+      }, {
+        "count" : 17,
+        "item" : "JAVA STREET REALTY LL"
+      }, {
+        "count" : 16,
+        "item" : "TROMET ASSOCS INC    "
+      }, {
+        "count" : 15,
+        "item" : "BLOCK 7469, LLC      "
+      }, {
+        "count" : 14,
+        "item" : "OUTERBRIDGE AVENUE SH"
+      }, {
+        "count" : 13,
+        "item" : "OTTAVIO SAVO         "
+      }, {
+        "count" : 12,
+        "item" : "OVAS BUILDING CORP   "
+      }, {
+        "count" : 11,
+        "item" : "JOHN A BOCCIERI INC  "
+      }, {
+        "count" : 10,
+        "item" : "PHILIP FIRMANO       "
+      }, {
+        "count" : 9,
+        "item" : "WILLIAM ABARNO       "
+      }, {
+        "count" : 8,
+        "item" : "LOT 65, INC          "
+      }, {
+        "count" : 7,
+        "item" : "VSM REALTY LLC       "
+      }, {
+        "count" : 6,
+        "item" : "SPRINT-NEXTEL CORPORA"
+      }, {
+        "count" : 5,
+        "item" : "T MOBILE NORTHEAST LL"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 50799066,
+    "name" : "Property Address",
+    "dataTypeName" : "text",
+    "description" : "Address\nAddress of the specified property",
+    "fieldName" : "property_address",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8272532,
+    "width" : 156,
+    "cachedContents" : {
+      "non_null" : 9902,
+      "smallest" : "                     ",
+      "null" : 0,
+      "largest" : "WYATT STREET         ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "                     "
+      }, {
+        "count" : 19,
+        "item" : "52-02 FLUSHING AVENUE"
+      }, {
+        "count" : 18,
+        "item" : "5844 MAURICE AVENUE  "
+      }, {
+        "count" : 17,
+        "item" : "63-07 METROPOLITAN AV"
+      }, {
+        "count" : 16,
+        "item" : "VETERANS ROAD WEST   "
+      }, {
+        "count" : 15,
+        "item" : "TYRELLAN AVENUE      "
+      }, {
+        "count" : 14,
+        "item" : "OUTERBRIDGE AVENUE   "
+      }, {
+        "count" : 13,
+        "item" : "SCHMIEG AVENUE       "
+      }, {
+        "count" : 12,
+        "item" : "WANIER AVENUE        "
+      }, {
+        "count" : 11,
+        "item" : "115 PAGE AVENUE      "
+      }, {
+        "count" : 10,
+        "item" : "45 PAGE AVENUE       "
+      }, {
+        "count" : 9,
+        "item" : "94 MADSEN AVENUE     "
+      }, {
+        "count" : 8,
+        "item" : "KREISCHER STREET     "
+      }, {
+        "count" : 7,
+        "item" : "6264 AMBOY ROAD      "
+      }, {
+        "count" : 6,
+        "item" : "133 SPRAGUE AVENUE   "
+      }, {
+        "count" : 5,
+        "item" : "105 NANCY LANE       "
+      }, {
+        "count" : 4,
+        "item" : "17 SANFORD STREET    "
+      }, {
+        "count" : 3,
+        "item" : "399 CHELSEA STREET   "
+      }, {
+        "count" : 2,
+        "item" : "315 YETMAN AVENUE    "
+      }, {
+        "count" : 1,
+        "item" : "522 MAIN STREET      "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 50799067,
+    "name" : "Granted Reduction Amount",
+    "dataTypeName" : "money",
+    "description" : "Reduction Granted\nAmount of assessment reduction in dollars",
+    "fieldName" : "granted_reduction_amount",
+    "position" : 8,
+    "renderTypeName" : "money",
+    "tableColumnId" : 8272533,
+    "width" : 197,
+    "cachedContents" : {
+      "non_null" : 9902,
+      "smallest" : "70",
+      "sum" : "5505179431",
+      "null" : 0,
+      "average" : "555966.4139567764",
+      "largest" : "77680850",
+      "top" : [ {
+        "count" : 20,
+        "item" : "74500"
+      }, {
+        "count" : 19,
+        "item" : "14150"
+      }, {
+        "count" : 18,
+        "item" : "11400"
+      }, {
+        "count" : 17,
+        "item" : "13650"
+      }, {
+        "count" : 16,
+        "item" : "12800"
+      }, {
+        "count" : 15,
+        "item" : "16850"
+      }, {
+        "count" : 14,
+        "item" : "6400"
+      }, {
+        "count" : 13,
+        "item" : "8650"
+      }, {
+        "count" : 12,
+        "item" : "1120000"
+      } ]
+    },
+    "format" : {
+      "precision" : "0",
+      "humane" : "false",
+      "align" : "right",
+      "currency" : "USD"
+    }
+  }, {
+    "id" : 50799068,
+    "name" : "Tax Class Code",
+    "dataTypeName" : "text",
+    "description" : "Tax Class Code\nTax Class Code of the specified property",
+    "fieldName" : "tax_class_code",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8272546,
+    "width" : 145,
+    "cachedContents" : {
+      "non_null" : 9902,
+      "smallest" : "1 ",
+      "null" : 0,
+      "largest" : "4 ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2A"
+      }, {
+        "count" : 19,
+        "item" : "4 "
+      }, {
+        "count" : 18,
+        "item" : "1 "
+      }, {
+        "count" : 17,
+        "item" : "2B"
+      }, {
+        "count" : 16,
+        "item" : "2 "
+      }, {
+        "count" : 15,
+        "item" : "2C"
+      }, {
+        "count" : 14,
+        "item" : "1A"
+      }, {
+        "count" : 13,
+        "item" : "1B"
+      }, {
+        "count" : 12,
+        "item" : "1C"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+    "orderBys" : [ {
+      "ascending" : true,
+      "expression" : {
+        "columnId" : 50799060,
+        "type" : "column"
+      }
+    }, {
+      "ascending" : true,
+      "expression" : {
+        "columnId" : 50799824,
+        "type" : "column"
+      }
+    }, {
+      "ascending" : true,
+      "expression" : {
+        "columnId" : 50799825,
+        "type" : "column"
+      }
+    }, {
+      "ascending" : true,
+      "expression" : {
+        "columnId" : 50799989,
+        "type" : "column"
+      }
+    } ]
+  },
+  "rights" : [ "read" ],
+  "sortBys" : [ {
+    "id" : 0,
+    "viewColumnId" : 50799060,
+    "flags" : [ "asc" ]
+  }, {
+    "id" : 0,
+    "viewColumnId" : 50799824,
+    "flags" : [ "asc" ]
+  }, {
+    "id" : 0,
+    "viewColumnId" : 50799825,
+    "flags" : [ "asc" ]
+  }, {
+    "id" : 0,
+    "viewColumnId" : 50799989,
+    "flags" : [ "asc" ]
+  } ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "reduction", "action" ],
+  "flags" : [ "default" ]
+}

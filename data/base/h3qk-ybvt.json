@@ -1,0 +1,602 @@
+{
+  "id" : "h3qk-ybvt",
+  "name" : "Energy Efficiency Projects",
+  "attribution" : "Department of Citywide Administrative Services (DCAS)",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1329241138,
+  "description" : "The City’s Long-Term Sustainability Plan, PlaNYC, calls for City government to reduce greenhouse gas emissions produced by municipal operations 30% by 2017. A large part of this effort is retrofitting municipal buildings to become more energy efficient. This dataset lists energy efficiency projects at City buildings that are complete or in progress. Projects are listed by address, building name, and agency, and the dataset includes the estimated reduction in tons of GHG emissions associated with the project.",
+  "displayType" : "table",
+  "downloadCount" : 93,
+  "numberOfComments" : 0,
+  "oid" : 1381633,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1350923358,
+  "publicationGroup" : 285428,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1350923258,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 458925,
+  "totalTimesRated" : 0,
+  "viewCount" : 366,
+  "viewLastModified" : 1350923619,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 23645125,
+    "name" : "PrimaryProjectType",
+    "dataTypeName" : "text",
+    "fieldName" : "primaryprojecttype",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2110026,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 583,
+      "smallest" : "Comprehensive",
+      "null" : 1,
+      "largest" : "Other",
+      "top" : [ {
+        "count" : 20,
+        "item" : "HVAC System Upgrade"
+      }, {
+        "count" : 19,
+        "item" : "Lighting System Upgrade"
+      }, {
+        "count" : 18,
+        "item" : "Comprehensive"
+      }, {
+        "count" : 17,
+        "item" : "Energy Audit"
+      }, {
+        "count" : 16,
+        "item" : "Other"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 23645126,
+    "name" : "SubType",
+    "dataTypeName" : "text",
+    "fieldName" : "subtype",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2110027,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 574,
+      "smallest" : "Cogen",
+      "null" : 10,
+      "largest" : "Solar Thermal",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Retrofit"
+      }, {
+        "count" : 19,
+        "item" : "None"
+      }, {
+        "count" : 18,
+        "item" : "Retro-commissioning"
+      }, {
+        "count" : 17,
+        "item" : "Cogen"
+      }, {
+        "count" : 16,
+        "item" : "O&M"
+      }, {
+        "count" : 15,
+        "item" : "Photovoltaic"
+      }, {
+        "count" : 14,
+        "item" : "Solar Thermal"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 23645127,
+    "name" : "ProjectStatus",
+    "dataTypeName" : "text",
+    "fieldName" : "projectstatus",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2110028,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 583,
+      "smallest" : "Cancelled",
+      "null" : 1,
+      "largest" : "Undefined",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Completed"
+      }, {
+        "count" : 19,
+        "item" : "Install"
+      }, {
+        "count" : 18,
+        "item" : "Cancelled"
+      }, {
+        "count" : 17,
+        "item" : "Proposed"
+      }, {
+        "count" : 16,
+        "item" : "Survey"
+      }, {
+        "count" : 15,
+        "item" : "Design"
+      }, {
+        "count" : 14,
+        "item" : "Substantially Completed"
+      }, {
+        "count" : 13,
+        "item" : "In Progress"
+      }, {
+        "count" : 12,
+        "item" : "Undefined"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 23645683,
+    "name" : "StartDateActual",
+    "dataTypeName" : "text",
+    "fieldName" : "startdateactual",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2110029,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 316,
+      "smallest" : "01-Apr-09",
+      "null" : 268,
+      "largest" : "31-Oct-11",
+      "top" : [ {
+        "count" : 20,
+        "item" : "16-Aug-11"
+      }, {
+        "count" : 19,
+        "item" : "13-May-08"
+      }, {
+        "count" : 18,
+        "item" : "14-Aug-12"
+      }, {
+        "count" : 17,
+        "item" : "09-Aug-11"
+      }, {
+        "count" : 16,
+        "item" : "24-Jul-09"
+      }, {
+        "count" : 15,
+        "item" : "26-Jun-09"
+      }, {
+        "count" : 14,
+        "item" : "31-May-11"
+      }, {
+        "count" : 13,
+        "item" : "01-Apr-11"
+      }, {
+        "count" : 12,
+        "item" : "10-Jan-11"
+      }, {
+        "count" : 11,
+        "item" : "04-Oct-07"
+      }, {
+        "count" : 10,
+        "item" : "27-Mar-09"
+      }, {
+        "count" : 9,
+        "item" : "16-Dec-11"
+      }, {
+        "count" : 8,
+        "item" : "03-Aug-11"
+      }, {
+        "count" : 7,
+        "item" : "15-Dec-10"
+      }, {
+        "count" : 6,
+        "item" : "03-Jan-11"
+      }, {
+        "count" : 5,
+        "item" : "12-Jul-10"
+      }, {
+        "count" : 4,
+        "item" : "12-Sep-11"
+      }, {
+        "count" : 3,
+        "item" : "04-Nov-10"
+      }, {
+        "count" : 2,
+        "item" : "20-Mar-08"
+      }, {
+        "count" : 1,
+        "item" : "05-Sep-07"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 23645783,
+    "name" : "FinishDateActual",
+    "dataTypeName" : "text",
+    "fieldName" : "finishdateactual",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2110030,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 263,
+      "smallest" : "01-Apr-08",
+      "null" : 321,
+      "largest" : "31-Oct-11",
+      "top" : [ {
+        "count" : 20,
+        "item" : "30-Jun-11"
+      }, {
+        "count" : 19,
+        "item" : "15-Jun-12"
+      }, {
+        "count" : 18,
+        "item" : "17-Apr-12"
+      }, {
+        "count" : 17,
+        "item" : "08-May-12"
+      }, {
+        "count" : 16,
+        "item" : "12-May-10"
+      }, {
+        "count" : 15,
+        "item" : "13-May-10"
+      }, {
+        "count" : 14,
+        "item" : "22-Feb-12"
+      }, {
+        "count" : 13,
+        "item" : "31-Dec-11"
+      }, {
+        "count" : 12,
+        "item" : "01-Apr-08"
+      }, {
+        "count" : 11,
+        "item" : "30-Sep-11"
+      }, {
+        "count" : 10,
+        "item" : "31-Oct-11"
+      }, {
+        "count" : 9,
+        "item" : "03-Jun-11"
+      }, {
+        "count" : 8,
+        "item" : "16-Oct-08"
+      }, {
+        "count" : 7,
+        "item" : "13-Sep-08"
+      }, {
+        "count" : 6,
+        "item" : "11-Sep-08"
+      }, {
+        "count" : 5,
+        "item" : "12-Sep-08"
+      }, {
+        "count" : 4,
+        "item" : "14-Sep-08"
+      }, {
+        "count" : 3,
+        "item" : "15-Sep-08"
+      }, {
+        "count" : 2,
+        "item" : "20-Jul-09"
+      }, {
+        "count" : 1,
+        "item" : "28-Jan-10"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 23645130,
+    "name" : "ProjectSiteName",
+    "dataTypeName" : "text",
+    "fieldName" : "projectsitename",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2110031,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 557,
+      "smallest" : "08X152 - 1007 Evergreen Avenue",
+      "null" : 27,
+      "largest" : "X430 Walton H.S.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "St. Mary's Rec Center"
+      }, {
+        "count" : 19,
+        "item" : "Bushwick Multi Service Center"
+      }, {
+        "count" : 18,
+        "item" : "Group 5 - 71st/76th/90th/94th/77 Annex Pcts"
+      }, {
+        "count" : 17,
+        "item" : "122nd Precinct"
+      }, {
+        "count" : 16,
+        "item" : "Police Headquarters"
+      }, {
+        "count" : 15,
+        "item" : "115th Precinct - Photovoltaic"
+      }, {
+        "count" : 14,
+        "item" : "48th Precinct - Photovoltaic"
+      }, {
+        "count" : 13,
+        "item" : "Old 41st Precinct"
+      }, {
+        "count" : 12,
+        "item" : "New York Police Academy"
+      }, {
+        "count" : 11,
+        "item" : "Humanities & Social Sciences Library"
+      }, {
+        "count" : 10,
+        "item" : "Andrew Heiskell Library"
+      }, {
+        "count" : 9,
+        "item" : "Pelham Bay Branch Library"
+      }, {
+        "count" : 8,
+        "item" : "Wakefield Branch"
+      }, {
+        "count" : 7,
+        "item" : "Woodhaven Branch Library"
+      }, {
+        "count" : 6,
+        "item" : "Staten Island Zoo"
+      }, {
+        "count" : 5,
+        "item" : "Woodside Inspection Facility"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 23645131,
+    "name" : "ProjectSiteAddress",
+    "dataTypeName" : "text",
+    "fieldName" : "projectsiteaddress",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2110032,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 552,
+      "smallest" : "09-09 Hazen St",
+      "null" : 32,
+      "largest" : "W 77-81 Streets Columbus Ave, 200 Central Park West",
+      "top" : [ {
+        "count" : 20,
+        "item" : "450 St. Ann's Avenue"
+      }, {
+        "count" : 19,
+        "item" : "1420 Burswick Ave"
+      }, {
+        "count" : 18,
+        "item" : "2320 Hylan Blvd"
+      }, {
+        "count" : 17,
+        "item" : "1 Police Plaza"
+      }, {
+        "count" : 16,
+        "item" : "92-15 Northern Blvd"
+      }, {
+        "count" : 15,
+        "item" : "450 Cross Bronx Expressway"
+      }, {
+        "count" : 14,
+        "item" : "1086 Simpson Street"
+      }, {
+        "count" : 13,
+        "item" : "College Point, Queens"
+      }, {
+        "count" : 12,
+        "item" : "454 Fifth Avenue"
+      }, {
+        "count" : 11,
+        "item" : "40 West 20th Street"
+      }, {
+        "count" : 10,
+        "item" : "3060 Middletown Road"
+      }, {
+        "count" : 9,
+        "item" : "4100 Lowerre Place"
+      }, {
+        "count" : 8,
+        "item" : "8541 Forest Pkwy"
+      }, {
+        "count" : 7,
+        "item" : "614 Broadway Staten Island, NY"
+      }, {
+        "count" : 6,
+        "item" : "24-55 Brooklyn-Queens Expwy"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 23645132,
+    "name" : "Acronym",
+    "dataTypeName" : "text",
+    "fieldName" : "acronym",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2110033,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 557,
+      "smallest" : "ACS",
+      "null" : 27,
+      "largest" : "TLC",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BPL"
+      }, {
+        "count" : 19,
+        "item" : "CUNY"
+      }, {
+        "count" : 18,
+        "item" : "DCAS"
+      }, {
+        "count" : 17,
+        "item" : "DFMC"
+      }, {
+        "count" : 16,
+        "item" : "MoMA"
+      }, {
+        "count" : 15,
+        "item" : "DCLA"
+      }, {
+        "count" : 14,
+        "item" : "DHS"
+      }, {
+        "count" : 13,
+        "item" : "DOC"
+      }, {
+        "count" : 12,
+        "item" : "DSNY"
+      }, {
+        "count" : 11,
+        "item" : "DPR"
+      }, {
+        "count" : 10,
+        "item" : "FDNY"
+      }, {
+        "count" : 9,
+        "item" : "HRA"
+      }, {
+        "count" : 8,
+        "item" : "NYPD"
+      }, {
+        "count" : 7,
+        "item" : "DEP1"
+      }, {
+        "count" : 6,
+        "item" : "DFTA"
+      }, {
+        "count" : 5,
+        "item" : "ACS"
+      }, {
+        "count" : 4,
+        "item" : "DOE"
+      }, {
+        "count" : 3,
+        "item" : "DOHMH"
+      }, {
+        "count" : 2,
+        "item" : "DOT"
+      }, {
+        "count" : 1,
+        "item" : "NYCEDC"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 23645133,
+    "name" : "CO2e (MT) Calculated",
+    "dataTypeName" : "number",
+    "fieldName" : "co2e_mt_calculated",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 2110034,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 402,
+      "smallest" : "-354.98",
+      "sum" : "149972.08",
+      "null" : 182,
+      "average" : "373.0648756218905",
+      "largest" : "37546.28",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.00"
+      }, {
+        "count" : 19,
+        "item" : "59.40"
+      }, {
+        "count" : 18,
+        "item" : "2122.53"
+      }, {
+        "count" : 17,
+        "item" : "26.63"
+      }, {
+        "count" : 16,
+        "item" : "23.59"
+      }, {
+        "count" : 15,
+        "item" : "15.48"
+      }, {
+        "count" : 14,
+        "item" : "8.27"
+      }, {
+        "count" : 13,
+        "item" : "111.18"
+      }, {
+        "count" : 12,
+        "item" : "61.06"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Quarterly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "department of citywide administrative services", "energy efficiency projects", "dcas", "sustainability", "planyc", "retrofit", "efficient", "emission", "ghg", "energy management", "energy" ],
+  "flags" : [ "default" ]
+}

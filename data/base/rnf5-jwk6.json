@@ -1,0 +1,186 @@
+{
+  "id" : "rnf5-jwk6",
+  "name" : "Disposition of Allegations",
+  "attribution" : "Civilian Complaint Review Board (CCRB)",
+  "attributionLink" : "http://www.nyc.gov/html/ccrb/pdf/ccrbappendices2011.pdf",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1361828826,
+  "description" : "This table represents the disposition of allegations",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2642310,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361896841,
+  "publicationGroup" : 699533,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1361894067,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 701073,
+  "totalTimesRated" : 0,
+  "viewCount" : 23,
+  "viewLastModified" : 1361912600,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 47116787,
+    "name" : "Year",
+    "dataTypeName" : "text",
+    "fieldName" : "year",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159599,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "2009",
+      "null" : 0,
+      "largest" : "2011",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2009"
+      }, {
+        "count" : 19,
+        "item" : "2010"
+      }, {
+        "count" : 18,
+        "item" : "2011"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 47116788,
+    "name" : "Full Investigations - Dispositions and Disciplinary Recommendations",
+    "dataTypeName" : "text",
+    "fieldName" : "full_investigations_dispositions_and_disciplinary_recommendations",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159600,
+    "width" : 389,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "10143",
+      "null" : 0,
+      "largest" : "8895",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10143"
+      }, {
+        "count" : 19,
+        "item" : "8895"
+      }, {
+        "count" : 18,
+        "item" : "6836"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47116789,
+    "name" : "Alternative Dispute Resolution Closures",
+    "dataTypeName" : "text",
+    "fieldName" : "alternative_dispute_resolution_closures",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159601,
+    "width" : 224,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "419",
+      "null" : 0,
+      "largest" : "800",
+      "top" : [ {
+        "count" : 20,
+        "item" : "419"
+      }, {
+        "count" : 19,
+        "item" : "800"
+      }, {
+        "count" : 18,
+        "item" : "798"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47116790,
+    "name" : "Truncated Investigations",
+    "dataTypeName" : "text",
+    "fieldName" : "truncated_investigations",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159602,
+    "width" : 141,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "16886",
+      "null" : 0,
+      "largest" : "23990",
+      "top" : [ {
+        "count" : 20,
+        "item" : "23990"
+      }, {
+        "count" : 19,
+        "item" : "20389"
+      }, {
+        "count" : 18,
+        "item" : "16886"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "ccrb", "investigations", "dispositions", "disciplinary", "disposition", "allegations" ],
+  "flags" : [ "default" ]
+}

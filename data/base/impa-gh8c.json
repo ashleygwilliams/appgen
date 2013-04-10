@@ -1,0 +1,277 @@
+{
+  "id" : "impa-gh8c",
+  "name" : "Disqualified firms",
+  "attribution" : "School Construction Authority (SCA)",
+  "averageRating" : 0,
+  "category" : "Construction and Housing",
+  "createdAt" : 1362583290,
+  "description" : "List of firms that are disqualified to work for the SCA. The file includes the term of the firms' disqualification. If the 'disqualified to date' is empty, the firm is disqualified indefinitely.",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "numberOfComments" : 0,
+  "oid" : 2730966,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362585548,
+  "publicationGroup" : 717700,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1362585517,
+  "rowsUpdatedBy" : "ci6y-i73t",
+  "signed" : false,
+  "tableId" : 717778,
+  "totalTimesRated" : 0,
+  "viewCount" : 16,
+  "viewLastModified" : 1363704174,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 48794099,
+    "name" : "category",
+    "dataTypeName" : "text",
+    "fieldName" : "category",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401257,
+    "width" : 110,
+    "cachedContents" : {
+      "non_null" : 299,
+      "smallest" : "Disqualified",
+      "null" : 0,
+      "largest" : "Suspended",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Suspended"
+      }, {
+        "count" : 19,
+        "item" : "Disqualified"
+      }, {
+        "count" : 18,
+        "item" : "Ineligible"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48794101,
+    "name" : "c_name",
+    "dataTypeName" : "text",
+    "fieldName" : "c_name",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401258,
+    "width" : 293,
+    "cachedContents" : {
+      "non_null" : 299,
+      "smallest" : "2000 PAINTING, INC.",
+      "null" : 0,
+      "largest" : "ZOLLO CONSTRUCTION CORP.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "WORTH CONSTRUCTION CO., INC."
+      }, {
+        "count" : 19,
+        "item" : "Xyamica Air Conditioning & Piping Corp."
+      }, {
+        "count" : 18,
+        "item" : "ZHN CONTRACTING CORPORATION"
+      }, {
+        "count" : 17,
+        "item" : "ZOLLO CONSTRUCTION CORP."
+      }, {
+        "count" : 16,
+        "item" : "Alps Mechanical, Inc."
+      }, {
+        "count" : 15,
+        "item" : "Andron Construction Corp."
+      }, {
+        "count" : 14,
+        "item" : "Dean Builders, Inc."
+      }, {
+        "count" : 13,
+        "item" : "G & F.A.S.T. Electric, Inc."
+      }, {
+        "count" : 12,
+        "item" : "Grand Mechanical Corp"
+      }, {
+        "count" : 11,
+        "item" : "Metropolis Electric Corp."
+      }, {
+        "count" : 10,
+        "item" : "Milad Contracting Corp."
+      }, {
+        "count" : 9,
+        "item" : "Stealth Contracting, Inc."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48794102,
+    "name" : "sd_disqual_from",
+    "dataTypeName" : "text",
+    "fieldName" : "sd_disqual_from",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401259,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 299,
+      "smallest" : "1/10/2006",
+      "null" : 0,
+      "largest" : "9/5/1991",
+      "top" : [ {
+        "count" : 20,
+        "item" : "9/11/1995"
+      }, {
+        "count" : 19,
+        "item" : "10/27/1999"
+      }, {
+        "count" : 18,
+        "item" : "4/21/2011"
+      }, {
+        "count" : 17,
+        "item" : "6/12/1997"
+      }, {
+        "count" : 16,
+        "item" : "2/26/2013"
+      }, {
+        "count" : 15,
+        "item" : "1/28/2013"
+      }, {
+        "count" : 14,
+        "item" : "10/25/2012"
+      }, {
+        "count" : 13,
+        "item" : "9/14/2012"
+      }, {
+        "count" : 12,
+        "item" : "5/12/2011"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48794104,
+    "name" : "sd_disqual_to",
+    "dataTypeName" : "text",
+    "fieldName" : "sd_disqual_to",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401260,
+    "width" : 161,
+    "cachedContents" : {
+      "non_null" : 77,
+      "smallest" : "1/10/2017",
+      "null" : 222,
+      "largest" : "9/28/2013",
+      "top" : [ {
+        "count" : 20,
+        "item" : "12/31/2016"
+      }, {
+        "count" : 19,
+        "item" : "7/9/2014"
+      }, {
+        "count" : 18,
+        "item" : "5/10/2014"
+      }, {
+        "count" : 17,
+        "item" : "3/10/2017"
+      }, {
+        "count" : 16,
+        "item" : "7/28/2015"
+      }, {
+        "count" : 15,
+        "item" : "4/30/2016"
+      }, {
+        "count" : 14,
+        "item" : "2/4/2017"
+      }, {
+        "count" : 13,
+        "item" : "4/12/2017"
+      }, {
+        "count" : 12,
+        "item" : "9/28/2013"
+      }, {
+        "count" : 11,
+        "item" : "5/16/2017"
+      }, {
+        "count" : 10,
+        "item" : "4/25/2013"
+      }, {
+        "count" : 9,
+        "item" : "5/9/2014"
+      }, {
+        "count" : 8,
+        "item" : "2/1/2014"
+      }, {
+        "count" : 7,
+        "item" : "4/30/2013"
+      }, {
+        "count" : 6,
+        "item" : "10/31/2013"
+      }, {
+        "count" : 5,
+        "item" : "11/6/2015"
+      }, {
+        "count" : 4,
+        "item" : "2/11/2016"
+      }, {
+        "count" : 3,
+        "item" : "3/10/2014"
+      }, {
+        "count" : 2,
+        "item" : "12/1/2013"
+      }, {
+        "count" : 1,
+        "item" : "4/12/2016"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Weekly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ci6y-i73t",
+    "displayName" : "Harish Pathria",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358262517,
+    "roleName" : "publisher",
+    "screenName" : "Harish Pathria",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ci6y-i73t",
+    "displayName" : "Harish Pathria",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358262517,
+    "roleName" : "publisher",
+    "screenName" : "Harish Pathria",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "school", "construction", "authority", "sca", "firm", "company", "companies", "work", "trade", "disqualification", "disqualify", "disqualified", "education", "lifelong learning" ],
+  "flags" : [ "default" ]
+}

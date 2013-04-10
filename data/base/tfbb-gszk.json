@@ -1,0 +1,211 @@
+{
+  "id" : "tfbb-gszk",
+  "name" : "Directory Of DOP Office Locations",
+  "attribution" : "Department of Probation (DOP)",
+  "attributionLink" : "http://www.nyc.gov/html/prob/html/contact/locations.shtml",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1360248021,
+  "description" : "List of DOP Office locations by Borough",
+  "displayType" : "table",
+  "downloadCount" : 1,
+  "numberOfComments" : 0,
+  "oid" : 2459222,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1360248271,
+  "publicationGroup" : 663348,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1360248023,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 663348,
+  "totalTimesRated" : 0,
+  "viewCount" : 15,
+  "viewLastModified" : 1360248279,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 43514922,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7656825,
+    "width" : 130,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Manhattan"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 43514923,
+    "name" : "Disposition  Type",
+    "dataTypeName" : "text",
+    "fieldName" : "disposition_type",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7656826,
+    "width" : 166,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "Adult Operations",
+      "null" : 0,
+      "largest" : "Juvenile Operations",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Adult Operations"
+      }, {
+        "count" : 19,
+        "item" : "Juvenile Operations"
+      }, {
+        "count" : 18,
+        "item" : "Brownsville NeON"
+      }, {
+        "count" : 17,
+        "item" : "Central Offices"
+      }, {
+        "count" : 16,
+        "item" : "Harlem NeON"
+      }, {
+        "count" : 15,
+        "item" : "Jamaica NeON"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 43514924,
+    "name" : "Address",
+    "dataTypeName" : "text",
+    "fieldName" : "address",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7656827,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 18,
+      "smallest" : "100 Centre Street",
+      "null" : 0,
+      "largest" : "900 Sheridan Avenue",
+      "top" : [ {
+        "count" : 20,
+        "item" : "215 East 161st Street"
+      }, {
+        "count" : 19,
+        "item" : "198 East 161st Street"
+      }, {
+        "count" : 18,
+        "item" : "265 East 161st Street"
+      }, {
+        "count" : 17,
+        "item" : "900 Sheridan Avenue"
+      }, {
+        "count" : 16,
+        "item" : "345 Adams Street"
+      }, {
+        "count" : 15,
+        "item" : "210 Joralemon Street"
+      }, {
+        "count" : 14,
+        "item" : "444 Thomas Boyland Street"
+      }, {
+        "count" : 13,
+        "item" : "330 Jay Street"
+      }, {
+        "count" : 12,
+        "item" : "100 Centre Street"
+      }, {
+        "count" : 11,
+        "item" : "346 Broadway "
+      }, {
+        "count" : 10,
+        "item" : "60 Lafayette Stree"
+      }, {
+        "count" : 9,
+        "item" : "33 Beaver Street"
+      }, {
+        "count" : 8,
+        "item" : "127 West 127th Street "
+      }, {
+        "count" : 7,
+        "item" : "125-01 Queens Blvd "
+      }, {
+        "count" : 6,
+        "item" : "151-20 Jamaica Avenue"
+      }, {
+        "count" : 5,
+        "item" : "162-24 Jamaica Avenue"
+      }, {
+        "count" : 4,
+        "item" : "340 Bay Street"
+      }, {
+        "count" : 3,
+        "item" : "130 Stuyvesant Place"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dop", "probation", "office", "location", "address" ],
+  "flags" : [ "default" ]
+}

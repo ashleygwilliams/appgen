@@ -1,0 +1,594 @@
+{
+  "id" : "sv6e-j8t9",
+  "name" : "Revenue Comps",
+  "attribution" : "Times Square Alliance (TSA)",
+  "averageRating" : 0,
+  "category" : "Other",
+  "createdAt" : 1320083326,
+  "description" : "Revenue statistics for Times Square",
+  "displayType" : "table",
+  "downloadCount" : 13,
+  "numberOfComments" : 0,
+  "oid" : 357823,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1320083452,
+  "publicationGroup" : 249453,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1320083328,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 249453,
+  "totalTimesRated" : 0,
+  "viewCount" : 121,
+  "viewLastModified" : 1320083452,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3352688,
+    "name" : "TIMES SQUARE",
+    "dataTypeName" : "text",
+    "fieldName" : "times_square",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1643483,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "ABC Supersign",
+      "null" : 4,
+      "largest" : " W Hotel  (Broadway and 47th Street) ",
+      "top" : [ {
+        "count" : 1,
+        "item" : " W Hotel  (Broadway and 47th Street) "
+      }, {
+        "count" : 1,
+        "item" : "SOURCE: provided by TSA - anonymous sign manufacturer"
+      }, {
+        "count" : 1,
+        "item" : "ABC Supersign"
+      }, {
+        "count" : 1,
+        "item" : "Times Square 2"
+      }, {
+        "count" : 1,
+        "item" : "Sony/Fox Screen (Times Square 1)"
+      }, {
+        "count" : 1,
+        "item" : "American Eagle "
+      }, {
+        "count" : 1,
+        "item" : "Reuters"
+      }, {
+        "count" : 1,
+        "item" : "Nasdaq "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3352689,
+    "name" : "Dimensions",
+    "dataTypeName" : "text",
+    "fieldName" : "dimensions",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1643484,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "120 x 84",
+      "null" : 8,
+      "largest" : "7 boards various sizes",
+      "top" : [ {
+        "count" : 1,
+        "item" : "7 boards various sizes"
+      }, {
+        "count" : 1,
+        "item" : "35 x 40"
+      }, {
+        "count" : 1,
+        "item" : "30 x 40"
+      }, {
+        "count" : 1,
+        "item" : "120 x 84"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3352690,
+    "name" : "Sq Ft",
+    "dataTypeName" : "number",
+    "fieldName" : "sq_ft",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1643485,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "1200",
+      "sum" : "57738",
+      "null" : 5,
+      "average" : "8248.285714285714",
+      "largest" : "17754",
+      "top" : [ {
+        "count" : 1,
+        "item" : "4630"
+      }, {
+        "count" : 1,
+        "item" : "15000"
+      }, {
+        "count" : 1,
+        "item" : "10080"
+      }, {
+        "count" : 1,
+        "item" : "17754"
+      }, {
+        "count" : 1,
+        "item" : "7674"
+      }, {
+        "count" : 1,
+        "item" : "1400"
+      }, {
+        "count" : 1,
+        "item" : "1200"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3352691,
+    "name" : "DEC",
+    "dataTypeName" : "text",
+    "fieldName" : "dec",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1643486,
+    "width" : 136,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "1500000",
+      "null" : 6,
+      "largest" : "Daily Effective Circulation: number of 18+ people seeing ad in 18hr day",
+      "top" : [ {
+        "count" : 4,
+        "item" : "1600000"
+      }, {
+        "count" : 1,
+        "item" : "Daily Effective Circulation: number of 18+ people seeing ad in 18hr day"
+      }, {
+        "count" : 1,
+        "item" : "1500000"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3352692,
+    "name" : "Impressions",
+    "dataTypeName" : "text",
+    "fieldName" : "impressions",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1643487,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "n/a",
+      "null" : 7,
+      "largest" : "n/a",
+      "top" : [ {
+        "count" : 5,
+        "item" : "n/a"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3352693,
+    "name" : "Pricing Model",
+    "dataTypeName" : "text",
+    "fieldName" : "pricing_model",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1643488,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "Duration 1 month",
+      "null" : 7,
+      "largest" : "Duration 1 month",
+      "top" : [ {
+        "count" : 5,
+        "item" : "Duration 1 month"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3352694,
+    "name" : "Unit (All One Month)",
+    "dataTypeName" : "text",
+    "fieldName" : "unit_all_one_month_",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1643489,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 10,
+      "smallest" : "2 minutes/hour (15 hrs/day) ",
+      "null" : 2,
+      "largest" : "Blackout periods 9-10am and 3:30 - 4:30 pm plus no coverage NYE",
+      "top" : [ {
+        "count" : 1,
+        "item" : "6 minutes/hour (19 hrs/day) "
+      }, {
+        "count" : 1,
+        "item" : "4 min/hour x 19 Hours/day"
+      }, {
+        "count" : 1,
+        "item" : "2 minutes/hour (18 hrs/day)"
+      }, {
+        "count" : 1,
+        "item" : "4 minutes/hour (19 hrs/day) "
+      }, {
+        "count" : 1,
+        "item" : "Blackout periods 9-10am and 3:30 - 4:30 pm plus no coverage NYE"
+      }, {
+        "count" : 1,
+        "item" : "3 min/hour (19 hrs/day) plus blackout below"
+      }, {
+        "count" : 1,
+        "item" : "2 minutes/hour (15 hrs/day) "
+      }, {
+        "count" : 1,
+        "item" : "2 minutes/hour (19 hrs/day)"
+      }, {
+        "count" : 1,
+        "item" : "3 min/hour (19 hrs/day)"
+      }, {
+        "count" : 1,
+        "item" : "8 min/hour x 19 Hours/day"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3352695,
+    "name" : "Total Minutes",
+    "dataTypeName" : "number",
+    "fieldName" : "total_minutes",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1643490,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "900",
+      "sum" : "17370",
+      "null" : 4,
+      "average" : "2171.25",
+      "largest" : "4560",
+      "top" : [ {
+        "count" : 2,
+        "item" : "2280"
+      }, {
+        "count" : 1,
+        "item" : "4560"
+      }, {
+        "count" : 1,
+        "item" : "1080"
+      }, {
+        "count" : 1,
+        "item" : "3420"
+      }, {
+        "count" : 1,
+        "item" : "1710"
+      }, {
+        "count" : 1,
+        "item" : "1140"
+      }, {
+        "count" : 1,
+        "item" : "900"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3352696,
+    "name" : "Rate",
+    "dataTypeName" : "number",
+    "fieldName" : "rate",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1643491,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "22500",
+      "sum" : "752950",
+      "null" : 4,
+      "average" : "94118.75",
+      "largest" : "180000",
+      "top" : [ {
+        "count" : 1,
+        "item" : "70000"
+      }, {
+        "count" : 1,
+        "item" : "22500"
+      }, {
+        "count" : 1,
+        "item" : "53000"
+      }, {
+        "count" : 1,
+        "item" : "129600"
+      }, {
+        "count" : 1,
+        "item" : "69600"
+      }, {
+        "count" : 1,
+        "item" : "103250"
+      }, {
+        "count" : 1,
+        "item" : "125000"
+      }, {
+        "count" : 1,
+        "item" : "180000"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3352697,
+    "name" : "Full Motion Video",
+    "dataTypeName" : "text",
+    "fieldName" : "full_motion_video",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1643492,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "yes",
+      "null" : 4,
+      "largest" : "yes",
+      "top" : [ {
+        "count" : 8,
+        "item" : "yes"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3352698,
+    "name" : "Onsite Audio",
+    "dataTypeName" : "text",
+    "fieldName" : "onsite_audio",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1643493,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "no",
+      "null" : 5,
+      "largest" : "no",
+      "top" : [ {
+        "count" : 7,
+        "item" : "no"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3352699,
+    "name" : "Advance Interactive",
+    "dataTypeName" : "text",
+    "fieldName" : "advance_interactive",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1643494,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "Average",
+      "null" : 8,
+      "largest" : "no",
+      "top" : [ {
+        "count" : 2,
+        "item" : "no"
+      }, {
+        "count" : 1,
+        "item" : "Efficiency: value delivered to audience relative to cost of space, cost per thousand "
+      }, {
+        "count" : 1,
+        "item" : "Average"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3352700,
+    "name" : "CPM",
+    "dataTypeName" : "number",
+    "fieldName" : "cpm",
+    "position" : 14,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1643495,
+    "width" : 136,
+    "cachedContents" : {
+      "non_null" : 9,
+      "smallest" : "0.46875",
+      "sum" : "19.3931250001",
+      "null" : 3,
+      "average" : "2.154791666677778",
+      "largest" : "4",
+      "top" : [ {
+        "count" : 1,
+        "item" : "1.4583333333"
+      }, {
+        "count" : 1,
+        "item" : "0.46875"
+      }, {
+        "count" : 1,
+        "item" : "1.1041666667"
+      }, {
+        "count" : 1,
+        "item" : "4"
+      }, {
+        "count" : 1,
+        "item" : "2.6041666667"
+      }, {
+        "count" : 1,
+        "item" : "3.18"
+      }, {
+        "count" : 1,
+        "item" : "1.5466666667"
+      }, {
+        "count" : 1,
+        "item" : "2.1510416667"
+      }, {
+        "count" : 1,
+        "item" : "2.88"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3352701,
+    "name" : "Cost Per Minute",
+    "dataTypeName" : "money",
+    "fieldName" : "cost_per_minute",
+    "position" : 15,
+    "renderTypeName" : "money",
+    "tableColumnId" : 1643496,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 9,
+      "smallest" : "20.83",
+      "sum" : "412.07",
+      "null" : 3,
+      "average" : "45.78555555555556",
+      "largest" : "61.05",
+      "top" : [ {
+        "count" : 1,
+        "item" : "56.84"
+      }, {
+        "count" : 1,
+        "item" : "58.88"
+      }, {
+        "count" : 1,
+        "item" : "61.05"
+      }, {
+        "count" : 1,
+        "item" : "27.41"
+      }, {
+        "count" : 1,
+        "item" : "60.38"
+      }, {
+        "count" : 1,
+        "item" : "43.35"
+      }, {
+        "count" : 1,
+        "item" : "20.83"
+      }, {
+        "count" : 1,
+        "item" : "30.70"
+      }, {
+        "count" : 1,
+        "item" : "52.63"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3352702,
+    "name" : "Cost Per SF",
+    "dataTypeName" : "money",
+    "fieldName" : "cost_per_sf",
+    "position" : 16,
+    "renderTypeName" : "money",
+    "tableColumnId" : 1643497,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 9,
+      "smallest" : "4.63",
+      "sum" : "239.91",
+      "null" : 3,
+      "average" : "26.65666666666667",
+      "largest" : "104.16",
+      "top" : [ {
+        "count" : 1,
+        "item" : "4.63"
+      }, {
+        "count" : 1,
+        "item" : "8.64"
+      }, {
+        "count" : 1,
+        "item" : "16.07"
+      }, {
+        "count" : 1,
+        "item" : "104.16"
+      }, {
+        "count" : 1,
+        "item" : "58.33"
+      }, {
+        "count" : 1,
+        "item" : "12"
+      }, {
+        "count" : 1,
+        "item" : "11.44"
+      }, {
+        "count" : 1,
+        "item" : "18.83"
+      }, {
+        "count" : 1,
+        "item" : "5.81"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "times square alliance", "times square", "crossroads", "crossroads of the world", "nyc", "new york city", "new york", "manhattan", "theater", "food", "screens", "pedestrian", "entertainment", "tourism" ],
+  "flags" : [ "default" ]
+}

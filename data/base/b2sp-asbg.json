@@ -1,0 +1,302 @@
+{
+  "id" : "b2sp-asbg",
+  "name" : "Community Health Centers",
+  "attribution" : "Human Resources Administration (HRA)",
+  "attributionLink" : "http://www.nyc.gov/html/hia/html/resources/community.shtml",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1363717229,
+  "description" : "This table represents the details of the Community Health Centers distributed by Borough along with their address, Zip and phone number detail.",
+  "displayType" : "table",
+  "downloadCount" : 6,
+  "numberOfComments" : 0,
+  "oid" : 2882387,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363726426,
+  "publicationGroup" : 743089,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1363726359,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 743501,
+  "totalTimesRated" : 0,
+  "viewCount" : 29,
+  "viewLastModified" : 1363784466,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 51691069,
+    "name" : "  Name of Borough",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "__name_of_borough",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757456,
+    "width" : 98,
+    "cachedContents" : {
+      "non_null" : 41,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Manhattan"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51691070,
+    "name" : "Name of Center",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "name_of_center",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757457,
+    "width" : 412,
+    "cachedContents" : {
+      "non_null" : 41,
+      "smallest" : "Bedford/Stuyvesant Family Health Center",
+      "null" : 0,
+      "largest" : "William F. Ryan Community Health Center",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx-Lebanon Hospital Center"
+      }, {
+        "count" : 19,
+        "item" : "Comprehensive Family Care Center"
+      }, {
+        "count" : 18,
+        "item" : "Dr. Martin Luther King Jr. Health Center"
+      }, {
+        "count" : 17,
+        "item" : "Montefiore Family Health Center"
+      }, {
+        "count" : 16,
+        "item" : "Montefiore Medical Group Comprehensive HCC"
+      }, {
+        "count" : 15,
+        "item" : "Morris Heights Health Center"
+      }, {
+        "count" : 14,
+        "item" : "Soundview Health Center"
+      }, {
+        "count" : 13,
+        "item" : "Urban Health Plan"
+      }, {
+        "count" : 12,
+        "item" : "Bedford/Stuyvesant Family Health Center"
+      }, {
+        "count" : 11,
+        "item" : "Brooklyn Plaza Medical Center"
+      }, {
+        "count" : 10,
+        "item" : "Brownsville Multi-Service Family Health Center"
+      }, {
+        "count" : 9,
+        "item" : "Community Health Care Network - CABS Health Center"
+      }, {
+        "count" : 8,
+        "item" : "Community Health Care Network "
+      }, {
+        "count" : 7,
+        "item" : "Ezra Medical Center"
+      }, {
+        "count" : 6,
+        "item" : "ODA Primary Care Health Center"
+      }, {
+        "count" : 5,
+        "item" : "Sunset Park Family Health Center"
+      }, {
+        "count" : 4,
+        "item" : "Sunset Park Family Health Center Brooklyn-Chinese Family Health Center"
+      }, {
+        "count" : 3,
+        "item" : "Sunset Park Family Health Center Caribbean-American Family Health Center"
+      }, {
+        "count" : 2,
+        "item" : "Sunset Park Family Health Center Family Physician Family Health Center"
+      }, {
+        "count" : 1,
+        "item" : "Sunset Park Family Health Center Park Ridge Family Health Center"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51691071,
+    "name" : "Center Address",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "center_address",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757458,
+    "width" : 202,
+    "cachedContents" : {
+      "non_null" : 41,
+      "smallest" : "(Montefiore) 1621 Eastchester Road",
+      "null" : 0,
+      "largest" : "Morris Heights Health Center"
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51691072,
+    "name" : "Zip",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "zip",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757459,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 41,
+      "smallest" : "10002",
+      "null" : 0,
+      "largest" : "12203",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10456"
+      }, {
+        "count" : 19,
+        "item" : "10461"
+      }, {
+        "count" : 18,
+        "item" : "10458"
+      }, {
+        "count" : 17,
+        "item" : "10451"
+      }, {
+        "count" : 16,
+        "item" : "10453"
+      }, {
+        "count" : 15,
+        "item" : "10473"
+      }, {
+        "count" : 14,
+        "item" : "10459"
+      }, {
+        "count" : 13,
+        "item" : "11216"
+      }, {
+        "count" : 12,
+        "item" : "11217"
+      }, {
+        "count" : 11,
+        "item" : "11212"
+      }, {
+        "count" : 10,
+        "item" : "11206"
+      }, {
+        "count" : 9,
+        "item" : "11225"
+      }, {
+        "count" : 8,
+        "item" : "11208"
+      }, {
+        "count" : 7,
+        "item" : "11213"
+      }, {
+        "count" : 6,
+        "item" : "11211"
+      }, {
+        "count" : 5,
+        "item" : "11220"
+      }, {
+        "count" : 4,
+        "item" : "11209"
+      }, {
+        "count" : 3,
+        "item" : "12203"
+      }, {
+        "count" : 2,
+        "item" : "11215"
+      }, {
+        "count" : 1,
+        "item" : "10002"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51691073,
+    "name" : "Telephone Number",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "telephone_number",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757460,
+    "width" : 134,
+    "cachedContents" : {
+      "non_null" : 41,
+      "smallest" : "(212) 227-8408 ",
+      "null" : 0,
+      "largest" : " (718) 991-4833"
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "jobs and economic mobility", "human resources administration", "hra", "community", "health" ],
+  "flags" : [ "default" ]
+}

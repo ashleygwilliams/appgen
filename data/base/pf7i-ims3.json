@@ -1,0 +1,173 @@
+{
+  "id" : "pf7i-ims3",
+  "name" : "Average Salaries In Department Of Correction",
+  "attribution" : "Department of Correction (DOC)",
+  "attributionLink" : "http://www.nyc.gov/html/doc/html/about/032812DOC_at_a_Glance_single_page.pdf",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1362580537,
+  "description" : "This table represents the average salaries of uniformed and civilian staff",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2730259,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362580656,
+  "publicationGroup" : 717587,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1362580539,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 717587,
+  "totalTimesRated" : 0,
+  "viewCount" : 13,
+  "viewLastModified" : 1362582677,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 48784415,
+    "name" : "Rank",
+    "dataTypeName" : "text",
+    "fieldName" : "rank",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8399795,
+    "width" : 133,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "Assistant Deputy Warden",
+      "null" : 0,
+      "largest" : "Warden",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Correction Officer"
+      }, {
+        "count" : 19,
+        "item" : "Captain"
+      }, {
+        "count" : 18,
+        "item" : "Assistant Deputy Warden"
+      }, {
+        "count" : 17,
+        "item" : "Deputy Warden/ DWIC"
+      }, {
+        "count" : 16,
+        "item" : "Warden"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48784416,
+    "name" : "Base Salary",
+    "dataTypeName" : "money",
+    "fieldName" : "base_salary",
+    "position" : 2,
+    "renderTypeName" : "money",
+    "tableColumnId" : 8399796,
+    "width" : 72,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "69862.00",
+      "sum" : "577285.00",
+      "null" : 0,
+      "average" : "115457.00",
+      "largest" : "171196.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "69862.00"
+      }, {
+        "count" : 19,
+        "item" : "90801.00"
+      }, {
+        "count" : 18,
+        "item" : "110762.00"
+      }, {
+        "count" : 17,
+        "item" : "134664.00"
+      }, {
+        "count" : 16,
+        "item" : "171196.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48784417,
+    "name" : "Loaded + Fringes",
+    "dataTypeName" : "money",
+    "fieldName" : "loaded_fringes",
+    "position" : 3,
+    "renderTypeName" : "money",
+    "tableColumnId" : 8399797,
+    "width" : 99,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "137747.00",
+      "sum" : "1097539.00",
+      "null" : 0,
+      "average" : "219507.80",
+      "largest" : "306864.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "137747.00"
+      }, {
+        "count" : 19,
+        "item" : "175238.00"
+      }, {
+        "count" : 18,
+        "item" : "216784.00"
+      }, {
+        "count" : 17,
+        "item" : "260906.00"
+      }, {
+        "count" : 16,
+        "item" : "306864.00"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "department of correction", "doc", "salaries" ],
+  "flags" : [ "default" ]
+}

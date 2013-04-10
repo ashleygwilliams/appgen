@@ -1,0 +1,3904 @@
+{
+  "id" : "w9ak-3cbm",
+  "name" : "Job Application Filings",
+  "attribution" : "Department of Buildings (DOB)",
+  "averageRating" : 0,
+  "category" : "Construction and Housing",
+  "createdAt" : 1362586604,
+  "description" : "a list of job applications filed for a particular day and associated data.  Now updated daily on NYC Open Data from April 10, 2013 onward.  Prior weekly and monthly reports are archived at DOB and are not available on NYC Open Data.",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2731143,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362586636,
+  "publicationGroup" : 717824,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1362586635,
+  "rowsUpdatedBy" : "ci6y-i73t",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 717825,
+  "totalTimesRated" : 0,
+  "viewCount" : 24,
+  "viewLastModified" : 1363705300,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 48797246,
+    "name" : "Job #",
+    "dataTypeName" : "text",
+    "fieldName" : "job",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402752,
+    "width" : 250,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "103643407",
+      "null" : 0,
+      "largest" : "540012840",
+      "top" : [ {
+        "count" : 20,
+        "item" : "121552630"
+      }, {
+        "count" : 19,
+        "item" : "121553390"
+      }, {
+        "count" : 18,
+        "item" : "121553265"
+      }, {
+        "count" : 17,
+        "item" : "220252697"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797247,
+    "name" : "Doc #",
+    "dataTypeName" : "text",
+    "fieldName" : "doc",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402753,
+    "width" : 250,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "01",
+      "null" : 0,
+      "largest" : "04",
+      "top" : [ {
+        "count" : 20,
+        "item" : "01"
+      }, {
+        "count" : 19,
+        "item" : "02"
+      }, {
+        "count" : 18,
+        "item" : "03"
+      }, {
+        "count" : 17,
+        "item" : "04"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797248,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402754,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "BRONX",
+      "null" : 0,
+      "largest" : "STATEN ISLAND",
+      "top" : [ {
+        "count" : 20,
+        "item" : "MANHATTAN"
+      }, {
+        "count" : 19,
+        "item" : "QUEENS"
+      }, {
+        "count" : 18,
+        "item" : "STATEN ISLAND"
+      }, {
+        "count" : 17,
+        "item" : "BROOKLYN"
+      }, {
+        "count" : 16,
+        "item" : "BRONX"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797249,
+    "name" : "House #",
+    "dataTypeName" : "text",
+    "fieldName" : "house",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402755,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "1           ",
+      "null" : 0,
+      "largest" : "9910        ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "712         "
+      }, {
+        "count" : 19,
+        "item" : "1462        "
+      }, {
+        "count" : 18,
+        "item" : "135         "
+      }, {
+        "count" : 17,
+        "item" : "37          "
+      }, {
+        "count" : 16,
+        "item" : "214         "
+      }, {
+        "count" : 15,
+        "item" : "117         "
+      }, {
+        "count" : 14,
+        "item" : "78-12       "
+      }, {
+        "count" : 13,
+        "item" : "140         "
+      }, {
+        "count" : 12,
+        "item" : "980         "
+      }, {
+        "count" : 11,
+        "item" : "315         "
+      }, {
+        "count" : 10,
+        "item" : "3006        "
+      }, {
+        "count" : 9,
+        "item" : "225         "
+      }, {
+        "count" : 8,
+        "item" : "17-11       "
+      }, {
+        "count" : 7,
+        "item" : "63          "
+      }, {
+        "count" : 6,
+        "item" : "220         "
+      }, {
+        "count" : 5,
+        "item" : "229         "
+      }, {
+        "count" : 4,
+        "item" : "2857        "
+      }, {
+        "count" : 3,
+        "item" : "94 1/2      "
+      }, {
+        "count" : 2,
+        "item" : "160         "
+      }, {
+        "count" : 1,
+        "item" : "557         "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797250,
+    "name" : "Street Name",
+    "dataTypeName" : "text",
+    "fieldName" : "street_name",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402756,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "101 AVENUE                      ",
+      "null" : 0,
+      "largest" : "WYCKOFF ST                      ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BARD AVE                        "
+      }, {
+        "count" : 19,
+        "item" : "FRONT STREET                    "
+      }, {
+        "count" : 18,
+        "item" : "BROADWAY                        "
+      }, {
+        "count" : 17,
+        "item" : "FIFTH AVENUE                    "
+      }, {
+        "count" : 16,
+        "item" : "2ND AVENUE                      "
+      }, {
+        "count" : 15,
+        "item" : "GREENE STREET                   "
+      }, {
+        "count" : 14,
+        "item" : "WEST END AVE                    "
+      }, {
+        "count" : 13,
+        "item" : "EAST 167TH STREET               "
+      }, {
+        "count" : 12,
+        "item" : "MADISON AVENUE                  "
+      }, {
+        "count" : 11,
+        "item" : "WEST 8 STREET                   "
+      }, {
+        "count" : 10,
+        "item" : "GREENWICH STREET                "
+      }, {
+        "count" : 9,
+        "item" : "VAN BRUNT STREET                "
+      }, {
+        "count" : 8,
+        "item" : "EAST FORDHAM ROAD               "
+      }, {
+        "count" : 7,
+        "item" : "ARTHUR KILL ROAD                "
+      }, {
+        "count" : 6,
+        "item" : "64TH AVENUE                     "
+      }, {
+        "count" : 5,
+        "item" : "PENN PLAZA                      "
+      }, {
+        "count" : 4,
+        "item" : "ELM AVE                         "
+      }, {
+        "count" : 3,
+        "item" : "WHITEHALL STREET                "
+      }, {
+        "count" : 2,
+        "item" : "WESER AVENUE                    "
+      }, {
+        "count" : 1,
+        "item" : "EAST 116TH ST.                  "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797251,
+    "name" : "Block",
+    "dataTypeName" : "text",
+    "fieldName" : "block",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402757,
+    "width" : 250,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "00009",
+      "null" : 0,
+      "largest" : "16225",
+      "top" : [ {
+        "count" : 20,
+        "item" : "00097"
+      }, {
+        "count" : 19,
+        "item" : "00138"
+      }, {
+        "count" : 18,
+        "item" : "01271"
+      }, {
+        "count" : 17,
+        "item" : "01451"
+      }, {
+        "count" : 16,
+        "item" : "00514"
+      }, {
+        "count" : 15,
+        "item" : "08726"
+      }, {
+        "count" : 14,
+        "item" : "02465"
+      }, {
+        "count" : 13,
+        "item" : "01391"
+      }, {
+        "count" : 12,
+        "item" : "15633"
+      }, {
+        "count" : 11,
+        "item" : "01750"
+      }, {
+        "count" : 10,
+        "item" : "07279"
+      }, {
+        "count" : 9,
+        "item" : "00053"
+      }, {
+        "count" : 8,
+        "item" : "00502"
+      }, {
+        "count" : 7,
+        "item" : "03273"
+      }, {
+        "count" : 6,
+        "item" : "07632"
+      }, {
+        "count" : 5,
+        "item" : "02184"
+      }, {
+        "count" : 4,
+        "item" : "00807"
+      }, {
+        "count" : 3,
+        "item" : "05410"
+      }, {
+        "count" : 2,
+        "item" : "00010"
+      }, {
+        "count" : 1,
+        "item" : "02916"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797252,
+    "name" : "Lot",
+    "dataTypeName" : "text",
+    "fieldName" : "lot",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402758,
+    "width" : 150,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "00001",
+      "null" : 0,
+      "largest" : "07509",
+      "top" : [ {
+        "count" : 20,
+        "item" : "00001"
+      }, {
+        "count" : 19,
+        "item" : "07502"
+      }, {
+        "count" : 18,
+        "item" : "00014"
+      }, {
+        "count" : 17,
+        "item" : "00032"
+      }, {
+        "count" : 16,
+        "item" : "00036"
+      }, {
+        "count" : 15,
+        "item" : "00053"
+      }, {
+        "count" : 14,
+        "item" : "07501"
+      }, {
+        "count" : 13,
+        "item" : "00045"
+      }, {
+        "count" : 12,
+        "item" : "00119"
+      }, {
+        "count" : 11,
+        "item" : "00038"
+      }, {
+        "count" : 10,
+        "item" : "00034"
+      }, {
+        "count" : 9,
+        "item" : "00030"
+      }, {
+        "count" : 8,
+        "item" : "00024"
+      }, {
+        "count" : 7,
+        "item" : "00003"
+      }, {
+        "count" : 6,
+        "item" : "00015"
+      }, {
+        "count" : 5,
+        "item" : "00028"
+      }, {
+        "count" : 4,
+        "item" : "07504"
+      }, {
+        "count" : 3,
+        "item" : "00050"
+      }, {
+        "count" : 2,
+        "item" : "00004"
+      }, {
+        "count" : 1,
+        "item" : "00026"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797253,
+    "name" : "Bin #",
+    "dataTypeName" : "text",
+    "fieldName" : "bin",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402759,
+    "width" : 250,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "1000020",
+      "null" : 0,
+      "largest" : "5159544",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1077363"
+      }, {
+        "count" : 19,
+        "item" : "1045162"
+      }, {
+        "count" : 18,
+        "item" : "1007997"
+      }, {
+        "count" : 17,
+        "item" : "3245817"
+      }, {
+        "count" : 16,
+        "item" : "1086562"
+      }, {
+        "count" : 15,
+        "item" : "2002855"
+      }, {
+        "count" : 14,
+        "item" : "4021561"
+      }, {
+        "count" : 13,
+        "item" : "1047627"
+      }, {
+        "count" : 12,
+        "item" : "1041796"
+      }, {
+        "count" : 11,
+        "item" : "1010362"
+      }, {
+        "count" : 10,
+        "item" : "2117395"
+      }, {
+        "count" : 9,
+        "item" : "1001336"
+      }, {
+        "count" : 8,
+        "item" : "4299340"
+      }, {
+        "count" : 7,
+        "item" : "1054037"
+      }, {
+        "count" : 6,
+        "item" : "1086561"
+      }, {
+        "count" : 5,
+        "item" : "1079112"
+      }, {
+        "count" : 4,
+        "item" : "3345783"
+      }, {
+        "count" : 3,
+        "item" : "1001057"
+      }, {
+        "count" : 2,
+        "item" : "3008221"
+      }, {
+        "count" : 1,
+        "item" : "2016271"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797254,
+    "name" : "Job Type",
+    "dataTypeName" : "text",
+    "fieldName" : "job_type",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402760,
+    "width" : 320,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "A1",
+      "null" : 0,
+      "largest" : "SI",
+      "top" : [ {
+        "count" : 20,
+        "item" : "A2"
+      }, {
+        "count" : 19,
+        "item" : "A1"
+      }, {
+        "count" : 18,
+        "item" : "A3"
+      }, {
+        "count" : 17,
+        "item" : "PA"
+      }, {
+        "count" : 16,
+        "item" : "NB"
+      }, {
+        "count" : 15,
+        "item" : "DM"
+      }, {
+        "count" : 14,
+        "item" : "SC"
+      }, {
+        "count" : 13,
+        "item" : "SI"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797255,
+    "name" : "Job Status",
+    "dataTypeName" : "text",
+    "fieldName" : "job_status",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402761,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "A",
+      "null" : 0,
+      "largest" : "U",
+      "top" : [ {
+        "count" : 20,
+        "item" : "P"
+      }, {
+        "count" : 19,
+        "item" : "Q"
+      }, {
+        "count" : 18,
+        "item" : "A"
+      }, {
+        "count" : 17,
+        "item" : "D"
+      }, {
+        "count" : 16,
+        "item" : "R"
+      }, {
+        "count" : 15,
+        "item" : "J"
+      }, {
+        "count" : 14,
+        "item" : "H"
+      }, {
+        "count" : 13,
+        "item" : "E"
+      }, {
+        "count" : 12,
+        "item" : "F"
+      }, {
+        "count" : 11,
+        "item" : "U"
+      }, {
+        "count" : 10,
+        "item" : "B"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797256,
+    "name" : "Job Status Descrp",
+    "dataTypeName" : "text",
+    "fieldName" : "job_status_descrp",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402762,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "APPLICATION ASSIGNED TO PLAN EXAMINER   ",
+      "null" : 0,
+      "largest" : "PRE-FILING                              ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "PLAN EXAM - APPROVED                    "
+      }, {
+        "count" : 19,
+        "item" : "PERMIT ISSUED - PARTIAL JOB             "
+      }, {
+        "count" : 18,
+        "item" : "PRE-FILING                              "
+      }, {
+        "count" : 17,
+        "item" : "APPLICATION PROCESSED - ENTIRE          "
+      }, {
+        "count" : 16,
+        "item" : "PERMIT ISSUED - ENTIRE JOB/WORK         "
+      }, {
+        "count" : 15,
+        "item" : "PLAN EXAM - DISAPPROVED                 "
+      }, {
+        "count" : 14,
+        "item" : "PLAN EXAM - IN PROCESS                  "
+      }, {
+        "count" : 13,
+        "item" : "APPLICATION PROCESSED - NO PLAN EXAM    "
+      }, {
+        "count" : 12,
+        "item" : "APPLICATION ASSIGNED TO PLAN EXAMINER   "
+      }, {
+        "count" : 11,
+        "item" : "COMPLETED                               "
+      }, {
+        "count" : 10,
+        "item" : "APPLICATION PROCESSED-PART-NO PAYMENT   "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797257,
+    "name" : "Latest Action Date",
+    "dataTypeName" : "text",
+    "fieldName" : "latest_action_date",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402763,
+    "width" : 360,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "02/26/2013",
+      "null" : 0,
+      "largest" : "02/26/2013",
+      "top" : [ {
+        "count" : 20,
+        "item" : "02/26/2013"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797258,
+    "name" : "Building Type",
+    "dataTypeName" : "text",
+    "fieldName" : "building_type",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402764,
+    "width" : 260,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "1-2-3 FAMILY",
+      "null" : 0,
+      "largest" : "OTHER",
+      "top" : [ {
+        "count" : 20,
+        "item" : "OTHER"
+      }, {
+        "count" : 19,
+        "item" : "1-2-3 FAMILY"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797259,
+    "name" : "Community - Board",
+    "dataTypeName" : "text",
+    "fieldName" : "community_board",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402765,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "101",
+      "null" : 0,
+      "largest" : "503",
+      "top" : [ {
+        "count" : 20,
+        "item" : "105"
+      }, {
+        "count" : 19,
+        "item" : "405"
+      }, {
+        "count" : 18,
+        "item" : "101"
+      }, {
+        "count" : 17,
+        "item" : "502"
+      }, {
+        "count" : 16,
+        "item" : "103"
+      }, {
+        "count" : 15,
+        "item" : "209"
+      }, {
+        "count" : 14,
+        "item" : "102"
+      }, {
+        "count" : 13,
+        "item" : "104"
+      }, {
+        "count" : 12,
+        "item" : "107"
+      }, {
+        "count" : 11,
+        "item" : "303"
+      }, {
+        "count" : 10,
+        "item" : "501"
+      }, {
+        "count" : 9,
+        "item" : "315"
+      }, {
+        "count" : 8,
+        "item" : "301"
+      }, {
+        "count" : 7,
+        "item" : "312"
+      }, {
+        "count" : 6,
+        "item" : "306"
+      }, {
+        "count" : 5,
+        "item" : "314"
+      }, {
+        "count" : 4,
+        "item" : "108"
+      }, {
+        "count" : 3,
+        "item" : "404"
+      }, {
+        "count" : 2,
+        "item" : "302"
+      }, {
+        "count" : 1,
+        "item" : "407"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797260,
+    "name" : "Cluster",
+    "dataTypeName" : "text",
+    "fieldName" : "cluster",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402766,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 373
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797261,
+    "name" : "Landmarked",
+    "dataTypeName" : "text",
+    "fieldName" : "landmarked",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402767,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 63,
+      "smallest" : "Y",
+      "null" : 310,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797262,
+    "name" : "Adult Estab",
+    "dataTypeName" : "text",
+    "fieldName" : "adult_estab",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402768,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 373
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797263,
+    "name" : "Loft Board",
+    "dataTypeName" : "text",
+    "fieldName" : "loft_board",
+    "position" : 18,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402769,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 1,
+      "smallest" : "Y",
+      "null" : 372,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797264,
+    "name" : "City Owned",
+    "dataTypeName" : "text",
+    "fieldName" : "city_owned",
+    "position" : 19,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402770,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 38,
+      "smallest" : "Y",
+      "null" : 335,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797265,
+    "name" : "Little e",
+    "dataTypeName" : "text",
+    "fieldName" : "little_e",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402771,
+    "width" : 320,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "H",
+      "null" : 368,
+      "largest" : "H",
+      "top" : [ {
+        "count" : 20,
+        "item" : "H"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797266,
+    "name" : "PC Filed",
+    "dataTypeName" : "text",
+    "fieldName" : "pc_filed",
+    "position" : 21,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402772,
+    "width" : 320,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 373
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797267,
+    "name" : "eFiling Filed",
+    "dataTypeName" : "text",
+    "fieldName" : "efiling_filed",
+    "position" : 22,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402773,
+    "width" : 260,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Y"
+      }, {
+        "count" : 19,
+        "item" : " "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797268,
+    "name" : "Plumbing",
+    "dataTypeName" : "text",
+    "fieldName" : "plumbing",
+    "position" : 23,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402774,
+    "width" : 320,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "X",
+      "top" : [ {
+        "count" : 20,
+        "item" : "X"
+      }, {
+        "count" : 19,
+        "item" : " "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797269,
+    "name" : "Mechanical",
+    "dataTypeName" : "text",
+    "fieldName" : "mechanical",
+    "position" : 24,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402775,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "X",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "X"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797270,
+    "name" : "Boiler",
+    "dataTypeName" : "text",
+    "fieldName" : "boiler",
+    "position" : 25,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402776,
+    "width" : 240,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "X",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "X"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797271,
+    "name" : "Fuel Burning",
+    "dataTypeName" : "text",
+    "fieldName" : "fuel_burning",
+    "position" : 26,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402777,
+    "width" : 240,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "X",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "X"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797272,
+    "name" : "Fuel Storage",
+    "dataTypeName" : "text",
+    "fieldName" : "fuel_storage",
+    "position" : 27,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402778,
+    "width" : 240,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "X",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "X"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797273,
+    "name" : "Standpipe",
+    "dataTypeName" : "text",
+    "fieldName" : "standpipe",
+    "position" : 28,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402779,
+    "width" : 360,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "X",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "X"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797274,
+    "name" : "Sprinkler",
+    "dataTypeName" : "text",
+    "fieldName" : "sprinkler",
+    "position" : 29,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402780,
+    "width" : 360,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "X",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "X"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797275,
+    "name" : "Fire Alarm",
+    "dataTypeName" : "text",
+    "fieldName" : "fire_alarm",
+    "position" : 30,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402781,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "X",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "X"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797276,
+    "name" : "Equipment",
+    "dataTypeName" : "text",
+    "fieldName" : "equipment",
+    "position" : 31,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402782,
+    "width" : 360,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "X",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "X"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797277,
+    "name" : "Fire Suppression",
+    "dataTypeName" : "text",
+    "fieldName" : "fire_suppression",
+    "position" : 32,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402783,
+    "width" : 320,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "X",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "X"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797278,
+    "name" : "Curb Cut",
+    "dataTypeName" : "text",
+    "fieldName" : "curb_cut",
+    "position" : 33,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402784,
+    "width" : 320,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "X",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "X"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797279,
+    "name" : "Other",
+    "dataTypeName" : "text",
+    "fieldName" : "other",
+    "position" : 34,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402785,
+    "width" : 250,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "X",
+      "top" : [ {
+        "count" : 20,
+        "item" : "X"
+      }, {
+        "count" : 19,
+        "item" : " "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797280,
+    "name" : "Other Description",
+    "dataTypeName" : "text",
+    "fieldName" : "other_description",
+    "position" : 35,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402786,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "               ",
+      "null" : 0,
+      "largest" : "STRUCTURAL     ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "GEN. CONSTR.   "
+      }, {
+        "count" : 19,
+        "item" : "               "
+      }, {
+        "count" : 18,
+        "item" : "SOLAR          "
+      }, {
+        "count" : 17,
+        "item" : "NO WORK        "
+      }, {
+        "count" : 16,
+        "item" : "STRUCTURAL     "
+      }, {
+        "count" : 15,
+        "item" : "INTERIOR DEMO  "
+      }, {
+        "count" : 14,
+        "item" : "FPP            "
+      }, {
+        "count" : 13,
+        "item" : "STOREFRONT RENO"
+      }, {
+        "count" : 12,
+        "item" : "SITE WORK      "
+      }, {
+        "count" : 11,
+        "item" : "BPP            "
+      }, {
+        "count" : 10,
+        "item" : "FACADE         "
+      }, {
+        "count" : 9,
+        "item" : "ARCHITECTURAL  "
+      }, {
+        "count" : 8,
+        "item" : "PARTITION      "
+      }, {
+        "count" : 7,
+        "item" : "PARTITIONS     "
+      }, {
+        "count" : 6,
+        "item" : "ANTENNA        "
+      }, {
+        "count" : 5,
+        "item" : "EXCAVATION     "
+      }, {
+        "count" : 4,
+        "item" : "RENOVATION     "
+      }, {
+        "count" : 3,
+        "item" : "EXCAVATION/SHOR"
+      }, {
+        "count" : 2,
+        "item" : "CANOPY         "
+      }, {
+        "count" : 1,
+        "item" : "FOUNDATION     "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797281,
+    "name" : "Applicant's First Name",
+    "dataTypeName" : "text",
+    "fieldName" : "applicant_s_first_name",
+    "position" : 36,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402787,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "ABRAHAM        ",
+      "null" : 0,
+      "largest" : "ZHAU           ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "ANTHONY        "
+      }, {
+        "count" : 19,
+        "item" : "MICHAEL        "
+      }, {
+        "count" : 18,
+        "item" : "JOHN           "
+      }, {
+        "count" : 17,
+        "item" : "AKM            "
+      }, {
+        "count" : 16,
+        "item" : "RALPH          "
+      }, {
+        "count" : 15,
+        "item" : "PAUL           "
+      }, {
+        "count" : 14,
+        "item" : "DAVID          "
+      }, {
+        "count" : 13,
+        "item" : "ASIT           "
+      }, {
+        "count" : 12,
+        "item" : "SCOTT          "
+      }, {
+        "count" : 11,
+        "item" : "OLEG           "
+      }, {
+        "count" : 10,
+        "item" : "NEAL           "
+      }, {
+        "count" : 9,
+        "item" : "IGOR           "
+      }, {
+        "count" : 8,
+        "item" : "ROBERT         "
+      }, {
+        "count" : 7,
+        "item" : "MOON           "
+      }, {
+        "count" : 6,
+        "item" : "JAMES          "
+      }, {
+        "count" : 5,
+        "item" : "NATHANIEL      "
+      }, {
+        "count" : 4,
+        "item" : "YAO            "
+      }, {
+        "count" : 3,
+        "item" : "WILLY          "
+      }, {
+        "count" : 2,
+        "item" : "KEVIN          "
+      }, {
+        "count" : 1,
+        "item" : "NASIR          "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797282,
+    "name" : "Applicant's Last Name",
+    "dataTypeName" : "text",
+    "fieldName" : "applicant_s_last_name",
+    "position" : 37,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402788,
+    "width" : 210,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "ABATE                         ",
+      "null" : 0,
+      "largest" : "ZIZMOR                        ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "GIORGIO                       "
+      }, {
+        "count" : 19,
+        "item" : "LONIGRO                       "
+      }, {
+        "count" : 18,
+        "item" : "NOTARO                        "
+      }, {
+        "count" : 17,
+        "item" : "MAITY                         "
+      }, {
+        "count" : 16,
+        "item" : "SCHNALL                       "
+      }, {
+        "count" : 15,
+        "item" : "RUDITSER                      "
+      }, {
+        "count" : 14,
+        "item" : "RUDIKOFF, P.E.                "
+      }, {
+        "count" : 13,
+        "item" : "ZASLAVSKIY                    "
+      }, {
+        "count" : 12,
+        "item" : "OPPENHEIMER                   "
+      }, {
+        "count" : 11,
+        "item" : "HAHN                          "
+      }, {
+        "count" : 10,
+        "item" : "GLICKMAN                      "
+      }, {
+        "count" : 9,
+        "item" : "COOK                          "
+      }, {
+        "count" : 8,
+        "item" : "MENZIUSO                      "
+      }, {
+        "count" : 7,
+        "item" : "HOQUE                         "
+      }, {
+        "count" : 6,
+        "item" : "PARIHAR                       "
+      }, {
+        "count" : 5,
+        "item" : "SELLITTO III                  "
+      }, {
+        "count" : 4,
+        "item" : "FREDA                         "
+      }, {
+        "count" : 3,
+        "item" : "CALVANICO                     "
+      }, {
+        "count" : 2,
+        "item" : "TARANTINO                     "
+      }, {
+        "count" : 1,
+        "item" : "MCHUGH                        "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797283,
+    "name" : "Applicant Professional Title",
+    "dataTypeName" : "text",
+    "fieldName" : "applicant_professional_title",
+    "position" : 38,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402789,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "OT",
+      "null" : 0,
+      "largest" : "RA",
+      "top" : [ {
+        "count" : 20,
+        "item" : "RA"
+      }, {
+        "count" : 19,
+        "item" : "PE"
+      }, {
+        "count" : 18,
+        "item" : "OT"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797284,
+    "name" : "Applicant License #",
+    "dataTypeName" : "text",
+    "fieldName" : "applicant_license",
+    "position" : 39,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402790,
+    "width" : 380,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "       ",
+      "null" : 0,
+      "largest" : "0603911",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0052531"
+      }, {
+        "count" : 19,
+        "item" : "0071002"
+      }, {
+        "count" : 18,
+        "item" : "0023968"
+      }, {
+        "count" : 17,
+        "item" : "0061337"
+      }, {
+        "count" : 16,
+        "item" : "0075316"
+      }, {
+        "count" : 15,
+        "item" : "0085125"
+      }, {
+        "count" : 14,
+        "item" : "0050579"
+      }, {
+        "count" : 13,
+        "item" : "0030655"
+      }, {
+        "count" : 12,
+        "item" : "0069888"
+      }, {
+        "count" : 11,
+        "item" : "0053541"
+      }, {
+        "count" : 10,
+        "item" : "0073548"
+      }, {
+        "count" : 9,
+        "item" : "0185961"
+      }, {
+        "count" : 8,
+        "item" : "0034045"
+      }, {
+        "count" : 7,
+        "item" : "0083278"
+      }, {
+        "count" : 6,
+        "item" : "0066791"
+      }, {
+        "count" : 5,
+        "item" : "0024116"
+      }, {
+        "count" : 4,
+        "item" : "0018216"
+      }, {
+        "count" : 3,
+        "item" : "0070793"
+      }, {
+        "count" : 2,
+        "item" : "0063991"
+      }, {
+        "count" : 1,
+        "item" : "0073130"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797285,
+    "name" : "Professional Cert",
+    "dataTypeName" : "text",
+    "fieldName" : "professional_cert",
+    "position" : 40,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402791,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 174,
+      "smallest" : "Y",
+      "null" : 199,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797286,
+    "name" : "Pre- Filing Date",
+    "dataTypeName" : "text",
+    "fieldName" : "pre_filing_date",
+    "position" : 41,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402792,
+    "width" : 320,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "02/26/2013",
+      "null" : 0,
+      "largest" : "02/26/2013",
+      "top" : [ {
+        "count" : 20,
+        "item" : "02/26/2013"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797287,
+    "name" : "Paid",
+    "dataTypeName" : "text",
+    "fieldName" : "paid",
+    "position" : 42,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402793,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 357,
+      "smallest" : "02/26/2013",
+      "null" : 16,
+      "largest" : "02/26/2013",
+      "top" : [ {
+        "count" : 20,
+        "item" : "02/26/2013"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797288,
+    "name" : "Fully Paid",
+    "dataTypeName" : "text",
+    "fieldName" : "fully_paid",
+    "position" : 43,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402794,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 357,
+      "smallest" : "02/26/2013",
+      "null" : 16,
+      "largest" : "02/26/2013",
+      "top" : [ {
+        "count" : 20,
+        "item" : "02/26/2013"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797289,
+    "name" : "Assigned",
+    "dataTypeName" : "text",
+    "fieldName" : "assigned",
+    "position" : 44,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402795,
+    "width" : 320,
+    "cachedContents" : {
+      "non_null" : 82,
+      "smallest" : "02/26/2013",
+      "null" : 291,
+      "largest" : "02/26/2013",
+      "top" : [ {
+        "count" : 20,
+        "item" : "02/26/2013"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797290,
+    "name" : "Approved",
+    "dataTypeName" : "text",
+    "fieldName" : "approved",
+    "position" : 45,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402796,
+    "width" : 320,
+    "cachedContents" : {
+      "non_null" : 121,
+      "smallest" : "02/26/2013",
+      "null" : 252,
+      "largest" : "02/26/2013",
+      "top" : [ {
+        "count" : 20,
+        "item" : "02/26/2013"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797291,
+    "name" : "Fully Permitted",
+    "dataTypeName" : "text",
+    "fieldName" : "fully_permitted",
+    "position" : 46,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402797,
+    "width" : 300,
+    "cachedContents" : {
+      "non_null" : 46,
+      "smallest" : "02/26/2013",
+      "null" : 327,
+      "largest" : "02/26/2013",
+      "top" : [ {
+        "count" : 20,
+        "item" : "02/26/2013"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797292,
+    "name" : "Initial Cost",
+    "dataTypeName" : "text",
+    "fieldName" : "initial_cost",
+    "position" : 47,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402798,
+    "width" : 240,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "$0.00",
+      "null" : 0,
+      "largest" : "$98700.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "$1000.00"
+      }, {
+        "count" : 19,
+        "item" : "$30000.00"
+      }, {
+        "count" : 18,
+        "item" : "$15000.00"
+      }, {
+        "count" : 17,
+        "item" : "$0.00"
+      }, {
+        "count" : 16,
+        "item" : "$2000.00"
+      }, {
+        "count" : 15,
+        "item" : "$20000.00"
+      }, {
+        "count" : 14,
+        "item" : "$3000.00"
+      }, {
+        "count" : 13,
+        "item" : "$10000.00"
+      }, {
+        "count" : 12,
+        "item" : "$50000.00"
+      }, {
+        "count" : 11,
+        "item" : "$80000.00"
+      }, {
+        "count" : 10,
+        "item" : "$12000.00"
+      }, {
+        "count" : 9,
+        "item" : "$5000.00"
+      }, {
+        "count" : 8,
+        "item" : "$677850.00"
+      }, {
+        "count" : 7,
+        "item" : "$94000.00"
+      }, {
+        "count" : 6,
+        "item" : "$4950.00"
+      }, {
+        "count" : 5,
+        "item" : "$13000.00"
+      }, {
+        "count" : 4,
+        "item" : "$108000.00"
+      }, {
+        "count" : 3,
+        "item" : "$33200.00"
+      }, {
+        "count" : 2,
+        "item" : "$75000.00"
+      }, {
+        "count" : 1,
+        "item" : "$77500.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797293,
+    "name" : "Total Est. Fee",
+    "dataTypeName" : "text",
+    "fieldName" : "total_est_fee",
+    "position" : 48,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402799,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "$0.00",
+      "null" : 0,
+      "largest" : "$996.30",
+      "top" : [ {
+        "count" : 20,
+        "item" : "$522.50"
+      }, {
+        "count" : 19,
+        "item" : "$160.00"
+      }, {
+        "count" : 18,
+        "item" : "$225.00"
+      }, {
+        "count" : 17,
+        "item" : "$728.50"
+      }, {
+        "count" : 16,
+        "item" : "$0.00"
+      }, {
+        "count" : 15,
+        "item" : "$420.00"
+      }, {
+        "count" : 14,
+        "item" : "$170.00"
+      }, {
+        "count" : 13,
+        "item" : "$368.00"
+      }, {
+        "count" : 12,
+        "item" : "$337.10"
+      }, {
+        "count" : 11,
+        "item" : "$549.50"
+      }, {
+        "count" : 10,
+        "item" : "$130.00"
+      }, {
+        "count" : 9,
+        "item" : "$1264.10"
+      }, {
+        "count" : 8,
+        "item" : "$1161.10"
+      }, {
+        "count" : 7,
+        "item" : "$1696.70"
+      }, {
+        "count" : 6,
+        "item" : "$883.00"
+      }, {
+        "count" : 5,
+        "item" : "$625.50"
+      }, {
+        "count" : 4,
+        "item" : "$481.30"
+      }, {
+        "count" : 3,
+        "item" : "$1328.00"
+      }, {
+        "count" : 2,
+        "item" : "$471.00"
+      }, {
+        "count" : 1,
+        "item" : "$378.30"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797294,
+    "name" : "Fee Status",
+    "dataTypeName" : "text",
+    "fieldName" : "fee_status",
+    "position" : 49,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402800,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "EXEMPT",
+      "null" : 0,
+      "largest" : "STANDARD",
+      "top" : [ {
+        "count" : 20,
+        "item" : "STANDARD"
+      }, {
+        "count" : 19,
+        "item" : "EXEMPT"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797295,
+    "name" : "Existing Zoning Sqft",
+    "dataTypeName" : "text",
+    "fieldName" : "existing_zoning_sqft",
+    "position" : 50,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402801,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "861",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "4982"
+      }, {
+        "count" : 18,
+        "item" : "1115"
+      }, {
+        "count" : 17,
+        "item" : "332"
+      }, {
+        "count" : 16,
+        "item" : "861"
+      }, {
+        "count" : 15,
+        "item" : "3258"
+      }, {
+        "count" : 14,
+        "item" : "568001"
+      }, {
+        "count" : 13,
+        "item" : "4668"
+      }, {
+        "count" : 12,
+        "item" : "8114"
+      }, {
+        "count" : 11,
+        "item" : "14925"
+      }, {
+        "count" : 10,
+        "item" : "4052"
+      }, {
+        "count" : 9,
+        "item" : "1855"
+      }, {
+        "count" : 8,
+        "item" : "4080"
+      }, {
+        "count" : 7,
+        "item" : "327"
+      }, {
+        "count" : 6,
+        "item" : "3752"
+      }, {
+        "count" : 5,
+        "item" : "2605"
+      }, {
+        "count" : 4,
+        "item" : "11114"
+      }, {
+        "count" : 3,
+        "item" : "2857"
+      }, {
+        "count" : 2,
+        "item" : "2682"
+      }, {
+        "count" : 1,
+        "item" : "4800"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797296,
+    "name" : "Proposed Zoning Sqft",
+    "dataTypeName" : "text",
+    "fieldName" : "proposed_zoning_sqft",
+    "position" : 51,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402802,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "8813",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "4982"
+      }, {
+        "count" : 18,
+        "item" : "1115"
+      }, {
+        "count" : 17,
+        "item" : "332"
+      }, {
+        "count" : 16,
+        "item" : "12348"
+      }, {
+        "count" : 15,
+        "item" : "8813"
+      }, {
+        "count" : 14,
+        "item" : "8725"
+      }, {
+        "count" : 13,
+        "item" : "1258"
+      }, {
+        "count" : 12,
+        "item" : "2537"
+      }, {
+        "count" : 11,
+        "item" : "3258"
+      }, {
+        "count" : 10,
+        "item" : "568001"
+      }, {
+        "count" : 9,
+        "item" : "4668"
+      }, {
+        "count" : 8,
+        "item" : "12940"
+      }, {
+        "count" : 7,
+        "item" : "18458"
+      }, {
+        "count" : 6,
+        "item" : "14925"
+      }, {
+        "count" : 5,
+        "item" : "4976"
+      }, {
+        "count" : 4,
+        "item" : "2790"
+      }, {
+        "count" : 3,
+        "item" : "4080"
+      }, {
+        "count" : 2,
+        "item" : "325"
+      }, {
+        "count" : 1,
+        "item" : "549"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797297,
+    "name" : "Horizontal Enlrgmt",
+    "dataTypeName" : "text",
+    "fieldName" : "horizontal_enlrgmt",
+    "position" : 52,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402803,
+    "width" : 360,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "Y",
+      "null" : 365,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797298,
+    "name" : "Vertical Enlrgmt",
+    "dataTypeName" : "text",
+    "fieldName" : "vertical_enlrgmt",
+    "position" : 53,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402804,
+    "width" : 320,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "Y",
+      "null" : 366,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797299,
+    "name" : "Enlargement SQ Footage",
+    "dataTypeName" : "text",
+    "fieldName" : "enlargement_sq_footage",
+    "position" : 54,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402805,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "960",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "397"
+      }, {
+        "count" : 18,
+        "item" : "4826"
+      }, {
+        "count" : 17,
+        "item" : "871"
+      }, {
+        "count" : 16,
+        "item" : "1135"
+      }, {
+        "count" : 15,
+        "item" : "222"
+      }, {
+        "count" : 14,
+        "item" : "7633"
+      }, {
+        "count" : 13,
+        "item" : "1025"
+      }, {
+        "count" : 12,
+        "item" : "1028"
+      }, {
+        "count" : 11,
+        "item" : "960"
+      }, {
+        "count" : 10,
+        "item" : "1302"
+      }, {
+        "count" : 9,
+        "item" : "750"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797300,
+    "name" : "Street Frontage",
+    "dataTypeName" : "text",
+    "fieldName" : "street_frontage",
+    "position" : 55,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402806,
+    "width" : 300,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "95",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "20"
+      }, {
+        "count" : 18,
+        "item" : "80"
+      }, {
+        "count" : 17,
+        "item" : "60"
+      }, {
+        "count" : 16,
+        "item" : "100"
+      }, {
+        "count" : 15,
+        "item" : "95"
+      }, {
+        "count" : 14,
+        "item" : "40"
+      }, {
+        "count" : 13,
+        "item" : "50"
+      }, {
+        "count" : 12,
+        "item" : "112"
+      }, {
+        "count" : 11,
+        "item" : "75"
+      }, {
+        "count" : 10,
+        "item" : "25"
+      }, {
+        "count" : 9,
+        "item" : "309"
+      }, {
+        "count" : 8,
+        "item" : "146"
+      }, {
+        "count" : 7,
+        "item" : "166"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797301,
+    "name" : "ExistingNo. of Stories",
+    "dataTypeName" : "text",
+    "fieldName" : "existingno_of_stories",
+    "position" : 56,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402807,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4"
+      }, {
+        "count" : 19,
+        "item" : "0"
+      }, {
+        "count" : 18,
+        "item" : "2"
+      }, {
+        "count" : 17,
+        "item" : "23"
+      }, {
+        "count" : 16,
+        "item" : "1"
+      }, {
+        "count" : 15,
+        "item" : "5"
+      }, {
+        "count" : 14,
+        "item" : "6"
+      }, {
+        "count" : 13,
+        "item" : "11"
+      }, {
+        "count" : 12,
+        "item" : "3"
+      }, {
+        "count" : 11,
+        "item" : "41"
+      }, {
+        "count" : 10,
+        "item" : "40"
+      }, {
+        "count" : 9,
+        "item" : "49"
+      }, {
+        "count" : 8,
+        "item" : "38"
+      }, {
+        "count" : 7,
+        "item" : "43"
+      }, {
+        "count" : 6,
+        "item" : "14"
+      }, {
+        "count" : 5,
+        "item" : "48"
+      }, {
+        "count" : 4,
+        "item" : "25"
+      }, {
+        "count" : 3,
+        "item" : "7"
+      }, {
+        "count" : 2,
+        "item" : "12"
+      }, {
+        "count" : 1,
+        "item" : "36"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797302,
+    "name" : "Proposed No. of Stories",
+    "dataTypeName" : "text",
+    "fieldName" : "proposed_no_of_stories",
+    "position" : 57,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402808,
+    "width" : 230,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4"
+      }, {
+        "count" : 19,
+        "item" : "0"
+      }, {
+        "count" : 18,
+        "item" : "2"
+      }, {
+        "count" : 17,
+        "item" : "23"
+      }, {
+        "count" : 16,
+        "item" : "1"
+      }, {
+        "count" : 15,
+        "item" : "5"
+      }, {
+        "count" : 14,
+        "item" : "6"
+      }, {
+        "count" : 13,
+        "item" : "11"
+      }, {
+        "count" : 12,
+        "item" : "3"
+      }, {
+        "count" : 11,
+        "item" : "41"
+      }, {
+        "count" : 10,
+        "item" : "40"
+      }, {
+        "count" : 9,
+        "item" : "49"
+      }, {
+        "count" : 8,
+        "item" : "38"
+      }, {
+        "count" : 7,
+        "item" : "43"
+      }, {
+        "count" : 6,
+        "item" : "14"
+      }, {
+        "count" : 5,
+        "item" : "48"
+      }, {
+        "count" : 4,
+        "item" : "25"
+      }, {
+        "count" : 3,
+        "item" : "7"
+      }, {
+        "count" : 2,
+        "item" : "12"
+      }, {
+        "count" : 1,
+        "item" : "36"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797303,
+    "name" : "Existing Height",
+    "dataTypeName" : "text",
+    "fieldName" : "existing_height",
+    "position" : 58,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402809,
+    "width" : 300,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "98",
+      "top" : [ {
+        "count" : 20,
+        "item" : "40"
+      }, {
+        "count" : 19,
+        "item" : "0"
+      }, {
+        "count" : 18,
+        "item" : "25"
+      }, {
+        "count" : 17,
+        "item" : "60"
+      }, {
+        "count" : 16,
+        "item" : "65"
+      }, {
+        "count" : 15,
+        "item" : "30"
+      }, {
+        "count" : 14,
+        "item" : "35"
+      }, {
+        "count" : 13,
+        "item" : "55"
+      }, {
+        "count" : 12,
+        "item" : "28"
+      }, {
+        "count" : 11,
+        "item" : "22"
+      }, {
+        "count" : 10,
+        "item" : "64"
+      }, {
+        "count" : 9,
+        "item" : "18"
+      }, {
+        "count" : 8,
+        "item" : "704"
+      }, {
+        "count" : 7,
+        "item" : "15"
+      }, {
+        "count" : 6,
+        "item" : "21"
+      }, {
+        "count" : 5,
+        "item" : "344"
+      }, {
+        "count" : 4,
+        "item" : "74"
+      }, {
+        "count" : 3,
+        "item" : "24"
+      }, {
+        "count" : 2,
+        "item" : "20"
+      }, {
+        "count" : 1,
+        "item" : "133"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797304,
+    "name" : "Proposed Height",
+    "dataTypeName" : "text",
+    "fieldName" : "proposed_height",
+    "position" : 59,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402810,
+    "width" : 300,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "98",
+      "top" : [ {
+        "count" : 20,
+        "item" : "40"
+      }, {
+        "count" : 19,
+        "item" : "0"
+      }, {
+        "count" : 18,
+        "item" : "25"
+      }, {
+        "count" : 17,
+        "item" : "60"
+      }, {
+        "count" : 16,
+        "item" : "65"
+      }, {
+        "count" : 15,
+        "item" : "30"
+      }, {
+        "count" : 14,
+        "item" : "35"
+      }, {
+        "count" : 13,
+        "item" : "55"
+      }, {
+        "count" : 12,
+        "item" : "28"
+      }, {
+        "count" : 11,
+        "item" : "22"
+      }, {
+        "count" : 10,
+        "item" : "64"
+      }, {
+        "count" : 9,
+        "item" : "18"
+      }, {
+        "count" : 8,
+        "item" : "704"
+      }, {
+        "count" : 7,
+        "item" : "344"
+      }, {
+        "count" : 6,
+        "item" : "74"
+      }, {
+        "count" : 5,
+        "item" : "24"
+      }, {
+        "count" : 4,
+        "item" : "20"
+      }, {
+        "count" : 3,
+        "item" : "122"
+      }, {
+        "count" : 2,
+        "item" : "62"
+      }, {
+        "count" : 1,
+        "item" : "80"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797305,
+    "name" : "Existing Dwelling Units",
+    "dataTypeName" : "text",
+    "fieldName" : "existing_dwelling_units",
+    "position" : 60,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402811,
+    "width" : 230,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "     ",
+      "null" : 0,
+      "largest" : "    9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "     "
+      }, {
+        "count" : 19,
+        "item" : "    2"
+      }, {
+        "count" : 18,
+        "item" : "    3"
+      }, {
+        "count" : 17,
+        "item" : "   20"
+      }, {
+        "count" : 16,
+        "item" : "    9"
+      }, {
+        "count" : 15,
+        "item" : "    1"
+      }, {
+        "count" : 14,
+        "item" : "    6"
+      }, {
+        "count" : 13,
+        "item" : "   19"
+      }, {
+        "count" : 12,
+        "item" : "   40"
+      }, {
+        "count" : 11,
+        "item" : "    8"
+      }, {
+        "count" : 10,
+        "item" : "   10"
+      }, {
+        "count" : 9,
+        "item" : "    0"
+      }, {
+        "count" : 8,
+        "item" : "    4"
+      }, {
+        "count" : 7,
+        "item" : "   72"
+      }, {
+        "count" : 6,
+        "item" : "   64"
+      }, {
+        "count" : 5,
+        "item" : "   13"
+      }, {
+        "count" : 4,
+        "item" : "   12"
+      }, {
+        "count" : 3,
+        "item" : "   15"
+      }, {
+        "count" : 2,
+        "item" : "    5"
+      }, {
+        "count" : 1,
+        "item" : "   54"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797306,
+    "name" : "Proposed Dwelling Units",
+    "dataTypeName" : "text",
+    "fieldName" : "proposed_dwelling_units",
+    "position" : 61,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402812,
+    "width" : 230,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "     ",
+      "null" : 0,
+      "largest" : "    9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "     "
+      }, {
+        "count" : 19,
+        "item" : "    2"
+      }, {
+        "count" : 18,
+        "item" : "    3"
+      }, {
+        "count" : 17,
+        "item" : "   20"
+      }, {
+        "count" : 16,
+        "item" : "    9"
+      }, {
+        "count" : 15,
+        "item" : "    1"
+      }, {
+        "count" : 14,
+        "item" : "    6"
+      }, {
+        "count" : 13,
+        "item" : "    8"
+      }, {
+        "count" : 12,
+        "item" : "   19"
+      }, {
+        "count" : 11,
+        "item" : "   40"
+      }, {
+        "count" : 10,
+        "item" : "   10"
+      }, {
+        "count" : 9,
+        "item" : "    4"
+      }, {
+        "count" : 8,
+        "item" : "    0"
+      }, {
+        "count" : 7,
+        "item" : "   64"
+      }, {
+        "count" : 6,
+        "item" : "   13"
+      }, {
+        "count" : 5,
+        "item" : "   12"
+      }, {
+        "count" : 4,
+        "item" : "   15"
+      }, {
+        "count" : 3,
+        "item" : "    5"
+      }, {
+        "count" : 2,
+        "item" : "   54"
+      }, {
+        "count" : 1,
+        "item" : "   25"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797307,
+    "name" : "Existing Occupancy",
+    "dataTypeName" : "text",
+    "fieldName" : "existing_occupancy",
+    "position" : 62,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402813,
+    "width" : 360,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "    ",
+      "null" : 0,
+      "largest" : "U   ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "RES "
+      }, {
+        "count" : 19,
+        "item" : "    "
+      }, {
+        "count" : 18,
+        "item" : "R-3 "
+      }, {
+        "count" : 17,
+        "item" : "E   "
+      }, {
+        "count" : 16,
+        "item" : "C   "
+      }, {
+        "count" : 15,
+        "item" : "COM "
+      }, {
+        "count" : 14,
+        "item" : "J-2 "
+      }, {
+        "count" : 13,
+        "item" : "PUB "
+      }, {
+        "count" : 12,
+        "item" : "K   "
+      }, {
+        "count" : 11,
+        "item" : "A-2 "
+      }, {
+        "count" : 10,
+        "item" : "R-2 "
+      }, {
+        "count" : 9,
+        "item" : "J-3 "
+      }, {
+        "count" : 8,
+        "item" : "B-2 "
+      }, {
+        "count" : 7,
+        "item" : "J-0 "
+      }, {
+        "count" : 6,
+        "item" : "G   "
+      }, {
+        "count" : 5,
+        "item" : "M   "
+      }, {
+        "count" : 4,
+        "item" : "D-2 "
+      }, {
+        "count" : 3,
+        "item" : "B   "
+      }, {
+        "count" : 2,
+        "item" : "S-1 "
+      }, {
+        "count" : 1,
+        "item" : "U   "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797308,
+    "name" : "Proposed Occupancy",
+    "dataTypeName" : "text",
+    "fieldName" : "proposed_occupancy",
+    "position" : 63,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402814,
+    "width" : 360,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "    ",
+      "null" : 0,
+      "largest" : "U   ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "RES "
+      }, {
+        "count" : 19,
+        "item" : "    "
+      }, {
+        "count" : 18,
+        "item" : "R-3 "
+      }, {
+        "count" : 17,
+        "item" : "E   "
+      }, {
+        "count" : 16,
+        "item" : "B   "
+      }, {
+        "count" : 15,
+        "item" : "COM "
+      }, {
+        "count" : 14,
+        "item" : "J-2 "
+      }, {
+        "count" : 13,
+        "item" : "A-3 "
+      }, {
+        "count" : 12,
+        "item" : "PUB "
+      }, {
+        "count" : 11,
+        "item" : "U   "
+      }, {
+        "count" : 10,
+        "item" : "A-2 "
+      }, {
+        "count" : 9,
+        "item" : "S-2 "
+      }, {
+        "count" : 8,
+        "item" : "R-2 "
+      }, {
+        "count" : 7,
+        "item" : "J-3 "
+      }, {
+        "count" : 6,
+        "item" : "B-2 "
+      }, {
+        "count" : 5,
+        "item" : "K   "
+      }, {
+        "count" : 4,
+        "item" : "J-0 "
+      }, {
+        "count" : 3,
+        "item" : "C   "
+      }, {
+        "count" : 2,
+        "item" : "G   "
+      }, {
+        "count" : 1,
+        "item" : "M   "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797309,
+    "name" : "Site Fill",
+    "dataTypeName" : "text",
+    "fieldName" : "site_fill",
+    "position" : 64,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402815,
+    "width" : 360,
+    "cachedContents" : {
+      "non_null" : 250,
+      "smallest" : "NOT APPLICABLE                          ",
+      "null" : 123,
+      "largest" : "USE UNDER 300 CU.YD                     ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NOT APPLICABLE                          "
+      }, {
+        "count" : 19,
+        "item" : "ON-SITE                                 "
+      }, {
+        "count" : 18,
+        "item" : "USE UNDER 300 CU.YD                     "
+      }, {
+        "count" : 17,
+        "item" : "OFF-SITE                                "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797310,
+    "name" : "Zoning Dist1",
+    "dataTypeName" : "text",
+    "fieldName" : "zoning_dist1",
+    "position" : 65,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402816,
+    "width" : 240,
+    "cachedContents" : {
+      "non_null" : 319,
+      "smallest" : "C1-6        ",
+      "null" : 54,
+      "largest" : "R9          ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "R5B         "
+      }, {
+        "count" : 19,
+        "item" : "C5-5        "
+      }, {
+        "count" : 18,
+        "item" : "R5          "
+      }, {
+        "count" : 17,
+        "item" : "R8B         "
+      }, {
+        "count" : 16,
+        "item" : "R8          "
+      }, {
+        "count" : 15,
+        "item" : "C6-2A       "
+      }, {
+        "count" : 14,
+        "item" : "R6          "
+      }, {
+        "count" : 13,
+        "item" : "C5-3        "
+      }, {
+        "count" : 12,
+        "item" : "C6-6        "
+      }, {
+        "count" : 11,
+        "item" : "R3X         "
+      }, {
+        "count" : 10,
+        "item" : "R4          "
+      }, {
+        "count" : 9,
+        "item" : "R6A         "
+      }, {
+        "count" : 8,
+        "item" : "R3-2        "
+      }, {
+        "count" : 7,
+        "item" : "R7-1        "
+      }, {
+        "count" : 6,
+        "item" : "M1-1        "
+      }, {
+        "count" : 5,
+        "item" : "R6B         "
+      }, {
+        "count" : 4,
+        "item" : "R7-2        "
+      }, {
+        "count" : 3,
+        "item" : "C1-9        "
+      }, {
+        "count" : 2,
+        "item" : "R2          "
+      }, {
+        "count" : 1,
+        "item" : "C6-4        "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797311,
+    "name" : "Zoning Dist2",
+    "dataTypeName" : "text",
+    "fieldName" : "zoning_dist2",
+    "position" : 66,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402817,
+    "width" : 240,
+    "cachedContents" : {
+      "non_null" : 41,
+      "smallest" : "C1-6        ",
+      "null" : 332,
+      "largest" : "R8B         ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "C5-2.5      "
+      }, {
+        "count" : 19,
+        "item" : "C6-6.5      "
+      }, {
+        "count" : 18,
+        "item" : "C5-3        "
+      }, {
+        "count" : 17,
+        "item" : "C4-2A       "
+      }, {
+        "count" : 16,
+        "item" : "C6-2M       "
+      }, {
+        "count" : 15,
+        "item" : "R6B         "
+      }, {
+        "count" : 14,
+        "item" : "R10         "
+      }, {
+        "count" : 13,
+        "item" : "R7A         "
+      }, {
+        "count" : 12,
+        "item" : "C6-1        "
+      }, {
+        "count" : 11,
+        "item" : "C8-1        "
+      }, {
+        "count" : 10,
+        "item" : "R6          "
+      }, {
+        "count" : 9,
+        "item" : "R5D         "
+      }, {
+        "count" : 8,
+        "item" : "R8B         "
+      }, {
+        "count" : 7,
+        "item" : "R4-1        "
+      }, {
+        "count" : 6,
+        "item" : "C5-1        "
+      }, {
+        "count" : 5,
+        "item" : "C6-4.5      "
+      }, {
+        "count" : 4,
+        "item" : "C5-2        "
+      }, {
+        "count" : 3,
+        "item" : "M1-4        "
+      }, {
+        "count" : 2,
+        "item" : "C1-6        "
+      }, {
+        "count" : 1,
+        "item" : "R8A         "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797312,
+    "name" : "Zoning Dist3",
+    "dataTypeName" : "text",
+    "fieldName" : "zoning_dist3",
+    "position" : 67,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402818,
+    "width" : 240,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 373
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797313,
+    "name" : "Special District 1",
+    "dataTypeName" : "text",
+    "fieldName" : "special_district_1",
+    "position" : 68,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402819,
+    "width" : 360,
+    "cachedContents" : {
+      "non_null" : 88,
+      "smallest" : "125   ",
+      "null" : 285,
+      "largest" : "US    ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "125   "
+      }, {
+        "count" : 19,
+        "item" : "LM    "
+      }, {
+        "count" : 18,
+        "item" : "CL    "
+      }, {
+        "count" : 17,
+        "item" : "MID   "
+      }, {
+        "count" : 16,
+        "item" : "SRD   "
+      }, {
+        "count" : 15,
+        "item" : "CD    "
+      }, {
+        "count" : 14,
+        "item" : "BR    "
+      }, {
+        "count" : 13,
+        "item" : "NA-1  "
+      }, {
+        "count" : 12,
+        "item" : "OP    "
+      }, {
+        "count" : 11,
+        "item" : "LIC   "
+      }, {
+        "count" : 10,
+        "item" : "L     "
+      }, {
+        "count" : 9,
+        "item" : "HS    "
+      }, {
+        "count" : 8,
+        "item" : "LH-1  "
+      }, {
+        "count" : 7,
+        "item" : "DB    "
+      }, {
+        "count" : 6,
+        "item" : "PC    "
+      }, {
+        "count" : 5,
+        "item" : "LH-1A "
+      }, {
+        "count" : 4,
+        "item" : "MX-13 "
+      }, {
+        "count" : 3,
+        "item" : "TA    "
+      }, {
+        "count" : 2,
+        "item" : "US    "
+      }, {
+        "count" : 1,
+        "item" : "MP    "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797314,
+    "name" : "Special District 2",
+    "dataTypeName" : "text",
+    "fieldName" : "special_district_2",
+    "position" : 69,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402820,
+    "width" : 360,
+    "cachedContents" : {
+      "non_null" : 23,
+      "smallest" : "IBZ   ",
+      "null" : 350,
+      "largest" : "POPS  ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "POPS  "
+      }, {
+        "count" : 19,
+        "item" : "IBZ   "
+      }, {
+        "count" : 18,
+        "item" : "JAM   "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797315,
+    "name" : "Owner Type",
+    "dataTypeName" : "text",
+    "fieldName" : "owner_type",
+    "position" : 70,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402821,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 373
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797316,
+    "name" : "Non-Profit",
+    "dataTypeName" : "text",
+    "fieldName" : "non_profit",
+    "position" : 71,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402822,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 25,
+      "smallest" : "Y",
+      "null" : 348,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797317,
+    "name" : "Owner's First Name",
+    "dataTypeName" : "text",
+    "fieldName" : "owner_s_first_name",
+    "position" : 72,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402823,
+    "width" : 360,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "AARON          ",
+      "null" : 0,
+      "largest" : "ZHAO WEN       ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "JOHN           "
+      }, {
+        "count" : 19,
+        "item" : "FRANK          "
+      }, {
+        "count" : 18,
+        "item" : "TOM            "
+      }, {
+        "count" : 17,
+        "item" : "ANTHONY        "
+      }, {
+        "count" : 16,
+        "item" : "MICHAEL        "
+      }, {
+        "count" : 15,
+        "item" : "DANNY          "
+      }, {
+        "count" : 14,
+        "item" : "DAVID          "
+      }, {
+        "count" : 13,
+        "item" : "ANDREW         "
+      }, {
+        "count" : 12,
+        "item" : "JOSEPH         "
+      }, {
+        "count" : 11,
+        "item" : "RALPH          "
+      }, {
+        "count" : 10,
+        "item" : "ROBERT         "
+      }, {
+        "count" : 9,
+        "item" : "VYACHESLAV     "
+      }, {
+        "count" : 8,
+        "item" : "DANIEL         "
+      }, {
+        "count" : 7,
+        "item" : "JOSE           "
+      }, {
+        "count" : 6,
+        "item" : "JI-SONG        "
+      }, {
+        "count" : 5,
+        "item" : "CELSO          "
+      }, {
+        "count" : 4,
+        "item" : "TAMRA          "
+      }, {
+        "count" : 3,
+        "item" : "PIA            "
+      }, {
+        "count" : 2,
+        "item" : "JAMES          "
+      }, {
+        "count" : 1,
+        "item" : "NICK           "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797318,
+    "name" : "Owner's Last Name",
+    "dataTypeName" : "text",
+    "fieldName" : "owner_s_last_name",
+    "position" : 73,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402824,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "ABNERI                        ",
+      "null" : 0,
+      "largest" : "ZLOTNICK                      ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "DUFFE                         "
+      }, {
+        "count" : 19,
+        "item" : "MARTINEZ                      "
+      }, {
+        "count" : 18,
+        "item" : "DIRUGGIERO                    "
+      }, {
+        "count" : 17,
+        "item" : "SPADAFORA                     "
+      }, {
+        "count" : 16,
+        "item" : "ASHKENASI                     "
+      }, {
+        "count" : 15,
+        "item" : "ENNIS                         "
+      }, {
+        "count" : 14,
+        "item" : "DORSKY                        "
+      }, {
+        "count" : 13,
+        "item" : " FAYBYSHEV                    "
+      }, {
+        "count" : 12,
+        "item" : "BELL                          "
+      }, {
+        "count" : 11,
+        "item" : "ADLER                         "
+      }, {
+        "count" : 10,
+        "item" : "SINGH                         "
+      }, {
+        "count" : 9,
+        "item" : "COUPHOS                       "
+      }, {
+        "count" : 8,
+        "item" : "BASHAM                        "
+      }, {
+        "count" : 7,
+        "item" : "CALABRESE                     "
+      }, {
+        "count" : 6,
+        "item" : "LEPOW                         "
+      }, {
+        "count" : 5,
+        "item" : "SONITIS                       "
+      }, {
+        "count" : 4,
+        "item" : "CHEN                          "
+      }, {
+        "count" : 3,
+        "item" : "AMALFITANO                    "
+      }, {
+        "count" : 2,
+        "item" : "NAJMY.                        "
+      }, {
+        "count" : 1,
+        "item" : "FARHADIAN                     "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797319,
+    "name" : "Owner's Business Name",
+    "dataTypeName" : "text",
+    "fieldName" : "owner_s_business_name",
+    "position" : 74,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402825,
+    "width" : 210,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "--------------------            ",
+      "null" : 0,
+      "largest" : "YARROW TWO LLC                  ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N/A                             "
+      }, {
+        "count" : 19,
+        "item" : "YARROW TWO LLC                  "
+      }, {
+        "count" : 18,
+        "item" : "PARK SLOPE VILLAS CONDOMINIUM   "
+      }, {
+        "count" : 17,
+        "item" : "EXCEL BRADSHAW MANAGMENT GROUP  "
+      }, {
+        "count" : 16,
+        "item" : "712 FIFTH AVENUE L.P., PARAMOUNT"
+      }, {
+        "count" : 15,
+        "item" : "1462 2ND AVE REALTY LLC         "
+      }, {
+        "count" : 14,
+        "item" : "BIG DEAL REALTY ON GREENE STREET"
+      }, {
+        "count" : 13,
+        "item" : "35 WEST END AVE LLC.            "
+      }, {
+        "count" : 12,
+        "item" : "VERIZON NEW YORK, INC           "
+      }, {
+        "count" : 11,
+        "item" : "980 MADISON LLC                 "
+      }, {
+        "count" : 10,
+        "item" : "BCB PROPERTIES, LLC             "
+      }, {
+        "count" : 9,
+        "item" : "SILVERCUP SCAFFOLDING 1 LLC     "
+      }, {
+        "count" : 8,
+        "item" : "B H & B CONSTRUCTION INC.       "
+      }, {
+        "count" : 7,
+        "item" : "GOLTEN MARINE CO , INC          "
+      }, {
+        "count" : 6,
+        "item" : "AVON REALTY &DIV TIRES CO.      "
+      }, {
+        "count" : 5,
+        "item" : "NA                              "
+      }, {
+        "count" : 4,
+        "item" : "MEADOW APARTMENTS               "
+      }, {
+        "count" : 3,
+        "item" : "VORNADO OFFICE MANAGEMENT       "
+      }, {
+        "count" : 2,
+        "item" : "MSA TWINS LIMITED               "
+      }, {
+        "count" : 1,
+        "item" : "JMARIE ACQUISITIONS LLC         "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797320,
+    "name" : "Owner's  House Number",
+    "dataTypeName" : "text",
+    "fieldName" : "owner_s_house_number",
+    "position" : 75,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402826,
+    "width" : 210,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "1           ",
+      "null" : 0,
+      "largest" : "PO BOX 77   ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1           "
+      }, {
+        "count" : 19,
+        "item" : "393         "
+      }, {
+        "count" : 18,
+        "item" : "30-30       "
+      }, {
+        "count" : 17,
+        "item" : "GRP INC AAFO"
+      }, {
+        "count" : 16,
+        "item" : "666         "
+      }, {
+        "count" : 15,
+        "item" : "757         "
+      }, {
+        "count" : 14,
+        "item" : "377         "
+      }, {
+        "count" : 13,
+        "item" : "228         "
+      }, {
+        "count" : 12,
+        "item" : "149-36      "
+      }, {
+        "count" : 11,
+        "item" : "223         "
+      }, {
+        "count" : 10,
+        "item" : "464         "
+      }, {
+        "count" : 9,
+        "item" : "87          "
+      }, {
+        "count" : 8,
+        "item" : "95-13       "
+      }, {
+        "count" : 7,
+        "item" : "342         "
+      }, {
+        "count" : 6,
+        "item" : "11          "
+      }, {
+        "count" : 5,
+        "item" : "57-06       "
+      }, {
+        "count" : 4,
+        "item" : "1202        "
+      }, {
+        "count" : 3,
+        "item" : "86-88       "
+      }, {
+        "count" : 2,
+        "item" : "230         "
+      }, {
+        "count" : 1,
+        "item" : "595         "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797321,
+    "name" : "Owner's  House Street Name",
+    "dataTypeName" : "text",
+    "fieldName" : "owner_s_house_street_name",
+    "position" : 76,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402827,
+    "width" : 260,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "101 AVENUE                      ",
+      "null" : 0,
+      "largest" : "WYCKOFF  STREET                 ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BRYANT PARK                     "
+      }, {
+        "count" : 19,
+        "item" : "OLD COUNTRY ROAD                "
+      }, {
+        "count" : 18,
+        "item" : "712 FIFTH AVENUE                "
+      }, {
+        "count" : 17,
+        "item" : "THOMSON AVENUE                  "
+      }, {
+        "count" : 16,
+        "item" : "BROADWAY                        "
+      }, {
+        "count" : 15,
+        "item" : "PARK AVENUE                     "
+      }, {
+        "count" : 14,
+        "item" : "3RD AVENUE C/O RFR REALTY LLC   "
+      }, {
+        "count" : 13,
+        "item" : "DOUGLASS STREET                 "
+      }, {
+        "count" : 12,
+        "item" : "MADISON AVENUE                  "
+      }, {
+        "count" : 11,
+        "item" : "COLUMBUS CIRCLE                 "
+      }, {
+        "count" : 10,
+        "item" : "WEST END AVE                    "
+      }, {
+        "count" : 9,
+        "item" : "EAST 56TH STREET                "
+      }, {
+        "count" : 8,
+        "item" : "EAST 79 STREET                  "
+      }, {
+        "count" : 7,
+        "item" : "SEVENTH AVENUE                  "
+      }, {
+        "count" : 6,
+        "item" : "ELM AVE.                        "
+      }, {
+        "count" : 5,
+        "item" : "WESTERVELT LANE                 "
+      }, {
+        "count" : 4,
+        "item" : "WILD AVENUE                     "
+      }, {
+        "count" : 3,
+        "item" : "EAST 116TH ST.,                 "
+      }, {
+        "count" : 2,
+        "item" : "95 STREET                       "
+      }, {
+        "count" : 1,
+        "item" : "BEACH 145 STREET                "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797322,
+    "name" : "City",
+    "dataTypeName" : "text",
+    "fieldName" : "city",
+    "position" : 77,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402828,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "ALLENHURST     ",
+      "null" : 0,
+      "largest" : "WOODHAVEN      ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NY             "
+      }, {
+        "count" : 19,
+        "item" : "NEW YORK       "
+      }, {
+        "count" : 18,
+        "item" : "QUEENS         "
+      }, {
+        "count" : 17,
+        "item" : "STATEN ISLAND  "
+      }, {
+        "count" : 16,
+        "item" : "BROOKLYN       "
+      }, {
+        "count" : 15,
+        "item" : "JAMAICA        "
+      }, {
+        "count" : 14,
+        "item" : "MANHATTAN      "
+      }, {
+        "count" : 13,
+        "item" : "CARLE PLACE    "
+      }, {
+        "count" : 12,
+        "item" : "BRONX          "
+      }, {
+        "count" : 11,
+        "item" : "PITTSFORD      "
+      }, {
+        "count" : 10,
+        "item" : "FLUSHING       "
+      }, {
+        "count" : 9,
+        "item" : "NYC            "
+      }, {
+        "count" : 8,
+        "item" : "FOREST HILLS   "
+      }, {
+        "count" : 7,
+        "item" : "BK             "
+      }, {
+        "count" : 6,
+        "item" : "NEW ROCHELLE   "
+      }, {
+        "count" : 5,
+        "item" : "LIC            "
+      }, {
+        "count" : 4,
+        "item" : "HACKENSACK     "
+      }, {
+        "count" : 3,
+        "item" : "RICHMOND HILL  "
+      }, {
+        "count" : 2,
+        "item" : "L.I.C.         "
+      }, {
+        "count" : 1,
+        "item" : "LONG ISLAND CIT"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797323,
+    "name" : "State",
+    "dataTypeName" : "text",
+    "fieldName" : "state",
+    "position" : 78,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402829,
+    "width" : 250,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "IL",
+      "null" : 0,
+      "largest" : "NY",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NY"
+      }, {
+        "count" : 19,
+        "item" : "NJ"
+      }, {
+        "count" : 18,
+        "item" : "IL"
+      }, {
+        "count" : 17,
+        "item" : "MI"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797324,
+    "name" : "Zip",
+    "dataTypeName" : "text",
+    "fieldName" : "zip",
+    "position" : 79,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402830,
+    "width" : 150,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "07067    ",
+      "null" : 0,
+      "largest" : "60606    ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10022    "
+      }, {
+        "count" : 19,
+        "item" : "10019    "
+      }, {
+        "count" : 18,
+        "item" : "10017    "
+      }, {
+        "count" : 17,
+        "item" : "10036    "
+      }, {
+        "count" : 16,
+        "item" : "11218    "
+      }, {
+        "count" : 15,
+        "item" : "11217    "
+      }, {
+        "count" : 14,
+        "item" : "11514    "
+      }, {
+        "count" : 13,
+        "item" : "10016    "
+      }, {
+        "count" : 12,
+        "item" : "11101    "
+      }, {
+        "count" : 11,
+        "item" : "10314    "
+      }, {
+        "count" : 10,
+        "item" : "10012    "
+      }, {
+        "count" : 9,
+        "item" : "11235    "
+      }, {
+        "count" : 8,
+        "item" : "11231    "
+      }, {
+        "count" : 7,
+        "item" : "10023    "
+      }, {
+        "count" : 6,
+        "item" : "11416    "
+      }, {
+        "count" : 5,
+        "item" : "11694    "
+      }, {
+        "count" : 4,
+        "item" : "10003    "
+      }, {
+        "count" : 3,
+        "item" : "11385    "
+      }, {
+        "count" : 2,
+        "item" : "10028    "
+      }, {
+        "count" : 1,
+        "item" : "11222    "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797325,
+    "name" : "Owner's  Phone #",
+    "dataTypeName" : "text",
+    "fieldName" : "owner_s_phone",
+    "position" : 80,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402831,
+    "width" : 320,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "2012143663",
+      "null" : 0,
+      "largest" : "9179756061",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2122576550"
+      }, {
+        "count" : 19,
+        "item" : "9179725374"
+      }, {
+        "count" : 18,
+        "item" : "2122373115"
+      }, {
+        "count" : 17,
+        "item" : "2125295688"
+      }, {
+        "count" : 16,
+        "item" : "2127526190"
+      }, {
+        "count" : 15,
+        "item" : "5166737720"
+      }, {
+        "count" : 14,
+        "item" : "2124213535"
+      }, {
+        "count" : 13,
+        "item" : "7189342322"
+      }, {
+        "count" : 12,
+        "item" : "6467280592"
+      }, {
+        "count" : 11,
+        "item" : "7188619200"
+      }, {
+        "count" : 10,
+        "item" : "7188584100"
+      }, {
+        "count" : 9,
+        "item" : "7185840812"
+      }, {
+        "count" : 8,
+        "item" : "7185673105"
+      }, {
+        "count" : 7,
+        "item" : "2127449707"
+      }, {
+        "count" : 6,
+        "item" : "2128947000"
+      }, {
+        "count" : 5,
+        "item" : "9173789546"
+      }, {
+        "count" : 4,
+        "item" : "9145880955"
+      }, {
+        "count" : 3,
+        "item" : "7189825488"
+      }, {
+        "count" : 2,
+        "item" : "9177010638"
+      }, {
+        "count" : 1,
+        "item" : "9177832363"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797326,
+    "name" : "Job Description",
+    "dataTypeName" : "text",
+    "fieldName" : "job_description",
+    "position" : 81,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402832,
+    "width" : 300,
+    "cachedContents" : {
+      "non_null" : 372,
+      "smallest" : "ADDITION OF SPRINKLER HEADS INTO MIKVAH AREA FILED UNDER APPLICATION #401995828.",
+      "null" : 1,
+      "largest" : "VERTICAL ENLARGEMENT OF EXISTING 2 STORY AND ATTIC BRICK  BUILDING BY RAISING    THE HIGHT OF EXISTING ATTIC. INTERIOR  PARTITION & PLUMBING WORK AS PER PLAN.    REPAIR FIRE DAMAGE..                                                            ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "INSTALLATION OF INTERNAL STORM AND SANITARY DRAINS                              "
+      }, {
+        "count" : 19,
+        "item" : "FILING APPLICATION FOR THE DIRECT REPLACEMENT OF (2) 230 TON  YORK CHILLER UNITS IN CELLAR. MODEL# YKECESQ6-EJG.ALL WORK AS  PER PLANS FILED HEREWITH. NO CHANGE  IN USE, EGRESS OR  OCCUPANCY.                                                   "
+      }, {
+        "count" : 18,
+        "item" : "IT IS PROPOSED TO REMOVE INTERIOR PARTITIONS AND EXISTING CONCRETE SLABS.        INSTALLATION OF NEW CONCRETE SLABS AND NEW STUB UPS FOR FUTURE PLUMBING FIXTURES AS SHOWN ON PLANS.  NO CHANGE TO USE, EGRESS OR OCCUPANCY.                      "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48797327,
+    "name" : "DOBRunDate",
+    "dataTypeName" : "text",
+    "fieldName" : "dobrundate",
+    "position" : 82,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8402833,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 373,
+      "smallest" : "2013-02-27 00:00:00",
+      "null" : 0,
+      "largest" : "2013-02-27 00:00:00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2013-02-27 00:00:00"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Daily"
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ci6y-i73t",
+    "displayName" : "Harish Pathria",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358262517,
+    "roleName" : "publisher",
+    "screenName" : "Harish Pathria",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ci6y-i73t",
+    "displayName" : "Harish Pathria",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358262517,
+    "roleName" : "publisher",
+    "screenName" : "Harish Pathria",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dob", "job", "clean web" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,272 @@
+{
+  "id" : "uy9r-u7if",
+  "name" : "Directory of Historical Occurrence of Extreme Temperatures in New York City",
+  "attribution" : "Office of Emergency Management (OEM)",
+  "attributionLink" : "http://www.nyc.gov/html/oem/downloads/pdf/hazard_mitigation/section_3i_extreme_temperatures_hazard_analysis.pdf",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1361907948,
+  "description" : "List of Extreme Temperatures with details that occurred in New York City",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2645207,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361915543,
+  "publicationGroup" : 701446,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1361915497,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 701689,
+  "totalTimesRated" : 0,
+  "viewCount" : 25,
+  "viewLastModified" : 1361915771,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 47171950,
+    "name" : "From Date",
+    "dataTypeName" : "text",
+    "fieldName" : "from_date",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8185715,
+    "width" : 111,
+    "cachedContents" : {
+      "non_null" : 11,
+      "smallest" : "1/17/2000",
+      "null" : 0,
+      "largest" : "8/8/2001",
+      "top" : [ {
+        "count" : 20,
+        "item" : "7/13/1995"
+      }, {
+        "count" : 19,
+        "item" : "7/4/1999"
+      }, {
+        "count" : 18,
+        "item" : "1/17/2000"
+      }, {
+        "count" : 17,
+        "item" : "1/21/2000"
+      }, {
+        "count" : 16,
+        "item" : "1/27/2000"
+      }, {
+        "count" : 15,
+        "item" : "8/8/2001"
+      }, {
+        "count" : 14,
+        "item" : "7/2/2002"
+      }, {
+        "count" : 13,
+        "item" : "7/29/2004"
+      }, {
+        "count" : 12,
+        "item" : "8/1/2006"
+      }, {
+        "count" : 11,
+        "item" : "2/4/2007"
+      }, {
+        "count" : 10,
+        "item" : "3/6/2007"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47171951,
+    "name" : "To Date",
+    "dataTypeName" : "text",
+    "fieldName" : "to_date",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8185716,
+    "width" : 82,
+    "cachedContents" : {
+      "non_null" : 11,
+      "smallest" : "1/18/00",
+      "null" : 0,
+      "largest" : "8/5/04",
+      "top" : [ {
+        "count" : 20,
+        "item" : "7/13/95"
+      }, {
+        "count" : 19,
+        "item" : "7/6/99"
+      }, {
+        "count" : 18,
+        "item" : "1/18/00"
+      }, {
+        "count" : 17,
+        "item" : "1/21/00"
+      }, {
+        "count" : 16,
+        "item" : "1/28/00"
+      }, {
+        "count" : 15,
+        "item" : "8/10/01"
+      }, {
+        "count" : 14,
+        "item" : "7/4/02"
+      }, {
+        "count" : 13,
+        "item" : "8/5/04"
+      }, {
+        "count" : 12,
+        "item" : "8/3/06"
+      }, {
+        "count" : 11,
+        "item" : "2/8/07"
+      }, {
+        "count" : 10,
+        "item" : "3/9/07"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47171952,
+    "name" : "Event",
+    "dataTypeName" : "text",
+    "fieldName" : "event",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8185717,
+    "width" : 93,
+    "cachedContents" : {
+      "non_null" : 11,
+      "smallest" : "Extreme Cold",
+      "null" : 0,
+      "largest" : "Extreme Heat",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Extreme Heat"
+      }, {
+        "count" : 19,
+        "item" : "Extreme Cold"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47171953,
+    "name" : "Location",
+    "dataTypeName" : "text",
+    "fieldName" : "location",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8185718,
+    "width" : 93,
+    "cachedContents" : {
+      "non_null" : 11,
+      "smallest" : "Citywide",
+      "null" : 0,
+      "largest" : "Citywide",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Citywide"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 47171954,
+    "name" : "Description",
+    "dataTypeName" : "text",
+    "fieldName" : "description",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8185719,
+    "width" : 752,
+    "cachedContents" : {
+      "non_null" : 11,
+      "smallest" : "3 consecutive days of excessive heat.  Temperatures in the 90s to 100° F. Heat indices ranged from 105 to 115° F. Responsible for 40 deaths in New York City. Scattered power outages. OEM opened 383 cooling centers. Record temperatures set throughout the region.",
+      "null" : 0,
+      "largest" : "Widespread blackouts observed throughout the region. Responsible for 31 deaths in New York City. Extremely hot and humid air mass covered the region July 4–6. July 4, temperatures soared into the mid and upper 90s. Heat indices from 100 to 105° F. Widespread blackouts observed throughout the region. Responsible for 31 deaths in New York City.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Temperatures rose to a record high of 102° F in Central Park. Responsible for 7 deaths in New York City. Hundreds treated for heat-related illness."
+      }, {
+        "count" : 19,
+        "item" : "Widespread blackouts observed throughout the region. Responsible for 31 deaths in New York City. Extremely hot and humid air mass covered the region July 4–6. July 4, temperatures soared into the mid and upper 90s. Heat indices from 100 to 105° F. Widespread blackouts observed throughout the region. Responsible for 31 deaths in New York City."
+      }, {
+        "count" : 18,
+        "item" : "Arctic cold front swept across the region Jan. 16. Strong and gusty northwest winds combined with well below normal temperatures. Extremely low windchill values. Responsible for 3 deaths: 2 homeless men, and a hospital patient who wandered outdoors."
+      }, {
+        "count" : 17,
+        "item" : "Northwest winds averaged 52 mph at LaGuardia Airport from around 2 PM to 8 PM. Temperatures fell to around 10° F; windchill values plummeted to –30° F along the coast and –35° F inland.  No deaths reported for this event."
+      }, {
+        "count" : 16,
+        "item" : "Extremely low windchill values. JFK Airport: windchill of –30° F around 8 AM on the 28th when the temperature was 9° F and the wind speed was 24 mph. LaGuardia Airport: windchill of –28° F.  No deaths reported for this event."
+      }, {
+        "count" : 15,
+        "item" : "Bermuda high-pressure system \"pumped\" hot temperatures and high humidity across the region. 6-day heat wave began on Sunday, August 5, when temperatures first reached 90° F at Central Park. High temperatures at Central Park reached 103° F on the 9th and 99° F on the 7th and 8th. Heat indices ranged between 105 and 110° F. OEM opened cooling centers throughout the City. Responsible for four deaths"
+      }, {
+        "count" : 14,
+        "item" : "Temperatures rose into the mid and upper 90s across the region.  Overnight low temperatures remained in the lower 80s. Temperatures averaged 10 to 15° F above normal. July 4, the temperature reached 98° F at LaGuardia Airport, which set a new record. Heat indices from 100 to 105° F. Cooling centers opened across the City. No deaths reported for this event"
+      }, {
+        "count" : 13,
+        "item" : "8-day heat wave began on July 29 and extended through Aug. 5. High temperatures mid and upper 90s. Heat indices 100 to 105° F on July 29; 95 to 100° F on July 30 and 31. No deaths reported for this event"
+      }, {
+        "count" : 12,
+        "item" : "3 consecutive days of excessive heat.  Temperatures in the 90s to 100° F. Heat indices ranged from 105 to 115° F. Responsible for 40 deaths in New York City. Scattered power outages. OEM opened 383 cooling centers. Record temperatures set throughout the region."
+      }, {
+        "count" : 11,
+        "item" : "Arctic air mass produced subfreezing temperatures.  Daily mean temperature averaged 15° F below normal for 5 consecutive days. 11 fatalities reported due to hypothermia."
+      }, {
+        "count" : 10,
+        "item" : "Arctic air mass produced temperatures 19° F below normal for 3 consecutive days. One fatality reported."
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "oem", "emergency", "management", "services", "extreme temperature", "historical" ],
+  "flags" : [ "default" ]
+}

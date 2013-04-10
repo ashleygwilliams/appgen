@@ -1,0 +1,278 @@
+{
+  "id" : "hjae-yuav",
+  "name" : "Directory Of Toilets In Public Parks",
+  "attribution" : "Department of Parks and Recreation (DPR)",
+  "attributionLink" : "http://www.nycgovparks.org/facilities/bathrooms",
+  "averageRating" : 0,
+  "category" : "Parks and Recreation",
+  "createdAt" : 1359063597,
+  "description" : "Directory of Toilets in Public Parks",
+  "displayType" : "table",
+  "downloadCount" : 12,
+  "numberOfComments" : 0,
+  "oid" : 2331358,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359063984,
+  "publicationGroup" : 634175,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1359063601,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 634175,
+  "totalTimesRated" : 0,
+  "viewCount" : 61,
+  "viewLastModified" : 1363711270,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 41014906,
+    "name" : "Name",
+    "dataTypeName" : "text",
+    "fieldName" : "name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7218190,
+    "width" : 234,
+    "cachedContents" : {
+      "non_null" : 616,
+      "smallest" : "100% Playground",
+      "null" : 0,
+      "largest" : "Zimmerman Playground",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Shore Road Park"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41014907,
+    "name" : "Location",
+    "dataTypeName" : "text",
+    "fieldName" : "location",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7218191,
+    "width" : 333,
+    "cachedContents" : {
+      "non_null" : 615,
+      "smallest" : "100th Street and Fifth Ave",
+      "null" : 1,
+      "largest" : "Yellowstone Boulevard between 68 Avenue & 68 Road",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bruckner Boulevard, Eastchester Bay, Hutchinson"
+      }, {
+        "count" : 19,
+        "item" : "41 to 44 streets, 5 to 7 avenues"
+      }, {
+        "count" : 18,
+        "item" : "Broadway, Jerome Avenue, City Line, Van Cortlandt Park South"
+      }, {
+        "count" : 17,
+        "item" : "West 242nd Street & Broadway"
+      }, {
+        "count" : 16,
+        "item" : "Broadway and West 254th Street"
+      }, {
+        "count" : 15,
+        "item" : "West 239 Street & Van Cortlandt East"
+      }, {
+        "count" : 14,
+        "item" : "Congress, Columbia, West/South BQE"
+      }, {
+        "count" : 13,
+        "item" : "Spring & Thompson streets"
+      }, {
+        "count" : 12,
+        "item" : "Vyse & Daly avenues between West 179-180 streets"
+      }, {
+        "count" : 11,
+        "item" : "Mosholu Avenue, West 254 Street, Riverdale Avenue, West 256 Street"
+      }, {
+        "count" : 10,
+        "item" : "Virginia Avenue, McGraw Avenue, Cross Bronx Expressway, White Plains Road"
+      }, {
+        "count" : 9,
+        "item" : "Vleigh Place & 141 Street"
+      }, {
+        "count" : 8,
+        "item" : "70 Road to 71 Avenue"
+      }, {
+        "count" : 7,
+        "item" : "East 124 Street between 1 & 2 Avenues"
+      }, {
+        "count" : 6,
+        "item" : "Matilda Avenue, East 239 Street, Carpenter Avenue"
+      }, {
+        "count" : 5,
+        "item" : "Park, Washington avenues to Hall Street"
+      }, {
+        "count" : 4,
+        "item" : "5 Avenue, Waverly Place, West 4 & MacDougal streets."
+      }, {
+        "count" : 3,
+        "item" : "Gleason Avenue, Rosedale Avenue, Watson Avenue, Nobel Avenue"
+      }, {
+        "count" : 2,
+        "item" : "Robard Lane & 217 Street"
+      }, {
+        "count" : 1,
+        "item" : "E. 188 St. Bet. Webster Ave. And Park Ave."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41014908,
+    "name" : "Open Year-Round",
+    "dataTypeName" : "text",
+    "fieldName" : "open_year_round",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7218192,
+    "width" : 128,
+    "cachedContents" : {
+      "non_null" : 589,
+      "smallest" : "No",
+      "null" : 27,
+      "largest" : "Yes",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Yes"
+      }, {
+        "count" : 19,
+        "item" : "No"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41014909,
+    "name" : "Handicap Accessible",
+    "dataTypeName" : "text",
+    "fieldName" : "handicap_accessible",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7218193,
+    "width" : 161,
+    "cachedContents" : {
+      "non_null" : 129,
+      "smallest" : "Yes",
+      "null" : 487,
+      "largest" : "Yes",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Yes"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41014910,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7218194,
+    "width" : 99,
+    "cachedContents" : {
+      "non_null" : 616,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 19,
+        "item" : "Bronx"
+      }, {
+        "count" : 18,
+        "item" : "Manhattan"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41014911,
+    "name" : "Comments",
+    "dataTypeName" : "text",
+    "fieldName" : "comments",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7218195,
+    "width" : 170,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "Closed from 7:30 - 3:30p during the schoolyear.",
+      "null" : 608,
+      "largest" : "This facility is currently closed. ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "This facility is currently closed"
+      }, {
+        "count" : 19,
+        "item" : "Closed from 7:30 - 3:30p during the schoolyear."
+      }, {
+        "count" : 18,
+        "item" : "This facility is currently closed. "
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dpr", "recreation", "park", "public", "toilet", "healthy living" ],
+  "flags" : [ "default" ]
+}

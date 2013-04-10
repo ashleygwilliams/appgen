@@ -1,0 +1,379 @@
+{
+  "id" : "y2c9-d6s8",
+  "name" : "2009 birth names (Female, Hispanic)",
+  "attribution" : "Department of Health and Mental Hygiene (DOHMH)",
+  "averageRating" : 0,
+  "category" : "Health",
+  "createdAt" : 1317919837,
+  "description" : "Popular NYC birth names sorted by sex and ethnicity",
+  "displayType" : "table",
+  "downloadCount" : 21,
+  "numberOfComments" : 0,
+  "oid" : 341063,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1317919948,
+  "publicationGroup" : 243456,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1317919947,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 243456,
+  "totalTimesRated" : 0,
+  "viewCount" : 156,
+  "viewLastModified" : 1360605597,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2967839,
+    "name" : "Year of birth",
+    "dataTypeName" : "number",
+    "fieldName" : "year_of_birth",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1556138,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 316,
+      "smallest" : "2009",
+      "sum" : "634844",
+      "null" : 0,
+      "average" : "2009",
+      "largest" : "2009",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2009"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 2967840,
+    "name" : "GENDER",
+    "dataTypeName" : "text",
+    "fieldName" : "gender",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1556139,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 316,
+      "smallest" : "FEMALE",
+      "null" : 0,
+      "largest" : "FEMALE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "FEMALE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2967841,
+    "name" : "ETHNICITY",
+    "dataTypeName" : "text",
+    "fieldName" : "ethnicity",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1556140,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 316,
+      "smallest" : "HISPANIC",
+      "null" : 0,
+      "largest" : "HISPANIC",
+      "top" : [ {
+        "count" : 20,
+        "item" : "HISPANIC"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2967842,
+    "name" : "CHILD FIRST NAME",
+    "dataTypeName" : "text",
+    "fieldName" : "child_first_name",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1556141,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 316,
+      "smallest" : "AALIYAH",
+      "null" : 0,
+      "largest" : "ZOEY",
+      "top" : [ {
+        "count" : 20,
+        "item" : "ANGELINE"
+      }, {
+        "count" : 19,
+        "item" : "ANGELY"
+      }, {
+        "count" : 18,
+        "item" : "ARIELLA"
+      }, {
+        "count" : 17,
+        "item" : "CAMILLA"
+      }, {
+        "count" : 16,
+        "item" : "CELESTE"
+      }, {
+        "count" : 15,
+        "item" : "CHARLIZE"
+      }, {
+        "count" : 14,
+        "item" : "FRANCESCA"
+      }, {
+        "count" : 13,
+        "item" : "GISSELLE"
+      }, {
+        "count" : 12,
+        "item" : "HILLARY"
+      }, {
+        "count" : 11,
+        "item" : "JANET"
+      }, {
+        "count" : 10,
+        "item" : "JANIYAH"
+      }, {
+        "count" : 9,
+        "item" : "JAZLYNN"
+      }, {
+        "count" : 8,
+        "item" : "JESSENIA"
+      }, {
+        "count" : 7,
+        "item" : "JULIET"
+      }, {
+        "count" : 6,
+        "item" : "KAELYN"
+      }, {
+        "count" : 5,
+        "item" : "LOLA"
+      }, {
+        "count" : 4,
+        "item" : "LORENA"
+      }, {
+        "count" : 3,
+        "item" : "LUCIA"
+      }, {
+        "count" : 2,
+        "item" : "MADELYN"
+      }, {
+        "count" : 1,
+        "item" : "MARLENE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2967843,
+    "name" : "COUNT",
+    "dataTypeName" : "number",
+    "fieldName" : "count",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1556142,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 316,
+      "smallest" : "10",
+      "sum" : "10504",
+      "null" : 0,
+      "average" : "33.24050632911392",
+      "largest" : "284",
+      "top" : [ {
+        "count" : 20,
+        "item" : "93"
+      }, {
+        "count" : 19,
+        "item" : "79"
+      }, {
+        "count" : 18,
+        "item" : "78"
+      }, {
+        "count" : 17,
+        "item" : "51"
+      }, {
+        "count" : 16,
+        "item" : "47"
+      }, {
+        "count" : 15,
+        "item" : "46"
+      }, {
+        "count" : 14,
+        "item" : "44"
+      }, {
+        "count" : 13,
+        "item" : "41"
+      }, {
+        "count" : 12,
+        "item" : "40"
+      }, {
+        "count" : 11,
+        "item" : "39"
+      }, {
+        "count" : 10,
+        "item" : "37"
+      }, {
+        "count" : 9,
+        "item" : "36"
+      }, {
+        "count" : 8,
+        "item" : "35"
+      }, {
+        "count" : 7,
+        "item" : "34"
+      }, {
+        "count" : 6,
+        "item" : "33"
+      }, {
+        "count" : 5,
+        "item" : "32"
+      }, {
+        "count" : 4,
+        "item" : "31"
+      }, {
+        "count" : 3,
+        "item" : "30"
+      }, {
+        "count" : 2,
+        "item" : "29"
+      }, {
+        "count" : 1,
+        "item" : "28"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2967844,
+    "name" : "RANK",
+    "dataTypeName" : "number",
+    "fieldName" : "rank",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1556143,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 316,
+      "smallest" : "1",
+      "sum" : "19911",
+      "null" : 0,
+      "average" : "63.00949367088608",
+      "largest" : "82",
+      "top" : [ {
+        "count" : 20,
+        "item" : "17"
+      }, {
+        "count" : 19,
+        "item" : "22"
+      }, {
+        "count" : 18,
+        "item" : "23"
+      }, {
+        "count" : 17,
+        "item" : "43"
+      }, {
+        "count" : 16,
+        "item" : "46"
+      }, {
+        "count" : 15,
+        "item" : "47"
+      }, {
+        "count" : 14,
+        "item" : "49"
+      }, {
+        "count" : 13,
+        "item" : "52"
+      }, {
+        "count" : 12,
+        "item" : "53"
+      }, {
+        "count" : 11,
+        "item" : "54"
+      }, {
+        "count" : 10,
+        "item" : "55"
+      }, {
+        "count" : 9,
+        "item" : "56"
+      }, {
+        "count" : 8,
+        "item" : "57"
+      }, {
+        "count" : 7,
+        "item" : "58"
+      }, {
+        "count" : 6,
+        "item" : "59"
+      }, {
+        "count" : 5,
+        "item" : "60"
+      }, {
+        "count" : 4,
+        "item" : "61"
+      }, {
+        "count" : 3,
+        "item" : "62"
+      }, {
+        "count" : 2,
+        "item" : "63"
+      }, {
+        "count" : 1,
+        "item" : "64"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "popular", "health", "names", "female", "hispanic", "dohmh" ],
+  "flags" : [ "default" ]
+}

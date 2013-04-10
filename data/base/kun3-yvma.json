@@ -1,0 +1,312 @@
+{
+  "id" : "kun3-yvma",
+  "name" : "NYC Commuter Cycling Indicator",
+  "attribution" : "Department of Transportation (DOT)",
+  "attributionLink" : "http://www.nyc.gov/html/dot/downloads/pdf/commuter_cycling_indicator_and_data_2011.pdf",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1362588047,
+  "description" : "NYC Commuter Cycling Indicator based on counts at selected commuter locations \r\nThe cycling indicator is indexed to Year 2000 = 100\r\nThe Commuter Cycling Indicator is an analysis of trends in cycling that makes use of the most robust data available to estimate changes in commuter cycling levels over time. The Commuter Cycling Indicator is not an estimate of the total number of cyclists in New York City.",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2731439,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362588250,
+  "publicationGroup" : 717875,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1362588049,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 717875,
+  "totalTimesRated" : 0,
+  "viewCount" : 14,
+  "viewLastModified" : 1363706022,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 48802664,
+    "name" : "Year",
+    "dataTypeName" : "text",
+    "fieldName" : "year",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8403835,
+    "width" : 58,
+    "cachedContents" : {
+      "non_null" : 26,
+      "smallest" : "1986",
+      "null" : 0,
+      "largest" : "2011",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1986"
+      }, {
+        "count" : 19,
+        "item" : "1987"
+      }, {
+        "count" : 18,
+        "item" : "1988"
+      }, {
+        "count" : 17,
+        "item" : "1989"
+      }, {
+        "count" : 16,
+        "item" : "1990"
+      }, {
+        "count" : 15,
+        "item" : "1991"
+      }, {
+        "count" : 14,
+        "item" : "1992"
+      }, {
+        "count" : 13,
+        "item" : "1993"
+      }, {
+        "count" : 12,
+        "item" : "1994"
+      }, {
+        "count" : 11,
+        "item" : "1995"
+      }, {
+        "count" : 10,
+        "item" : "1996"
+      }, {
+        "count" : 9,
+        "item" : "1997"
+      }, {
+        "count" : 8,
+        "item" : "1998"
+      }, {
+        "count" : 7,
+        "item" : "1999"
+      }, {
+        "count" : 6,
+        "item" : "2000"
+      }, {
+        "count" : 5,
+        "item" : "2001"
+      }, {
+        "count" : 4,
+        "item" : "2002"
+      }, {
+        "count" : 3,
+        "item" : "2003"
+      }, {
+        "count" : 2,
+        "item" : "2004"
+      }, {
+        "count" : 1,
+        "item" : "2005"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48802665,
+    "name" : "Value for Indicator",
+    "dataTypeName" : "number",
+    "fieldName" : "value_for_indicator",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8403836,
+    "width" : 111,
+    "cachedContents" : {
+      "non_null" : 26,
+      "smallest" : "3005",
+      "sum" : "180455",
+      "null" : 0,
+      "average" : "6940.576923076923",
+      "largest" : "18846",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3997"
+      }, {
+        "count" : 19,
+        "item" : "3867"
+      }, {
+        "count" : 18,
+        "item" : "3513"
+      }, {
+        "count" : 17,
+        "item" : "3005"
+      }, {
+        "count" : 16,
+        "item" : "3277"
+      }, {
+        "count" : 15,
+        "item" : "3645"
+      }, {
+        "count" : 14,
+        "item" : "4294"
+      }, {
+        "count" : 13,
+        "item" : "4518"
+      }, {
+        "count" : 12,
+        "item" : "4918"
+      }, {
+        "count" : 11,
+        "item" : "5229"
+      }, {
+        "count" : 10,
+        "item" : "5551"
+      }, {
+        "count" : 9,
+        "item" : "5114"
+      }, {
+        "count" : 8,
+        "item" : "4716"
+      }, {
+        "count" : 7,
+        "item" : "4829"
+      }, {
+        "count" : 6,
+        "item" : "4927"
+      }, {
+        "count" : 5,
+        "item" : "6046"
+      }, {
+        "count" : 4,
+        "item" : "6879"
+      }, {
+        "count" : 3,
+        "item" : "7366"
+      }, {
+        "count" : 2,
+        "item" : "7693"
+      }, {
+        "count" : 1,
+        "item" : "8355"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48802666,
+    "name" : "Index of Value for Indicator: 100 for Yr 2000",
+    "dataTypeName" : "number",
+    "fieldName" : "index_of_value_for_indicator_100_for_yr_2000",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8403837,
+    "width" : 254,
+    "cachedContents" : {
+      "non_null" : 26,
+      "smallest" : "62",
+      "sum" : "3736",
+      "null" : 0,
+      "average" : "143.6923076923077",
+      "largest" : "390",
+      "top" : [ {
+        "count" : 20,
+        "item" : "83"
+      }, {
+        "count" : 19,
+        "item" : "80"
+      }, {
+        "count" : 18,
+        "item" : "73"
+      }, {
+        "count" : 17,
+        "item" : "62"
+      }, {
+        "count" : 16,
+        "item" : "68"
+      }, {
+        "count" : 15,
+        "item" : "75"
+      }, {
+        "count" : 14,
+        "item" : "89"
+      }, {
+        "count" : 13,
+        "item" : "94"
+      }, {
+        "count" : 12,
+        "item" : "102"
+      }, {
+        "count" : 11,
+        "item" : "108"
+      }, {
+        "count" : 10,
+        "item" : "115"
+      }, {
+        "count" : 9,
+        "item" : "106"
+      }, {
+        "count" : 8,
+        "item" : "98"
+      }, {
+        "count" : 7,
+        "item" : "100"
+      }, {
+        "count" : 6,
+        "item" : "125"
+      }, {
+        "count" : 5,
+        "item" : "142"
+      }, {
+        "count" : 4,
+        "item" : "153"
+      }, {
+        "count" : 3,
+        "item" : "159"
+      }, {
+        "count" : 2,
+        "item" : "173"
+      }, {
+        "count" : 1,
+        "item" : "193"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dot", "transportation", "commuter", "cycling indicator", "clean web" ],
+  "flags" : [ "default" ]
+}

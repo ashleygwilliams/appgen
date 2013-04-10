@@ -1,0 +1,460 @@
+{
+  "id" : "zibd-yb3i",
+  "name" : "Parking Regulation Sign Locations",
+  "attribution" : "Department of Transportation (DOT)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1317761421,
+  "description" : "The Parking Regulations are drawn from DOT’s traffic sign database, STATUS, which is used by DOT in managing its inventory of over one million traffic signs in New York City. The database keeps track of the description, location and installation dates for DOT traffic signs. The Locations and Signs datasets need to be used in combination. The data in files can be linked, to find an applicable regulation, using the 'StatusOrderNumber' value. This process is automated at our  DOT Parking Regulation website: http://a841-dotvweb01.nyc.gov/ParkingRegs/ViewController/LocationValidation.aspx",
+  "downloadCount" : 4116,
+  "numberOfComments" : 1,
+  "oid" : 722097,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1338309170,
+  "publicationGroup" : 243033,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1338308933,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 350210,
+  "totalTimesRated" : 0,
+  "viewCount" : 1810,
+  "viewLastModified" : 1363705599,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 10232605,
+    "name" : "BoroughCode",
+    "dataTypeName" : "text",
+    "fieldName" : "boroughcode",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1550507,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 754339,
+      "smallest" : "B",
+      "null" : 0,
+      "largest" : "S",
+      "top" : [ {
+        "count" : 20,
+        "item" : "B"
+      }, {
+        "count" : 19,
+        "item" : "K"
+      }, {
+        "count" : 18,
+        "item" : "M"
+      }, {
+        "count" : 17,
+        "item" : "Q"
+      }, {
+        "count" : 16,
+        "item" : "S"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 10232606,
+    "name" : "StatusOrderNumber",
+    "dataTypeName" : "text",
+    "fieldName" : "statusordernumber",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1550508,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 754339,
+      "smallest" : "P-000720",
+      "null" : 0,
+      "largest" : "S-999996",
+      "top" : [ {
+        "count" : 20,
+        "item" : "S-977403"
+      }, {
+        "count" : 19,
+        "item" : "S-977510"
+      }, {
+        "count" : 18,
+        "item" : "S-978002"
+      }, {
+        "count" : 17,
+        "item" : "S-978003"
+      }, {
+        "count" : 16,
+        "item" : "S-979015"
+      }, {
+        "count" : 15,
+        "item" : "S-979130"
+      }, {
+        "count" : 14,
+        "item" : "S-983836"
+      }, {
+        "count" : 13,
+        "item" : "S-983839"
+      }, {
+        "count" : 12,
+        "item" : "S-983840"
+      }, {
+        "count" : 11,
+        "item" : "S-986007"
+      }, {
+        "count" : 10,
+        "item" : "S-986494"
+      }, {
+        "count" : 9,
+        "item" : "S-991575"
+      }, {
+        "count" : 8,
+        "item" : "S-993031"
+      }, {
+        "count" : 7,
+        "item" : "S-993202"
+      }, {
+        "count" : 6,
+        "item" : "S-993923"
+      }, {
+        "count" : 5,
+        "item" : "S-994211"
+      }, {
+        "count" : 4,
+        "item" : "S-994364"
+      }, {
+        "count" : 3,
+        "item" : "S-994751"
+      }, {
+        "count" : 2,
+        "item" : "S-996007"
+      }, {
+        "count" : 1,
+        "item" : "S-996008"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 10232607,
+    "name" : "SignSequence",
+    "dataTypeName" : "number",
+    "fieldName" : "signsequence",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1550509,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 754339,
+      "smallest" : "1",
+      "sum" : "4260512",
+      "null" : 0,
+      "average" : "5.648007063137396",
+      "largest" : "99",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "11"
+      }, {
+        "count" : 9,
+        "item" : "12"
+      }, {
+        "count" : 8,
+        "item" : "13"
+      }, {
+        "count" : 7,
+        "item" : "14"
+      }, {
+        "count" : 6,
+        "item" : "15"
+      }, {
+        "count" : 5,
+        "item" : "16"
+      }, {
+        "count" : 4,
+        "item" : "17"
+      }, {
+        "count" : 3,
+        "item" : "18"
+      }, {
+        "count" : 2,
+        "item" : "19"
+      }, {
+        "count" : 1,
+        "item" : "20"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 10232608,
+    "name" : "Distance",
+    "dataTypeName" : "number",
+    "fieldName" : "distance",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1550510,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 754339,
+      "smallest" : "0",
+      "sum" : "197718166",
+      "null" : 0,
+      "average" : "262.1078401090226",
+      "largest" : "9706",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "10"
+      }, {
+        "count" : 18,
+        "item" : "7"
+      }, {
+        "count" : 17,
+        "item" : "125"
+      }, {
+        "count" : 16,
+        "item" : "50"
+      }, {
+        "count" : 15,
+        "item" : "13"
+      }, {
+        "count" : 14,
+        "item" : "496"
+      }, {
+        "count" : 13,
+        "item" : "665"
+      }, {
+        "count" : 12,
+        "item" : "290"
+      }, {
+        "count" : 11,
+        "item" : "302"
+      }, {
+        "count" : 10,
+        "item" : "12"
+      }, {
+        "count" : 9,
+        "item" : "60"
+      }, {
+        "count" : 8,
+        "item" : "357"
+      }, {
+        "count" : 7,
+        "item" : "369"
+      }, {
+        "count" : 6,
+        "item" : "585"
+      }, {
+        "count" : 5,
+        "item" : "674"
+      }, {
+        "count" : 4,
+        "item" : "720"
+      }, {
+        "count" : 3,
+        "item" : "725"
+      }, {
+        "count" : 2,
+        "item" : "1356"
+      }, {
+        "count" : 1,
+        "item" : "1396"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 10232609,
+    "name" : "ArrowPoints",
+    "dataTypeName" : "text",
+    "fieldName" : "arrowpoints",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1550511,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 754339,
+      "smallest" : "   ",
+      "null" : 0,
+      "largest" : "W  ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "   "
+      }, {
+        "count" : 19,
+        "item" : "W  "
+      }, {
+        "count" : 18,
+        "item" : "S  "
+      }, {
+        "count" : 17,
+        "item" : "N  "
+      }, {
+        "count" : 16,
+        "item" : "E  "
+      }, {
+        "count" : 15,
+        "item" : "N/S"
+      }, {
+        "count" : 14,
+        "item" : "E/W"
+      }, {
+        "count" : 13,
+        "item" : "R  "
+      }, {
+        "count" : 12,
+        "item" : "L  "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 10232610,
+    "name" : "SignDescription",
+    "dataTypeName" : "text",
+    "fieldName" : "signdescription",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1550512,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 754135,
+      "smallest" : "  ",
+      "null" : 204,
+      "largest" : "YOUTH COUNCIL VEHICLES                                                                                                                                                  ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Curb Line"
+      }, {
+        "count" : 19,
+        "item" : "Property Line"
+      }, {
+        "count" : 18,
+        "item" : "Building Line"
+      }, {
+        "count" : 17,
+        "item" : "NO PARKING ANYTIME (SINGLE ARROW)(SUPERSEDES R7-40 DON'TUSE R7-40)                                                                                                      "
+      }, {
+        "count" : 16,
+        "item" : "NO PARKING ANYTIME <----> (SUPERSEDES R7-40 DON'T USE --R7-40)                                                                                                          "
+      }, {
+        "count" : 15,
+        "item" : "NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   "
+      }, {
+        "count" : 14,
+        "item" : "NO STANDING ANYTIME <---> (REPLACES R7-20R)                                                                                                                             "
+      }, {
+        "count" : 13,
+        "item" : "M 18 LTD (12\"X 6\") 8 STREET 4 AVENUE (16\"X 6\") (ROUTE DESTINATION PANEL 032\"X 06\")(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                               "
+      }, {
+        "count" : 12,
+        "item" : "14 STREET & UNION SQ (BOTTOM LOCATION PANEL)(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                                                                     "
+      }, {
+        "count" : 11,
+        "item" : "BUS STOP SIGN (BUS & HANDICAP SYMBOLS) NO STANDING W/ SINGLE ARROW                                                                                                      "
+      }, {
+        "count" : 10,
+        "item" : "NO STANDING(SINGLE ARROW)HANDICAP BUS(SYMBOL)W/4 ROUTES +(15X12 4 ROUTE RIDER-IF NECESSARY) REVISED 3/25/92 & SUPERSEDES SP-298BA                                       "
+      }, {
+        "count" : 9,
+        "item" : "NO PARKING ANYTIME(SUPERSEDED BY R7-40R) DON'T USE R7-40                                                                                                                "
+      }, {
+        "count" : 8,
+        "item" : "NO PARKING (SANITATION BROOM SYMBOL) 11:30AM TO 1PM WED <----->                                                                                                         "
+      }, {
+        "count" : 7,
+        "item" : "NO STANDING ANYTIME (ARROW)(REPLACED BY SP-10BA)                                                                                                                        "
+      }, {
+        "count" : 6,
+        "item" : "NO STANDING ANYTIME (REPLACED BY SP-10B)                                                                                                                                "
+      }, {
+        "count" : 5,
+        "item" : "BUS STOP SIGN (BUS & HANDICAP SYMBOLS) NO STANDING <----->                                                                                                              "
+      }, {
+        "count" : 4,
+        "item" : "X 14 (012\"X 006\") 10 AVENUE 15 STREET (ROUTE DESTINATION PANEL) (USE AS EXAMPLE FOR DIFFERENT LOCATION)                                                                 "
+      }, {
+        "count" : 3,
+        "item" : "NO STANDING 7AM-4PM SCHOOL DAYS <----->                                                                                                                                 "
+      }, {
+        "count" : 2,
+        "item" : "NO STOPPING ANYTIME <------> (SUPERSEDES R7-1) SUPERSED ES R7-1R DATED 8-18 -86 SEE SP-14A DATED 9-10-99                                                                "
+      }, {
+        "count" : 1,
+        "item" : "BUS STOP SIGN (BUS & HANDICAP SYMBOLS) (GENERIC PANEL)                                                                                                                  "
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "parking", "sign", "regulation", "car", "automobile", "traffic", "traffic sign", "travel", "status", "signage", "street", "curb", "clean web" ],
+  "flags" : [ "default" ]
+}

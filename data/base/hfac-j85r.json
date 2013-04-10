@@ -1,0 +1,223 @@
+{
+  "id" : "hfac-j85r",
+  "name" : "Directory of Senior News Services in NYCHA Journal",
+  "attribution" : "Department of City Planning (DCP)",
+  "attributionLink" : "http://www.nyc.gov/html/dcp/pdf/pub/conplan12_amended_vol2.pdf",
+  "averageRating" : 0,
+  "category" : "Social Services",
+  "createdAt" : 1360785347,
+  "description" : "Details of News Articles targeted for Seniors that were published in NYCHA Journal",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "numberOfComments" : 0,
+  "oid" : 2514752,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1360785468,
+  "publicationGroup" : 675565,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1360785349,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 675565,
+  "totalTimesRated" : 0,
+  "viewCount" : 12,
+  "viewLastModified" : 1360785482,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 44612407,
+    "name" : "Year",
+    "dataTypeName" : "text",
+    "fieldName" : "year",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7826446,
+    "width" : 87,
+    "cachedContents" : {
+      "non_null" : 24,
+      "smallest" : "2010",
+      "null" : 0,
+      "largest" : "2011",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2010"
+      }, {
+        "count" : 19,
+        "item" : "2011"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44612408,
+    "name" : "Month",
+    "dataTypeName" : "text",
+    "fieldName" : "month",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7826447,
+    "width" : 113,
+    "cachedContents" : {
+      "non_null" : 24,
+      "smallest" : "April",
+      "null" : 0,
+      "largest" : "September",
+      "top" : [ {
+        "count" : 20,
+        "item" : "January"
+      }, {
+        "count" : 19,
+        "item" : "February"
+      }, {
+        "count" : 18,
+        "item" : "March"
+      }, {
+        "count" : 17,
+        "item" : "April"
+      }, {
+        "count" : 16,
+        "item" : "May"
+      }, {
+        "count" : 15,
+        "item" : "June"
+      }, {
+        "count" : 14,
+        "item" : "July"
+      }, {
+        "count" : 13,
+        "item" : "August"
+      }, {
+        "count" : 12,
+        "item" : "September"
+      }, {
+        "count" : 11,
+        "item" : "October"
+      }, {
+        "count" : 10,
+        "item" : "November"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44612409,
+    "name" : "Senior News Topic",
+    "dataTypeName" : "text",
+    "fieldName" : "senior_news_topic",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7826448,
+    "width" : 459,
+    "cachedContents" : {
+      "non_null" : 24,
+      "smallest" : "All Federal Benefit Payments Going Electronic",
+      "null" : 0,
+      "largest" : "West Nile Virus Prevention",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Free Tax assistance/EITC"
+      }, {
+        "count" : 19,
+        "item" : "Identity Theft Prevention"
+      }, {
+        "count" : 18,
+        "item" : "Do Not Call Registry"
+      }, {
+        "count" : 17,
+        "item" : "Medicare Advantage Open Enrollment Period, in which all people with Medicare can again switch their Medicare plan choice – ends in March"
+      }, {
+        "count" : 16,
+        "item" : "Food Card"
+      }, {
+        "count" : 15,
+        "item" : "Free Summer Events/Concerts"
+      }, {
+        "count" : 14,
+        "item" : "SSA/SSI Stimulus Checks"
+      }, {
+        "count" : 13,
+        "item" : "Emergency Cooling Centers"
+      }, {
+        "count" : 12,
+        "item" : "West Nile Virus Prevention"
+      }, {
+        "count" : 11,
+        "item" : "Transportation Benefits"
+      }, {
+        "count" : 10,
+        "item" : "Resources for Grandparents"
+      }, {
+        "count" : 9,
+        "item" : "Diabetes Expo"
+      }, {
+        "count" : 8,
+        "item" : "Flu Shots"
+      }, {
+        "count" : 7,
+        "item" : "Medicare Part D Open Enrollment Period"
+      }, {
+        "count" : 6,
+        "item" : "Free Tax assistance/EITC - Beware of Refund Anticipation Loans"
+      }, {
+        "count" : 5,
+        "item" : "Fall Prevention"
+      }, {
+        "count" : 4,
+        "item" : "Smoking Cessation"
+      }, {
+        "count" : 3,
+        "item" : "All Federal Benefit Payments Going Electronic"
+      }, {
+        "count" : 2,
+        "item" : "Hearing Loss"
+      }, {
+        "count" : 1,
+        "item" : "NY Drug Discount Card"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dcp", "city", "planning", "senior", "norc", "nycha", "journal", "news", "article" ],
+  "flags" : [ "default" ]
+}

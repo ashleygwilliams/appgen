@@ -1,0 +1,627 @@
+{
+  "id" : "avwq-z233",
+  "name" : "Current Medallions",
+  "attribution" : "Taxi and Limousine Commission (TLC)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1314389676,
+  "description" : "Spreadsheet of all TLC current medallions",
+  "displayType" : "table",
+  "downloadCount" : 965,
+  "numberOfComments" : 0,
+  "oid" : 502780,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1330531006,
+  "publicationGroup" : 239849,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1330530945,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 290795,
+  "totalTimesRated" : 0,
+  "viewCount" : 454,
+  "viewLastModified" : 1330531032,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 5987438,
+    "name" : "License Number",
+    "dataTypeName" : "text",
+    "fieldName" : "license_number",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1512394,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 13317,
+      "smallest" : "1A10",
+      "null" : 0,
+      "largest" : "SBV381",
+      "top" : [ {
+        "count" : 1,
+        "item" : "1A10"
+      }, {
+        "count" : 1,
+        "item" : "1A11"
+      }, {
+        "count" : 1,
+        "item" : "1A12"
+      }, {
+        "count" : 1,
+        "item" : "1A13"
+      }, {
+        "count" : 1,
+        "item" : "1A14"
+      }, {
+        "count" : 1,
+        "item" : "1A15"
+      }, {
+        "count" : 1,
+        "item" : "1A17"
+      }, {
+        "count" : 1,
+        "item" : "1A18"
+      }, {
+        "count" : 1,
+        "item" : "1A19"
+      }, {
+        "count" : 1,
+        "item" : "1A20"
+      }, {
+        "count" : 1,
+        "item" : "1A21"
+      }, {
+        "count" : 1,
+        "item" : "1A22"
+      }, {
+        "count" : 1,
+        "item" : "1A23"
+      }, {
+        "count" : 1,
+        "item" : "1A24"
+      }, {
+        "count" : 1,
+        "item" : "1A25"
+      }, {
+        "count" : 1,
+        "item" : "1A26"
+      }, {
+        "count" : 1,
+        "item" : "1A27"
+      }, {
+        "count" : 1,
+        "item" : "1A28"
+      }, {
+        "count" : 1,
+        "item" : "1A29"
+      }, {
+        "count" : 1,
+        "item" : "1A30"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 5987439,
+    "name" : "Name of Licensee",
+    "dataTypeName" : "text",
+    "fieldName" : "name_of_licensee",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1512395,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 13317,
+      "smallest" : ".HOUDHURY, MAHBUB & CHOWDHURY,ZAHID",
+      "null" : 0,
+      "largest" : "ZYCH, MARIUSZ",
+      "top" : [ {
+        "count" : 13,
+        "item" : "CHESTER CAB CORP"
+      }, {
+        "count" : 13,
+        "item" : "CLYDE CAB CORP"
+      }, {
+        "count" : 12,
+        "item" : "KEY CAB CORP"
+      }, {
+        "count" : 12,
+        "item" : "TOPS CAB CORP"
+      }, {
+        "count" : 11,
+        "item" : "LEROY CAB CORP"
+      }, {
+        "count" : 10,
+        "item" : "OPO TRANSIT INC."
+      }, {
+        "count" : 10,
+        "item" : "SINGH,BALWINDER"
+      }, {
+        "count" : 10,
+        "item" : "SINGH,JASWINDER"
+      }, {
+        "count" : 8,
+        "item" : "3511 SYSTEMS INC."
+      }, {
+        "count" : 8,
+        "item" : "SINGH,KARNAIL"
+      }, {
+        "count" : 7,
+        "item" : "FOREGO TAXI CORP"
+      }, {
+        "count" : 7,
+        "item" : "OMFG TRANSIT LLC"
+      }, {
+        "count" : 6,
+        "item" : "A.A.T. TRANS INC"
+      }, {
+        "count" : 6,
+        "item" : "JAC SBV CORP"
+      }, {
+        "count" : 6,
+        "item" : "LENA CAB CORP"
+      }, {
+        "count" : 6,
+        "item" : "RIO CAB CORP"
+      }, {
+        "count" : 6,
+        "item" : "SBV TAXI CORP"
+      }, {
+        "count" : 6,
+        "item" : "SEAN CAB CORP"
+      }, {
+        "count" : 6,
+        "item" : "SINGH,AVTAR"
+      }, {
+        "count" : 6,
+        "item" : "SINKERIA INC."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 5987440,
+    "name" : "License Type",
+    "dataTypeName" : "text",
+    "fieldName" : "license_type",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1512396,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 13317,
+      "smallest" : "MEDALLION",
+      "null" : 0,
+      "largest" : "Stand By Vehicle",
+      "top" : [ {
+        "count" : 13188,
+        "item" : "MEDALLION"
+      }, {
+        "count" : 129,
+        "item" : "Stand By Vehicle"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 5987441,
+    "name" : "Driver of Record Status",
+    "dataTypeName" : "text",
+    "fieldName" : "driver_of_record_status",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1512397,
+    "width" : 376,
+    "cachedContents" : {
+      "non_null" : 13317,
+      "smallest" : "Named Driver",
+      "null" : 0,
+      "largest" : "Unspecified Dirver",
+      "top" : [ {
+        "count" : 6652,
+        "item" : "Named Driver"
+      }, {
+        "count" : 3462,
+        "item" : "Unspecified Dirver"
+      }, {
+        "count" : 3203,
+        "item" : "Owner Must Driver"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 5987442,
+    "name" : "DMV License Plate",
+    "dataTypeName" : "text",
+    "fieldName" : "dmv_license_plate",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1512398,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 13317,
+      "smallest" : "100SBVB",
+      "null" : 0,
+      "largest" : "T900013T",
+      "top" : [ {
+        "count" : 2,
+        "item" : "2A17A"
+      }, {
+        "count" : 2,
+        "item" : "2Y82H"
+      }, {
+        "count" : 2,
+        "item" : "5H75B"
+      }, {
+        "count" : 2,
+        "item" : "7P95E"
+      }, {
+        "count" : 1,
+        "item" : "100SBVB"
+      }, {
+        "count" : 1,
+        "item" : "103SBVC"
+      }, {
+        "count" : 1,
+        "item" : "104SBVB"
+      }, {
+        "count" : 1,
+        "item" : "105SBVB"
+      }, {
+        "count" : 1,
+        "item" : "106SBVB"
+      }, {
+        "count" : 1,
+        "item" : "107SBVA"
+      }, {
+        "count" : 1,
+        "item" : "108SBVA"
+      }, {
+        "count" : 1,
+        "item" : "109SBVA"
+      }, {
+        "count" : 1,
+        "item" : "110SBVA"
+      }, {
+        "count" : 1,
+        "item" : "111SBVB"
+      }, {
+        "count" : 1,
+        "item" : "112SBVB"
+      }, {
+        "count" : 1,
+        "item" : "113SBVB"
+      }, {
+        "count" : 1,
+        "item" : "114SBVH"
+      }, {
+        "count" : 1,
+        "item" : "115SBVB"
+      }, {
+        "count" : 1,
+        "item" : "116SBVH"
+      }, {
+        "count" : 1,
+        "item" : "117SBVB"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 5987443,
+    "name" : "VIN",
+    "dataTypeName" : "text",
+    "fieldName" : "vin",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1512399,
+    "width" : 136,
+    "cachedContents" : {
+      "non_null" : 13317,
+      "smallest" : "1D4GP24R07B227818",
+      "null" : 0,
+      "largest" : "NMOKS9CN6BT072432",
+      "top" : [ {
+        "count" : 2,
+        "item" : "1FMCU4K3XCKB14074"
+      }, {
+        "count" : 1,
+        "item" : "1D4GP24R07B227818"
+      }, {
+        "count" : 1,
+        "item" : "1D4GP24R07B227995"
+      }, {
+        "count" : 1,
+        "item" : "1D4GP24R07B228144"
+      }, {
+        "count" : 1,
+        "item" : "1D4GP24R07B228211"
+      }, {
+        "count" : 1,
+        "item" : "1D4GP24R27B227772"
+      }, {
+        "count" : 1,
+        "item" : "1D4GP24R27B228100"
+      }, {
+        "count" : 1,
+        "item" : "1D4GP24R27B228212"
+      }, {
+        "count" : 1,
+        "item" : "1D4GP24R37B227862"
+      }, {
+        "count" : 1,
+        "item" : "1D4GP24R57B227815"
+      }, {
+        "count" : 1,
+        "item" : "1D4GP24R57B227846"
+      }, {
+        "count" : 1,
+        "item" : "1D4GP24R57B227913"
+      }, {
+        "count" : 1,
+        "item" : "1D4GP24R57B227958"
+      }, {
+        "count" : 1,
+        "item" : "1D4GP24R57B228012"
+      }, {
+        "count" : 1,
+        "item" : "1D4GP24R67B228021"
+      }, {
+        "count" : 1,
+        "item" : "1D4GP24R77B227864"
+      }, {
+        "count" : 1,
+        "item" : "1D4GP24R87B228103"
+      }, {
+        "count" : 1,
+        "item" : "1D4GP24R97B227817"
+      }, {
+        "count" : 1,
+        "item" : "1D4GP24R97B227848"
+      }, {
+        "count" : 1,
+        "item" : "1D4GP24R97B227901"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 5987444,
+    "name" : "Hybrid_Accessible_CNG_OR_Stretch_Limousine_Vehicle",
+    "dataTypeName" : "text",
+    "fieldName" : "hybrid_accessible_cng_or_stretch_limousine_vehicle",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1512400,
+    "width" : 700,
+    "cachedContents" : {
+      "non_null" : 5982,
+      "smallest" : "CNG",
+      "null" : 7335,
+      "largest" : "WAV",
+      "top" : [ {
+        "count" : 5740,
+        "item" : "HYB"
+      }, {
+        "count" : 230,
+        "item" : "WAV"
+      }, {
+        "count" : 9,
+        "item" : "DSEL"
+      }, {
+        "count" : 2,
+        "item" : "CNG"
+      }, {
+        "count" : 1,
+        "item" : "DSE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 5987445,
+    "name" : "Model Year",
+    "dataTypeName" : "number",
+    "fieldName" : "model_year",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1512401,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 13317,
+      "smallest" : "2004",
+      "sum" : "26761345",
+      "null" : 0,
+      "average" : "2009.562589171735",
+      "largest" : "2012",
+      "top" : [ {
+        "count" : 3930,
+        "item" : "2011"
+      }, {
+        "count" : 2806,
+        "item" : "2009"
+      }, {
+        "count" : 2456,
+        "item" : "2008"
+      }, {
+        "count" : 2060,
+        "item" : "2010"
+      }, {
+        "count" : 947,
+        "item" : "2012"
+      }, {
+        "count" : 668,
+        "item" : "2007"
+      }, {
+        "count" : 329,
+        "item" : "2006"
+      }, {
+        "count" : 115,
+        "item" : "2005"
+      }, {
+        "count" : 6,
+        "item" : "2004"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 5987446,
+    "name" : "Type of Medallions (Ind or Minifleet)",
+    "dataTypeName" : "text",
+    "fieldName" : "type_of_medallions_ind_or_minifleet",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1512402,
+    "width" : 544,
+    "cachedContents" : {
+      "non_null" : 13317,
+      "smallest" : "IA",
+      "null" : 0,
+      "largest" : "MW",
+      "top" : [ {
+        "count" : 7339,
+        "item" : "MU"
+      }, {
+        "count" : 5349,
+        "item" : "IU"
+      }, {
+        "count" : 164,
+        "item" : "MW"
+      }, {
+        "count" : 142,
+        "item" : "MA"
+      }, {
+        "count" : 129,
+        "item" : "IA"
+      }, {
+        "count" : 129,
+        "item" : "M"
+      }, {
+        "count" : 65,
+        "item" : "IW"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 5987447,
+    "name" : "Medallion Agent Number",
+    "dataTypeName" : "number",
+    "fieldName" : "medallion_agent_number",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1512403,
+    "width" : 364,
+    "cachedContents" : {
+      "non_null" : 13298,
+      "smallest" : "0",
+      "sum" : "3194250",
+      "null" : 19,
+      "average" : "240.2052940291773",
+      "largest" : "999",
+      "top" : [ {
+        "count" : 3245,
+        "item" : "0"
+      }, {
+        "count" : 1311,
+        "item" : "999"
+      }, {
+        "count" : 930,
+        "item" : "202"
+      }, {
+        "count" : 564,
+        "item" : "307"
+      }, {
+        "count" : 360,
+        "item" : "234"
+      }, {
+        "count" : 348,
+        "item" : "224"
+      }, {
+        "count" : 344,
+        "item" : "13"
+      }, {
+        "count" : 325,
+        "item" : "327"
+      }, {
+        "count" : 315,
+        "item" : "253"
+      }, {
+        "count" : 301,
+        "item" : "259"
+      }, {
+        "count" : 285,
+        "item" : "201"
+      }, {
+        "count" : 260,
+        "item" : "282"
+      }, {
+        "count" : 255,
+        "item" : "325"
+      }, {
+        "count" : 253,
+        "item" : "213"
+      }, {
+        "count" : 252,
+        "item" : "312"
+      }, {
+        "count" : 212,
+        "item" : "232"
+      }, {
+        "count" : 204,
+        "item" : "14"
+      }, {
+        "count" : 182,
+        "item" : "102"
+      }, {
+        "count" : 180,
+        "item" : "225"
+      }, {
+        "count" : 177,
+        "item" : "320"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "transportation", "taxi", "limousine", "medallion" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,294 @@
+{
+  "id" : "d6v5-2daj",
+  "name" : "Directory Of Child Care and Day Care Information Offices",
+  "attribution" : "Department of Health and Mental Hygiene (DOHMH)",
+  "attributionLink" : "http://www.nyc.gov/html/doh/html/living/childcare.shtml",
+  "averageRating" : 0,
+  "category" : "Business and Economic",
+  "createdAt" : 1363718170,
+  "description" : "List of Child Care and Day Care administrative offices by Borough",
+  "displayType" : "table",
+  "downloadCount" : 4,
+  "numberOfComments" : 0,
+  "oid" : 2882069,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363725026,
+  "publicationGroup" : 743119,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1363724723,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 743445,
+  "totalTimesRated" : 0,
+  "viewCount" : 53,
+  "viewLastModified" : 1364910664,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 51683726,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "borough",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757807,
+    "width" : 98,
+    "cachedContents" : {
+      "non_null" : 9,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Staten Island"
+      }, {
+        "count" : 17,
+        "item" : "Manhattan"
+      }, {
+        "count" : 16,
+        "item" : "Queens"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51683758,
+    "name" : "Street Address",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "street_address",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757808,
+    "width" : 242,
+    "cachedContents" : {
+      "non_null" : 9,
+      "smallest" : "120-34 Queens Boulevard, 4th Fl.",
+      "null" : 0,
+      "largest" : "59-17 Junction Blvd., 14th Fl., rm. 1400",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1309 Fulton Avenue, 4th Floor"
+      }, {
+        "count" : 19,
+        "item" : "195 Montague Street, 4th Floor"
+      }, {
+        "count" : 18,
+        "item" : "22 Cortlandt St., 28th Fl., Box CN 68"
+      }, {
+        "count" : 17,
+        "item" : "59-17 Junction Blvd., 14th Fl., rm. 1400"
+      }, {
+        "count" : 16,
+        "item" : "120-34 Queens Boulevard, 4th Fl."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51683762,
+    "name" : "City",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "city",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757809,
+    "width" : 97,
+    "cachedContents" : {
+      "non_null" : 9,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "New York",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Broooklyn"
+      }, {
+        "count" : 18,
+        "item" : "New York"
+      }, {
+        "count" : 17,
+        "item" : "Corona"
+      }, {
+        "count" : 16,
+        "item" : "Kew Gardens"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51683765,
+    "name" : "State",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "state",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757810,
+    "width" : 73,
+    "cachedContents" : {
+      "non_null" : 9,
+      "smallest" : "NY",
+      "null" : 0,
+      "largest" : "NY",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NY"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51683767,
+    "name" : "Zip Code",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "zip_code",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757811,
+    "width" : 91,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "10456",
+      "null" : 1,
+      "largest" : "11415",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10456"
+      }, {
+        "count" : 19,
+        "item" : "11201"
+      }, {
+        "count" : 18,
+        "item" : "11368"
+      }, {
+        "count" : 17,
+        "item" : "11415"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51683770,
+    "name" : "Phone  Number",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "phone__number",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757812,
+    "width" : 186,
+    "cachedContents" : {
+      "non_null" : 9,
+      "smallest" : "(212) 313-5120",
+      "null" : 0,
+      "largest" : "(718) 579-7775",
+      "top" : [ {
+        "count" : 20,
+        "item" : "(718) 579-7775"
+      }, {
+        "count" : 19,
+        "item" : "(718) 410-3903"
+      }, {
+        "count" : 18,
+        "item" : "(718) 222-6323"
+      }, {
+        "count" : 17,
+        "item" : "(718) 222-6390"
+      }, {
+        "count" : 16,
+        "item" : "(212) 313-5120"
+      }, {
+        "count" : 15,
+        "item" : "(718) 393-6257"
+      }, {
+        "count" : 14,
+        "item" : "(718) 520-4926/\n(718) 520-4927"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 51683772,
+    "name" : "Comments",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "comments",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8757813,
+    "width" : 277,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "Group Childcare Contact Number",
+      "null" : 1,
+      "largest" : "Home-based and School Age Childcare",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Group Childcare Contact Number"
+      }, {
+        "count" : 19,
+        "item" : "Home-based and School Age Childcare"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dohmh", "health", "mental hygiene", "jobs", "economic mobility", "child care", "day care", "jobs and economic mobility" ],
+  "flags" : [ "default" ]
+}

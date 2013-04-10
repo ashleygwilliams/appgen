@@ -1,0 +1,315 @@
+{
+  "id" : "fdx7-6jsr",
+  "name" : "Directory Of Land Use Application Fees",
+  "attribution" : "Department of City Planning (DCP)",
+  "attributionLink" : "http://www.nyc.gov/html/dcp/html/luproc/ulurpfee.shtml",
+  "averageRating" : 0,
+  "category" : "Facilities and Structures",
+  "createdAt" : 1361311955,
+  "description" : "Details about various fees associated with Land Use",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "numberOfComments" : 0,
+  "oid" : 2567678,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361312132,
+  "publicationGroup" : 687487,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1361311958,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 687487,
+  "totalTimesRated" : 0,
+  "viewCount" : 19,
+  "viewLastModified" : 1361312141,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 45728888,
+    "name" : "Application Type",
+    "dataTypeName" : "text",
+    "fieldName" : "application_type",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7994337,
+    "width" : 231,
+    "cachedContents" : {
+      "non_null" : 60,
+      "smallest" : "All other sections of the Zoning Resolution",
+      "null" : 0,
+      "largest" : "Zoning Verification Fee",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Special Permit"
+      }, {
+        "count" : 19,
+        "item" : "Zoning Map Amendment"
+      }, {
+        "count" : 18,
+        "item" : "Changes to City Map & Landfill"
+      }, {
+        "count" : 17,
+        "item" : "Franchises and revocable consents"
+      }, {
+        "count" : 16,
+        "item" : "Amendment to Zoning Resolution"
+      }, {
+        "count" : 15,
+        "item" : "Zoning Certification "
+      }, {
+        "count" : 14,
+        "item" : "Zoning Authorization"
+      }, {
+        "count" : 13,
+        "item" : "Zoning Authorization for Open Spaces"
+      }, {
+        "count" : 12,
+        "item" : "All other sections of the Zoning Resolution"
+      }, {
+        "count" : 11,
+        "item" : "Supplemental Fee for Large Projects"
+      }, {
+        "count" : 10,
+        "item" : "Natural Feature Restoration Fee"
+      }, {
+        "count" : 9,
+        "item" : "Zoning Verification Fee"
+      }, {
+        "count" : 8,
+        "item" : "CEQR Application Fee"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45728889,
+    "name" : "Land Use Detail",
+    "dataTypeName" : "text",
+    "fieldName" : "land_use_detail",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7994338,
+    "width" : 374,
+    "cachedContents" : {
+      "non_null" : 60,
+      "smallest" : "10,000 to 19,999 sq. ft.",
+      "null" : 0,
+      "largest" : "Type II Actions",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Less than 10,000 square feet"
+      }, {
+        "count" : 19,
+        "item" : "10,000 to 19,999 square feet"
+      }, {
+        "count" : 18,
+        "item" : "20,000 to 39,999 square feet"
+      }, {
+        "count" : 17,
+        "item" : "40,000 to 69,999 square feet"
+      }, {
+        "count" : 16,
+        "item" : "70,000 to 99,999 square feet"
+      }, {
+        "count" : 15,
+        "item" : "100,000 to 239,999 square feet"
+      }, {
+        "count" : 14,
+        "item" : "240,000 to 500,000 square feet"
+      }, {
+        "count" : 13,
+        "item" : "over 500,000 square feet"
+      }, {
+        "count" : 12,
+        "item" : "Elimination of a mapped but unimproved street"
+      }, {
+        "count" : 11,
+        "item" : "Establishment of a Landfill"
+      }, {
+        "count" : 10,
+        "item" : "Any other change in The City Street Map"
+      }, {
+        "count" : 9,
+        "item" : "Applications pursuant to §197-c of the City Charter"
+      }, {
+        "count" : 8,
+        "item" : "Enclosed sidewalk cafes pursuant to New York City Administrative Code section 20-225 - Per Chair"
+      }, {
+        "count" : 7,
+        "item" : "Amendments to the text of the Zoning Resolution pursuant to Section 201 of the City Charter"
+      }, {
+        "count" : 6,
+        "item" : "certification for public school space pursuant to Section 107-123 of   Article X, Chapter 7"
+      }, {
+        "count" : 5,
+        "item" : "For an application for one zoning lot with no more than two existing or proposed dwelling units and no commercial or community facility use"
+      }, {
+        "count" : 4,
+        "item" : "For all other applications the fee for each zoning lot"
+      }, {
+        "count" : 3,
+        "item" : "all other applications with no commercial or community facility use, the fee shall be based upon the number of dwelling units being proposed"
+      }, {
+        "count" : 2,
+        "item" : "100,000 square feet and over"
+      }, {
+        "count" : 1,
+        "item" : "Pursuant to §95-04 (Transit Easements) of the Zoning Resolution"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45728890,
+    "name" : "Amount",
+    "dataTypeName" : "money",
+    "fieldName" : "amount",
+    "position" : 3,
+    "renderTypeName" : "money",
+    "tableColumnId" : 7994339,
+    "width" : 93,
+    "cachedContents" : {
+      "non_null" : 60,
+      "smallest" : "0.10",
+      "sum" : "1386700.10",
+      "null" : 0,
+      "average" : "23111.66833333333",
+      "largest" : "314225",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2040"
+      }, {
+        "count" : 19,
+        "item" : "3100"
+      }, {
+        "count" : 18,
+        "item" : "5445"
+      }, {
+        "count" : 17,
+        "item" : "3400"
+      }, {
+        "count" : 16,
+        "item" : "1060"
+      }, {
+        "count" : 15,
+        "item" : "1590"
+      }, {
+        "count" : 14,
+        "item" : "2645"
+      }, {
+        "count" : 13,
+        "item" : "71415"
+      }, {
+        "count" : 12,
+        "item" : "128545"
+      }, {
+        "count" : 11,
+        "item" : "192820"
+      }, {
+        "count" : 10,
+        "item" : "314225"
+      }, {
+        "count" : 9,
+        "item" : "1880"
+      }, {
+        "count" : 8,
+        "item" : "110"
+      }, {
+        "count" : 7,
+        "item" : "8000"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45728891,
+    "name" : "Comments",
+    "dataTypeName" : "text",
+    "fieldName" : "comments",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7994340,
+    "width" : 407,
+    "cachedContents" : {
+      "non_null" : 45,
+      "smallest" : "For CEQR applications filed on or after July 1, 2009, for which a restrictive declaration to ensure compliance with project components related to the environment and/or mitigation of significant adverse impacts will be executed",
+      "null" : 15,
+      "largest" : "The fee shall be based upon the area of the zoning lot, and in cases of community facility or commercial uses, the fee shall be based upon the total amount of floor area",
+      "top" : [ {
+        "count" : 20,
+        "item" : "The amount of floor area shall be calculated based upon the floor area for the entire development or enlargement"
+      }, {
+        "count" : 19,
+        "item" : "The area of all zoning lots in the area to be rezoned"
+      }, {
+        "count" : 18,
+        "item" : "Minimum $1360"
+      }, {
+        "count" : 17,
+        "item" : "Per Dwelling Unit"
+      }, {
+        "count" : 16,
+        "item" : "The fee shall be based upon the area of the zoning lot, and in cases of community facility or commercial uses, the fee shall be based upon the total amount of floor area"
+      }, {
+        "count" : 15,
+        "item" : "In the case of a transfer of development rights or floor area bonus, the fee shall be based upon the amount of floor area associated with such transfer or bonus. "
+      }, {
+        "count" : 14,
+        "item" : "Maximum of $18900. Pursuant to §§105-45, 107-321, 107-65, and 119-40 of the Zoning Resolution, for the restoration of trees that have been removed or topography that has been altered without the prior approval of the City Planning Commission pursuant to §§105-40, 107-60, 119-10, 119-20, or 119-30 of the Zoning Resolution is filed"
+      }, {
+        "count" : 13,
+        "item" : "Projects measurable in square feet (Square Footage of Total Project)"
+      }, {
+        "count" : 12,
+        "item" : "Projects not measurable in square feet"
+      }, {
+        "count" : 11,
+        "item" : "For CEQR applications filed on or after July 1, 2009, for which a restrictive declaration to ensure compliance with project components related to the environment and/or mitigation of significant adverse impacts will be executed"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dcp", "city", "planning", "land  use", "fees" ],
+  "flags" : [ "default" ]
+}

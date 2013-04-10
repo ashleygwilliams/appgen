@@ -1,0 +1,1053 @@
+{
+  "id" : "q2ni-ztsb",
+  "name" : "New York City Council Discretionary Funding",
+  "attribution" : "City Council (NYCC)",
+  "attributionLink" : "http://council.nyc.gov/html/tempissues/Budget_ScheduleC.shtml",
+  "averageRating" : 0,
+  "category" : "Finances",
+  "createdAt" : 1339182777,
+  "description" : "The dataset reflects applications for discretionary funding to be allocated by the New York City Council in the upcoming fiscal year (July 1 - June 30)",
+  "displayType" : "table",
+  "downloadCount" : 72,
+  "numberOfComments" : 0,
+  "oid" : 750320,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1339185712,
+  "publicationGroup" : 356672,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1339185662,
+  "rowsUpdatedBy" : "x539-akqs",
+  "signed" : false,
+  "tableId" : 356693,
+  "totalTimesRated" : 0,
+  "viewCount" : 530,
+  "viewLastModified" : 1360951461,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 10790166,
+    "name" : "Fiscal Year",
+    "dataTypeName" : "number",
+    "fieldName" : "fiscal_year",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 3105742,
+    "width" : 109,
+    "cachedContents" : {
+      "non_null" : 19236,
+      "smallest" : "2013",
+      "sum" : "38722068",
+      "null" : 0,
+      "average" : "2013",
+      "largest" : "2013",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2013"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 10790167,
+    "name" : "Source",
+    "dataTypeName" : "text",
+    "fieldName" : "source",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3105743,
+    "width" : 129,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 19236
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 10790168,
+    "name" : "Council Member",
+    "dataTypeName" : "text",
+    "fieldName" : "council_member",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3105744,
+    "width" : 201,
+    "cachedContents" : {
+      "non_null" : 19236,
+      "smallest" : "Arroyo",
+      "null" : 0,
+      "largest" : "Wills",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Manhattan Delegation"
+      }, {
+        "count" : 19,
+        "item" : "Quinn"
+      }, {
+        "count" : 18,
+        "item" : "Brooklyn Delegation"
+      }, {
+        "count" : 17,
+        "item" : "James"
+      }, {
+        "count" : 16,
+        "item" : "Queens Delegation"
+      }, {
+        "count" : 15,
+        "item" : "Dickens"
+      }, {
+        "count" : 14,
+        "item" : "Van Bramer"
+      }, {
+        "count" : 13,
+        "item" : "Comrie"
+      }, {
+        "count" : 12,
+        "item" : "Recchia"
+      }, {
+        "count" : 11,
+        "item" : "Rose"
+      }, {
+        "count" : 10,
+        "item" : "Jackson"
+      }, {
+        "count" : 9,
+        "item" : "Brewer"
+      }, {
+        "count" : 8,
+        "item" : "Rodriguez"
+      }, {
+        "count" : 7,
+        "item" : "Mark-Viverito"
+      }, {
+        "count" : 6,
+        "item" : "Wills"
+      }, {
+        "count" : 5,
+        "item" : "Cabrera"
+      }, {
+        "count" : 4,
+        "item" : "Levin"
+      }, {
+        "count" : 3,
+        "item" : "Koppell"
+      }, {
+        "count" : 2,
+        "item" : "Rivera"
+      }, {
+        "count" : 1,
+        "item" : "Gennaro"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 10790169,
+    "name" : "Legal Name of Organization",
+    "dataTypeName" : "text",
+    "fieldName" : "legal_name_of_organization",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3105745,
+    "width" : 412,
+    "cachedContents" : {
+      "non_null" : 19236,
+      "smallest" : "1020 Carroll Place LLC",
+      "null" : 0,
+      "largest" : "Zimmer Club Youth Conservation Program of Staten Island Inc",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Renaissance-EMS"
+      }, {
+        "count" : 19,
+        "item" : "STATEN ISLAND RISING STARS"
+      }, {
+        "count" : 18,
+        "item" : "Talk Therapy Television Inc"
+      }, {
+        "count" : 17,
+        "item" : "United Jewish Organizations of Williamsburg Inc"
+      }, {
+        "count" : 16,
+        "item" : "Urban Justice Center"
+      }, {
+        "count" : 15,
+        "item" : "Vertical Player Repertory Ltd"
+      }, {
+        "count" : 14,
+        "item" : "Violence Intervention Program Inc"
+      }, {
+        "count" : 13,
+        "item" : "VISIONSServices for the Blind and Visually Impaired"
+      }, {
+        "count" : 12,
+        "item" : "West Indian American Day Carnival Association Inc"
+      }, {
+        "count" : 11,
+        "item" : "Where Theres A Need Inc"
+      }, {
+        "count" : 10,
+        "item" : "Wildlife Conservation Society New York Aquarium"
+      }, {
+        "count" : 9,
+        "item" : "Workers Defense League Inc"
+      }, {
+        "count" : 8,
+        "item" : "World Cares Center Inc"
+      }, {
+        "count" : 7,
+        "item" : "World Peace Society"
+      }, {
+        "count" : 6,
+        "item" : "Yes The Bronx Inc"
+      }, {
+        "count" : 5,
+        "item" : "Yes the Bronx Inc"
+      }, {
+        "count" : 4,
+        "item" : "Young Audiences New York Inc"
+      }, {
+        "count" : 3,
+        "item" : "Young Leaders Institute Inc"
+      }, {
+        "count" : 2,
+        "item" : "Young Mens Christian Association of Greater New York"
+      }, {
+        "count" : 1,
+        "item" : "Young People’s Chorus of New York City, The"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 10790181,
+    "name" : "EIN",
+    "dataTypeName" : "text",
+    "fieldName" : "ein",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3106080,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 19236,
+      "smallest" : "000000000-",
+      "null" : 0,
+      "largest" : "954502444-",
+      "top" : [ {
+        "count" : 20,
+        "item" : "134122438-"
+      }, {
+        "count" : 19,
+        "item" : "651321528-"
+      }, {
+        "count" : 18,
+        "item" : "272157824-"
+      }, {
+        "count" : 17,
+        "item" : "112728233-"
+      }, {
+        "count" : 16,
+        "item" : "133442022-"
+      }, {
+        "count" : 15,
+        "item" : "273867547-"
+      }, {
+        "count" : 14,
+        "item" : "133540337-"
+      }, {
+        "count" : 13,
+        "item" : "131624210-"
+      }, {
+        "count" : 12,
+        "item" : "237176396-"
+      }, {
+        "count" : 11,
+        "item" : "830433048-"
+      }, {
+        "count" : 10,
+        "item" : "131740011-"
+      }, {
+        "count" : 9,
+        "item" : "132658431-"
+      }, {
+        "count" : 8,
+        "item" : "412024802-"
+      }, {
+        "count" : 7,
+        "item" : "134170023-"
+      }, {
+        "count" : 6,
+        "item" : "562655936-"
+      }, {
+        "count" : 5,
+        "item" : "131624225-"
+      }, {
+        "count" : 4,
+        "item" : "131997754-"
+      }, {
+        "count" : 3,
+        "item" : "270105011-"
+      }, {
+        "count" : 2,
+        "item" : "131624228-"
+      }, {
+        "count" : 1,
+        "item" : "113372980-"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 10790170,
+    "name" : "Status",
+    "dataTypeName" : "text",
+    "fieldName" : "status",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3105747,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 19236,
+      "smallest" : "Applied",
+      "null" : 0,
+      "largest" : "Applied",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Applied"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 10790171,
+    "name" : "Amount ($)",
+    "dataTypeName" : "money",
+    "fieldName" : "amount",
+    "position" : 7,
+    "renderTypeName" : "money",
+    "tableColumnId" : 3105748,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 19236,
+      "smallest" : "1",
+      "sum" : "5113195359.00",
+      "null" : 0,
+      "average" : "265813.8572988147",
+      "largest" : "421000000",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5000"
+      }, {
+        "count" : 19,
+        "item" : "15000"
+      }, {
+        "count" : 18,
+        "item" : "50000"
+      }, {
+        "count" : 17,
+        "item" : "3500"
+      }, {
+        "count" : 16,
+        "item" : "10000"
+      }, {
+        "count" : 15,
+        "item" : "30000"
+      }, {
+        "count" : 14,
+        "item" : "10000.00"
+      }, {
+        "count" : 13,
+        "item" : "5000.00"
+      }, {
+        "count" : 12,
+        "item" : "20000"
+      }, {
+        "count" : 11,
+        "item" : "7500"
+      }, {
+        "count" : 10,
+        "item" : "25000"
+      }, {
+        "count" : 9,
+        "item" : "7500.00"
+      }, {
+        "count" : 8,
+        "item" : "100000"
+      }, {
+        "count" : 7,
+        "item" : "150000"
+      }, {
+        "count" : 6,
+        "item" : "40000"
+      }, {
+        "count" : 5,
+        "item" : "20000.00"
+      }, {
+        "count" : 4,
+        "item" : "250000"
+      }, {
+        "count" : 3,
+        "item" : "6000"
+      }, {
+        "count" : 2,
+        "item" : "100000.00"
+      }, {
+        "count" : 1,
+        "item" : "1500"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 10790172,
+    "name" : "Agency",
+    "dataTypeName" : "text",
+    "fieldName" : "agency",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3105749,
+    "width" : 109,
+    "cachedContents" : {
+      "non_null" : 19236,
+      "smallest" : "ACS",
+      "null" : 0,
+      "largest" : "Unknown",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Unknown"
+      }, {
+        "count" : 19,
+        "item" : "DYCD-CD"
+      }, {
+        "count" : 18,
+        "item" : "DCA"
+      }, {
+        "count" : 17,
+        "item" : "DYCD-Y"
+      }, {
+        "count" : 16,
+        "item" : "NYPD"
+      }, {
+        "count" : 15,
+        "item" : "NYCHA"
+      }, {
+        "count" : 14,
+        "item" : "DSBS"
+      }, {
+        "count" : 13,
+        "item" : "DFTA"
+      }, {
+        "count" : 12,
+        "item" : "DOE"
+      }, {
+        "count" : 11,
+        "item" : "DOHMH"
+      }, {
+        "count" : 10,
+        "item" : "HPD"
+      }, {
+        "count" : 9,
+        "item" : "DOITT"
+      }, {
+        "count" : 8,
+        "item" : "DHS"
+      }, {
+        "count" : 7,
+        "item" : "ACS"
+      }, {
+        "count" : 6,
+        "item" : "DPR"
+      }, {
+        "count" : 5,
+        "item" : "CUNY"
+      }, {
+        "count" : 4,
+        "item" : "CJC"
+      }, {
+        "count" : 3,
+        "item" : "FDNY"
+      }, {
+        "count" : 2,
+        "item" : "DSS"
+      }, {
+        "count" : 1,
+        "item" : "HRA"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 10790173,
+    "name" : "Program Name",
+    "dataTypeName" : "text",
+    "fieldName" : "program_name",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3105750,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 14575,
+      "smallest" : "103rd Precinct Community Council Inc",
+      "null" : 4661,
+      "largest" : "YWLN TYWLS CBI",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Renaissance Education Music  Sports"
+      }, {
+        "count" : 19,
+        "item" : "Teatro SEA SEA"
+      }, {
+        "count" : 18,
+        "item" : "SAYA"
+      }, {
+        "count" : 17,
+        "item" : "SASF Sports and Arts in Schools Foundation"
+      }, {
+        "count" : 16,
+        "item" : "Talk Therapy TV"
+      }, {
+        "count" : 15,
+        "item" : "UJO"
+      }, {
+        "count" : 14,
+        "item" : "UJC"
+      }, {
+        "count" : 13,
+        "item" : "VPR VPROpera"
+      }, {
+        "count" : 12,
+        "item" : "VIP"
+      }, {
+        "count" : 11,
+        "item" : "VISIONS"
+      }, {
+        "count" : 10,
+        "item" : "WCSQZ"
+      }, {
+        "count" : 9,
+        "item" : "WDL"
+      }, {
+        "count" : 8,
+        "item" : "WCC"
+      }, {
+        "count" : 7,
+        "item" : "Requesting under the umbrella of BIPAFEIN 11-274-8834"
+      }, {
+        "count" : 6,
+        "item" : "Yes the Bronx"
+      }, {
+        "count" : 5,
+        "item" : "Yes The Bronx"
+      }, {
+        "count" : 4,
+        "item" : "yaNY"
+      }, {
+        "count" : 3,
+        "item" : "YLI Inc"
+      }, {
+        "count" : 2,
+        "item" : "YMCA of Greater New York"
+      }, {
+        "count" : 1,
+        "item" : "YPC"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 10790174,
+    "name" : "Street Address 1",
+    "dataTypeName" : "text",
+    "fieldName" : "street_address_1",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3105751,
+    "width" : 198,
+    "cachedContents" : {
+      "non_null" : 19236,
+      "smallest" : "1000 10th Avenue",
+      "null" : 0,
+      "largest" : "wwwamlnorg",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3485 Third Avenue"
+      }, {
+        "count" : 19,
+        "item" : "337 LAFAYETTE"
+      }, {
+        "count" : 18,
+        "item" : "95-21 106 Street"
+      }, {
+        "count" : 17,
+        "item" : "32 Penn St"
+      }, {
+        "count" : 16,
+        "item" : "123 William Street"
+      }, {
+        "count" : 15,
+        "item" : "219 Court St"
+      }, {
+        "count" : 14,
+        "item" : "PO Box 1161"
+      }, {
+        "count" : 13,
+        "item" : "500 Greenwich Street"
+      }, {
+        "count" : 12,
+        "item" : "323-325 Rogers Avenue"
+      }, {
+        "count" : 11,
+        "item" : "110-31  155th Street"
+      }, {
+        "count" : 10,
+        "item" : "Surf Avenue at West 8th Street"
+      }, {
+        "count" : 9,
+        "item" : "220 East 23rd Street Room 707"
+      }, {
+        "count" : 8,
+        "item" : "520 Eighth Avenue"
+      }, {
+        "count" : 7,
+        "item" : "155 West 68th Street - Ste 1909"
+      }, {
+        "count" : 6,
+        "item" : "4720 Grosvenor Avenue"
+      }, {
+        "count" : 5,
+        "item" : "One East 53rd Street"
+      }, {
+        "count" : 4,
+        "item" : "229-02 137th Ave"
+      }, {
+        "count" : 3,
+        "item" : "5 West 63rd Street 6th Floor"
+      }, {
+        "count" : 2,
+        "item" : "1995 Broadway"
+      }, {
+        "count" : 1,
+        "item" : "42-07 Parsons Blvd"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 10790175,
+    "name" : "Street Address 2",
+    "dataTypeName" : "text",
+    "fieldName" : "street_address_2",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3105752,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 5361,
+      "smallest" : "1",
+      "null" : 13875,
+      "largest" : "wwwpurelementsorg",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4th Floor"
+      }, {
+        "count" : 19,
+        "item" : "2nd Floor"
+      }, {
+        "count" : 18,
+        "item" : "6th Floor"
+      }, {
+        "count" : 17,
+        "item" : "Suite 3200"
+      }, {
+        "count" : 16,
+        "item" : "Suite 301"
+      }, {
+        "count" : 15,
+        "item" : "21st Floor"
+      }, {
+        "count" : 14,
+        "item" : "72 Fifth Ave 6th Fl"
+      }, {
+        "count" : 13,
+        "item" : "Suite 1520"
+      }, {
+        "count" : 12,
+        "item" : "16th Floor"
+      }, {
+        "count" : 11,
+        "item" : "65-30 Kissena Blvd"
+      }, {
+        "count" : 10,
+        "item" : "5L"
+      }, {
+        "count" : 9,
+        "item" : "407 Rugby Rd"
+      }, {
+        "count" : 8,
+        "item" : "12B"
+      }, {
+        "count" : 7,
+        "item" : "Suite 1701"
+      }, {
+        "count" : 6,
+        "item" : "138 East 27th Street"
+      }, {
+        "count" : 5,
+        "item" : "Suite 1"
+      }, {
+        "count" : 4,
+        "item" : "Building M"
+      }, {
+        "count" : 3,
+        "item" : "Suite 510"
+      }, {
+        "count" : 2,
+        "item" : "3rd Floor"
+      }, {
+        "count" : 1,
+        "item" : "Suite 824"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 10790176,
+    "name" : "City",
+    "dataTypeName" : "text",
+    "fieldName" : "city",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3105753,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 19236,
+      "smallest" : "2800 Victory Blvd 2A-204",
+      "null" : 0,
+      "largest" : "Woodside NY",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New York"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "BROOKLYN"
+      }, {
+        "count" : 17,
+        "item" : "Jamaica"
+      }, {
+        "count" : 16,
+        "item" : "Flushing"
+      }, {
+        "count" : 15,
+        "item" : "Staten Island"
+      }, {
+        "count" : 14,
+        "item" : "Astoria"
+      }, {
+        "count" : 13,
+        "item" : "Bronx"
+      }, {
+        "count" : 12,
+        "item" : "New York City"
+      }, {
+        "count" : 11,
+        "item" : "NEW YORK"
+      }, {
+        "count" : 10,
+        "item" : "NYC"
+      }, {
+        "count" : 9,
+        "item" : "Woodside"
+      }, {
+        "count" : 8,
+        "item" : "new york"
+      }, {
+        "count" : 7,
+        "item" : "Cambria Heights"
+      }, {
+        "count" : 6,
+        "item" : "Long Island City"
+      }, {
+        "count" : 5,
+        "item" : "NY"
+      }, {
+        "count" : 4,
+        "item" : "Ridgewood"
+      }, {
+        "count" : 3,
+        "item" : "SOUTH OZONE PARK"
+      }, {
+        "count" : 2,
+        "item" : "Kew Gardens"
+      }, {
+        "count" : 1,
+        "item" : "Bellerose"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 10790177,
+    "name" : "State",
+    "dataTypeName" : "text",
+    "fieldName" : "state",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3105754,
+    "width" : 89,
+    "cachedContents" : {
+      "non_null" : 19236,
+      "smallest" : "NC",
+      "null" : 0,
+      "largest" : "NY",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NY"
+      }, {
+        "count" : 19,
+        "item" : "NJ"
+      }, {
+        "count" : 18,
+        "item" : "NC"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 10790178,
+    "name" : "Zip Code",
+    "dataTypeName" : "text",
+    "fieldName" : "zip_code",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3105755,
+    "width" : 108,
+    "cachedContents" : {
+      "non_null" : 19113,
+      "smallest" : "07024-3701",
+      "null" : 123,
+      "largest" : "7024",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10018"
+      }, {
+        "count" : 19,
+        "item" : "10001"
+      }, {
+        "count" : 18,
+        "item" : "10038"
+      }, {
+        "count" : 17,
+        "item" : "11375"
+      }, {
+        "count" : 16,
+        "item" : "10456"
+      }, {
+        "count" : 15,
+        "item" : "10036"
+      }, {
+        "count" : 14,
+        "item" : "11377"
+      }, {
+        "count" : 13,
+        "item" : "10301"
+      }, {
+        "count" : 12,
+        "item" : "11416"
+      }, {
+        "count" : 11,
+        "item" : "11249"
+      }, {
+        "count" : 10,
+        "item" : "11201"
+      }, {
+        "count" : 9,
+        "item" : "10035-0810"
+      }, {
+        "count" : 8,
+        "item" : "10013"
+      }, {
+        "count" : 7,
+        "item" : "11225"
+      }, {
+        "count" : 6,
+        "item" : "11433-3617"
+      }, {
+        "count" : 5,
+        "item" : "11224"
+      }, {
+        "count" : 4,
+        "item" : "10010"
+      }, {
+        "count" : 3,
+        "item" : "10023"
+      }, {
+        "count" : 2,
+        "item" : "10471"
+      }, {
+        "count" : 1,
+        "item" : "10461"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 10790179,
+    "name" : "Purpose of Funds",
+    "dataTypeName" : "text",
+    "fieldName" : "purpose_of_funds",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3105756,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 19236,
+      "smallest" : "_Caribbean American Repertory Theatre Inc. is seeking funding to support the company’s work under the project title “Black History Month and Beyond”. The first event  would be the company’s cultural presentation at the City Council’s salute to Jamaica in August 2012 at York College in Jamaica Queens. This part of the project would mark the 50th anniversary of independence for Jamaica. CART has a history of providing the main cultural part to this event. Councilman Comries office has already indicated that they would require CART to repeat its contribution to this event. The second part of the project would be the production of Love Is by A. Wisdom in February 2012. The third event would be a play reading festival of Caribbean plays in May 2013. Funds will be used to pay administrative personnel, artistic consultants, space rental costs, !\r\n administrative costs and outside professional services. The company also uses funds for General Operating Support.",
+      "null" : 0,
+      "largest" : "•\tThe funds will supplement the costs of providing a free concert in Lower Manhattan.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Four free outdoor performances at the Brooklyn Bridge Park (BBP) as part of their summer cultural offerings. \r\n1) WATER MUSIC: two performances. A lyrical evening of water-themed opera, reflecting VPRs history on the Brooklyn Waterfront. The program will include excerpts from Puccinis Il Tabarro, Offenbachs Tales of Hoffmann, and Bolcoms Red Hook opera A View From the Bridge. With a cast of 10 professional singers, the VPR Chorus, conductor, 5 artistic and tech staff, 2 interns, and piano.\r\n2) MOSHEH: two performances. An original contemporary opera by Yoav Gal, premiered in 2011 at HERE Arts center. VPR will bring the original cast and director for a new look at this work about Moses and the powerful female figures in his life. With 5 professional singers, an actor, 9 instrumentalists, 9 artistic and tech staff  2 interns.\r\nRequested funds will be used to pay the singers, music directors, and instrumentalists, with fees of 200 per performance."
+      }, {
+        "count" : 19,
+        "item" : "VIP mobilizes communities by disseminating information and providing educational workshops about domestic violence in both English and Spanish. VIP gives a voice to the issues that affect Latina survivors of domestic violence and their children on various task forces, collaboratives and coalitions in addition to participating every year in the organization of the Annual NYC Brides March. Support will enable VIP to educate survivors of domestic violence about their options and rights; raise awareness in our communities about available domestic violence services; develop leadership skills with survivors of domestic violence; provide culturally proficient and linguistically appropriate services in the communities that women of color reside and work; provide safety planning; build relationships and collaborations with other CBOs; and case management; !\r\n counseling and advocacy.Funds will be used to support costs associated with staff salaries  fringe, printing, travel and stipends to peer ed"
+      }, {
+        "count" : 18,
+        "item" : "VISIONS Out-of-School Time after-school program includes academic enrichment, prevocational, work readiness, healthy living and employment related services at VISIONS at Selis Manor Community Center. Two youth training programs are provided:  prevocational training when the youth are not in school (after school and certain holidays) from September through June, and a Summer Youth Work Experience Training (SYWET) program, where blind youth have access to paid summer work experience internships. For 2012-13, blind youth ages 14-21, will be registered for the OST program. 12 students each will be enrolled in Fall and Spring semesters 2-3 days a week. For the Summer, 100 legally blind youth will be enrolled in SYWET. This year, VISIONS served 278 youth citywide. Since 2010, City funding for afterschool programs for junior and senior high school age st!\r\n udents ended. VISIONS continues to provide these programs, but needs help from councilmembers to continue."
+      }, {
+        "count" : 17,
+        "item" : "Funds will be used for operating expense for WIADCAs year round traditional cultural arts program, concerts and festivities. Events are held every year from the Thursday before Labor Day through the weekend, culminating in the parade on Labor Day itself. The parade now proceeds from Utica Avenue along Eastern Parkway to Grand Army Plaza. Highlights include a Steelband (panorama) competition, a Dimanche Gras (Fat Sunday) extravaganza and a special Kiddie Carnival which runs from President Street to the grounds of the Brooklyn Museum of Art. A Stay in School: A Cultural Education, which promotes the importance of having an education and a Thursday night concerts. WIADCAs Youth Headpiece Design Workshop and a also a Pre Labor Day Steelpan Audience  Business Development Program are some of the additional services to be funded."
+      }, {
+        "count" : 16,
+        "item" : "We are seeking funding to help support the offering of Aquatic Essentials programs to targeted Title One Schools in the City Council Members district.  The NY Aquarium Education Department will offer Aquatic Essentials -a selection of Pre-K to 8 programs for school administrators to choose from that best supplement their classroom curricula, enrich science learning in the classroom and inspire the students to appreciate the wonders of aquatic wildlife and the aquatic environment that surround their communities"
+      }, {
+        "count" : 15,
+        "item" : "Our Leading  Managing series enables communities to carry out their own emergency responses as we fulfill the belief that each citizen, regardless of age, has a role to play during disaster situations. We teach local, faith-based, and youth center leaders to engage their constituents to become ready responders- not victims- during emergency situations. WCC teaches youth to avoid household disasters, especially within the kitchen, and will work with councilmembers and local leaders to develop a specific workshop to ensure the safety of every resident and engage youth to participate in civic ventures of widespread benefit. Funding in the amount of 25,000 will be used to deliver one Leading  Managing workshop in each of the five boroughs (5,000 per workshop) that will benefit and incorporate youth while preparing the leaders and emergency managers re!\r\n sponsible for their wellbeing to act in their best interests."
+      }, {
+        "count" : 14,
+        "item" : "WCC will engage current and potential contributors to emergency response to collaborate, share resources, and develop specific plans to respond to all kinds of emergencies. The most effective responders throughout a relief process are the members of the local community; they are the first to help their neighbors following a disaster and the last to remain to attend to ongoing needs. WCC will deliver preparedness trainings throughout NYC to train community leaders to manage their constituents and connect with other managing groups. Funding in the amount of 25,000 will be used to deliver one Leading  Managing workshop in each of the five boroughs (5,000 per workshop) to train 10-20 leaders per workshop. These leaders will then return to their constituencies and implement plans that will ensure the safety and preparedness of NYC residents throughout !\r\n each borough. Funding will support the development and delivery of these workshops specific to the needs of each individual community."
+      }, {
+        "count" : 13,
+        "item" : "Our Leading  Managing series enables communities to carry out their own emergency responses as we fulfill the belief that each citizen, regardless of age, has a role to play during disaster situations. We teach local, faith-based, and senior center leaders to engage their constituents to become ready responders- not victims- during emergency situations. We incorporate volunteers into community response and train these volunteers (many of whom are retired persons) to contribute to response efforts. WCC’s workshops ensure that communities are ready to safely provide appropriate services and deploy trained volunteers to address immediate needs. Funding in the amount of 25,000 will be used to deliver one Leading  Managing workshop in each of the five boroughs (5,000 per workshop) that will benefit and incorporate seniors while preparing the leaders !\r\n and emergency managers responsible for their wellbeing to act in their best interests."
+      }, {
+        "count" : 12,
+        "item" : "We plan to use the services of Joseph Lliso of Pan-American Symphony Orchestra and Bushwick Institute of the Performing Arts, as well as others, to create entertaining events that will promote a new awareness of world peace and a better world for all.  We will invite other organizations to assist us by providing space and inviting who they can to our events."
+      }, {
+        "count" : 11,
+        "item" : "RUN FOR YOUR LIFE, consisting of eight 5K Bronx race/walks, getting people back in the parks, exercising. The cost for each of these race/walks is approximately 25,000 or 200,000 for the entire Bronx series.\r\nGetting fit, staying healthy, and eating smart are the three keys to reducing obesity. USA Track  Field is working to expand this series and officially sanctions our races, while NY Presbyterian is adding a health and nutrition information component to address concerns of participants, and encourage better food choices.\r\nOur tentative 2012-13 schedule includes: Bronx Community College (along the Grand Concourse) and Fordham University, along with the following parks Crotona, Hunts Point Riverside, Pelham Bay, Soundview, St. James, Van Cortlandt.\r\nENERGIZE THE BRONX, in it’s 6th year at the NYC Marathon, is the designated cheering section Yes created to greet runners entering the Bronx; and, encourages all Bronxites to participate in any kind of race and become active in our parks."
+      }, {
+        "count" : 10,
+        "item" : "\r\nCivics With Irving is a discourse on the rights, responsibilities, and rewards of citizenship. Supported by the American Bar Association and its Commission on Civic Education in the Nation’s Schools, the project reaches NYC students using professionally produced videos. Taking a Socratic symposium approach, Dr. Irving Ladimer holds a lively discourse with a few racially diverse students on disparate subjects gleaned directly from the U.S. Constitution and the way these topics impact everyday rights—the common “privileges” many of us take for granted. Live back-and-forth exchanges form the basis for each video. Videos will be uploaded to YouTube to reach students directly, and distributed to local schools, parents, seniors, and community organizations.\r\nWe’ve conducted test marketing among the ethnically diverse residents of Manhattan and the Bronx. The video and lectures have been well received. We are certain the Civics series will garner a citywide audience, especially on YouTube."
+      }, {
+        "count" : 9,
+        "item" : "Young Audiences New York is requesting funds to support arts learning experiences for students in your district through multi-week residencies, family programming, and/or cultural performances."
+      }, {
+        "count" : 8,
+        "item" : "Our currently unfunded ESL program currently serves approximately 400 students per year and employs 7 instructors.  The funding will be used to maintain and ensure this critical service is available in the future.\r\n\r\nThe students and classes are disaggregated into four different language levels: ESOL Literacy that teaches individuals with no literacy skills in their native languages or in English; ESOL Basic provides basic grammar, phonics, reading and writing and basic conversation skills; Level I reviews basic grammar and phonics and basic expressions in daily life; and Level II focuses on improving conversational skills on daily life by group and one-on-one practice.\r\n"
+      }, {
+        "count" : 7,
+        "item" : "Our currently unfunded ESL program currently serves approximately 400 students per year and employs 7 instructors. The funding will be used to maintain and ensure this critical service is available in the future. The students and classes are disaggregated into four different language levels: ESOL Literacy that teaches individuals with no literacy skills in their native languages or in English; ESOL Basic provides basic grammar, phonics, reading and writing and basic conversation skills; Level I reviews basic grammar and phonics and basic expressions in daily life; and Level II focuses on improving conversational skills on daily life by group and one-on-one practice."
+      }, {
+        "count" : 6,
+        "item" : "The funding goes to supporting the Home Health Aide component of the Women-to-Work training and certification process including professional instruction, certification, class, teaching materials, and job placement along with access to other classes relevant to improving job-skills.  Participants also learn about interviewing, screening, occupational and field training.  The curriculum includes lessons on worker’s rights and cultural sensitivity.   In addition, ESL, computer literacy, and financial literacy is offered to all participants who require or would like to improve themselves in these areas.\r\n\r\nOver the course of about two weeks, students receive 35 hours of health related task training and 40 hours of home care training, which includes 16 hours of supervised practical training – a combined total of 75 hours. In order to meet the YW’s high standard of learning, practice, and compliance; participants are required to pass multiple exams that test their knowledge and skills."
+      }, {
+        "count" : 5,
+        "item" : "10,500 students will benefit immediately and tens of thousands of families will benefit in the future.  95 of YWLN graduates are accepted to college!  57 million in financial aid has been achieved for YWLN students!  TYWLS alumnae achieve four-year college degrees at nearly triple the rate of their peers!  Your continued support will ensure that students have college options and better economic and career prospects. TYWLS will provide a high-quality education to 1,800 girls at five nationally recognized, college preparatory, public middle and high schools, including TYWLS of the Bronx, opening September 2012. 18 high-need public high schools will benefit from in-school CBI counselors who will provide early college and career awareness, college application, financial aid, and enrollment support to more than 10,500 students. Counselors will build a !\r\n college-going culture for the thousands of first-generation-to-college students who attend NYC public schools."
+      }, {
+        "count" : 4,
+        "item" : "1. Education Program of Weekly Rehearsals: Each week, we conduct sectional guidance with string, woodwind, brass and percussion instructors, as well as, full orchestra rehearsal under one conductor. Our weekly rehearsal is open to the public. \r\n2. Concerts: Two full-length concerts each year, one in Christmas Holiday, which is free to the community in Queens, and the other one is,  in a major concert hall, such as Alice Tully Hall of Lincoln Center. \r\n3. Community service: Concerts and performances at local hospital, nursing home and community center. \r\n4. Concert Tours: We believe in global village and experience of 1st Century, the orchestra often conduct concert tour in the summer, to Asia, Europe and the West Coast.\r\n"
+      }, {
+        "count" : 3,
+        "item" : "Supervised Visitation refers to contact between the non-custodial parent and their child(ren) in the presence of a 3rd person responsible for observing and seeking to ensure the safety of those involved. The risk of violence is often greater for victoms of domestic violence and their children after separation from an abusive situation (Jaffe, P.G.,Children of Domestic Violence:Special Challenges in Custody  Visitation Dispute Resolution) Batters often use visitation as an opportunity to inflict additional emotional, physical,and/or psychological abuse on victims  their children. Having the visitation supervised diminishes this cause for concern. As these services are either of no cost, or on a sliding scale, funds are needed in order to run this program. A part-time Assistant Director, MSW, is responsible for supervising 3 part time SV observers/c!\r\n ounselors, managing the program, conducting intake, supervision, mainaining visitation records,  serving as a liaison between the Courts"
+      }, {
+        "count" : 2,
+        "item" : "The new YWCA Community Center is now home to numerous nonprofits serving the borough through girl’s leadership, domestic violence prevention and women’s health programs.  All public meeting spaces in the 2011 over 6000 Brooklyn residents used the YWCA’s housing and community Room"
+      }, {
+        "count" : 1,
+        "item" : "Through our program we provide FREE instruction in outdoor activities to over 100 youths. They include: fishing, boating, hunting, horticulture, animal care, birds of prey, camping, wilderness survival techniques, marksmandhip, archery, and more."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 10790180,
+    "name" : "Fiscal Conduit Name",
+    "dataTypeName" : "text",
+    "fieldName" : "fiscal_conduit_name",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3105757,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 19236
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 10790182,
+    "name" : "FC EIN",
+    "dataTypeName" : "text",
+    "fieldName" : "fc_ein",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 3106081,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 19236
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Biannually "
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "city council", "schedule c", "discretionary", "funding" ],
+  "flags" : [ "default" ]
+}

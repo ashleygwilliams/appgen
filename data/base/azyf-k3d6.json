@@ -1,0 +1,242 @@
+{
+  "id" : "azyf-k3d6",
+  "name" : "Lead Based Paint Dwelling Statistics",
+  "attribution" : "Department of City Planning (DCP)",
+  "attributionLink" : "http://www.nyc.gov/html/dcp/pdf/pub/conplan12_amended_vol2.pdf",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1360786638,
+  "description" : "Statistics of occupied units with Lead Based Paint",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2514983,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1360787911,
+  "publicationGroup" : 675607,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1360787622,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 675644,
+  "totalTimesRated" : 0,
+  "viewCount" : 22,
+  "viewLastModified" : 1360851872,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 44623680,
+    "name" : "Year Built",
+    "dataTypeName" : "text",
+    "fieldName" : "year_built",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7826921,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "1947-1959",
+      "null" : 0,
+      "largest" : "TOTAL",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1960+"
+      }, {
+        "count" : 19,
+        "item" : "1947-1959"
+      }, {
+        "count" : 18,
+        "item" : "Before 1947"
+      }, {
+        "count" : 17,
+        "item" : "TOTAL"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44623681,
+    "name" : "Total Units",
+    "dataTypeName" : "text",
+    "fieldName" : "total_units",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7826922,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "1,800,057",
+      "null" : 0,
+      "largest" : "779,347",
+      "top" : [ {
+        "count" : 20,
+        "item" : "779,347"
+      }, {
+        "count" : 19,
+        "item" : "458,592"
+      }, {
+        "count" : 18,
+        "item" : "1,800,057"
+      }, {
+        "count" : 17,
+        "item" : "3,037,996"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44623682,
+    "name" : "Estimate of Percent of Units with LBP",
+    "dataTypeName" : "text",
+    "fieldName" : "estimate_of_percent_of_units_with_lbp",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7826923,
+    "width" : 213,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "0%",
+      "null" : 1,
+      "largest" : "90%",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0%"
+      }, {
+        "count" : 19,
+        "item" : "69%"
+      }, {
+        "count" : 18,
+        "item" : "90%"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44623683,
+    "name" : "Estimated Units with LBP",
+    "dataTypeName" : "text",
+    "fieldName" : "estimated_units_with_lbp",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7826924,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "1,620,051",
+      "null" : 1,
+      "largest" : "316,428",
+      "top" : [ {
+        "count" : 20,
+        "item" : "316,428"
+      }, {
+        "count" : 19,
+        "item" : "1,620,051"
+      }, {
+        "count" : 18,
+        "item" : "1,936,479"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44623684,
+    "name" : "LBP Units occupied by Families Less than or Equal to 50% of Median",
+    "dataTypeName" : "text",
+    "fieldName" : "lbp_units_occupied_by_families_less_than_or_equal_to_50_of_median",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7826925,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "119,294",
+      "null" : 1,
+      "largest" : "681,452",
+      "top" : [ {
+        "count" : 20,
+        "item" : "119,294"
+      }, {
+        "count" : 19,
+        "item" : "562,158"
+      }, {
+        "count" : 18,
+        "item" : "681,452"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 44623685,
+    "name" : "LBP Units occupied by Families Less than or Equal to 80% of Median",
+    "dataTypeName" : "text",
+    "fieldName" : "lbp_units_occupied_by_families_less_than_or_equal_to_80_of_median",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7826926,
+    "width" : 235,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "1,011,362",
+      "null" : 1,
+      "largest" : "840,807",
+      "top" : [ {
+        "count" : 20,
+        "item" : "170,555"
+      }, {
+        "count" : 19,
+        "item" : "840,807"
+      }, {
+        "count" : 18,
+        "item" : "1,011,362"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dcp", "city", "planning", "lead", "base", "paint", "statistics" ],
+  "flags" : [ "default" ]
+}

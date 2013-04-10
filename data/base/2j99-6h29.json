@@ -1,0 +1,685 @@
+{
+  "id" : "2j99-6h29",
+  "name" : "Graffiti Locations",
+  "attribution" : "Department of Sanitation (DSNY)",
+  "averageRating" : 0,
+  "category" : "Other",
+  "createdAt" : 1318105361,
+  "description" : "Addresses, current status, and coordinates of requests to clean graffiti (other than bridges or highways) received from the public and SCOUT in the last 12 months.",
+  "displayType" : "table",
+  "downloadCount" : 815,
+  "numberOfComments" : 0,
+  "oid" : 342200,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318105451,
+  "publicationGroup" : 244073,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318105371,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 244073,
+  "totalTimesRated" : 0,
+  "viewCount" : 2967,
+  "viewLastModified" : 1363704606,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2988332,
+    "name" : "Incident Address Display",
+    "dataTypeName" : "text",
+    "fieldName" : "incident_address_display",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1563833,
+    "width" : 388,
+    "cachedContents" : {
+      "non_null" : 14518,
+      "smallest" : "100-01 BELLAIRE PLACE",
+      "null" : 0,
+      "largest" : "w38 WEST FORDHAM ROAD",
+      "top" : [ {
+        "count" : 20,
+        "item" : "996 ATLANTIC AVENUE"
+      }, {
+        "count" : 19,
+        "item" : "999 BEDFORD AVENUE"
+      }, {
+        "count" : 18,
+        "item" : "999 BROADWAY"
+      }, {
+        "count" : 17,
+        "item" : "w38 WEST FORDHAM ROAD"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988333,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1563834,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 14518,
+      "smallest" : "BRONX",
+      "null" : 0,
+      "largest" : "STATEN ISLAND",
+      "top" : [ {
+        "count" : 20,
+        "item" : "MANHATTAN"
+      }, {
+        "count" : 19,
+        "item" : "BROOKLYN"
+      }, {
+        "count" : 18,
+        "item" : "STATEN ISLAND"
+      }, {
+        "count" : 17,
+        "item" : "BRONX"
+      }, {
+        "count" : 16,
+        "item" : "QUEENS"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988334,
+    "name" : "Community Board",
+    "dataTypeName" : "text",
+    "fieldName" : "community_board",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1563835,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 14518,
+      "smallest" : "01 BRONX",
+      "null" : 0,
+      "largest" : "Unspecified STATEN ISLAND",
+      "top" : [ {
+        "count" : 20,
+        "item" : "12 MANHATTAN"
+      }, {
+        "count" : 19,
+        "item" : "03 MANHATTAN"
+      }, {
+        "count" : 18,
+        "item" : "01 BROOKLYN"
+      }, {
+        "count" : 17,
+        "item" : "10 MANHATTAN"
+      }, {
+        "count" : 16,
+        "item" : "09 BRONX"
+      }, {
+        "count" : 15,
+        "item" : "03 BROOKLYN"
+      }, {
+        "count" : 14,
+        "item" : "12 QUEENS"
+      }, {
+        "count" : 13,
+        "item" : "02 MANHATTAN"
+      }, {
+        "count" : 12,
+        "item" : "08 MANHATTAN"
+      }, {
+        "count" : 11,
+        "item" : "07 QUEENS"
+      }, {
+        "count" : 10,
+        "item" : "10 BRONX"
+      }, {
+        "count" : 9,
+        "item" : "Unspecified MANHATTAN"
+      }, {
+        "count" : 8,
+        "item" : "11 BRONX"
+      }, {
+        "count" : 7,
+        "item" : "07 MANHATTAN"
+      }, {
+        "count" : 6,
+        "item" : "13 QUEENS"
+      }, {
+        "count" : 5,
+        "item" : "01 QUEENS"
+      }, {
+        "count" : 4,
+        "item" : "07 BRONX"
+      }, {
+        "count" : 3,
+        "item" : "05 BROOKLYN"
+      }, {
+        "count" : 2,
+        "item" : "12 BRONX"
+      }, {
+        "count" : 1,
+        "item" : "03 QUEENS"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988335,
+    "name" : "Police Precinct",
+    "dataTypeName" : "text",
+    "fieldName" : "police_precinct",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1563836,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 14518,
+      "smallest" : "Precinct 1",
+      "null" : 0,
+      "largest" : "Unspecified",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Unspecified"
+      }, {
+        "count" : 19,
+        "item" : "Precinct 5"
+      }, {
+        "count" : 18,
+        "item" : "Precinct 43"
+      }, {
+        "count" : 17,
+        "item" : "Precinct 19"
+      }, {
+        "count" : 16,
+        "item" : "Precinct 109"
+      }, {
+        "count" : 15,
+        "item" : "Precinct 45"
+      }, {
+        "count" : 14,
+        "item" : "Precinct 49"
+      }, {
+        "count" : 13,
+        "item" : "Precinct 33"
+      }, {
+        "count" : 12,
+        "item" : "Precinct 114"
+      }, {
+        "count" : 11,
+        "item" : "Precinct 52"
+      }, {
+        "count" : 10,
+        "item" : "Precinct 90"
+      }, {
+        "count" : 9,
+        "item" : "Precinct 75"
+      }, {
+        "count" : 8,
+        "item" : "Precinct 47"
+      }, {
+        "count" : 7,
+        "item" : "Precinct 79"
+      }, {
+        "count" : 6,
+        "item" : "Precinct 115"
+      }, {
+        "count" : 5,
+        "item" : "Precinct 108"
+      }, {
+        "count" : 4,
+        "item" : "Precinct 30"
+      }, {
+        "count" : 3,
+        "item" : "Precinct 34"
+      }, {
+        "count" : 2,
+        "item" : "Precinct 66"
+      }, {
+        "count" : 1,
+        "item" : "Precinct 110"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988336,
+    "name" : "City Council District",
+    "dataTypeName" : "number",
+    "fieldName" : "city_council_district",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1563837,
+    "width" : 352,
+    "cachedContents" : {
+      "non_null" : 14193,
+      "smallest" : "1",
+      "sum" : "307085",
+      "null" : 325,
+      "average" : "21.63637004156979",
+      "largest" : "51",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10"
+      }, {
+        "count" : 19,
+        "item" : "35"
+      }, {
+        "count" : 18,
+        "item" : "7"
+      }, {
+        "count" : 17,
+        "item" : "1"
+      }, {
+        "count" : 16,
+        "item" : "9"
+      }, {
+        "count" : 15,
+        "item" : "34"
+      }, {
+        "count" : 14,
+        "item" : "33"
+      }, {
+        "count" : 13,
+        "item" : "3"
+      }, {
+        "count" : 12,
+        "item" : "37"
+      }, {
+        "count" : 11,
+        "item" : "8"
+      }, {
+        "count" : 10,
+        "item" : "40"
+      }, {
+        "count" : 9,
+        "item" : "14"
+      }, {
+        "count" : 8,
+        "item" : "36"
+      }, {
+        "count" : 7,
+        "item" : "27"
+      }, {
+        "count" : 6,
+        "item" : "21"
+      }, {
+        "count" : 5,
+        "item" : "17"
+      }, {
+        "count" : 4,
+        "item" : "18"
+      }, {
+        "count" : 3,
+        "item" : "5"
+      }, {
+        "count" : 2,
+        "item" : "19"
+      }, {
+        "count" : 1,
+        "item" : "20"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988337,
+    "name" : "Created Date",
+    "dataTypeName" : "date",
+    "fieldName" : "created_date",
+    "position" : 7,
+    "renderTypeName" : "date",
+    "tableColumnId" : 1563838,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 14518,
+      "smallest" : 1284361200,
+      "null" : 0,
+      "largest" : 1313650800,
+      "top" : [ {
+        "count" : 20,
+        "item" : 1288854000
+      }, {
+        "count" : 19,
+        "item" : 1303974000
+      }, {
+        "count" : 18,
+        "item" : 1313046000
+      }, {
+        "count" : 17,
+        "item" : 1303455600
+      }, {
+        "count" : 16,
+        "item" : 1285484400
+      }, {
+        "count" : 15,
+        "item" : 1285570800
+      }, {
+        "count" : 14,
+        "item" : 1312786800
+      }, {
+        "count" : 13,
+        "item" : 1304578800
+      }, {
+        "count" : 12,
+        "item" : 1306393200
+      }, {
+        "count" : 11,
+        "item" : 1301295600
+      }, {
+        "count" : 10,
+        "item" : 1303110000
+      }, {
+        "count" : 9,
+        "item" : 1311750000
+      }, {
+        "count" : 8,
+        "item" : 1285052400
+      }, {
+        "count" : 7,
+        "item" : 1307602800
+      }, {
+        "count" : 6,
+        "item" : 1298016000
+      }, {
+        "count" : 5,
+        "item" : 1299657600
+      }, {
+        "count" : 4,
+        "item" : 1301554800
+      }, {
+        "count" : 3,
+        "item" : 1294300800
+      }, {
+        "count" : 2,
+        "item" : 1304751600
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988338,
+    "name" : "Status",
+    "dataTypeName" : "text",
+    "fieldName" : "status",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1563839,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 14518,
+      "smallest" : "Closed",
+      "null" : 0,
+      "largest" : "Pending",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Closed"
+      }, {
+        "count" : 19,
+        "item" : "Open"
+      }, {
+        "count" : 18,
+        "item" : "Pending"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988339,
+    "name" : "Resolution Action",
+    "dataTypeName" : "text",
+    "fieldName" : "resolution_action",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1563840,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 14518,
+      "smallest" : "Cleaning crew dispatched.  Cannot locate property.",
+      "null" : 0,
+      "largest" : "Unspecified",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Cleaning crew dispatched.  Property cleaned."
+      }, {
+        "count" : 19,
+        "item" : "Cleaning crew dispatched. No graffiti on property."
+      }, {
+        "count" : 18,
+        "item" : "Notice of Intent to Clean and Forever Graffiti Free Form sent"
+      }, {
+        "count" : 17,
+        "item" : "Site downloaded for cleaning"
+      }, {
+        "count" : 16,
+        "item" : "Unspecified"
+      }, {
+        "count" : 15,
+        "item" : "Cleaning crew dispatched.  Owner refused."
+      }, {
+        "count" : 14,
+        "item" : "Graffiti is intentional."
+      }, {
+        "count" : 13,
+        "item" : "Cleaning crew dispatched.  Cannot locate property."
+      }, {
+        "count" : 12,
+        "item" : "Site to be cleaned."
+      }, {
+        "count" : 11,
+        "item" : "Mail returned / wrong address"
+      }, {
+        "count" : 10,
+        "item" : "Graffiti Reported"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988340,
+    "name" : "Closed Date",
+    "dataTypeName" : "date",
+    "fieldName" : "closed_date",
+    "position" : 10,
+    "renderTypeName" : "date",
+    "tableColumnId" : 1563841,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 10047,
+      "smallest" : 1262592000,
+      "null" : 4471,
+      "largest" : 1313478000,
+      "top" : [ {
+        "count" : 20,
+        "item" : 1306998000
+      }, {
+        "count" : 19,
+        "item" : 1287385200
+      }, {
+        "count" : 18,
+        "item" : 1298966400
+      }, {
+        "count" : 17,
+        "item" : 1289808000
+      }, {
+        "count" : 16,
+        "item" : 1304406000
+      }, {
+        "count" : 15,
+        "item" : 1308898800
+      }, {
+        "count" : 14,
+        "item" : 1305097200
+      }, {
+        "count" : 13,
+        "item" : 1303801200
+      }, {
+        "count" : 12,
+        "item" : 1305010800
+      }, {
+        "count" : 11,
+        "item" : 1310108400
+      }, {
+        "count" : 10,
+        "item" : 1303455600
+      }, {
+        "count" : 9,
+        "item" : 1288594800
+      }, {
+        "count" : 8,
+        "item" : 1308726000
+      }, {
+        "count" : 7,
+        "item" : 1289548800
+      }, {
+        "count" : 6,
+        "item" : 1288681200
+      }, {
+        "count" : 5,
+        "item" : 1291795200
+      }, {
+        "count" : 4,
+        "item" : 1285311600
+      }, {
+        "count" : 3,
+        "item" : 1303110000
+      }, {
+        "count" : 2,
+        "item" : 1302591600
+      }, {
+        "count" : 1,
+        "item" : 1298016000
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988341,
+    "name" : "X Coordinate",
+    "dataTypeName" : "number",
+    "fieldName" : "x_coordinate",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1563842,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 14193,
+      "smallest" : "914057",
+      "sum" : "14285606009",
+      "null" : 325,
+      "average" : "1006524.766363700",
+      "largest" : "1067044",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1053875"
+      }, {
+        "count" : 19,
+        "item" : "1022394"
+      }, {
+        "count" : 18,
+        "item" : "995177"
+      }, {
+        "count" : 17,
+        "item" : "1013345"
+      }, {
+        "count" : 16,
+        "item" : "982016"
+      }, {
+        "count" : 15,
+        "item" : "996677"
+      }, {
+        "count" : 14,
+        "item" : "1002665"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988342,
+    "name" : "Y Coordinate",
+    "dataTypeName" : "number",
+    "fieldName" : "y_coordinate",
+    "position" : 12,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1563843,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 14193,
+      "smallest" : "121853",
+      "sum" : "3006221677",
+      "null" : 325,
+      "average" : "211810.1653632072",
+      "largest" : "271667",
+      "top" : [ {
+        "count" : 20,
+        "item" : "210490"
+      }, {
+        "count" : 19,
+        "item" : "187131"
+      }, {
+        "count" : 18,
+        "item" : "174578"
+      }, {
+        "count" : 17,
+        "item" : "238999"
+      }, {
+        "count" : 16,
+        "item" : "177530"
+      }, {
+        "count" : 15,
+        "item" : "190607"
+      }, {
+        "count" : 14,
+        "item" : "192878"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "sanitation", "scout", "graffiti", "complaint", "request", "public", "clean web" ],
+  "flags" : [ "default" ]
+}

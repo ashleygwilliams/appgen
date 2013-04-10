@@ -1,0 +1,151 @@
+{
+  "id" : "s7vy-wmm7",
+  "name" : "List Of Cases Filed By Type At OATH",
+  "attribution" : "Office of Administrative Trials and Hearings (OATH)",
+  "attributionLink" : "http://www.nyc.gov/html/oath/downloads/pdf/oath_stats/OATH.pdf",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1362584006,
+  "description" : "This is the list of cases filed by type, the break down of case type is listed as percentage value",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2730692,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362584181,
+  "publicationGroup" : 717727,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1362584173,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 717732,
+  "totalTimesRated" : 0,
+  "viewCount" : 12,
+  "viewLastModified" : 1362584678,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 48790431,
+    "name" : "Case Type ",
+    "dataTypeName" : "text",
+    "fieldName" : "case_type",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401551,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "City Contract Disputes",
+      "null" : 0,
+      "largest" : "Vehicle Forfeiture",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Disciplinary / Disability / COIB Hearings"
+      }, {
+        "count" : 19,
+        "item" : "Vehicle Forfeiture"
+      }, {
+        "count" : 18,
+        "item" : "Discrimination Under City Human Rights Law"
+      }, {
+        "count" : 17,
+        "item" : "City Contract Disputes"
+      }, {
+        "count" : 16,
+        "item" : "City Issued Licenses"
+      }, {
+        "count" : 15,
+        "item" : "Loft Law Cases / Zoning Violations / SRO"
+      }, {
+        "count" : 14,
+        "item" : "Lobbyist Registration & Other Regulatory Cases"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48790432,
+    "name" : "Percent of the Case Type Filed",
+    "dataTypeName" : "percent",
+    "fieldName" : "percent_of_the_case_type_filed",
+    "position" : 2,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 8401552,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "1.60",
+      "sum" : "106.00",
+      "null" : 0,
+      "average" : "15.14285714285714",
+      "largest" : "49.90",
+      "top" : [ {
+        "count" : 20,
+        "item" : "49.90"
+      }, {
+        "count" : 19,
+        "item" : "18.70"
+      }, {
+        "count" : 18,
+        "item" : "1.60"
+      }, {
+        "count" : 17,
+        "item" : "6.80"
+      }, {
+        "count" : 16,
+        "item" : "19.70"
+      }, {
+        "count" : 15,
+        "item" : "2.50"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "oath", "office of administrative trials and hearings", "cases" ],
+  "flags" : [ "default" ]
+}

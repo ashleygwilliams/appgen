@@ -1,0 +1,1610 @@
+{
+  "id" : "pqg4-dm6b",
+  "name" : "NYC Women's Resource Network Database",
+  "attribution" : "Commission on Women's Issues (CWI)",
+  "averageRating" : 0,
+  "category" : "Women’s Issues",
+  "createdAt" : 1311778172,
+  "description" : "The NYC Women's Resource Network is a free, user-friendly database of over 1,000 nonprofit organizations and governmental agencies that work to advance and benefit women and families in New York City.  A user can tailor their search by keyword, category, and/or borough to receive a customized listing of organizations that address their needs.",
+  "displayType" : "table",
+  "downloadCount" : 158,
+  "numberOfComments" : 0,
+  "oid" : 342226,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318111196,
+  "publicationGroup" : 238861,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318111172,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 244091,
+  "totalTimesRated" : 0,
+  "viewCount" : 445,
+  "viewLastModified" : 1363713506,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2988585,
+    "name" : "OrganizationName",
+    "dataTypeName" : "text",
+    "fieldName" : "organizationname",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502143,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "100 Hispanic Women, Inc.",
+      "null" : 0,
+      "largest" : "YWCA of the City of New York",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Glenridge Senior Citizen Center"
+      }, {
+        "count" : 19,
+        "item" : "Global Alliance for Women's Health"
+      }, {
+        "count" : 18,
+        "item" : "Global Kids"
+      }, {
+        "count" : 17,
+        "item" : "Goddard-Riverside Community Center"
+      }, {
+        "count" : 16,
+        "item" : "Goodwill Industries of Greater New York"
+      }, {
+        "count" : 15,
+        "item" : "Greater Chinatown Community Association"
+      }, {
+        "count" : 14,
+        "item" : "Greater Ridgewood Youth Council, Inc."
+      }, {
+        "count" : 13,
+        "item" : "Green Chimneys Children's Services"
+      }, {
+        "count" : 12,
+        "item" : "Greenwich Village Youth Council"
+      }, {
+        "count" : 11,
+        "item" : "Groundwork Inc,"
+      }, {
+        "count" : 10,
+        "item" : "Growth and Development Services, Inc"
+      }, {
+        "count" : 9,
+        "item" : "Guardians of the Sick, Inc."
+      }, {
+        "count" : 8,
+        "item" : "Hadassah--The Women's Zionist Organization of America"
+      }, {
+        "count" : 7,
+        "item" : "Haitian American Day Care Center"
+      }, {
+        "count" : 6,
+        "item" : "Harlem Branch YWCA/NYC"
+      }, {
+        "count" : 5,
+        "item" : "Harlem Educational Activities Fund, Inc."
+      }, {
+        "count" : 4,
+        "item" : "Heartshare Human Services"
+      }, {
+        "count" : 3,
+        "item" : "Helen Keller Services for the Blind"
+      }, {
+        "count" : 2,
+        "item" : "Hemophilia Association of New York, Inc."
+      }, {
+        "count" : 1,
+        "item" : "Henry Street Settlement, Inc."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988586,
+    "name" : "Brooklyn",
+    "dataTypeName" : "text",
+    "fieldName" : "brooklyn",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502144,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Y"
+      }, {
+        "count" : 19,
+        "item" : "N"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988587,
+    "name" : "Bronx",
+    "dataTypeName" : "text",
+    "fieldName" : "bronx",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502145,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988588,
+    "name" : "Manhattan",
+    "dataTypeName" : "text",
+    "fieldName" : "manhattan",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502146,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Y"
+      }, {
+        "count" : 19,
+        "item" : "N"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988589,
+    "name" : "Queens",
+    "dataTypeName" : "text",
+    "fieldName" : "queens",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502147,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988590,
+    "name" : "Staten Island",
+    "dataTypeName" : "text",
+    "fieldName" : "staten_island",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502148,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Y"
+      }, {
+        "count" : 19,
+        "item" : "N"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988591,
+    "name" : "Fax",
+    "dataTypeName" : "number",
+    "fieldName" : "fax",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502149,
+    "width" : 136,
+    "cachedContents" : {
+      "non_null" : 474,
+      "smallest" : "2122067836",
+      "sum" : "2121437538191",
+      "null" : 496,
+      "average" : "4475606620.656118",
+      "largest" : "9733792437",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2125950679"
+      }, {
+        "count" : 19,
+        "item" : "7182946237"
+      }, {
+        "count" : 18,
+        "item" : "2129879132"
+      }, {
+        "count" : 17,
+        "item" : "2126899010"
+      }, {
+        "count" : 16,
+        "item" : "7189359173"
+      }, {
+        "count" : 15,
+        "item" : "7189321027"
+      }, {
+        "count" : 14,
+        "item" : "2125861611"
+      }, {
+        "count" : 13,
+        "item" : "2124658637"
+      }, {
+        "count" : 12,
+        "item" : "2128171593"
+      }, {
+        "count" : 11,
+        "item" : "7185905814"
+      }, {
+        "count" : 10,
+        "item" : "7189805022"
+      }, {
+        "count" : 9,
+        "item" : "2128382275"
+      }, {
+        "count" : 8,
+        "item" : "2127326945"
+      }, {
+        "count" : 7,
+        "item" : "2128526509"
+      }, {
+        "count" : 6,
+        "item" : "7185905866"
+      }, {
+        "count" : 5,
+        "item" : "7184177053"
+      }, {
+        "count" : 4,
+        "item" : "2122869561"
+      }, {
+        "count" : 3,
+        "item" : "2123038282"
+      }, {
+        "count" : 2,
+        "item" : "2126784212"
+      }, {
+        "count" : 1,
+        "item" : "7189359463"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988592,
+    "name" : "Phone",
+    "dataTypeName" : "number",
+    "fieldName" : "phone",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502150,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 922,
+      "smallest" : "2025888277",
+      "sum" : "4191830402546",
+      "null" : 48,
+      "average" : "4546453798.856833",
+      "largest" : "9178170763",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2126399675"
+      }, {
+        "count" : 19,
+        "item" : "2127609800"
+      }, {
+        "count" : 18,
+        "item" : "2125175937"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988593,
+    "name" : "URL",
+    "dataTypeName" : "text",
+    "fieldName" : "url",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502151,
+    "width" : 136,
+    "cachedContents" : {
+      "non_null" : 716,
+      "smallest" : "http://...www.latinoaids.org",
+      "null" : 254,
+      "largest" : "http://ywcanyc.org",
+      "top" : [ {
+        "count" : 20,
+        "item" : "http://www.ftnys.org/"
+      }, {
+        "count" : 19,
+        "item" : "http://www.feministpress.org"
+      }, {
+        "count" : 18,
+        "item" : "http://www.fwi.org"
+      }, {
+        "count" : 17,
+        "item" : "http://www.flushingchristianschool.com/"
+      }, {
+        "count" : 16,
+        "item" : "http://www.freewebs.com/fcvac/"
+      }, {
+        "count" : 15,
+        "item" : "http://fhvac.org/index.php"
+      }, {
+        "count" : 14,
+        "item" : "http://www.freedomfromfear.org/"
+      }, {
+        "count" : 13,
+        "item" : "http://www.freedominstitute.org/"
+      }, {
+        "count" : 12,
+        "item" : "http://www.fria.org/index.shtml"
+      }, {
+        "count" : 11,
+        "item" : "http://www.gamblersanonymous.org/mtgdirNY.html"
+      }, {
+        "count" : 10,
+        "item" : "http://www.gawh.org"
+      }, {
+        "count" : 9,
+        "item" : "http://www.hadassah.org"
+      }, {
+        "count" : 8,
+        "item" : "http://www.ymcanyc.org/sub.php?p=about&sp=harlem/harlemabout"
+      }, {
+        "count" : 7,
+        "item" : "http://www.helenkeller.org/"
+      }, {
+        "count" : 6,
+        "item" : "http://www.hemophilia-newyork.org"
+      }, {
+        "count" : 5,
+        "item" : "http://www.hmi.org"
+      }, {
+        "count" : 4,
+        "item" : "http://www.homecrest.org"
+      }, {
+        "count" : 3,
+        "item" : "http://www.hfny.org"
+      }, {
+        "count" : 2,
+        "item" : "http://www.healnatl.org/"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988594,
+    "name" : "noURL",
+    "dataTypeName" : "text",
+    "fieldName" : "nourl",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502152,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 699,
+      "smallest" : "N",
+      "null" : 271,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988595,
+    "name" : "Description",
+    "dataTypeName" : "text",
+    "fieldName" : "description",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502153,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 639,
+      "smallest" : " ",
+      "null" : 331,
+      "largest" : "Youth Represent provides full legal representation to youth age 24 and under when they get arrested for committing a crime.  We represent youth in criminal court and family court, and in other legal problems stemming from an arrest, including school suspension hearings, housing evictions, and employment discrimination actions. Please call for an appointment.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Common Cause is a nonpartisan, nonprofit advocacy organization founded in 1970 by John Gardner as a vehicle for citizens to make their voices heard in the political process and to hold their elected leaders accountable to the public interest.  Now with nearly 400,000 members and supporters and 36 state organizations, Common Cause remains committed to honest, open and accountable government, as well as encouraging citizen participation in democracy."
+      }, {
+        "count" : 19,
+        "item" : "Founded in 1982, Community Counseling & Mediation (CCM) is an innovative, community-based social service organization providing a wide range of social support, counseling, health, mental health, education and supportive housing services to 7500 at-risk children, youth and family members in some of the poorest minority populated areas of Brooklyn."
+      }, {
+        "count" : 18,
+        "item" : "The Community Environmental Center (CEC) was founded in 1994 to address the housing concerns of low and middle-income communities.  Since then we have grown into the largest non-profit energy conservation organization in the state and a major provider of "
+      }, {
+        "count" : 17,
+        "item" : "Our youth development program, Teens P.A.C.T. (Positive Actions and Choices for Teens), provides confidential health services and a weekly Teen Lounge. The program's guiding philosophy is: Help youth become productive adults capable of making life-affirmi"
+      }, {
+        "count" : 16,
+        "item" : "Since 1952, the Community League of the Heights â€“ CLOTH has been dedicated to the improvement of the quality of life for residents of the Southern Washington Heights area. Our mission encompasses advocacy, organizing and providing of services related to decent affordable housing, education, health, youth services and neighborhood improvement."
+      }, {
+        "count" : 15,
+        "item" : "Community Impact is 501(c)3 nonprofit organization located at Columbia University. Community Impact (CI) serves disadvantaged people in the Harlem, Washington Heights, and Morningside Heights communities. Community Impact strives to provide high quality programs, advance the public good, and foster meaningful volunteer opportunities for students, faculty, and staff of Columbia University. CI provides food, clothing, shelter, education, job training, and companionship for residents in its surrounding communities. CI consists of a dedicated corps of more than 950 Columbia University student volunteers participating in 25 community service programs, which serve more than 8,000 people each year. Community Impact has partnerships with more than 100 community organizations and agencies who do service work in the Harlem, Washington Heights, and Morningside Heights communities, including service organizations, social service offices, religious institutions, senior centers and schools. Many of these organizations refer their clients to Community Impact's programs and work collaboratively to positively influence residents' lives."
+      }, {
+        "count" : 14,
+        "item" : "Community Voices Heard (CVH) is an organization of low-income people, predominantly women with experience on welfare, working to build power in New York City and State to improve the lives of our families and communities. We are working to accomplish this through a multi-pronged strategy, including public education, grassroots organizing, leadership development, training low-income people about their rights, political education, civic engagement and direct-action issue campaigns. We are currently working on welfare reform, job creation, public housing and other economic justice issues that affect low-income people, particularly low-income women of color."
+      }, {
+        "count" : 13,
+        "item" : "Concord Family Services is a culturally sensitive community based agency providing a wide range of family services and youth/community development programs to the Bedford Stuyvesant Community of Central Brooklyn. Concord emanated out of the Concord Baptist church of Christ, Inc., founded in 1847 and is one of the oldest and largest African-American churches in the country. The agency was incorporated on January 1st, 1990 in response to a community need for comprehensive social, case management and support services directed to foster care children and their families. Its original mission was to rebuild the Bedford Stuyvesant Community through provision of family, foster care and adoption services that would strength the community and family unit fostering self-sufficiency and preventing re-entry of children into the foster care system."
+      }, {
+        "count" : 12,
+        "item" : "Congregation Beth Simchat Torah is committed to the idea that gay, lesbian, bisexual, and transgender Jews are wholly legitimate members of the Jewish people, are equally legitimate members of civil society, and have a unique and essential contribution to make to the life of Judaism and society. It is this commitment to social justice and gender equality that has also attracted straight and even non-Jewish adults to our community."
+      }, {
+        "count" : 11,
+        "item" : "The Corona Community Ambulance Corps, Inc. (affectionately known as Corona Volunteer Ambulance Corps) is comprised of a dedicated group of medical professionals who have resolved to bring quality emergency medical services to the Community of Corona, Queens, and we have been doing so since May 1960. Corona Community Ambulance Corps, Inc. is an IRS 501c3 Non-profit agency, a New York State Office of Charities Charitable Organization, a New York State Department of Health Bureau of EMS Certifiend Ambulance Service, and a New York State Tax-Exempt agency."
+      }, {
+        "count" : 10,
+        "item" : "Corporate Angel Network is the only charitable organization in the USA whose sole mission is to ease the emotional stress, physical discomfort and financial burden of travel for cancer patients by arranging free flights to treatment centers, using the empty seats on corporate aircraft flying on routine business."
+      }, {
+        "count" : 9,
+        "item" : "Covenant House New York is the nations largest adolescent care agency serving homeless, runaway and at-risk youth. Our doors are open 24 hours a day for youth in need. Each year nearly 7,000 youth seek out our Crisis and Community Centers for safety, shelter, food, and someone to talk to â€“ and thatâ€™s just the beginning!"
+      }, {
+        "count" : 8,
+        "item" : "Daytop provides services for those who seek help with life's problems compounded by substance abuse. Over 100,000 individuals have reclaimed their lives with assistance of the program."
+      }, {
+        "count" : 7,
+        "item" : "Delta Sigma Theta Sorority, Inc. is a private, non-profit organization whose purpose is to provide assistance and support through established programs in local communities throughout the world. A sisterhood of more than 200,000 predominately Black college"
+      }, {
+        "count" : 6,
+        "item" : "Our Department of Family and Children Services (F&CS) aims to provide strength-based family support to the immigrant and underserved populations in the East Harlem and Harlem Communities. Our primary goal is keeping children safe in their homes with their biological parents, preventing the placement or re-entry of these children into the foster care system."
+      }, {
+        "count" : 5,
+        "item" : "STRIVE/East Harlem Employment Service, Inc. will provide technical assistance and ongoing support to 15 employers and labor unions, affecting 100 women in the New York City Empowerment Zone/Economic Communities who are returning to work from welfare."
+      }, {
+        "count" : 4,
+        "item" : "To accelerate social change, Echoing Green invests in and supports outstanding emerging social entrepreneurs to launch new organizations that deliver bold, high-impact solutions. Through a two-year fellowship program, we help our network of visionaries develop new solutions to societyâ€™s most difficult problems. These social entrepreneurs and their organizations work to solve deeply-rooted social, environmental, economic, and political inequities to ensure equal access and to help all individuals reach their potential."
+      }, {
+        "count" : 3,
+        "item" : "ECPAT was initially organized as the campaign to End Child Prostitution in Asian Tourism by a group of NGO workers and other concerned individuals in Asia. By 1996, the rapid international growth of commercial sexual exploitation of children demanded a response. ECPAT widened its scope of work to encompass all issues of child sexual exploitation, including pornography and the trafficking of children for sexual purposes, and to broaden its focus to become a global campaign."
+      }, {
+        "count" : 2,
+        "item" : "Since its inception in 1977, the Employment Program for Recovered Alcoholics (501.c.3) has provided the vocational rehabilitation link to a successful recovery process from the disease of alcoholism and substance abuse.   Studies have consistently demonstrated that job stability is a key factor in establishing long-term sobriety.  EPRA graduates are enabled to return to meaningful work, get off public assistance, pay taxes, and maintain long-term sobriety."
+      }, {
+        "count" : 1,
+        "item" : "EngenderHealth is a leading international reproductive health organization working to improve the quality of health care in the worldâ€™s poorest communities. EngenderHealth empowers people to make informed choices about contraception, trains health providers to make motherhood safer, promotes gender equity, enhances the quality of HIV and AIDS services, and advocates for positive policy change. The non-profit organization works in partnership with governments, institutions, communities, and health care professionals in more than 25 countries around the world. Over 65 years, EngenderHealth has reached more than 100 million people to help them realize a better life."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988596,
+    "name" : "outsideLoc",
+    "dataTypeName" : "text",
+    "fieldName" : "outsideloc",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502154,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 538,
+      "smallest" : "Californa",
+      "null" : 432,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      }, {
+        "count" : 18,
+        "item" : "Californa"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988597,
+    "name" : "outsideLocDesc",
+    "dataTypeName" : "text",
+    "fieldName" : "outsidelocdesc",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502155,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 62,
+      "smallest" : "1001 East Pierce St, Pheonix, AZ 85006",
+      "null" : 908,
+      "largest" : "YSC has 30 local affiliates across the United States.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Washington, DC"
+      }, {
+        "count" : 19,
+        "item" : "Long Island"
+      }, {
+        "count" : 18,
+        "item" : "Albany, Rochester "
+      }, {
+        "count" : 17,
+        "item" : "Atlanta, Phoenix, Seattle, Washington DC, Austin, Dallas, Philadelphia, Charlotte, Denver, Detroit, Portland, Indianapolis"
+      }, {
+        "count" : 16,
+        "item" : "Nationwide"
+      }, {
+        "count" : 15,
+        "item" : "Hicksville, NY"
+      }, {
+        "count" : 14,
+        "item" : "Long Island, Westchester, Great Neck"
+      }, {
+        "count" : 13,
+        "item" : "Chicago, Los Angeles"
+      }, {
+        "count" : 12,
+        "item" : "across the US"
+      }, {
+        "count" : 11,
+        "item" : "CT, DC, NJ, PA, FL"
+      }, {
+        "count" : 10,
+        "item" : "NJ, CT, DC"
+      }, {
+        "count" : 9,
+        "item" : "Las Vegas, Nevada"
+      }, {
+        "count" : 8,
+        "item" : "Washington, D.C.; Boston; Atlanta; San Antonio; Chicago"
+      }, {
+        "count" : 7,
+        "item" : "YSC has 30 local affiliates across the United States."
+      }, {
+        "count" : 6,
+        "item" : "Nation-wide"
+      }, {
+        "count" : 5,
+        "item" : "Chicago"
+      }, {
+        "count" : 4,
+        "item" : "Albany"
+      }, {
+        "count" : 3,
+        "item" : "Albany and Weschester"
+      }, {
+        "count" : 2,
+        "item" : "Nairobi, London"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988598,
+    "name" : "Aging",
+    "dataTypeName" : "text",
+    "fieldName" : "aging",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502156,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988599,
+    "name" : "Anti-Discrimination & Human Rights",
+    "dataTypeName" : "text",
+    "fieldName" : "anti_discrimination_human_rights",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502157,
+    "width" : 508,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988600,
+    "name" : "Arts & Culture",
+    "dataTypeName" : "text",
+    "fieldName" : "arts_culture",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502158,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988601,
+    "name" : "Business",
+    "dataTypeName" : "text",
+    "fieldName" : "business",
+    "position" : 18,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502159,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988602,
+    "name" : "Child Care & Parent Information",
+    "dataTypeName" : "text",
+    "fieldName" : "child_care_parent_information",
+    "position" : 19,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502160,
+    "width" : 472,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Y"
+      }, {
+        "count" : 19,
+        "item" : "N"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988603,
+    "name" : "Community Service & Volunteerism",
+    "dataTypeName" : "text",
+    "fieldName" : "community_service_volunteerism",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502161,
+    "width" : 484,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988604,
+    "name" : "Counseling & Support Groups",
+    "dataTypeName" : "text",
+    "fieldName" : "counseling_support_groups",
+    "position" : 21,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502162,
+    "width" : 424,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Y"
+      }, {
+        "count" : 19,
+        "item" : "N"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988605,
+    "name" : "Disabilities",
+    "dataTypeName" : "text",
+    "fieldName" : "disabilities",
+    "position" : 22,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502163,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988606,
+    "name" : "Domestic Violence",
+    "dataTypeName" : "text",
+    "fieldName" : "domestic_violence",
+    "position" : 23,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502164,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988607,
+    "name" : "Education",
+    "dataTypeName" : "text",
+    "fieldName" : "education",
+    "position" : 24,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502165,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988608,
+    "name" : "Employment & Job Training",
+    "dataTypeName" : "text",
+    "fieldName" : "employment_job_training",
+    "position" : 25,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502166,
+    "width" : 400,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Y"
+      }, {
+        "count" : 19,
+        "item" : "N"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988609,
+    "name" : "Health",
+    "dataTypeName" : "text",
+    "fieldName" : "health",
+    "position" : 26,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502167,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988610,
+    "name" : "Homelessness",
+    "dataTypeName" : "text",
+    "fieldName" : "homelessness",
+    "position" : 27,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502168,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988611,
+    "name" : "Housing",
+    "dataTypeName" : "text",
+    "fieldName" : "housing",
+    "position" : 28,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502169,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988612,
+    "name" : "Immigration",
+    "dataTypeName" : "text",
+    "fieldName" : "immigration",
+    "position" : 29,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502170,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988613,
+    "name" : "Legal Services",
+    "dataTypeName" : "text",
+    "fieldName" : "legal_services",
+    "position" : 30,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502171,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988614,
+    "name" : "Lesbian, Gay, Bisexual, and/or Transgender",
+    "dataTypeName" : "text",
+    "fieldName" : "lesbian_gay_bisexual_and_or_transgender",
+    "position" : 31,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502172,
+    "width" : 604,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988615,
+    "name" : "Personal Finance & Financial Education",
+    "dataTypeName" : "text",
+    "fieldName" : "personal_finance_financial_education",
+    "position" : 32,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502173,
+    "width" : 556,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988616,
+    "name" : "Professional Association",
+    "dataTypeName" : "text",
+    "fieldName" : "professional_association",
+    "position" : 33,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502174,
+    "width" : 388,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988617,
+    "name" : "Veterans & Military Families",
+    "dataTypeName" : "text",
+    "fieldName" : "veterans_military_families",
+    "position" : 34,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502175,
+    "width" : 436,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988618,
+    "name" : "Victim Services",
+    "dataTypeName" : "text",
+    "fieldName" : "victim_services",
+    "position" : 35,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502176,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988619,
+    "name" : "Women's Groups",
+    "dataTypeName" : "text",
+    "fieldName" : "women_s_groups",
+    "position" : 36,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502177,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 970
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988620,
+    "name" : "Youth Services",
+    "dataTypeName" : "text",
+    "fieldName" : "youth_services",
+    "position" : 37,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502178,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Y"
+      }, {
+        "count" : 19,
+        "item" : "N"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988621,
+    "name" : "Faith-based organization",
+    "dataTypeName" : "text",
+    "fieldName" : "faith_based_organization",
+    "position" : 38,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502179,
+    "width" : 388,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "N",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988622,
+    "name" : "Foundation",
+    "dataTypeName" : "text",
+    "fieldName" : "foundation",
+    "position" : 39,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502180,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "N",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988623,
+    "name" : "Is registered with the Attorney General's office",
+    "dataTypeName" : "text",
+    "fieldName" : "is_registered_with_the_attorney_general_s_office",
+    "position" : 40,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502181,
+    "width" : 676,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "N",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988624,
+    "name" : "New York City Agency",
+    "dataTypeName" : "text",
+    "fieldName" : "new_york_city_agency",
+    "position" : 41,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502182,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988625,
+    "name" : "None of the above",
+    "dataTypeName" : "text",
+    "fieldName" : "none_of_the_above",
+    "position" : 42,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502183,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988626,
+    "name" : "Nonprofit",
+    "dataTypeName" : "text",
+    "fieldName" : "nonprofit",
+    "position" : 43,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502184,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Y"
+      }, {
+        "count" : 19,
+        "item" : "N"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988627,
+    "name" : "Comments",
+    "dataTypeName" : "text",
+    "fieldName" : "comments",
+    "position" : 44,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502185,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 970
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988628,
+    "name" : "Other government organization",
+    "dataTypeName" : "text",
+    "fieldName" : "other_government_organization",
+    "position" : 45,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502186,
+    "width" : 448,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "N",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988629,
+    "name" : "Published",
+    "dataTypeName" : "text",
+    "fieldName" : "published",
+    "position" : 46,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502187,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 970,
+      "smallest" : "Published",
+      "null" : 0,
+      "largest" : "Published",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Published"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988630,
+    "name" : "Location 1",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 47,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1502188,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 75,
+      "smallest" : {
+        "longitude" : "-74.84546502698936",
+        "latitude" : "41.803259577667404",
+        "human_address" : "{\"address\":\"1 White Lake\",\"city\":\"\",\"state\":\"\",\"zip\":\"12787\"}"
+      },
+      "null" : 895,
+      "largest" : {
+        "longitude" : "-74.01330799986425",
+        "latitude" : "40.70545600039418",
+        "human_address" : "{\"address\":\"867 New York\",\"city\":\"\",\"state\":\"\",\"zip\":\"10274\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "human_address" : "{\"address\":\"301 New York\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-76.62820337398648",
+          "latitude" : "42.67145535028425",
+          "human_address" : "{\"address\":\"353 Kings Ferry\",\"city\":\"\",\"state\":\"\",\"zip\":\"13081\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.99688630375988",
+          "latitude" : "40.75025902143676",
+          "human_address" : "{\"address\":\"10A New York\",\"city\":\"\",\"state\":\"\",\"zip\":\"10001\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.99789641059084",
+          "latitude" : "40.72553802086304",
+          "human_address" : "{\"address\":\"321 New York\",\"city\":\"\",\"state\":\"\",\"zip\":\"10012\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-74.00307186237649",
+          "latitude" : "40.70935929189784",
+          "human_address" : "{\"address\":\"305 New York\",\"city\":\"\",\"state\":\"\",\"zip\":\"10038\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.959183941086",
+          "latitude" : "40.76920532766377",
+          "human_address" : "{\"address\":\"404 New York\",\"city\":\"\",\"state\":\"\",\"zip\":\"10021\"}"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.96653900057436",
+          "latitude" : "40.78362556816552",
+          "human_address" : "{\"address\":\"14E New York\",\"city\":\"\",\"state\":\"\",\"zip\":\"10024\"}"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-74.00460000028977",
+          "latitude" : "40.74471526669623",
+          "human_address" : "{\"address\":\"30954 NY\",\"city\":\"\",\"state\":\"\",\"zip\":\"10011\"}"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.959183941086",
+          "latitude" : "40.76920532766377",
+          "human_address" : "{\"address\":\"156 New York\",\"city\":\"\",\"state\":\"\",\"zip\":\"10021\"}"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.92761792792498",
+          "latitude" : "40.69128803951145",
+          "human_address" : "{\"address\":\"210529 Brooklyn\",\"city\":\"\",\"state\":\"\",\"zip\":\"11221\"}"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.96653900057436",
+          "latitude" : "40.78362556816552",
+          "human_address" : "{\"address\":\"133 New York\",\"city\":\"\",\"state\":\"\",\"zip\":\"10024\"}"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-115.15414999982261",
+          "latitude" : "36.17715900038763",
+          "human_address" : "{\"address\":\"270239 Las Vegas\",\"city\":\"\",\"state\":\"\",\"zip\":\"89127\"}"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.9233322114124",
+          "latitude" : "40.83772426336412",
+          "human_address" : "{\"address\":\"2 Bronx\",\"city\":\"\",\"state\":\"\",\"zip\":\"10452\"}"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.94276530357587",
+          "latitude" : "40.81843517604261",
+          "human_address" : "{\"address\":\"118 New York\",\"city\":\"\",\"state\":\"\",\"zip\":\"10030\"}"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.77530690169215",
+          "latitude" : "40.6769452621142",
+          "human_address" : "{\"address\":\"340316 Jamaica\",\"city\":\"\",\"state\":\"\",\"zip\":\"11434\"}"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.959183941086",
+          "latitude" : "40.76920532766377",
+          "human_address" : "{\"address\":\"1313A New York\",\"city\":\"\",\"state\":\"\",\"zip\":\"10021\"}"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.93777090780111",
+          "latitude" : "40.82668192862815",
+          "human_address" : "{\"address\":\"18I New York\",\"city\":\"\",\"state\":\"\",\"zip\":\"10039\"}"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.989860554421",
+          "latitude" : "40.75934682719435",
+          "human_address" : "{\"address\":\"1108 New York\",\"city\":\"\",\"state\":\"\",\"zip\":\"10036\"}"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.91931750020245",
+          "latitude" : "40.79381703542788",
+          "human_address" : "{\"address\":\"672 New York\",\"city\":\"\",\"state\":\"\",\"zip\":\"10035\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-73.98289845639863",
+          "latitude" : "40.73914078212147",
+          "human_address" : "{\"address\":\"500 New York\",\"city\":\"\",\"state\":\"\",\"zip\":\"10010\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 2988631,
+    "name" : "Location 2",
+    "dataTypeName" : "location",
+    "fieldName" : "location_2",
+    "position" : 48,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1502189,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : {
+        "longitude" : "-77.08652245456473",
+        "latitude" : "38.9601120530775",
+        "human_address" : "{\"address\":\"135 Western Ave\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+      },
+      "null" : 967,
+      "largest" : {
+        "longitude" : "-73.82147854789662",
+        "latitude" : "40.7512997969481",
+        "human_address" : "{\"address\":\"520032 Flushing\",\"city\":\"New York\",\"state\":\"\",\"zip\":\"11355\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.9889295313273",
+          "latitude" : "40.73957824137875",
+          "human_address" : "{\"address\":\"24 21 St\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"10010\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.82147854789662",
+          "latitude" : "40.7512997969481",
+          "human_address" : "{\"address\":\"520032 Flushing\",\"city\":\"New York\",\"state\":\"\",\"zip\":\"11355\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-77.08652245456473",
+          "latitude" : "38.9601120530775",
+          "human_address" : "{\"address\":\"135 Western Ave\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "jobs and economic mobility", "women", "woman", "family", "families", "resource", "network" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,207 @@
+{
+  "id" : "bmxf-3rd4",
+  "name" : "Directory Of Homeless Drop- In Centers",
+  "attribution" : "Department of Homeless Services (DHS)",
+  "attributionLink" : "http://www.nyc.gov/html/dhs/html/outreach/outreach.shtml",
+  "averageRating" : 0,
+  "category" : "Social Services",
+  "createdAt" : 1359585577,
+  "description" : "List of centers where homeless people are provided with hot meals, showers, medical help and a place to sleep",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2386792,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359585836,
+  "publicationGroup" : 646850,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1359585581,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 646850,
+  "totalTimesRated" : 0,
+  "viewCount" : 46,
+  "viewLastModified" : 1359585978,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 42105242,
+    "name" : "Center Name",
+    "dataTypeName" : "text",
+    "fieldName" : "center_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7410829,
+    "width" : 173,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "Mainchance",
+      "null" : 0,
+      "largest" : "The Living Room ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Mainchance"
+      }, {
+        "count" : 19,
+        "item" : "The Living Room "
+      }, {
+        "count" : 18,
+        "item" : "Olivieri Center"
+      }, {
+        "count" : 17,
+        "item" : "The Gathering Place"
+      }, {
+        "count" : 16,
+        "item" : "Project Hospitality"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42105243,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7410830,
+    "width" : 127,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Manhattan"
+      }, {
+        "count" : 19,
+        "item" : "Bronx"
+      }, {
+        "count" : 18,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 17,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42105245,
+    "name" : "Location",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 3,
+    "renderTypeName" : "location",
+    "tableColumnId" : 7410832,
+    "width" : 161,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : {
+        "human_address" : "{\"address\":\"120 East 32nd Street\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+      },
+      "null" : 0,
+      "largest" : {
+        "human_address" : "{\"address\":\"257 West 30th Street\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "human_address" : "{\"address\":\"120 East 32nd Street\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "human_address" : "{\"address\":\"1241 Lafayette Avenue\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "human_address" : "{\"address\":\"257 West 30th Street\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "human_address" : "{\"address\":\"2402 Atlantic Avenue\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "human_address" : "{\"address\":\"25 Central Avenue\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      } ]
+    },
+    "format" : {
+      "align" : "left",
+      "view" : "address_coords"
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 42105244,
+    "name" : "Comments",
+    "dataTypeName" : "text",
+    "fieldName" : "comments",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7410831,
+    "width" : 499,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "Open 24 hours",
+      "null" : 0,
+      "largest" : "Open from 7:30 a.m.-8:30 p.m. This program remain open 24 hours during winter months",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Open 24 hours"
+      }, {
+        "count" : 19,
+        "item" : "Open from 7:30 a.m.-8:30 p.m. This program remain open 24 hours during winter months"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dhs", "homeless", "shelter", "drop-in", "center" ],
+  "flags" : [ "default" ]
+}

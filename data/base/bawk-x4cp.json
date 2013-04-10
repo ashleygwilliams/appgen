@@ -1,0 +1,819 @@
+{
+  "id" : "bawk-x4cp",
+  "name" : "TLC Medallions (Contact Information)",
+  "attribution" : "Taxi and Limousine Commission (TLC)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1336501843,
+  "description" : "Contact information for Taxi and Limousine Commission (TLC) garages and agents.",
+  "displayType" : "table",
+  "downloadCount" : 140,
+  "numberOfComments" : 0,
+  "oid" : 664451,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1336502105,
+  "publicationGroup" : 336532,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1336502019,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 336532,
+  "totalTimesRated" : 0,
+  "viewCount" : 160,
+  "viewLastModified" : 1344375038,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 9065078,
+    "name" : "Medallion Number",
+    "dataTypeName" : "text",
+    "fieldName" : "medallion_number",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2804869,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 13102,
+      "smallest" : "1A10",
+      "null" : 0,
+      "largest" : "9Y99",
+      "top" : [ {
+        "count" : 20,
+        "item" : "9Y77"
+      }, {
+        "count" : 19,
+        "item" : "9Y78"
+      }, {
+        "count" : 18,
+        "item" : "9Y79"
+      }, {
+        "count" : 17,
+        "item" : "9Y80"
+      }, {
+        "count" : 16,
+        "item" : "9Y81"
+      }, {
+        "count" : 15,
+        "item" : "9Y82"
+      }, {
+        "count" : 14,
+        "item" : "9Y83"
+      }, {
+        "count" : 13,
+        "item" : "9Y84"
+      }, {
+        "count" : 12,
+        "item" : "9Y85"
+      }, {
+        "count" : 11,
+        "item" : "9Y86"
+      }, {
+        "count" : 10,
+        "item" : "9Y87"
+      }, {
+        "count" : 9,
+        "item" : "9Y88"
+      }, {
+        "count" : 8,
+        "item" : "9Y89"
+      }, {
+        "count" : 7,
+        "item" : "9Y90"
+      }, {
+        "count" : 6,
+        "item" : "9Y91"
+      }, {
+        "count" : 5,
+        "item" : "9Y92"
+      }, {
+        "count" : 4,
+        "item" : "9Y93"
+      }, {
+        "count" : 3,
+        "item" : "9Y94"
+      }, {
+        "count" : 2,
+        "item" : "9Y95"
+      }, {
+        "count" : 1,
+        "item" : "9Y96"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 9065079,
+    "name" : "Garage/Agent",
+    "dataTypeName" : "text",
+    "fieldName" : "garage_agent",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2804870,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 13102,
+      "smallest" : "2000 MANAGEMENT INC",
+      "null" : 0,
+      "largest" : "YELLOW CAB SLS JET MANAGEMENT CORP",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NO AGENT"
+      }, {
+        "count" : 19,
+        "item" : "WOODSIDE MANAGEMENT INC"
+      }, {
+        "count" : 18,
+        "item" : "JTL MANAGEMENT INC"
+      }, {
+        "count" : 17,
+        "item" : "TAXIFLEET MANAGEMENT LLC"
+      }, {
+        "count" : 16,
+        "item" : "SUSAN MAINTENANCE CORP"
+      }, {
+        "count" : 15,
+        "item" : "ALL TAXI MANAGEMENT INC"
+      }, {
+        "count" : 14,
+        "item" : "QUEENS MEDALLION LEASING INC"
+      }, {
+        "count" : 13,
+        "item" : "RADAS MANAGEMENT CORP - BIG APPLE BROKERAGE"
+      }, {
+        "count" : 12,
+        "item" : "GREEN APPLE MANAGEMENT CORP"
+      }, {
+        "count" : 11,
+        "item" : "TEAM SYSTEMS CORP"
+      }, {
+        "count" : 10,
+        "item" : "UNITED MANAGEMENT GROUP INC"
+      }, {
+        "count" : 9,
+        "item" : "28TH STREET MANAGEMENT"
+      }, {
+        "count" : 8,
+        "item" : "ARTHUR CAB LEASING CORP"
+      }, {
+        "count" : 7,
+        "item" : "MC GUINNESS MANAGEMENT CORP"
+      }, {
+        "count" : 6,
+        "item" : "STYLE MANAGEMENT CORP"
+      }, {
+        "count" : 5,
+        "item" : "CHECKER MANAGEMENT"
+      }, {
+        "count" : 4,
+        "item" : "S&R MEDALLION CORP"
+      }, {
+        "count" : 3,
+        "item" : "AVENUE M MANAGEMENT CORP"
+      }, {
+        "count" : 2,
+        "item" : "AJB TAXI MANAGEMENT INC"
+      }, {
+        "count" : 1,
+        "item" : "WAILING MANAGEMENT INC"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 9065080,
+    "name" : "Telephone",
+    "dataTypeName" : "text",
+    "fieldName" : "telephone",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2804871,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 8485,
+      "smallest" : "212-244-6553",
+      "null" : 4617,
+      "largest" : "917-578-1240",
+      "top" : [ {
+        "count" : 20,
+        "item" : "718-899-9369"
+      }, {
+        "count" : 19,
+        "item" : "718-392-7000"
+      }, {
+        "count" : 18,
+        "item" : "718-779-5000"
+      }, {
+        "count" : 17,
+        "item" : "718-222-4040"
+      }, {
+        "count" : 16,
+        "item" : "718-361-0055"
+      }, {
+        "count" : 15,
+        "item" : "718-932-3312"
+      }, {
+        "count" : 14,
+        "item" : "718-784-9292"
+      }, {
+        "count" : 13,
+        "item" : "718-397-0504"
+      }, {
+        "count" : 12,
+        "item" : "718-361-5555"
+      }, {
+        "count" : 11,
+        "item" : "718-786-0640"
+      }, {
+        "count" : 10,
+        "item" : "718-392-4600"
+      }, {
+        "count" : 9,
+        "item" : "212-244-6553"
+      }, {
+        "count" : 8,
+        "item" : "718-392-3013"
+      }, {
+        "count" : 7,
+        "item" : "718-389-4486"
+      }, {
+        "count" : 6,
+        "item" : "212-279-3166"
+      }, {
+        "count" : 5,
+        "item" : "718-361-6300"
+      }, {
+        "count" : 4,
+        "item" : "212-957-9200"
+      }, {
+        "count" : 3,
+        "item" : "718-627-7097"
+      }, {
+        "count" : 2,
+        "item" : "212-956-3177"
+      }, {
+        "count" : 1,
+        "item" : "718-472-1800"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 9065081,
+    "name" : "Cross Streets",
+    "dataTypeName" : "text",
+    "fieldName" : "cross_streets",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2804872,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 13102
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 9065082,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2804873,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 8485,
+      "smallest" : "Bronx",
+      "null" : 4617,
+      "largest" : "Queens",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Queens"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Manhattan"
+      }, {
+        "count" : 17,
+        "item" : "Bronx"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 9065083,
+    "name" : "Zip Code",
+    "dataTypeName" : "number",
+    "fieldName" : "zip_code",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 2804874,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 8485,
+      "smallest" : "10001",
+      "sum" : "93344406",
+      "null" : 4617,
+      "average" : "11001.10854449028",
+      "largest" : "11377",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11377"
+      }, {
+        "count" : 19,
+        "item" : "11101"
+      }, {
+        "count" : 18,
+        "item" : "11215"
+      }, {
+        "count" : 17,
+        "item" : "11103"
+      }, {
+        "count" : 16,
+        "item" : "11218"
+      }, {
+        "count" : 15,
+        "item" : "11106"
+      }, {
+        "count" : 14,
+        "item" : "11232"
+      }, {
+        "count" : 13,
+        "item" : "10001"
+      }, {
+        "count" : 12,
+        "item" : "11222"
+      }, {
+        "count" : 11,
+        "item" : "10036"
+      }, {
+        "count" : 10,
+        "item" : "11230"
+      }, {
+        "count" : 9,
+        "item" : "10019"
+      }, {
+        "count" : 8,
+        "item" : "11217"
+      }, {
+        "count" : 7,
+        "item" : "10018"
+      }, {
+        "count" : 6,
+        "item" : "11211"
+      }, {
+        "count" : 5,
+        "item" : "10027"
+      }, {
+        "count" : 4,
+        "item" : "11203"
+      }, {
+        "count" : 3,
+        "item" : "11354"
+      }, {
+        "count" : 2,
+        "item" : "11234"
+      }, {
+        "count" : 1,
+        "item" : "11220"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 9065084,
+    "name" : "Hours of Operation",
+    "dataTypeName" : "text",
+    "fieldName" : "hours_of_operation",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2804875,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 8485,
+      "smallest" : "24/7",
+      "null" : 4617,
+      "largest" : "9a-8p/ M-F",
+      "top" : [ {
+        "count" : 20,
+        "item" : "9a-5p/ M-Sa"
+      }, {
+        "count" : 19,
+        "item" : "9a-5p/ M-F"
+      }, {
+        "count" : 18,
+        "item" : "9a-6p/ M-F"
+      }, {
+        "count" : 17,
+        "item" : "24/7"
+      }, {
+        "count" : 16,
+        "item" : "9a-5:30a/ M-F"
+      }, {
+        "count" : 15,
+        "item" : "9a-5:30p/ M-F"
+      }, {
+        "count" : 14,
+        "item" : "9a-4p/ M-F"
+      }, {
+        "count" : 13,
+        "item" : "9a-8p/ M-F"
+      }, {
+        "count" : 12,
+        "item" : "9a-7p/ M-F"
+      }, {
+        "count" : 11,
+        "item" : "9a-6:30p/ M-F"
+      }, {
+        "count" : 10,
+        "item" : "9:30a - 6p/ M-F"
+      }, {
+        "count" : 9,
+        "item" : "9a-10p/ M-F"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 9065085,
+    "name" : "Fax #",
+    "dataTypeName" : "text",
+    "fieldName" : "fax",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2804876,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 7646,
+      "smallest" : "718-361-7477",
+      "null" : 5456,
+      "largest" : "N/A",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N/A"
+      }, {
+        "count" : 19,
+        "item" : "718-361-7477"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 9065086,
+    "name" : "Website",
+    "dataTypeName" : "text",
+    "fieldName" : "website",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2804877,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 8485,
+      "smallest" : "http://alltaxiny.com/",
+      "null" : 4617,
+      "largest" : "N/A",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N/A"
+      }, {
+        "count" : 19,
+        "item" : "http://alltaxiny.com/"
+      }, {
+        "count" : 18,
+        "item" : "http://qmlny.tripod.com/"
+      }, {
+        "count" : 17,
+        "item" : "http://www.teamtaxi.com/"
+      }, {
+        "count" : 16,
+        "item" : "http://www.55stan.com/"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 9065087,
+    "name" : "Languages",
+    "dataTypeName" : "text",
+    "fieldName" : "languages",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2804878,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 8485,
+      "smallest" : "English",
+      "null" : 4617,
+      "largest" : "English, Urdu, Hindi",
+      "top" : [ {
+        "count" : 20,
+        "item" : "English, Spanish, Urdu "
+      }, {
+        "count" : 19,
+        "item" : "English"
+      }, {
+        "count" : 18,
+        "item" : "English, Spanish"
+      }, {
+        "count" : 17,
+        "item" : "English, Spanish, Romanian, Hindi, Urdu, Punjabi, Polish, Russian, French "
+      }, {
+        "count" : 16,
+        "item" : "English, Russian"
+      }, {
+        "count" : 15,
+        "item" : "English, Spanish, Hindi"
+      }, {
+        "count" : 14,
+        "item" : "English, Spanish, Italian (partial)"
+      }, {
+        "count" : 13,
+        "item" : "English, Spanish, Urdu"
+      }, {
+        "count" : 12,
+        "item" : "English, Russian, Spanish"
+      }, {
+        "count" : 11,
+        "item" : "English, Urdu"
+      }, {
+        "count" : 10,
+        "item" : "English, Russian, Arabic, Urdu, Gaelic (partial) "
+      }, {
+        "count" : 9,
+        "item" : "English, Russian (partial)"
+      }, {
+        "count" : 8,
+        "item" : "English, Urdu, Hindi"
+      }, {
+        "count" : 7,
+        "item" : "English, Spanish (partial), Russian (sometimes)"
+      }, {
+        "count" : 6,
+        "item" : "English, Spanish, Russian, Urdu"
+      }, {
+        "count" : 5,
+        "item" : "English, Russian, Bangladesh"
+      }, {
+        "count" : 4,
+        "item" : "English, Russian, Spanish (partial)"
+      }, {
+        "count" : 3,
+        "item" : "English "
+      }, {
+        "count" : 2,
+        "item" : "English, French"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 9065088,
+    "name" : "Location 1",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 12,
+    "renderTypeName" : "location",
+    "tableColumnId" : 2804879,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 13102,
+      "smallest" : {
+        "longitude" : -75.54396999981549,
+        "latitude" : 42.82699999955048,
+        "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"New York\",\"zip\":\"\"}"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : -73.96959410769733,
+        "latitude" : 40.63890813341891,
+        "human_address" : "{\"address\":\"904 Cortelyou Road\",\"city\":\"Brooklyn\",\"state\":\"New York\",\"zip\":\"11218\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : -75.54396999981549,
+          "latitude" : 42.82699999955048,
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : -75.54396999981549,
+          "latitude" : 42.82699999955048,
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : -75.54396999981549,
+          "latitude" : 42.82699999955048,
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : -75.54396999981549,
+          "latitude" : 42.82699999955048,
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : -75.54396999981549,
+          "latitude" : 42.82699999955048,
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : -75.54396999981549,
+          "latitude" : 42.82699999955048,
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : -75.54396999981549,
+          "latitude" : 42.82699999955048,
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : -75.54396999981549,
+          "latitude" : 42.82699999955048,
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : -75.54396999981549,
+          "latitude" : 42.82699999955048,
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : -73.90659659954486,
+          "latitude" : 40.75314001758056,
+          "human_address" : "{\"address\":\"54-18 Broadway\",\"city\":\"Queens\",\"state\":\"New York\",\"zip\":\"11377\"}"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : -73.90659659954486,
+          "latitude" : 40.75314001758056,
+          "human_address" : "{\"address\":\"54-18 Broadway\",\"city\":\"Queens\",\"state\":\"New York\",\"zip\":\"11377\"}"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : -75.54396999981549,
+          "latitude" : 42.82699999955048,
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : -75.54396999981549,
+          "latitude" : 42.82699999955048,
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : -73.90526052883693,
+          "latitude" : 40.745453337107065,
+          "human_address" : "{\"address\":\"49-13 Roosevelt Avenue\",\"city\":\"Queens\",\"state\":\"New York\",\"zip\":\"11377\"}"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : -73.90526052883693,
+          "latitude" : 40.745453337107065,
+          "human_address" : "{\"address\":\"49-13 Roosevelt Avenue\",\"city\":\"Queens\",\"state\":\"New York\",\"zip\":\"11377\"}"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : -73.92766771469138,
+          "latitude" : 40.74741133625395,
+          "human_address" : "{\"address\":\"36-16 Skillman Avenue\",\"city\":\"Queens\",\"state\":\"New York\",\"zip\":\"11101\"}"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : -73.92766771469138,
+          "latitude" : 40.74741133625395,
+          "human_address" : "{\"address\":\"36-16 Skillman Avenue\",\"city\":\"Queens\",\"state\":\"New York\",\"zip\":\"11101\"}"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : -73.98670654973029,
+          "latitude" : 40.672955422270284,
+          "human_address" : "{\"address\":\"374 4th Avenue\",\"city\":\"Brooklyn\",\"state\":\"New York\",\"zip\":\"11215\"}"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : -73.98670654973029,
+          "latitude" : 40.672955422270284,
+          "human_address" : "{\"address\":\"374 4th Avenue\",\"city\":\"Brooklyn\",\"state\":\"New York\",\"zip\":\"11215\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.9954496160397,
+          "latitude" : 40.7613238480472,
+          "human_address" : "{\"address\":\"514 W 44th Street\",\"city\":\"Manhattan\",\"state\":\"New York\",\"zip\":\"10036\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 9065089,
+    "name" : "Location 2",
+    "dataTypeName" : "location",
+    "fieldName" : "location_2",
+    "position" : 13,
+    "renderTypeName" : "location",
+    "tableColumnId" : 2804880,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 13102,
+      "smallest" : {
+        "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+      },
+      "null" : 0,
+      "largest" : {
+        "human_address" : "{\"address\":\"dla217@aim.com\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "human_address" : "{\"address\":\"N/A\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "human_address" : "{\"address\":\"dla217@aim.com\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "tlc medallions (contact information)", "taxi", "cab", "medallion", "tlc", "limousine", "commission" ],
+  "flags" : [ "default" ]
+}

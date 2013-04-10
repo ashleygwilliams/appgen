@@ -1,0 +1,211 @@
+{
+  "id" : "7iqe-jary",
+  "name" : "Method of Filing Complaint",
+  "attribution" : "Civilian Complaint Review Board (CCRB)",
+  "attributionLink" : "http://www.nyc.gov/html/ccrb/pdf/ccrbappendices2011.pdf",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1361828514,
+  "description" : "This table represents the method adopted to file a complaint",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2654360,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361983017,
+  "publicationGroup" : 699513,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1361983000,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 703405,
+  "totalTimesRated" : 0,
+  "viewCount" : 17,
+  "viewLastModified" : 1361983037,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 47346765,
+    "name" : "Year",
+    "dataTypeName" : "text",
+    "fieldName" : "year",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159433,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "2009",
+      "null" : 0,
+      "largest" : "2011",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2009"
+      }, {
+        "count" : 19,
+        "item" : "2010"
+      }, {
+        "count" : 18,
+        "item" : "2011"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 47346766,
+    "name" : "In-person",
+    "dataTypeName" : "text",
+    "fieldName" : "inperson",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159434,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "132",
+      "null" : 0,
+      "largest" : "178",
+      "top" : [ {
+        "count" : 20,
+        "item" : "178"
+      }, {
+        "count" : 19,
+        "item" : "137"
+      }, {
+        "count" : 18,
+        "item" : "132"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47346767,
+    "name" : "By Telephone",
+    "dataTypeName" : "text",
+    "fieldName" : "by_telephone",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159435,
+    "width" : 79,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "124",
+      "null" : 0,
+      "largest" : "66",
+      "top" : [ {
+        "count" : 20,
+        "item" : "124"
+      }, {
+        "count" : 19,
+        "item" : "49"
+      }, {
+        "count" : 18,
+        "item" : "66"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47346768,
+    "name" : "By Fax / Mail",
+    "dataTypeName" : "text",
+    "fieldName" : "by_fax_mail",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159436,
+    "width" : 72,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "124",
+      "null" : 0,
+      "largest" : "66",
+      "top" : [ {
+        "count" : 20,
+        "item" : "124"
+      }, {
+        "count" : 19,
+        "item" : "49"
+      }, {
+        "count" : 18,
+        "item" : "66"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  }, {
+    "id" : 47346769,
+    "name" : "Electronically",
+    "dataTypeName" : "text",
+    "fieldName" : "electronically",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8159437,
+    "width" : 73,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "330",
+      "null" : 0,
+      "largest" : "467",
+      "top" : [ {
+        "count" : 20,
+        "item" : "330"
+      }, {
+        "count" : 19,
+        "item" : "396"
+      }, {
+        "count" : 18,
+        "item" : "467"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "ccrb", "nypd", "fax", "telephone", "mail", "electronically", "inperson" ],
+  "flags" : [ "default" ]
+}

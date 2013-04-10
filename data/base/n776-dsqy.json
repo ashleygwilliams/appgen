@@ -1,0 +1,387 @@
+{
+  "id" : "n776-dsqy",
+  "name" : "Medallion Drivers - Active",
+  "attribution" : "Taxi and Limousine Commision (TLC)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1362164939,
+  "description" : "This list contains information on the status of current medallion drivers who are authorized to operate NYC TLC licensed Taxicabs.",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "numberOfComments" : 0,
+  "oid" : 3096263,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1365278595,
+  "publicationGroup" : 707763,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1365278578,
+  "rowsUpdatedBy" : "5fuc-pqz2",
+  "signed" : false,
+  "tableId" : 779307,
+  "totalTimesRated" : 0,
+  "viewCount" : 96,
+  "viewLastModified" : 1365278595,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 55959848,
+    "name" : "License Number",
+    "dataTypeName" : "text",
+    "description" : "TLC license number",
+    "fieldName" : "license_number",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8271508,
+    "width" : 139,
+    "cachedContents" : {
+      "non_null" : 1194545,
+      "smallest" : "004511",
+      "null" : 0,
+      "largest" : "5475359",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5472778"
+      }, {
+        "count" : 19,
+        "item" : "5472872"
+      }, {
+        "count" : 18,
+        "item" : "5472885"
+      }, {
+        "count" : 17,
+        "item" : "5472919"
+      }, {
+        "count" : 16,
+        "item" : "5472963"
+      }, {
+        "count" : 15,
+        "item" : "5472996"
+      }, {
+        "count" : 14,
+        "item" : "5473018"
+      }, {
+        "count" : 13,
+        "item" : "5473022"
+      }, {
+        "count" : 12,
+        "item" : "5473057"
+      }, {
+        "count" : 11,
+        "item" : "5473229"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 55959851,
+    "name" : "Name",
+    "dataTypeName" : "text",
+    "description" : "Driver's full name",
+    "fieldName" : "name",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8271619,
+    "width" : 185,
+    "cachedContents" : {
+      "non_null" : 1194545,
+      "smallest" : "AABIZZA,NOURDDINE",
+      "null" : 0,
+      "largest" : "ZZAMAN,MOLLA,MONIRU",
+      "top" : [ {
+        "count" : 20,
+        "item" : "JUTLA,MANOJ,SINGH"
+      }, {
+        "count" : 19,
+        "item" : "ISLAM,MD,M"
+      }, {
+        "count" : 18,
+        "item" : "SOSNOVSKY,ALEXANDER"
+      }, {
+        "count" : 17,
+        "item" : "CHASSE,TAMIRAT,MOLLA"
+      }, {
+        "count" : 16,
+        "item" : "SHERPA,DAWA,TSERING"
+      }, {
+        "count" : 15,
+        "item" : "TOFAN,ADRIAN"
+      }, {
+        "count" : 14,
+        "item" : "VALMORD,RITCHLET"
+      }, {
+        "count" : 13,
+        "item" : "KHALIFA,MUAWIA,S"
+      }, {
+        "count" : 12,
+        "item" : "LASKER,MOHAMMED"
+      }, {
+        "count" : 11,
+        "item" : "OUESLATI,MOHAMED,M"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 55959854,
+    "name" : "Type",
+    "dataTypeName" : "text",
+    "description" : "The category of TLC license the driver belongs to",
+    "fieldName" : "type",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8271631,
+    "width" : 183,
+    "cachedContents" : {
+      "non_null" : 1194545,
+      "smallest" : "MEDALLION TAXI DRIVER",
+      "null" : 0,
+      "largest" : "MEDALLION TAXI DRIVER",
+      "top" : [ {
+        "count" : 20,
+        "item" : "MEDALLION TAXI DRIVER"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 55959857,
+    "name" : "Expiration Date",
+    "dataTypeName" : "text",
+    "description" : "License expiration date",
+    "fieldName" : "expiration_date",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8271634,
+    "width" : 136,
+    "cachedContents" : {
+      "non_null" : 1194545,
+      "smallest" : "01/01/2014",
+      "null" : 0,
+      "largest" : "12/31/2014",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11/09/2013"
+      }, {
+        "count" : 19,
+        "item" : "01/03/2014"
+      }, {
+        "count" : 18,
+        "item" : "03/07/2014"
+      }, {
+        "count" : 17,
+        "item" : "02/19/2014"
+      }, {
+        "count" : 16,
+        "item" : "03/14/2014"
+      }, {
+        "count" : 15,
+        "item" : "02/12/2014"
+      }, {
+        "count" : 14,
+        "item" : "03/22/2014"
+      }, {
+        "count" : 13,
+        "item" : "08/27/2013"
+      }, {
+        "count" : 12,
+        "item" : "10/05/2013"
+      }, {
+        "count" : 11,
+        "item" : "08/29/2013"
+      }, {
+        "count" : 10,
+        "item" : "09/24/2013"
+      }, {
+        "count" : 9,
+        "item" : "04/03/2014"
+      }, {
+        "count" : 8,
+        "item" : "03/20/2014"
+      }, {
+        "count" : 7,
+        "item" : "09/10/2013"
+      }, {
+        "count" : 6,
+        "item" : "10/12/2013"
+      }, {
+        "count" : 5,
+        "item" : "11/20/2013"
+      }, {
+        "count" : 4,
+        "item" : "09/26/2013"
+      }, {
+        "count" : 3,
+        "item" : "08/23/2013"
+      }, {
+        "count" : 2,
+        "item" : "03/25/2014"
+      }, {
+        "count" : 1,
+        "item" : "04/01/2014"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 55959860,
+    "name" : "Last Updated Date",
+    "dataTypeName" : "text",
+    "description" : "Data set creation date and time",
+    "fieldName" : "last_updated_date",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8271644,
+    "width" : 183,
+    "cachedContents" : {
+      "non_null" : 1194545,
+      "smallest" : "03/07/2013",
+      "null" : 0,
+      "largest" : "04/06/2013",
+      "top" : [ {
+        "count" : 20,
+        "item" : "03/07/2013"
+      }, {
+        "count" : 19,
+        "item" : "03/08/2013"
+      }, {
+        "count" : 18,
+        "item" : "03/11/2013"
+      }, {
+        "count" : 17,
+        "item" : "03/12/2013"
+      }, {
+        "count" : 16,
+        "item" : "03/13/2013"
+      }, {
+        "count" : 15,
+        "item" : "03/14/2013"
+      }, {
+        "count" : 14,
+        "item" : "03/15/2013"
+      }, {
+        "count" : 13,
+        "item" : "03/18/2013"
+      }, {
+        "count" : 12,
+        "item" : "03/19/2013"
+      }, {
+        "count" : 11,
+        "item" : "03/20/2013"
+      }, {
+        "count" : 10,
+        "item" : "03/21/2013"
+      }, {
+        "count" : 9,
+        "item" : "03/22/2013"
+      }, {
+        "count" : 8,
+        "item" : "03/25/2013"
+      }, {
+        "count" : 7,
+        "item" : "03/26/2013"
+      }, {
+        "count" : 6,
+        "item" : "03/27/2013"
+      }, {
+        "count" : 5,
+        "item" : "03/28/2013"
+      }, {
+        "count" : 4,
+        "item" : "03/29/2013"
+      }, {
+        "count" : 3,
+        "item" : "03/30/2013"
+      }, {
+        "count" : 2,
+        "item" : "04/01/2013"
+      }, {
+        "count" : 1,
+        "item" : "04/02/2013"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 55959864,
+    "name" : "Last Updated Time",
+    "dataTypeName" : "text",
+    "description" : "Data set creation time in 24 hour format.",
+    "fieldName" : "last_updated_time",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8271681,
+    "width" : 202,
+    "cachedContents" : {
+      "non_null" : 1194545,
+      "smallest" : "13:20",
+      "null" : 0,
+      "largest" : "13:36",
+      "top" : [ {
+        "count" : 20,
+        "item" : "13:36"
+      }, {
+        "count" : 19,
+        "item" : "13:30"
+      }, {
+        "count" : 18,
+        "item" : "13:20"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Daily"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+    "orderBys" : [ {
+      "ascending" : false,
+      "expression" : {
+        "columnId" : 55959860,
+        "type" : "column"
+      }
+    } ]
+  },
+  "rights" : [ "read" ],
+  "sortBys" : [ {
+    "id" : 0,
+    "viewColumnId" : 55959860
+  } ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "taxi", "taxicab", "tlc", "limousine", "taxi driver", "medallion", "taxi license", "driver" ],
+  "flags" : [ "default" ]
+}

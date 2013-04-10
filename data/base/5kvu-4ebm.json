@@ -1,0 +1,229 @@
+{
+  "id" : "5kvu-4ebm",
+  "name" : "Land cover",
+  "attribution" : "Department of Environmental Protection (DEP)",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1317406578,
+  "description" : "Forested land cover west of the Hudson",
+  "displayType" : "table",
+  "downloadCount" : 17,
+  "numberOfComments" : 0,
+  "oid" : 337505,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1317406651,
+  "publicationGroup" : 242177,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1317406581,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 242177,
+  "totalTimesRated" : 0,
+  "viewCount" : 126,
+  "viewLastModified" : 1363712644,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2909889,
+    "name" : "Category",
+    "dataTypeName" : "text",
+    "fieldName" : "category",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1540046,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 9,
+      "smallest" : "** land ownership based on data as of 8/20/10",
+      "null" : 0,
+      "largest" : "Total WOH Watershed Acreage (all landcover types) ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Privately-owned land"
+      }, {
+        "count" : 19,
+        "item" : "NYC-owned fee and easement (under contract and closed as of 8/20/10)"
+      }, {
+        "count" : 18,
+        "item" : "NYS"
+      }, {
+        "count" : 17,
+        "item" : "Other OS"
+      }, {
+        "count" : 16,
+        "item" : "Total WOH Forested Land"
+      }, {
+        "count" : 15,
+        "item" : "Total WOH Watershed Acreage (all landcover types) "
+      }, {
+        "count" : 14,
+        "item" : "* land cover data based on 2001 DEP LU/LC analysis"
+      }, {
+        "count" : 13,
+        "item" : "** land ownership based on data as of 8/20/10"
+      }, {
+        "count" : 12,
+        "item" : "Statistics produced by BWS WPP GIS (TES) 8/20/10"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2909890,
+    "name" : "Acres",
+    "dataTypeName" : "number",
+    "fieldName" : "acres",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1540047,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "6768.1",
+      "sum" : "2661606.0",
+      "null" : 3,
+      "average" : "443601.0",
+      "largest" : "1013936.0",
+      "top" : [ {
+        "count" : 20,
+        "item" : "502521.1"
+      }, {
+        "count" : 19,
+        "item" : "111037.5"
+      }, {
+        "count" : 18,
+        "item" : "203508.3"
+      }, {
+        "count" : 17,
+        "item" : "6768.1"
+      }, {
+        "count" : 16,
+        "item" : "823835.0"
+      }, {
+        "count" : 15,
+        "item" : "1013936.0"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2909891,
+    "name" : "As Percent of all WOH Forested Land",
+    "dataTypeName" : "percent",
+    "fieldName" : "as_percent_of_all_woh_forested_land",
+    "position" : 4,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1540048,
+    "width" : 520,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "0.82",
+      "sum" : "200.00",
+      "null" : 4,
+      "average" : "40.00",
+      "largest" : "100.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "61.00"
+      }, {
+        "count" : 19,
+        "item" : "13.48"
+      }, {
+        "count" : 18,
+        "item" : "24.70"
+      }, {
+        "count" : 17,
+        "item" : "0.82"
+      }, {
+        "count" : 16,
+        "item" : "100.00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2909892,
+    "name" : "As percent of all WOH (all landcover types)",
+    "dataTypeName" : "percent",
+    "fieldName" : "as_percent_of_all_woh_all_landcover_types_",
+    "position" : 5,
+    "renderTypeName" : "percent",
+    "tableColumnId" : 1540049,
+    "width" : 616,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "0.67",
+      "sum" : "262.50",
+      "null" : 3,
+      "average" : "43.75",
+      "largest" : "100.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "49.56"
+      }, {
+        "count" : 19,
+        "item" : "10.95"
+      }, {
+        "count" : 18,
+        "item" : "20.07"
+      }, {
+        "count" : 17,
+        "item" : "0.67"
+      }, {
+        "count" : 16,
+        "item" : "81.25"
+      }, {
+        "count" : 15,
+        "item" : "100.00"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "department of environmental protection", "dep", "environment", "water", "reservoir", "health", "ecosystem", "eco-system", "agua", "water system", "water supply", "nyc", "tap", "tap water", "conservation", "watershed", "forest", "trees", "coverage", "healthy living" ],
+  "flags" : [ "default" ]
+}

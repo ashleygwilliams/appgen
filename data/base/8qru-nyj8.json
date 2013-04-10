@@ -1,0 +1,308 @@
+{
+  "id" : "8qru-nyj8",
+  "name" : "Historical Data Of Foreign-Born Population in New York City",
+  "attribution" : "Department of City Planning (DCP)",
+  "attributionLink" : "http://www.nyc.gov/html/dcp/pdf/census/1790-2000_nyc_total_foreign_birth.pdf",
+  "averageRating" : 0,
+  "category" : "Statistics",
+  "createdAt" : 1361287892,
+  "description" : "Details of foreign-born population versus total population in New York City since 1820",
+  "displayType" : "table",
+  "downloadCount" : 1,
+  "numberOfComments" : 0,
+  "oid" : 2574577,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361372136,
+  "publicationGroup" : 686857,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1361372128,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 688840,
+  "totalTimesRated" : 0,
+  "viewCount" : 51,
+  "viewLastModified" : 1361372136,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 45864693,
+    "name" : "Year",
+    "dataTypeName" : "text",
+    "fieldName" : "year",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7985383,
+    "width" : 65,
+    "cachedContents" : {
+      "non_null" : 22,
+      "smallest" : "1790",
+      "null" : 0,
+      "largest" : "2000",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1790"
+      }, {
+        "count" : 19,
+        "item" : "1800"
+      }, {
+        "count" : 18,
+        "item" : "1810"
+      }, {
+        "count" : 17,
+        "item" : "1820"
+      }, {
+        "count" : 16,
+        "item" : "1830"
+      }, {
+        "count" : 15,
+        "item" : "1840"
+      }, {
+        "count" : 14,
+        "item" : "1850"
+      }, {
+        "count" : 13,
+        "item" : "1860"
+      }, {
+        "count" : 12,
+        "item" : "1870"
+      }, {
+        "count" : 11,
+        "item" : "1880"
+      }, {
+        "count" : 10,
+        "item" : "1890"
+      }, {
+        "count" : 9,
+        "item" : "1900"
+      }, {
+        "count" : 8,
+        "item" : "1910"
+      }, {
+        "count" : 7,
+        "item" : "1920"
+      }, {
+        "count" : 6,
+        "item" : "1930"
+      }, {
+        "count" : 5,
+        "item" : "1940"
+      }, {
+        "count" : 4,
+        "item" : "1950"
+      }, {
+        "count" : 3,
+        "item" : "1960"
+      }, {
+        "count" : 2,
+        "item" : "1970"
+      }, {
+        "count" : 1,
+        "item" : "1980"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 45864637,
+    "name" : "Total Population",
+    "dataTypeName" : "number",
+    "fieldName" : "total_population",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7985384,
+    "width" : 134,
+    "cachedContents" : {
+      "non_null" : 22,
+      "smallest" : "33131",
+      "sum" : "80004256",
+      "null" : 0,
+      "average" : "3636557.090909091",
+      "largest" : "8008278",
+      "top" : [ {
+        "count" : 20,
+        "item" : "33131"
+      }, {
+        "count" : 19,
+        "item" : "60515"
+      }, {
+        "count" : 18,
+        "item" : "96373"
+      }, {
+        "count" : 17,
+        "item" : "123706"
+      }, {
+        "count" : 16,
+        "item" : "202589"
+      }, {
+        "count" : 15,
+        "item" : "312710"
+      }, {
+        "count" : 14,
+        "item" : "515547"
+      }, {
+        "count" : 13,
+        "item" : "813669"
+      }, {
+        "count" : 12,
+        "item" : "942292"
+      }, {
+        "count" : 11,
+        "item" : "1206299"
+      }, {
+        "count" : 10,
+        "item" : "1515301"
+      }, {
+        "count" : 9,
+        "item" : "3437202"
+      }, {
+        "count" : 8,
+        "item" : "4766883"
+      }, {
+        "count" : 7,
+        "item" : "5620048"
+      }, {
+        "count" : 6,
+        "item" : "6930446"
+      }, {
+        "count" : 5,
+        "item" : "7454995"
+      }, {
+        "count" : 4,
+        "item" : "7891957"
+      }, {
+        "count" : 3,
+        "item" : "7783314"
+      }, {
+        "count" : 2,
+        "item" : "7894798"
+      }, {
+        "count" : 1,
+        "item" : "7071639"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45864638,
+    "name" : "Foreign-Born Population",
+    "dataTypeName" : "text",
+    "fieldName" : "foreign_born_population",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7985385,
+    "width" : 177,
+    "cachedContents" : {
+      "non_null" : 22,
+      "smallest" : "-",
+      "null" : 0,
+      "largest" : "639,943",
+      "top" : [ {
+        "count" : 20,
+        "item" : "-"
+      }, {
+        "count" : 19,
+        "item" : "5,390"
+      }, {
+        "count" : 18,
+        "item" : "17,773"
+      }, {
+        "count" : 17,
+        "item" : "235,733"
+      }, {
+        "count" : 16,
+        "item" : "383,717"
+      }, {
+        "count" : 15,
+        "item" : "419,094"
+      }, {
+        "count" : 14,
+        "item" : "478,670"
+      }, {
+        "count" : 13,
+        "item" : "639,943"
+      }, {
+        "count" : 12,
+        "item" : "1,270,080"
+      }, {
+        "count" : 11,
+        "item" : "1,944,357"
+      }, {
+        "count" : 10,
+        "item" : "2,028,160"
+      }, {
+        "count" : 9,
+        "item" : "2,358,686"
+      }, {
+        "count" : 8,
+        "item" : "2,138,657"
+      }, {
+        "count" : 7,
+        "item" : "1,784,206"
+      }, {
+        "count" : 6,
+        "item" : "1,558,690"
+      }, {
+        "count" : 5,
+        "item" : "1,437,058"
+      }, {
+        "count" : 4,
+        "item" : "1,670,199"
+      }, {
+        "count" : 3,
+        "item" : "2,082,931"
+      }, {
+        "count" : 2,
+        "item" : "2,871,032"
+      } ]
+    },
+    "format" : {
+      "align" : "right"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dcp", "city", "planning", "foreign-born", "population" ],
+  "flags" : [ "default" ]
+}

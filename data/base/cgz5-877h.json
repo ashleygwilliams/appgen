@@ -1,0 +1,1220 @@
+{
+  "id" : "cgz5-877h",
+  "name" : "School Progress Reports - All Schools - 2008-09",
+  "attribution" : "Department of Education (DOE)",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1317932661,
+  "description" : "2008/09 Progress Report results for all schools (data as of 3/23/2010)\r\n\r\nPeer indices are calculated differently depending on School Level.  Schools are only compared to other schools in the same School Level (e.g., Elementary, K-8, Middle, High, Transfer)\r\n\r\n1) Elementary & K-8 - peer index is a value from 0-100.  We use a composite demographic statistic based on % ELL, % SpEd, % Title I free lunch, and % Black/Hispanic.  Higher values indicate student populations with higher need.\r\n\r\n2) Middle & High - peer index is a value from 1.00-4.50.  For middle schools, we use the average 4th grade proficiency ratings in ELA and Math for all their students that have 4th grade test scores.  For high schools, we use the average 8th grade proficiency ratings in ELA and Math for all their students that have 8th grade test scores, % SpEd, and % Overage.  Lower values indicate student populations with higher need.",
+  "displayType" : "table",
+  "downloadCount" : 27,
+  "numberOfComments" : 0,
+  "oid" : 341239,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318357789,
+  "publicationGroup" : 243555,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1317932664,
+  "rowsUpdatedBy" : "rnig-m3uj",
+  "signed" : false,
+  "tableId" : 243555,
+  "totalTimesRated" : 0,
+  "viewCount" : 94,
+  "viewLastModified" : 1363698514,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2970968,
+    "name" : "DBN",
+    "dataTypeName" : "text",
+    "fieldName" : "dbn",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1557105,
+    "width" : 136,
+    "cachedContents" : {
+      "non_null" : 1543,
+      "smallest" : "01M015",
+      "null" : 143,
+      "largest" : "84X730",
+      "top" : [ {
+        "count" : 20,
+        "item" : "84M279"
+      }, {
+        "count" : 19,
+        "item" : "84M284"
+      }, {
+        "count" : 18,
+        "item" : "84M353"
+      }, {
+        "count" : 17,
+        "item" : "84M709"
+      }, {
+        "count" : 16,
+        "item" : "84Q170"
+      }, {
+        "count" : 15,
+        "item" : "84Q704"
+      }, {
+        "count" : 14,
+        "item" : "84Q705"
+      }, {
+        "count" : 13,
+        "item" : "84Q706"
+      }, {
+        "count" : 12,
+        "item" : "84X165"
+      }, {
+        "count" : 11,
+        "item" : "84X185"
+      }, {
+        "count" : 10,
+        "item" : "84X255"
+      }, {
+        "count" : 9,
+        "item" : "84X309"
+      }, {
+        "count" : 8,
+        "item" : "84X345"
+      }, {
+        "count" : 7,
+        "item" : "84X347"
+      }, {
+        "count" : 6,
+        "item" : "84X393"
+      }, {
+        "count" : 5,
+        "item" : "84X395"
+      }, {
+        "count" : 4,
+        "item" : "84X407"
+      }, {
+        "count" : 3,
+        "item" : "84X703"
+      }, {
+        "count" : 2,
+        "item" : "84X704"
+      }, {
+        "count" : 1,
+        "item" : "84X705"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2970969,
+    "name" : "DISTRICT",
+    "dataTypeName" : "number",
+    "fieldName" : "district",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1557106,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 1543,
+      "smallest" : "1",
+      "sum" : "28423",
+      "null" : 143,
+      "average" : "18.42060920285159",
+      "largest" : "84",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "11"
+      }, {
+        "count" : 9,
+        "item" : "12"
+      }, {
+        "count" : 8,
+        "item" : "13"
+      }, {
+        "count" : 7,
+        "item" : "14"
+      }, {
+        "count" : 6,
+        "item" : "15"
+      }, {
+        "count" : 5,
+        "item" : "16"
+      }, {
+        "count" : 4,
+        "item" : "17"
+      }, {
+        "count" : 3,
+        "item" : "18"
+      }, {
+        "count" : 2,
+        "item" : "19"
+      }, {
+        "count" : 1,
+        "item" : "20"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2970970,
+    "name" : "SCHOOL",
+    "dataTypeName" : "text",
+    "fieldName" : "school",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1557107,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 1543,
+      "smallest" : "47 THE AMERICAN SIGN LANGUAGE AND ENGLISH SECONDARY SCHOOL",
+      "null" : 143,
+      "largest" : "YOUNG WOMEN'S LEADERSHIP SCHOOL OF BROOKLYN",
+      "top" : [ {
+        "count" : 20,
+        "item" : "THE OPPORTUNITY CHARTER SCHOOL"
+      }, {
+        "count" : 19,
+        "item" : "HARLEM CHILDREN'S ZONE/PROMISE ACADEMY CHARTER SCHOOL"
+      }, {
+        "count" : 18,
+        "item" : "NEW HEIGHTS ACADEMY CHARTER SCHOOL"
+      }, {
+        "count" : 17,
+        "item" : "HARLEM VILLAGE ACADEMY CHARTER SCHOOL"
+      }, {
+        "count" : 16,
+        "item" : "PENINSULA PREPARATORY ACADEMY CHARTER SCHOOL"
+      }, {
+        "count" : 15,
+        "item" : "MERRICK ACADEMY CHARTER SCHOOL"
+      }, {
+        "count" : 14,
+        "item" : "RENAISSANCE CHARTER SCHOOL, THE"
+      }, {
+        "count" : 13,
+        "item" : "OUR WORLD NEIGHBORHOOD CHARTER"
+      }, {
+        "count" : 12,
+        "item" : "GRAND CONCOURSE CHARTER SCHOOL"
+      }, {
+        "count" : 11,
+        "item" : "THE BRONX LIGHTHOUSE CHARTER SCHOOL"
+      }, {
+        "count" : 10,
+        "item" : "BRONX CHARTER SCHOOL FOR EXCELLENCE"
+      }, {
+        "count" : 9,
+        "item" : "SOUTH BRONX CHARTER SCHOOL FOR INT'L CULTURE & THE ARTS"
+      }, {
+        "count" : 8,
+        "item" : "HYDE LEADERSHIP CHARTER SCHOOL"
+      }, {
+        "count" : 7,
+        "item" : "INTERNATIONAL LEADERSHIP CHARTER SCHOOL"
+      }, {
+        "count" : 6,
+        "item" : "GREEN DOT NY CHARTER SCHOOL"
+      }, {
+        "count" : 5,
+        "item" : "NYC CHARTER HIGH SCHOOL FOR ARCHITECTURE, ENGINEERING AND CONSTRUCTION INDUSTRIES"
+      }, {
+        "count" : 4,
+        "item" : "BRONX CHARTER SCHOOL FOR CHILDREN"
+      }, {
+        "count" : 3,
+        "item" : "BRONX PREP CHARTER SCHOOL"
+      }, {
+        "count" : 2,
+        "item" : "KIPP ACADEMY CHARTER SCHOOL"
+      }, {
+        "count" : 1,
+        "item" : "FAMILY LIFE ACADEMY CHARTER SCHOOL"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2970971,
+    "name" : "PRINCIPAL",
+    "dataTypeName" : "text",
+    "fieldName" : "principal",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1557108,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 1543,
+      "smallest" : "Aaron M. Perez",
+      "null" : 143,
+      "largest" : "Zoi Mcgrath",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Leonard Goldberg"
+      }, {
+        "count" : 19,
+        "item" : "Stacy Winitt"
+      }, {
+        "count" : 18,
+        "item" : "Laurie Warner\\Nick Timpone"
+      }, {
+        "count" : 17,
+        "item" : "Peter Anderson"
+      }, {
+        "count" : 16,
+        "item" : "Judith Tyler"
+      }, {
+        "count" : 15,
+        "item" : "Alma Alston"
+      }, {
+        "count" : 14,
+        "item" : "Stacey Gauthier"
+      }, {
+        "count" : 13,
+        "item" : "Brian Ferguson"
+      }, {
+        "count" : 12,
+        "item" : "Ira Victor"
+      }, {
+        "count" : 11,
+        "item" : "Jeffrey Tsang"
+      }, {
+        "count" : 10,
+        "item" : "Charlene Reid"
+      }, {
+        "count" : 9,
+        "item" : "Evelyn Hey"
+      }, {
+        "count" : 8,
+        "item" : "Joanne Goubourn"
+      }, {
+        "count" : 7,
+        "item" : "Elaine Ruiz Lopez"
+      }, {
+        "count" : 6,
+        "item" : "Ashish Kapadia"
+      }, {
+        "count" : 5,
+        "item" : "Ana Celia Delgado"
+      }, {
+        "count" : 4,
+        "item" : "Karen Drezner"
+      }, {
+        "count" : 3,
+        "item" : "Dr. Samona Tait"
+      }, {
+        "count" : 2,
+        "item" : "Blanca Ruiz"
+      }, {
+        "count" : 1,
+        "item" : "Marilyn Calo"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2970972,
+    "name" : "2008-09 SCHOOL SUPPORT ORGANIZATION",
+    "dataTypeName" : "text",
+    "fieldName" : "_school_support_organization",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1557109,
+    "width" : 520,
+    "cachedContents" : {
+      "non_null" : 1543,
+      "smallest" : "AED",
+      "null" : 143,
+      "largest" : "Replications, Inc.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "ICI"
+      }, {
+        "count" : 19,
+        "item" : "ESO"
+      }, {
+        "count" : 18,
+        "item" : "New Visions"
+      }, {
+        "count" : 17,
+        "item" : "Replications, Inc."
+      }, {
+        "count" : 16,
+        "item" : "CLSO"
+      }, {
+        "count" : 15,
+        "item" : "LLSO"
+      }, {
+        "count" : 14,
+        "item" : "CEI-PEA"
+      }, {
+        "count" : 13,
+        "item" : "CUNY"
+      }, {
+        "count" : 12,
+        "item" : "KLSO"
+      }, {
+        "count" : 11,
+        "item" : "AED"
+      }, {
+        "count" : 10,
+        "item" : "Fordham"
+      }, {
+        "count" : 9,
+        "item" : "Charter"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2970973,
+    "name" : "PROGRESS REPORT TYPE",
+    "dataTypeName" : "text",
+    "fieldName" : "progress_report_type",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1557110,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 1543,
+      "smallest" : "ESMS",
+      "null" : 143,
+      "largest" : "HS",
+      "top" : [ {
+        "count" : 20,
+        "item" : "ESMS"
+      }, {
+        "count" : 19,
+        "item" : "HS"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2970974,
+    "name" : "SCHOOL LEVEL*",
+    "dataTypeName" : "text",
+    "fieldName" : "school_level_",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1557111,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 1543,
+      "smallest" : "Elementary",
+      "null" : 143,
+      "largest" : "Transfer School",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Elementary"
+      }, {
+        "count" : 19,
+        "item" : "K-8"
+      }, {
+        "count" : 18,
+        "item" : "Middle"
+      }, {
+        "count" : 17,
+        "item" : "High School"
+      }, {
+        "count" : 16,
+        "item" : "Transfer School"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2970975,
+    "name" : "PEER INDEX*",
+    "dataTypeName" : "number",
+    "fieldName" : "peer_index_",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1557112,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 1499,
+      "smallest" : "1.62",
+      "sum" : "37836.53",
+      "null" : 187,
+      "average" : "25.24118078719146",
+      "largest" : "70.44",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3.15"
+      }, {
+        "count" : 19,
+        "item" : "49.43"
+      }, {
+        "count" : 18,
+        "item" : "42.93"
+      }, {
+        "count" : 17,
+        "item" : "30.91"
+      }, {
+        "count" : 16,
+        "item" : "2.75"
+      }, {
+        "count" : 15,
+        "item" : "21.40"
+      }, {
+        "count" : 14,
+        "item" : "53.59"
+      }, {
+        "count" : 13,
+        "item" : "51.66"
+      }, {
+        "count" : 12,
+        "item" : "47.24"
+      }, {
+        "count" : 11,
+        "item" : "47.35"
+      }, {
+        "count" : 10,
+        "item" : "55.17"
+      }, {
+        "count" : 9,
+        "item" : "2.29"
+      }, {
+        "count" : 8,
+        "item" : "2.46"
+      }, {
+        "count" : 7,
+        "item" : "2.61"
+      }, {
+        "count" : 6,
+        "item" : "43.91"
+      }, {
+        "count" : 5,
+        "item" : "3.27"
+      }, {
+        "count" : 4,
+        "item" : "2.84"
+      }, {
+        "count" : 3,
+        "item" : "3.37"
+      }, {
+        "count" : 2,
+        "item" : "58.94"
+      }, {
+        "count" : 1,
+        "item" : "52.56"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2970976,
+    "name" : "OVERALL GRADE",
+    "dataTypeName" : "text",
+    "fieldName" : "overall_grade",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1557113,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 1401,
+      "smallest" : "A",
+      "null" : 285,
+      "largest" : "Pending",
+      "top" : [ {
+        "count" : 20,
+        "item" : "B"
+      }, {
+        "count" : 19,
+        "item" : "A"
+      }, {
+        "count" : 18,
+        "item" : "D"
+      }, {
+        "count" : 17,
+        "item" : "C"
+      }, {
+        "count" : 16,
+        "item" : "F"
+      }, {
+        "count" : 15,
+        "item" : "Pending"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2970977,
+    "name" : "OVERALL SCORE",
+    "dataTypeName" : "number",
+    "fieldName" : "overall_score",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1557114,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 1400,
+      "smallest" : "28.8",
+      "sum" : "107757.4",
+      "null" : 286,
+      "average" : "76.96957142857143",
+      "largest" : "108.5",
+      "top" : [ {
+        "count" : 20,
+        "item" : "51.0"
+      }, {
+        "count" : 19,
+        "item" : "97.2"
+      }, {
+        "count" : 18,
+        "item" : "51.6"
+      }, {
+        "count" : 17,
+        "item" : "85.5"
+      }, {
+        "count" : 16,
+        "item" : "39.5"
+      }, {
+        "count" : 15,
+        "item" : "81.4"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2970978,
+    "name" : "ENVIRONMENT CATEGORY SCORE",
+    "dataTypeName" : "number",
+    "fieldName" : "environment_category_score",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1557115,
+    "width" : 412,
+    "cachedContents" : {
+      "non_null" : 1400,
+      "smallest" : "0.0",
+      "sum" : "13662.3",
+      "null" : 286,
+      "average" : "9.758785714285714",
+      "largest" : "15.0",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10.2"
+      }, {
+        "count" : 19,
+        "item" : "9.9"
+      }, {
+        "count" : 18,
+        "item" : "9.2"
+      }, {
+        "count" : 17,
+        "item" : "10.8"
+      }, {
+        "count" : 16,
+        "item" : "7.7"
+      }, {
+        "count" : 15,
+        "item" : "9.0"
+      }, {
+        "count" : 14,
+        "item" : "10.0"
+      }, {
+        "count" : 13,
+        "item" : "11.4"
+      }, {
+        "count" : 12,
+        "item" : "12.2"
+      }, {
+        "count" : 11,
+        "item" : "11.0"
+      }, {
+        "count" : 10,
+        "item" : "11.7"
+      }, {
+        "count" : 9,
+        "item" : "8.6"
+      }, {
+        "count" : 8,
+        "item" : "15.0"
+      }, {
+        "count" : 7,
+        "item" : "8.0"
+      }, {
+        "count" : 6,
+        "item" : "13.0"
+      }, {
+        "count" : 5,
+        "item" : "11.8"
+      }, {
+        "count" : 4,
+        "item" : "12.9"
+      }, {
+        "count" : 3,
+        "item" : "8.1"
+      }, {
+        "count" : 2,
+        "item" : "11.9"
+      }, {
+        "count" : 1,
+        "item" : "13.6"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2970979,
+    "name" : "ENVIRONMENT GRADE",
+    "dataTypeName" : "text",
+    "fieldName" : "environment_grade",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1557116,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 1400,
+      "smallest" : "A",
+      "null" : 286,
+      "largest" : "F",
+      "top" : [ {
+        "count" : 20,
+        "item" : "B"
+      }, {
+        "count" : 19,
+        "item" : "A"
+      }, {
+        "count" : 18,
+        "item" : "C"
+      }, {
+        "count" : 17,
+        "item" : "D"
+      }, {
+        "count" : 16,
+        "item" : "F"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2970980,
+    "name" : "PERFORMANCE CATEGORY SCORE",
+    "dataTypeName" : "number",
+    "fieldName" : "performance_category_score",
+    "position" : 13,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1557117,
+    "width" : 412,
+    "cachedContents" : {
+      "non_null" : 1400,
+      "smallest" : "5.3",
+      "sum" : "25949.3",
+      "null" : 286,
+      "average" : "18.53521428571429",
+      "largest" : "25.0",
+      "top" : [ {
+        "count" : 20,
+        "item" : "25.0"
+      }, {
+        "count" : 19,
+        "item" : "18.0"
+      }, {
+        "count" : 18,
+        "item" : "19.9"
+      }, {
+        "count" : 17,
+        "item" : "19.7"
+      }, {
+        "count" : 16,
+        "item" : "16.6"
+      }, {
+        "count" : 15,
+        "item" : "21.0"
+      }, {
+        "count" : 14,
+        "item" : "24.9"
+      }, {
+        "count" : 13,
+        "item" : "21.4"
+      }, {
+        "count" : 12,
+        "item" : "23.2"
+      }, {
+        "count" : 11,
+        "item" : "10.8"
+      }, {
+        "count" : 10,
+        "item" : "8.4"
+      }, {
+        "count" : 9,
+        "item" : "17.2"
+      }, {
+        "count" : 8,
+        "item" : "14.4"
+      }, {
+        "count" : 7,
+        "item" : "23.6"
+      }, {
+        "count" : 6,
+        "item" : "15.5"
+      }, {
+        "count" : 5,
+        "item" : "15.7"
+      }, {
+        "count" : 4,
+        "item" : "24.6"
+      }, {
+        "count" : 3,
+        "item" : "17.8"
+      }, {
+        "count" : 2,
+        "item" : "17.9"
+      }, {
+        "count" : 1,
+        "item" : "19.4"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2970981,
+    "name" : "PERFORMANCE GRADE",
+    "dataTypeName" : "text",
+    "fieldName" : "performance_grade",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1557118,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 1400,
+      "smallest" : "A",
+      "null" : 286,
+      "largest" : "F",
+      "top" : [ {
+        "count" : 20,
+        "item" : "C"
+      }, {
+        "count" : 19,
+        "item" : "A"
+      }, {
+        "count" : 18,
+        "item" : "B"
+      }, {
+        "count" : 17,
+        "item" : "D"
+      }, {
+        "count" : 16,
+        "item" : "F"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2970982,
+    "name" : "PROGRESS CATEGORY SCORE",
+    "dataTypeName" : "number",
+    "fieldName" : "progress_category_score",
+    "position" : 15,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1557119,
+    "width" : 376,
+    "cachedContents" : {
+      "non_null" : 1400,
+      "smallest" : "6.6",
+      "sum" : "61310.7",
+      "null" : 286,
+      "average" : "43.79335714285714",
+      "largest" : "60.0",
+      "top" : [ {
+        "count" : 20,
+        "item" : "60.0"
+      }, {
+        "count" : 19,
+        "item" : "42.5"
+      }, {
+        "count" : 18,
+        "item" : "48.7"
+      }, {
+        "count" : 17,
+        "item" : "35.0"
+      }, {
+        "count" : 16,
+        "item" : "44.6"
+      }, {
+        "count" : 15,
+        "item" : "45.8"
+      }, {
+        "count" : 14,
+        "item" : "38.3"
+      }, {
+        "count" : 13,
+        "item" : "37.0"
+      }, {
+        "count" : 12,
+        "item" : "56.2"
+      }, {
+        "count" : 11,
+        "item" : "58.6"
+      }, {
+        "count" : 10,
+        "item" : "28.0"
+      }, {
+        "count" : 9,
+        "item" : "46.9"
+      }, {
+        "count" : 8,
+        "item" : "11.2"
+      }, {
+        "count" : 7,
+        "item" : "48.6"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2970983,
+    "name" : "PROGRESS GRADE",
+    "dataTypeName" : "text",
+    "fieldName" : "progress_grade",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1557120,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 1400,
+      "smallest" : "A",
+      "null" : 286,
+      "largest" : "F",
+      "top" : [ {
+        "count" : 20,
+        "item" : "B"
+      }, {
+        "count" : 19,
+        "item" : "A"
+      }, {
+        "count" : 18,
+        "item" : "C"
+      }, {
+        "count" : 17,
+        "item" : "F"
+      }, {
+        "count" : 16,
+        "item" : "D"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2970984,
+    "name" : "ADDITIONAL CREDIT",
+    "dataTypeName" : "number",
+    "fieldName" : "additional_credit",
+    "position" : 17,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1557121,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 1493,
+      "smallest" : "0.0",
+      "sum" : "7061.7",
+      "null" : 193,
+      "average" : "4.729872739450770",
+      "largest" : "14.3",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2.3"
+      }, {
+        "count" : 19,
+        "item" : "3.0"
+      }, {
+        "count" : 18,
+        "item" : "6.0"
+      }, {
+        "count" : 17,
+        "item" : "1.5"
+      }, {
+        "count" : 16,
+        "item" : "6.8"
+      }, {
+        "count" : 15,
+        "item" : "7.5"
+      }, {
+        "count" : 14,
+        "item" : "0.0"
+      }, {
+        "count" : 13,
+        "item" : "4.5"
+      }, {
+        "count" : 12,
+        "item" : "5"
+      }, {
+        "count" : 11,
+        "item" : "9.0"
+      }, {
+        "count" : 10,
+        "item" : "3.8"
+      }, {
+        "count" : 9,
+        "item" : "0.8"
+      }, {
+        "count" : 8,
+        "item" : "2"
+      }, {
+        "count" : 7,
+        "item" : "5.3"
+      }, {
+        "count" : 6,
+        "item" : "7"
+      }, {
+        "count" : 5,
+        "item" : "10.0"
+      }, {
+        "count" : 4,
+        "item" : "0"
+      }, {
+        "count" : 3,
+        "item" : "2.5"
+      }, {
+        "count" : 2,
+        "item" : "4"
+      }, {
+        "count" : 1,
+        "item" : "9.8"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2970985,
+    "name" : "2007-08 PROGRESS REPORT GRADE",
+    "dataTypeName" : "text",
+    "fieldName" : "_progress_report_grade",
+    "position" : 18,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1557122,
+    "width" : 448,
+    "cachedContents" : {
+      "non_null" : 1353,
+      "smallest" : "A",
+      "null" : 333,
+      "largest" : "F",
+      "top" : [ {
+        "count" : 20,
+        "item" : "D"
+      }, {
+        "count" : 19,
+        "item" : "B"
+      }, {
+        "count" : 18,
+        "item" : "A"
+      }, {
+        "count" : 17,
+        "item" : "F"
+      }, {
+        "count" : 16,
+        "item" : "C"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2970986,
+    "name" : "MOST RECENT QUALITY REVIEW SCORE",
+    "dataTypeName" : "text",
+    "fieldName" : "most_recent_quality_review_score",
+    "position" : 19,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1557123,
+    "width" : 484,
+    "cachedContents" : {
+      "non_null" : 1492,
+      "smallest" : "No QR in last two years",
+      "null" : 194,
+      "largest" : "Well Developed (2008-09)",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Proficient (2008-09)"
+      }, {
+        "count" : 19,
+        "item" : "Well Developed (2007-08)"
+      }, {
+        "count" : 18,
+        "item" : "Well Developed (2008-09)"
+      }, {
+        "count" : 17,
+        "item" : "Proficient (2007-08)"
+      }, {
+        "count" : 16,
+        "item" : "Underdeveloped with Proficient Features (2008-09)"
+      }, {
+        "count" : 15,
+        "item" : "Not Confirmed (2008-09)"
+      }, {
+        "count" : 14,
+        "item" : "No QR in last two years"
+      }, {
+        "count" : 13,
+        "item" : "Outstanding (2007-08)"
+      }, {
+        "count" : 12,
+        "item" : "Underdeveloped (2007-08)"
+      }, {
+        "count" : 11,
+        "item" : "Underdeveloped (2008-09)"
+      }, {
+        "count" : 10,
+        "item" : "No Score (2008-09)"
+      }, {
+        "count" : 9,
+        "item" : "Underdeveloped with Proficient Features (2007-08)"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2970987,
+    "name" : "2008-09 STATE ACCOUNTABILITY STATUS",
+    "dataTypeName" : "text",
+    "fieldName" : "_state_accountability_status",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1557124,
+    "width" : 520,
+    "cachedContents" : {
+      "non_null" : 1541,
+      "smallest" : "Corrective Action (year 1) -  Comprehens",
+      "null" : 145,
+      "largest" : "Subject to Charter School Law Provisions",
+      "top" : [ {
+        "count" : 20,
+        "item" : "In Good Standing"
+      }, {
+        "count" : 19,
+        "item" : "Improvement (year 2) -  Basic"
+      }, {
+        "count" : 18,
+        "item" : "Improvement (year 2) -  Focused"
+      }, {
+        "count" : 17,
+        "item" : "Improvement (year 1) -  Comprehensive"
+      }, {
+        "count" : 16,
+        "item" : "Restructuring (Advanced) -  Comprehensive"
+      }, {
+        "count" : 15,
+        "item" : "Improvement (year 2) -  Comprehensive"
+      }, {
+        "count" : 14,
+        "item" : "Restructuring (Advanced) -  Focused"
+      }, {
+        "count" : 13,
+        "item" : "Pending"
+      }, {
+        "count" : 12,
+        "item" : "Restructuring (year 2) -  Focused"
+      }, {
+        "count" : 11,
+        "item" : "Improvement (year 1) -  Basic"
+      }, {
+        "count" : 10,
+        "item" : "Corrective Action (year 1) -  Focused"
+      }, {
+        "count" : 9,
+        "item" : "Restructuring (year 1) -  Focused"
+      }, {
+        "count" : 8,
+        "item" : "Restructuring (year 2) -  Comprehensive"
+      }, {
+        "count" : 7,
+        "item" : "Improvement (year 1) -  Focused"
+      }, {
+        "count" : 6,
+        "item" : "Corrective Action (year 2) -  Focused"
+      }, {
+        "count" : 5,
+        "item" : "Restructuring (year 1) -  Comprehensive"
+      }, {
+        "count" : 4,
+        "item" : "Corrective Action (year 1) -  Comprehens"
+      }, {
+        "count" : 3,
+        "item" : "Corrective Action (year 2) -  Comprehensive"
+      }, {
+        "count" : 2,
+        "item" : "Restructuring (Advanced) -  Comprehensiv"
+      }, {
+        "count" : 1,
+        "item" : "Corrective Action (year 1) -  Comprehensive"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Historical Data"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "rnig-m3uj",
+    "displayName" : "Jorge J.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/5083/4460/large-profile_large.png",
+    "profileImageUrlMedium" : "/images/profile/5083/4460/large-profile_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/5083/4460/large-profile_tiny.png",
+    "profileLastModified" : 1322859437,
+    "screenName" : "Jorge J."
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rnig-m3uj",
+    "displayName" : "Jorge J.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/5083/4460/large-profile_large.png",
+    "profileImageUrlMedium" : "/images/profile/5083/4460/large-profile_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/5083/4460/large-profile_tiny.png",
+    "profileLastModified" : 1322859437,
+    "screenName" : "Jorge J."
+  },
+  "tags" : [ "lifelong learning" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,138 @@
+{
+  "id" : "8n8g-m3vw",
+  "name" : "List Of Translation Services Provided At OATH",
+  "attribution" : "Office of Administrative Trials and Hearings (OATH)",
+  "attributionLink" : "http://www.nyc.gov/html/oath/downloads/pdf/oath_stats/OATH.pdf",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1362584549,
+  "description" : "This is the list of Translation Services which are provided in different language at Office of Administrative Trials and Hearings",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2730832,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362584643,
+  "publicationGroup" : 717741,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1362584551,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 717741,
+  "totalTimesRated" : 0,
+  "viewCount" : 8,
+  "viewLastModified" : 1362584704,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 48792469,
+    "name" : "Language",
+    "dataTypeName" : "text",
+    "fieldName" : "language",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8401715,
+    "width" : 57,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "Arabic",
+      "null" : 0,
+      "largest" : "Urdu",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Spanish"
+      }, {
+        "count" : 19,
+        "item" : "Urdu"
+      }, {
+        "count" : 18,
+        "item" : "Arabic"
+      }, {
+        "count" : 17,
+        "item" : "Mandarin"
+      }, {
+        "count" : 16,
+        "item" : "Bengali"
+      }, {
+        "count" : 15,
+        "item" : "Cantonese"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48792470,
+    "name" : "Number",
+    "dataTypeName" : "number",
+    "fieldName" : "number",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8401716,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "4",
+      "sum" : "155",
+      "null" : 0,
+      "average" : "25.83333333333333",
+      "largest" : "129",
+      "top" : [ {
+        "count" : 20,
+        "item" : "129"
+      }, {
+        "count" : 19,
+        "item" : "5"
+      }, {
+        "count" : 18,
+        "item" : "7"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "oath", "office of administrative trials and hearings", "cases", "translation", "language" ],
+  "flags" : [ "default" ]
+}

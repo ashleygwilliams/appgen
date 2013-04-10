@@ -1,0 +1,198 @@
+{
+  "id" : "x32n-k96w",
+  "name" : "Daily Report of Homeless Shelter Census",
+  "attribution" : "Department of Homeless Services (DHS)",
+  "attributionLink" : "http://www.nyc.gov/html/dhs/downloads/pdf/dailyreport.pdf",
+  "averageRating" : 0,
+  "category" : "Social Services",
+  "createdAt" : 1359646659,
+  "description" : "Daily report of  Single Adults and Families Census",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2394885,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359647031,
+  "publicationGroup" : 648436,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1359646990,
+  "rowsUpdatedBy" : "8b43-zkvh",
+  "signed" : false,
+  "tableId" : 648448,
+  "totalTimesRated" : 0,
+  "viewCount" : 58,
+  "viewLastModified" : 1359647092,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 42267102,
+    "name" : "Date",
+    "dataTypeName" : "text",
+    "fieldName" : "date",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7434883,
+    "width" : 91,
+    "cachedContents" : {
+      "non_null" : 12,
+      "smallest" : "1/28/13",
+      "null" : 0,
+      "largest" : "1/28/13",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1/28/13"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42267103,
+    "name" : "Census Details",
+    "dataTypeName" : "text",
+    "fieldName" : "census_details",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7434884,
+    "width" : 297,
+    "cachedContents" : {
+      "non_null" : 12,
+      "smallest" : "Adult Familes Census - Families",
+      "null" : 0,
+      "largest" : "Total Shelter Census - Total",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Total Shelter Census - Adults"
+      }, {
+        "count" : 19,
+        "item" : "Total Shelter Census - Children"
+      }, {
+        "count" : 18,
+        "item" : "Total Shelter Census - Total"
+      }, {
+        "count" : 17,
+        "item" : "Single Adult Shelter Census - Men"
+      }, {
+        "count" : 16,
+        "item" : "Single Adult Shelter Census - Women"
+      }, {
+        "count" : 15,
+        "item" : "Single Adult Shelter Census - Total Single Adults"
+      }, {
+        "count" : 14,
+        "item" : "Families With Children Census - Families"
+      }, {
+        "count" : 13,
+        "item" : "Families With Children Census - Adults"
+      }, {
+        "count" : 12,
+        "item" : "Families With Children Census - Children"
+      }, {
+        "count" : 11,
+        "item" : "Families With Children Census - Total Individuals"
+      }, {
+        "count" : 10,
+        "item" : "Adult Familes Census - Families"
+      }, {
+        "count" : 9,
+        "item" : "Adult Familes Census - Individuals"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42267104,
+    "name" : "Count",
+    "dataTypeName" : "number",
+    "fieldName" : "count",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7434885,
+    "width" : 105,
+    "cachedContents" : {
+      "non_null" : 12,
+      "smallest" : "1722",
+      "sum" : "201235",
+      "null" : 0,
+      "average" : "16769.58333333333",
+      "largest" : "48264",
+      "top" : [ {
+        "count" : 20,
+        "item" : "27672"
+      }, {
+        "count" : 19,
+        "item" : "20592"
+      }, {
+        "count" : 18,
+        "item" : "48264"
+      }, {
+        "count" : 17,
+        "item" : "7116"
+      }, {
+        "count" : 16,
+        "item" : "2662"
+      }, {
+        "count" : 15,
+        "item" : "9778"
+      }, {
+        "count" : 14,
+        "item" : "10090"
+      }, {
+        "count" : 13,
+        "item" : "14261"
+      }, {
+        "count" : 12,
+        "item" : "34853"
+      }, {
+        "count" : 11,
+        "item" : "1722"
+      }, {
+        "count" : 10,
+        "item" : "3633"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Daily"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dhs", "homeless", "family", "adult", "census", "daily", "report" ],
+  "flags" : [ "default" ]
+}

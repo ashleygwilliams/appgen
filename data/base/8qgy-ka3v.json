@@ -1,0 +1,536 @@
+{
+  "id" : "8qgy-ka3v",
+  "name" : "NYCDEP Recreation Area Maps",
+  "attribution" : "Department of Environmental Protection (DEP)",
+  "attributionLink" : "http://www.nyc.gov/html/dep/html/recreation/recreation_maps.shtml",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1359688393,
+  "description" : "NYCDEP Recreation Area Maps\r\n\r\nNote:\r\nWMU = New York State Department of Environmental Conservation Wildlife Management Unit. Hunters should verify the WMU is correct.\r\n** Hunting by Bow only.    \r\n*** Hunting by Bow or Shotgun only.    \r\n**** Hunting for Deer only, and by Bow only.",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2399006,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359688565,
+  "publicationGroup" : 649480,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1359688402,
+  "rowsUpdatedBy" : "ya7g-926w",
+  "signed" : false,
+  "tableId" : 649480,
+  "totalTimesRated" : 0,
+  "viewCount" : 50,
+  "viewLastModified" : 1363712903,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 42342906,
+    "name" : "County",
+    "dataTypeName" : "text",
+    "fieldName" : "county",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7449428,
+    "width" : 113,
+    "cachedContents" : {
+      "non_null" : 276,
+      "smallest" : "Delaware",
+      "null" : 0,
+      "largest" : "Westchester",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Delaware"
+      }, {
+        "count" : 19,
+        "item" : "Delaware "
+      }, {
+        "count" : 18,
+        "item" : "Dutchess"
+      }, {
+        "count" : 17,
+        "item" : "Greene"
+      }, {
+        "count" : 16,
+        "item" : "Greeene"
+      }, {
+        "count" : 15,
+        "item" : "Putnam"
+      }, {
+        "count" : 14,
+        "item" : "Schoharie"
+      }, {
+        "count" : 13,
+        "item" : "Sullivan"
+      }, {
+        "count" : 12,
+        "item" : "Ulster"
+      }, {
+        "count" : 11,
+        "item" : "Westchester"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42342907,
+    "name" : "Recreation Unit",
+    "dataTypeName" : "text",
+    "fieldName" : "recreation_unit",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7449429,
+    "width" : 181,
+    "cachedContents" : {
+      "non_null" : 276,
+      "smallest" : "Acorn Hill",
+      "null" : 0,
+      "largest" : "Yagerville",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Piney Point Road"
+      }, {
+        "count" : 19,
+        "item" : "Red Hill Knolls"
+      }, {
+        "count" : 18,
+        "item" : "Rochester"
+      }, {
+        "count" : 17,
+        "item" : "Romer Mountain"
+      }, {
+        "count" : 16,
+        "item" : "Rose Mountain**"
+      }, {
+        "count" : 15,
+        "item" : "Shandaken"
+      }, {
+        "count" : 14,
+        "item" : "Sheridan Mountain"
+      }, {
+        "count" : 13,
+        "item" : "Sholam"
+      }, {
+        "count" : 12,
+        "item" : "South Hollow"
+      }, {
+        "count" : 11,
+        "item" : "South Mountain"
+      }, {
+        "count" : 10,
+        "item" : "South Rondout"
+      }, {
+        "count" : 9,
+        "item" : "Stone Road**"
+      }, {
+        "count" : 8,
+        "item" : "Sundown"
+      }, {
+        "count" : 7,
+        "item" : "Tebelt Lane"
+      }, {
+        "count" : 6,
+        "item" : "Traver Hollow"
+      }, {
+        "count" : 5,
+        "item" : "Trout Creek"
+      }, {
+        "count" : 4,
+        "item" : "Watson Hollow"
+      }, {
+        "count" : 3,
+        "item" : "Warner Creek South"
+      }, {
+        "count" : 2,
+        "item" : "West Shokan"
+      }, {
+        "count" : 1,
+        "item" : "Wittenberg"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42342909,
+    "name" : "Town",
+    "dataTypeName" : "text",
+    "fieldName" : "town",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7449431,
+    "width" : 109,
+    "cachedContents" : {
+      "non_null" : 276,
+      "smallest" : "Andes",
+      "null" : 0,
+      "largest" : "Yorktown",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Middletown"
+      }, {
+        "count" : 19,
+        "item" : "Meredith"
+      }, {
+        "count" : 18,
+        "item" : "Tompkins"
+      }, {
+        "count" : 17,
+        "item" : "Andes"
+      }, {
+        "count" : 16,
+        "item" : "Walton"
+      }, {
+        "count" : 15,
+        "item" : "Colchester"
+      }, {
+        "count" : 14,
+        "item" : "Delhi"
+      }, {
+        "count" : 13,
+        "item" : "Kortright"
+      }, {
+        "count" : 12,
+        "item" : "Roxbury"
+      }, {
+        "count" : 11,
+        "item" : "Hamden"
+      }, {
+        "count" : 10,
+        "item" : "Stamford"
+      }, {
+        "count" : 9,
+        "item" : "Bovina"
+      }, {
+        "count" : 8,
+        "item" : "Masonville"
+      }, {
+        "count" : 7,
+        "item" : "Franklin"
+      }, {
+        "count" : 6,
+        "item" : "Harpersfield"
+      }, {
+        "count" : 5,
+        "item" : "East Fishkill"
+      }, {
+        "count" : 4,
+        "item" : "Lexington"
+      }, {
+        "count" : 3,
+        "item" : "Ashland"
+      }, {
+        "count" : 2,
+        "item" : "Halcott"
+      }, {
+        "count" : 1,
+        "item" : "Hunter"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42342912,
+    "name" : "WMU",
+    "dataTypeName" : "text",
+    "fieldName" : "wmu",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7449434,
+    "width" : 79,
+    "cachedContents" : {
+      "non_null" : 276,
+      "smallest" : "3A",
+      "null" : 0,
+      "largest" : "4W",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4P"
+      }, {
+        "count" : 19,
+        "item" : "4O"
+      }, {
+        "count" : 18,
+        "item" : "3A"
+      }, {
+        "count" : 17,
+        "item" : "4W"
+      }, {
+        "count" : 16,
+        "item" : "4R"
+      }, {
+        "count" : 15,
+        "item" : "3N"
+      }, {
+        "count" : 14,
+        "item" : "4G"
+      }, {
+        "count" : 13,
+        "item" : "3H"
+      }, {
+        "count" : 12,
+        "item" : "3C"
+      }, {
+        "count" : 11,
+        "item" : "3A, 4R"
+      }, {
+        "count" : 10,
+        "item" : "3S"
+      } ]
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 42342915,
+    "name" : "Acres",
+    "dataTypeName" : "number",
+    "fieldName" : "acres",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7449437,
+    "width" : 78,
+    "cachedContents" : {
+      "non_null" : 276,
+      "smallest" : "7",
+      "sum" : "72722",
+      "null" : 0,
+      "average" : "263.4855072463768",
+      "largest" : "3908",
+      "top" : [ {
+        "count" : 20,
+        "item" : "156"
+      }, {
+        "count" : 19,
+        "item" : "369"
+      }, {
+        "count" : 18,
+        "item" : "75"
+      }, {
+        "count" : 17,
+        "item" : "17"
+      }, {
+        "count" : 16,
+        "item" : "213"
+      }, {
+        "count" : 15,
+        "item" : "42"
+      }, {
+        "count" : 14,
+        "item" : "107"
+      }, {
+        "count" : 13,
+        "item" : "240"
+      }, {
+        "count" : 12,
+        "item" : "79"
+      }, {
+        "count" : 11,
+        "item" : "351"
+      }, {
+        "count" : 10,
+        "item" : "782"
+      }, {
+        "count" : 9,
+        "item" : "397"
+      }, {
+        "count" : 8,
+        "item" : "121"
+      }, {
+        "count" : 7,
+        "item" : "22"
+      }, {
+        "count" : 6,
+        "item" : "142"
+      }, {
+        "count" : 5,
+        "item" : "1440"
+      }, {
+        "count" : 4,
+        "item" : "23"
+      }, {
+        "count" : 3,
+        "item" : "117"
+      }, {
+        "count" : 2,
+        "item" : "286"
+      }, {
+        "count" : 1,
+        "item" : "33"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "center",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 42342918,
+    "name" : "Map",
+    "dataTypeName" : "url",
+    "fieldName" : "map",
+    "position" : 6,
+    "renderTypeName" : "url",
+    "tableColumnId" : 7449440,
+    "width" : 421,
+    "cachedContents" : {
+      "non_null" : 276,
+      "smallest" : {
+        "url" : "http://www.nyc.gov/html/dep/pdf/maps/Acorn_Hill.pdf"
+      },
+      "null" : 0,
+      "largest" : {
+        "url" : "http://www.nyc.gov/html/dep/pdf/maps/Yagerville.pdf"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "url" : "http://www.nyc.gov/html/dep/pdf/maps/Piney_Pt.pdf"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "url" : "http://www.nyc.gov/html/dep/pdf/maps/Red_Hill_Knolls.pdf"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "url" : "http://www.nyc.gov/html/dep/pdf/maps/Rochester.pdf"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "url" : "http://www.nyc.gov/html/dep/pdf/maps/Romer_Mtn.pdf"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "url" : "http://www.nyc.gov/html/dep/pdf/maps/Rose_Mtn.pdf"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "url" : "http://www.nyc.gov/html/dep/pdf/maps/Shandaken.pdf"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "url" : "http://www.nyc.gov/html/dep/pdf/maps/Sheridan_Mtn.pdf"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "url" : "http://www.nyc.gov/html/dep/pdf/maps/Sholam.pdf"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "url" : "http://www.nyc.gov/html/dep/pdf/maps/South_Hollow.pdf"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "url" : "http://www.nyc.gov/html/dep/pdf/maps/South_Mtn.pdf"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "url" : "http://www.nyc.gov/html/dep/pdf/maps/South_Rondout.pdf"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "url" : "http://www.nyc.gov/html/dep/pdf/maps/Stone_Road.pdf"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "url" : "http://www.nyc.gov/html/dep/pdf/maps/Sundown.pdf"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "url" : "http://www.nyc.gov/html/dep/pdf/maps/Tebelt_Lane.pdf"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "url" : "http://www.nyc.gov/html/dep/pdf/maps/Traver_Hollow.pdf"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "url" : "http://www.nyc.gov/html/dep/pdf/maps/Trout_Creek.pdf"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "url" : "http://www.nyc.gov/html/dep/pdf/maps/Watson_Hollow.pdf"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "url" : "http://www.nyc.gov/html/dep/pdf/maps/WarnerCreek_South.pdf"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "url" : "http://www.nyc.gov/html/dep/pdf/maps/West_Shokan.pdf"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "url" : "http://www.nyc.gov/html/dep/pdf/maps/Wittenberg.pdf"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "url", "description" ]
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ya7g-926w",
+    "displayName" : "Aakash Dalwani",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1363663581,
+    "roleName" : "publisher",
+    "screenName" : "Aakash Dalwani",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ya7g-926w",
+    "displayName" : "Aakash Dalwani",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1363663581,
+    "roleName" : "publisher",
+    "screenName" : "Aakash Dalwani",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "dep", "department of environmental protection", "environment", "recreation", "area maps", "maps", "recreation area maps", "healthy living" ],
+  "flags" : [ "default" ]
+}

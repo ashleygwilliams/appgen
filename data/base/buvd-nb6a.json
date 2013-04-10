@@ -1,0 +1,168 @@
+{
+  "id" : "buvd-nb6a",
+  "name" : "Templates",
+  "averageRating" : 0,
+  "createdAt" : 1360643687,
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2499236,
+  "publicationAppendEnabled" : false,
+  "publicationGroup" : 672063,
+  "publicationStage" : "published",
+  "resourceName" : "templates",
+  "rowIdentifierColumnId" : 44273701,
+  "signed" : false,
+  "state" : "empty",
+  "tableId" : 672063,
+  "totalTimesRated" : 0,
+  "viewCount" : 16,
+  "viewLastModified" : 1360643692,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 44273698,
+    "name" : "Name",
+    "dataTypeName" : "text",
+    "fieldName" : "name",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7776695,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    },
+    "metadata" : {
+      "sync" : true
+    }
+  }, {
+    "id" : 44273699,
+    "name" : "Path",
+    "dataTypeName" : "object",
+    "fieldName" : "path",
+    "position" : 3,
+    "renderTypeName" : "object",
+    "tableColumnId" : 7776696,
+    "format" : {
+    },
+    "metadata" : {
+      "sync" : true
+    }
+  }, {
+    "id" : 44273700,
+    "name" : "Title",
+    "dataTypeName" : "object",
+    "fieldName" : "title",
+    "position" : 4,
+    "renderTypeName" : "object",
+    "tableColumnId" : 7776697,
+    "format" : {
+    },
+    "metadata" : {
+      "sync" : true
+    }
+  }, {
+    "id" : 44273701,
+    "name" : "Identifier",
+    "dataTypeName" : "text",
+    "fieldName" : "identifier",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7776698,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    },
+    "metadata" : {
+      "sync" : true
+    }
+  }, {
+    "id" : 44273702,
+    "name" : "Version",
+    "dataTypeName" : "number",
+    "fieldName" : "version",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 7776699,
+    "cachedContents" : {
+      "non_null" : 0,
+      "sum" : "0",
+      "null" : 0
+    },
+    "format" : {
+    },
+    "metadata" : {
+      "sync" : true
+    }
+  }, {
+    "id" : 44273703,
+    "name" : "Status",
+    "dataTypeName" : "text",
+    "fieldName" : "status",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7776700,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    },
+    "metadata" : {
+      "sync" : true
+    }
+  }, {
+    "id" : 44273704,
+    "name" : "Content",
+    "dataTypeName" : "object",
+    "fieldName" : "content",
+    "position" : 8,
+    "renderTypeName" : "object",
+    "tableColumnId" : 7776701,
+    "format" : {
+    },
+    "metadata" : {
+      "sync" : true
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rowIdentifier" : "identifier"
+  },
+  "owner" : {
+    "id" : "x539-akqs",
+    "displayName" : "Andrew Nicklin",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/4798/2643/My_Photo_3_large.png",
+    "profileImageUrlMedium" : "/images/profile/4798/2643/My_Photo_3_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/4798/2643/My_Photo_3_tiny.png",
+    "profileLastModified" : 1336858132,
+    "roleName" : "administrator",
+    "screenName" : "Andrew Nicklin",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "x539-akqs",
+    "displayName" : "Andrew Nicklin",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/4798/2643/My_Photo_3_large.png",
+    "profileImageUrlMedium" : "/images/profile/4798/2643/My_Photo_3_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/4798/2643/My_Photo_3_tiny.png",
+    "profileLastModified" : 1336858132,
+    "roleName" : "administrator",
+    "screenName" : "Andrew Nicklin",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "flags" : [ "default" ]
+}

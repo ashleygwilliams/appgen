@@ -1,0 +1,424 @@
+{
+  "id" : "vz8c-29aj",
+  "name" : "Borough Enrollment Offices",
+  "attribution" : "Department of Education (DOE)",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1318307405,
+  "description" : "Department of Education borough enrollment offices",
+  "displayType" : "table",
+  "downloadCount" : 37,
+  "numberOfComments" : 0,
+  "oid" : 343164,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318307479,
+  "publicationGroup" : 244616,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318307409,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 244616,
+  "totalTimesRated" : 0,
+  "viewCount" : 104,
+  "viewLastModified" : 1363729062,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3003364,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1570465,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Brooklyn (Note: General Education Only)"
+      }, {
+        "count" : 17,
+        "item" : "Brooklyn (Note: Special Education Only)"
+      }, {
+        "count" : 16,
+        "item" : "Manhattan"
+      }, {
+        "count" : 15,
+        "item" : "Queens"
+      }, {
+        "count" : 14,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3003365,
+    "name" : "Zip Code",
+    "dataTypeName" : "number",
+    "fieldName" : "zip_code",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1570466,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "10001",
+      "sum" : "141229",
+      "null" : 0,
+      "average" : "10863.76923076923",
+      "largest" : "11435",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10458"
+      }, {
+        "count" : 19,
+        "item" : "10462"
+      }, {
+        "count" : 18,
+        "item" : "11230"
+      }, {
+        "count" : 17,
+        "item" : "11209"
+      }, {
+        "count" : 16,
+        "item" : "11233"
+      }, {
+        "count" : 15,
+        "item" : "11217"
+      }, {
+        "count" : 14,
+        "item" : "11201"
+      }, {
+        "count" : 13,
+        "item" : "10001"
+      }, {
+        "count" : 12,
+        "item" : "10027"
+      }, {
+        "count" : 11,
+        "item" : "11101"
+      }, {
+        "count" : 10,
+        "item" : "11354"
+      }, {
+        "count" : 9,
+        "item" : "11435"
+      }, {
+        "count" : 8,
+        "item" : "10301"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 3003366,
+    "name" : "Phone",
+    "dataTypeName" : "text",
+    "fieldName" : "phone",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1570467,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "718-935-2178",
+      "null" : 0,
+      "largest" : "718-935-4908",
+      "top" : [ {
+        "count" : 20,
+        "item" : "718-935-2178"
+      }, {
+        "count" : 19,
+        "item" : "718-935-2278"
+      }, {
+        "count" : 18,
+        "item" : "718-935-2313"
+      }, {
+        "count" : 17,
+        "item" : "718-935-2331"
+      }, {
+        "count" : 16,
+        "item" : "718-935-2340"
+      }, {
+        "count" : 15,
+        "item" : "718-935-2371"
+      }, {
+        "count" : 14,
+        "item" : "718-935-4908"
+      }, {
+        "count" : 13,
+        "item" : "718-935-2383"
+      }, {
+        "count" : 12,
+        "item" : "718-935-2385"
+      }, {
+        "count" : 11,
+        "item" : "718-935-2386"
+      }, {
+        "count" : 10,
+        "item" : "718-935-2391"
+      }, {
+        "count" : 9,
+        "item" : "718-935-2393"
+      }, {
+        "count" : 8,
+        "item" : "718-935-2402"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3003367,
+    "name" : "Districts Served",
+    "dataTypeName" : "text",
+    "fieldName" : "districts_served",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1570468,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "1, 2, 4",
+      "null" : 0,
+      "largest" : "8, 11, 12",
+      "top" : [ {
+        "count" : 20,
+        "item" : "7, 9, 10"
+      }, {
+        "count" : 19,
+        "item" : "8, 11, 12"
+      }, {
+        "count" : 18,
+        "item" : "17, 18, 22"
+      }, {
+        "count" : 17,
+        "item" : "20, 21"
+      }, {
+        "count" : 16,
+        "item" : "19, 23, 32"
+      }, {
+        "count" : 15,
+        "item" : "13, 14, 15, 16"
+      }, {
+        "count" : 14,
+        "item" : "1, 2, 4"
+      }, {
+        "count" : 13,
+        "item" : "3, 5, 6"
+      }, {
+        "count" : 12,
+        "item" : "24, 30"
+      }, {
+        "count" : 11,
+        "item" : "25, 26"
+      }, {
+        "count" : 10,
+        "item" : "27, 28, 29"
+      }, {
+        "count" : 9,
+        "item" : "31"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3003368,
+    "name" : "Hours",
+    "dataTypeName" : "text",
+    "fieldName" : "hours",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1570469,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "Monday-Friday, 8:00am-3:00pm",
+      "null" : 0,
+      "largest" : "Monday-Friday, 8:00am-3:00pm",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Monday-Friday, 8:00am-3:00pm"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3003369,
+    "name" : "Location 1",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 7,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1570470,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : {
+        "longitude" : "-73.88479001504714",
+        "latitude" : "40.86260132868841",
+        "human_address" : "{\"address\":\"1 Fordham Plaza\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10458\"}"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.80979665579099",
+        "latitude" : "40.70119264912154",
+        "human_address" : "{\"address\":\"90 27 Sutphin Boulevard\",\"city\":\"Queens\",\"state\":\"NY\",\"zip\":\"11435\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.88479001504714",
+          "latitude" : "40.86260132868841",
+          "human_address" : "{\"address\":\"1 Fordham Plaza\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10458\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.84505192808636",
+          "latitude" : "40.83350254294294",
+          "human_address" : "{\"address\":\"1230 Zerega Avenue\",\"city\":\"Bronx\",\"state\":\"NY\",\"zip\":\"10462\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.95514627992958",
+          "latitude" : "40.61861566079161",
+          "human_address" : "{\"address\":\"1780 Ocean Avenue\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11230\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-74.02900947197249",
+          "latitude" : "40.62041885015069",
+          "human_address" : "{\"address\":\"415 89th Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11209\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.9119837092521",
+          "latitude" : "40.67315873575299",
+          "human_address" : "{\"address\":\"1665 St Mark's Avenue\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"11233\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.97689848785359",
+          "latitude" : "40.68897153307231",
+          "human_address" : "{\"address\":\"29 Fort Greene Place\",\"city\":\"Brooklyn (Note: General Education Only\",\"state\":\"NY\",\"zip\":\"11217\"}"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.9886151753521",
+          "latitude" : "40.69077924928718",
+          "human_address" : "{\"address\":\"131 Livingston Street\",\"city\":\"Brooklyn (Note: Special Education Only\",\"state\":\"NY\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.99319231774615",
+          "latitude" : "40.747492275236596",
+          "human_address" : "{\"address\":\"333 Seventh Avenue\",\"city\":\"Manhattan\",\"state\":\"NY\",\"zip\":\"10001\"}"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.9537766018919",
+          "latitude" : "40.81124166756702",
+          "human_address" : "{\"address\":\"388 125th Street\",\"city\":\"Manhattan\",\"state\":\"NY\",\"zip\":\"10027\"}"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.93866902925225",
+          "latitude" : "40.74570244980828",
+          "human_address" : "{\"address\":\"28 11 Queens Plaza\",\"city\":\"Queens\",\"state\":\"NY\",\"zip\":\"11101\"}"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.82719028070687",
+          "latitude" : "40.76862022064671",
+          "human_address" : "{\"address\":\"30 48 Linden Place\",\"city\":\"Queens\",\"state\":\"NY\",\"zip\":\"11354\"}"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.80979665579099",
+          "latitude" : "40.70119264912154",
+          "human_address" : "{\"address\":\"90 27 Sutphin Boulevard\",\"city\":\"Queens\",\"state\":\"NY\",\"zip\":\"11435\"}"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-74.10186829020036",
+          "latitude" : "40.60837741930288",
+          "human_address" : "{\"address\":\"718 Ocean Terrace\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10301\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "jobs and economic mobility", "doe", "education", "enrollment", "schools", "borough", "lifelong learning" ],
+  "flags" : [ "default" ]
+}

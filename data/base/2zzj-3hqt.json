@@ -1,0 +1,901 @@
+{
+  "id" : "2zzj-3hqt",
+  "name" : "Laundromats",
+  "attribution" : "Department of Consumer Affairs (DCA)",
+  "averageRating" : 0,
+  "category" : "Business and Economic",
+  "createdAt" : 1318031108,
+  "description" : "A list of laundry facilities that have a current DCA license as of the run date.",
+  "displayType" : "table",
+  "downloadCount" : 1450,
+  "numberOfComments" : 0,
+  "oid" : 341915,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318031267,
+  "publicationGroup" : 243928,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318031198,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 243928,
+  "totalTimesRated" : 0,
+  "viewCount" : 716,
+  "viewLastModified" : 1319477279,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2981759,
+    "name" : "Entity Type",
+    "dataTypeName" : "text",
+    "fieldName" : "entity_type",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561615,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 2507,
+      "smallest" : "LAUNDRY",
+      "null" : 0,
+      "largest" : "LAUNDRY",
+      "top" : [ {
+        "count" : 2507,
+        "item" : "LAUNDRY"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2981760,
+    "name" : "License Number",
+    "dataTypeName" : "number",
+    "fieldName" : "license_number",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561616,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 2507,
+      "smallest" : "206974",
+      "sum" : "2907916275",
+      "null" : 0,
+      "average" : "1159918.737534902",
+      "largest" : "1361741",
+      "top" : [ {
+        "count" : 1,
+        "item" : "1345428"
+      }, {
+        "count" : 1,
+        "item" : "911496"
+      }, {
+        "count" : 1,
+        "item" : "964391"
+      }, {
+        "count" : 1,
+        "item" : "1010673"
+      }, {
+        "count" : 1,
+        "item" : "1216765"
+      }, {
+        "count" : 1,
+        "item" : "1187181"
+      }, {
+        "count" : 1,
+        "item" : "1324360"
+      }, {
+        "count" : 1,
+        "item" : "1171617"
+      }, {
+        "count" : 1,
+        "item" : "524060"
+      }, {
+        "count" : 1,
+        "item" : "785994"
+      }, {
+        "count" : 1,
+        "item" : "1243470"
+      }, {
+        "count" : 1,
+        "item" : "895136"
+      }, {
+        "count" : 1,
+        "item" : "1158252"
+      }, {
+        "count" : 1,
+        "item" : "1275212"
+      }, {
+        "count" : 1,
+        "item" : "1208920"
+      }, {
+        "count" : 1,
+        "item" : "1343914"
+      }, {
+        "count" : 1,
+        "item" : "817219"
+      }, {
+        "count" : 1,
+        "item" : "1276944"
+      }, {
+        "count" : 1,
+        "item" : "1312969"
+      }, {
+        "count" : 1,
+        "item" : "1317504"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 2981761,
+    "name" : "Entity Name",
+    "dataTypeName" : "text",
+    "fieldName" : "entity_name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561617,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 2507,
+      "smallest" : "1002 KARISS FRENCH CLEANERS CORP",
+      "null" : 0,
+      "largest" : "ZOU, XIAO MING",
+      "top" : [ {
+        "count" : 6,
+        "item" : "GRAHAM, CLINTON"
+      }, {
+        "count" : 2,
+        "item" : "FOWLER ROUTE CO., INC"
+      }, {
+        "count" : 2,
+        "item" : "RUSSELL, ADRIAN D"
+      }, {
+        "count" : 2,
+        "item" : "WU, AI WAH"
+      }, {
+        "count" : 2,
+        "item" : "J & M LAUNDROMAT LLC"
+      }, {
+        "count" : 2,
+        "item" : "CHONG, LIAN WAH"
+      }, {
+        "count" : 2,
+        "item" : "MGK LAUNDRY CORP"
+      }, {
+        "count" : 2,
+        "item" : "K & M LAUNDROMAT INC"
+      }, {
+        "count" : 2,
+        "item" : "MEYO, RODOLFO"
+      }, {
+        "count" : 2,
+        "item" : "PACIFIC LAUNDROMAT, INC."
+      }, {
+        "count" : 2,
+        "item" : "FOWLER INC."
+      }, {
+        "count" : 2,
+        "item" : "GUFRAN LAUNDRETTE INC"
+      }, {
+        "count" : 2,
+        "item" : "PARK'S NY CLEANERS INC"
+      }, {
+        "count" : 2,
+        "item" : "CLEAN LAUNDRYLAND, INC."
+      }, {
+        "count" : 2,
+        "item" : "CIAMPA NORTH LLC"
+      }, {
+        "count" : 2,
+        "item" : "THAI SELECT, INC"
+      }, {
+        "count" : 2,
+        "item" : "METRO COMMUNITY LAUNDROMAT CORP"
+      }, {
+        "count" : 2,
+        "item" : "LINES BUILDER COMPANY, LLC"
+      }, {
+        "count" : 2,
+        "item" : "PRO-WASH INC"
+      }, {
+        "count" : 2,
+        "item" : "8004 5TH AVE LAUNDRY INC"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2981762,
+    "name" : "Camis Trade Name",
+    "dataTypeName" : "text",
+    "fieldName" : "camis_trade_name",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561618,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 768,
+      "smallest" : "-",
+      "null" : 1739,
+      "largest" : "Z LAUNDROMAT",
+      "top" : [ {
+        "count" : 6,
+        "item" : "ALL WASHED UP"
+      }, {
+        "count" : 5,
+        "item" : "C & G LAUNDROMAT"
+      }, {
+        "count" : 4,
+        "item" : "LAUNDROMAT"
+      }, {
+        "count" : 3,
+        "item" : "FRIENDLY LAUNDROMAT"
+      }, {
+        "count" : 3,
+        "item" : "SUPER CLEAN LAUNDROMAT"
+      }, {
+        "count" : 3,
+        "item" : "LUCKY LAUNDROMAT"
+      }, {
+        "count" : 3,
+        "item" : "EXPRESS 1 LAUNDROMAT"
+      }, {
+        "count" : 2,
+        "item" : "SUNNY LAUNDROMAT"
+      }, {
+        "count" : 2,
+        "item" : "CYPRESS LAUNDROMAT"
+      }, {
+        "count" : 2,
+        "item" : "QUALITY LAUNDROMAT"
+      }, {
+        "count" : 2,
+        "item" : "PARADISE LAUNDROMAT"
+      }, {
+        "count" : 2,
+        "item" : "EZ CLEAN LAUNDROMAT"
+      }, {
+        "count" : 2,
+        "item" : "CHEN'S LAUNDROMAT"
+      }, {
+        "count" : 2,
+        "item" : "PARKWAY LAUNDROMAT"
+      }, {
+        "count" : 2,
+        "item" : "J & M LAUNDROMAT"
+      }, {
+        "count" : 2,
+        "item" : "FAMILY LAUNDRY"
+      }, {
+        "count" : 2,
+        "item" : "R & S LAUNDROMAT"
+      }, {
+        "count" : 2,
+        "item" : "STAR LAUNDROMAT"
+      }, {
+        "count" : 2,
+        "item" : "TIP TOP LAUNDROMAT"
+      }, {
+        "count" : 2,
+        "item" : "ZHENG'S LAUNDROMAT"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2981763,
+    "name" : "Address Street Name",
+    "dataTypeName" : "text",
+    "fieldName" : "address_street_name",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561619,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 2507,
+      "smallest" : "100 STREET",
+      "null" : 0,
+      "largest" : "ZEREGA AVENUE",
+      "top" : [ {
+        "count" : 49,
+        "item" : "JAMAICA AVENUE"
+      }, {
+        "count" : 42,
+        "item" : "BROADWAY"
+      }, {
+        "count" : 32,
+        "item" : "5 AVENUE"
+      }, {
+        "count" : 27,
+        "item" : "3 AVENUE"
+      }, {
+        "count" : 26,
+        "item" : "NOSTRAND AVENUE"
+      }, {
+        "count" : 26,
+        "item" : "4 AVENUE"
+      }, {
+        "count" : 22,
+        "item" : "HILLSIDE AVENUE"
+      }, {
+        "count" : 22,
+        "item" : "AMSTERDAM AVENUE"
+      }, {
+        "count" : 22,
+        "item" : "2 AVENUE"
+      }, {
+        "count" : 21,
+        "item" : "CHURCH AVENUE"
+      }, {
+        "count" : 21,
+        "item" : "NORTHERN BOULEVARD"
+      }, {
+        "count" : 19,
+        "item" : "MYRTLE AVENUE"
+      }, {
+        "count" : 19,
+        "item" : "1 AVENUE"
+      }, {
+        "count" : 19,
+        "item" : "METROPOLITAN AVENUE"
+      }, {
+        "count" : 19,
+        "item" : "WHITE PLAINS ROAD"
+      }, {
+        "count" : 19,
+        "item" : "LIBERTY AVENUE"
+      }, {
+        "count" : 19,
+        "item" : "FULTON STREET"
+      }, {
+        "count" : 18,
+        "item" : "101 AVENUE"
+      }, {
+        "count" : 18,
+        "item" : "8 AVENUE"
+      }, {
+        "count" : 17,
+        "item" : "FLATBUSH AVENUE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2981764,
+    "name" : "Street Address",
+    "dataTypeName" : "text",
+    "fieldName" : "street_address",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561620,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 2507,
+      "smallest" : "1000 HOE AVENUE",
+      "null" : 0,
+      "largest" : "995 MANHATTAN AVENUE",
+      "top" : [ {
+        "count" : 2,
+        "item" : "951 HOE AVE"
+      }, {
+        "count" : 2,
+        "item" : "184 NASSAU AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "300 MACDOUGAL STREET"
+      }, {
+        "count" : 2,
+        "item" : "375 BROADWAY"
+      }, {
+        "count" : 2,
+        "item" : "84-11 ELMHURST AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "1015 MORRIS PARK AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "409 AMSTERDAM AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "618 METROPOLITAN AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "1689 1 AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "112-20 FARMERS BOULEVARD"
+      }, {
+        "count" : 2,
+        "item" : "1475 FLATBUSH AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "250 BROAD STREET"
+      }, {
+        "count" : 2,
+        "item" : "8115 FLATLANDS AVENUE"
+      }, {
+        "count" : 1,
+        "item" : "101-02 37 AVENUE"
+      }, {
+        "count" : 1,
+        "item" : "82-10 BAXTER AVENUE"
+      }, {
+        "count" : 1,
+        "item" : "3402 FULTON STREET"
+      }, {
+        "count" : 1,
+        "item" : "106 REMSEN AVENUE"
+      }, {
+        "count" : 1,
+        "item" : "1655 NOSTRAND AVENUE"
+      }, {
+        "count" : 1,
+        "item" : "337 PLEASANT AVENUE"
+      }, {
+        "count" : 1,
+        "item" : "68-04 BURNS STREET"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2981765,
+    "name" : "Address Location",
+    "dataTypeName" : "text",
+    "fieldName" : "address_location",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561621,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 77,
+      "smallest" : "(CORNER OF EAST 3RD STREET)",
+      "null" : 2430,
+      "largest" : "UNIT  L",
+      "top" : [ {
+        "count" : 5,
+        "item" : "1ST FLOOR"
+      }, {
+        "count" : 3,
+        "item" : "STORE"
+      }, {
+        "count" : 3,
+        "item" : "FIRST FLOOR"
+      }, {
+        "count" : 2,
+        "item" : "GROUND FLOOR"
+      }, {
+        "count" : 2,
+        "item" : "BASEMENT"
+      }, {
+        "count" : 2,
+        "item" : "STORE #2"
+      }, {
+        "count" : 2,
+        "item" : "1 FL"
+      }, {
+        "count" : 1,
+        "item" : "ROOM 16"
+      }, {
+        "count" : 1,
+        "item" : "3951-53"
+      }, {
+        "count" : 1,
+        "item" : "2356-58-54"
+      }, {
+        "count" : 1,
+        "item" : "15 & 17 STATION SQUARE"
+      }, {
+        "count" : 1,
+        "item" : "2FL"
+      }, {
+        "count" : 1,
+        "item" : "AKA 358 BLEEKER STREET"
+      }, {
+        "count" : 1,
+        "item" : "(CORNER OF EAST 3RD STREET)"
+      }, {
+        "count" : 1,
+        "item" : "ROOM #14"
+      }, {
+        "count" : 1,
+        "item" : "1/FL"
+      }, {
+        "count" : 1,
+        "item" : "STORE # 13"
+      }, {
+        "count" : 1,
+        "item" : "UNIT  L"
+      }, {
+        "count" : 1,
+        "item" : "UNIT A"
+      }, {
+        "count" : 1,
+        "item" : "AKA 1618-1622 FULTON STREET"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2981766,
+    "name" : "Address Zip Code",
+    "dataTypeName" : "number",
+    "fieldName" : "address_zip_code",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561622,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 2492,
+      "smallest" : "10001",
+      "sum" : "27256765",
+      "null" : 15,
+      "average" : "10937.70666131621",
+      "largest" : "11694",
+      "top" : [ {
+        "count" : 59,
+        "item" : "11385"
+      }, {
+        "count" : 54,
+        "item" : "11220"
+      }, {
+        "count" : 52,
+        "item" : "11368"
+      }, {
+        "count" : 42,
+        "item" : "11377"
+      }, {
+        "count" : 39,
+        "item" : "11226"
+      }, {
+        "count" : 38,
+        "item" : "11207"
+      }, {
+        "count" : 36,
+        "item" : "11211"
+      }, {
+        "count" : 35,
+        "item" : "11373"
+      }, {
+        "count" : 33,
+        "item" : "11209"
+      }, {
+        "count" : 33,
+        "item" : "11106"
+      }, {
+        "count" : 33,
+        "item" : "11208"
+      }, {
+        "count" : 31,
+        "item" : "11372"
+      }, {
+        "count" : 31,
+        "item" : "11203"
+      }, {
+        "count" : 31,
+        "item" : "11214"
+      }, {
+        "count" : 30,
+        "item" : "11215"
+      }, {
+        "count" : 29,
+        "item" : "10467"
+      }, {
+        "count" : 29,
+        "item" : "11225"
+      }, {
+        "count" : 28,
+        "item" : "10021"
+      }, {
+        "count" : 28,
+        "item" : "11236"
+      }, {
+        "count" : 28,
+        "item" : "10462"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 2981767,
+    "name" : "Telephone Number",
+    "dataTypeName" : "number",
+    "fieldName" : "telephone_number",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561623,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 2501,
+      "smallest" : "0",
+      "sum" : "16235586824718",
+      "null" : 6,
+      "average" : "6491638074.657337",
+      "largest" : "9999999999",
+      "top" : [ {
+        "count" : 35,
+        "item" : "9999999999"
+      }, {
+        "count" : 15,
+        "item" : "7189999999"
+      }, {
+        "count" : 11,
+        "item" : "7184381118"
+      }, {
+        "count" : 8,
+        "item" : "7183534430"
+      }, {
+        "count" : 8,
+        "item" : "7185013258"
+      }, {
+        "count" : 6,
+        "item" : "9086863400"
+      }, {
+        "count" : 5,
+        "item" : "7185236800"
+      }, {
+        "count" : 4,
+        "item" : "7187681469"
+      }, {
+        "count" : 4,
+        "item" : "7187714805"
+      }, {
+        "count" : 4,
+        "item" : "7183617350"
+      }, {
+        "count" : 3,
+        "item" : "2129999999"
+      }, {
+        "count" : 3,
+        "item" : "7187680099"
+      }, {
+        "count" : 3,
+        "item" : "2129879424"
+      }, {
+        "count" : 3,
+        "item" : "7183761841"
+      }, {
+        "count" : 3,
+        "item" : "7189317866"
+      }, {
+        "count" : 3,
+        "item" : "7189394888"
+      }, {
+        "count" : 3,
+        "item" : "7183899727"
+      }, {
+        "count" : 2,
+        "item" : "2019163792"
+      }, {
+        "count" : 2,
+        "item" : "7188230566"
+      }, {
+        "count" : 2,
+        "item" : "9176828127"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "false",
+      "align" : "right",
+      "mask" : "###-###-####"
+    }
+  }, {
+    "id" : 2981768,
+    "name" : "Location 1",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 11,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1561624,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 2507,
+      "smallest" : {
+        "longitude" : -73.93942796552727,
+        "latitude" : 40.81020574755445,
+        "human_address" : "{\"address\":\"1 131 STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10037\"}"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : -73.95476726205894,
+        "latitude" : 40.733040926864966,
+        "human_address" : "{\"address\":\"995 MANHATTAN AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11222\"}"
+      },
+      "top" : [ {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.9032962155625,
+          "latitude" : 40.835299221081854,
+          "human_address" : "{\"address\":\"3706 3 AVENUE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10456\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.91390142943527,
+          "latitude" : 40.80534646069304,
+          "human_address" : "{\"address\":\"679 138 STREET\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10454\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.99869521364727,
+          "latitude" : 40.62521281456315,
+          "human_address" : "{\"address\":\"6401 14 AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11219\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.97712160646797,
+          "latitude" : 40.681410048613806,
+          "human_address" : "{\"address\":\"54 5 AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11217\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.92609907323066,
+          "latitude" : 40.66009166871608,
+          "human_address" : "{\"address\":\"1007 WINTHROP STREET\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11212\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.7875740339145,
+          "latitude" : 40.698104881734935,
+          "human_address" : "{\"address\":\"162 10 SOUTH ROAD\",\"city\":\"JAMAICA\",\"state\":\"NY\",\"zip\":\"11433\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.98277816864686,
+          "latitude" : 40.72807591262398,
+          "human_address" : "{\"address\":\"286 10TH STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10009\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.95658091793337,
+          "latitude" : 40.813835261338056,
+          "human_address" : "{\"address\":\"507 125 STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10027\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.8903616864991,
+          "latitude" : 40.74693682587636,
+          "human_address" : "{\"address\":\"7510 ROOSEVELT AVENUE\",\"city\":\"JACKSON HEIGHTS\",\"state\":\"NY\",\"zip\":\"11372\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.85409961086262,
+          "latitude" : 40.88702284562625,
+          "human_address" : "{\"address\":\"4012 BRONXWOOD AVENUE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10466\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -74.03209985357874,
+          "latitude" : 40.63758431003849,
+          "human_address" : "{\"address\":\"106 BAY RIDGE AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11220\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.9578942277011,
+          "latitude" : 40.73188488912443,
+          "human_address" : "{\"address\":\"190 FRANKLIN STREET\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11222\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.85702228584978,
+          "latitude" : 40.69176458756573,
+          "human_address" : "{\"address\":\"88 15 JAMAICA AVENUE\",\"city\":\"WOODHAVEN\",\"state\":\"NY\",\"zip\":\"11421\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.94059071195029,
+          "latitude" : 40.79322770157262,
+          "human_address" : "{\"address\":\"2141 2 AVENUE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10029\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.82147854789662,
+          "latitude" : 40.7512997969481,
+          "human_address" : "{\"address\":\"45 25 PARSONS BOULEVARD\",\"city\":\"FLUSHING\",\"state\":\"NY\",\"zip\":\"11355\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.9533907850678,
+          "latitude" : 40.69486740497315,
+          "human_address" : "{\"address\":\"740A MYRTLE AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11205\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -74.00537659810128,
+          "latitude" : 40.64645969155867,
+          "human_address" : "{\"address\":\"4522 6 AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11220\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.93866902925225,
+          "latitude" : 40.74570244980828,
+          "human_address" : "{\"address\":\"37 44 29 STREET\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11101\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.77530690169215,
+          "latitude" : 40.6769452621142,
+          "human_address" : "{\"address\":\"116 57 SUTPHIN BOULEVARD\",\"city\":\"JAMAICA\",\"state\":\"NY\",\"zip\":\"11434\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.96492588435359,
+          "latitude" : 40.6230010245835,
+          "human_address" : "{\"address\":\"1416 CONEY ISLAND AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11230\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "laundry", "license", "laundromat", "clothing", "washing", "cleaning", "clothes", "consumer affairs", "dca" ],
+  "flags" : [ "default" ]
+}

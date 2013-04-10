@@ -1,0 +1,216 @@
+{
+  "id" : "ns22-2dcm",
+  "name" : "Police Department Disciplinary Penalties",
+  "attribution" : "Civilian Complaint Review Board (CCRB)",
+  "attributionLink" : "http://www.nyc.gov/html/ccrb/pdf/ccrbappendices2011.pdf",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1361909314,
+  "description" : "This data set represents police department disciplinary penalties imposed by NYPD",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2644069,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361909543,
+  "publicationGroup" : 701515,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1361909316,
+  "rowsUpdatedBy" : "iacr-duv5",
+  "signed" : false,
+  "tableId" : 701515,
+  "totalTimesRated" : 0,
+  "viewCount" : 21,
+  "viewLastModified" : 1361910926,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 47143086,
+    "name" : "Year",
+    "dataTypeName" : "number",
+    "fieldName" : "year",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8186285,
+    "width" : 50,
+    "cachedContents" : {
+      "non_null" : 27,
+      "smallest" : "2009",
+      "sum" : "54270",
+      "null" : 0,
+      "average" : "2010",
+      "largest" : "2011",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2009"
+      }, {
+        "count" : 19,
+        "item" : "2010"
+      }, {
+        "count" : 18,
+        "item" : "2011"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "false",
+      "align" : "center"
+    }
+  }, {
+    "id" : 47143087,
+    "name" : "Penalties",
+    "dataTypeName" : "text",
+    "fieldName" : "penalties",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8186286,
+    "width" : 437,
+    "cachedContents" : {
+      "non_null" : 27,
+      "smallest" : "Command discipline A",
+      "null" : 0,
+      "largest" : "Warned and admonished",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Terminated"
+      }, {
+        "count" : 19,
+        "item" : "Suspension or loss of vacation time of 31 or more days and / or 1 year probation"
+      }, {
+        "count" : 18,
+        "item" : "Suspension or loss of vacation time of 21 to 30 more days and / or 1 year probation"
+      }, {
+        "count" : 17,
+        "item" : "Suspension or loss of vacation time of 11 to 20 days "
+      }, {
+        "count" : 16,
+        "item" : "Suspension or loss of vacation time of 1 to 10 days "
+      }, {
+        "count" : 15,
+        "item" : "Command discipline A"
+      }, {
+        "count" : 14,
+        "item" : "Command discipline B"
+      }, {
+        "count" : 13,
+        "item" : "Instructions"
+      }, {
+        "count" : 12,
+        "item" : "Warned and admonished"
+      } ]
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 47143088,
+    "name" : "Officer Count",
+    "dataTypeName" : "number",
+    "fieldName" : "officer_count",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 8186287,
+    "width" : 75,
+    "cachedContents" : {
+      "non_null" : 27,
+      "smallest" : "0",
+      "sum" : "592",
+      "null" : 0,
+      "average" : "21.92592592592593",
+      "largest" : "139",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "11"
+      }, {
+        "count" : 15,
+        "item" : "14"
+      }, {
+        "count" : 14,
+        "item" : "58"
+      }, {
+        "count" : 13,
+        "item" : "70"
+      }, {
+        "count" : 12,
+        "item" : "2"
+      }, {
+        "count" : 11,
+        "item" : "6"
+      }, {
+        "count" : 10,
+        "item" : "62"
+      }, {
+        "count" : 9,
+        "item" : "137"
+      }, {
+        "count" : 8,
+        "item" : "5"
+      }, {
+        "count" : 7,
+        "item" : "16"
+      }, {
+        "count" : 6,
+        "item" : "46"
+      }, {
+        "count" : 5,
+        "item" : "139"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "iacr-duv5",
+    "displayName" : "Tejas.Patel",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1360338392,
+    "roleName" : "publisher",
+    "screenName" : "Tejas.Patel",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "ccrb", "police", "penalties", "department", "terminated" ],
+  "flags" : [ "default" ]
+}
