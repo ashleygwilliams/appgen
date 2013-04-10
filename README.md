@@ -22,3 +22,20 @@ a particular domain name that we're going to tell people about.
 In order to keep the name consistent, we are setting the random seed inside of
 `FakeApp.getRandomName`. **Don't change this**. In fact, you should probably.
 avoid changing anything about this method.
+
+## Things to randomize
+
+* Identity
+  * App name (from a startup name generator)
+  * App text (from the TED talk generator)
+  * App logo (from a logo generator)
+  * Url file extension (php, asp, cgi)
+* Chrome
+  * Font size of title
+  * Typeface
+  * Background texture
+  * Colors
+  * Footer stickiness
+  * Tile server
+  * Button curviness
+  * Map size
