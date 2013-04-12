@@ -31,11 +31,11 @@ avoid changing anything about this method.
   * App logo (from a logo generator)
   * Url file extension (php, asp, cgi)
 * Chrome
-  * Font size of title
+  * ~~Font size of title~~
   * Typeface
   * Background texture
   * Colors
   * Footer stickiness
-  * Tile server
+  * ~~Tile server~~
   * Button curviness
   * ~~Map size~~
