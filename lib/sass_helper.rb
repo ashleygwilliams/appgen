@@ -18,9 +18,15 @@ module Sass::Script::Functions
     Sass::Script::String.new(font)
   end
 
-  def getRandomPixels()
+  def getRandomPixels
     r = Random.new
     rpx ||= r.rand(40...60)
+    Sass::Script::String.new(rpx.to_s + "px")
+  end
+
+  def getRandomMapHeight
+    r = Random.new
+    rpx ||= r.rand(200...1400)
     Sass::Script::String.new(rpx.to_s + "px")
   end
 

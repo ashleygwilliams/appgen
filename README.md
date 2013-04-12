@@ -38,4 +38,4 @@ avoid changing anything about this method.
   * Footer stickiness
   * Tile server
   * Button curviness
-  * Map size
+  * ~~Map size~~

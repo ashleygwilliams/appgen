@@ -89,7 +89,7 @@ header {
   margin-right: -$largespace;
 }
 
-#map { height: 300px; }
+#map { height: getRandomMapHeight(); }
 
 html,
       body {
