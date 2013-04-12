@@ -1,7 +1,8 @@
 require 'sass'
 
 module Sass::Script::Functions
-  FONTS = ["Lobster", "Raleway","Lato","Oleo Script","Special Elite","Fredoka One"]
+  # FONTS = ["Lobster", "Raleway","Lato","Oleo Script","Special Elite","Fredoka One"]
+  FONTS = ["Times New Roman", "Arial", "Helvetica", "sans-serif", "serif", "Garamond", "Cambria", "Calibri", "Georgia"]
   PATTERNS = ["img/bg_stripe.png", "img/bg_square.png"]
   font = nil
 
