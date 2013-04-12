@@ -18,7 +18,13 @@ module Sass::Script::Functions
     Sass::Script::String.new(font)
   end
 
-  def getRandomPixels
+  def getRandomPattern
+    pattern ||= PATTERNS.sample()
+    Sass::Script::String.new(pattern)
+  end
+
+  # Refactor these! Maybe define a random uniform function with a scaling parameter.
+  def getRandomH1Size
     r = Random.new
     rpx ||= r.rand(40...60)
     Sass::Script::String.new(rpx.to_s + "px")
@@ -30,8 +36,9 @@ module Sass::Script::Functions
     Sass::Script::String.new(rpx.to_s + "px")
   end
 
-  def getRandomPattern
-    pattern ||= PATTERNS.sample()
-    Sass::Script::String.new(pattern)
+  def getRandomBorderRadius
+    r = Random.new
+    rpx ||= r.rand(0...50)
+    Sass::Script::String.new(rpx.to_s + "px")
   end
 end

@@ -26,6 +26,7 @@ body {
   border-radius: 5px;
   padding: $mediumspace $largespace;
   margin-bottom: $mediumspace;
+  border-radius: getRandomBorderRadius();
 }
 
 .bttn-primary {
@@ -73,7 +74,7 @@ body {
 h1 {
   padding: $largespace;
   color: $btncolor1;
-  font-size: getRandomPixels();
+  font-size: getRandomH1Size();
 }
 
 footer, header {
