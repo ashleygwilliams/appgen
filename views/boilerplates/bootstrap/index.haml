@@ -19,6 +19,6 @@
   .span4
     %a{:class=>"btn btn-primary", :href=> "/map?seed=#{@seed}"} #{Thesaurus::VIEW.sample.capitalize} Map
   .span4  
-    %a{:class=>"btn btn-primary", :href=>"#"} #{Thesaurus::CONTACT.sample.capitalize}
+    %a{:class=>"btn btn-primary", :href=>"/contact?seed=#{@app}"} #{Thesaurus::CONTACT.sample.capitalize}
   .span4
     %a{:class=>"btn btn-info", :href=>"/info?seed=#{@seed}"} #{Thesaurus::ABOUT.sample.capitalize}
