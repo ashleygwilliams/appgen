@@ -51,7 +51,7 @@ class BigApp < Sinatra::Application
 
   get "/stylesheet.css" do
     response['Content-Type'] = 'text/css'
-    scss = erb File.read("views/styles.scss.erb")
+    scss = erb File.read("views/styles.css.scss.erb")
     (Sass::Engine.new scss, options = {:syntax => :scss}).render
   end
 
