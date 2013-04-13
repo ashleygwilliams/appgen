@@ -3,7 +3,7 @@
 #map
   :javascript
     var map = L.map('map');
-    map.locate({setView: true, maxZoom: 16});
+    map.locate({setView: true, minZoom: #{@app.zooms[0]}, maxZoom: #{@app.zooms[1]}});
     var data = #{@map_page.leaflet_geojson}
 
     function onLocationFound(e) {

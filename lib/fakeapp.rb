@@ -2,7 +2,7 @@ class FakeApp
   include Sass::Script::Functions
   @@current_app = nil
 
-  attr_accessor :name, :dataset, :font, :server
+  attr_accessor :name, :dataset, :font, :server, :zooms
 
   PREFIXES = ["responsive", "game", "beta", "tech", "digital", "social", "my", "our", "the", "all", "in", "on"]
   SUFFIXES = ["box", "grid", "share", "wise", "hop", "works", "bit", "book", "list", "square", "rock", ".ly", "sy", "er", ".it", "ie", ".io", ".am", "ia", "ora", "ero", "ist", "ism", "ium", "ble", "ify", "ous", "ing"]
@@ -20,7 +20,7 @@ class FakeApp
     "Microsoft-IIS/7.5",
     "Apache/2.4.4 (Unix) OpenSSL/1.0.0g",
   ]
-
+  ZOOMS=(3..21).to_a
 
   def initialize
     @font = getRandomFont
@@ -30,6 +30,7 @@ class FakeApp
     @tile_set = FakeApp.getRandomTiles
     @@current_app = self
     @server = SERVERS.sample
+    @zooms = (ZOOMS.sample 2).sort
   end
 
   def self.current_app
