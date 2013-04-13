@@ -1,6 +1,6 @@
 - @about_page = AboutPresenter.new(@app.dataset)
-%header  
-  .navbar
+%header
+  %div{:class=>"#{@app.navbar}"}
     .navbar-inner
       %a.brand#logo{:href=>"/?seed=#{@seed}"} #{@app.name}
       %ul.nav

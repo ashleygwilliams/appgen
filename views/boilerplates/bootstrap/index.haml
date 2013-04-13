@@ -1,5 +1,5 @@
 %header
-  .navbar
+  %div{:class=>"#{@app.navbar}"}
     .navbar-inner
       %a.brand#logo{:href=>"/?seed=#{@seed}"} #{@app.name}
       %ul.nav

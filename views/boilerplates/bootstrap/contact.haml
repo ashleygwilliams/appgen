@@ -1,6 +1,6 @@
 - @about_page = AboutPresenter.new(@app.dataset)
 %header
-  .navbar
+  %div{:class=>"#{@app.navbar}"}
     .navbar-inner
       %a.brand#logo{:href=>"/?seed=#{@seed}"} #{@app.name}
       %ul.nav
@@ -12,3 +12,20 @@
           %a{:href=>"/map?seed=#{@seed}"} #{Thesaurus::VIEW.sample.capitalize} Map
 %h1 #{Thesaurus::CONTACT.sample.capitalize}
 %p Do you #{Thesaurus::CARE.sample} #{@about_page.getDataTag}? Do you #{Thesaurus::CARE.sample} #{@about_page.getDataTag}? You should tell your congressman about it. The data is striking and the government needs to know!
+.row-fluid
+  .congressman.span4
+    %p Your local congress man is 
+    %img.img.img-polaroid{:src=>"http://placehold.it/200x200"}
+  .span8
+    %form.form-horizontal
+      .control-group
+        %label.control-label{:for=>"inputName"} Your name
+        .controls
+          %input#inputName{:type=>"text", :placeholder=>"Name"}
+      .control-group
+        %label.control-label{:for=>"inputEmail"} Your email address
+        .controls
+          %input#inputEmail{:type=>"text", :placeholder=>"Email"}
+          %br/
+          %hr
+          %button.btn.btn-success{:type=>"submit"} Submit
