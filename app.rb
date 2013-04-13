@@ -50,7 +50,9 @@ class BigApp < Sinatra::Application
   end
 
   get "/stylesheet.css" do
-    scss :styles, :options=> {}, :locals => {:font => @app.font}
+    response['Content-Type'] = 'text/css'
+    scss = erb File.read("views/styles.scss.erb")
+    (Sass::Engine.new scss, options = {:syntax => :scss}).render
   end
 
   def partial(haml_file)
