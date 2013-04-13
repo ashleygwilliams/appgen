@@ -1,6 +1,24 @@
-.logo
-  %h1 #{@app.name}
+%header
+  .navbar
+    .navbar-inner
+      %a.brand#logo{:href=>"/?seed=#{@seed}"} #{@app.name}
+      %ul.nav
+        %li
+          %a{:href=>"/info?seed=#{@seed}"} #{Thesaurus::ABOUT.sample.capitalize}
+        %li
+          %a{:href=>"/contact?seed=#{@seed}"} #{Thesaurus::CONTACT.sample.capitalize}
+        %li
+          %a{:href=>"/map?seed=#{@seed}"} #{Thesaurus::VIEW.sample.capitalize} Map
+.hero-unit  
+  %h1#logo #{@app.name}
+  %p
+  %p
+    %a{:class=>"btn btn-primary btn-large"} Check out the Data!
 .navi
-  %a{:class=>"bttn bttn-primary", :href=> "/map?seed=#{@seed}"} #{Thesaurus::VIEW.sample.capitalize} Map
-  %a{:class=>"bttn bttn-primary", :href=>"#"} #{Thesaurus::CONTACT.sample.capitalize}
-  %a{:class=>"bttn bttn-info", :href=>"/info?seed=#{@seed}"} #{Thesaurus::ABOUT.sample.capitalize}
+.row-fluid
+  .span4
+    %a{:class=>"btn btn-primary", :href=> "/map?seed=#{@seed}"} #{Thesaurus::VIEW.sample.capitalize} Map
+  .span4  
+    %a{:class=>"btn btn-primary", :href=>"#"} #{Thesaurus::CONTACT.sample.capitalize}
+  .span4
+    %a{:class=>"btn btn-info", :href=>"/info?seed=#{@seed}"} #{Thesaurus::ABOUT.sample.capitalize}

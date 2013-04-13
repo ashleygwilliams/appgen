@@ -1,8 +1,15 @@
 - @map_page = MapPresenter.new(@app.dataset)
 %header
-  %a.pull-left{:class=>"bttn bttn-back", :href=>"/?seed=#{@seed}"} &lt; Back
-  %a.pull-right{:class=>"bttn bttn-back", :href=>"/info?seed=#{@seed}"} Info
-  %h2.logo #{@app.name}
+  .navbar
+    .navbar-inner
+      %a.brand#logo{:href=>"/?seed=#{@seed}"} #{@app.name}
+      %ul.nav
+        %li
+          %a{:href=>"/info?seed=#{@seed}"} #{Thesaurus::ABOUT.sample.capitalize}
+        %li
+          %a{:href=>"/contact?seed=#{@seed}"} #{Thesaurus::CONTACT.sample.capitalize}
+        %li
+          %a{:href=>"/map?seed=#{@seed}"} #{Thesaurus::VIEW.sample.capitalize} Map
 #map
   :javascript
     var map = L.map('map');

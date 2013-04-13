@@ -1,5 +1,5 @@
 - @about_page = AboutPresenter.new(@app.dataset)
-%header  
+%header
   .navbar
     .navbar-inner
       %a.brand#logo{:href=>"/?seed=#{@seed}"} #{@app.name}
@@ -10,6 +10,5 @@
           %a{:href=>"/contact?seed=#{@seed}"} #{Thesaurus::CONTACT.sample.capitalize}
         %li
           %a{:href=>"/map?seed=#{@seed}"} #{Thesaurus::VIEW.sample.capitalize} Map
-%h1 about us
-%p #{@about_page.getDataDescription}
-
+%h1 #{Thesaurus::CONTACT.sample.capitalize}
+%p Do you #{Thesaurus::CARE.sample} #{@about_page.getDataTag}? Do you #{Thesaurus::CARE.sample} #{@about_page.getDataTag}? You should tell your congressman about it. The data is striking and the government needs to know!

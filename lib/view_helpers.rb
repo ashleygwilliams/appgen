@@ -26,4 +26,8 @@ class AboutPresenter
     @dataset.json_obj["category"]
   end
 
+  def getDataTag
+    @dataset.json_obj["tags"].sample
+  end
+
 end

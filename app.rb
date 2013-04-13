@@ -12,6 +12,7 @@ class BigApp < Sinatra::Application
 
   configure do
     set :root, File.dirname(__FILE__)
+    set :public_folder, Proc.new { File.join(root, "public") }
 
     Compass.configuration do |config|
       config.project_path = File.dirname(__FILE__)
@@ -50,9 +51,17 @@ class BigApp < Sinatra::Application
     haml File.read("views/boilerplates/#{@app.boilerplate}/info.haml")
   end
 
+  get '/contact' do
+    haml File.read("views/boilerplates/#{@app.boilerplate}/contact.haml")
+  end
+
   get "/stylesheet.css" do
     response['Content-Type'] = 'text/css'
     erb File.read("views/boilerplates/#{@app.boilerplate}/stylesheet.erb")
+  end
+
+  get "/bootstrap.css" do
+    File.readbootstrap.css
   end
 
   def partial(haml_file)
