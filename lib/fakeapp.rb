@@ -21,6 +21,8 @@ class FakeApp
   ]
   ZOOMS=(3..21).to_a
   BOILERPLATES = ["bootstrap", "jquerymobile"]
+  FONTS = ["Lobster", "Raleway","Lato","Oleo Script","Special Elite","Fredoka One"]
+  PATTERNS = ["img/bg_stripe.png", "img/bg_square.png"]
 
   def initialize
     @boilerplate = BOILERPLATES.sample
@@ -31,6 +33,7 @@ class FakeApp
     @@current_app = self
     @server = SERVERS.sample
     @zooms = (ZOOMS.sample 2).sort
+    @font = FONTS.sample
   end 
 
   def self.current_app

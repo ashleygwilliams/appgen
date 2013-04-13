@@ -1,0 +1,18 @@
+!!! 5
+%html
+  %head
+    %title 
+    %meta{:name => "viewport", :content => "width=device-width, initial-scale=1.0"}
+    %link{:rel => 'stylesheet', :type => 'text/css', :href => "stylesheet.css?seed=#{@seed}"}
+    %link{:rel => 'stylesheet', :type => 'text/css', :href => "http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.css"}
+    %link{:href=>"http://fonts.googleapis.com/css?family=#{@app.font.gsub(/ /, "+")}", :rel=>'stylesheet', :type=>'text/css'}
+    %script{:src => "http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.js"}
+  %body
+    #wrap
+      .container-fluid
+        =yield
+        #push
+    %footer
+      %span &copy Spring 2013
+    %script{:src => "http://code.jquery.com/jquery-1.9.1.min.js"}
+    %script{:type => "text/javascript", :src  => "/js/bootstrap.js"}
