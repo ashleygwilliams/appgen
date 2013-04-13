@@ -1,10 +1,11 @@
 #logo {
 	font-family: <%= '"' + @app.font + '"' %>;
+	color: <%= @app.colors[2] %>;
 }
 
-header {
-  margin-left: -$largespace;
-  margin-right: -$largespace;
+footer {
+	 background: <%= @app.colors[1] %>;
+	 padding: 20px;
 }
 
 #map { height: 500px; }

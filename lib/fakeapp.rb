@@ -1,7 +1,7 @@
 class FakeApp 
   @@current_app = nil
 
-  attr_accessor :name, :dataset, :font, :server, :zooms, :boilerplate, :tile_set, :navbar, :jquerytheme
+  attr_accessor :name, :dataset, :font, :server, :zooms, :boilerplate, :tile_set, :navbar, :jquerytheme, :colors
 
   PREFIXES = ["responsive", "game", "beta", "tech", "digital", "social", "my", "our", "the", "all", "in", "on"]
   SUFFIXES = ["box", "grid", "share", "wise", "hop", "works", "bit", "book", "list", "square", "rock", ".ly", "sy", "er", ".it", "ie", ".io", ".am", "ia", "ora", "ero", "ist", "ism", "ium", "ble", "ify", "ous", "ing"]
@@ -38,6 +38,7 @@ class FakeApp
     @font = FONTS.sample
     @navbar = "navbar " + NAV.sample
     @jquerytheme = JQUERYTHEME.sample
+    @colors = getRandomColor
   end 
 
   def self.current_app
@@ -50,6 +51,13 @@ class FakeApp
     else
       @subjects.sample + SUFFIXES.sample
     end
+  end
+
+  def getRandomColor
+    color1 = "#" + "%06x" % (rand * 0xffffff)
+    color2 = "#" + "%06x" % (rand * 0xffffff)
+    color3 = "#" + "%06x" % (rand * 0xffffff)
+    [color1, color2, color3]
   end
 
 end

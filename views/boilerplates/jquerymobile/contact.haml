@@ -1,7 +1,7 @@
 - @about_page = AboutPresenter.new(@app.dataset)
 %div{:data=>{:role=>"header", :theme=>"#{@app.jquerytheme}"}}
   %a{:href=>"/?seed=#{@seed}"} Home
-  %h1 #{@app.name}
+  %h1#logo #{@app.name}
 %h1 #{Thesaurus::CONTACT.sample.capitalize}
 %p Do you #{Thesaurus::CARE.sample} #{@about_page.getDataTag}? Do you #{Thesaurus::CARE.sample} #{@about_page.getDataTag}? You should tell your congressman about it. The data is striking and the government needs to know!
 .row-fluid

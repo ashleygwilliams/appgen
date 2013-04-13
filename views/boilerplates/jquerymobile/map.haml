@@ -1,7 +1,7 @@
 - @map_page = MapPresenter.new(@app.dataset)
 %div{:data=>{:role=>"header", :theme=>"#{@app.jquerytheme}"}}
   %a{:href=>"/?seed=#{@seed}"} Home
-  %h1 #{@app.name}
+  %h1#logo #{@app.name}
 #map
   :javascript
     var map = L.map('map');
