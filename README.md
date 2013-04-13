@@ -33,10 +33,10 @@ avoid changing anything about this method.
   * ~~Server header~~
 * Chrome
   * ~~Font size of title~~
-  * Typeface
+  * ~~Typeface~~
   * Background texture
-  * Colors
+  * ~~Colors~~
   * Footer stickiness
   * ~~Tile server~~
-  * Button curviness
+  * ~~Button curviness~~
   * ~~Map size~~
