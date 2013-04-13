@@ -38,15 +38,15 @@ class BigApp < Sinatra::Application
   end
 
   get '/' do
-    haml :index
+    haml File.read("views/boilerplates/#{@app.boilerplate}/index.haml")
   end
 
   get '/map' do
-    haml :map
+    haml File.read("views/boilerplates/#{@app.boilerplate}/map.haml")
   end
 
   get '/info' do
-    haml :info
+    haml File.read("views/boilerplates/#{@app.boilerplate}/info.haml")
   end
 
   get "/stylesheet.css" do

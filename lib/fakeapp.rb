@@ -1,8 +1,7 @@
 class FakeApp 
-  include Sass::Script::Functions
   @@current_app = nil
 
-  attr_accessor :name, :dataset, :font, :server, :zooms
+  attr_accessor :name, :dataset, :font, :server, :zooms, :boilerplate, :tile_set
 
   PREFIXES = ["responsive", "game", "beta", "tech", "digital", "social", "my", "our", "the", "all", "in", "on"]
   SUFFIXES = ["box", "grid", "share", "wise", "hop", "works", "bit", "book", "list", "square", "rock", ".ly", "sy", "er", ".it", "ie", ".io", ".am", "ia", "ora", "ero", "ist", "ism", "ium", "ble", "ify", "ous", "ing"]
@@ -21,17 +20,18 @@ class FakeApp
     "Apache/2.4.4 (Unix) OpenSSL/1.0.0g",
   ]
   ZOOMS=(3..21).to_a
+  BOILERPLATES = ["bootstrap", "jquerymobile"]
 
   def initialize
-    @font = getRandomFont
+    @boilerplate = BOILERPLATES.sample
     @dataset = Dataset.load_random
     @subjects = self.dataset.json_obj["tags"]
     @name = self.getRandomName
-    @tile_set = FakeApp.getRandomTiles
+    @tile_set = TILE_LAYERS.sample
     @@current_app = self
     @server = SERVERS.sample
     @zooms = (ZOOMS.sample 2).sort
-  end
+  end 
 
   def self.current_app
     @@current_app
@@ -43,10 +43,6 @@ class FakeApp
     else
       @subjects.sample + SUFFIXES.sample
     end
-  end
-
-  def self.getRandomTiles
-    TILE_LAYERS.sample
   end
 
 end

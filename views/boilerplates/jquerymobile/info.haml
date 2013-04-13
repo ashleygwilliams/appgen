@@ -1,0 +1,8 @@
+- @about_page = AboutPresenter.new(@app.dataset)
+%header
+  %a.pull-left{:class=>"bttn bttn-back", :href=>"/?seed=#{@seed}"} &lt; Back
+  %a.pull-right{:class=>"bttn bttn-back", :href=>"/info?seed=#{@seed}"} Info
+  %h2.logo #{@app.name}
+%h1 about us
+%p #{@about_page.getDataDescription}
+

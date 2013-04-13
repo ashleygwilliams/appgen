@@ -1,0 +1,32 @@
+- @map_page = MapPresenter.new(@app.dataset)
+%header
+  %a.pull-left{:class=>"bttn bttn-back", :href=>"/?seed=#{@seed}"} &lt; Back
+  %a.pull-right{:class=>"bttn bttn-back", :href=>"/info?seed=#{@seed}"} Info
+  %h2.logo #{@app.name}
+#map
+  :javascript
+    var map = L.map('map');
+    map.locate({setView: true, minZoom: #{@app.zooms[0]}, maxZoom: #{@app.zooms[1]}});
+    var data = #{@map_page.leaflet_geojson}
+
+    function onLocationFound(e) {
+      var radius = e.accuracy / 2;
+      L.marker(e.latlng).addTo(map)
+        .bindPopup("You are here").openPopup();
+      L.circle(e.latlng, radius).addTo(map);
+    }
+
+    map.on('locationfound', onLocationFound);
+
+    function onEachFeature(feature, layer) {
+      // does this feature have a property named popupContent?
+      if (feature.properties && feature.properties.popupContent) {
+        layer.bindPopup(feature.properties.popupContent);
+      }
+    }
+
+    L.tileLayer(#{@app.tile_set}).addTo(map);
+
+    L.geoJson(data,
+             {onEachFeature: onEachFeature}
+    ).addTo(map);

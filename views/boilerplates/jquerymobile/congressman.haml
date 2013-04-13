@@ -1,0 +1,4 @@
+- @about_page = AboutPresenter.new(@app.dataset)
+= partial(:_nav)
+%h1 #{Thesaurus::CONTACT.sample.capitalize}
+%p Do you #{Thesaurus::CARE.sample} #{@about_page.getDataTag}? Do you have #{Thesaurus::PASSION.sample} #{@about_page.getDataTag}? You should tell your congressman about it. The data is striking and the government needs to know!
