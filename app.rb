@@ -52,7 +52,7 @@ class BigApp < Sinatra::Application
 
   get "/stylesheet.css" do
     response['Content-Type'] = 'text/css'
-    erb :stylesheet
+    erb File.read("views/boilerplates/#{@app.boilerplate}/stylesheet.erb")
   end
 
   def partial(haml_file)
