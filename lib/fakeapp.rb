@@ -2,7 +2,7 @@ class FakeApp
   include Sass::Script::Functions
   @@current_app = nil
 
-  attr_accessor :name, :dataset, :font
+  attr_accessor :name, :dataset, :font, :server
 
   PREFIXES = ["responsive", "game", "beta", "tech", "digital", "social", "my", "our", "the", "all", "in", "on"]
   SUFFIXES = ["box", "grid", "share", "wise", "hop", "works", "bit", "book", "list", "square", "rock", ".ly", "sy", "er", ".it", "ie", ".io", ".am", "ia", "ora", "ero", "ist", "ism", "ium", "ble", "ify", "ous", "ing"]
@@ -11,6 +11,16 @@ class FakeApp
                   "'http://otile{s}.mqcdn.com/tiles/1.0.0/{type}/{z}/{x}/{y}.png', {subdomains: '1234', type: 'sat', attribution: 'MapQuestOpen'}",
                   '"http://{s}.tile.opencyclemap.org/cycle/{z}/{x}/{y}.png", {attribution: "OpenCycleMap"}'
   ]
+  SERVERS = [
+    "Server:Apache/2.2.14 (Unix) mod_ssl/2.2.14 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635",
+    "Apache/2.2",
+    "GitHub.com",
+    "Apache",
+    "nginx/1.0.0",
+    "Microsoft-IIS/7.5",
+    "Apache/2.4.4 (Unix) OpenSSL/1.0.0g",
+  ]
+
 
   def initialize
     @font = getRandomFont
@@ -19,6 +29,7 @@ class FakeApp
     @name = self.getRandomName
     @tile_set = FakeApp.getRandomTiles
     @@current_app = self
+    @server = SERVERS.sample
   end
 
   def self.current_app

@@ -33,6 +33,10 @@ class BigApp < Sinatra::Application
     @app = FakeApp.new
   end
 
+  after do
+    response['Server'] = @app.server
+  end
+
   get '/' do
     haml :index
   end

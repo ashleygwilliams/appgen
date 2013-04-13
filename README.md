@@ -26,10 +26,11 @@ avoid changing anything about this method.
 ## Things to randomize
 
 * Identity
-  * App name (from a startup name generator)
-  * App text (from the TED talk generator)
+  * ~~App name (from a startup name generator)~~
+  * ~~App text (from the TED talk generator)~~
   * App logo (from a logo generator)
   * Url file extension (php, asp, cgi)
+  * ~~Server header~~
 * Chrome
   * ~~Font size of title~~
   * Typeface
