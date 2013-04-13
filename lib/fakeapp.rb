@@ -1,7 +1,7 @@
 class FakeApp 
   @@current_app = nil
 
-  attr_accessor :name, :dataset, :font, :server, :zooms, :boilerplate, :tile_set, :navbar, :jquerytheme, :colors
+  attr_accessor :name, :dataset, :font, :server, :zooms, :boilerplate, :tile_set, :navbar, :jquerytheme, :colors, :bootstraptheme
 
   PREFIXES = ["responsive", "game", "beta", "tech", "digital", "social", "my", "our", "the", "all", "in", "on"]
   SUFFIXES = ["box", "grid", "share", "wise", "hop", "works", "bit", "book", "list", "square", "rock", ".ly", "sy", "er", ".it", "ie", ".io", ".am", "ia", "ora", "ero", "ist", "ism", "ium", "ble", "ify", "ous", "ing"]
@@ -25,6 +25,7 @@ class FakeApp
   PATTERNS = ["img/bg_stripe.png", "img/bg_square.png"]
   NAV = ["navbar-fixed", "navbar-fixed navbar-inverse", "navbar-inverse", ""]
   JQUERYTHEME = ["a", "b", "c", "d", "e"]
+  BOOTSTRAPTHEME = ["amelia", "bootstrap", "cerulean", "cosmo", "cyborg", "journal", "readable", "simplex", "slate", "spacelab", "spruce", "superhero", "united"]
 
   def initialize
     @boilerplate = BOILERPLATES.sample
@@ -39,6 +40,7 @@ class FakeApp
     @navbar = "navbar " + NAV.sample
     @jquerytheme = JQUERYTHEME.sample
     @colors = getRandomColor
+    @bootstraptheme = BOOTSTRAPTHEME.sample
   end 
 
   def self.current_app
