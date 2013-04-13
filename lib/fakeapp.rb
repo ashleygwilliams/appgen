@@ -1,7 +1,7 @@
 class FakeApp 
   @@current_app = nil
 
-  attr_accessor :name, :dataset, :font, :server, :zooms, :boilerplate, :tile_set, :navbar
+  attr_accessor :name, :dataset, :font, :server, :zooms, :boilerplate, :tile_set, :navbar, :jquerytheme
 
   PREFIXES = ["responsive", "game", "beta", "tech", "digital", "social", "my", "our", "the", "all", "in", "on"]
   SUFFIXES = ["box", "grid", "share", "wise", "hop", "works", "bit", "book", "list", "square", "rock", ".ly", "sy", "er", ".it", "ie", ".io", ".am", "ia", "ora", "ero", "ist", "ism", "ium", "ble", "ify", "ous", "ing"]
@@ -20,10 +20,11 @@ class FakeApp
     "Apache/2.4.4 (Unix) OpenSSL/1.0.0g",
   ]
   ZOOMS=(3..21).to_a
-  BOILERPLATES = ["bootstrap"]
+  BOILERPLATES = ["bootstrap", "jquerymobile"]
   FONTS = ["Lobster", "Raleway","Lato","Oleo Script","Special Elite","Fredoka One"]
   PATTERNS = ["img/bg_stripe.png", "img/bg_square.png"]
   NAV = ["navbar-fixed", "navbar-fixed navbar-inverse", "navbar-inverse", ""]
+  JQUERYTHEME = ["a", "b", "c", "d", "e"]
 
   def initialize
     @boilerplate = BOILERPLATES.sample
@@ -36,6 +37,7 @@ class FakeApp
     @zooms = (ZOOMS.sample 2).sort
     @font = FONTS.sample
     @navbar = "navbar " + NAV.sample
+    @jquerytheme = JQUERYTHEME.sample
   end 
 
   def self.current_app

@@ -1,8 +1,7 @@
 - @map_page = MapPresenter.new(@app.dataset)
-%header
-  %a.pull-left{:class=>"bttn bttn-back", :href=>"/?seed=#{@seed}"} &lt; Back
-  %a.pull-right{:class=>"bttn bttn-back", :href=>"/info?seed=#{@seed}"} Info
-  %h2.logo #{@app.name}
+%div{:data=>{:role=>"header", :theme=>"#{@app.jquerytheme}"}}
+  %a{:href=>"/?seed=#{@seed}"} Home
+  %h1 #{@app.name}
 #map
   :javascript
     var map = L.map('map');
@@ -30,3 +29,12 @@
     L.geoJson(data,
              {onEachFeature: onEachFeature}
     ).addTo(map);
+%div{:data=>{:role=>"footer", :theme=>"#{@app.jquerytheme}"}}
+  %div{:data=>{:role=>"navbar", :theme=>"#{@app.jquerytheme}"}}
+    %ul
+      %li
+        %a{:href=>"/info?seed=#{@seed}"} #{Thesaurus::ABOUT.sample.capitalize}
+      %li
+        %a{:href=>"/contact?seed=#{@seed}"} #{Thesaurus::CONTACT.sample.capitalize}
+      %li
+        %a{:href=>"/map?seed=#{@seed}"} #{Thesaurus::VIEW.sample.capitalize} Map

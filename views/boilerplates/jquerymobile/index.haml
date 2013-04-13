@@ -1,6 +1,12 @@
-.logo
-  %h1 #{@app.name}
-.navi
-  %a{:class=>"bttn bttn-primary", :href=> "/map?seed=#{@seed}"} #{Thesaurus::VIEW.sample.capitalize} Map
-  %a{:class=>"bttn bttn-primary", :href=>"#"} #{Thesaurus::CONTACT.sample.capitalize}
-  %a{:class=>"bttn bttn-info", :href=>"/info?seed=#{@seed}"} #{Thesaurus::ABOUT.sample.capitalize}
+.hero-unit  
+  %h1#logo #{@app.name}
+  %p
+  %p
+    %a{:class=>"btn btn-primary btn-large"} Check out the Data!
+%div{:data=>{:role=>"content"}}
+  .span4
+    %a{:data=>{:role=>"button", :icon=>"star", :theme=>"#{@app.jquerytheme}"}, :href=> "/map?seed=#{@seed}"} #{Thesaurus::VIEW.sample.capitalize} Map
+  .span4  
+    %a{:data=>{:role=>"button", :theme=>"#{@app.jquerytheme}"}, :href=>"#"} #{Thesaurus::CONTACT.sample.capitalize}
+  .span4
+    %a{:data=>{:role=>"button", :theme=>"#{@app.jquerytheme}"}, :href=>"/info?seed=#{@seed}"} #{Thesaurus::ABOUT.sample.capitalize}
