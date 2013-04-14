@@ -1,0 +1,20 @@
+- @about_page = AboutPresenter.new(@app.dataset)
+%header
+  %nav{:class=>"top-bar"}
+    %ul{:class=>"title-area"}
+      %li.name
+        %h1 #{@app.name}
+      %li{:class=>"toggle-topbar menu-icon"}
+        %a{:href=>"#"} Menu
+    %section{:class=>"top-bar-section"}
+      %ul.right
+        %li.divider
+        %li
+          %a{:href=>"/info?seed=#{@seed}"} #{Thesaurus::ABOUT.sample.capitalize}
+        %li
+          %a{:href=>"/contact?seed=#{@seed}"} #{Thesaurus::CONTACT.sample.capitalize}
+        %li
+          %a{:href=>"/map?seed=#{@seed}"} #{Thesaurus::VIEW.sample.capitalize} Map
+%h1 about us
+%p #{@about_page.getDataDescription}
+

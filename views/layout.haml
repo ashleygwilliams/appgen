@@ -6,6 +6,8 @@
     %link{:rel => 'stylesheet', :type => 'text/css', :href => "stylesheet.css?seed=#{@seed}"}
     %link{:rel => 'stylesheet', :type => 'text/css', :href => "http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.css"}
     %script{:src => "http://code.jquery.com/jquery-1.9.1.min.js"}
+    %link{:href=>"http://fonts.googleapis.com/css?family=#{@app.font.gsub(/ /, "+")}", :rel=>'stylesheet', :type=>'text/css'}
+    %script{:src => "http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.js"}
     - case @app.boilerplate
     - when "bootstrap"
       %link{:rel => 'stylesheet', :type => 'text/css', :href => "/css/bootstrap/#{@app.bootstraptheme}.css"}
@@ -16,8 +18,12 @@
       %link{:rel => 'stylesheet', :type => 'text/css', :href => "/css/kendo/kendo.common.min.css"}
       %link{:rel => 'stylesheet', :type => 'text/css', :href => "/css/kendo/kendo.#{@app.kendotheme}.min.css"}
       %script{:src => "/js/kendo/kendo.web.min.js"}
-    %link{:href=>"http://fonts.googleapis.com/css?family=#{@app.font.gsub(/ /, "+")}", :rel=>'stylesheet', :type=>'text/css'}
-    %script{:src => "http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.js"}
+    - when "foundation"
+      %link{:rel => 'stylesheet', :type => 'text/css', :href => "/css/foundation/foundation.min.css"}
+      %script{:src => "/js/vendor/custom.modernizr.js"}
+      %script{:src => "/js/vendor/zepto.js"}
+      %script{:src => "/js/foundation/foundation.js"}
+      %script{:src => "/js/foundation/foundation.topbar.js"}
   %body
     - case @app.boilerplate
     - when "bootstrap"
@@ -37,5 +43,9 @@
         $(document).ready(function() {
           $("#menu").kendoMenu();
         });
-
+    - when "foundation"
+      .container
+        =yield
+      :javascript
+        $(document).foundation();
     

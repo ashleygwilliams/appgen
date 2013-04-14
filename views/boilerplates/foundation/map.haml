@@ -1,0 +1,44 @@
+- @map_page = MapPresenter.new(@app.dataset)
+%header
+  %nav{:class=>"top-bar"}
+    %ul{:class=>"title-area"}
+      %li.name
+        %h1 #{@app.name}
+      %li{:class=>"toggle-topbar menu-icon"}
+        %a{:href=>"#"} Menu
+    %section{:class=>"top-bar-section"}
+      %ul.right
+        %li.divider
+        %li
+          %a{:href=>"/info?seed=#{@seed}"} #{Thesaurus::ABOUT.sample.capitalize}
+        %li
+          %a{:href=>"/contact?seed=#{@seed}"} #{Thesaurus::CONTACT.sample.capitalize}
+        %li
+          %a{:href=>"/map?seed=#{@seed}"} #{Thesaurus::VIEW.sample.capitalize} Map
+#map
+  :javascript
+    var map = L.map('map');
+    map.locate({setView: true, minZoom: #{@app.zooms[0]}, maxZoom: #{@app.zooms[1]}});
+    var data = #{@map_page.leaflet_geojson}
+
+    function onLocationFound(e) {
+      var radius = e.accuracy / 2;
+      L.marker(e.latlng).addTo(map)
+        .bindPopup("You are here").openPopup();
+      L.circle(e.latlng, radius).addTo(map);
+    }
+
+    map.on('locationfound', onLocationFound);
+
+    function onEachFeature(feature, layer) {
+      // does this feature have a property named popupContent?
+      if (feature.properties && feature.properties.popupContent) {
+        layer.bindPopup(feature.properties.popupContent);
+      }
+    }
+
+    L.tileLayer(#{@app.tile_set}).addTo(map);
+
+    L.geoJson(data,
+             {onEachFeature: onEachFeature}
+    ).addTo(map);

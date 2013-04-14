@@ -20,7 +20,7 @@ class FakeApp
     "Apache/2.4.4 (Unix) OpenSSL/1.0.0g",
   ]
   ZOOMS=(3..21).to_a
-  BOILERPLATES = ["bootstrap", "jquerymobile", "kendoui"]
+  BOILERPLATES = ["bootstrap", "jquerymobile", "kendoui", "foundation"]
   FONTS = ["Lobster", "Raleway","Lato","Oleo Script","Special Elite","Fredoka One"]
   PATTERNS = ["img/bg_stripe.png", "img/bg_square.png"]
   NAV = ["navbar-fixed", "navbar-fixed navbar-inverse", "navbar-inverse", ""]

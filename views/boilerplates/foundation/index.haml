@@ -1,0 +1,28 @@
+%header
+  %nav{:class=>"top-bar"}
+    %ul{:class=>"title-area"}
+      %li.name
+        %h1 #{@app.name}
+      %li{:class=>"toggle-topbar menu-icon"}
+        %a{:href=>"#"} Menu
+    %section{:class=>"top-bar-section"}
+      %ul.right
+        %li.divider
+        %li
+          %a{:href=>"/info?seed=#{@seed}"} #{Thesaurus::ABOUT.sample.capitalize}
+        %li
+          %a{:href=>"/contact?seed=#{@seed}"} #{Thesaurus::CONTACT.sample.capitalize}
+        %li
+          %a{:href=>"/map?seed=#{@seed}"} #{Thesaurus::VIEW.sample.capitalize} Map
+.container
+  %h1#logo #{@app.name}
+  .panel
+  .panel.callout
+    %a{:class=>"large button round success"} Check out the Data!
+.row-fluid
+  .span4
+    %a{:class=>"btn btn-primary", :href=> "/map?seed=#{@seed}"} #{Thesaurus::VIEW.sample.capitalize} Map
+  .span4  
+    %a{:class=>"btn btn-primary", :href=>"/contact?seed=#{@app}"} #{Thesaurus::CONTACT.sample.capitalize}
+  .span4
+    %a{:class=>"btn btn-info", :href=>"/info?seed=#{@seed}"} #{Thesaurus::ABOUT.sample.capitalize}

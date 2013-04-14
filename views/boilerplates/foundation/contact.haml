@@ -1,0 +1,38 @@
+- @about_page = AboutPresenter.new(@app.dataset)
+%header
+  %nav{:class=>"top-bar"}
+    %ul{:class=>"title-area"}
+      %li.name
+        %h1 #{@app.name}
+      %li{:class=>"toggle-topbar menu-icon"}
+        %a{:href=>"#"} Menu
+    %section{:class=>"top-bar-section"}
+      %ul.right
+        %li.divider
+        %li
+          %a{:href=>"/info?seed=#{@seed}"} #{Thesaurus::ABOUT.sample.capitalize}
+        %li
+          %a{:href=>"/contact?seed=#{@seed}"} #{Thesaurus::CONTACT.sample.capitalize}
+        %li
+          %a{:href=>"/map?seed=#{@seed}"} #{Thesaurus::VIEW.sample.capitalize} Map
+%h1 #{Thesaurus::CONTACT.sample.capitalize}
+%p Do you #{Thesaurus::CARE.sample} #{@about_page.getDataTag}? Do you #{Thesaurus::CARE.sample} #{@about_page.getDataTag}? You should tell your congressman about it. The data is striking and the government needs to know!
+.row
+  .congressman.large-4.panel.columns
+    %p Your local congress man is 
+    %img.img.img-polaroid{:src=>"http://placehold.it/200x200"}
+  .large-8.columns.panel.callout
+    %form
+      .row
+        .small-8
+          .row
+            .small-3.columns
+              %label.right.inline{:for=>"inputName"} Your name
+            .small-9.columns
+              %input#inputName{:type=>"text", :placeholder=>"Name"}
+          .row
+            .small-3.columns
+              %label.right{:for=>"inputEmail"} Your email
+            .small-9.columns
+              %input#inputEmail{:type=>"text", :placeholder=>"Email"}
+          %a.button.round.large.success Submit
