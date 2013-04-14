@@ -1,0 +1,18 @@
+- @about_page = AboutPresenter.new(@app.dataset)
+%header
+  %a{:href=>"/?seed=#{@seed}"}
+    %h1#logo #{@app.name}
+  %ul#menu
+    %li.k-state-active
+      %a{:href=>"/info?seed=#{@seed}"} #{Thesaurus::ABOUT.sample.capitalize}
+    %li
+      %a{:href=>"/contact?seed=#{@seed}"} #{Thesaurus::CONTACT.sample.capitalize}
+    %li
+      %a{:href=>"/map?seed=#{@seed}"} #{Thesaurus::VIEW.sample.capitalize} Map
+%h1 about us
+%p #{@about_page.getDataDescription}
+%div{:data=>{:role=>"footer"}}
+  %div{:data=>{:role=>"tabstrip"}}
+    %a{:href=>"/info?seed=#{@seed}"} #{Thesaurus::ABOUT.sample.capitalize}
+    %a{:href=>"/contact?seed=#{@seed}"} #{Thesaurus::CONTACT.sample.capitalize}
+    %a{:href=>"/map?seed=#{@seed}"} #{Thesaurus::VIEW.sample.capitalize} Map

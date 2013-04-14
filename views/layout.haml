@@ -5,13 +5,17 @@
     %meta{:name => "viewport", :content => "width=device-width, initial-scale=1.0"}
     %link{:rel => 'stylesheet', :type => 'text/css', :href => "stylesheet.css?seed=#{@seed}"}
     %link{:rel => 'stylesheet', :type => 'text/css', :href => "http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.css"}
+    %script{:src => "http://code.jquery.com/jquery-1.9.1.min.js"}
     - case @app.boilerplate
     - when "bootstrap"
       %link{:rel => 'stylesheet', :type => 'text/css', :href => "/css/bootstrap/#{@app.bootstraptheme}.css"}
     - when "jquerymobile"
       %link{:rel => 'stylesheet', :type => 'text/css', :href => "/css/jquery.mobile-1.3.1.css"}
-      %script{:src => "http://code.jquery.com/jquery-1.9.1.min.js"}
       %script{:src => "/js/jquery.mobile-1.3.1.js"}
+    - when "kendoui"
+      %link{:rel => 'stylesheet', :type => 'text/css', :href => "/css/kendo/kendo.common.min.css"}
+      %link{:rel => 'stylesheet', :type => 'text/css', :href => "/css/kendo/kendo.#{@app.kendotheme}.min.css"}
+      %script{:src => "/js/kendo/kendo.web.min.js"}
     %link{:href=>"http://fonts.googleapis.com/css?family=#{@app.font.gsub(/ /, "+")}", :rel=>'stylesheet', :type=>'text/css'}
     %script{:src => "http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.js"}
   %body
@@ -26,5 +30,12 @@
     - when "jquerymobile"
       %div{:data=>{:role=>"page"}}
         =yield
+    - when "kendoui"
+      %div#index{:data=>{:role=>"view", :title=>"View"}}
+        =yield
+      :javascript
+        $(document).ready(function() {
+          $("#menu").kendoMenu();
+        });
 
     

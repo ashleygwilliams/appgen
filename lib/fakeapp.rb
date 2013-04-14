@@ -1,7 +1,7 @@
 class FakeApp 
   @@current_app = nil
 
-  attr_accessor :name, :dataset, :font, :server, :zooms, :boilerplate, :tile_set, :navbar, :jquerytheme, :colors, :bootstraptheme
+  attr_accessor :name, :dataset, :font, :server, :zooms, :boilerplate, :tile_set, :navbar, :jquerytheme, :colors, :bootstraptheme, :kendotheme
 
   PREFIXES = ["responsive", "game", "beta", "tech", "digital", "social", "my", "our", "the", "all", "in", "on"]
   SUFFIXES = ["box", "grid", "share", "wise", "hop", "works", "bit", "book", "list", "square", "rock", ".ly", "sy", "er", ".it", "ie", ".io", ".am", "ia", "ora", "ero", "ist", "ism", "ium", "ble", "ify", "ous", "ing"]
@@ -20,12 +20,13 @@ class FakeApp
     "Apache/2.4.4 (Unix) OpenSSL/1.0.0g",
   ]
   ZOOMS=(3..21).to_a
-  BOILERPLATES = ["bootstrap", "jquerymobile"]
+  BOILERPLATES = ["bootstrap", "jquerymobile", "kendoui"]
   FONTS = ["Lobster", "Raleway","Lato","Oleo Script","Special Elite","Fredoka One"]
   PATTERNS = ["img/bg_stripe.png", "img/bg_square.png"]
   NAV = ["navbar-fixed", "navbar-fixed navbar-inverse", "navbar-inverse", ""]
   JQUERYTHEME = ["a", "b", "c", "d", "e"]
   BOOTSTRAPTHEME = ["amelia", "bootstrap", "cerulean", "cosmo", "cyborg", "journal", "readable", "simplex", "slate", "spacelab", "spruce", "superhero", "united"]
+  KENDOTHEME = ["black", "blueopal", "bootstrap", "default", "highcontrast", "metro", "metroblack", "moonlight", "rtl", "silver", "uniform"]
 
   def initialize
     @boilerplate = BOILERPLATES.sample
@@ -41,6 +42,7 @@ class FakeApp
     @jquerytheme = JQUERYTHEME.sample
     @colors = getRandomColor
     @bootstraptheme = BOOTSTRAPTHEME.sample
+    @kendotheme = KENDOTHEME.sample
   end 
 
   def self.current_app
