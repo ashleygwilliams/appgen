@@ -1,7 +1,7 @@
 class FakeApp 
   @@current_app = nil
 
-  attr_accessor :name, :dataset, :font, :server, :zooms, :boilerplate, :tile_set, :navbar, :jquerytheme, :colors, :bootstraptheme, :kendotheme
+  attr_accessor :name, :dataset, :font, :server, :zooms, :boilerplate, :tile_set, :navbar, :jquerytheme, :colors, :bootstraptheme, :kendotheme, :foundationtheme
 
   PREFIXES = ["responsive", "game", "beta", "tech", "digital", "social", "my", "our", "the", "all", "in", "on"]
   SUFFIXES = ["box", "grid", "share", "wise", "hop", "works", "bit", "book", "list", "square", "rock", ".ly", "sy", "er", ".it", "ie", ".io", ".am", "ia", "ora", "ero", "ist", "ism", "ium", "ble", "ify", "ous", "ing"]
@@ -27,6 +27,7 @@ class FakeApp
   JQUERYTHEME = ["a", "b", "c", "d", "e"]
   BOOTSTRAPTHEME = ["amelia", "bootstrap", "cerulean", "cosmo", "cyborg", "journal", "readable", "simplex", "slate", "spacelab", "spruce", "superhero", "united"]
   KENDOTHEME = ["black", "blueopal", "bootstrap", "default", "highcontrast", "metro", "metroblack", "moonlight", "rtl", "silver", "uniform"]
+  FOUNDATIONTHEME = ["default", "evergreen", "coffeenmilk", "bladesofsteel"]
 
   def initialize
     @boilerplate = BOILERPLATES.sample
@@ -43,6 +44,7 @@ class FakeApp
     @colors = getRandomColor
     @bootstraptheme = BOOTSTRAPTHEME.sample
     @kendotheme = KENDOTHEME.sample
+    @foundationtheme = FOUNDATIONTHEME.sample
   end 
 
   def self.current_app
